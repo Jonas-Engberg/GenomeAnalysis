@@ -3,7 +3,7 @@
 #SBATCH -A g2020008
 #SBATCH -p core
 #SBATCH -n 2
-#SBATCH -t 00:00:00
+#SBATCH -t 02:25:00
 #SBATCH -J Preprocessing_of_Data_JE
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user earthius@gmail.com
