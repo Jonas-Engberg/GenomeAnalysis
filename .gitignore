@@ -1,0 +1,11 @@
+/home/joen8526/GenomeAnalysis/data
+*.fasta
+*.fa
+*.fastq
+*.fq
+*.BAM
+*.bam
+*.SAM
+*.sam
+*.gz
+*.zip
