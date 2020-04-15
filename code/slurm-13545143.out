@@ -1,0 +1,15 @@
+	trimmomatic 0.36 loaded, see 'module help trimmomatic/0.36' for more information.
+Usage: 
+       PE [-version] [-threads <threads>] [-phred33|-phred64] [-trimlog <trimLogFile>] [-quiet] [-validatePairs] [-basein <inputBase> | <inputFile1> <inputFile2>] [-baseout <outputBase> | <outputFile1P> <outputFile1U> <outputFile2P> <outputFile2U>] <trimmer1>...
+   or: 
+       SE [-version] [-threads <threads>] [-phred33|-phred64] [-trimlog <trimLogFile>] [-quiet] <inputFile> <outputFile> <trimmer1>...
+   or: 
+       -version
+/var/spool/slurmd/job13545143/slurm_script: line 23: /home/joen8526/GenomeAnalysis/data/raw_data/RNA_untrimmed/SRR4342137.1.fastq.gz: cannot execute binary file
+Usage: 
+       PE [-version] [-threads <threads>] [-phred33|-phred64] [-trimlog <trimLogFile>] [-quiet] [-validatePairs] [-basein <inputBase> | <inputFile1> <inputFile2>] [-baseout <outputBase> | <outputFile1P> <outputFile1U> <outputFile2P> <outputFile2U>] <trimmer1>...
+   or: 
+       SE [-version] [-threads <threads>] [-phred33|-phred64] [-trimlog <trimLogFile>] [-quiet] <inputFile> <outputFile> <trimmer1>...
+   or: 
+       -version
+/var/spool/slurmd/job13545143/slurm_script: line 32: /home/joen8526/GenomeAnalysis/data/raw_data/RNA_untrimmed/SRR4342139.1.fastq.gz: cannot execute binary file
