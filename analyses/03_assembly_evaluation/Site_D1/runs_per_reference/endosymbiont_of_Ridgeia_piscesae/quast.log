@@ -1,0 +1,123 @@
+/sw/bioinfo/quast/4.5.4/rackham/bin/quast.py -t 2 --sv-bed /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/combined_reference.bed --cov /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/combined_reference.cov --phys-cov /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/combined_reference.physical.cov --colors #E31A1C --ls solid --no-check-meta --contig-thresholds 1000,5000,10000,25000,50000 --memory-efficient -t 1 /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_corrected_input/final-contigs_to_endosymbiont_of_Ridgeia_piscesae.fasta -R /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_corrected_input/endosymbiont_of_Ridgeia_piscesae.fasta -o /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/endosymbiont_of_Ridgeia_piscesae --labels final.contigs
+
+Started: 2020-04-16 15:06:39
+
+Logging to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/endosymbiont_of_Ridgeia_piscesae/quast.log
+
+CWD: /domus/h1/joen8526/GenomeAnalysis/code
+Main parameters: 
+  Threads: 1, minimum contig length: 500, ambiguity: one, threshold for extensive misassembly size: 1000
+
+Reference:
+  /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_corrected_input/endosymbiont_of_Ridgeia_piscesae.fasta ==> endosymbiont_of_Ridgeia_piscesae
+
+Contigs:
+  Pre-processing...
+  /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_corrected_input/final-contigs_to_endosymbiont_of_Ridgeia_piscesae.fasta ==> final.contigs
+
+2020-04-16 15:06:39
+Running Basic statistics processor...
+  Reference genome:
+    endosymbiont_of_Ridgeia_piscesae.fasta, length = 3442017, num fragments = 86, GC % = 58.88
+WARNING:   Reference genome is fragmented. You may consider rerunning QUAST using --fragmented option. QUAST will try to detect misassemblies caused by the fragmentation and mark them fake (will be excluded from # misassemblies).
+  Contig files: 
+    final.contigs
+  Calculating N50 and L50...
+    final.contigs, N50 = 622, L50 = 2, Total length = 1793, GC % = 52.26, # N's per 100 kbp =  0.00
+  Drawing Nx plot...
+    saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/endosymbiont_of_Ridgeia_piscesae/basic_stats/Nx_plot.pdf
+  Drawing NGx plot...
+    saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/endosymbiont_of_Ridgeia_piscesae/basic_stats/NGx_plot.pdf
+  Drawing cumulative plot...
+    saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/endosymbiont_of_Ridgeia_piscesae/basic_stats/cumulative_plot.pdf
+  Drawing GC content plot...
+    saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/endosymbiont_of_Ridgeia_piscesae/basic_stats/GC_content_plot.pdf
+  Drawing final.contigs GC content plot...
+    saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/endosymbiont_of_Ridgeia_piscesae/basic_stats/final.contigs_GC_content_plot.pdf
+Done.
+
+2020-04-16 15:06:41
+Running Contig analyzer...
+  final.contigs
+  Logging to files /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/endosymbiont_of_Ridgeia_piscesae/contigs_reports/contigs_report_final-contigs.stdout and contigs_report_final-contigs.stderr...
+  Aligning contigs to the reference
+  /sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/MUMmer/nucmer \
+  -c 65 -l 65 --maxmatch -p /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/endosymbiont_of_Ridgeia_piscesae/contigs_reports/nucmer_output/final-contigs \
+  --emem -t 1 /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_corrected_input/endosymbiont_of_Ridgeia_piscesae.fasta \
+  /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_corrected_input/final-contigs_to_endosymbiont_of_Ridgeia_piscesae.fasta \
+  >> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/endosymbiont_of_Ridgeia_piscesae/contigs_reports/contigs_report_final-contigs.stdout \
+  2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/endosymbiont_of_Ridgeia_piscesae/contigs_reports/contigs_report_final-contigs.stderr
+  /sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/MUMmer/delta-filter \
+  -i 95.0 -l 0 /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/endosymbiont_of_Ridgeia_piscesae/contigs_reports/nucmer_output/final-contigs.delta \
+  > /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/endosymbiont_of_Ridgeia_piscesae/contigs_reports/nucmer_output/final-contigs.fdelta \
+  2> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/endosymbiont_of_Ridgeia_piscesae/contigs_reports/contigs_report_final-contigs.stderr
+  /sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/MUMmer/mummerplot \
+  --html --layout -p /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/endosymbiont_of_Ridgeia_piscesae/contigs_reports/nucmer_output/final-contigs \
+  /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/endosymbiont_of_Ridgeia_piscesae/contigs_reports/nucmer_output/final-contigs.delta \
+  > /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/endosymbiont_of_Ridgeia_piscesae/contigs_reports/contigs_report_final-contigs.stdout \
+  2> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/endosymbiont_of_Ridgeia_piscesae/contigs_reports/contigs_report_final-contigs.stderr
+  /sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/gnuplot/src/gnuplot \
+  /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/endosymbiont_of_Ridgeia_piscesae/contigs_reports/nucmer_output/final-contigs.gp \
+  > /dev/null 2> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/endosymbiont_of_Ridgeia_piscesae/contigs_reports/contigs_report_final-contigs.stderr
+  MUMmer plot saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/endosymbiont_of_Ridgeia_piscesae/contigs_reports/final-contigs_mummerplot.html
+  /sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/MUMmer/show-coords \
+  /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/endosymbiont_of_Ridgeia_piscesae/contigs_reports/nucmer_output/final-contigs.delta \
+  > /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/endosymbiont_of_Ridgeia_piscesae/contigs_reports/nucmer_output/final-contigs.coords_tmp \
+  2> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/endosymbiont_of_Ridgeia_piscesae/contigs_reports/contigs_report_final-contigs.stderr
+  /sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/MUMmer/show-snps \
+  -S -T -H /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/endosymbiont_of_Ridgeia_piscesae/contigs_reports/nucmer_output/final-contigs.delta \
+  < /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/endosymbiont_of_Ridgeia_piscesae/contigs_reports/nucmer_output/final-contigs.coords.headless \
+  > /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/endosymbiont_of_Ridgeia_piscesae/contigs_reports/nucmer_output/final-contigs.all_snps \
+  2> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/endosymbiont_of_Ridgeia_piscesae/contigs_reports/contigs_report_final-contigs.stderr
+  Analysis is finished.
+
+  Gzipping /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/endosymbiont_of_Ridgeia_piscesae/contigs_reports/nucmer_output/final-contigs.all_snps to reduce disk space usage...
+    saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/endosymbiont_of_Ridgeia_piscesae/contigs_reports/nucmer_output/final-contigs.all_snps.gz
+  Creating total report...
+    saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/endosymbiont_of_Ridgeia_piscesae/contigs_reports/misassemblies_report.txt, misassemblies_report.tsv, and misassemblies_report.tex
+  Transposed version of total report...
+    saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/endosymbiont_of_Ridgeia_piscesae/contigs_reports/transposed_report_misassemblies.txt, transposed_report_misassemblies.tsv, and transposed_report_misassemblies.tex
+  Creating total report...
+    saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/endosymbiont_of_Ridgeia_piscesae/contigs_reports/unaligned_report.txt, unaligned_report.tsv, and unaligned_report.tex
+  Drawing misassemblies by types plot...
+    saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/endosymbiont_of_Ridgeia_piscesae/contigs_reports/misassemblies_plot.pdf
+  Drawing misassemblies FRCurve plot...
+    saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/endosymbiont_of_Ridgeia_piscesae/contigs_reports/misassemblies_frcurve_plot.pdf
+Done.
+
+2020-04-16 15:06:43
+Running NA-NGA calculation...
+  final.contigs, Largest alignment = 215, NA50 = None, LA50 = None
+  Drawing cumulative plot...
+    saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/endosymbiont_of_Ridgeia_piscesae/aligned_stats/cumulative_plot.pdf
+  Drawing NAx plot...
+    saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/endosymbiont_of_Ridgeia_piscesae/aligned_stats/NAx_plot.pdf
+  Drawing NGAx plot...
+    saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/endosymbiont_of_Ridgeia_piscesae/aligned_stats/NGAx_plot.pdf
+Done.
+
+2020-04-16 15:06:44
+Running Genome analyzer...
+  NOTICE: No file with genes provided. Use the -G option if you want to specify it.
+  NOTICE: No file with operons provided. Use the -O option if you want to specify it.
+  final.contigs
+  Analysis is finished.
+  Skipping drawing Genome fraction, % histogram... (less than 2 columns histogram makes no sense)
+Done.
+
+NOTICE: Genes are not predicted by default. Use --gene-finding option to enable it.
+
+2020-04-16 15:06:45
+Creating large visual summaries...
+This may take a while: press Ctrl-C to skip this step..
+  1 of 2: Creating Icarus viewers...
+  2 of 2: Creating PDF with all tables and plots...
+Done
+
+2020-04-16 15:07:24
+RESULTS:
+  Text versions of total report are saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/endosymbiont_of_Ridgeia_piscesae/report.txt, report.tsv, and report.tex
+  Text versions of transposed total report are saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/endosymbiont_of_Ridgeia_piscesae/transposed_report.txt, transposed_report.tsv, and transposed_report.tex
+  HTML version (interactive tables and plots) saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/endosymbiont_of_Ridgeia_piscesae/report.html
+  PDF version (tables and plots) is saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/endosymbiont_of_Ridgeia_piscesae/report.pdf
+  Icarus (contig browser) is saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/endosymbiont_of_Ridgeia_piscesae/icarus.html

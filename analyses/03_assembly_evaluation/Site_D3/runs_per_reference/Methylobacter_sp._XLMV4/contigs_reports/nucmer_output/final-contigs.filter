@@ -1,0 +1,8 @@
+/home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D3/quast_corrected_input/Methylobacter_sp._XLMV4.fasta /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D3/quast_corrected_input/final-contigs_to_Methylobacter_sp._XLMV4.fasta
+NUCMER
+>Methylobacter_sp._XLMV4_NZ_WUTY01000014.1_Methylicorpusculum_oleiharenae_strain_XLMV4_draft_NODE_15_len_5558_cov_929_904663.14__whole_genome_shotgun_sequence k105_104267_flag_0_multi_22.0000_len_671 5652 671
+4202 4416 457 671 7 7 0
+0
+>Methylobacter_sp._XLMV4_NZ_WUTY01000228.1_Methylicorpusculum_oleiharenae_strain_XLMV4_draft_NODE_287_len_71341_cov_460_974518.228__whole_genome_shotgun_sequence k105_128999_flag_1_multi_2.0000_len_503 71435 503
+71222 71300 396 474 1 1 0
+0

@@ -1,0 +1,75 @@
+gnuplot 4.6 patchlevel 2
+Aligning contigs to reference...
+	Aligning contigs to the reference
+Parsing coords...
+Loading reference...
+	Loaded [Gimesia_maris_NZ_CP043931.1_Gimesia_maris_strain_DSM_8797_chromosome__complete_genome]
+Loading SNPs...
+	Total Regions: 1
+	Total Region Length: 7818248
+Analyzing contigs...
+CONTIG: k105_25911_flag_1_multi_2.0000_len_564 (564bp)
+Best alignment score: 520.0 (LEN: 545, IDY: 95.41)
+			The best set is below. Score: 520.0, number of alignments: 1, unaligned bases: 19
+		Alignment: 5514867 5515411 | 564 20 | 545 545 | 95.41 | Gimesia_maris_NZ_CP043931.1_Gimesia_maris_strain_DSM_8797_chromosome__complete_genome k105_25911_flag_1_multi_2.0000_len_564
+
+CONTIG: k105_128174_flag_1_multi_3.0000_len_2945 (2945bp)
+Best alignment score: 75.0 (LEN: 76, IDY: 98.68)
+			The best set is below. Score: 75.0, number of alignments: 1, unaligned bases: 2869
+		This contig is partially unaligned. (Aligned 76 out of 2945 bases)
+		Alignment: 436320 436395 | 2091 2016 | 76 76 | 98.68 | Gimesia_maris_NZ_CP043931.1_Gimesia_maris_strain_DSM_8797_chromosome__complete_genome k105_128174_flag_1_multi_3.0000_len_2945
+		Unaligned bases: 1 to 2015 (2015)
+		Unaligned bases: 2092 to 2945 (854)
+
+Analyzing coverage...
+Writing SNPs into /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/Gimesia_maris/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+	Reference Gimesia_maris_NZ_CP043931.1_Gimesia_maris_strain_DSM_8797_chromosome__complete_genome: 2 total alignments. 1 total regions.
+		Region: 1 to 7818248 (7818248 bp)
+			START in gap: 1 to 436320 (436319 bp)
+			Align 1: 436320 436395 k105_128174_flag_1_multi_3.0000_len_2945 2091 2016
+				Gap between this and next alignment: 436395 to 5514867 (5078471 bp)
+				Next Alignment: 5514867 5515411 k105_25911_flag_1_multi_2.0000_len_564 564 20
+
+			Align 2: 5514867 5515411 k105_25911_flag_1_multi_2.0000_len_564 564 20
+			END in gap: 5515411 to 7818248 (2302837 bp).
+
+Analysis is finished!
+Founded SNPs were written into /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/Gimesia_maris/contigs_reports/nucmer_output/final-contigs.used_snps.gz
+
+Results:
+	Local Misassemblies: 0
+	Misassemblies: 0
+		Relocations: 0
+		Translocations: 0
+		Inversions: 0
+	Fake misassemblies matched with structural variations: 0
+	Misassembled Contigs: 0
+	Misassembled Contig Bases: 0
+	Misassemblies Inter-Contig Overlap: 0
+Uncovered Regions: 0 (0)
+Unaligned Contigs: 0 + 1 part
+Half Unaligned Contigs with Misassemblies: 0
+Unaligned Contig Bases: 2869
+
+Ambiguously Mapped Contigs: 0
+Total Bases in Ambiguously Mapped Contigs: 0
+Extra Bases in Ambiguously Mapped Contigs: 0
+Note that --allow-ambiguity option was set to "one" and only first alignment per each of these contigs was used.
+
+	Covered Bases: 621
+
+	SNPs: 26
+	Insertions: 0
+	Deletions: 0
+
+	Positive Gaps: 3
+		Internal Gaps: 0
+		External Gaps: 3
+		External Gap Total: 7817627
+		External Gap Average: 2605876
+	Negative Gaps: 0
+		Internal Overlaps: 0
+		External Overlaps: 0
+		External Overlaps Total: 0
+		External Overlaps Average: 0
+	Contigs with Redundant Alignments: 0 (0)

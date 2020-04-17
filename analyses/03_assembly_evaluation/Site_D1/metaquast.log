@@ -1,0 +1,688 @@
+/sw/bioinfo/quast/4.5.4/rackham/bin/metaquast.py /home/joen8526/GenomeAnalysis/data/assembled_genome_data/Site_D1/final.contigs.fa -o /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1 -t 2 -1 /home/joen8526/GenomeAnalysis/data/raw_data/DNA_trimmed/SRR4342129_1.paired.trimmed.fastq.gz -2 /home/joen8526/GenomeAnalysis/data/raw_data/DNA_trimmed/SRR4342129_2.paired.trimmed.fastq.gz
+
+Version: 4.5.4
+
+System information:
+  OS: Linux-3.10.0-1062.18.1.el7.x86_64-x86_64-with-centos-7.7.1908-Core (linux_64)
+  Python version: 2.7.6
+  CPUs number: 20
+
+Started: 2020-04-16 13:41:25
+
+Logging to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/metaquast.log
+
+Contigs:
+  Pre-processing...
+  /home/joen8526/GenomeAnalysis/data/assembled_genome_data/Site_D1/final.contigs.fa ==> final.contigs
+
+No references are provided, starting to search for reference genomes in SILVA 16S rRNA database and to download them from NCBI...
+
+2020-04-16 13:41:28
+
+
+Running BlastN..
+  processing final.contigs
+/home/joen8526/.quast/blast/blastn -query /home/joen8526/GenomeAnalysis/data/assembled_genome_data/Site_D1/final.contigs.fa \
+-db /home/joen8526/.quast/silva/silva.123.db -outfmt 7 -num_threads 2 > /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_downloaded_references/blast.res_final-contigs \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_downloaded_references/blast.err
+  BLAST results for final.contigs are saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_downloaded_references/blast.res_final-contigs...
+
+
+2020-04-16 13:51:29
+Trying to download found references from NCBI. Totally 50 organisms to try.
+marine metagenome has too fragmented reference genome! It will not be downloaded.
+  marine_metagenome                                        | not found in the NCBI database
+  marine_gamma_proteobacterium_HTCC2080                    | successfully downloaded (total 1, 48 more to go)
+  Rhodobacteraceae_bacterium_HIMB11                        | successfully downloaded (total 2, 47 more to go)
+  Aciditerrimonas_sp._CH22-21                              | not found in the NCBI database
+  Synechococcus_sp._WH_7803                                | successfully downloaded (total 3, 45 more to go)
+  Algibacter_sp._PAMC_27237                                | not found in the NCBI database
+  unidentified_marine_bacterioplankton                     | not found in the NCBI database
+  Actinomycetales_bacterium_GP-5                           | not found in the NCBI database
+  Devosia_sp._DDB001                                       | not found in the NCBI database
+  magnetic_coccus_MP17                                     | not found in the NCBI database
+  Aquibacter_zeaxanthinifaciens                            | not found in the NCBI database
+  Chromatocurvus_halotolerans                              | successfully downloaded (total 4, 38 more to go)
+  Ochrobactrum_grignonense                                 | successfully downloaded (total 5, 37 more to go)
+  Acidithiomicrobium_sp._P1                                | not found in the NCBI database
+  Blastopirellula_marina                                   | successfully downloaded (total 6, 35 more to go)
+  gamma_proteobacterium_SCGC_AB-629-P17                    | successfully downloaded (total 7, 34 more to go)
+  Puniceicoccus_vermicola                                  | not found in the NCBI database
+  Dehalogenimonas_lykanthroporepellens_BL-DC-9             | successfully downloaded (total 8, 32 more to go)
+  Kribbella_sp._ME05-21D                                   | not found in the NCBI database
+  Methylohalomonas_lacus                                   | not found in the NCBI database
+  Planctomyces_maris_DSM_8797                              | successfully downloaded (total 9, 29 more to go)
+  bacterium_WH8-2                                          | not found in the NCBI database
+  Gimesia_maris                                            | successfully downloaded (total 10, 27 more to go)
+  denitrifying_bacterium_enrichment_culture_clone_NOB_2_C9 | not found in the NCBI database
+  Pelobacter_sp._AOP6                                      | not found in the NCBI database
+  Syntrophus_aciditrophicus                                | successfully downloaded (total 11, 24 more to go)
+  Alteromonas_sp._NJSS33                                   | not found in the NCBI database
+  Shewanella_amazonensis_SB2B                              | successfully downloaded (total 12, 22 more to go)
+  Shewanella_woodyi_ATCC_51908                             | successfully downloaded (total 13, 21 more to go)
+  Ruegeria_sp._enrichment_culture_clone_KSE55-3            | not found in the NCBI database
+  iodide-oxidizing_bacterium_C-3                           | not found in the NCBI database
+  Uncultured_Pseudospirillum_sp                            | not found in the NCBI database
+  endosymbiont_of_Ridgeia_piscesae                         | successfully downloaded (total 14, 17 more to go)
+  bacterium_endosymbiont_of_Abyssogena_southwardae         | not found in the NCBI database
+  Formosa_algae                                            | successfully downloaded (total 15, 15 more to go)
+  Vibrio_sinaloensis                                       | successfully downloaded (total 16, 14 more to go)
+  Methylococcaceae_bacterium_ET-HIRO                       | not found in the NCBI database
+  Litoribaculum_gwangyangense                              | not found in the NCBI database
+  Flavobacterium_subsaxonicum_WB_4.1-42_=_DSM_21790        | successfully downloaded (total 17, 11 more to go)
+  marine_bacterium_NAMAF003                                | not found in the NCBI database
+  Ilumatobacter_nonamiensis_YM16-303                       | successfully downloaded (total 18, 9 more to go)
+  Dasania_marina_DSM_21967                                 | successfully downloaded (total 19, 8 more to go)
+  Nisaea_sp._MOLA_138                                      | not found in the NCBI database
+  bacterium_enrichment_culture_clone_auto222_4W            | not found in the NCBI database
+  Ilumatobacter_fluminis                                   | successfully downloaded (total 20, 5 more to go)
+  Microbulbifer_sp._GB02-2C                                | not found in the NCBI database
+  Cyanobium_sp._JJM10D4                                    | not found in the NCBI database
+  Corallibacter_vietnamensis                               | not found in the NCBI database
+  Tistrella_bauzanensis                                    | not found in the NCBI database
+  bacterium_Ellin5247                                      | not found in the NCBI database
+
+Downloaded reference(s):
+  /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_downloaded_references/Blastopirellula_marina.fasta ==> Blastopirellula_marina
+  /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_downloaded_references/Chromatocurvus_halotolerans.fasta ==> Chromatocurvus_halotolerans
+  /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_downloaded_references/Dasania_marina_DSM_21967.fasta ==> Dasania_marina_DSM_21967
+  /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_downloaded_references/Dehalogenimonas_lykanthroporepellens_BL-DC-9.fasta ==> Dehalogenimonas_lykanthroporepellens_BL-DC-9
+  /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_downloaded_references/Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790.fasta ==> Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790
+  /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_downloaded_references/Formosa_algae.fasta ==> Formosa_algae
+  /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_downloaded_references/Gimesia_maris.fasta ==> Gimesia_maris
+  /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_downloaded_references/Ilumatobacter_fluminis.fasta ==> Ilumatobacter_fluminis
+  /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_downloaded_references/Ilumatobacter_nonamiensis_YM16-303.fasta ==> Ilumatobacter_nonamiensis_YM16-303
+  /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_downloaded_references/Ochrobactrum_grignonense.fasta ==> Ochrobactrum_grignonense
+  /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_downloaded_references/Planctomyces_maris_DSM_8797.fasta ==> Planctomyces_maris_DSM_8797
+  /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_downloaded_references/Rhodobacteraceae_bacterium_HIMB11.fasta ==> Rhodobacteraceae_bacterium_HIMB11
+  /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_downloaded_references/Shewanella_amazonensis_SB2B.fasta ==> Shewanella_amazonensis_SB2B
+  /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_downloaded_references/Shewanella_woodyi_ATCC_51908.fasta ==> Shewanella_woodyi_ATCC_51908
+  /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_downloaded_references/Synechococcus_sp._WH_7803.fasta ==> Synechococcus_sp._WH_7803
+  /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_downloaded_references/Syntrophus_aciditrophicus.fasta ==> Syntrophus_aciditrophicus
+  /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_downloaded_references/Vibrio_sinaloensis.fasta ==> Vibrio_sinaloensis
+  /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_downloaded_references/endosymbiont_of_Ridgeia_piscesae.fasta ==> endosymbiont_of_Ridgeia_piscesae
+  /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_downloaded_references/gamma_proteobacterium_SCGC_AB-629-P17.fasta ==> gamma_proteobacterium_SCGC_AB-629-P17
+  /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_downloaded_references/marine_gamma_proteobacterium_HTCC2080.fasta ==> marine_gamma_proteobacterium_HTCC2080
+  All references were combined in combined_reference.fasta
+
+2020-04-16 14:06:43
+Running Reads analyzer...
+  Logging to files /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.log and /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err...
+  Pre-processing reads...
+  Running BWA...
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/bwa/bwa index \
+-p combined_reference /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_corrected_input/combined_reference.fasta \
+>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.log \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/bwa/bwa mem \
+-t 2 combined_reference /home/joen8526/GenomeAnalysis/data/raw_data/DNA_trimmed/SRR4342129_1.paired.trimmed.fastq.gz \
+/home/joen8526/GenomeAnalysis/data/raw_data/DNA_trimmed/SRR4342129_2.paired.trimmed.fastq.gz \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/combined_reference.sam \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+  Done.
+  Sorting SAM-file...
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/sambamba/sambamba_linux \
+view -t 2 -h -f bam -F not unmapped -S /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/combined_reference.sam.correct \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/combined_reference.bam \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/sambamba/sambamba_linux \
+sort -t 2 -o /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/combined_reference.sorted.bam \
+/home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/combined_reference.bam \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/sambamba/sambamba_linux \
+view -t 2 -h /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/combined_reference.sorted.bam \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/combined_reference.sorted.sam \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+  Calculating reads coverage...
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/bedtools/bin/bedtools \
+genomecov -bga -ibam /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/combined_reference.sorted.bam \
+-g /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_corrected_input/combined_reference.fasta.fai \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/combined_reference.cov_raw \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+  Calculating physical coverage...
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/sambamba/sambamba_linux \
+view -t 2 -h -f bam -F proper_pair and not supplementary and not duplicate /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/combined_reference.bam \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/combined_reference.filtered.bam \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/sambamba/sambamba_linux \
+sort -t 2 -o /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/combined_reference.filtered.sorted.bam \
+-n /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/combined_reference.filtered.bam \
+>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.log \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/bedtools/bin/bamToBed \
+-i /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/combined_reference.filtered.sorted.bam \
+-bedpe > /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/combined_reference.bedpe \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/bedtools/bin/bedtools \
+sort -i /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/combined_reference.bed \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/combined_reference.sorted.bed \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/bedtools/bin/bedtools \
+genomecov -bga -i /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/combined_reference.sorted.bed \
+-g /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_corrected_input/combined_reference.fasta.fai \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/combined_reference.physical.cov_raw \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+  Splitting SAM-file by references...
+  Looking for trivial deletions (long zero-covered fragments)...
+  Trivial deletions: 19404 found
+    Saving to: /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/trivial_deletions.bed
+  Searching structural variations with Manta...
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/sambamba/sambamba_linux \
+view -t 2 -h -S -f bam /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Chromatocurvus_halotolerans.sam \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Chromatocurvus_halotolerans.bam \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/sambamba/sambamba_linux \
+view -t 2 -h -S -f bam /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Blastopirellula_marina.sam \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Blastopirellula_marina.bam \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/sambamba/sambamba_linux \
+sort -t 2 /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Chromatocurvus_halotolerans.bam \
+-o /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Chromatocurvus_halotolerans.sorted.bam \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/sambamba/sambamba_linux \
+sort -t 2 /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Blastopirellula_marina.bam \
+-o /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Blastopirellula_marina.sorted.bam \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/home/joen8526/.quast/manta0.29.6/build/bin/configManta.py --normalBam /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Chromatocurvus_halotolerans.sorted.bam \
+--referenceFasta /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_corrected_input/Chromatocurvus_halotolerans.fasta \
+--runDir /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Chromatocurvus_halotolerans_manta \
+>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/home/joen8526/.quast/manta0.29.6/build/bin/configManta.py --normalBam /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Blastopirellula_marina.sorted.bam \
+--referenceFasta /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_corrected_input/Blastopirellula_marina.fasta \
+--runDir /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Blastopirellula_marina_manta \
+>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Chromatocurvus_halotolerans_manta/runWorkflow.py \
+-m local -j 2 2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Blastopirellula_marina_manta/runWorkflow.py \
+-m local -j 2 2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+The tool returned non-zero. See ../../../../../home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err for stderr.
+gunzip -c /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Chromatocurvus_halotolerans_manta/results/variants/diploidSV.vcf.gz \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Chromatocurvus_halotolerans_manta/results/variants/diploidSV.vcf.gz.unpacked \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+The tool returned non-zero. See ../../../../../home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err for stderr.
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/sambamba/sambamba_linux \
+view -t 2 -h -S -f bam /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Dasania_marina_DSM_21967.sam \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Dasania_marina_DSM_21967.bam \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/sambamba/sambamba_linux \
+sort -t 2 /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Dasania_marina_DSM_21967.bam \
+-o /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Dasania_marina_DSM_21967.sorted.bam \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/home/joen8526/.quast/manta0.29.6/build/bin/configManta.py --normalBam /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Dasania_marina_DSM_21967.sorted.bam \
+--referenceFasta /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_corrected_input/Dasania_marina_DSM_21967.fasta \
+--runDir /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Dasania_marina_DSM_21967_manta \
+>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Dasania_marina_DSM_21967_manta/runWorkflow.py \
+-m local -j 2 2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+The tool returned non-zero. See ../../../../../home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err for stderr.
+gunzip -c /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Blastopirellula_marina_manta/results/variants/diploidSV.vcf.gz \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Blastopirellula_marina_manta/results/variants/diploidSV.vcf.gz.unpacked \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+The tool returned non-zero. See ../../../../../home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err for stderr.
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/sambamba/sambamba_linux \
+view -t 2 -h -S -f bam /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Dehalogenimonas_lykanthroporepellens_BL-DC-9.sam \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Dehalogenimonas_lykanthroporepellens_BL-DC-9.bam \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/sambamba/sambamba_linux \
+sort -t 2 /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Dehalogenimonas_lykanthroporepellens_BL-DC-9.bam \
+-o /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Dehalogenimonas_lykanthroporepellens_BL-DC-9.sorted.bam \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/home/joen8526/.quast/manta0.29.6/build/bin/configManta.py --normalBam /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Dehalogenimonas_lykanthroporepellens_BL-DC-9.sorted.bam \
+--referenceFasta /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_corrected_input/Dehalogenimonas_lykanthroporepellens_BL-DC-9.fasta \
+--runDir /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Dehalogenimonas_lykanthroporepellens_BL-DC-9_manta \
+>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Dehalogenimonas_lykanthroporepellens_BL-DC-9_manta/runWorkflow.py \
+-m local -j 2 2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+The tool returned non-zero. See ../../../../../home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err for stderr.
+gunzip -c /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Dasania_marina_DSM_21967_manta/results/variants/diploidSV.vcf.gz \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Dasania_marina_DSM_21967_manta/results/variants/diploidSV.vcf.gz.unpacked \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+The tool returned non-zero. See ../../../../../home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err for stderr.
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/sambamba/sambamba_linux \
+view -t 2 -h -S -f bam /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790.sam \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790.bam \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/sambamba/sambamba_linux \
+sort -t 2 /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790.bam \
+-o /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790.sorted.bam \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+The tool returned non-zero. See ../../../../../home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err for stderr.
+gunzip -c /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Dehalogenimonas_lykanthroporepellens_BL-DC-9_manta/results/variants/diploidSV.vcf.gz \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Dehalogenimonas_lykanthroporepellens_BL-DC-9_manta/results/variants/diploidSV.vcf.gz.unpacked \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+The tool returned non-zero. See ../../../../../home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err for stderr.
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/sambamba/sambamba_linux \
+view -t 2 -h -S -f bam /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Formosa_algae.sam \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Formosa_algae.bam \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/home/joen8526/.quast/manta0.29.6/build/bin/configManta.py --normalBam /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790.sorted.bam \
+--referenceFasta /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_corrected_input/Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790.fasta \
+--runDir /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_manta \
+>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_manta/runWorkflow.py \
+-m local -j 2 2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/sambamba/sambamba_linux \
+sort -t 2 /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Formosa_algae.bam \
+-o /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Formosa_algae.sorted.bam \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/home/joen8526/.quast/manta0.29.6/build/bin/configManta.py --normalBam /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Formosa_algae.sorted.bam \
+--referenceFasta /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_corrected_input/Formosa_algae.fasta \
+--runDir /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Formosa_algae_manta \
+>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Formosa_algae_manta/runWorkflow.py \
+-m local -j 2 2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+The tool returned non-zero. See ../../../../../home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err for stderr.
+gunzip -c /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_manta/results/variants/diploidSV.vcf.gz \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790_manta/results/variants/diploidSV.vcf.gz.unpacked \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+The tool returned non-zero. See ../../../../../home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err for stderr.
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/sambamba/sambamba_linux \
+view -t 2 -h -S -f bam /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Gimesia_maris.sam \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Gimesia_maris.bam \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/sambamba/sambamba_linux \
+sort -t 2 /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Gimesia_maris.bam \
+-o /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Gimesia_maris.sorted.bam \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/home/joen8526/.quast/manta0.29.6/build/bin/configManta.py --normalBam /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Gimesia_maris.sorted.bam \
+--referenceFasta /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_corrected_input/Gimesia_maris.fasta \
+--runDir /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Gimesia_maris_manta \
+>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Gimesia_maris_manta/runWorkflow.py \
+-m local -j 2 2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+The tool returned non-zero. See ../../../../../home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err for stderr.
+gunzip -c /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Formosa_algae_manta/results/variants/diploidSV.vcf.gz \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Formosa_algae_manta/results/variants/diploidSV.vcf.gz.unpacked \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+The tool returned non-zero. See ../../../../../home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err for stderr.
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/sambamba/sambamba_linux \
+view -t 2 -h -S -f bam /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Ilumatobacter_fluminis.sam \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Ilumatobacter_fluminis.bam \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+The tool returned non-zero. See ../../../../../home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err for stderr.
+gunzip -c /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Gimesia_maris_manta/results/variants/diploidSV.vcf.gz \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Gimesia_maris_manta/results/variants/diploidSV.vcf.gz.unpacked \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+The tool returned non-zero. See ../../../../../home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err for stderr.
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/sambamba/sambamba_linux \
+view -t 2 -h -S -f bam /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Ilumatobacter_nonamiensis_YM16-303.sam \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Ilumatobacter_nonamiensis_YM16-303.bam \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/sambamba/sambamba_linux \
+sort -t 2 /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Ilumatobacter_fluminis.bam \
+-o /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Ilumatobacter_fluminis.sorted.bam \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/sambamba/sambamba_linux \
+sort -t 2 /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Ilumatobacter_nonamiensis_YM16-303.bam \
+-o /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Ilumatobacter_nonamiensis_YM16-303.sorted.bam \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/home/joen8526/.quast/manta0.29.6/build/bin/configManta.py --normalBam /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Ilumatobacter_fluminis.sorted.bam \
+--referenceFasta /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_corrected_input/Ilumatobacter_fluminis.fasta \
+--runDir /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Ilumatobacter_fluminis_manta \
+>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Ilumatobacter_fluminis_manta/runWorkflow.py \
+-m local -j 2 2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/home/joen8526/.quast/manta0.29.6/build/bin/configManta.py --normalBam /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Ilumatobacter_nonamiensis_YM16-303.sorted.bam \
+--referenceFasta /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_corrected_input/Ilumatobacter_nonamiensis_YM16-303.fasta \
+--runDir /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Ilumatobacter_nonamiensis_YM16-303_manta \
+>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Ilumatobacter_nonamiensis_YM16-303_manta/runWorkflow.py \
+-m local -j 2 2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+The tool returned non-zero. See ../../../../../home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err for stderr.
+gunzip -c /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Ilumatobacter_fluminis_manta/results/variants/diploidSV.vcf.gz \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Ilumatobacter_fluminis_manta/results/variants/diploidSV.vcf.gz.unpacked \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+The tool returned non-zero. See ../../../../../home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err for stderr.
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/sambamba/sambamba_linux \
+view -t 2 -h -S -f bam /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Ochrobactrum_grignonense.sam \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Ochrobactrum_grignonense.bam \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/sambamba/sambamba_linux \
+sort -t 2 /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Ochrobactrum_grignonense.bam \
+-o /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Ochrobactrum_grignonense.sorted.bam \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/home/joen8526/.quast/manta0.29.6/build/bin/configManta.py --normalBam /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Ochrobactrum_grignonense.sorted.bam \
+--referenceFasta /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_corrected_input/Ochrobactrum_grignonense.fasta \
+--runDir /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Ochrobactrum_grignonense_manta \
+>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Ochrobactrum_grignonense_manta/runWorkflow.py \
+-m local -j 2 2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+The tool returned non-zero. See ../../../../../home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err for stderr.
+gunzip -c /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Ochrobactrum_grignonense_manta/results/variants/diploidSV.vcf.gz \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Ochrobactrum_grignonense_manta/results/variants/diploidSV.vcf.gz.unpacked \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+The tool returned non-zero. See ../../../../../home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err for stderr.
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/sambamba/sambamba_linux \
+view -t 2 -h -S -f bam /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Planctomyces_maris_DSM_8797.sam \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Planctomyces_maris_DSM_8797.bam \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+The tool returned non-zero. See ../../../../../home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err for stderr.
+gunzip -c /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Ilumatobacter_nonamiensis_YM16-303_manta/results/variants/diploidSV.vcf.gz \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Ilumatobacter_nonamiensis_YM16-303_manta/results/variants/diploidSV.vcf.gz.unpacked \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+The tool returned non-zero. See ../../../../../home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err for stderr.
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/sambamba/sambamba_linux \
+view -t 2 -h -S -f bam /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Rhodobacteraceae_bacterium_HIMB11.sam \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Rhodobacteraceae_bacterium_HIMB11.bam \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/sambamba/sambamba_linux \
+sort -t 2 /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Planctomyces_maris_DSM_8797.bam \
+-o /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Planctomyces_maris_DSM_8797.sorted.bam \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/home/joen8526/.quast/manta0.29.6/build/bin/configManta.py --normalBam /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Planctomyces_maris_DSM_8797.sorted.bam \
+--referenceFasta /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_corrected_input/Planctomyces_maris_DSM_8797.fasta \
+--runDir /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Planctomyces_maris_DSM_8797_manta \
+>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Planctomyces_maris_DSM_8797_manta/runWorkflow.py \
+-m local -j 2 2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/sambamba/sambamba_linux \
+sort -t 2 /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Rhodobacteraceae_bacterium_HIMB11.bam \
+-o /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Rhodobacteraceae_bacterium_HIMB11.sorted.bam \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/home/joen8526/.quast/manta0.29.6/build/bin/configManta.py --normalBam /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Rhodobacteraceae_bacterium_HIMB11.sorted.bam \
+--referenceFasta /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_corrected_input/Rhodobacteraceae_bacterium_HIMB11.fasta \
+--runDir /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Rhodobacteraceae_bacterium_HIMB11_manta \
+>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Rhodobacteraceae_bacterium_HIMB11_manta/runWorkflow.py \
+-m local -j 2 2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+The tool returned non-zero. See ../../../../../home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err for stderr.
+gunzip -c /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Planctomyces_maris_DSM_8797_manta/results/variants/diploidSV.vcf.gz \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Planctomyces_maris_DSM_8797_manta/results/variants/diploidSV.vcf.gz.unpacked \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+The tool returned non-zero. See ../../../../../home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err for stderr.
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/sambamba/sambamba_linux \
+view -t 2 -h -S -f bam /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Shewanella_amazonensis_SB2B.sam \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Shewanella_amazonensis_SB2B.bam \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/sambamba/sambamba_linux \
+sort -t 2 /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Shewanella_amazonensis_SB2B.bam \
+-o /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Shewanella_amazonensis_SB2B.sorted.bam \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/home/joen8526/.quast/manta0.29.6/build/bin/configManta.py --normalBam /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Shewanella_amazonensis_SB2B.sorted.bam \
+--referenceFasta /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_corrected_input/Shewanella_amazonensis_SB2B.fasta \
+--runDir /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Shewanella_amazonensis_SB2B_manta \
+>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Shewanella_amazonensis_SB2B_manta/runWorkflow.py \
+-m local -j 2 2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+The tool returned non-zero. See ../../../../../home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err for stderr.
+gunzip -c /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Rhodobacteraceae_bacterium_HIMB11_manta/results/variants/diploidSV.vcf.gz \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Rhodobacteraceae_bacterium_HIMB11_manta/results/variants/diploidSV.vcf.gz.unpacked \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+The tool returned non-zero. See ../../../../../home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err for stderr.
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/sambamba/sambamba_linux \
+view -t 2 -h -S -f bam /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Shewanella_woodyi_ATCC_51908.sam \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Shewanella_woodyi_ATCC_51908.bam \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/sambamba/sambamba_linux \
+sort -t 2 /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Shewanella_woodyi_ATCC_51908.bam \
+-o /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Shewanella_woodyi_ATCC_51908.sorted.bam \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/home/joen8526/.quast/manta0.29.6/build/bin/configManta.py --normalBam /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Shewanella_woodyi_ATCC_51908.sorted.bam \
+--referenceFasta /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_corrected_input/Shewanella_woodyi_ATCC_51908.fasta \
+--runDir /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Shewanella_woodyi_ATCC_51908_manta \
+>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Shewanella_woodyi_ATCC_51908_manta/runWorkflow.py \
+-m local -j 2 2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+The tool returned non-zero. See ../../../../../home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err for stderr.
+gunzip -c /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Shewanella_amazonensis_SB2B_manta/results/variants/diploidSV.vcf.gz \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Shewanella_amazonensis_SB2B_manta/results/variants/diploidSV.vcf.gz.unpacked \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+The tool returned non-zero. See ../../../../../home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err for stderr.
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/sambamba/sambamba_linux \
+view -t 2 -h -S -f bam /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Synechococcus_sp._WH_7803.sam \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Synechococcus_sp._WH_7803.bam \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/sambamba/sambamba_linux \
+sort -t 2 /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Synechococcus_sp._WH_7803.bam \
+-o /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Synechococcus_sp._WH_7803.sorted.bam \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+The tool returned non-zero. See ../../../../../home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err for stderr.
+gunzip -c /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Shewanella_woodyi_ATCC_51908_manta/results/variants/diploidSV.vcf.gz \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Shewanella_woodyi_ATCC_51908_manta/results/variants/diploidSV.vcf.gz.unpacked \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+The tool returned non-zero. See ../../../../../home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err for stderr.
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/sambamba/sambamba_linux \
+view -t 2 -h -S -f bam /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Syntrophus_aciditrophicus.sam \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Syntrophus_aciditrophicus.bam \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/sambamba/sambamba_linux \
+sort -t 2 /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Syntrophus_aciditrophicus.bam \
+-o /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Syntrophus_aciditrophicus.sorted.bam \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/home/joen8526/.quast/manta0.29.6/build/bin/configManta.py --normalBam /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Syntrophus_aciditrophicus.sorted.bam \
+--referenceFasta /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_corrected_input/Syntrophus_aciditrophicus.fasta \
+--runDir /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Syntrophus_aciditrophicus_manta \
+>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/home/joen8526/.quast/manta0.29.6/build/bin/configManta.py --normalBam /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Synechococcus_sp._WH_7803.sorted.bam \
+--referenceFasta /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_corrected_input/Synechococcus_sp._WH_7803.fasta \
+--runDir /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Synechococcus_sp._WH_7803_manta \
+>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Syntrophus_aciditrophicus_manta/runWorkflow.py \
+-m local -j 2 2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Synechococcus_sp._WH_7803_manta/runWorkflow.py \
+-m local -j 2 2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+The tool returned non-zero. See ../../../../../home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err for stderr.
+gunzip -c /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Synechococcus_sp._WH_7803_manta/results/variants/diploidSV.vcf.gz \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Synechococcus_sp._WH_7803_manta/results/variants/diploidSV.vcf.gz.unpacked \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+The tool returned non-zero. See ../../../../../home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err for stderr.
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/sambamba/sambamba_linux \
+view -t 2 -h -S -f bam /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Vibrio_sinaloensis.sam \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Vibrio_sinaloensis.bam \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+The tool returned non-zero. See ../../../../../home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err for stderr.
+gunzip -c /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Syntrophus_aciditrophicus_manta/results/variants/diploidSV.vcf.gz \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Syntrophus_aciditrophicus_manta/results/variants/diploidSV.vcf.gz.unpacked \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+The tool returned non-zero. See ../../../../../home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err for stderr.
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/sambamba/sambamba_linux \
+view -t 2 -h -S -f bam /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/endosymbiont_of_Ridgeia_piscesae.sam \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/endosymbiont_of_Ridgeia_piscesae.bam \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/sambamba/sambamba_linux \
+sort -t 2 /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Vibrio_sinaloensis.bam \
+-o /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Vibrio_sinaloensis.sorted.bam \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/sambamba/sambamba_linux \
+sort -t 2 /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/endosymbiont_of_Ridgeia_piscesae.bam \
+-o /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/endosymbiont_of_Ridgeia_piscesae.sorted.bam \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/home/joen8526/.quast/manta0.29.6/build/bin/configManta.py --normalBam /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Vibrio_sinaloensis.sorted.bam \
+--referenceFasta /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_corrected_input/Vibrio_sinaloensis.fasta \
+--runDir /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Vibrio_sinaloensis_manta \
+>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Vibrio_sinaloensis_manta/runWorkflow.py \
+-m local -j 2 2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/home/joen8526/.quast/manta0.29.6/build/bin/configManta.py --normalBam /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/endosymbiont_of_Ridgeia_piscesae.sorted.bam \
+--referenceFasta /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_corrected_input/endosymbiont_of_Ridgeia_piscesae.fasta \
+--runDir /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/endosymbiont_of_Ridgeia_piscesae_manta \
+>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/endosymbiont_of_Ridgeia_piscesae_manta/runWorkflow.py \
+-m local -j 2 2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+The tool returned non-zero. See ../../../../../home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err for stderr.
+gunzip -c /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/endosymbiont_of_Ridgeia_piscesae_manta/results/variants/diploidSV.vcf.gz \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/endosymbiont_of_Ridgeia_piscesae_manta/results/variants/diploidSV.vcf.gz.unpacked \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+The tool returned non-zero. See ../../../../../home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err for stderr.
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/sambamba/sambamba_linux \
+view -t 2 -h -S -f bam /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/gamma_proteobacterium_SCGC_AB-629-P17.sam \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/gamma_proteobacterium_SCGC_AB-629-P17.bam \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/sambamba/sambamba_linux \
+sort -t 2 /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/gamma_proteobacterium_SCGC_AB-629-P17.bam \
+-o /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/gamma_proteobacterium_SCGC_AB-629-P17.sorted.bam \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/home/joen8526/.quast/manta0.29.6/build/bin/configManta.py --normalBam /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/gamma_proteobacterium_SCGC_AB-629-P17.sorted.bam \
+--referenceFasta /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_corrected_input/gamma_proteobacterium_SCGC_AB-629-P17.fasta \
+--runDir /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/gamma_proteobacterium_SCGC_AB-629-P17_manta \
+>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/gamma_proteobacterium_SCGC_AB-629-P17_manta/runWorkflow.py \
+-m local -j 2 2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+The tool returned non-zero. See ../../../../../home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err for stderr.
+gunzip -c /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Vibrio_sinaloensis_manta/results/variants/diploidSV.vcf.gz \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/Vibrio_sinaloensis_manta/results/variants/diploidSV.vcf.gz.unpacked \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+The tool returned non-zero. See ../../../../../home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err for stderr.
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/sambamba/sambamba_linux \
+view -t 2 -h -S -f bam /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/marine_gamma_proteobacterium_HTCC2080.sam \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/marine_gamma_proteobacterium_HTCC2080.bam \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/sw/bioinfo/quast/4.5.4/rackham/lib/python2.7/site-packages/quast_libs/sambamba/sambamba_linux \
+sort -t 2 /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/marine_gamma_proteobacterium_HTCC2080.bam \
+-o /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/marine_gamma_proteobacterium_HTCC2080.sorted.bam \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/home/joen8526/.quast/manta0.29.6/build/bin/configManta.py --normalBam /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/marine_gamma_proteobacterium_HTCC2080.sorted.bam \
+--referenceFasta /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/quast_corrected_input/marine_gamma_proteobacterium_HTCC2080.fasta \
+--runDir /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/marine_gamma_proteobacterium_HTCC2080_manta \
+>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+/home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/marine_gamma_proteobacterium_HTCC2080_manta/runWorkflow.py \
+-m local -j 2 2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+The tool returned non-zero. See ../../../../../home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err for stderr.
+gunzip -c /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/gamma_proteobacterium_SCGC_AB-629-P17_manta/results/variants/diploidSV.vcf.gz \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/gamma_proteobacterium_SCGC_AB-629-P17_manta/results/variants/diploidSV.vcf.gz.unpacked \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+The tool returned non-zero. See ../../../../../home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err for stderr.
+The tool returned non-zero. See ../../../../../home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err for stderr.
+gunzip -c /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/marine_gamma_proteobacterium_HTCC2080_manta/results/variants/diploidSV.vcf.gz \
+> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/marine_gamma_proteobacterium_HTCC2080_manta/results/variants/diploidSV.vcf.gz.unpacked \
+2>> /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err
+The tool returned non-zero. See ../../../../../home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/sv_calling.err for stderr.
+    Saving to: /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/temp_output/manta_sv.bed
+  Structural variations are in /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/combined_reference.bed
+  Coverage distribution along the reference genome is in /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/structural_variations/combined_reference.cov
+Done.
+
+Starting quast.py for the combined reference...
+(logging to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/combined_reference/quast.log)
+
+Excluding downloaded references with low genome fraction from further analysis..
+All downloaded references have low genome fraction. Nothing was excluded for now.
+
+Partitioning contigs into bins aligned to each reference..
+  processing final.contigs
+
+Run QUAST on different references in parallel..
+
+No contigs were aligned to the reference Blastopirellula_marina, skipping..
+
+Starting quast.py for the contigs aligned to Chromatocurvus_halotolerans... (logging to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/Chromatocurvus_halotolerans/quast.log)
+
+Starting quast.py for the contigs aligned to Dasania_marina_DSM_21967... (logging to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/Dasania_marina_DSM_21967/quast.log)
+
+No contigs were aligned to the reference Dehalogenimonas_lykanthroporepellens_BL-DC-9, skipping..
+
+Starting quast.py for the contigs aligned to Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790... (logging to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/Flavobacterium_subsaxonicum_WB_4.1-42___DSM_21790/quast.log)
+
+Starting quast.py for the contigs aligned to Formosa_algae... (logging to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/Formosa_algae/quast.log)
+
+Starting quast.py for the contigs aligned to Gimesia_maris... (logging to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/Gimesia_maris/quast.log)
+
+Starting quast.py for the contigs aligned to Ilumatobacter_fluminis... (logging to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/Ilumatobacter_fluminis/quast.log)
+
+Starting quast.py for the contigs aligned to Ilumatobacter_nonamiensis_YM16-303... (logging to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/Ilumatobacter_nonamiensis_YM16-303/quast.log)
+
+No contigs were aligned to the reference Ochrobactrum_grignonense, skipping..
+
+Starting quast.py for the contigs aligned to Planctomyces_maris_DSM_8797... (logging to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/Planctomyces_maris_DSM_8797/quast.log)
+
+Starting quast.py for the contigs aligned to Rhodobacteraceae_bacterium_HIMB11... (logging to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/Rhodobacteraceae_bacterium_HIMB11/quast.log)
+
+No contigs were aligned to the reference Shewanella_amazonensis_SB2B, skipping..
+
+No contigs were aligned to the reference Shewanella_woodyi_ATCC_51908, skipping..
+
+Starting quast.py for the contigs aligned to Synechococcus_sp._WH_7803... (logging to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/Synechococcus_sp._WH_7803/quast.log)
+
+Starting quast.py for the contigs aligned to Syntrophus_aciditrophicus... (logging to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/Syntrophus_aciditrophicus/quast.log)
+
+Starting quast.py for the contigs aligned to Vibrio_sinaloensis... (logging to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/Vibrio_sinaloensis/quast.log)
+
+Starting quast.py for the contigs aligned to endosymbiont_of_Ridgeia_piscesae... (logging to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/endosymbiont_of_Ridgeia_piscesae/quast.log)
+
+Starting quast.py for the contigs aligned to gamma_proteobacterium_SCGC_AB-629-P17... (logging to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/gamma_proteobacterium_SCGC_AB-629-P17/quast.log)
+
+Starting quast.py for the contigs aligned to marine_gamma_proteobacterium_HTCC2080... (logging to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/runs_per_reference/marine_gamma_proteobacterium_HTCC2080/quast.log)
+
+Starting quast.py for the contigs not aligned anywhere... (logging to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/not_aligned/quast.log)
+
+2020-04-16 15:08:57
+Summarizing results...
+  Drawing # contigs metaQUAST summary plot...
+    saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/summary/PDF/#_contigs.pdf
+  Drawing Largest contig metaQUAST summary plot...
+    saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/summary/PDF/Largest_contig.pdf
+  Drawing Total length metaQUAST summary plot...
+    saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/summary/PDF/Total_length.pdf
+  Drawing Largest alignment metaQUAST summary plot...
+    saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/summary/PDF/Largest_alignment.pdf
+  Drawing Total aligned length metaQUAST summary plot...
+    saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/summary/PDF/Total_aligned_length.pdf
+  Drawing Total length (>= 1000 bp) metaQUAST summary plot...
+    saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/summary/PDF/Total_length_(>=_1000_bp).pdf
+  Drawing Total length (>= 10000 bp) metaQUAST summary plot...
+    saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/summary/PDF/Total_length_(>=_10000_bp).pdf
+  Drawing Total length (>= 50000 bp) metaQUAST summary plot...
+    saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/summary/PDF/Total_length_(>=_50000_bp).pdf
+  Drawing # misassemblies metaQUAST summary plot...
+    saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/summary/PDF/#_misassemblies.pdf
+  Drawing metaQUAST summary misassemblies plot for final.contigs...
+    saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/summary/PDF/final-contigs_misassemblies.pdf
+  Drawing Misassembled contigs length metaQUAST summary plot...
+    saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/summary/PDF/Misassembled_contigs_length.pdf
+  Drawing # mismatches per 100 kbp metaQUAST summary plot...
+    saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/summary/PDF/#_mismatches_per_100_kbp.pdf
+  Drawing # indels per 100 kbp metaQUAST summary plot...
+    saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/summary/PDF/#_indels_per_100_kbp.pdf
+  Drawing # N's per 100 kbp metaQUAST summary plot...
+    saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/summary/PDF/#_N's_per_100_kbp.pdf
+  Drawing Genome fraction (%) metaQUAST summary plot...
+    saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/summary/PDF/Genome_fraction_(%).pdf
+  Drawing Duplication ratio metaQUAST summary plot...
+    saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/summary/PDF/Duplication_ratio.pdf
+  Drawing Avg contig read support metaQUAST summary plot...
+    saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/summary/PDF/Avg_contig_read_support.pdf
+  Drawing # genes metaQUAST summary plot...
+    saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/summary/PDF/#_genes.pdf
+  Drawing # operons metaQUAST summary plot...
+    saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/summary/PDF/#_operons.pdf
+  Drawing NGA50 metaQUAST summary plot...
+    saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/summary/PDF/NGA50.pdf
+  Drawing LGA50 metaQUAST summary plot...
+    saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/summary/PDF/LGA50.pdf
+  Drawing # predicted genes (unique) metaQUAST summary plot...
+    saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/summary/PDF/#_predicted_genes_(unique).pdf
+
+  Text versions of reports and plots for each metric (for all references and assemblies) are saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/summary/
+  Icarus (contig browser) is saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/icarus.html
+  Drawing interactive Krona plots...
+  Krona chart for final.contigs is saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/krona_charts/final.contigs_taxonomy_chart.html
+  Extended version of HTML-report (for all references and assemblies) is saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/report.html
+
+MetaQUAST finished.
+  Log saved to /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D1/metaquast.log
+
+Finished: 2020-04-16 15:09:06
+Elapsed time: 1:27:40.687123
+Total NOTICEs: 21; WARNINGs: 1; non-fatal ERRORs: 0
+
+Thank you for using QUAST!

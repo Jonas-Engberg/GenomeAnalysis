@@ -1,0 +1,6 @@
+/home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D3/quast_corrected_input/Fluviicola_taffensis_DSM_16823.fasta /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D3/quast_corrected_input/final-contigs_to_Fluviicola_taffensis_DSM_16823.fasta
+NUCMER
+>Fluviicola_taffensis_DSM_16823_NC_015321.1_Fluviicola_taffensis_DSM_16823__complete_sequence k105_131843_flag_1_multi_3.8774_len_2087 4633577 2087
+2754491 2754577 535 448 2 2 0
+-5
+0

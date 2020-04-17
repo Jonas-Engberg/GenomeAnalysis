@@ -1,0 +1,14 @@
+reference chromosomes:
+	Gimesia_maris_NZ_CP043931.1_Gimesia_maris_strain_DSM_8797_chromosome__complete_genome (total length: 7818248 bp, maximal covered length: 621 bp)
+
+total genome size: 7818248
+
+gap min size: 50
+partial gene/operon min size: 100
+
+
+
+assembly                 | genome    | duplication | gaps      | genes     | partial   | operons   | partial   |
+                         | fraction  | ratio       | number    |           | genes     |           | operons   |
+========================================================================================================================
+final-contigs_to_Gimesia | 0.00794%  | 1.03060     | 3         | -         | -         | -         | -         |

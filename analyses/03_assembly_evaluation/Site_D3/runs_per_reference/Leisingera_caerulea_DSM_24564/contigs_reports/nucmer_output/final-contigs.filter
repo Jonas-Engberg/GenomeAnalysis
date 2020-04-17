@@ -1,0 +1,52 @@
+/home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D3/quast_corrected_input/Leisingera_caerulea_DSM_24564.fasta /home/joen8526/GenomeAnalysis/analyses/03_assembly_evaluation/Site_D3/quast_corrected_input/final-contigs_to_Leisingera_caerulea_DSM_24564.fasta
+NUCMER
+>Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_101981_flag_1_multi_5.6714_len_525 3520924 525
+1990533 1990794 25 286 12 12 0
+0
+1991029 1991100 454 525 0 0 0
+0
+>Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_111094_flag_1_multi_1.8399_len_611 3520924 611
+2470918 2470996 242 320 1 1 0
+0
+>Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_119938_flag_1_multi_5.4463_len_701 3520924 701
+1992872 1992989 1 119 5 5 0
+-109
+0
+>Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_126728_flag_1_multi_1.7767_len_714 3520924 714
+1291850 1291950 459 559 3 3 0
+-88
+9
+0
+>Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_156414_flag_1_multi_9.0811_len_2250 3520924 2250
+360216 361603 2250 864 63 63 0
+112
+-3
+154
+0
+>Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_16718_flag_1_multi_7.9628_len_884 3520924 884
+1020061 1020428 1 368 13 13 0
+0
+>Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_28063_flag_1_multi_31.7927_len_573 3520924 573
+1993216 1993784 569 1 14 14 0
+0
+>Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_34892_flag_1_multi_2.0000_len_740 3520924 740
+849710 849788 310 232 0 0 0
+0
+>Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_62298_flag_1_multi_3.0000_len_516 3520924 516
+2402825 2402927 118 219 2 2 0
+8
+0
+>Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_64832_flag_1_multi_4.9461_len_1144 3520924 1144
+1018696 1018775 1021 1101 2 2 0
+-77
+0
+>Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_85481_flag_1_multi_5.0000_len_808 3520924 808
+1060025 1060101 314 238 0 0 0
+0
+1060128 1060203 502 427 0 0 0
+0
+1060340 1060430 91 1 0 0 0
+0
+>Leisingera_caerulea_DSM_24564_NZ_KI421513.1_Leisingera_caerulea_DSM_24564_PhacaeDRAFT_Scaffold1.6__whole_genome_shotgun_sequence k105_93687_flag_1_multi_1.9253_len_1123 3520924 1123
+1680931 1681012 82 1 0 0 0
+0
