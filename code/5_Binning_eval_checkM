@@ -1,0 +1,17 @@
+#!/bin/bash -l
+
+#SBATCH -A g2020008
+#SBATCH -p core
+#SBATCH -n 4
+#SBATCH -t 04:30:00
+#SBATCH -J CheckM_GenomeAnalysis
+#SBATCH --mail-type=ALL
+#SBATCH --mail-user earthius@gmail.com
+# This bash script evaluates of the binning using CheckM
+
+# load modules
+module load bioinfo-tools
+module load CheckM/1.0.12
+
+# Commands
+checkm lineage_wf -t 4 -x fa --reduced_tree /home/joen8526/GenomeAnalysis/data/binned_metagenome /home/joen8526/GenomeAnalysis/analyses/05_binning_evaluation
