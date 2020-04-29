@@ -27,6 +27,6 @@ module load megahit
 
 megahit --k-min 65 --k-max 105 --k-step 10 --kmin-1pass -t 2 \
 -1 /home/joen8526/GenomeAnalysis/data/raw_data/DNA_trimmed/SRR4342129_1.paired.trimmed.fastq.gz,/home/joen8526/GenomeAnalysis/data/raw_data/DNA_trimmed/SRR4342133_1.paired.trimmed.fastq.gz \
--2 /home/joen8526/GenomeAnalysis/data/raw_data/DNA_trimmed/SRR4342129_1.paired.trimmed.fastq.gz,/home/joen8526/GenomeAnalysis/data/raw_data/DNA_trimmed/SRR4342133_2.paired.trimmed.fastq.gz \
+-2 /home/joen8526/GenomeAnalysis/data/raw_data/DNA_trimmed/SRR4342129_2.paired.trimmed.fastq.gz,/home/joen8526/GenomeAnalysis/data/raw_data/DNA_trimmed/SRR4342133_2.paired.trimmed.fastq.gz \
 -o /home/joen8526/GenomeAnalysis/data/assembly_pooled
 

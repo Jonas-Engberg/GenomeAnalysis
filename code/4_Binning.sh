@@ -13,4 +13,4 @@ module load bioinfo-tools
 module load MetaBat/2.12.1
 
 # Your commands
-metabat -i /home/joen8526/GenomeAnalysis/data/assembly_pooled/final.contigs.fa -o /home/joen8526/GenomeAnalysis/data/binned_metagenome/bins -t 3
+metabat -i /home/joen8526/GenomeAnalysis/data/assembly_pooled/final.contigs.fa -o /home/joen8526/GenomeAnalysis/data/binned_metagenome/bins -t 2
