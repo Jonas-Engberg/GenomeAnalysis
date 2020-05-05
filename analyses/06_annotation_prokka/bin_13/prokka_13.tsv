@@ -1,0 +1,1525 @@
+locus_tag	ftype	gene	EC_number	product
+OIGPGILK_00001	CDS			hypothetical protein
+OIGPGILK_00001	gene			
+OIGPGILK_00002	CDS	atsA_1	3.1.6.1	Arylsulfatase
+OIGPGILK_00002	gene	atsA_1		
+OIGPGILK_00003	CDS			hypothetical protein
+OIGPGILK_00003	gene			
+OIGPGILK_00004	CDS			hypothetical protein
+OIGPGILK_00004	gene			
+OIGPGILK_00005	CDS			hypothetical protein
+OIGPGILK_00005	gene			
+OIGPGILK_00006	CDS	sdpB		Sporulation-delaying protein SdpB
+OIGPGILK_00006	gene	sdpB		
+OIGPGILK_00007	CDS			hypothetical protein
+OIGPGILK_00007	gene			
+OIGPGILK_00008	CDS		5.1.1.21	Isoleucine 2-epimerase
+OIGPGILK_00008	gene			
+OIGPGILK_00009	CDS	queF	1.7.1.13	NADPH-dependent 7-cyano-7-deazaguanine reductase
+OIGPGILK_00009	gene	queF		
+OIGPGILK_00010	CDS	queE	4.3.99.3	7-carboxy-7-deazaguanine synthase
+OIGPGILK_00010	gene	queE		
+OIGPGILK_00011	CDS			hypothetical protein
+OIGPGILK_00011	gene			
+OIGPGILK_00012	CDS	puuD_1	3.5.1.94	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD
+OIGPGILK_00012	gene	puuD_1		
+OIGPGILK_00013	CDS			hypothetical protein
+OIGPGILK_00013	gene			
+OIGPGILK_00014	CDS			hypothetical protein
+OIGPGILK_00014	gene			
+OIGPGILK_00015	CDS	fhaA		FHA domain-containing protein FhaA
+OIGPGILK_00015	gene	fhaA		
+OIGPGILK_00016	CDS			hypothetical protein
+OIGPGILK_00016	gene			
+OIGPGILK_00017	CDS	prc	3.4.21.102	Tail-specific protease
+OIGPGILK_00017	gene	prc		
+OIGPGILK_00018	CDS			hypothetical protein
+OIGPGILK_00018	gene			
+OIGPGILK_00019	CDS	lolD	3.6.3.-	Lipoprotein-releasing system ATP-binding protein LolD
+OIGPGILK_00019	gene	lolD		
+OIGPGILK_00020	CDS			hypothetical protein
+OIGPGILK_00020	gene			
+OIGPGILK_00021	CDS			hypothetical protein
+OIGPGILK_00021	gene			
+OIGPGILK_00022	CDS	pknD_1	2.7.11.1	Serine/threonine-protein kinase PknD
+OIGPGILK_00022	gene	pknD_1		
+OIGPGILK_00023	CDS			hypothetical protein
+OIGPGILK_00023	gene			
+OIGPGILK_00024	CDS			hypothetical protein
+OIGPGILK_00024	gene			
+OIGPGILK_00025	CDS	pbpE		Penicillin-binding protein 4*
+OIGPGILK_00025	gene	pbpE		
+OIGPGILK_00026	CDS			hypothetical protein
+OIGPGILK_00026	gene			
+OIGPGILK_00027	CDS			hypothetical protein
+OIGPGILK_00027	gene			
+OIGPGILK_00028	CDS	crcB		Putative fluoride ion transporter CrcB
+OIGPGILK_00028	gene	crcB		
+OIGPGILK_00029	CDS	uvrA		UvrABC system protein A
+OIGPGILK_00029	gene	uvrA		
+OIGPGILK_00030	CDS	bamB_1		Outer membrane protein assembly factor BamB
+OIGPGILK_00030	gene	bamB_1		
+OIGPGILK_00031	CDS			hypothetical protein
+OIGPGILK_00031	gene			
+OIGPGILK_00032	CDS			hypothetical protein
+OIGPGILK_00032	gene			
+OIGPGILK_00033	CDS			hypothetical protein
+OIGPGILK_00033	gene			
+OIGPGILK_00034	CDS			hypothetical protein
+OIGPGILK_00034	gene			
+OIGPGILK_00035	CDS			hypothetical protein
+OIGPGILK_00035	gene			
+OIGPGILK_00036	CDS			hypothetical protein
+OIGPGILK_00036	gene			
+OIGPGILK_00037	CDS			hypothetical protein
+OIGPGILK_00037	gene			
+OIGPGILK_00038	CDS			hypothetical protein
+OIGPGILK_00038	gene			
+OIGPGILK_00039	CDS	pepT_1	3.4.11.4	Peptidase T
+OIGPGILK_00039	gene	pepT_1		
+OIGPGILK_00040	CDS			hypothetical protein
+OIGPGILK_00040	gene			
+OIGPGILK_00041	CDS			hypothetical protein
+OIGPGILK_00041	gene			
+OIGPGILK_00042	CDS	vioB	2.3.1.209	dTDP-4-amino-4,6-dideoxy-D-glucose acyltransferase
+OIGPGILK_00042	gene	vioB		
+OIGPGILK_00043	CDS			hypothetical protein
+OIGPGILK_00043	gene			
+OIGPGILK_00044	CDS	pkn1_1	2.7.11.1	Serine/threonine-protein kinase pkn1
+OIGPGILK_00044	gene	pkn1_1		
+OIGPGILK_00045	CDS			hypothetical protein
+OIGPGILK_00045	gene			
+OIGPGILK_00046	CDS			hypothetical protein
+OIGPGILK_00046	gene			
+OIGPGILK_00047	CDS			hypothetical protein
+OIGPGILK_00047	gene			
+OIGPGILK_00048	CDS	ddl	6.3.2.4	D-alanine--D-alanine ligase
+OIGPGILK_00048	gene	ddl		
+OIGPGILK_00049	CDS	pqqE		Coenzyme PQQ synthesis protein E
+OIGPGILK_00049	gene	pqqE		
+OIGPGILK_00050	CDS		2.4.-.-	putative glycosyltransferase
+OIGPGILK_00050	gene			
+OIGPGILK_00051	CDS	hisI	3.5.4.19	Phosphoribosyl-AMP cyclohydrolase
+OIGPGILK_00051	gene	hisI		
+OIGPGILK_00052	CDS			hypothetical protein
+OIGPGILK_00052	gene			
+OIGPGILK_00053	CDS			hypothetical protein
+OIGPGILK_00053	gene			
+OIGPGILK_00054	CDS	apaH	3.6.1.41	Bis(5'-nucleosyl)-tetraphosphatase, symmetrical
+OIGPGILK_00054	gene	apaH		
+OIGPGILK_00055	CDS	hspA_1		Spore protein SP21
+OIGPGILK_00055	gene	hspA_1		
+OIGPGILK_00056	CDS	hspA_2		Spore protein SP21
+OIGPGILK_00056	gene	hspA_2		
+OIGPGILK_00057	CDS			hypothetical protein
+OIGPGILK_00057	gene			
+OIGPGILK_00058	CDS			hypothetical protein
+OIGPGILK_00058	gene			
+OIGPGILK_00059	CDS			hypothetical protein
+OIGPGILK_00059	gene			
+OIGPGILK_00060	CDS	ftsH_1	3.4.24.-	ATP-dependent zinc metalloprotease FtsH
+OIGPGILK_00060	gene	ftsH_1		
+OIGPGILK_00061	CDS			hypothetical protein
+OIGPGILK_00061	gene			
+OIGPGILK_00062	CDS			hypothetical protein
+OIGPGILK_00062	gene			
+OIGPGILK_00063	CDS	yhdG		putative amino acid permease YhdG
+OIGPGILK_00063	gene	yhdG		
+OIGPGILK_00064	CDS	ipuC	6.3.2.-	Glutamate--isopropylamine ligase
+OIGPGILK_00064	gene	ipuC		
+OIGPGILK_00065	CDS	puuD_2	3.5.1.94	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD
+OIGPGILK_00065	gene	puuD_2		
+OIGPGILK_00066	CDS	thiS		Sulfur carrier protein ThiS
+OIGPGILK_00066	gene	thiS		
+OIGPGILK_00067	CDS			hypothetical protein
+OIGPGILK_00067	gene			
+OIGPGILK_00068	CDS			hypothetical protein
+OIGPGILK_00068	gene			
+OIGPGILK_00069	CDS			hypothetical protein
+OIGPGILK_00069	gene			
+OIGPGILK_00070	CDS			hypothetical protein
+OIGPGILK_00070	gene			
+OIGPGILK_00071	CDS			hypothetical protein
+OIGPGILK_00071	gene			
+OIGPGILK_00072	CDS	proA	4.1.3.16	4-hydroxy-4-methyl-2-oxoglutarate aldolase/4-carboxy-4-hydroxy-2-oxoadipate aldolase
+OIGPGILK_00072	gene	proA		
+OIGPGILK_00073	CDS			hypothetical protein
+OIGPGILK_00073	gene			
+OIGPGILK_00074	CDS	aroB	4.2.3.4	3-dehydroquinate synthase
+OIGPGILK_00074	gene	aroB		
+OIGPGILK_00075	CDS			hypothetical protein
+OIGPGILK_00075	gene			
+OIGPGILK_00076	CDS			hypothetical protein
+OIGPGILK_00076	gene			
+OIGPGILK_00077	CDS	hyuA	3.5.2.-	D-phenylhydantoinase
+OIGPGILK_00077	gene	hyuA		
+OIGPGILK_00078	CDS			hypothetical protein
+OIGPGILK_00078	gene			
+OIGPGILK_00079	CDS	bamB_2		Outer membrane protein assembly factor BamB
+OIGPGILK_00079	gene	bamB_2		
+OIGPGILK_00080	CDS			hypothetical protein
+OIGPGILK_00080	gene			
+OIGPGILK_00081	CDS	sigW		ECF RNA polymerase sigma factor SigW
+OIGPGILK_00081	gene	sigW		
+OIGPGILK_00082	CDS			hypothetical protein
+OIGPGILK_00082	gene			
+OIGPGILK_00083	CDS		2.1.1.315	27-O-demethylrifamycin SV methyltransferase
+OIGPGILK_00083	gene			
+OIGPGILK_00084	CDS	thyA	2.1.1.45	Thymidylate synthase
+OIGPGILK_00084	gene	thyA		
+OIGPGILK_00085	CDS	dhfrIII	1.5.1.3	Dihydrofolate reductase type 3
+OIGPGILK_00085	gene	dhfrIII		
+OIGPGILK_00086	CDS	epmA	6.3.1.-	Elongation factor P--(R)-beta-lysine ligase
+OIGPGILK_00086	gene	epmA		
+OIGPGILK_00087	CDS			hypothetical protein
+OIGPGILK_00087	gene			
+OIGPGILK_00088	CDS			hypothetical protein
+OIGPGILK_00088	gene			
+OIGPGILK_00089	CDS	bepA_1	3.4.-.-	Beta-barrel assembly-enhancing protease
+OIGPGILK_00089	gene	bepA_1		
+OIGPGILK_00090	CDS			hypothetical protein
+OIGPGILK_00090	gene			
+OIGPGILK_00091	CDS			hypothetical protein
+OIGPGILK_00091	gene			
+OIGPGILK_00092	CDS	bamB_3		Outer membrane protein assembly factor BamB
+OIGPGILK_00092	gene	bamB_3		
+OIGPGILK_00093	CDS			hypothetical protein
+OIGPGILK_00093	gene			
+OIGPGILK_00094	CDS			hypothetical protein
+OIGPGILK_00094	gene			
+OIGPGILK_00095	CDS			hypothetical protein
+OIGPGILK_00095	gene			
+OIGPGILK_00096	CDS			hypothetical protein
+OIGPGILK_00096	gene			
+OIGPGILK_00097	CDS			hypothetical protein
+OIGPGILK_00097	gene			
+OIGPGILK_00098	CDS	lysC	2.7.2.4	Aspartate kinase Ask_LysC
+OIGPGILK_00098	gene	lysC		
+OIGPGILK_00099	CDS			hypothetical protein
+OIGPGILK_00099	gene			
+OIGPGILK_00100	CDS	valS	6.1.1.9	Valine--tRNA ligase
+OIGPGILK_00100	gene	valS		
+OIGPGILK_00101	CDS			hypothetical protein
+OIGPGILK_00101	gene			
+OIGPGILK_00102	CDS			hypothetical protein
+OIGPGILK_00102	gene			
+OIGPGILK_00103	CDS	csrA		Carbon storage regulator 
+OIGPGILK_00103	gene	csrA		
+OIGPGILK_00104	CDS			hypothetical protein
+OIGPGILK_00104	gene			
+OIGPGILK_00105	CDS	betC_1	3.1.6.6	Choline-sulfatase
+OIGPGILK_00105	gene	betC_1		
+OIGPGILK_00106	CDS			hypothetical protein
+OIGPGILK_00106	gene			
+OIGPGILK_00107	CDS	ufaA1	2.1.1.-	Tuberculostearic acid methyltransferase UfaA1
+OIGPGILK_00107	gene	ufaA1		
+OIGPGILK_00108	CDS			hypothetical protein
+OIGPGILK_00108	gene			
+OIGPGILK_00109	CDS			hypothetical protein
+OIGPGILK_00109	gene			
+OIGPGILK_00110	CDS	ycdY		Chaperone protein YcdY
+OIGPGILK_00110	gene	ycdY		
+OIGPGILK_00111	CDS			Putative transcriptional regulator
+OIGPGILK_00111	gene			
+OIGPGILK_00112	CDS	iolX_1	1.1.1.370	scyllo-inositol 2-dehydrogenase (NAD(+))
+OIGPGILK_00112	gene	iolX_1		
+OIGPGILK_00113	CDS	rbsK	2.7.1.15	Ribokinase
+OIGPGILK_00113	gene	rbsK		
+OIGPGILK_00114	CDS	spo0F	2.7.-.-	Sporulation initiation phosphotransferase F
+OIGPGILK_00114	gene	spo0F		
+OIGPGILK_00115	CDS			hypothetical protein
+OIGPGILK_00115	gene			
+OIGPGILK_00116	CDS			hypothetical protein
+OIGPGILK_00116	gene			
+OIGPGILK_00117	CDS			hypothetical protein
+OIGPGILK_00117	gene			
+OIGPGILK_00118	CDS			hypothetical protein
+OIGPGILK_00118	gene			
+OIGPGILK_00119	CDS	ycf3		Photosystem I assembly protein Ycf3
+OIGPGILK_00119	gene	ycf3		
+OIGPGILK_00120	CDS			hypothetical protein
+OIGPGILK_00120	gene			
+OIGPGILK_00121	CDS			hypothetical protein
+OIGPGILK_00121	gene			
+OIGPGILK_00122	CDS			hypothetical protein
+OIGPGILK_00122	gene			
+OIGPGILK_00123	CDS	pld	3.1.4.4	Phospholipase D
+OIGPGILK_00123	gene	pld		
+OIGPGILK_00124	CDS	uup		ABC transporter ATP-binding protein uup
+OIGPGILK_00124	gene	uup		
+OIGPGILK_00125	CDS			hypothetical protein
+OIGPGILK_00125	gene			
+OIGPGILK_00126	CDS			hypothetical protein
+OIGPGILK_00126	gene			
+OIGPGILK_00127	CDS	tilS	6.3.4.19	tRNA(Ile)-lysidine synthase
+OIGPGILK_00127	gene	tilS		
+OIGPGILK_00128	CDS			hypothetical protein
+OIGPGILK_00128	gene			
+OIGPGILK_00129	CDS			hypothetical protein
+OIGPGILK_00129	gene			
+OIGPGILK_00130	CDS			hypothetical protein
+OIGPGILK_00130	gene			
+OIGPGILK_00131	CDS	hpt	2.4.2.8	Hypoxanthine-guanine phosphoribosyltransferase
+OIGPGILK_00131	gene	hpt		
+OIGPGILK_00132	CDS	bshA	2.4.1.-	N-acetyl-alpha-D-glucosaminyl L-malate synthase
+OIGPGILK_00132	gene	bshA		
+OIGPGILK_00133	CDS			hypothetical protein
+OIGPGILK_00133	gene			
+OIGPGILK_00134	CDS	mtnK	2.7.1.100	Methylthioribose kinase
+OIGPGILK_00134	gene	mtnK		
+OIGPGILK_00135	CDS			hypothetical protein
+OIGPGILK_00135	gene			
+OIGPGILK_00136	CDS			hypothetical protein
+OIGPGILK_00136	gene			
+OIGPGILK_00137	CDS	mobA	2.7.7.77	putative molybdenum cofactor guanylyltransferase
+OIGPGILK_00137	gene	mobA		
+OIGPGILK_00138	CDS	fhcC		Formyltransferase/hydrolase complex Fhc subunit C
+OIGPGILK_00138	gene	fhcC		
+OIGPGILK_00139	CDS	moeA	2.10.1.1	Molybdopterin molybdenumtransferase
+OIGPGILK_00139	gene	moeA		
+OIGPGILK_00140	CDS	atsA_2	3.1.6.1	Arylsulfatase
+OIGPGILK_00140	gene	atsA_2		
+OIGPGILK_00141	CDS			hypothetical protein
+OIGPGILK_00141	gene			
+OIGPGILK_00142	CDS	fabF_1	2.3.1.179	3-oxoacyl-[acyl-carrier-protein] synthase 2
+OIGPGILK_00142	gene	fabF_1		
+OIGPGILK_00143	CDS			hypothetical protein
+OIGPGILK_00143	gene			
+OIGPGILK_00144	CDS			hypothetical protein
+OIGPGILK_00144	gene			
+OIGPGILK_00145	CDS			hypothetical protein
+OIGPGILK_00145	gene			
+OIGPGILK_00146	CDS			hypothetical protein
+OIGPGILK_00146	gene			
+OIGPGILK_00147	CDS			hypothetical protein
+OIGPGILK_00147	gene			
+OIGPGILK_00148	CDS			hypothetical protein
+OIGPGILK_00148	gene			
+OIGPGILK_00149	CDS	bepA_2	3.4.-.-	Beta-barrel assembly-enhancing protease
+OIGPGILK_00149	gene	bepA_2		
+OIGPGILK_00150	CDS			hypothetical protein
+OIGPGILK_00150	gene			
+OIGPGILK_00151	CDS	glbN		Group 1 truncated hemoglobin GlbN
+OIGPGILK_00151	gene	glbN		
+OIGPGILK_00152	CDS	afr_1	1.1.1.292	1,5-anhydro-D-fructose reductase
+OIGPGILK_00152	gene	afr_1		
+OIGPGILK_00153	CDS			hypothetical protein
+OIGPGILK_00153	gene			
+OIGPGILK_00154	CDS	bamB_4		Outer membrane protein assembly factor BamB
+OIGPGILK_00154	gene	bamB_4		
+OIGPGILK_00155	CDS	gno_1	1.1.1.69	Gluconate 5-dehydrogenase
+OIGPGILK_00155	gene	gno_1		
+OIGPGILK_00156	CDS		3.5.1.59	N-carbamoylsarcosine amidase
+OIGPGILK_00156	gene			
+OIGPGILK_00157	CDS	odh	1.5.1.28	Opine dehydrogenase
+OIGPGILK_00157	gene	odh		
+OIGPGILK_00158	CDS	pknD_2	2.7.11.1	Serine/threonine-protein kinase PknD
+OIGPGILK_00158	gene	pknD_2		
+OIGPGILK_00159	CDS	gudP		putative glucarate transporter
+OIGPGILK_00159	gene	gudP		
+OIGPGILK_00160	CDS	hisA	5.3.1.16	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+OIGPGILK_00160	gene	hisA		
+OIGPGILK_00161	CDS	hisH	2.4.2.-	Imidazole glycerol phosphate synthase subunit HisH
+OIGPGILK_00161	gene	hisH		
+OIGPGILK_00162	CDS	gspO		Type 4 prepilin-like proteins leader peptide-processing enzyme
+OIGPGILK_00162	gene	gspO		
+OIGPGILK_00163	CDS	aroK	2.7.1.71	Shikimate kinase 1
+OIGPGILK_00163	gene	aroK		
+OIGPGILK_00164	CDS	rbsD	5.4.99.62	D-ribose pyranase
+OIGPGILK_00164	gene	rbsD		
+OIGPGILK_00165	CDS	fdh	1.1.1.122	D-threo-aldose 1-dehydrogenase
+OIGPGILK_00165	gene	fdh		
+OIGPGILK_00166	CDS			hypothetical protein
+OIGPGILK_00166	gene			
+OIGPGILK_00167	CDS			hypothetical protein
+OIGPGILK_00167	gene			
+OIGPGILK_00168	CDS			hypothetical protein
+OIGPGILK_00168	gene			
+OIGPGILK_00169	CDS			hypothetical protein
+OIGPGILK_00169	gene			
+OIGPGILK_00170	CDS			hypothetical protein
+OIGPGILK_00170	gene			
+OIGPGILK_00171	CDS			hypothetical protein
+OIGPGILK_00171	gene			
+OIGPGILK_00172	CDS	gltP		Proton/glutamate-aspartate symporter
+OIGPGILK_00172	gene	gltP		
+OIGPGILK_00173	CDS			hypothetical protein
+OIGPGILK_00173	gene			
+OIGPGILK_00174	CDS			hypothetical protein
+OIGPGILK_00174	gene			
+OIGPGILK_00175	CDS	afr_2	1.1.1.292	1,5-anhydro-D-fructose reductase
+OIGPGILK_00175	gene	afr_2		
+OIGPGILK_00176	CDS			hypothetical protein
+OIGPGILK_00176	gene			
+OIGPGILK_00177	CDS			hypothetical protein
+OIGPGILK_00177	gene			
+OIGPGILK_00178	CDS	cyoE	2.5.1.-	Protoheme IX farnesyltransferase
+OIGPGILK_00178	gene	cyoE		
+OIGPGILK_00179	CDS			hypothetical protein
+OIGPGILK_00179	gene			
+OIGPGILK_00180	CDS			hypothetical protein
+OIGPGILK_00180	gene			
+OIGPGILK_00181	CDS			hypothetical protein
+OIGPGILK_00181	gene			
+OIGPGILK_00182	CDS			hypothetical protein
+OIGPGILK_00182	gene			
+OIGPGILK_00183	CDS			hypothetical protein
+OIGPGILK_00183	gene			
+OIGPGILK_00184	CDS	nuoK	1.6.5.11	NADH-quinone oxidoreductase subunit K
+OIGPGILK_00184	gene	nuoK		
+OIGPGILK_00185	CDS	nuoJ	1.6.5.11	NADH-quinone oxidoreductase subunit J
+OIGPGILK_00185	gene	nuoJ		
+OIGPGILK_00186	CDS	ndhI	1.6.5.11	NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+OIGPGILK_00186	gene	ndhI		
+OIGPGILK_00187	CDS			hypothetical protein
+OIGPGILK_00187	gene			
+OIGPGILK_00188	CDS			hypothetical protein
+OIGPGILK_00188	gene			
+OIGPGILK_00189	CDS			hypothetical protein
+OIGPGILK_00189	gene			
+OIGPGILK_00190	CDS			hypothetical protein
+OIGPGILK_00190	gene			
+OIGPGILK_00191	CDS			hypothetical protein
+OIGPGILK_00191	gene			
+OIGPGILK_00192	CDS	secA		Protein translocase subunit SecA
+OIGPGILK_00192	gene	secA		
+OIGPGILK_00193	CDS	waaA	2.4.99.12	3-deoxy-D-manno-octulosonic acid transferase
+OIGPGILK_00193	gene	waaA		
+OIGPGILK_00194	CDS	metK	2.5.1.6	S-adenosylmethionine synthase
+OIGPGILK_00194	gene	metK		
+OIGPGILK_00195	CDS			hypothetical protein
+OIGPGILK_00195	gene			
+OIGPGILK_00196	CDS			hypothetical protein
+OIGPGILK_00196	gene			
+OIGPGILK_00197	CDS			hypothetical protein
+OIGPGILK_00197	gene			
+OIGPGILK_00198	CDS			hypothetical protein
+OIGPGILK_00198	gene			
+OIGPGILK_00199	CDS			hypothetical protein
+OIGPGILK_00199	gene			
+OIGPGILK_00200	CDS			hypothetical protein
+OIGPGILK_00200	gene			
+OIGPGILK_00201	CDS			hypothetical protein
+OIGPGILK_00201	gene			
+OIGPGILK_00202	CDS	gyrB	5.99.1.3	Type 2 topoisomerase subunit B
+OIGPGILK_00202	gene	gyrB		
+OIGPGILK_00203	CDS			hypothetical protein
+OIGPGILK_00203	gene			
+OIGPGILK_00204	CDS			hypothetical protein
+OIGPGILK_00204	gene			
+OIGPGILK_00205	CDS	livH		High-affinity branched-chain amino acid transport system permease protein LivH
+OIGPGILK_00205	gene	livH		
+OIGPGILK_00206	CDS	bepA_3	3.4.-.-	Beta-barrel assembly-enhancing protease
+OIGPGILK_00206	gene	bepA_3		
+OIGPGILK_00207	CDS			hypothetical protein
+OIGPGILK_00207	gene			
+OIGPGILK_00208	CDS			hypothetical protein
+OIGPGILK_00208	gene			
+OIGPGILK_00209	CDS	phoP		Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+OIGPGILK_00209	gene	phoP		
+OIGPGILK_00210	CDS			hypothetical protein
+OIGPGILK_00210	gene			
+OIGPGILK_00211	CDS			hypothetical protein
+OIGPGILK_00211	gene			
+OIGPGILK_00212	CDS			hypothetical protein
+OIGPGILK_00212	gene			
+OIGPGILK_00213	CDS			hypothetical protein
+OIGPGILK_00213	gene			
+OIGPGILK_00214	CDS	lgt	2.4.99.-	Prolipoprotein diacylglyceryl transferase
+OIGPGILK_00214	gene	lgt		
+OIGPGILK_00215	CDS	panC	6.3.2.1	Pantothenate synthetase
+OIGPGILK_00215	gene	panC		
+OIGPGILK_00216	CDS	folK	2.7.6.3	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+OIGPGILK_00216	gene	folK		
+OIGPGILK_00217	CDS		2.4.1.54	Undecaprenyl-phosphate mannosyltransferase
+OIGPGILK_00217	gene			
+OIGPGILK_00218	CDS	tuaB		Teichuronic acid biosynthesis protein TuaB
+OIGPGILK_00218	gene	tuaB		
+OIGPGILK_00219	CDS			hypothetical protein
+OIGPGILK_00219	gene			
+OIGPGILK_00220	CDS			hypothetical protein
+OIGPGILK_00220	gene			
+OIGPGILK_00221	CDS			hypothetical protein
+OIGPGILK_00221	gene			
+OIGPGILK_00222	CDS	atsA_3	3.1.6.1	Arylsulfatase
+OIGPGILK_00222	gene	atsA_3		
+OIGPGILK_00223	CDS			hypothetical protein
+OIGPGILK_00223	gene			
+OIGPGILK_00224	CDS			hypothetical protein
+OIGPGILK_00224	gene			
+OIGPGILK_00225	CDS			hypothetical protein
+OIGPGILK_00225	gene			
+OIGPGILK_00226	CDS	nhaR		Transcriptional activator protein NhaR
+OIGPGILK_00226	gene	nhaR		
+OIGPGILK_00227	tRNA			tRNA-Ser(tga)
+OIGPGILK_00227	gene			
+OIGPGILK_00228	CDS			hypothetical protein
+OIGPGILK_00228	gene			
+OIGPGILK_00229	CDS	fosB	2.5.1.-	Metallothiol transferase FosB
+OIGPGILK_00229	gene	fosB		
+OIGPGILK_00230	CDS	srp54		Signal recognition particle 54 kDa protein
+OIGPGILK_00230	gene	srp54		
+OIGPGILK_00231	CDS			hypothetical protein
+OIGPGILK_00231	gene			
+OIGPGILK_00232	CDS			hypothetical protein
+OIGPGILK_00232	gene			
+OIGPGILK_00233	CDS			hypothetical protein
+OIGPGILK_00233	gene			
+OIGPGILK_00234	CDS			hypothetical protein
+OIGPGILK_00234	gene			
+OIGPGILK_00235	CDS			hypothetical protein
+OIGPGILK_00235	gene			
+OIGPGILK_00236	CDS			hypothetical protein
+OIGPGILK_00236	gene			
+OIGPGILK_00237	CDS	bioF	2.3.1.47	8-amino-7-oxononanoate synthase
+OIGPGILK_00237	gene	bioF		
+OIGPGILK_00238	CDS	macB	3.6.3.-	Macrolide export ATP-binding/permease protein MacB
+OIGPGILK_00238	gene	macB		
+OIGPGILK_00239	CDS	yknY_1	3.6.3.-	putative ABC transporter ATP-binding protein YknY
+OIGPGILK_00239	gene	yknY_1		
+OIGPGILK_00240	CDS			hypothetical protein
+OIGPGILK_00240	gene			
+OIGPGILK_00241	CDS			hypothetical protein
+OIGPGILK_00241	gene			
+OIGPGILK_00242	CDS	carC	1.14.20.3	(5R)-carbapenem-3-carboxylate synthase
+OIGPGILK_00242	gene	carC		
+OIGPGILK_00243	CDS	menA	2.5.1.74	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+OIGPGILK_00243	gene	menA		
+OIGPGILK_00244	CDS	mhpD	4.2.1.80	2-keto-4-pentenoate hydratase
+OIGPGILK_00244	gene	mhpD		
+OIGPGILK_00245	CDS	flK	3.1.2.29	Fluoroacetyl-CoA thioesterase
+OIGPGILK_00245	gene	flK		
+OIGPGILK_00246	CDS			hypothetical protein
+OIGPGILK_00246	gene			
+OIGPGILK_00247	CDS	ade	3.5.4.2	Adenine deaminase
+OIGPGILK_00247	gene	ade		
+OIGPGILK_00248	CDS	hutI	3.5.2.7	Imidazolonepropionase
+OIGPGILK_00248	gene	hutI		
+OIGPGILK_00249	CDS	pntB	1.6.1.2	NAD(P) transhydrogenase subunit beta
+OIGPGILK_00249	gene	pntB		
+OIGPGILK_00250	CDS	dgaE	4.3.1.29	D-glucosaminate-6-phosphate ammonia lyase
+OIGPGILK_00250	gene	dgaE		
+OIGPGILK_00251	CDS		5.1.1.-	N-succinyl-L-Arg/Lys racemase
+OIGPGILK_00251	gene			
+OIGPGILK_00252	CDS	pknD_3	2.7.11.1	Serine/threonine-protein kinase PknD
+OIGPGILK_00252	gene	pknD_3		
+OIGPGILK_00253	CDS	budC	1.1.1.304	Diacetyl reductase [(S)-acetoin forming]
+OIGPGILK_00253	gene	budC		
+OIGPGILK_00254	CDS		3.4.21.-	putative subtilase-type serine protease
+OIGPGILK_00254	gene			
+OIGPGILK_00255	CDS			hypothetical protein
+OIGPGILK_00255	gene			
+OIGPGILK_00256	CDS			hypothetical protein
+OIGPGILK_00256	gene			
+OIGPGILK_00257	CDS			hypothetical protein
+OIGPGILK_00257	gene			
+OIGPGILK_00258	CDS	carA2	1.3.99.29	zeta-carotene-forming phytoene desaturase
+OIGPGILK_00258	gene	carA2		
+OIGPGILK_00259	CDS			hypothetical protein
+OIGPGILK_00259	gene			
+OIGPGILK_00260	CDS	iolE_1	4.2.1.44	Inosose dehydratase
+OIGPGILK_00260	gene	iolE_1		
+OIGPGILK_00261	CDS			hypothetical protein
+OIGPGILK_00261	gene			
+OIGPGILK_00262	CDS	gno_2	1.1.1.69	Gluconate 5-dehydrogenase
+OIGPGILK_00262	gene	gno_2		
+OIGPGILK_00263	CDS			hypothetical protein
+OIGPGILK_00263	gene			
+OIGPGILK_00264	CDS			hypothetical protein
+OIGPGILK_00264	gene			
+OIGPGILK_00265	CDS	betC_2	3.1.6.6	Choline-sulfatase
+OIGPGILK_00265	gene	betC_2		
+OIGPGILK_00266	CDS			hypothetical protein
+OIGPGILK_00266	gene			
+OIGPGILK_00267	CDS			hypothetical protein
+OIGPGILK_00267	gene			
+OIGPGILK_00268	CDS			hypothetical protein
+OIGPGILK_00268	gene			
+OIGPGILK_00269	CDS	murK	2.7.1.-	N-acetylmuramic acid/N-acetylglucosamine kinase
+OIGPGILK_00269	gene	murK		
+OIGPGILK_00270	CDS	argA	2.3.1.1	Amino-acid acetyltransferase
+OIGPGILK_00270	gene	argA		
+OIGPGILK_00271	CDS			hypothetical protein
+OIGPGILK_00271	gene			
+OIGPGILK_00272	CDS			hypothetical protein
+OIGPGILK_00272	gene			
+OIGPGILK_00273	CDS			hypothetical protein
+OIGPGILK_00273	gene			
+OIGPGILK_00274	CDS	bepA_4	3.4.-.-	Beta-barrel assembly-enhancing protease
+OIGPGILK_00274	gene	bepA_4		
+OIGPGILK_00275	CDS			hypothetical protein
+OIGPGILK_00275	gene			
+OIGPGILK_00276	CDS	atsA_4	3.1.6.1	Arylsulfatase
+OIGPGILK_00276	gene	atsA_4		
+OIGPGILK_00277	CDS			hypothetical protein
+OIGPGILK_00277	gene			
+OIGPGILK_00278	CDS	fliG		Flagellar motor switch protein FliG
+OIGPGILK_00278	gene	fliG		
+OIGPGILK_00279	CDS			hypothetical protein
+OIGPGILK_00279	gene			
+OIGPGILK_00280	CDS			hypothetical protein
+OIGPGILK_00280	gene			
+OIGPGILK_00281	CDS			hypothetical protein
+OIGPGILK_00281	gene			
+OIGPGILK_00282	CDS	mkl		putative ribonucleotide transport ATP-binding protein mkl
+OIGPGILK_00282	gene	mkl		
+OIGPGILK_00283	CDS			hypothetical protein
+OIGPGILK_00283	gene			
+OIGPGILK_00284	CDS			hypothetical protein
+OIGPGILK_00284	gene			
+OIGPGILK_00285	CDS			hypothetical protein
+OIGPGILK_00285	gene			
+OIGPGILK_00286	CDS			hypothetical protein
+OIGPGILK_00286	gene			
+OIGPGILK_00287	CDS	aroE	1.1.1.25	Shikimate dehydrogenase (NADP(+))
+OIGPGILK_00287	gene	aroE		
+OIGPGILK_00288	CDS	aguA	3.5.3.12	Agmatine deiminase
+OIGPGILK_00288	gene	aguA		
+OIGPGILK_00289	CDS			hypothetical protein
+OIGPGILK_00289	gene			
+OIGPGILK_00290	CDS	top6A	5.99.1.3	Type 2 DNA topoisomerase 6 subunit A
+OIGPGILK_00290	gene	top6A		
+OIGPGILK_00291	CDS	ypeA	2.3.1.-	Acetyltransferase YpeA
+OIGPGILK_00291	gene	ypeA		
+OIGPGILK_00292	CDS		3.1.-.-	Putative esterase
+OIGPGILK_00292	gene			
+OIGPGILK_00293	CDS	desVI	2.1.1.234	dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucopyranose
+OIGPGILK_00293	gene	desVI		
+OIGPGILK_00294	CDS			hypothetical protein
+OIGPGILK_00294	gene			
+OIGPGILK_00295	CDS			hypothetical protein
+OIGPGILK_00295	gene			
+OIGPGILK_00296	CDS	inlA		Internalin-A
+OIGPGILK_00296	gene	inlA		
+OIGPGILK_00297	CDS	iolG	1.1.1.18	Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+OIGPGILK_00297	gene	iolG		
+OIGPGILK_00298	CDS			hypothetical protein
+OIGPGILK_00298	gene			
+OIGPGILK_00299	CDS			hypothetical protein
+OIGPGILK_00299	gene			
+OIGPGILK_00300	CDS			hypothetical protein
+OIGPGILK_00300	gene			
+OIGPGILK_00301	CDS			hypothetical protein
+OIGPGILK_00301	gene			
+OIGPGILK_00302	CDS	betC_3	3.1.6.6	Choline-sulfatase
+OIGPGILK_00302	gene	betC_3		
+OIGPGILK_00303	CDS		3.1.6.1	Arylsulfatase
+OIGPGILK_00303	gene			
+OIGPGILK_00304	CDS			hypothetical protein
+OIGPGILK_00304	gene			
+OIGPGILK_00305	CDS	lcdH	1.1.1.108	L-carnitine dehydrogenase
+OIGPGILK_00305	gene	lcdH		
+OIGPGILK_00306	CDS	fadA	2.3.1.16	3-ketoacyl-CoA thiolase
+OIGPGILK_00306	gene	fadA		
+OIGPGILK_00307	CDS			hypothetical protein
+OIGPGILK_00307	gene			
+OIGPGILK_00308	CDS			hypothetical protein
+OIGPGILK_00308	gene			
+OIGPGILK_00309	CDS			hypothetical protein
+OIGPGILK_00309	gene			
+OIGPGILK_00310	CDS	csd	2.8.1.7	putative cysteine desulfurase
+OIGPGILK_00310	gene	csd		
+OIGPGILK_00311	CDS		6.2.1.30	Phenylacetate-coenzyme A ligase
+OIGPGILK_00311	gene			
+OIGPGILK_00312	CDS	gci	5.5.1.27	D-galactarolactone cycloisomerase
+OIGPGILK_00312	gene	gci		
+OIGPGILK_00313	CDS			hypothetical protein
+OIGPGILK_00313	gene			
+OIGPGILK_00314	CDS			Putative anti-sigma factor antagonist
+OIGPGILK_00314	gene			
+OIGPGILK_00315	CDS	epsE		Type II secretion system protein E
+OIGPGILK_00315	gene	epsE		
+OIGPGILK_00316	CDS			hypothetical protein
+OIGPGILK_00316	gene			
+OIGPGILK_00317	CDS			hypothetical protein
+OIGPGILK_00317	gene			
+OIGPGILK_00318	CDS			hypothetical protein
+OIGPGILK_00318	gene			
+OIGPGILK_00319	CDS			hypothetical protein
+OIGPGILK_00319	gene			
+OIGPGILK_00320	CDS			hypothetical protein
+OIGPGILK_00320	gene			
+OIGPGILK_00321	CDS			hypothetical protein
+OIGPGILK_00321	gene			
+OIGPGILK_00322	CDS			hypothetical protein
+OIGPGILK_00322	gene			
+OIGPGILK_00323	CDS			hypothetical protein
+OIGPGILK_00323	gene			
+OIGPGILK_00324	CDS			hypothetical protein
+OIGPGILK_00324	gene			
+OIGPGILK_00325	CDS			hypothetical protein
+OIGPGILK_00325	gene			
+OIGPGILK_00326	CDS	mutY	3.2.2.-	Adenine DNA glycosylase
+OIGPGILK_00326	gene	mutY		
+OIGPGILK_00327	CDS	prsA1	5.2.1.8	Foldase protein PrsA 1
+OIGPGILK_00327	gene	prsA1		
+OIGPGILK_00328	CDS			hypothetical protein
+OIGPGILK_00328	gene			
+OIGPGILK_00329	CDS	yegT		Putative nucleoside transporter YegT
+OIGPGILK_00329	gene	yegT		
+OIGPGILK_00330	CDS			hypothetical protein
+OIGPGILK_00330	gene			
+OIGPGILK_00331	tRNA			tRNA-Leu(cag)
+OIGPGILK_00331	gene			
+OIGPGILK_00332	CDS	moeZ_1		putative adenylyltransferase/sulfurtransferase MoeZ
+OIGPGILK_00332	gene	moeZ_1		
+OIGPGILK_00333	CDS			hypothetical protein
+OIGPGILK_00333	gene			
+OIGPGILK_00334	CDS			hypothetical protein
+OIGPGILK_00334	gene			
+OIGPGILK_00335	CDS	cpdA	3.1.4.53	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+OIGPGILK_00335	gene	cpdA		
+OIGPGILK_00336	CDS	pgaC	2.4.1.-	Poly-beta-1,6-N-acetyl-D-glucosamine synthase
+OIGPGILK_00336	gene	pgaC		
+OIGPGILK_00337	CDS			hypothetical protein
+OIGPGILK_00337	gene			
+OIGPGILK_00338	CDS	yhdJ	2.1.1.72	DNA adenine methyltransferase YhdJ
+OIGPGILK_00338	gene	yhdJ		
+OIGPGILK_00339	CDS		5.1.3.31	D-tagatose 3-epimerase
+OIGPGILK_00339	gene			
+OIGPGILK_00340	CDS	rsxB		Electron transport complex subunit RsxB
+OIGPGILK_00340	gene	rsxB		
+OIGPGILK_00341	CDS	lysA	4.1.1.20	Diaminopimelate decarboxylase
+OIGPGILK_00341	gene	lysA		
+OIGPGILK_00342	CDS			hypothetical protein
+OIGPGILK_00342	gene			
+OIGPGILK_00343	CDS			hypothetical protein
+OIGPGILK_00343	gene			
+OIGPGILK_00344	CDS			hypothetical protein
+OIGPGILK_00344	gene			
+OIGPGILK_00345	CDS	aldH	1.2.1.4	NADP-dependent fatty aldehyde dehydrogenase
+OIGPGILK_00345	gene	aldH		
+OIGPGILK_00346	CDS	sppA	3.4.21.-	Protease 4
+OIGPGILK_00346	gene	sppA		
+OIGPGILK_00347	CDS	mro	5.1.3.3	Aldose 1-epimerase
+OIGPGILK_00347	gene	mro		
+OIGPGILK_00348	CDS			hypothetical protein
+OIGPGILK_00348	gene			
+OIGPGILK_00349	CDS			hypothetical protein
+OIGPGILK_00349	gene			
+OIGPGILK_00350	CDS			hypothetical protein
+OIGPGILK_00350	gene			
+OIGPGILK_00351	CDS			Auracyanin-A
+OIGPGILK_00351	gene			
+OIGPGILK_00352	CDS	nshR	2.1.1.230	23S rRNA (adenosine(1067)-2'-O)-methyltransferase
+OIGPGILK_00352	gene	nshR		
+OIGPGILK_00353	CDS	folD		Bifunctional protein FolD protein
+OIGPGILK_00353	gene	folD		
+OIGPGILK_00354	CDS	ribBA		Riboflavin biosynthesis protein RibBA
+OIGPGILK_00354	gene	ribBA		
+OIGPGILK_00355	CDS	resA		Thiol-disulfide oxidoreductase ResA
+OIGPGILK_00355	gene	resA		
+OIGPGILK_00356	CDS	fabG	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+OIGPGILK_00356	gene	fabG		
+OIGPGILK_00357	CDS			hypothetical protein
+OIGPGILK_00357	gene			
+OIGPGILK_00358	CDS			hypothetical protein
+OIGPGILK_00358	gene			
+OIGPGILK_00359	CDS			hypothetical protein
+OIGPGILK_00359	gene			
+OIGPGILK_00360	CDS			hypothetical protein
+OIGPGILK_00360	gene			
+OIGPGILK_00361	CDS			hypothetical protein
+OIGPGILK_00361	gene			
+OIGPGILK_00362	CDS			hypothetical protein
+OIGPGILK_00362	gene			
+OIGPGILK_00363	CDS		3.1.1.-	Deacetylase
+OIGPGILK_00363	gene			
+OIGPGILK_00364	CDS			hypothetical protein
+OIGPGILK_00364	gene			
+OIGPGILK_00365	CDS			hypothetical protein
+OIGPGILK_00365	gene			
+OIGPGILK_00366	CDS			hypothetical protein
+OIGPGILK_00366	gene			
+OIGPGILK_00367	CDS			hypothetical protein
+OIGPGILK_00367	gene			
+OIGPGILK_00368	CDS			hypothetical protein
+OIGPGILK_00368	gene			
+OIGPGILK_00369	CDS			hypothetical protein
+OIGPGILK_00369	gene			
+OIGPGILK_00370	CDS			hypothetical protein
+OIGPGILK_00370	gene			
+OIGPGILK_00371	CDS			hypothetical protein
+OIGPGILK_00371	gene			
+OIGPGILK_00372	CDS	ilvC	1.1.1.382	Ketol-acid reductoisomerase (NAD(+))
+OIGPGILK_00372	gene	ilvC		
+OIGPGILK_00373	CDS	ilvH	2.2.1.6	Acetolactate synthase isozyme 3 small subunit
+OIGPGILK_00373	gene	ilvH		
+OIGPGILK_00374	CDS			hypothetical protein
+OIGPGILK_00374	gene			
+OIGPGILK_00375	tRNA			tRNA-Gly(ccc)
+OIGPGILK_00375	gene			
+OIGPGILK_00376	CDS			hypothetical protein
+OIGPGILK_00376	gene			
+OIGPGILK_00377	CDS			hypothetical protein
+OIGPGILK_00377	gene			
+OIGPGILK_00378	CDS			hypothetical protein
+OIGPGILK_00378	gene			
+OIGPGILK_00379	CDS	metG	6.1.1.10	Methionine--tRNA ligase
+OIGPGILK_00379	gene	metG		
+OIGPGILK_00380	CDS	fabF_2	2.3.1.179	3-oxoacyl-[acyl-carrier-protein] synthase 2
+OIGPGILK_00380	gene	fabF_2		
+OIGPGILK_00381	CDS			hypothetical protein
+OIGPGILK_00381	gene			
+OIGPGILK_00382	CDS			hypothetical protein
+OIGPGILK_00382	gene			
+OIGPGILK_00383	CDS			hypothetical protein
+OIGPGILK_00383	gene			
+OIGPGILK_00384	CDS			hypothetical protein
+OIGPGILK_00384	gene			
+OIGPGILK_00385	CDS			hypothetical protein
+OIGPGILK_00385	gene			
+OIGPGILK_00386	CDS			hypothetical protein
+OIGPGILK_00386	gene			
+OIGPGILK_00387	CDS	btuF		Vitamin B12-binding protein
+OIGPGILK_00387	gene	btuF		
+OIGPGILK_00388	CDS			hypothetical protein
+OIGPGILK_00388	gene			
+OIGPGILK_00389	CDS	phoB		Phosphate regulon transcriptional regulatory protein PhoB
+OIGPGILK_00389	gene	phoB		
+OIGPGILK_00390	CDS	iolW	1.1.1.371	scyllo-inositol 2-dehydrogenase (NADP(+))
+OIGPGILK_00390	gene	iolW		
+OIGPGILK_00391	CDS	iolX_2	1.1.1.370	scyllo-inositol 2-dehydrogenase (NAD(+))
+OIGPGILK_00391	gene	iolX_2		
+OIGPGILK_00392	CDS			hypothetical protein
+OIGPGILK_00392	gene			
+OIGPGILK_00393	CDS			hypothetical protein
+OIGPGILK_00393	gene			
+OIGPGILK_00394	CDS			hypothetical protein
+OIGPGILK_00394	gene			
+OIGPGILK_00395	CDS			hypothetical protein
+OIGPGILK_00395	gene			
+OIGPGILK_00396	CDS			hypothetical protein
+OIGPGILK_00396	gene			
+OIGPGILK_00397	CDS			hypothetical protein
+OIGPGILK_00397	gene			
+OIGPGILK_00398	CDS			hypothetical protein
+OIGPGILK_00398	gene			
+OIGPGILK_00399	CDS		1.-.-.-	putative FAD-linked oxidoreductase
+OIGPGILK_00399	gene			
+OIGPGILK_00400	CDS	iolI	5.3.99.11	Inosose isomerase
+OIGPGILK_00400	gene	iolI		
+OIGPGILK_00401	CDS		3.1.6.1	Arylsulfatase
+OIGPGILK_00401	gene			
+OIGPGILK_00402	CDS			hypothetical protein
+OIGPGILK_00402	gene			
+OIGPGILK_00403	CDS	emrA		Multidrug export protein EmrA
+OIGPGILK_00403	gene	emrA		
+OIGPGILK_00404	CDS	ybiH		putative HTH-type transcriptional regulator YbiH
+OIGPGILK_00404	gene	ybiH		
+OIGPGILK_00405	CDS			hypothetical protein
+OIGPGILK_00405	gene			
+OIGPGILK_00406	CDS			hypothetical protein
+OIGPGILK_00406	gene			
+OIGPGILK_00407	CDS	trpD	2.4.2.18	Anthranilate phosphoribosyltransferase
+OIGPGILK_00407	gene	trpD		
+OIGPGILK_00408	CDS	rihA	3.2.-.-	Pyrimidine-specific ribonucleoside hydrolase RihA
+OIGPGILK_00408	gene	rihA		
+OIGPGILK_00409	CDS	degP	3.4.21.107	Periplasmic serine endoprotease DegP
+OIGPGILK_00409	gene	degP		
+OIGPGILK_00410	CDS	yocK		General stress protein 16O
+OIGPGILK_00410	gene	yocK		
+OIGPGILK_00411	CDS			hypothetical protein
+OIGPGILK_00411	gene			
+OIGPGILK_00412	CDS	yknY_2	3.6.3.-	putative ABC transporter ATP-binding protein YknY
+OIGPGILK_00412	gene	yknY_2		
+OIGPGILK_00413	CDS			hypothetical protein
+OIGPGILK_00413	gene			
+OIGPGILK_00414	CDS	thiF	2.7.7.73	Sulfur carrier protein ThiS adenylyltransferase
+OIGPGILK_00414	gene	thiF		
+OIGPGILK_00415	CDS	stp	3.1.3.16	Serine/threonine phosphatase stp
+OIGPGILK_00415	gene	stp		
+OIGPGILK_00416	CDS			hypothetical protein
+OIGPGILK_00416	gene			
+OIGPGILK_00417	CDS			hypothetical protein
+OIGPGILK_00417	gene			
+OIGPGILK_00418	CDS			hypothetical protein
+OIGPGILK_00418	gene			
+OIGPGILK_00419	CDS			hypothetical protein
+OIGPGILK_00419	gene			
+OIGPGILK_00420	CDS	hyi_1	5.3.1.22	Hydroxypyruvate isomerase
+OIGPGILK_00420	gene	hyi_1		
+OIGPGILK_00421	CDS	atsA_5	3.1.6.1	Arylsulfatase
+OIGPGILK_00421	gene	atsA_5		
+OIGPGILK_00422	CDS			hypothetical protein
+OIGPGILK_00422	gene			
+OIGPGILK_00423	CDS	bacC_1	1.1.1.385	Dihydroanticapsin 7-dehydrogenase
+OIGPGILK_00423	gene	bacC_1		
+OIGPGILK_00424	CDS	hyi_2	5.3.1.22	Hydroxypyruvate isomerase
+OIGPGILK_00424	gene	hyi_2		
+OIGPGILK_00425	CDS			hypothetical protein
+OIGPGILK_00425	gene			
+OIGPGILK_00426	CDS			hypothetical protein
+OIGPGILK_00426	gene			
+OIGPGILK_00427	CDS			hypothetical protein
+OIGPGILK_00427	gene			
+OIGPGILK_00428	CDS			hypothetical protein
+OIGPGILK_00428	gene			
+OIGPGILK_00429	CDS	suhB	3.1.3.11	Fructose-1,6-bisphosphatase/inositol-1-monophosphatase
+OIGPGILK_00429	gene	suhB		
+OIGPGILK_00430	CDS			hypothetical protein
+OIGPGILK_00430	gene			
+OIGPGILK_00431	CDS			hypothetical protein
+OIGPGILK_00431	gene			
+OIGPGILK_00432	CDS			hypothetical protein
+OIGPGILK_00432	gene			
+OIGPGILK_00433	CDS	adhB	1.1.1.1	Alcohol dehydrogenase 2
+OIGPGILK_00433	gene	adhB		
+OIGPGILK_00434	CDS			hypothetical protein
+OIGPGILK_00434	gene			
+OIGPGILK_00435	CDS			hypothetical protein
+OIGPGILK_00435	gene			
+OIGPGILK_00436	CDS			hypothetical protein
+OIGPGILK_00436	gene			
+OIGPGILK_00437	CDS			hypothetical protein
+OIGPGILK_00437	gene			
+OIGPGILK_00438	CDS			hypothetical protein
+OIGPGILK_00438	gene			
+OIGPGILK_00439	CDS			hypothetical protein
+OIGPGILK_00439	gene			
+OIGPGILK_00440	CDS			hypothetical protein
+OIGPGILK_00440	gene			
+OIGPGILK_00441	CDS			hypothetical protein
+OIGPGILK_00441	gene			
+OIGPGILK_00442	CDS			hypothetical protein
+OIGPGILK_00442	gene			
+OIGPGILK_00443	CDS			hypothetical protein
+OIGPGILK_00443	gene			
+OIGPGILK_00444	CDS	sigR		ECF RNA polymerase sigma factor SigR
+OIGPGILK_00444	gene	sigR		
+OIGPGILK_00445	CDS			hypothetical protein
+OIGPGILK_00445	gene			
+OIGPGILK_00446	CDS			hypothetical protein
+OIGPGILK_00446	gene			
+OIGPGILK_00447	CDS	iolX_3	1.1.1.370	scyllo-inositol 2-dehydrogenase (NAD(+))
+OIGPGILK_00447	gene	iolX_3		
+OIGPGILK_00448	CDS			hypothetical protein
+OIGPGILK_00448	gene			
+OIGPGILK_00449	CDS			hypothetical protein
+OIGPGILK_00449	gene			
+OIGPGILK_00450	CDS	fhcB		Formyltransferase/hydrolase complex Fhc subunit B
+OIGPGILK_00450	gene	fhcB		
+OIGPGILK_00451	CDS			hypothetical protein
+OIGPGILK_00451	gene			
+OIGPGILK_00452	CDS			hypothetical protein
+OIGPGILK_00452	gene			
+OIGPGILK_00453	CDS			hypothetical protein
+OIGPGILK_00453	gene			
+OIGPGILK_00454	CDS			hypothetical protein
+OIGPGILK_00454	gene			
+OIGPGILK_00455	CDS	idhA	1.1.1.18	Inositol 2-dehydrogenase
+OIGPGILK_00455	gene	idhA		
+OIGPGILK_00456	CDS	bshB1	3.5.1.-	N-acetyl-alpha-D-glucosaminyl L-malate deacetylase 1
+OIGPGILK_00456	gene	bshB1		
+OIGPGILK_00457	CDS	mscS		Small-conductance mechanosensitive channel
+OIGPGILK_00457	gene	mscS		
+OIGPGILK_00458	CDS			hypothetical protein
+OIGPGILK_00458	gene			
+OIGPGILK_00459	CDS	phoR	2.7.13.3	Alkaline phosphatase synthesis sensor protein PhoR
+OIGPGILK_00459	gene	phoR		
+OIGPGILK_00460	CDS			hypothetical protein
+OIGPGILK_00460	gene			
+OIGPGILK_00461	CDS	ydeH	2.7.7.65	Diguanylate cyclase YdeH
+OIGPGILK_00461	gene	ydeH		
+OIGPGILK_00462	CDS	fieF		Ferrous-iron efflux pump FieF
+OIGPGILK_00462	gene	fieF		
+OIGPGILK_00463	CDS			hypothetical protein
+OIGPGILK_00463	gene			
+OIGPGILK_00464	CDS	dapA_1	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+OIGPGILK_00464	gene	dapA_1		
+OIGPGILK_00465	CDS	cotSA	2.4.-.-	Spore coat protein SA
+OIGPGILK_00465	gene	cotSA		
+OIGPGILK_00466	CDS			Magnesium transporter MgtE
+OIGPGILK_00466	gene			
+OIGPGILK_00467	CDS			hypothetical protein
+OIGPGILK_00467	gene			
+OIGPGILK_00468	CDS	fmdA	3.5.1.49	Formamidase
+OIGPGILK_00468	gene	fmdA		
+OIGPGILK_00469	CDS			hypothetical protein
+OIGPGILK_00469	gene			
+OIGPGILK_00470	CDS			hypothetical protein
+OIGPGILK_00470	gene			
+OIGPGILK_00471	CDS			hypothetical protein
+OIGPGILK_00471	gene			
+OIGPGILK_00472	CDS	feoA		Fe(2+) transport protein A
+OIGPGILK_00472	gene	feoA		
+OIGPGILK_00473	CDS			hypothetical protein
+OIGPGILK_00473	gene			
+OIGPGILK_00474	CDS			hypothetical protein
+OIGPGILK_00474	gene			
+OIGPGILK_00475	CDS			hypothetical protein
+OIGPGILK_00475	gene			
+OIGPGILK_00476	CDS			hypothetical protein
+OIGPGILK_00476	gene			
+OIGPGILK_00477	CDS	rsmE	2.1.1.193	Ribosomal RNA small subunit methyltransferase E
+OIGPGILK_00477	gene	rsmE		
+OIGPGILK_00478	CDS			hypothetical protein
+OIGPGILK_00478	gene			
+OIGPGILK_00479	CDS			hypothetical protein
+OIGPGILK_00479	gene			
+OIGPGILK_00480	CDS			hypothetical protein
+OIGPGILK_00480	gene			
+OIGPGILK_00481	CDS	eutM_1		Ethanolamine utilization protein EutM
+OIGPGILK_00481	gene	eutM_1		
+OIGPGILK_00482	CDS	eutM_2		Ethanolamine utilization protein EutM
+OIGPGILK_00482	gene	eutM_2		
+OIGPGILK_00483	CDS	pduL	2.3.1.222	Phosphate propanoyltransferase
+OIGPGILK_00483	gene	pduL		
+OIGPGILK_00484	CDS	degQ	3.4.21.107	Periplasmic pH-dependent serine endoprotease DegQ
+OIGPGILK_00484	gene	degQ		
+OIGPGILK_00485	CDS	yrrK	3.1.-.-	Putative pre-16S rRNA nuclease
+OIGPGILK_00485	gene	yrrK		
+OIGPGILK_00486	CDS			hypothetical protein
+OIGPGILK_00486	gene			
+OIGPGILK_00487	CDS	rfbM	2.7.7.13	Mannose-1-phosphate guanylyltransferase RfbM
+OIGPGILK_00487	gene	rfbM		
+OIGPGILK_00488	CDS			hypothetical protein
+OIGPGILK_00488	gene			
+OIGPGILK_00489	CDS	pkn1_2	2.7.11.1	Serine/threonine-protein kinase pkn1
+OIGPGILK_00489	gene	pkn1_2		
+OIGPGILK_00490	CDS			hypothetical protein
+OIGPGILK_00490	gene			
+OIGPGILK_00491	CDS			hypothetical protein
+OIGPGILK_00491	gene			
+OIGPGILK_00492	CDS	pepT_2	3.4.11.4	Peptidase T
+OIGPGILK_00492	gene	pepT_2		
+OIGPGILK_00493	CDS			hypothetical protein
+OIGPGILK_00493	gene			
+OIGPGILK_00494	CDS	rlmN	2.1.1.192	putative dual-specificity RNA methyltransferase RlmN
+OIGPGILK_00494	gene	rlmN		
+OIGPGILK_00495	CDS	pulD		Type II secretion system protein D
+OIGPGILK_00495	gene	pulD		
+OIGPGILK_00496	CDS	pkn1_3	2.7.11.1	Serine/threonine-protein kinase pkn1
+OIGPGILK_00496	gene	pkn1_3		
+OIGPGILK_00497	CDS			hypothetical protein
+OIGPGILK_00497	gene			
+OIGPGILK_00498	CDS	lptD		LPS-assembly protein LptD
+OIGPGILK_00498	gene	lptD		
+OIGPGILK_00499	CDS			hypothetical protein
+OIGPGILK_00499	gene			
+OIGPGILK_00500	CDS	Vejaci	5.5.1.25	3,6-anhydro-alpha-L-galactonate cycloisomerase
+OIGPGILK_00500	gene	Vejaci		
+OIGPGILK_00501	CDS	addA	3.1.-.-	ATP-dependent helicase/nuclease subunit A
+OIGPGILK_00501	gene	addA		
+OIGPGILK_00502	CDS			hypothetical protein
+OIGPGILK_00502	gene			
+OIGPGILK_00503	CDS			hypothetical protein
+OIGPGILK_00503	gene			
+OIGPGILK_00504	CDS			hypothetical protein
+OIGPGILK_00504	gene			
+OIGPGILK_00505	CDS			hypothetical protein
+OIGPGILK_00505	gene			
+OIGPGILK_00506	CDS			hypothetical protein
+OIGPGILK_00506	gene			
+OIGPGILK_00507	CDS			hypothetical protein
+OIGPGILK_00507	gene			
+OIGPGILK_00508	CDS	atsA_6	3.1.6.1	Arylsulfatase
+OIGPGILK_00508	gene	atsA_6		
+OIGPGILK_00509	CDS	apbE	2.7.1.180	FAD:protein FMN transferase
+OIGPGILK_00509	gene	apbE		
+OIGPGILK_00510	CDS			hypothetical protein
+OIGPGILK_00510	gene			
+OIGPGILK_00511	CDS			hypothetical protein
+OIGPGILK_00511	gene			
+OIGPGILK_00512	CDS			hypothetical protein
+OIGPGILK_00512	gene			
+OIGPGILK_00513	CDS			hypothetical protein
+OIGPGILK_00513	gene			
+OIGPGILK_00514	tRNA			tRNA-Val(gac)
+OIGPGILK_00514	gene			
+OIGPGILK_00515	CDS			hypothetical protein
+OIGPGILK_00515	gene			
+OIGPGILK_00516	CDS			hypothetical protein
+OIGPGILK_00516	gene			
+OIGPGILK_00517	CDS			hypothetical protein
+OIGPGILK_00517	gene			
+OIGPGILK_00518	CDS	hemE	4.1.1.37	Uroporphyrinogen decarboxylase
+OIGPGILK_00518	gene	hemE		
+OIGPGILK_00519	CDS			hypothetical protein
+OIGPGILK_00519	gene			
+OIGPGILK_00520	CDS			hypothetical protein
+OIGPGILK_00520	gene			
+OIGPGILK_00521	CDS	bamB_5		Outer membrane protein assembly factor BamB
+OIGPGILK_00521	gene	bamB_5		
+OIGPGILK_00522	CDS			hypothetical protein
+OIGPGILK_00522	gene			
+OIGPGILK_00523	CDS			hypothetical protein
+OIGPGILK_00523	gene			
+OIGPGILK_00524	CDS			hypothetical protein
+OIGPGILK_00524	gene			
+OIGPGILK_00525	CDS	obg	3.6.5.-	GTPase Obg
+OIGPGILK_00525	gene	obg		
+OIGPGILK_00526	CDS	rpmA		50S ribosomal protein L27
+OIGPGILK_00526	gene	rpmA		
+OIGPGILK_00527	CDS			hypothetical protein
+OIGPGILK_00527	gene			
+OIGPGILK_00528	CDS			hypothetical protein
+OIGPGILK_00528	gene			
+OIGPGILK_00529	CDS	bamB_6		Outer membrane protein assembly factor BamB
+OIGPGILK_00529	gene	bamB_6		
+OIGPGILK_00530	CDS			hypothetical protein
+OIGPGILK_00530	gene			
+OIGPGILK_00531	CDS			hypothetical protein
+OIGPGILK_00531	gene			
+OIGPGILK_00532	CDS			hypothetical protein
+OIGPGILK_00532	gene			
+OIGPGILK_00533	CDS			hypothetical protein
+OIGPGILK_00533	gene			
+OIGPGILK_00534	CDS			hypothetical protein
+OIGPGILK_00534	gene			
+OIGPGILK_00535	CDS			hypothetical protein
+OIGPGILK_00535	gene			
+OIGPGILK_00536	CDS			hypothetical protein
+OIGPGILK_00536	gene			
+OIGPGILK_00537	CDS			hypothetical protein
+OIGPGILK_00537	gene			
+OIGPGILK_00538	CDS	rpsQ		30S ribosomal protein S17
+OIGPGILK_00538	gene	rpsQ		
+OIGPGILK_00539	CDS	rplN		50S ribosomal protein L14
+OIGPGILK_00539	gene	rplN		
+OIGPGILK_00540	CDS	rplX		50S ribosomal protein L24
+OIGPGILK_00540	gene	rplX		
+OIGPGILK_00541	CDS	rplE		50S ribosomal protein L5
+OIGPGILK_00541	gene	rplE		
+OIGPGILK_00542	CDS	rpsH		30S ribosomal protein S8
+OIGPGILK_00542	gene	rpsH		
+OIGPGILK_00543	CDS			hypothetical protein
+OIGPGILK_00543	gene			
+OIGPGILK_00544	CDS	gfo	1.1.99.28	Glucose--fructose oxidoreductase
+OIGPGILK_00544	gene	gfo		
+OIGPGILK_00545	CDS			hypothetical protein
+OIGPGILK_00545	gene			
+OIGPGILK_00546	CDS	ghrB	1.1.1.79	Glyoxylate/hydroxypyruvate reductase B
+OIGPGILK_00546	gene	ghrB		
+OIGPGILK_00547	CDS	rpsO		30S ribosomal protein S15
+OIGPGILK_00547	gene	rpsO		
+OIGPGILK_00548	CDS			hypothetical protein
+OIGPGILK_00548	gene			
+OIGPGILK_00549	CDS			hypothetical protein
+OIGPGILK_00549	gene			
+OIGPGILK_00550	CDS			hypothetical protein
+OIGPGILK_00550	gene			
+OIGPGILK_00551	CDS			hypothetical protein
+OIGPGILK_00551	gene			
+OIGPGILK_00552	CDS			hypothetical protein
+OIGPGILK_00552	gene			
+OIGPGILK_00553	CDS	degS	3.4.21.107	Serine endoprotease DegS
+OIGPGILK_00553	gene	degS		
+OIGPGILK_00554	CDS	bcp	1.11.1.15	Putative peroxiredoxin
+OIGPGILK_00554	gene	bcp		
+OIGPGILK_00555	CDS	aroC	4.2.3.5	Chorismate synthase
+OIGPGILK_00555	gene	aroC		
+OIGPGILK_00556	CDS			hypothetical protein
+OIGPGILK_00556	gene			
+OIGPGILK_00557	CDS			hypothetical protein
+OIGPGILK_00557	gene			
+OIGPGILK_00558	CDS			hypothetical protein
+OIGPGILK_00558	gene			
+OIGPGILK_00559	CDS			hypothetical protein
+OIGPGILK_00559	gene			
+OIGPGILK_00560	CDS		2.4.2.-	Putative glutamine amidotransferase
+OIGPGILK_00560	gene			
+OIGPGILK_00561	CDS			hypothetical protein
+OIGPGILK_00561	gene			
+OIGPGILK_00562	CDS			hypothetical protein
+OIGPGILK_00562	gene			
+OIGPGILK_00563	CDS			hypothetical protein
+OIGPGILK_00563	gene			
+OIGPGILK_00564	CDS			hypothetical protein
+OIGPGILK_00564	gene			
+OIGPGILK_00565	CDS			hypothetical protein
+OIGPGILK_00565	gene			
+OIGPGILK_00566	CDS			hypothetical protein
+OIGPGILK_00566	gene			
+OIGPGILK_00567	CDS			hypothetical protein
+OIGPGILK_00567	gene			
+OIGPGILK_00568	CDS			hypothetical protein
+OIGPGILK_00568	gene			
+OIGPGILK_00569	CDS			hypothetical protein
+OIGPGILK_00569	gene			
+OIGPGILK_00570	CDS			hypothetical protein
+OIGPGILK_00570	gene			
+OIGPGILK_00571	CDS		3.4.21.-	putative subtilase-type serine protease
+OIGPGILK_00571	gene			
+OIGPGILK_00572	CDS	rbsC		Ribose import permease protein RbsC
+OIGPGILK_00572	gene	rbsC		
+OIGPGILK_00573	CDS	moeZ_2		putative adenylyltransferase/sulfurtransferase MoeZ
+OIGPGILK_00573	gene	moeZ_2		
+OIGPGILK_00574	CDS			hypothetical protein
+OIGPGILK_00574	gene			
+OIGPGILK_00575	CDS			hypothetical protein
+OIGPGILK_00575	gene			
+OIGPGILK_00576	CDS	dapA_2	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+OIGPGILK_00576	gene	dapA_2		
+OIGPGILK_00577	CDS			hypothetical protein
+OIGPGILK_00577	gene			
+OIGPGILK_00578	CDS			hypothetical protein
+OIGPGILK_00578	gene			
+OIGPGILK_00579	CDS			hypothetical protein
+OIGPGILK_00579	gene			
+OIGPGILK_00580	CDS			hypothetical protein
+OIGPGILK_00580	gene			
+OIGPGILK_00581	CDS			hypothetical protein
+OIGPGILK_00581	gene			
+OIGPGILK_00582	CDS			hypothetical protein
+OIGPGILK_00582	gene			
+OIGPGILK_00583	CDS			hypothetical protein
+OIGPGILK_00583	gene			
+OIGPGILK_00584	CDS			hypothetical protein
+OIGPGILK_00584	gene			
+OIGPGILK_00585	CDS	mtnB	4.2.1.109	Methylthioribulose-1-phosphate dehydratase
+OIGPGILK_00585	gene	mtnB		
+OIGPGILK_00586	CDS	gctB	2.8.3.12	Glutaconate CoA-transferase subunit B
+OIGPGILK_00586	gene	gctB		
+OIGPGILK_00587	CDS	bamB_7		Outer membrane protein assembly factor BamB
+OIGPGILK_00587	gene	bamB_7		
+OIGPGILK_00588	CDS	rlmM	2.1.1.186	Ribosomal RNA large subunit methyltransferase M
+OIGPGILK_00588	gene	rlmM		
+OIGPGILK_00589	CDS	yjjG	3.1.3.5	Pyrimidine 5'-nucleotidase YjjG
+OIGPGILK_00589	gene	yjjG		
+OIGPGILK_00590	CDS			hypothetical protein
+OIGPGILK_00590	gene			
+OIGPGILK_00591	CDS			hypothetical protein
+OIGPGILK_00591	gene			
+OIGPGILK_00592	CDS			hypothetical protein
+OIGPGILK_00592	gene			
+OIGPGILK_00593	CDS			hypothetical protein
+OIGPGILK_00593	gene			
+OIGPGILK_00594	CDS			hypothetical protein
+OIGPGILK_00594	gene			
+OIGPGILK_00595	CDS			hypothetical protein
+OIGPGILK_00595	gene			
+OIGPGILK_00596	CDS			hypothetical protein
+OIGPGILK_00596	gene			
+OIGPGILK_00597	CDS			hypothetical protein
+OIGPGILK_00597	gene			
+OIGPGILK_00598	CDS			hypothetical protein
+OIGPGILK_00598	gene			
+OIGPGILK_00599	CDS			hypothetical protein
+OIGPGILK_00599	gene			
+OIGPGILK_00600	CDS			hypothetical protein
+OIGPGILK_00600	gene			
+OIGPGILK_00601	CDS			hypothetical protein
+OIGPGILK_00601	gene			
+OIGPGILK_00602	CDS			hypothetical protein
+OIGPGILK_00602	gene			
+OIGPGILK_00603	CDS			hypothetical protein
+OIGPGILK_00603	gene			
+OIGPGILK_00604	CDS			hypothetical protein
+OIGPGILK_00604	gene			
+OIGPGILK_00605	tRNA			tRNA-Arg(ccg)
+OIGPGILK_00605	gene			
+OIGPGILK_00606	CDS			hypothetical protein
+OIGPGILK_00606	gene			
+OIGPGILK_00607	CDS			hypothetical protein
+OIGPGILK_00607	gene			
+OIGPGILK_00608	CDS			hypothetical protein
+OIGPGILK_00608	gene			
+OIGPGILK_00609	CDS			hypothetical protein
+OIGPGILK_00609	gene			
+OIGPGILK_00610	CDS			hypothetical protein
+OIGPGILK_00610	gene			
+OIGPGILK_00611	CDS			hypothetical protein
+OIGPGILK_00611	gene			
+OIGPGILK_00612	CDS			hypothetical protein
+OIGPGILK_00612	gene			
+OIGPGILK_00613	CDS			hypothetical protein
+OIGPGILK_00613	gene			
+OIGPGILK_00614	CDS			hypothetical protein
+OIGPGILK_00614	gene			
+OIGPGILK_00615	CDS		5.1.1.20	L-Ala-D/L-Glu epimerase
+OIGPGILK_00615	gene			
+OIGPGILK_00616	CDS	dprA		DNA processing protein DprA
+OIGPGILK_00616	gene	dprA		
+OIGPGILK_00617	CDS	adh1	1.1.1.192	Long-chain-alcohol dehydrogenase 1
+OIGPGILK_00617	gene	adh1		
+OIGPGILK_00618	CDS			hypothetical protein
+OIGPGILK_00618	gene			
+OIGPGILK_00619	CDS	dppB		Dipeptide transport system permease protein DppB
+OIGPGILK_00619	gene	dppB		
+OIGPGILK_00620	CDS	oppC		Oligopeptide transport system permease protein OppC
+OIGPGILK_00620	gene	oppC		
+OIGPGILK_00621	CDS	oppD		Oligopeptide transport ATP-binding protein OppD
+OIGPGILK_00621	gene	oppD		
+OIGPGILK_00622	CDS	yliI_1	1.1.5.-	Aldose sugar dehydrogenase YliI
+OIGPGILK_00622	gene	yliI_1		
+OIGPGILK_00623	CDS			hypothetical protein
+OIGPGILK_00623	gene			
+OIGPGILK_00624	CDS			hypothetical protein
+OIGPGILK_00624	gene			
+OIGPGILK_00625	CDS			hypothetical protein
+OIGPGILK_00625	gene			
+OIGPGILK_00626	CDS	msuD	1.14.14.5	Methanesulfonate monooxygenase
+OIGPGILK_00626	gene	msuD		
+OIGPGILK_00627	CDS	bamB_8		Outer membrane protein assembly factor BamB
+OIGPGILK_00627	gene	bamB_8		
+OIGPGILK_00628	CDS			hypothetical protein
+OIGPGILK_00628	gene			
+OIGPGILK_00629	CDS			hypothetical protein
+OIGPGILK_00629	gene			
+OIGPGILK_00630	CDS	ynaI		Low conductance mechanosensitive channel YnaI
+OIGPGILK_00630	gene	ynaI		
+OIGPGILK_00631	CDS			hypothetical protein
+OIGPGILK_00631	gene			
+OIGPGILK_00632	CDS	pkn1_4	2.7.11.1	Serine/threonine-protein kinase pkn1
+OIGPGILK_00632	gene	pkn1_4		
+OIGPGILK_00633	CDS			hypothetical protein
+OIGPGILK_00633	gene			
+OIGPGILK_00634	CDS			hypothetical protein
+OIGPGILK_00634	gene			
+OIGPGILK_00635	CDS	yliI_2	1.1.5.-	Aldose sugar dehydrogenase YliI
+OIGPGILK_00635	gene	yliI_2		
+OIGPGILK_00636	CDS	bacC_2	1.1.1.385	Dihydroanticapsin 7-dehydrogenase
+OIGPGILK_00636	gene	bacC_2		
+OIGPGILK_00637	CDS	rplL		50S ribosomal protein L7/L12
+OIGPGILK_00637	gene	rplL		
+OIGPGILK_00638	CDS	rplJ		50S ribosomal protein L10
+OIGPGILK_00638	gene	rplJ		
+OIGPGILK_00639	CDS	rplA		50S ribosomal protein L1
+OIGPGILK_00639	gene	rplA		
+OIGPGILK_00640	CDS	rplK		50S ribosomal protein L11
+OIGPGILK_00640	gene	rplK		
+OIGPGILK_00641	CDS	nusG		Transcription termination/antitermination protein NusG
+OIGPGILK_00641	gene	nusG		
+OIGPGILK_00642	CDS	secE		Protein translocase subunit SecE
+OIGPGILK_00642	gene	secE		
+OIGPGILK_00643	tRNA			tRNA-Trp(cca)
+OIGPGILK_00643	gene			
+OIGPGILK_00644	CDS	tufA		Elongation factor Tu-A
+OIGPGILK_00644	gene	tufA		
+OIGPGILK_00645	tRNA			tRNA-Thr(ggt)
+OIGPGILK_00645	gene			
+OIGPGILK_00646	tRNA			tRNA-Gly(tcc)
+OIGPGILK_00646	gene			
+OIGPGILK_00647	CDS	mftE	3.5.-.-	Putative mycofactocin system creatinine amidohydrolase family protein MftE
+OIGPGILK_00647	gene	mftE		
+OIGPGILK_00648	CDS			hypothetical protein
+OIGPGILK_00648	gene			
+OIGPGILK_00649	CDS	lysN	2.6.1.39	2-aminoadipate transaminase
+OIGPGILK_00649	gene	lysN		
+OIGPGILK_00650	CDS			hypothetical protein
+OIGPGILK_00650	gene			
+OIGPGILK_00651	CDS			hypothetical protein
+OIGPGILK_00651	gene			
+OIGPGILK_00652	CDS			hypothetical protein
+OIGPGILK_00652	gene			
+OIGPGILK_00653	CDS			hypothetical protein
+OIGPGILK_00653	gene			
+OIGPGILK_00654	CDS			hypothetical protein
+OIGPGILK_00654	gene			
+OIGPGILK_00655	CDS	amt		Ammonia channel
+OIGPGILK_00655	gene	amt		
+OIGPGILK_00656	CDS			hypothetical protein
+OIGPGILK_00656	gene			
+OIGPGILK_00657	CDS			hypothetical protein
+OIGPGILK_00657	gene			
+OIGPGILK_00658	CDS			hypothetical protein
+OIGPGILK_00658	gene			
+OIGPGILK_00659	CDS			hypothetical protein
+OIGPGILK_00659	gene			
+OIGPGILK_00660	CDS	pyrE	2.4.2.10	Orotate phosphoribosyltransferase
+OIGPGILK_00660	gene	pyrE		
+OIGPGILK_00661	CDS	betC_4	3.1.6.6	Choline-sulfatase
+OIGPGILK_00661	gene	betC_4		
+OIGPGILK_00662	CDS			hypothetical protein
+OIGPGILK_00662	gene			
+OIGPGILK_00663	CDS			hypothetical protein
+OIGPGILK_00663	gene			
+OIGPGILK_00664	CDS			hypothetical protein
+OIGPGILK_00664	gene			
+OIGPGILK_00665	CDS	cshA	3.6.4.13	DEAD-box ATP-dependent RNA helicase CshA
+OIGPGILK_00665	gene	cshA		
+OIGPGILK_00666	CDS			hypothetical protein
+OIGPGILK_00666	gene			
+OIGPGILK_00667	CDS	glyA	2.1.2.1	Serine hydroxymethyltransferase
+OIGPGILK_00667	gene	glyA		
+OIGPGILK_00668	CDS	pleD		Response regulator PleD
+OIGPGILK_00668	gene	pleD		
+OIGPGILK_00669	CDS			hypothetical protein
+OIGPGILK_00669	gene			
+OIGPGILK_00670	CDS			hypothetical protein
+OIGPGILK_00670	gene			
+OIGPGILK_00671	CDS			hypothetical protein
+OIGPGILK_00671	gene			
+OIGPGILK_00672	CDS			hypothetical protein
+OIGPGILK_00672	gene			
+OIGPGILK_00673	CDS			hypothetical protein
+OIGPGILK_00673	gene			
+OIGPGILK_00674	CDS	thrS	6.1.1.3	Threonine--tRNA ligase
+OIGPGILK_00674	gene	thrS		
+OIGPGILK_00675	CDS	infC		Translation initiation factor IF-3
+OIGPGILK_00675	gene	infC		
+OIGPGILK_00676	CDS	pimB	2.4.1.57	GDP-mannose-dependent alpha-(1-6)-phosphatidylinositol monomannoside mannosyltransferase
+OIGPGILK_00676	gene	pimB		
+OIGPGILK_00677	CDS			hypothetical protein
+OIGPGILK_00677	gene			
+OIGPGILK_00678	CDS	iolE_2	4.2.1.44	Inosose dehydratase
+OIGPGILK_00678	gene	iolE_2		
+OIGPGILK_00679	CDS	deoC2	4.1.2.4	Deoxyribose-phosphate aldolase 2
+OIGPGILK_00679	gene	deoC2		
+OIGPGILK_00680	CDS			hypothetical protein
+OIGPGILK_00680	gene			
+OIGPGILK_00681	CDS	hcnC	1.4.99.5	Hydrogen cyanide synthase subunit HcnC
+OIGPGILK_00681	gene	hcnC		
+OIGPGILK_00682	CDS			hypothetical protein
+OIGPGILK_00682	gene			
+OIGPGILK_00683	CDS			hypothetical protein
+OIGPGILK_00683	gene			
+OIGPGILK_00684	CDS			hypothetical protein
+OIGPGILK_00684	gene			
+OIGPGILK_00685	CDS	wbpA	1.1.1.136	UDP-N-acetyl-D-glucosamine 6-dehydrogenase
+OIGPGILK_00685	gene	wbpA		
+OIGPGILK_00686	CDS	pstS		Phosphate-binding protein PstS
+OIGPGILK_00686	gene	pstS		
+OIGPGILK_00687	CDS	pstC1		Phosphate transport system permease protein PstC 1
+OIGPGILK_00687	gene	pstC1		
+OIGPGILK_00688	CDS	pstA		Phosphate transport system permease protein PstA
+OIGPGILK_00688	gene	pstA		
+OIGPGILK_00689	CDS	asnB_1	6.3.5.4	Asparagine synthetase [glutamine-hydrolyzing] 1
+OIGPGILK_00689	gene	asnB_1		
+OIGPGILK_00690	CDS			hypothetical protein
+OIGPGILK_00690	gene			
+OIGPGILK_00691	CDS		4.2.1.41	5-dehydro-4-deoxyglucarate dehydratase
+OIGPGILK_00691	gene			
+OIGPGILK_00692	CDS			hypothetical protein
+OIGPGILK_00692	gene			
+OIGPGILK_00693	CDS			hypothetical protein
+OIGPGILK_00693	gene			
+OIGPGILK_00694	CDS			hypothetical protein
+OIGPGILK_00694	gene			
+OIGPGILK_00695	CDS			hypothetical protein
+OIGPGILK_00695	gene			
+OIGPGILK_00696	CDS	flhB		Flagellar biosynthetic protein FlhB
+OIGPGILK_00696	gene	flhB		
+OIGPGILK_00697	CDS			hypothetical protein
+OIGPGILK_00697	gene			
+OIGPGILK_00698	CDS			hypothetical protein
+OIGPGILK_00698	gene			
+OIGPGILK_00699	CDS			hypothetical protein
+OIGPGILK_00699	gene			
+OIGPGILK_00700	CDS			hypothetical protein
+OIGPGILK_00700	gene			
+OIGPGILK_00701	CDS	dinB1	2.7.7.7	DNA polymerase IV 1
+OIGPGILK_00701	gene	dinB1		
+OIGPGILK_00702	CDS			hypothetical protein
+OIGPGILK_00702	gene			
+OIGPGILK_00703	CDS			hypothetical protein
+OIGPGILK_00703	gene			
+OIGPGILK_00704	CDS	glcK	2.7.1.2	Glucokinase
+OIGPGILK_00704	gene	glcK		
+OIGPGILK_00705	CDS	lepA	3.6.5.-	Elongation factor 4
+OIGPGILK_00705	gene	lepA		
+OIGPGILK_00706	CDS	nuoN	1.6.5.11	NADH-quinone oxidoreductase subunit N
+OIGPGILK_00706	gene	nuoN		
+OIGPGILK_00707	CDS			hypothetical protein
+OIGPGILK_00707	gene			
+OIGPGILK_00708	CDS	pheS	6.1.1.20	Phenylalanine--tRNA ligase alpha subunit
+OIGPGILK_00708	gene	pheS		
+OIGPGILK_00709	CDS	rplT		50S ribosomal protein L20
+OIGPGILK_00709	gene	rplT		
+OIGPGILK_00710	CDS	rpmI		50S ribosomal protein L35
+OIGPGILK_00710	gene	rpmI		
+OIGPGILK_00711	CDS			hypothetical protein
+OIGPGILK_00711	gene			
+OIGPGILK_00712	CDS			hypothetical protein
+OIGPGILK_00712	gene			
+OIGPGILK_00713	CDS			hypothetical protein
+OIGPGILK_00713	gene			
+OIGPGILK_00714	CDS	dnaX	2.7.7.7	DNA polymerase III subunit tau
+OIGPGILK_00714	gene	dnaX		
+OIGPGILK_00715	CDS	tmk	2.7.4.9	Thymidylate kinase
+OIGPGILK_00715	gene	tmk		
+OIGPGILK_00716	CDS	sigA		RNA polymerase sigma factor SigA
+OIGPGILK_00716	gene	sigA		
+OIGPGILK_00717	CDS	glnE		Bifunctional glutamine synthetase adenylyltransferase/adenylyl-removing enzyme
+OIGPGILK_00717	gene	glnE		
+OIGPGILK_00718	CDS	ifcA	1.3.5.4	Fumarate reductase flavoprotein subunit
+OIGPGILK_00718	gene	ifcA		
+OIGPGILK_00719	CDS	bioD1	6.3.3.3	ATP-dependent dethiobiotin synthetase BioD 1
+OIGPGILK_00719	gene	bioD1		
+OIGPGILK_00720	CDS	asnB_2	6.3.5.4	Asparagine synthetase [glutamine-hydrolyzing] 1
+OIGPGILK_00720	gene	asnB_2		
+OIGPGILK_00721	CDS			hypothetical protein
+OIGPGILK_00721	gene			
+OIGPGILK_00722	CDS			hypothetical protein
+OIGPGILK_00722	gene			
+OIGPGILK_00723	CDS			hypothetical protein
+OIGPGILK_00723	gene			
+OIGPGILK_00724	CDS	ribY		Riboflavin-binding protein RibY
+OIGPGILK_00724	gene	ribY		
+OIGPGILK_00725	CDS	ribX		Riboflavin transport system permease protein RibX
+OIGPGILK_00725	gene	ribX		
+OIGPGILK_00726	CDS	ssuB	3.6.3.-	Aliphatic sulfonates import ATP-binding protein SsuB
+OIGPGILK_00726	gene	ssuB		
+OIGPGILK_00727	CDS	sirB	4.99.1.4	Sirohydrochlorin ferrochelatase
+OIGPGILK_00727	gene	sirB		
+OIGPGILK_00728	CDS	atsA_7	3.1.6.1	Arylsulfatase
+OIGPGILK_00728	gene	atsA_7		
+OIGPGILK_00729	CDS			hypothetical protein
+OIGPGILK_00729	gene			
+OIGPGILK_00730	CDS			hypothetical protein
+OIGPGILK_00730	gene			
+OIGPGILK_00731	CDS			hypothetical protein
+OIGPGILK_00731	gene			
+OIGPGILK_00732	CDS			hypothetical protein
+OIGPGILK_00732	gene			
+OIGPGILK_00733	CDS	bamB_9		Outer membrane protein assembly factor BamB
+OIGPGILK_00733	gene	bamB_9		
+OIGPGILK_00734	CDS			hypothetical protein
+OIGPGILK_00734	gene			
+OIGPGILK_00735	CDS	phoD	3.1.3.1	Alkaline phosphatase D
+OIGPGILK_00735	gene	phoD		
+OIGPGILK_00736	CDS			hypothetical protein
+OIGPGILK_00736	gene			
+OIGPGILK_00737	CDS			hypothetical protein
+OIGPGILK_00737	gene			
+OIGPGILK_00738	CDS	soj	3.6.-.-	Sporulation initiation inhibitor protein Soj
+OIGPGILK_00738	gene	soj		
+OIGPGILK_00739	CDS	glpG	3.4.21.105	Rhomboid protease GlpG
+OIGPGILK_00739	gene	glpG		
+OIGPGILK_00740	CDS			hypothetical protein
+OIGPGILK_00740	gene			
+OIGPGILK_00741	CDS			hypothetical protein
+OIGPGILK_00741	gene			
+OIGPGILK_00742	CDS	kduD	1.1.1.127	2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase
+OIGPGILK_00742	gene	kduD		
+OIGPGILK_00743	CDS			hypothetical protein
+OIGPGILK_00743	gene			
+OIGPGILK_00744	CDS			hypothetical protein
+OIGPGILK_00744	gene			
+OIGPGILK_00745	CDS			hypothetical protein
+OIGPGILK_00745	gene			
+OIGPGILK_00746	CDS			hypothetical protein
+OIGPGILK_00746	gene			
+OIGPGILK_00747	CDS			hypothetical protein
+OIGPGILK_00747	gene			
+OIGPGILK_00748	CDS	mshD	2.3.1.189	Mycothiol acetyltransferase
+OIGPGILK_00748	gene	mshD		
+OIGPGILK_00749	CDS		3.4.24.-	putative zinc protease
+OIGPGILK_00749	gene			
+OIGPGILK_00750	CDS			hypothetical protein
+OIGPGILK_00750	gene			
+OIGPGILK_00751	CDS	pepA	3.4.11.1	Cytosol aminopeptidase
+OIGPGILK_00751	gene	pepA		
+OIGPGILK_00752	CDS			hypothetical protein
+OIGPGILK_00752	gene			
+OIGPGILK_00753	CDS			hypothetical protein
+OIGPGILK_00753	gene			
+OIGPGILK_00754	CDS			hypothetical protein
+OIGPGILK_00754	gene			
+OIGPGILK_00755	CDS			hypothetical protein
+OIGPGILK_00755	gene			
+OIGPGILK_00756	CDS			hypothetical protein
+OIGPGILK_00756	gene			
+OIGPGILK_00757	CDS	ftsH_2	3.4.24.-	ATP-dependent zinc metalloprotease FtsH
+OIGPGILK_00757	gene	ftsH_2		
+OIGPGILK_00758	CDS	argH	4.3.2.1	Argininosuccinate lyase
+OIGPGILK_00758	gene	argH		
+OIGPGILK_00759	CDS			hypothetical protein
+OIGPGILK_00759	gene			
+OIGPGILK_00760	CDS			hypothetical protein
+OIGPGILK_00760	gene			
+OIGPGILK_00761	CDS			hypothetical protein
+OIGPGILK_00761	gene			
+OIGPGILK_00762	CDS			hypothetical protein
+OIGPGILK_00762	gene			

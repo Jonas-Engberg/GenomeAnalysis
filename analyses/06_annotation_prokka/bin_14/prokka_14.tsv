@@ -1,0 +1,2449 @@
+locus_tag	ftype	gene	EC_number	product
+KCJPJDFE_00001	tRNA			tRNA-Cys(gca)
+KCJPJDFE_00001	gene			
+KCJPJDFE_00002	CDS			hypothetical protein
+KCJPJDFE_00002	gene			
+KCJPJDFE_00003	CDS	thrC_1	4.2.3.1	Threonine synthase
+KCJPJDFE_00003	gene	thrC_1		
+KCJPJDFE_00004	CDS			hypothetical protein
+KCJPJDFE_00004	gene			
+KCJPJDFE_00005	CDS	rnhA	3.1.26.4	Ribonuclease H
+KCJPJDFE_00005	gene	rnhA		
+KCJPJDFE_00006	CDS	gcvH_1		Glycine cleavage system H protein
+KCJPJDFE_00006	gene	gcvH_1		
+KCJPJDFE_00007	CDS			hypothetical protein
+KCJPJDFE_00007	gene			
+KCJPJDFE_00008	CDS			hypothetical protein
+KCJPJDFE_00008	gene			
+KCJPJDFE_00009	CDS			hypothetical protein
+KCJPJDFE_00009	gene			
+KCJPJDFE_00010	CDS			hypothetical protein
+KCJPJDFE_00010	gene			
+KCJPJDFE_00011	CDS	leuB	1.1.1.85	3-isopropylmalate/3-methylmalate dehydrogenase
+KCJPJDFE_00011	gene	leuB		
+KCJPJDFE_00012	CDS		6.3.2.36	4-phosphopantoate--beta-alanine ligase
+KCJPJDFE_00012	gene			
+KCJPJDFE_00013	CDS			hypothetical protein
+KCJPJDFE_00013	gene			
+KCJPJDFE_00014	CDS	dadA	1.4.99.-	D-amino acid dehydrogenase
+KCJPJDFE_00014	gene	dadA		
+KCJPJDFE_00015	CDS			hypothetical protein
+KCJPJDFE_00015	gene			
+KCJPJDFE_00016	CDS			hypothetical protein
+KCJPJDFE_00016	gene			
+KCJPJDFE_00017	CDS	metK	2.5.1.6	S-adenosylmethionine synthase
+KCJPJDFE_00017	gene	metK		
+KCJPJDFE_00018	CDS	wtpC_1	3.6.3.-	Molybdate/tungstate import ATP-binding protein WtpC
+KCJPJDFE_00018	gene	wtpC_1		
+KCJPJDFE_00019	CDS			hypothetical protein
+KCJPJDFE_00019	gene			
+KCJPJDFE_00020	CDS			hypothetical protein
+KCJPJDFE_00020	gene			
+KCJPJDFE_00021	CDS			hypothetical protein
+KCJPJDFE_00021	gene			
+KCJPJDFE_00022	CDS			hypothetical protein
+KCJPJDFE_00022	gene			
+KCJPJDFE_00023	CDS			hypothetical protein
+KCJPJDFE_00023	gene			
+KCJPJDFE_00024	CDS			hypothetical protein
+KCJPJDFE_00024	gene			
+KCJPJDFE_00025	CDS	mptE	2.7.6.3	6-hydroxymethyl-7,8-dihydropterin pyrophosphokinase
+KCJPJDFE_00025	gene	mptE		
+KCJPJDFE_00026	CDS	polC_1	2.7.7.7	DNA polymerase II large subunit
+KCJPJDFE_00026	gene	polC_1		
+KCJPJDFE_00027	CDS	pyrE_1	2.4.2.10	Orotate phosphoribosyltransferase
+KCJPJDFE_00027	gene	pyrE_1		
+KCJPJDFE_00028	CDS			hypothetical protein
+KCJPJDFE_00028	gene			
+KCJPJDFE_00029	CDS			hypothetical protein
+KCJPJDFE_00029	gene			
+KCJPJDFE_00030	CDS			hypothetical protein
+KCJPJDFE_00030	gene			
+KCJPJDFE_00031	CDS			Iron-sulfur cluster carrier protein
+KCJPJDFE_00031	gene			
+KCJPJDFE_00032	CDS			hypothetical protein
+KCJPJDFE_00032	gene			
+KCJPJDFE_00033	CDS			hypothetical protein
+KCJPJDFE_00033	gene			
+KCJPJDFE_00034	CDS			hypothetical protein
+KCJPJDFE_00034	gene			
+KCJPJDFE_00035	CDS			hypothetical protein
+KCJPJDFE_00035	gene			
+KCJPJDFE_00036	CDS	hcy		Halocyanin
+KCJPJDFE_00036	gene	hcy		
+KCJPJDFE_00037	CDS	aspS	6.1.1.12	Aspartate--tRNA(Asp) ligase
+KCJPJDFE_00037	gene	aspS		
+KCJPJDFE_00038	CDS			hypothetical protein
+KCJPJDFE_00038	gene			
+KCJPJDFE_00039	CDS	trmI	2.1.1.219	tRNA (adenine(57)-N(1)/adenine(58)-N(1))-methyltransferase TrmI
+KCJPJDFE_00039	gene	trmI		
+KCJPJDFE_00040	CDS			hypothetical protein
+KCJPJDFE_00040	gene			
+KCJPJDFE_00041	CDS		3.4.21.-	Archaeal Lon protease
+KCJPJDFE_00041	gene			
+KCJPJDFE_00042	CDS			hypothetical protein
+KCJPJDFE_00042	gene			
+KCJPJDFE_00043	CDS			hypothetical protein
+KCJPJDFE_00043	gene			
+KCJPJDFE_00044	CDS	scdA		Iron-sulfur cluster repair protein ScdA
+KCJPJDFE_00044	gene	scdA		
+KCJPJDFE_00045	CDS	argO		Arginine exporter protein ArgO
+KCJPJDFE_00045	gene	argO		
+KCJPJDFE_00046	CDS	purA	6.3.4.4	Adenylosuccinate synthetase
+KCJPJDFE_00046	gene	purA		
+KCJPJDFE_00047	CDS			hypothetical protein
+KCJPJDFE_00047	gene			
+KCJPJDFE_00048	CDS	aldhT	1.2.1.26	2,5-dioxopentanoate dehydrogenase
+KCJPJDFE_00048	gene	aldhT		
+KCJPJDFE_00049	CDS			hypothetical protein
+KCJPJDFE_00049	gene			
+KCJPJDFE_00050	CDS			hypothetical protein
+KCJPJDFE_00050	gene			
+KCJPJDFE_00051	CDS			hypothetical protein
+KCJPJDFE_00051	gene			
+KCJPJDFE_00052	CDS			hypothetical protein
+KCJPJDFE_00052	gene			
+KCJPJDFE_00053	CDS	pyrG_1	6.3.4.2	CTP synthase
+KCJPJDFE_00053	gene	pyrG_1		
+KCJPJDFE_00054	CDS	gmd	4.2.1.47	GDP-mannose 4,6-dehydratase
+KCJPJDFE_00054	gene	gmd		
+KCJPJDFE_00055	CDS	ths_1		Thermosome subunit
+KCJPJDFE_00055	gene	ths_1		
+KCJPJDFE_00056	CDS			hypothetical protein
+KCJPJDFE_00056	gene			
+KCJPJDFE_00057	CDS	dnaK		Chaperone protein DnaK
+KCJPJDFE_00057	gene	dnaK		
+KCJPJDFE_00058	CDS	pepA	3.4.11.10	cytosol aminopeptidase
+KCJPJDFE_00058	gene	pepA		
+KCJPJDFE_00059	CDS			hypothetical protein
+KCJPJDFE_00059	gene			
+KCJPJDFE_00060	CDS		3.5.3.24	N(1)-aminopropylagmatine ureohydrolase
+KCJPJDFE_00060	gene			
+KCJPJDFE_00061	CDS			hypothetical protein
+KCJPJDFE_00061	gene			
+KCJPJDFE_00062	CDS			hypothetical protein
+KCJPJDFE_00062	gene			
+KCJPJDFE_00063	CDS			hypothetical protein
+KCJPJDFE_00063	gene			
+KCJPJDFE_00064	tRNA			tRNA-Gly(gcc)
+KCJPJDFE_00064	gene			
+KCJPJDFE_00065	CDS			hypothetical protein
+KCJPJDFE_00065	gene			
+KCJPJDFE_00066	CDS			hypothetical protein
+KCJPJDFE_00066	gene			
+KCJPJDFE_00067	CDS			Iron-sulfur cluster carrier protein
+KCJPJDFE_00067	gene			
+KCJPJDFE_00068	CDS			hypothetical protein
+KCJPJDFE_00068	gene			
+KCJPJDFE_00069	CDS	nadA	2.5.1.72	Quinolinate synthase A
+KCJPJDFE_00069	gene	nadA		
+KCJPJDFE_00070	CDS			putative bifunctional tRNA threonylcarbamoyladenosine biosynthesis protein
+KCJPJDFE_00070	gene			
+KCJPJDFE_00071	CDS		3.6.1.9	Non-canonical purine NTP pyrophosphatase
+KCJPJDFE_00071	gene			
+KCJPJDFE_00072	CDS			hypothetical protein
+KCJPJDFE_00072	gene			
+KCJPJDFE_00073	CDS		4.2.1.116	3-hydroxypropionyl-coenzyme A dehydratase
+KCJPJDFE_00073	gene			
+KCJPJDFE_00074	CDS			hypothetical protein
+KCJPJDFE_00074	gene			
+KCJPJDFE_00075	CDS			hypothetical protein
+KCJPJDFE_00075	gene			
+KCJPJDFE_00076	CDS	pcn		DNA polymerase sliding clamp
+KCJPJDFE_00076	gene	pcn		
+KCJPJDFE_00077	CDS	tfs		Transcription factor S
+KCJPJDFE_00077	gene	tfs		
+KCJPJDFE_00078	CDS	crcB		Putative fluoride ion transporter CrcB
+KCJPJDFE_00078	gene	crcB		
+KCJPJDFE_00079	CDS			putative NOP5 family protein
+KCJPJDFE_00079	gene			
+KCJPJDFE_00080	CDS	flpA	2.1.1.-	Fibrillarin-like rRNA/tRNA 2'-O-methyltransferase
+KCJPJDFE_00080	gene	flpA		
+KCJPJDFE_00081	CDS			hypothetical protein
+KCJPJDFE_00081	gene			
+KCJPJDFE_00082	CDS			hypothetical protein
+KCJPJDFE_00082	gene			
+KCJPJDFE_00083	CDS			hypothetical protein
+KCJPJDFE_00083	gene			
+KCJPJDFE_00084	CDS			hypothetical protein
+KCJPJDFE_00084	gene			
+KCJPJDFE_00085	CDS			hypothetical protein
+KCJPJDFE_00085	gene			
+KCJPJDFE_00086	CDS	ccmE		Cytochrome c-type biogenesis protein CcmE
+KCJPJDFE_00086	gene	ccmE		
+KCJPJDFE_00087	CDS	pyrD	1.3.5.2	Dihydroorotate dehydrogenase (quinone)
+KCJPJDFE_00087	gene	pyrD		
+KCJPJDFE_00088	CDS			hypothetical protein
+KCJPJDFE_00088	gene			
+KCJPJDFE_00089	CDS	rgy		Reverse gyrase
+KCJPJDFE_00089	gene	rgy		
+KCJPJDFE_00090	CDS		1.3.7.11	Digeranylgeranylglycerophospholipid reductase
+KCJPJDFE_00090	gene			
+KCJPJDFE_00091	CDS			hypothetical protein
+KCJPJDFE_00091	gene			
+KCJPJDFE_00092	CDS	cofH	2.5.1.77	FO synthase subunit 2
+KCJPJDFE_00092	gene	cofH		
+KCJPJDFE_00093	CDS	pepQ_1	3.4.13.9	Xaa-Pro dipeptidase
+KCJPJDFE_00093	gene	pepQ_1		
+KCJPJDFE_00094	CDS			hypothetical protein
+KCJPJDFE_00094	gene			
+KCJPJDFE_00095	CDS	hldE	2.7.7.70	Bifunctional protein HldE
+KCJPJDFE_00095	gene	hldE		
+KCJPJDFE_00096	CDS	endA	4.6.1.16	tRNA-splicing endonuclease
+KCJPJDFE_00096	gene	endA		
+KCJPJDFE_00097	CDS			hypothetical protein
+KCJPJDFE_00097	gene			
+KCJPJDFE_00098	CDS	tatC_1		Sec-independent protein translocase protein TatC
+KCJPJDFE_00098	gene	tatC_1		
+KCJPJDFE_00099	CDS			hypothetical protein
+KCJPJDFE_00099	gene			
+KCJPJDFE_00100	CDS			hypothetical protein
+KCJPJDFE_00100	gene			
+KCJPJDFE_00101	CDS			hypothetical protein
+KCJPJDFE_00101	gene			
+KCJPJDFE_00102	CDS	ald	1.4.1.1	Alanine dehydrogenase
+KCJPJDFE_00102	gene	ald		
+KCJPJDFE_00103	CDS			hypothetical protein
+KCJPJDFE_00103	gene			
+KCJPJDFE_00104	CDS	mdh	1.1.1.37	Malate dehydrogenase
+KCJPJDFE_00104	gene	mdh		
+KCJPJDFE_00105	CDS	rppH_1	3.6.1.-	RNA pyrophosphohydrolase
+KCJPJDFE_00105	gene	rppH_1		
+KCJPJDFE_00106	tRNA			tRNA-Pro(tgg)
+KCJPJDFE_00106	gene			
+KCJPJDFE_00107	CDS			hypothetical protein
+KCJPJDFE_00107	gene			
+KCJPJDFE_00108	CDS			hypothetical protein
+KCJPJDFE_00108	gene			
+KCJPJDFE_00109	CDS	rnj	3.1.-.-	Ribonuclease J
+KCJPJDFE_00109	gene	rnj		
+KCJPJDFE_00110	CDS	psmB	3.4.25.1	Proteasome subunit beta
+KCJPJDFE_00110	gene	psmB		
+KCJPJDFE_00111	CDS			hypothetical protein
+KCJPJDFE_00111	gene			
+KCJPJDFE_00112	CDS			hypothetical protein
+KCJPJDFE_00112	gene			
+KCJPJDFE_00113	CDS	trpS	6.1.1.2	Tryptophan--tRNA ligase
+KCJPJDFE_00113	gene	trpS		
+KCJPJDFE_00114	CDS			hypothetical protein
+KCJPJDFE_00114	gene			
+KCJPJDFE_00115	CDS			hypothetical protein
+KCJPJDFE_00115	gene			
+KCJPJDFE_00116	CDS			hypothetical protein
+KCJPJDFE_00116	gene			
+KCJPJDFE_00117	CDS	thyA	2.1.1.-	Putative thymidylate synthase
+KCJPJDFE_00117	gene	thyA		
+KCJPJDFE_00118	CDS	hdrB_1	1.5.1.3	Dihydrofolate reductase HdrB
+KCJPJDFE_00118	gene	hdrB_1		
+KCJPJDFE_00119	CDS			hypothetical protein
+KCJPJDFE_00119	gene			
+KCJPJDFE_00120	CDS			hypothetical protein
+KCJPJDFE_00120	gene			
+KCJPJDFE_00121	CDS			hypothetical protein
+KCJPJDFE_00121	gene			
+KCJPJDFE_00122	CDS			hypothetical protein
+KCJPJDFE_00122	gene			
+KCJPJDFE_00123	CDS			hypothetical protein
+KCJPJDFE_00123	gene			
+KCJPJDFE_00124	CDS		2.4.2.1	putative 6-oxopurine nucleoside phosphorylase
+KCJPJDFE_00124	gene			
+KCJPJDFE_00125	CDS	rps3ae		30S ribosomal protein S3Ae
+KCJPJDFE_00125	gene	rps3ae		
+KCJPJDFE_00126	CDS			hypothetical protein
+KCJPJDFE_00126	gene			
+KCJPJDFE_00127	CDS			hypothetical protein
+KCJPJDFE_00127	gene			
+KCJPJDFE_00128	CDS	pdxS	4.3.3.6	Pyridoxal 5'-phosphate synthase subunit PdxS
+KCJPJDFE_00128	gene	pdxS		
+KCJPJDFE_00129	CDS	smc_1		Chromosome partition protein Smc
+KCJPJDFE_00129	gene	smc_1		
+KCJPJDFE_00130	CDS			hypothetical protein
+KCJPJDFE_00130	gene			
+KCJPJDFE_00131	CDS	mntR_1		Transcriptional regulator MntR
+KCJPJDFE_00131	gene	mntR_1		
+KCJPJDFE_00132	CDS			hypothetical protein
+KCJPJDFE_00132	gene			
+KCJPJDFE_00133	CDS			hypothetical protein
+KCJPJDFE_00133	gene			
+KCJPJDFE_00134	CDS			hypothetical protein
+KCJPJDFE_00134	gene			
+KCJPJDFE_00135	CDS			hypothetical protein
+KCJPJDFE_00135	gene			
+KCJPJDFE_00136	CDS			hypothetical protein
+KCJPJDFE_00136	gene			
+KCJPJDFE_00137	CDS			50S ribosomal protein L30e
+KCJPJDFE_00137	gene			
+KCJPJDFE_00138	CDS	rpoA2	2.7.7.6	DNA-directed RNA polymerase subunit A''
+KCJPJDFE_00138	gene	rpoA2		
+KCJPJDFE_00139	CDS	rpoA1	2.7.7.6	DNA-directed RNA polymerase subunit A'
+KCJPJDFE_00139	gene	rpoA1		
+KCJPJDFE_00140	CDS	rpoB1	2.7.7.6	DNA-directed RNA polymerase subunit B'
+KCJPJDFE_00140	gene	rpoB1		
+KCJPJDFE_00141	CDS			hypothetical protein
+KCJPJDFE_00141	gene			
+KCJPJDFE_00142	tRNA			tRNA-Lys(ttt)
+KCJPJDFE_00142	gene			
+KCJPJDFE_00143	CDS		6.3.4.15	Putative biotin ligase
+KCJPJDFE_00143	gene			
+KCJPJDFE_00144	CDS			hypothetical protein
+KCJPJDFE_00144	gene			
+KCJPJDFE_00145	CDS	ftsZ		Cell division protein FtsZ
+KCJPJDFE_00145	gene	ftsZ		
+KCJPJDFE_00146	CDS			hypothetical protein
+KCJPJDFE_00146	gene			
+KCJPJDFE_00147	CDS	fen	3.1.-.-	Flap endonuclease 1
+KCJPJDFE_00147	gene	fen		
+KCJPJDFE_00148	CDS		2.1.1.213	tRNA (guanine(10)-N2)-dimethyltransferase
+KCJPJDFE_00148	gene			
+KCJPJDFE_00149	tRNA			tRNA-Arg(tcg)
+KCJPJDFE_00149	gene			
+KCJPJDFE_00150	CDS			hypothetical protein
+KCJPJDFE_00150	gene			
+KCJPJDFE_00151	CDS	trpB	4.2.1.20	Tryptophan synthase beta chain
+KCJPJDFE_00151	gene	trpB		
+KCJPJDFE_00152	CDS			hypothetical protein
+KCJPJDFE_00152	gene			
+KCJPJDFE_00153	CDS	arfC	1.1.1.302	2,5-diamino-6-ribosylamino-4(3H)-pyrimidinone 5'-phosphate reductase
+KCJPJDFE_00153	gene	arfC		
+KCJPJDFE_00154	CDS	yegS	2.7.1.-	lipid kinase YegS
+KCJPJDFE_00154	gene	yegS		
+KCJPJDFE_00155	CDS			hypothetical protein
+KCJPJDFE_00155	gene			
+KCJPJDFE_00156	tRNA			tRNA-Ser(tga)
+KCJPJDFE_00156	gene			
+KCJPJDFE_00157	CDS			hypothetical protein
+KCJPJDFE_00157	gene			
+KCJPJDFE_00158	CDS			hypothetical protein
+KCJPJDFE_00158	gene			
+KCJPJDFE_00159	CDS	pol	2.7.7.7	DNA polymerase
+KCJPJDFE_00159	gene	pol		
+KCJPJDFE_00160	CDS			hypothetical protein
+KCJPJDFE_00160	gene			
+KCJPJDFE_00161	CDS	tuf_1		Elongation factor 1-alpha
+KCJPJDFE_00161	gene	tuf_1		
+KCJPJDFE_00162	CDS			30S ribosomal protein S10
+KCJPJDFE_00162	gene			
+KCJPJDFE_00163	CDS			hypothetical protein
+KCJPJDFE_00163	gene			
+KCJPJDFE_00164	CDS			hypothetical protein
+KCJPJDFE_00164	gene			
+KCJPJDFE_00165	tRNA			tRNA-Leu(caa)
+KCJPJDFE_00165	gene			
+KCJPJDFE_00166	CDS			hypothetical protein
+KCJPJDFE_00166	gene			
+KCJPJDFE_00167	CDS		3.1.3.18	Phosphoglycolate phosphatase
+KCJPJDFE_00167	gene			
+KCJPJDFE_00168	CDS	copB	3.6.3.4	Copper-exporting P-type ATPase B
+KCJPJDFE_00168	gene	copB		
+KCJPJDFE_00169	CDS			hypothetical protein
+KCJPJDFE_00169	gene			
+KCJPJDFE_00170	CDS			hypothetical protein
+KCJPJDFE_00170	gene			
+KCJPJDFE_00171	CDS	bchL	1.3.7.7	Light-independent protochlorophyllide reductase iron-sulfur ATP-binding protein
+KCJPJDFE_00171	gene	bchL		
+KCJPJDFE_00172	CDS			hypothetical protein
+KCJPJDFE_00172	gene			
+KCJPJDFE_00173	CDS			hypothetical protein
+KCJPJDFE_00173	gene			
+KCJPJDFE_00174	CDS	infB		putative translation initiation factor IF-2
+KCJPJDFE_00174	gene	infB		
+KCJPJDFE_00175	CDS			hypothetical protein
+KCJPJDFE_00175	gene			
+KCJPJDFE_00176	CDS	coxA2	1.9.3.1	Cytochrome c oxidase polypeptide 1
+KCJPJDFE_00176	gene	coxA2		
+KCJPJDFE_00177	CDS			hypothetical protein
+KCJPJDFE_00177	gene			
+KCJPJDFE_00178	CDS			hypothetical protein
+KCJPJDFE_00178	gene			
+KCJPJDFE_00179	CDS			hypothetical protein
+KCJPJDFE_00179	gene			
+KCJPJDFE_00180	CDS			putative HTH-type transcriptional regulator
+KCJPJDFE_00180	gene			
+KCJPJDFE_00181	CDS		2.1.1.-	tRNA (cytosine(49)-C(5))-methyltransferase
+KCJPJDFE_00181	gene			
+KCJPJDFE_00182	CDS			hypothetical protein
+KCJPJDFE_00182	gene			
+KCJPJDFE_00183	CDS			hypothetical protein
+KCJPJDFE_00183	gene			
+KCJPJDFE_00184	CDS			hypothetical protein
+KCJPJDFE_00184	gene			
+KCJPJDFE_00185	CDS			hypothetical protein
+KCJPJDFE_00185	gene			
+KCJPJDFE_00186	CDS	xerA		Tyrosine recombinase XerA
+KCJPJDFE_00186	gene	xerA		
+KCJPJDFE_00187	CDS	cofF	6.3.2.32	Coenzyme gamma-F420-2:alpha-L-glutamate ligase
+KCJPJDFE_00187	gene	cofF		
+KCJPJDFE_00188	CDS			hypothetical protein
+KCJPJDFE_00188	gene			
+KCJPJDFE_00189	CDS			Iron-sulfur cluster carrier protein
+KCJPJDFE_00189	gene			
+KCJPJDFE_00190	CDS			hypothetical protein
+KCJPJDFE_00190	gene			
+KCJPJDFE_00191	CDS	hpt_1	2.4.2.8	Hypoxanthine/guanine phosphoribosyltransferase
+KCJPJDFE_00191	gene	hpt_1		
+KCJPJDFE_00192	CDS			hypothetical protein
+KCJPJDFE_00192	gene			
+KCJPJDFE_00193	CDS			hypothetical protein
+KCJPJDFE_00193	gene			
+KCJPJDFE_00194	CDS			hypothetical protein
+KCJPJDFE_00194	gene			
+KCJPJDFE_00195	tRNA			tRNA-Ser(gga)
+KCJPJDFE_00195	gene			
+KCJPJDFE_00196	CDS			hypothetical protein
+KCJPJDFE_00196	gene			
+KCJPJDFE_00197	CDS			hypothetical protein
+KCJPJDFE_00197	gene			
+KCJPJDFE_00198	CDS			hypothetical protein
+KCJPJDFE_00198	gene			
+KCJPJDFE_00199	CDS			hypothetical protein
+KCJPJDFE_00199	gene			
+KCJPJDFE_00200	CDS	fcl_1	1.1.1.271	GDP-L-fucose synthase
+KCJPJDFE_00200	gene	fcl_1		
+KCJPJDFE_00201	CDS	pcm_1	2.1.1.77	Protein-L-isoaspartate O-methyltransferase
+KCJPJDFE_00201	gene	pcm_1		
+KCJPJDFE_00202	CDS	gph	3.1.3.18	Phosphoglycolate phosphatase
+KCJPJDFE_00202	gene	gph		
+KCJPJDFE_00203	CDS		1.3.7.11	Digeranylgeranylglycerophospholipid reductase
+KCJPJDFE_00203	gene			
+KCJPJDFE_00204	CDS	cutA_1		Divalent-cation tolerance protein CutA
+KCJPJDFE_00204	gene	cutA_1		
+KCJPJDFE_00205	CDS			putative HTH-type transcriptional regulator
+KCJPJDFE_00205	gene			
+KCJPJDFE_00206	CDS			hypothetical protein
+KCJPJDFE_00206	gene			
+KCJPJDFE_00207	rRNA			5S ribosomal RNA
+KCJPJDFE_00207	gene			
+KCJPJDFE_00208	CDS	eif6		Translation initiation factor 6
+KCJPJDFE_00208	gene	eif6		
+KCJPJDFE_00209	CDS	thrC_2	4.2.3.1	Threonine synthase
+KCJPJDFE_00209	gene	thrC_2		
+KCJPJDFE_00210	CDS			hypothetical protein
+KCJPJDFE_00210	gene			
+KCJPJDFE_00211	CDS	pycB_1	6.4.1.1	Pyruvate carboxylase subunit B
+KCJPJDFE_00211	gene	pycB_1		
+KCJPJDFE_00212	CDS			hypothetical protein
+KCJPJDFE_00212	gene			
+KCJPJDFE_00213	CDS	accD	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta, chloroplastic
+KCJPJDFE_00213	gene	accD		
+KCJPJDFE_00214	CDS	glmS_1	5.4.99.1	Glutamate mutase sigma subunit
+KCJPJDFE_00214	gene	glmS_1		
+KCJPJDFE_00215	CDS	mnmE	3.6.-.-	tRNA modification GTPase MnmE
+KCJPJDFE_00215	gene	mnmE		
+KCJPJDFE_00216	CDS			hypothetical protein
+KCJPJDFE_00216	gene			
+KCJPJDFE_00217	CDS			hypothetical protein
+KCJPJDFE_00217	gene			
+KCJPJDFE_00218	CDS	ogt	2.1.1.63	Methylated-DNA--protein-cysteine methyltransferase
+KCJPJDFE_00218	gene	ogt		
+KCJPJDFE_00219	CDS			hypothetical protein
+KCJPJDFE_00219	gene			
+KCJPJDFE_00220	CDS	rsxB_1		Electron transport complex subunit RsxB
+KCJPJDFE_00220	gene	rsxB_1		
+KCJPJDFE_00221	CDS	hdrD_1	1.8.98.1	CoB--CoM heterodisulfide reductase iron-sulfur subunit D
+KCJPJDFE_00221	gene	hdrD_1		
+KCJPJDFE_00222	CDS	narC		putative respiratory nitrate reductase subunit cytochrome b-561
+KCJPJDFE_00222	gene	narC		
+KCJPJDFE_00223	CDS			hypothetical protein
+KCJPJDFE_00223	gene			
+KCJPJDFE_00224	CDS			50S ribosomal protein L18e
+KCJPJDFE_00224	gene			
+KCJPJDFE_00225	CDS			50S ribosomal protein L13
+KCJPJDFE_00225	gene			
+KCJPJDFE_00226	CDS	rps9		30S ribosomal protein S9
+KCJPJDFE_00226	gene	rps9		
+KCJPJDFE_00227	CDS	rpoN	2.7.7.6	DNA-directed RNA polymerase subunit N
+KCJPJDFE_00227	gene	rpoN		
+KCJPJDFE_00228	tRNA			tRNA-Pro(ggg)
+KCJPJDFE_00228	gene			
+KCJPJDFE_00229	CDS	ligN	6.5.1.2	DNA ligase
+KCJPJDFE_00229	gene	ligN		
+KCJPJDFE_00230	CDS			hypothetical protein
+KCJPJDFE_00230	gene			
+KCJPJDFE_00231	CDS			hypothetical protein
+KCJPJDFE_00231	gene			
+KCJPJDFE_00232	CDS	polC_2	2.7.7.7	DNA polymerase III PolC-type
+KCJPJDFE_00232	gene	polC_2		
+KCJPJDFE_00233	CDS			hypothetical protein
+KCJPJDFE_00233	gene			
+KCJPJDFE_00234	CDS			hypothetical protein
+KCJPJDFE_00234	gene			
+KCJPJDFE_00235	tRNA			tRNA-Arg(gcg)
+KCJPJDFE_00235	gene			
+KCJPJDFE_00236	CDS			hypothetical protein
+KCJPJDFE_00236	gene			
+KCJPJDFE_00237	CDS		3.1.2.28	1,4-dihydroxy-2-naphthoyl-CoA hydrolase
+KCJPJDFE_00237	gene			
+KCJPJDFE_00238	CDS			hypothetical protein
+KCJPJDFE_00238	gene			
+KCJPJDFE_00239	CDS			hypothetical protein
+KCJPJDFE_00239	gene			
+KCJPJDFE_00240	CDS			hypothetical protein
+KCJPJDFE_00240	gene			
+KCJPJDFE_00241	CDS	nfuA		Fe/S biogenesis protein NfuA
+KCJPJDFE_00241	gene	nfuA		
+KCJPJDFE_00242	CDS		2.1.1.-	7,8-dihydro-6-hydroxymethylpterin dimethyltransferase
+KCJPJDFE_00242	gene			
+KCJPJDFE_00243	CDS	ubiG	2.1.1.222	Ubiquinone biosynthesis O-methyltransferase
+KCJPJDFE_00243	gene	ubiG		
+KCJPJDFE_00244	CDS	trm1	2.1.1.215	tRNA (guanine(26)-N(2))-dimethyltransferase
+KCJPJDFE_00244	gene	trm1		
+KCJPJDFE_00245	CDS			hypothetical protein
+KCJPJDFE_00245	gene			
+KCJPJDFE_00246	CDS			hypothetical protein
+KCJPJDFE_00246	gene			
+KCJPJDFE_00247	CDS			hypothetical protein
+KCJPJDFE_00247	gene			
+KCJPJDFE_00248	CDS	panD	4.1.1.11	Aspartate 1-decarboxylase
+KCJPJDFE_00248	gene	panD		
+KCJPJDFE_00249	CDS	rlmH	2.1.1.177	Ribosomal RNA large subunit methyltransferase H
+KCJPJDFE_00249	gene	rlmH		
+KCJPJDFE_00250	CDS			hypothetical protein
+KCJPJDFE_00250	gene			
+KCJPJDFE_00251	CDS			hypothetical protein
+KCJPJDFE_00251	gene			
+KCJPJDFE_00252	CDS			hypothetical protein
+KCJPJDFE_00252	gene			
+KCJPJDFE_00253	CDS	rppH_2	3.6.1.-	RNA pyrophosphohydrolase
+KCJPJDFE_00253	gene	rppH_2		
+KCJPJDFE_00254	CDS			hypothetical protein
+KCJPJDFE_00254	gene			
+KCJPJDFE_00255	CDS			hypothetical protein
+KCJPJDFE_00255	gene			
+KCJPJDFE_00256	CDS			hypothetical protein
+KCJPJDFE_00256	gene			
+KCJPJDFE_00257	CDS			hypothetical protein
+KCJPJDFE_00257	gene			
+KCJPJDFE_00258	CDS			hypothetical protein
+KCJPJDFE_00258	gene			
+KCJPJDFE_00259	CDS			hypothetical protein
+KCJPJDFE_00259	gene			
+KCJPJDFE_00260	CDS	menH_1	4.2.99.20	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+KCJPJDFE_00260	gene	menH_1		
+KCJPJDFE_00261	CDS	caiA_1	1.3.99.-	Crotonobetainyl-CoA dehydrogenase
+KCJPJDFE_00261	gene	caiA_1		
+KCJPJDFE_00262	CDS		4.2.1.116	3-hydroxypropionyl-coenzyme A dehydratase
+KCJPJDFE_00262	gene			
+KCJPJDFE_00263	CDS	fadA_1	2.3.1.16	3-ketoacyl-CoA thiolase
+KCJPJDFE_00263	gene	fadA_1		
+KCJPJDFE_00264	CDS			hypothetical protein
+KCJPJDFE_00264	gene			
+KCJPJDFE_00265	CDS		3.6.4.13	putative ATP-dependent RNA helicase
+KCJPJDFE_00265	gene			
+KCJPJDFE_00266	CDS	icd	1.1.1.42	Isocitrate dehydrogenase [NADP]
+KCJPJDFE_00266	gene	icd		
+KCJPJDFE_00267	CDS			hypothetical protein
+KCJPJDFE_00267	gene			
+KCJPJDFE_00268	CDS			hypothetical protein
+KCJPJDFE_00268	gene			
+KCJPJDFE_00269	CDS	rnr	1.17.4.1	Vitamin B12-dependent ribonucleoside-diphosphate reductase
+KCJPJDFE_00269	gene	rnr		
+KCJPJDFE_00270	CDS			hypothetical protein
+KCJPJDFE_00270	gene			
+KCJPJDFE_00271	CDS	tfb_1		Transcription initiation factor IIB
+KCJPJDFE_00271	gene	tfb_1		
+KCJPJDFE_00272	CDS	hacA	4.2.1.114	Methanogen homoaconitase large subunit
+KCJPJDFE_00272	gene	hacA		
+KCJPJDFE_00273	CDS			hypothetical protein
+KCJPJDFE_00273	gene			
+KCJPJDFE_00274	CDS	top6B	5.99.1.3	Type 2 DNA topoisomerase 6 subunit B
+KCJPJDFE_00274	gene	top6B		
+KCJPJDFE_00275	CDS	top6A	5.99.1.3	Type 2 DNA topoisomerase 6 subunit A
+KCJPJDFE_00275	gene	top6A		
+KCJPJDFE_00276	CDS			hypothetical protein
+KCJPJDFE_00276	gene			
+KCJPJDFE_00277	CDS			hypothetical protein
+KCJPJDFE_00277	gene			
+KCJPJDFE_00278	CDS			hypothetical protein
+KCJPJDFE_00278	gene			
+KCJPJDFE_00279	CDS			hypothetical protein
+KCJPJDFE_00279	gene			
+KCJPJDFE_00280	CDS			hypothetical protein
+KCJPJDFE_00280	gene			
+KCJPJDFE_00281	CDS			hypothetical protein
+KCJPJDFE_00281	gene			
+KCJPJDFE_00282	CDS	tfrA_1	1.3.4.1	Fumarate reductase (CoM/CoB) subunit A
+KCJPJDFE_00282	gene	tfrA_1		
+KCJPJDFE_00283	CDS			hypothetical protein
+KCJPJDFE_00283	gene			
+KCJPJDFE_00284	tRNA			tRNA-Arg(cct)
+KCJPJDFE_00284	gene			
+KCJPJDFE_00285	CDS	rfcS_1		Replication factor C small subunit
+KCJPJDFE_00285	gene	rfcS_1		
+KCJPJDFE_00286	CDS			hypothetical protein
+KCJPJDFE_00286	gene			
+KCJPJDFE_00287	CDS	guaAA_1	6.3.5.2	GMP synthase [glutamine-hydrolyzing] subunit A
+KCJPJDFE_00287	gene	guaAA_1		
+KCJPJDFE_00288	tRNA			tRNA-Asp(gtc)
+KCJPJDFE_00288	gene			
+KCJPJDFE_00289	CDS	trm5b	2.1.1.228	tRNA (guanine(37)-N1)-methyltransferase Trm5b
+KCJPJDFE_00289	gene	trm5b		
+KCJPJDFE_00290	CDS	dphB	2.1.1.98	Diphthine synthase
+KCJPJDFE_00290	gene	dphB		
+KCJPJDFE_00291	CDS			hypothetical protein
+KCJPJDFE_00291	gene			
+KCJPJDFE_00292	CDS			hypothetical protein
+KCJPJDFE_00292	gene			
+KCJPJDFE_00293	CDS			hypothetical protein
+KCJPJDFE_00293	gene			
+KCJPJDFE_00294	CDS			putative ABC transporter ATP-binding protein
+KCJPJDFE_00294	gene			
+KCJPJDFE_00295	CDS			hypothetical protein
+KCJPJDFE_00295	gene			
+KCJPJDFE_00296	CDS			hypothetical protein
+KCJPJDFE_00296	gene			
+KCJPJDFE_00297	CDS	nadK	2.7.1.23	NAD kinase
+KCJPJDFE_00297	gene	nadK		
+KCJPJDFE_00298	CDS		3.1.2.28	1,4-dihydroxy-2-naphthoyl-CoA hydrolase
+KCJPJDFE_00298	gene			
+KCJPJDFE_00299	CDS			Small-conductance mechanosensitive channel MscMJ
+KCJPJDFE_00299	gene			
+KCJPJDFE_00300	CDS	pepX_1	3.4.14.11	Xaa-Pro dipeptidyl-peptidase
+KCJPJDFE_00300	gene	pepX_1		
+KCJPJDFE_00301	CDS			hypothetical protein
+KCJPJDFE_00301	gene			
+KCJPJDFE_00302	CDS			hypothetical protein
+KCJPJDFE_00302	gene			
+KCJPJDFE_00303	CDS			hypothetical protein
+KCJPJDFE_00303	gene			
+KCJPJDFE_00304	CDS	orn	3.1.-.-	Oligoribonuclease
+KCJPJDFE_00304	gene	orn		
+KCJPJDFE_00305	CDS			hypothetical protein
+KCJPJDFE_00305	gene			
+KCJPJDFE_00306	CDS			hypothetical protein
+KCJPJDFE_00306	gene			
+KCJPJDFE_00307	CDS			hypothetical protein
+KCJPJDFE_00307	gene			
+KCJPJDFE_00308	CDS		4.2.1.116	3-hydroxypropionyl-coenzyme A dehydratase
+KCJPJDFE_00308	gene			
+KCJPJDFE_00309	CDS			hypothetical protein
+KCJPJDFE_00309	gene			
+KCJPJDFE_00310	CDS	moaE	2.8.1.-	putative molybdopterin synthase
+KCJPJDFE_00310	gene	moaE		
+KCJPJDFE_00311	CDS			hypothetical protein
+KCJPJDFE_00311	gene			
+KCJPJDFE_00312	CDS	rsxB_2		Electron transport complex subunit RsxB
+KCJPJDFE_00312	gene	rsxB_2		
+KCJPJDFE_00313	CDS	moaC	4.6.1.17	putative cyclic pyranopterin monophosphate synthase
+KCJPJDFE_00313	gene	moaC		
+KCJPJDFE_00314	CDS			hypothetical protein
+KCJPJDFE_00314	gene			
+KCJPJDFE_00315	CDS	fda	4.1.2.13	Fructose-bisphosphate aldolase class 1
+KCJPJDFE_00315	gene	fda		
+KCJPJDFE_00316	CDS			hypothetical protein
+KCJPJDFE_00316	gene			
+KCJPJDFE_00317	CDS			hypothetical protein
+KCJPJDFE_00317	gene			
+KCJPJDFE_00318	CDS			hypothetical protein
+KCJPJDFE_00318	gene			
+KCJPJDFE_00319	CDS			hypothetical protein
+KCJPJDFE_00319	gene			
+KCJPJDFE_00320	CDS			hypothetical protein
+KCJPJDFE_00320	gene			
+KCJPJDFE_00321	CDS			hypothetical protein
+KCJPJDFE_00321	gene			
+KCJPJDFE_00322	CDS			hypothetical protein
+KCJPJDFE_00322	gene			
+KCJPJDFE_00323	CDS			hypothetical protein
+KCJPJDFE_00323	gene			
+KCJPJDFE_00324	CDS			hypothetical protein
+KCJPJDFE_00324	gene			
+KCJPJDFE_00325	CDS			hypothetical protein
+KCJPJDFE_00325	gene			
+KCJPJDFE_00326	CDS			hypothetical protein
+KCJPJDFE_00326	gene			
+KCJPJDFE_00327	CDS	cysD	2.7.7.4	Sulfate adenylyltransferase subunit 2
+KCJPJDFE_00327	gene	cysD		
+KCJPJDFE_00328	CDS	tuf_2		Elongation factor 1-alpha
+KCJPJDFE_00328	gene	tuf_2		
+KCJPJDFE_00329	CDS	pfdA		Prefoldin subunit alpha
+KCJPJDFE_00329	gene	pfdA		
+KCJPJDFE_00330	CDS	ftsY		Signal recognition particle receptor FtsY
+KCJPJDFE_00330	gene	ftsY		
+KCJPJDFE_00331	CDS	cheY		Chemotaxis protein CheY
+KCJPJDFE_00331	gene	cheY		
+KCJPJDFE_00332	CDS			hypothetical protein
+KCJPJDFE_00332	gene			
+KCJPJDFE_00333	CDS	pyrF	4.1.1.23	Orotidine 5'-phosphate decarboxylase
+KCJPJDFE_00333	gene	pyrF		
+KCJPJDFE_00334	CDS			hypothetical protein
+KCJPJDFE_00334	gene			
+KCJPJDFE_00335	CDS	purL	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurL
+KCJPJDFE_00335	gene	purL		
+KCJPJDFE_00336	CDS	purQ	3.5.1.2	Phosphoribosylformylglycinamidine synthase subunit PurQ
+KCJPJDFE_00336	gene	purQ		
+KCJPJDFE_00337	CDS			hypothetical protein
+KCJPJDFE_00337	gene			
+KCJPJDFE_00338	CDS			hypothetical protein
+KCJPJDFE_00338	gene			
+KCJPJDFE_00339	CDS			hypothetical protein
+KCJPJDFE_00339	gene			
+KCJPJDFE_00340	CDS	mdtD		Putative multidrug resistance protein MdtD
+KCJPJDFE_00340	gene	mdtD		
+KCJPJDFE_00341	CDS			hypothetical protein
+KCJPJDFE_00341	gene			
+KCJPJDFE_00342	CDS			hypothetical protein
+KCJPJDFE_00342	gene			
+KCJPJDFE_00343	CDS			hypothetical protein
+KCJPJDFE_00343	gene			
+KCJPJDFE_00344	CDS			hypothetical protein
+KCJPJDFE_00344	gene			
+KCJPJDFE_00345	CDS			hypothetical protein
+KCJPJDFE_00345	gene			
+KCJPJDFE_00346	CDS			hypothetical protein
+KCJPJDFE_00346	gene			
+KCJPJDFE_00347	CDS			hypothetical protein
+KCJPJDFE_00347	gene			
+KCJPJDFE_00348	CDS			hypothetical protein
+KCJPJDFE_00348	gene			
+KCJPJDFE_00349	CDS	arcA	3.5.3.6	Arginine deiminase
+KCJPJDFE_00349	gene	arcA		
+KCJPJDFE_00350	CDS			hypothetical protein
+KCJPJDFE_00350	gene			
+KCJPJDFE_00351	CDS	lysJ_1	2.6.1.-	[LysW]-aminoadipate semialdehyde/glutamate semialdehyde transaminase
+KCJPJDFE_00351	gene	lysJ_1		
+KCJPJDFE_00352	CDS			hypothetical protein
+KCJPJDFE_00352	gene			
+KCJPJDFE_00353	CDS			hypothetical protein
+KCJPJDFE_00353	gene			
+KCJPJDFE_00354	tRNA			tRNA-Leu(gag)
+KCJPJDFE_00354	gene			
+KCJPJDFE_00355	CDS			hypothetical protein
+KCJPJDFE_00355	gene			
+KCJPJDFE_00356	CDS	thrB	2.7.1.39	Homoserine kinase
+KCJPJDFE_00356	gene	thrB		
+KCJPJDFE_00357	CDS			Signal recognition particle 19 kDa protein
+KCJPJDFE_00357	gene			
+KCJPJDFE_00358	CDS	rps8e		30S ribosomal protein S8e
+KCJPJDFE_00358	gene	rps8e		
+KCJPJDFE_00359	CDS			hypothetical protein
+KCJPJDFE_00359	gene			
+KCJPJDFE_00360	CDS	tgtA_1	2.4.2.48	tRNA-guanine(15) transglycosylase
+KCJPJDFE_00360	gene	tgtA_1		
+KCJPJDFE_00361	CDS			hypothetical protein
+KCJPJDFE_00361	gene			
+KCJPJDFE_00362	CDS	coaD	2.7.7.3	Phosphopantetheine adenylyltransferase
+KCJPJDFE_00362	gene	coaD		
+KCJPJDFE_00363	CDS			hypothetical protein
+KCJPJDFE_00363	gene			
+KCJPJDFE_00364	CDS	cdc6		ORC1-type DNA replication protein
+KCJPJDFE_00364	gene	cdc6		
+KCJPJDFE_00365	CDS	rbn	3.1.26.11	Ribonuclease BN
+KCJPJDFE_00365	gene	rbn		
+KCJPJDFE_00366	CDS			hypothetical protein
+KCJPJDFE_00366	gene			
+KCJPJDFE_00367	CDS	pycA_1	6.4.1.1	Pyruvate carboxylase subunit A
+KCJPJDFE_00367	gene	pycA_1		
+KCJPJDFE_00368	CDS			hypothetical protein
+KCJPJDFE_00368	gene			
+KCJPJDFE_00369	CDS			hypothetical protein
+KCJPJDFE_00369	gene			
+KCJPJDFE_00370	CDS	tuf_3		Elongation factor 1-alpha
+KCJPJDFE_00370	gene	tuf_3		
+KCJPJDFE_00371	CDS			hypothetical protein
+KCJPJDFE_00371	gene			
+KCJPJDFE_00372	CDS			hypothetical protein
+KCJPJDFE_00372	gene			
+KCJPJDFE_00373	CDS			hypothetical protein
+KCJPJDFE_00373	gene			
+KCJPJDFE_00374	CDS			hypothetical protein
+KCJPJDFE_00374	gene			
+KCJPJDFE_00375	CDS			hypothetical protein
+KCJPJDFE_00375	gene			
+KCJPJDFE_00376	CDS			hypothetical protein
+KCJPJDFE_00376	gene			
+KCJPJDFE_00377	tRNA			tRNA-Gly(tcc)
+KCJPJDFE_00377	gene			
+KCJPJDFE_00378	CDS	wtpC_2	3.6.3.-	Molybdate/tungstate import ATP-binding protein WtpC
+KCJPJDFE_00378	gene	wtpC_2		
+KCJPJDFE_00379	CDS			hypothetical protein
+KCJPJDFE_00379	gene			
+KCJPJDFE_00380	CDS			hypothetical protein
+KCJPJDFE_00380	gene			
+KCJPJDFE_00381	CDS			hypothetical protein
+KCJPJDFE_00381	gene			
+KCJPJDFE_00382	CDS			hypothetical protein
+KCJPJDFE_00382	gene			
+KCJPJDFE_00383	CDS	rnp4	3.1.26.5	Ribonuclease P protein component 4
+KCJPJDFE_00383	gene	rnp4		
+KCJPJDFE_00384	CDS	adk	2.7.4.3	Adenylate kinase
+KCJPJDFE_00384	gene	adk		
+KCJPJDFE_00385	CDS		3.4.21.62	Subtilisin-like serine protease
+KCJPJDFE_00385	gene			
+KCJPJDFE_00386	CDS	gap	1.2.1.59	Glyceraldehyde-3-phosphate dehydrogenase
+KCJPJDFE_00386	gene	gap		
+KCJPJDFE_00387	CDS	fwdC	1.2.99.5	Tungsten-containing formylmethanofuran dehydrogenase 2 subunit C
+KCJPJDFE_00387	gene	fwdC		
+KCJPJDFE_00388	CDS	pheT	6.1.1.20	Phenylalanine--tRNA ligase beta subunit
+KCJPJDFE_00388	gene	pheT		
+KCJPJDFE_00389	CDS			hypothetical protein
+KCJPJDFE_00389	gene			
+KCJPJDFE_00390	CDS			hypothetical protein
+KCJPJDFE_00390	gene			
+KCJPJDFE_00391	CDS	rnhB	3.1.26.4	Ribonuclease HII
+KCJPJDFE_00391	gene	rnhB		
+KCJPJDFE_00392	CDS	gltX	6.1.1.17	Glutamate--tRNA ligase
+KCJPJDFE_00392	gene	gltX		
+KCJPJDFE_00393	CDS			hypothetical protein
+KCJPJDFE_00393	gene			
+KCJPJDFE_00394	CDS			hypothetical protein
+KCJPJDFE_00394	gene			
+KCJPJDFE_00395	CDS			30S ribosomal protein S15
+KCJPJDFE_00395	gene			
+KCJPJDFE_00396	CDS	arcS	2.6.1.97	Archaeosine synthase
+KCJPJDFE_00396	gene	arcS		
+KCJPJDFE_00397	CDS			hypothetical protein
+KCJPJDFE_00397	gene			
+KCJPJDFE_00398	CDS	dnaJ_1		Chaperone protein DnaJ
+KCJPJDFE_00398	gene	dnaJ_1		
+KCJPJDFE_00399	CDS			hypothetical protein
+KCJPJDFE_00399	gene			
+KCJPJDFE_00400	CDS			hypothetical protein
+KCJPJDFE_00400	gene			
+KCJPJDFE_00401	CDS	pcp	3.4.19.3	Pyrrolidone-carboxylate peptidase
+KCJPJDFE_00401	gene	pcp		
+KCJPJDFE_00402	CDS			hypothetical protein
+KCJPJDFE_00402	gene			
+KCJPJDFE_00403	CDS	glpE_1	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+KCJPJDFE_00403	gene	glpE_1		
+KCJPJDFE_00404	CDS			hypothetical protein
+KCJPJDFE_00404	gene			
+KCJPJDFE_00405	CDS			hypothetical protein
+KCJPJDFE_00405	gene			
+KCJPJDFE_00406	CDS			hypothetical protein
+KCJPJDFE_00406	gene			
+KCJPJDFE_00407	CDS			hypothetical protein
+KCJPJDFE_00407	gene			
+KCJPJDFE_00408	CDS			hypothetical protein
+KCJPJDFE_00408	gene			
+KCJPJDFE_00409	CDS	hly_1	3.4.21.-	Halolysin
+KCJPJDFE_00409	gene	hly_1		
+KCJPJDFE_00410	CDS	aglB	2.4.99.21	Dolichyl-monophosphooligosaccharide--protein glycotransferase AglB
+KCJPJDFE_00410	gene	aglB		
+KCJPJDFE_00411	CDS	purD	6.3.4.13	Phosphoribosylamine--glycine ligase
+KCJPJDFE_00411	gene	purD		
+KCJPJDFE_00412	CDS	carS	2.7.7.67	CDP-archaeol synthase
+KCJPJDFE_00412	gene	carS		
+KCJPJDFE_00413	CDS			hypothetical protein
+KCJPJDFE_00413	gene			
+KCJPJDFE_00414	CDS			hypothetical protein
+KCJPJDFE_00414	gene			
+KCJPJDFE_00415	CDS			hypothetical protein
+KCJPJDFE_00415	gene			
+KCJPJDFE_00416	tRNA			tRNA-Met(cat)
+KCJPJDFE_00416	gene			
+KCJPJDFE_00417	CDS			hypothetical protein
+KCJPJDFE_00417	gene			
+KCJPJDFE_00418	CDS			hypothetical protein
+KCJPJDFE_00418	gene			
+KCJPJDFE_00419	CDS			hypothetical protein
+KCJPJDFE_00419	gene			
+KCJPJDFE_00420	CDS	clsB	2.7.8.-	Cardiolipin synthase B
+KCJPJDFE_00420	gene	clsB		
+KCJPJDFE_00421	CDS	deoA	2.4.2.57	AMP phosphorylase
+KCJPJDFE_00421	gene	deoA		
+KCJPJDFE_00422	CDS			hypothetical protein
+KCJPJDFE_00422	gene			
+KCJPJDFE_00423	CDS			hypothetical protein
+KCJPJDFE_00423	gene			
+KCJPJDFE_00424	CDS	glyA	2.1.2.-	Serine hydroxymethyltransferase
+KCJPJDFE_00424	gene	glyA		
+KCJPJDFE_00425	CDS			hypothetical protein
+KCJPJDFE_00425	gene			
+KCJPJDFE_00426	CDS			hypothetical protein
+KCJPJDFE_00426	gene			
+KCJPJDFE_00427	tRNA			tRNA-Asn(gtt)
+KCJPJDFE_00427	gene			
+KCJPJDFE_00428	CDS	guaAB	6.3.5.2	GMP synthase [glutamine-hydrolyzing] subunit B
+KCJPJDFE_00428	gene	guaAB		
+KCJPJDFE_00429	CDS	purE	5.4.99.18	N5-carboxyaminoimidazole ribonucleotide mutase
+KCJPJDFE_00429	gene	purE		
+KCJPJDFE_00430	CDS			hypothetical protein
+KCJPJDFE_00430	gene			
+KCJPJDFE_00431	CDS	gcvPB	1.4.4.2	glycine dehydrogenase (decarboxylating) subunit 2
+KCJPJDFE_00431	gene	gcvPB		
+KCJPJDFE_00432	CDS	gcvPA	1.4.4.2	glycine dehydrogenase (decarboxylating) subunit 1
+KCJPJDFE_00432	gene	gcvPA		
+KCJPJDFE_00433	CDS	fcl_2	1.1.1.271	GDP-L-fucose synthase
+KCJPJDFE_00433	gene	fcl_2		
+KCJPJDFE_00434	CDS			hypothetical protein
+KCJPJDFE_00434	gene			
+KCJPJDFE_00435	CDS	gcvT	2.1.2.10	putative aminomethyltransferase
+KCJPJDFE_00435	gene	gcvT		
+KCJPJDFE_00436	CDS	tfb_2		Transcription initiation factor IIB
+KCJPJDFE_00436	gene	tfb_2		
+KCJPJDFE_00437	tRNA			tRNA-Ala(tgc)
+KCJPJDFE_00437	gene			
+KCJPJDFE_00438	CDS			hypothetical protein
+KCJPJDFE_00438	gene			
+KCJPJDFE_00439	CDS			hypothetical protein
+KCJPJDFE_00439	gene			
+KCJPJDFE_00440	CDS			hypothetical protein
+KCJPJDFE_00440	gene			
+KCJPJDFE_00441	CDS	tpiA	5.3.1.1	Triosephosphate isomerase
+KCJPJDFE_00441	gene	tpiA		
+KCJPJDFE_00442	CDS			hypothetical protein
+KCJPJDFE_00442	gene			
+KCJPJDFE_00443	tRNA			tRNA-Arg(tct)
+KCJPJDFE_00443	gene			
+KCJPJDFE_00444	CDS			hypothetical protein
+KCJPJDFE_00444	gene			
+KCJPJDFE_00445	CDS			hypothetical protein
+KCJPJDFE_00445	gene			
+KCJPJDFE_00446	tRNA			tRNA-Ala(ggc)
+KCJPJDFE_00446	gene			
+KCJPJDFE_00447	CDS			hypothetical protein
+KCJPJDFE_00447	gene			
+KCJPJDFE_00448	CDS			hypothetical protein
+KCJPJDFE_00448	gene			
+KCJPJDFE_00449	CDS			hypothetical protein
+KCJPJDFE_00449	gene			
+KCJPJDFE_00450	CDS	wtpC_3	3.6.3.-	Molybdate/tungstate import ATP-binding protein WtpC
+KCJPJDFE_00450	gene	wtpC_3		
+KCJPJDFE_00451	CDS	malK_1	3.6.3.19	Trehalose/maltose import ATP-binding protein MalK
+KCJPJDFE_00451	gene	malK_1		
+KCJPJDFE_00452	CDS			hypothetical protein
+KCJPJDFE_00452	gene			
+KCJPJDFE_00453	CDS			hypothetical protein
+KCJPJDFE_00453	gene			
+KCJPJDFE_00454	CDS			hypothetical protein
+KCJPJDFE_00454	gene			
+KCJPJDFE_00455	CDS	fni	5.3.3.2	Isopentenyl-diphosphate delta-isomerase
+KCJPJDFE_00455	gene	fni		
+KCJPJDFE_00456	CDS	glmS_2	2.6.1.16	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+KCJPJDFE_00456	gene	glmS_2		
+KCJPJDFE_00457	CDS	mnmC_1	1.5.-.-	tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC
+KCJPJDFE_00457	gene	mnmC_1		
+KCJPJDFE_00458	CDS			hypothetical protein
+KCJPJDFE_00458	gene			
+KCJPJDFE_00459	CDS			hypothetical protein
+KCJPJDFE_00459	gene			
+KCJPJDFE_00460	CDS			hypothetical protein
+KCJPJDFE_00460	gene			
+KCJPJDFE_00461	CDS		3.4.21.62	Subtilisin-like serine protease
+KCJPJDFE_00461	gene			
+KCJPJDFE_00462	CDS		2.6.1.57	Aromatic-amino-acid aminotransferase 2
+KCJPJDFE_00462	gene			
+KCJPJDFE_00463	CDS			hypothetical protein
+KCJPJDFE_00463	gene			
+KCJPJDFE_00464	CDS			hypothetical protein
+KCJPJDFE_00464	gene			
+KCJPJDFE_00465	CDS			hypothetical protein
+KCJPJDFE_00465	gene			
+KCJPJDFE_00466	CDS	thsA		Thermosome subunit alpha
+KCJPJDFE_00466	gene	thsA		
+KCJPJDFE_00467	CDS			hypothetical protein
+KCJPJDFE_00467	gene			
+KCJPJDFE_00468	CDS	hdrB_2	1.8.98.1	CoB--CoM heterodisulfide reductase subunit B
+KCJPJDFE_00468	gene	hdrB_2		
+KCJPJDFE_00469	CDS	xpf		3'-flap repair endonuclease Xpf
+KCJPJDFE_00469	gene	xpf		
+KCJPJDFE_00470	CDS	rpl3		50S ribosomal protein L3
+KCJPJDFE_00470	gene	rpl3		
+KCJPJDFE_00471	CDS	rpl4		50S ribosomal protein L4
+KCJPJDFE_00471	gene	rpl4		
+KCJPJDFE_00472	CDS			50S ribosomal protein L23
+KCJPJDFE_00472	gene			
+KCJPJDFE_00473	CDS	rpl2		50S ribosomal protein L2
+KCJPJDFE_00473	gene	rpl2		
+KCJPJDFE_00474	CDS			30S ribosomal protein S19
+KCJPJDFE_00474	gene			
+KCJPJDFE_00475	CDS			50S ribosomal protein L22
+KCJPJDFE_00475	gene			
+KCJPJDFE_00476	CDS	rps3		30S ribosomal protein S3
+KCJPJDFE_00476	gene	rps3		
+KCJPJDFE_00477	CDS			50S ribosomal protein L29
+KCJPJDFE_00477	gene			
+KCJPJDFE_00478	CDS			hypothetical protein
+KCJPJDFE_00478	gene			
+KCJPJDFE_00479	CDS	rnp1	3.1.26.5	Ribonuclease P protein component 1
+KCJPJDFE_00479	gene	rnp1		
+KCJPJDFE_00480	CDS			30S ribosomal protein S17
+KCJPJDFE_00480	gene			
+KCJPJDFE_00481	CDS			50S ribosomal protein L14
+KCJPJDFE_00481	gene			
+KCJPJDFE_00482	CDS			50S ribosomal protein L24
+KCJPJDFE_00482	gene			
+KCJPJDFE_00483	CDS	rps4e		30S ribosomal protein S4E
+KCJPJDFE_00483	gene	rps4e		
+KCJPJDFE_00484	CDS	rpl5		50S ribosomal protein L5
+KCJPJDFE_00484	gene	rpl5		
+KCJPJDFE_00485	CDS			30S ribosomal protein S14 type Z
+KCJPJDFE_00485	gene			
+KCJPJDFE_00486	CDS	rps8		30S ribosomal protein S8
+KCJPJDFE_00486	gene	rps8		
+KCJPJDFE_00487	CDS	rpl6		50S ribosomal protein L6
+KCJPJDFE_00487	gene	rpl6		
+KCJPJDFE_00488	CDS			50S ribosomal protein L32e
+KCJPJDFE_00488	gene			
+KCJPJDFE_00489	CDS			50S ribosomal protein L19e
+KCJPJDFE_00489	gene			
+KCJPJDFE_00490	CDS			50S ribosomal protein L18
+KCJPJDFE_00490	gene			
+KCJPJDFE_00491	CDS	rps5		30S ribosomal protein S5
+KCJPJDFE_00491	gene	rps5		
+KCJPJDFE_00492	CDS			50S ribosomal protein L30
+KCJPJDFE_00492	gene			
+KCJPJDFE_00493	CDS			50S ribosomal protein L15
+KCJPJDFE_00493	gene			
+KCJPJDFE_00494	CDS	secY		Protein translocase subunit SecY
+KCJPJDFE_00494	gene	secY		
+KCJPJDFE_00495	tRNA			tRNA-Ile(gat)
+KCJPJDFE_00495	gene			
+KCJPJDFE_00496	CDS	prs	2.7.6.1	Ribose-phosphate pyrophosphokinase
+KCJPJDFE_00496	gene	prs		
+KCJPJDFE_00497	CDS	rpl7ae		50S ribosomal protein L7Ae
+KCJPJDFE_00497	gene	rpl7ae		
+KCJPJDFE_00498	CDS			30S ribosomal protein S28e
+KCJPJDFE_00498	gene			
+KCJPJDFE_00499	CDS			50S ribosomal protein L24e
+KCJPJDFE_00499	gene			
+KCJPJDFE_00500	CDS	pepX_2	3.4.14.11	Xaa-Pro dipeptidyl-peptidase
+KCJPJDFE_00500	gene	pepX_2		
+KCJPJDFE_00501	CDS	ndk	2.7.4.6	Nucleoside diphosphate kinase
+KCJPJDFE_00501	gene	ndk		
+KCJPJDFE_00502	CDS			hypothetical protein
+KCJPJDFE_00502	gene			
+KCJPJDFE_00503	CDS		3.6.4.12	ATP-dependent DNA helicase Hel308
+KCJPJDFE_00503	gene			
+KCJPJDFE_00504	CDS			hypothetical protein
+KCJPJDFE_00504	gene			
+KCJPJDFE_00505	CDS			hypothetical protein
+KCJPJDFE_00505	gene			
+KCJPJDFE_00506	CDS	dys_1	2.5.1.46	putative deoxyhypusine synthase
+KCJPJDFE_00506	gene	dys_1		
+KCJPJDFE_00507	CDS	speH	4.1.1.50	S-adenosylmethionine decarboxylase proenzyme
+KCJPJDFE_00507	gene	speH		
+KCJPJDFE_00508	CDS		2.6.1.57	Aromatic-amino-acid aminotransferase 2
+KCJPJDFE_00508	gene			
+KCJPJDFE_00509	CDS			hypothetical protein
+KCJPJDFE_00509	gene			
+KCJPJDFE_00510	tRNA			tRNA-Cys(gca)
+KCJPJDFE_00510	gene			
+KCJPJDFE_00511	CDS			hypothetical protein
+KCJPJDFE_00511	gene			
+KCJPJDFE_00512	CDS	ubiA	2.5.1.-	4-hydroxybenzoate octaprenyltransferase
+KCJPJDFE_00512	gene	ubiA		
+KCJPJDFE_00513	CDS	uvrB		UvrABC system protein B
+KCJPJDFE_00513	gene	uvrB		
+KCJPJDFE_00514	CDS	dys_2	2.5.1.46	putative deoxyhypusine synthase
+KCJPJDFE_00514	gene	dys_2		
+KCJPJDFE_00515	CDS			hypothetical protein
+KCJPJDFE_00515	gene			
+KCJPJDFE_00516	CDS			hypothetical protein
+KCJPJDFE_00516	gene			
+KCJPJDFE_00517	CDS	lysJ_2	2.6.1.-	[LysW]-aminoadipate semialdehyde/glutamate semialdehyde transaminase
+KCJPJDFE_00517	gene	lysJ_2		
+KCJPJDFE_00518	CDS			hypothetical protein
+KCJPJDFE_00518	gene			
+KCJPJDFE_00519	tRNA			tRNA-Ile(gat)
+KCJPJDFE_00519	gene			
+KCJPJDFE_00520	CDS			hypothetical protein
+KCJPJDFE_00520	gene			
+KCJPJDFE_00521	CDS	gloB_1	3.1.2.6	Hydroxyacylglutathione hydrolase
+KCJPJDFE_00521	gene	gloB_1		
+KCJPJDFE_00522	CDS			hypothetical protein
+KCJPJDFE_00522	gene			
+KCJPJDFE_00523	CDS			hypothetical protein
+KCJPJDFE_00523	gene			
+KCJPJDFE_00524	CDS			hypothetical protein
+KCJPJDFE_00524	gene			
+KCJPJDFE_00525	CDS			hypothetical protein
+KCJPJDFE_00525	gene			
+KCJPJDFE_00526	CDS	recD	3.1.11.5	RecBCD enzyme subunit RecD
+KCJPJDFE_00526	gene	recD		
+KCJPJDFE_00527	CDS			hypothetical protein
+KCJPJDFE_00527	gene			
+KCJPJDFE_00528	CDS	sua5	2.7.7.87	Threonylcarbamoyl-AMP synthase
+KCJPJDFE_00528	gene	sua5		
+KCJPJDFE_00529	CDS	map	3.4.11.18	Methionine aminopeptidase
+KCJPJDFE_00529	gene	map		
+KCJPJDFE_00530	CDS			hypothetical protein
+KCJPJDFE_00530	gene			
+KCJPJDFE_00531	CDS			hypothetical protein
+KCJPJDFE_00531	gene			
+KCJPJDFE_00532	CDS			hypothetical protein
+KCJPJDFE_00532	gene			
+KCJPJDFE_00533	CDS			hypothetical protein
+KCJPJDFE_00533	gene			
+KCJPJDFE_00534	CDS			hypothetical protein
+KCJPJDFE_00534	gene			
+KCJPJDFE_00535	CDS			hypothetical protein
+KCJPJDFE_00535	gene			
+KCJPJDFE_00536	CDS			hypothetical protein
+KCJPJDFE_00536	gene			
+KCJPJDFE_00537	CDS	pepX_3	3.4.14.11	Xaa-Pro dipeptidyl-peptidase
+KCJPJDFE_00537	gene	pepX_3		
+KCJPJDFE_00538	CDS		3.4.17.19	Thermostable carboxypeptidase 1
+KCJPJDFE_00538	gene			
+KCJPJDFE_00539	CDS			hypothetical protein
+KCJPJDFE_00539	gene			
+KCJPJDFE_00540	CDS			hypothetical protein
+KCJPJDFE_00540	gene			
+KCJPJDFE_00541	CDS	fumC	4.2.1.2	Fumarate hydratase class II
+KCJPJDFE_00541	gene	fumC		
+KCJPJDFE_00542	CDS			hypothetical protein
+KCJPJDFE_00542	gene			
+KCJPJDFE_00543	CDS			hypothetical protein
+KCJPJDFE_00543	gene			
+KCJPJDFE_00544	CDS	glmU		Bifunctional protein GlmU
+KCJPJDFE_00544	gene	glmU		
+KCJPJDFE_00545	CDS			hypothetical protein
+KCJPJDFE_00545	gene			
+KCJPJDFE_00546	CDS	sucD	6.2.1.5	Succinate--CoA ligase [ADP-forming] subunit alpha
+KCJPJDFE_00546	gene	sucD		
+KCJPJDFE_00547	CDS	mnmC_2	1.5.-.-	tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC
+KCJPJDFE_00547	gene	mnmC_2		
+KCJPJDFE_00548	CDS			hypothetical protein
+KCJPJDFE_00548	gene			
+KCJPJDFE_00549	CDS			hypothetical protein
+KCJPJDFE_00549	gene			
+KCJPJDFE_00550	CDS	btuD	3.6.3.33	Cobalamin import ATP-binding protein BtuD
+KCJPJDFE_00550	gene	btuD		
+KCJPJDFE_00551	CDS	grpE		Protein GrpE
+KCJPJDFE_00551	gene	grpE		
+KCJPJDFE_00552	CDS			hypothetical protein
+KCJPJDFE_00552	gene			
+KCJPJDFE_00553	CDS		2.7.7.1	Nicotinamide-nucleotide adenylyltransferase
+KCJPJDFE_00553	gene			
+KCJPJDFE_00554	CDS			hypothetical protein
+KCJPJDFE_00554	gene			
+KCJPJDFE_00555	CDS			hypothetical protein
+KCJPJDFE_00555	gene			
+KCJPJDFE_00556	CDS			hypothetical protein
+KCJPJDFE_00556	gene			
+KCJPJDFE_00557	CDS	menH_2	4.2.99.20	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+KCJPJDFE_00557	gene	menH_2		
+KCJPJDFE_00558	CDS			hypothetical protein
+KCJPJDFE_00558	gene			
+KCJPJDFE_00559	CDS	hppA1	3.6.1.1	K(+)-stimulated pyrophosphate-energized sodium pump
+KCJPJDFE_00559	gene	hppA1		
+KCJPJDFE_00560	CDS	guaAA_2	6.3.5.2	GMP synthase [glutamine-hydrolyzing] subunit A
+KCJPJDFE_00560	gene	guaAA_2		
+KCJPJDFE_00561	CDS			hypothetical protein
+KCJPJDFE_00561	gene			
+KCJPJDFE_00562	CDS			hypothetical protein
+KCJPJDFE_00562	gene			
+KCJPJDFE_00563	CDS	ycdX	3.1.3.-	phosphatase YcdX
+KCJPJDFE_00563	gene	ycdX		
+KCJPJDFE_00564	CDS			hypothetical protein
+KCJPJDFE_00564	gene			
+KCJPJDFE_00565	CDS		3.2.2.-	G/T mismatches repair enzyme
+KCJPJDFE_00565	gene			
+KCJPJDFE_00566	CDS			hypothetical protein
+KCJPJDFE_00566	gene			
+KCJPJDFE_00567	CDS	ahpC	1.11.1.15	Peroxiredoxin
+KCJPJDFE_00567	gene	ahpC		
+KCJPJDFE_00568	CDS			hypothetical protein
+KCJPJDFE_00568	gene			
+KCJPJDFE_00569	CDS			hypothetical protein
+KCJPJDFE_00569	gene			
+KCJPJDFE_00570	CDS			hypothetical protein
+KCJPJDFE_00570	gene			
+KCJPJDFE_00571	CDS	tbp		TATA-box-binding protein
+KCJPJDFE_00571	gene	tbp		
+KCJPJDFE_00572	CDS	mvk	2.7.1.36	Mevalonate kinase
+KCJPJDFE_00572	gene	mvk		
+KCJPJDFE_00573	CDS	hdrD_2	1.8.98.1	CoB--CoM heterodisulfide reductase iron-sulfur subunit D
+KCJPJDFE_00573	gene	hdrD_2		
+KCJPJDFE_00574	CDS			hypothetical protein
+KCJPJDFE_00574	gene			
+KCJPJDFE_00575	CDS	pyrG_2	6.3.4.2	CTP synthase
+KCJPJDFE_00575	gene	pyrG_2		
+KCJPJDFE_00576	CDS	pyrG_3	6.3.4.2	CTP synthase
+KCJPJDFE_00576	gene	pyrG_3		
+KCJPJDFE_00577	CDS	cysS	6.1.1.16	Cysteine--tRNA ligase
+KCJPJDFE_00577	gene	cysS		
+KCJPJDFE_00578	CDS	dadD_1	3.5.4.31	5'-deoxyadenosine deaminase
+KCJPJDFE_00578	gene	dadD_1		
+KCJPJDFE_00579	CDS			hypothetical protein
+KCJPJDFE_00579	gene			
+KCJPJDFE_00580	CDS	ileS	6.1.1.5	Isoleucine--tRNA ligase
+KCJPJDFE_00580	gene	ileS		
+KCJPJDFE_00581	CDS			hypothetical protein
+KCJPJDFE_00581	gene			
+KCJPJDFE_00582	CDS	narG	1.7.99.4	Respiratory nitrate reductase subunit alpha
+KCJPJDFE_00582	gene	narG		
+KCJPJDFE_00583	CDS			hypothetical protein
+KCJPJDFE_00583	gene			
+KCJPJDFE_00584	CDS			hypothetical protein
+KCJPJDFE_00584	gene			
+KCJPJDFE_00585	CDS	fadA_2	2.3.1.16	3-ketoacyl-CoA thiolase
+KCJPJDFE_00585	gene	fadA_2		
+KCJPJDFE_00586	CDS	rhaD_1	1.1.1.377	L-rhamnose 1-dehydrogenase (NADP(+))
+KCJPJDFE_00586	gene	rhaD_1		
+KCJPJDFE_00587	CDS			hypothetical protein
+KCJPJDFE_00587	gene			
+KCJPJDFE_00588	CDS	aqpM		Aquaporin AqpM
+KCJPJDFE_00588	gene	aqpM		
+KCJPJDFE_00589	CDS	glmS_3	5.4.99.1	Glutamate mutase sigma subunit
+KCJPJDFE_00589	gene	glmS_3		
+KCJPJDFE_00590	CDS			hypothetical protein
+KCJPJDFE_00590	gene			
+KCJPJDFE_00591	CDS			hypothetical protein
+KCJPJDFE_00591	gene			
+KCJPJDFE_00592	CDS			hypothetical protein
+KCJPJDFE_00592	gene			
+KCJPJDFE_00593	CDS			hypothetical protein
+KCJPJDFE_00593	gene			
+KCJPJDFE_00594	CDS			hypothetical protein
+KCJPJDFE_00594	gene			
+KCJPJDFE_00595	CDS			hypothetical protein
+KCJPJDFE_00595	gene			
+KCJPJDFE_00596	CDS			hypothetical protein
+KCJPJDFE_00596	gene			
+KCJPJDFE_00597	CDS			hypothetical protein
+KCJPJDFE_00597	gene			
+KCJPJDFE_00598	CDS			hypothetical protein
+KCJPJDFE_00598	gene			
+KCJPJDFE_00599	CDS		6.2.1.40	4-hydroxybutyrate--CoA ligase 2
+KCJPJDFE_00599	gene			
+KCJPJDFE_00600	CDS			hypothetical protein
+KCJPJDFE_00600	gene			
+KCJPJDFE_00601	CDS			hypothetical protein
+KCJPJDFE_00601	gene			
+KCJPJDFE_00602	CDS			hypothetical protein
+KCJPJDFE_00602	gene			
+KCJPJDFE_00603	CDS			hypothetical protein
+KCJPJDFE_00603	gene			
+KCJPJDFE_00604	CDS			hypothetical protein
+KCJPJDFE_00604	gene			
+KCJPJDFE_00605	CDS	mhpB	1.13.11.16	2,3-dihydroxyphenylpropionate/2,3-dihydroxicinnamic acid 1,2-dioxygenase
+KCJPJDFE_00605	gene	mhpB		
+KCJPJDFE_00606	CDS			hypothetical protein
+KCJPJDFE_00606	gene			
+KCJPJDFE_00607	CDS	yjgF_1	3.5.99.10	2-iminobutanoate/2-iminopropanoate deaminase
+KCJPJDFE_00607	gene	yjgF_1		
+KCJPJDFE_00608	CDS			hypothetical protein
+KCJPJDFE_00608	gene			
+KCJPJDFE_00609	CDS		5.2.1.8	FKBP-type peptidyl-prolyl cis-trans isomerase
+KCJPJDFE_00609	gene			
+KCJPJDFE_00610	CDS			hypothetical protein
+KCJPJDFE_00610	gene			
+KCJPJDFE_00611	CDS	panB	2.1.2.11	3-methyl-2-oxobutanoate hydroxymethyltransferase
+KCJPJDFE_00611	gene	panB		
+KCJPJDFE_00612	CDS	rfcS_2		Replication factor C small subunit
+KCJPJDFE_00612	gene	rfcS_2		
+KCJPJDFE_00613	CDS			hypothetical protein
+KCJPJDFE_00613	gene			
+KCJPJDFE_00614	CDS	glpE_2	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+KCJPJDFE_00614	gene	glpE_2		
+KCJPJDFE_00615	CDS			hypothetical protein
+KCJPJDFE_00615	gene			
+KCJPJDFE_00616	CDS	glpE_3	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+KCJPJDFE_00616	gene	glpE_3		
+KCJPJDFE_00617	CDS			hypothetical protein
+KCJPJDFE_00617	gene			
+KCJPJDFE_00618	CDS			hypothetical protein
+KCJPJDFE_00618	gene			
+KCJPJDFE_00619	CDS			hypothetical protein
+KCJPJDFE_00619	gene			
+KCJPJDFE_00620	CDS			hypothetical protein
+KCJPJDFE_00620	gene			
+KCJPJDFE_00621	CDS			hypothetical protein
+KCJPJDFE_00621	gene			
+KCJPJDFE_00622	CDS			hypothetical protein
+KCJPJDFE_00622	gene			
+KCJPJDFE_00623	CDS	rps6e		30S ribosomal protein S6e
+KCJPJDFE_00623	gene	rps6e		
+KCJPJDFE_00624	CDS	cdc6-2		ORC1-type DNA replication protein 2
+KCJPJDFE_00624	gene	cdc6-2		
+KCJPJDFE_00625	CDS	dph2	2.5.1.108	2-(3-amino-3-carboxypropyl)histidine synthase
+KCJPJDFE_00625	gene	dph2		
+KCJPJDFE_00626	CDS	ssuD	1.14.14.5	Alkanesulfonate monooxygenase
+KCJPJDFE_00626	gene	ssuD		
+KCJPJDFE_00627	CDS	hpt_2	2.4.2.8	Hypoxanthine/guanine phosphoribosyltransferase
+KCJPJDFE_00627	gene	hpt_2		
+KCJPJDFE_00628	CDS			hypothetical protein
+KCJPJDFE_00628	gene			
+KCJPJDFE_00629	CDS			hypothetical protein
+KCJPJDFE_00629	gene			
+KCJPJDFE_00630	CDS			hypothetical protein
+KCJPJDFE_00630	gene			
+KCJPJDFE_00631	CDS	alaS	6.1.1.7	Alanine--tRNA ligase
+KCJPJDFE_00631	gene	alaS		
+KCJPJDFE_00632	CDS	rtcB	6.5.1.-	tRNA-splicing ligase RtcB
+KCJPJDFE_00632	gene	rtcB		
+KCJPJDFE_00633	CDS			hypothetical protein
+KCJPJDFE_00633	gene			
+KCJPJDFE_00634	CDS			hypothetical protein
+KCJPJDFE_00634	gene			
+KCJPJDFE_00635	CDS			hypothetical protein
+KCJPJDFE_00635	gene			
+KCJPJDFE_00636	CDS			hypothetical protein
+KCJPJDFE_00636	gene			
+KCJPJDFE_00637	tRNA			tRNA-Thr(ggt)
+KCJPJDFE_00637	gene			
+KCJPJDFE_00638	tRNA			tRNA-Ser(gga)
+KCJPJDFE_00638	gene			
+KCJPJDFE_00639	CDS			hypothetical protein
+KCJPJDFE_00639	gene			
+KCJPJDFE_00640	CDS		3.4.21.62	Subtilisin-like serine protease
+KCJPJDFE_00640	gene			
+KCJPJDFE_00641	CDS			hypothetical protein
+KCJPJDFE_00641	gene			
+KCJPJDFE_00642	CDS			hypothetical protein
+KCJPJDFE_00642	gene			
+KCJPJDFE_00643	CDS			hypothetical protein
+KCJPJDFE_00643	gene			
+KCJPJDFE_00644	CDS	dtdA	3.1.1.96	D-aminoacyl-tRNA deacylase
+KCJPJDFE_00644	gene	dtdA		
+KCJPJDFE_00645	CDS			hypothetical protein
+KCJPJDFE_00645	gene			
+KCJPJDFE_00646	CDS			30S ribosomal protein S27ae
+KCJPJDFE_00646	gene			
+KCJPJDFE_00647	CDS			30S ribosomal protein S24e
+KCJPJDFE_00647	gene			
+KCJPJDFE_00648	CDS			hypothetical protein
+KCJPJDFE_00648	gene			
+KCJPJDFE_00649	CDS	rpoE1	2.7.7.6	DNA-directed RNA polymerase subunit E'
+KCJPJDFE_00649	gene	rpoE1		
+KCJPJDFE_00650	CDS			hypothetical protein
+KCJPJDFE_00650	gene			
+KCJPJDFE_00651	CDS			hypothetical protein
+KCJPJDFE_00651	gene			
+KCJPJDFE_00652	CDS			hypothetical protein
+KCJPJDFE_00652	gene			
+KCJPJDFE_00653	CDS			hypothetical protein
+KCJPJDFE_00653	gene			
+KCJPJDFE_00654	CDS	purC	6.3.2.6	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+KCJPJDFE_00654	gene	purC		
+KCJPJDFE_00655	CDS	hcf136		Ycf48-like protein
+KCJPJDFE_00655	gene	hcf136		
+KCJPJDFE_00656	CDS			putative ABC transporter ATP-binding protein
+KCJPJDFE_00656	gene			
+KCJPJDFE_00657	CDS	gdhA1	1.4.1.4	NADP-specific glutamate dehydrogenase A1
+KCJPJDFE_00657	gene	gdhA1		
+KCJPJDFE_00658	CDS			Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+KCJPJDFE_00658	gene			
+KCJPJDFE_00659	CDS			hypothetical protein
+KCJPJDFE_00659	gene			
+KCJPJDFE_00660	CDS			hypothetical protein
+KCJPJDFE_00660	gene			
+KCJPJDFE_00661	CDS		3.6.4.12	ATP-dependent DNA helicase
+KCJPJDFE_00661	gene			
+KCJPJDFE_00662	CDS			hypothetical protein
+KCJPJDFE_00662	gene			
+KCJPJDFE_00663	CDS			hypothetical protein
+KCJPJDFE_00663	gene			
+KCJPJDFE_00664	CDS			hypothetical protein
+KCJPJDFE_00664	gene			
+KCJPJDFE_00665	tRNA			tRNA-Leu(taa)
+KCJPJDFE_00665	gene			
+KCJPJDFE_00666	CDS			hypothetical protein
+KCJPJDFE_00666	gene			
+KCJPJDFE_00667	CDS	rhaD_2	1.1.1.377	L-rhamnose 1-dehydrogenase (NADP(+))
+KCJPJDFE_00667	gene	rhaD_2		
+KCJPJDFE_00668	CDS	lipA	2.8.1.8	Lipoyl synthase
+KCJPJDFE_00668	gene	lipA		
+KCJPJDFE_00669	CDS	dxs_1	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+KCJPJDFE_00669	gene	dxs_1		
+KCJPJDFE_00670	CDS	dxs_2	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+KCJPJDFE_00670	gene	dxs_2		
+KCJPJDFE_00671	CDS	fpoL	1.12.98.3	F(420)H(2) dehydrogenase subunit L
+KCJPJDFE_00671	gene	fpoL		
+KCJPJDFE_00672	CDS	fpoK	1.12.98.3	F(420)H(2) dehydrogenase subunit K
+KCJPJDFE_00672	gene	fpoK		
+KCJPJDFE_00673	CDS			hypothetical protein
+KCJPJDFE_00673	gene			
+KCJPJDFE_00674	CDS	fpoJ	1.12.98.3	F(420)H(2) dehydrogenase subunit J
+KCJPJDFE_00674	gene	fpoJ		
+KCJPJDFE_00675	CDS	ndhI	1.6.5.11	NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+KCJPJDFE_00675	gene	ndhI		
+KCJPJDFE_00676	CDS	fpoH	1.12.98.3	F(420)H(2) dehydrogenase subunit H
+KCJPJDFE_00676	gene	fpoH		
+KCJPJDFE_00677	CDS	fpoD	1.12.98.3	F(420)H(2) dehydrogenase subunit D
+KCJPJDFE_00677	gene	fpoD		
+KCJPJDFE_00678	CDS	nuoCD	1.6.5.11	NADH-quinone oxidoreductase subunit C/D
+KCJPJDFE_00678	gene	nuoCD		
+KCJPJDFE_00679	CDS	fpoB	1.12.98.3	F(420)H(2) dehydrogenase subunit B
+KCJPJDFE_00679	gene	fpoB		
+KCJPJDFE_00680	CDS	fpoA	1.12.98.3	F(420)H(2) dehydrogenase subunit A
+KCJPJDFE_00680	gene	fpoA		
+KCJPJDFE_00681	CDS			hypothetical protein
+KCJPJDFE_00681	gene			
+KCJPJDFE_00682	CDS		3.4.21.62	Subtilisin-like serine protease
+KCJPJDFE_00682	gene			
+KCJPJDFE_00683	CDS			hypothetical protein
+KCJPJDFE_00683	gene			
+KCJPJDFE_00684	CDS			hypothetical protein
+KCJPJDFE_00684	gene			
+KCJPJDFE_00685	CDS			hypothetical protein
+KCJPJDFE_00685	gene			
+KCJPJDFE_00686	CDS			hypothetical protein
+KCJPJDFE_00686	gene			
+KCJPJDFE_00687	CDS			50S ribosomal protein L15e
+KCJPJDFE_00687	gene			
+KCJPJDFE_00688	CDS			hypothetical protein
+KCJPJDFE_00688	gene			
+KCJPJDFE_00689	CDS	gloB_2	3.1.2.6	Hydroxyacylglutathione hydrolase
+KCJPJDFE_00689	gene	gloB_2		
+KCJPJDFE_00690	CDS			hypothetical protein
+KCJPJDFE_00690	gene			
+KCJPJDFE_00691	CDS			hypothetical protein
+KCJPJDFE_00691	gene			
+KCJPJDFE_00692	CDS			hypothetical protein
+KCJPJDFE_00692	gene			
+KCJPJDFE_00693	CDS			hypothetical protein
+KCJPJDFE_00693	gene			
+KCJPJDFE_00694	CDS	kynA	1.13.11.11	Tryptophan 2,3-dioxygenase
+KCJPJDFE_00694	gene	kynA		
+KCJPJDFE_00695	CDS	fadA_3	2.3.1.16	3-ketoacyl-CoA thiolase
+KCJPJDFE_00695	gene	fadA_3		
+KCJPJDFE_00696	CDS	rpoK	2.7.7.6	DNA-directed RNA polymerase subunit K
+KCJPJDFE_00696	gene	rpoK		
+KCJPJDFE_00697	CDS	ctaA	1.3.-.-	Heme A synthase
+KCJPJDFE_00697	gene	ctaA		
+KCJPJDFE_00698	CDS	cyoE	2.5.1.-	Protoheme IX farnesyltransferase
+KCJPJDFE_00698	gene	cyoE		
+KCJPJDFE_00699	CDS	leuA	2.3.3.13	2-isopropylmalate synthase
+KCJPJDFE_00699	gene	leuA		
+KCJPJDFE_00700	CDS		1.3.7.11	Digeranylgeranylglycerophospholipid reductase
+KCJPJDFE_00700	gene			
+KCJPJDFE_00701	CDS	idsA	2.5.1.-	Short chain isoprenyl diphosphate synthase
+KCJPJDFE_00701	gene	idsA		
+KCJPJDFE_00702	CDS			hypothetical protein
+KCJPJDFE_00702	gene			
+KCJPJDFE_00703	CDS			hypothetical protein
+KCJPJDFE_00703	gene			
+KCJPJDFE_00704	CDS			hypothetical protein
+KCJPJDFE_00704	gene			
+KCJPJDFE_00705	CDS	rpa		Replication factor A
+KCJPJDFE_00705	gene	rpa		
+KCJPJDFE_00706	CDS	moaB	2.7.7.75	Molybdopterin adenylyltransferase
+KCJPJDFE_00706	gene	moaB		
+KCJPJDFE_00707	CDS		3.1.13.-	Exosome complex component Rrp41
+KCJPJDFE_00707	gene			
+KCJPJDFE_00708	tRNA			tRNA-Phe(gaa)
+KCJPJDFE_00708	gene			
+KCJPJDFE_00709	CDS			hypothetical protein
+KCJPJDFE_00709	gene			
+KCJPJDFE_00710	CDS			hypothetical protein
+KCJPJDFE_00710	gene			
+KCJPJDFE_00711	CDS			hypothetical protein
+KCJPJDFE_00711	gene			
+KCJPJDFE_00712	CDS	fhs	6.3.4.3	Formate--tetrahydrofolate ligase
+KCJPJDFE_00712	gene	fhs		
+KCJPJDFE_00713	CDS			hypothetical protein
+KCJPJDFE_00713	gene			
+KCJPJDFE_00714	CDS	cpkA	2.7.2.2	Carbamate kinase
+KCJPJDFE_00714	gene	cpkA		
+KCJPJDFE_00715	CDS	thrS1	6.1.1.3	putative threonine--tRNA ligase 1
+KCJPJDFE_00715	gene	thrS1		
+KCJPJDFE_00716	CDS			hypothetical protein
+KCJPJDFE_00716	gene			
+KCJPJDFE_00717	CDS			hypothetical protein
+KCJPJDFE_00717	gene			
+KCJPJDFE_00718	CDS	galK	2.7.1.6	Galactokinase
+KCJPJDFE_00718	gene	galK		
+KCJPJDFE_00719	CDS	pyrB	2.1.3.2	Aspartate carbamoyltransferase
+KCJPJDFE_00719	gene	pyrB		
+KCJPJDFE_00720	CDS	pyrI		Aspartate carbamoyltransferase regulatory chain
+KCJPJDFE_00720	gene	pyrI		
+KCJPJDFE_00721	CDS			hypothetical protein
+KCJPJDFE_00721	gene			
+KCJPJDFE_00722	CDS	ttcA		tRNA 2-thiocytidine biosynthesis protein TtcA
+KCJPJDFE_00722	gene	ttcA		
+KCJPJDFE_00723	CDS			hypothetical protein
+KCJPJDFE_00723	gene			
+KCJPJDFE_00724	CDS			hypothetical protein
+KCJPJDFE_00724	gene			
+KCJPJDFE_00725	CDS			hypothetical protein
+KCJPJDFE_00725	gene			
+KCJPJDFE_00726	CDS			hypothetical protein
+KCJPJDFE_00726	gene			
+KCJPJDFE_00727	CDS			hypothetical protein
+KCJPJDFE_00727	gene			
+KCJPJDFE_00728	CDS	vat		VCP-like ATPase
+KCJPJDFE_00728	gene	vat		
+KCJPJDFE_00729	CDS		1.2.1.26	Alpha-ketoglutarate semialdehyde dehydrogenase
+KCJPJDFE_00729	gene			
+KCJPJDFE_00730	tRNA			tRNA-Gly(ccc)
+KCJPJDFE_00730	gene			
+KCJPJDFE_00731	CDS			hypothetical protein
+KCJPJDFE_00731	gene			
+KCJPJDFE_00732	CDS	mshA_1	2.4.1.250	D-inositol-3-phosphate glycosyltransferase
+KCJPJDFE_00732	gene	mshA_1		
+KCJPJDFE_00733	CDS	mshA_2	2.4.1.250	D-inositol-3-phosphate glycosyltransferase
+KCJPJDFE_00733	gene	mshA_2		
+KCJPJDFE_00734	CDS			hypothetical protein
+KCJPJDFE_00734	gene			
+KCJPJDFE_00735	CDS			hypothetical protein
+KCJPJDFE_00735	gene			
+KCJPJDFE_00736	CDS			hypothetical protein
+KCJPJDFE_00736	gene			
+KCJPJDFE_00737	CDS			hypothetical protein
+KCJPJDFE_00737	gene			
+KCJPJDFE_00738	CDS		4.2.1.116	3-hydroxypropionyl-coenzyme A dehydratase
+KCJPJDFE_00738	gene			
+KCJPJDFE_00739	CDS			hypothetical protein
+KCJPJDFE_00739	gene			
+KCJPJDFE_00740	CDS			hypothetical protein
+KCJPJDFE_00740	gene			
+KCJPJDFE_00741	CDS			hypothetical protein
+KCJPJDFE_00741	gene			
+KCJPJDFE_00742	CDS			hypothetical protein
+KCJPJDFE_00742	gene			
+KCJPJDFE_00743	CDS	dusB	1.3.1.-	tRNA-dihydrouridine synthase B
+KCJPJDFE_00743	gene	dusB		
+KCJPJDFE_00744	CDS		3.6.4.13	putative ATP-dependent RNA helicase
+KCJPJDFE_00744	gene			
+KCJPJDFE_00745	CDS	rps2		30S ribosomal protein S2
+KCJPJDFE_00745	gene	rps2		
+KCJPJDFE_00746	CDS			hypothetical protein
+KCJPJDFE_00746	gene			
+KCJPJDFE_00747	CDS		5.2.1.8	Putative FKBP-type peptidyl-prolyl cis-trans isomerase
+KCJPJDFE_00747	gene			
+KCJPJDFE_00748	CDS			hypothetical protein
+KCJPJDFE_00748	gene			
+KCJPJDFE_00749	CDS	ccsA		Cytochrome c biogenesis protein CcsA
+KCJPJDFE_00749	gene	ccsA		
+KCJPJDFE_00750	CDS		1.3.7.11	Digeranylgeranylglycerophospholipid reductase
+KCJPJDFE_00750	gene			
+KCJPJDFE_00751	CDS			hypothetical protein
+KCJPJDFE_00751	gene			
+KCJPJDFE_00752	CDS	dadD_2	3.5.4.41	5'-deoxyadenosine deaminase
+KCJPJDFE_00752	gene	dadD_2		
+KCJPJDFE_00753	CDS			hypothetical protein
+KCJPJDFE_00753	gene			
+KCJPJDFE_00754	CDS	dnaJ_2		Chaperone protein DnaJ
+KCJPJDFE_00754	gene	dnaJ_2		
+KCJPJDFE_00755	CDS			hypothetical protein
+KCJPJDFE_00755	gene			
+KCJPJDFE_00756	CDS	crtD	1.3.99.37	Carotenoid 3,4-desaturase
+KCJPJDFE_00756	gene	crtD		
+KCJPJDFE_00757	CDS			hypothetical protein
+KCJPJDFE_00757	gene			
+KCJPJDFE_00758	CDS	ribB	4.1.99.12	3,4-dihydroxy-2-butanone 4-phosphate synthase
+KCJPJDFE_00758	gene	ribB		
+KCJPJDFE_00759	CDS	ribL	2.7.7.2	FAD synthase
+KCJPJDFE_00759	gene	ribL		
+KCJPJDFE_00760	CDS			hypothetical protein
+KCJPJDFE_00760	gene			
+KCJPJDFE_00761	CDS	ribH	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+KCJPJDFE_00761	gene	ribH		
+KCJPJDFE_00762	CDS			hypothetical protein
+KCJPJDFE_00762	gene			
+KCJPJDFE_00763	CDS	sudA	1.8.1.19	Sulfide dehydrogenase subunit alpha
+KCJPJDFE_00763	gene	sudA		
+KCJPJDFE_00764	CDS	ubaA	2.7.7.-	SAMP-activating enzyme E1
+KCJPJDFE_00764	gene	ubaA		
+KCJPJDFE_00765	CDS	dxs_3	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+KCJPJDFE_00765	gene	dxs_3		
+KCJPJDFE_00766	CDS	maX1		Sodium/calcium exchanger MaX1
+KCJPJDFE_00766	gene	maX1		
+KCJPJDFE_00767	CDS	caiA_2	1.3.99.-	Crotonobetainyl-CoA dehydrogenase
+KCJPJDFE_00767	gene	caiA_2		
+KCJPJDFE_00768	CDS			hypothetical protein
+KCJPJDFE_00768	gene			
+KCJPJDFE_00769	CDS			hypothetical protein
+KCJPJDFE_00769	gene			
+KCJPJDFE_00770	CDS		1.2.1.22	Lactaldehyde dehydrogenase
+KCJPJDFE_00770	gene			
+KCJPJDFE_00771	CDS			hypothetical protein
+KCJPJDFE_00771	gene			
+KCJPJDFE_00772	CDS			hypothetical protein
+KCJPJDFE_00772	gene			
+KCJPJDFE_00773	CDS			hypothetical protein
+KCJPJDFE_00773	gene			
+KCJPJDFE_00774	CDS			hypothetical protein
+KCJPJDFE_00774	gene			
+KCJPJDFE_00775	CDS	fpoM	1.12.98.3	F(420)H(2) dehydrogenase subunit M
+KCJPJDFE_00775	gene	fpoM		
+KCJPJDFE_00776	CDS	fpoN	1.12.98.3	F(420)H(2) dehydrogenase subunit N
+KCJPJDFE_00776	gene	fpoN		
+KCJPJDFE_00777	CDS	eIF1A		Translation initiation factor 1A
+KCJPJDFE_00777	gene	eIF1A		
+KCJPJDFE_00778	CDS	rio1	2.7.11.1	RIO-type serine/threonine-protein kinase Rio1
+KCJPJDFE_00778	gene	rio1		
+KCJPJDFE_00779	CDS			hypothetical protein
+KCJPJDFE_00779	gene			
+KCJPJDFE_00780	CDS			hypothetical protein
+KCJPJDFE_00780	gene			
+KCJPJDFE_00781	CDS			hypothetical protein
+KCJPJDFE_00781	gene			
+KCJPJDFE_00782	CDS	accA	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+KCJPJDFE_00782	gene	accA		
+KCJPJDFE_00783	CDS		4.2.1.116	3-hydroxypropionyl-coenzyme A dehydratase
+KCJPJDFE_00783	gene			
+KCJPJDFE_00784	CDS	pycA_2	6.4.1.1	Pyruvate carboxylase subunit A
+KCJPJDFE_00784	gene	pycA_2		
+KCJPJDFE_00785	CDS	pycB_2	6.4.1.1	Pyruvate carboxylase subunit B
+KCJPJDFE_00785	gene	pycB_2		
+KCJPJDFE_00786	CDS			hypothetical protein
+KCJPJDFE_00786	gene			
+KCJPJDFE_00787	CDS	serS	6.1.1.11	Serine--tRNA ligase
+KCJPJDFE_00787	gene	serS		
+KCJPJDFE_00788	CDS			hypothetical protein
+KCJPJDFE_00788	gene			
+KCJPJDFE_00789	CDS			hypothetical protein
+KCJPJDFE_00789	gene			
+KCJPJDFE_00790	CDS			hypothetical protein
+KCJPJDFE_00790	gene			
+KCJPJDFE_00791	CDS	tadA	3.5.4.33	tRNA-specific adenosine deaminase
+KCJPJDFE_00791	gene	tadA		
+KCJPJDFE_00792	CDS	coaE	2.7.1.24	Dephospho-CoA kinase
+KCJPJDFE_00792	gene	coaE		
+KCJPJDFE_00793	CDS		3.6.4.12	ATP-dependent DNA helicase Hel308
+KCJPJDFE_00793	gene			
+KCJPJDFE_00794	CDS			hypothetical protein
+KCJPJDFE_00794	gene			
+KCJPJDFE_00795	CDS			hypothetical protein
+KCJPJDFE_00795	gene			
+KCJPJDFE_00796	CDS			hypothetical protein
+KCJPJDFE_00796	gene			
+KCJPJDFE_00797	CDS			hypothetical protein
+KCJPJDFE_00797	gene			
+KCJPJDFE_00798	CDS			hypothetical protein
+KCJPJDFE_00798	gene			
+KCJPJDFE_00799	CDS			hypothetical protein
+KCJPJDFE_00799	gene			
+KCJPJDFE_00800	CDS	ymdB	3.5.1.-	O-acetyl-ADP-ribose deacetylase
+KCJPJDFE_00800	gene	ymdB		
+KCJPJDFE_00801	CDS			hypothetical protein
+KCJPJDFE_00801	gene			
+KCJPJDFE_00802	CDS			Chromosomal protein MC1c
+KCJPJDFE_00802	gene			
+KCJPJDFE_00803	CDS	tfrB	1.3.4.1	Fumarate reductase (CoM/CoB) subunit B
+KCJPJDFE_00803	gene	tfrB		
+KCJPJDFE_00804	CDS	tfrA_2	1.3.4.1	Fumarate reductase (CoM/CoB) subunit A
+KCJPJDFE_00804	gene	tfrA_2		
+KCJPJDFE_00805	CDS			hypothetical protein
+KCJPJDFE_00805	gene			
+KCJPJDFE_00806	CDS			hypothetical protein
+KCJPJDFE_00806	gene			
+KCJPJDFE_00807	CDS			hypothetical protein
+KCJPJDFE_00807	gene			
+KCJPJDFE_00808	CDS	mutS		DNA mismatch repair protein MutS
+KCJPJDFE_00808	gene	mutS		
+KCJPJDFE_00809	CDS	mutL		DNA mismatch repair protein MutL
+KCJPJDFE_00809	gene	mutL		
+KCJPJDFE_00810	CDS	aroA	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+KCJPJDFE_00810	gene	aroA		
+KCJPJDFE_00811	CDS			hypothetical protein
+KCJPJDFE_00811	gene			
+KCJPJDFE_00812	tRNA			tRNA-Ser(gct)
+KCJPJDFE_00812	gene			
+KCJPJDFE_00813	CDS	gyrA	5.99.1.3	DNA gyrase subunit A
+KCJPJDFE_00813	gene	gyrA		
+KCJPJDFE_00814	CDS	gyrB	5.99.1.3	DNA gyrase subunit B
+KCJPJDFE_00814	gene	gyrB		
+KCJPJDFE_00815	CDS	aroD	4.2.1.10	3-dehydroquinate dehydratase
+KCJPJDFE_00815	gene	aroD		
+KCJPJDFE_00816	CDS			hypothetical protein
+KCJPJDFE_00816	gene			
+KCJPJDFE_00817	CDS			hypothetical protein
+KCJPJDFE_00817	gene			
+KCJPJDFE_00818	CDS			hypothetical protein
+KCJPJDFE_00818	gene			
+KCJPJDFE_00819	CDS			hypothetical protein
+KCJPJDFE_00819	gene			
+KCJPJDFE_00820	CDS	tmk	2.7.4.9	putative thymidylate kinase
+KCJPJDFE_00820	gene	tmk		
+KCJPJDFE_00821	CDS			hypothetical protein
+KCJPJDFE_00821	gene			
+KCJPJDFE_00822	CDS			hypothetical protein
+KCJPJDFE_00822	gene			
+KCJPJDFE_00823	CDS			hypothetical protein
+KCJPJDFE_00823	gene			
+KCJPJDFE_00824	CDS			hypothetical protein
+KCJPJDFE_00824	gene			
+KCJPJDFE_00825	CDS	livG_1		putative branched-chain amino acid transport ATP-binding protein LivG
+KCJPJDFE_00825	gene	livG_1		
+KCJPJDFE_00826	CDS			hypothetical protein
+KCJPJDFE_00826	gene			
+KCJPJDFE_00827	CDS	mntR_2		Transcriptional regulator MntR
+KCJPJDFE_00827	gene	mntR_2		
+KCJPJDFE_00828	CDS	maf		Septum formation protein Maf
+KCJPJDFE_00828	gene	maf		
+KCJPJDFE_00829	CDS		3.4.21.62	Subtilisin-like serine protease
+KCJPJDFE_00829	gene			
+KCJPJDFE_00830	CDS			hypothetical protein
+KCJPJDFE_00830	gene			
+KCJPJDFE_00831	CDS	wtpC_4	3.6.3.-	Molybdate/tungstate import ATP-binding protein WtpC
+KCJPJDFE_00831	gene	wtpC_4		
+KCJPJDFE_00832	CDS			hypothetical protein
+KCJPJDFE_00832	gene			
+KCJPJDFE_00833	CDS			hypothetical protein
+KCJPJDFE_00833	gene			
+KCJPJDFE_00834	CDS			hypothetical protein
+KCJPJDFE_00834	gene			
+KCJPJDFE_00835	CDS		5.3.1.9	Bifunctional phosphoglucose/phosphomannose isomerase
+KCJPJDFE_00835	gene			
+KCJPJDFE_00836	CDS			hypothetical protein
+KCJPJDFE_00836	gene			
+KCJPJDFE_00837	CDS			hypothetical protein
+KCJPJDFE_00837	gene			
+KCJPJDFE_00838	CDS	asd	1.2.1.11	Aspartate-semialdehyde dehydrogenase
+KCJPJDFE_00838	gene	asd		
+KCJPJDFE_00839	CDS	prmA	2.1.1.-	Ribosomal protein L11 methyltransferase
+KCJPJDFE_00839	gene	prmA		
+KCJPJDFE_00840	CDS	csl4		Exosome complex component Csl4
+KCJPJDFE_00840	gene	csl4		
+KCJPJDFE_00841	CDS			hypothetical protein
+KCJPJDFE_00841	gene			
+KCJPJDFE_00842	CDS			hypothetical protein
+KCJPJDFE_00842	gene			
+KCJPJDFE_00843	CDS			hypothetical protein
+KCJPJDFE_00843	gene			
+KCJPJDFE_00844	CDS			hypothetical protein
+KCJPJDFE_00844	gene			
+KCJPJDFE_00845	CDS	gatE	6.3.5.-	Glutamyl-tRNA(Gln) amidotransferase subunit E
+KCJPJDFE_00845	gene	gatE		
+KCJPJDFE_00846	CDS	MCM	3.6.4.12	Minichromosome maintenance protein MCM
+KCJPJDFE_00846	gene	MCM		
+KCJPJDFE_00847	CDS			hypothetical protein
+KCJPJDFE_00847	gene			
+KCJPJDFE_00848	CDS			hypothetical protein
+KCJPJDFE_00848	gene			
+KCJPJDFE_00849	CDS	livG_2		putative branched-chain amino acid transport ATP-binding protein LivG
+KCJPJDFE_00849	gene	livG_2		
+KCJPJDFE_00850	CDS	livG_3		putative branched-chain amino acid transport ATP-binding protein LivG
+KCJPJDFE_00850	gene	livG_3		
+KCJPJDFE_00851	CDS			hypothetical protein
+KCJPJDFE_00851	gene			
+KCJPJDFE_00852	CDS			hypothetical protein
+KCJPJDFE_00852	gene			
+KCJPJDFE_00853	CDS	purM	6.3.3.1	Phosphoribosylformylglycinamidine cyclo-ligase
+KCJPJDFE_00853	gene	purM		
+KCJPJDFE_00854	CDS	gtf1	2.4.1.-	Glycosyltransferase Gtf1
+KCJPJDFE_00854	gene	gtf1		
+KCJPJDFE_00855	CDS			hypothetical protein
+KCJPJDFE_00855	gene			
+KCJPJDFE_00856	CDS	treT_1	2.4.1.245	Trehalose synthase
+KCJPJDFE_00856	gene	treT_1		
+KCJPJDFE_00857	CDS			hypothetical protein
+KCJPJDFE_00857	gene			
+KCJPJDFE_00858	CDS	obg_1	3.6.5.-	GTPase Obg
+KCJPJDFE_00858	gene	obg_1		
+KCJPJDFE_00859	CDS	tatC_2		Sec-independent protein translocase protein TatC
+KCJPJDFE_00859	gene	tatC_2		
+KCJPJDFE_00860	CDS			hypothetical protein
+KCJPJDFE_00860	gene			
+KCJPJDFE_00861	CDS			hypothetical protein
+KCJPJDFE_00861	gene			
+KCJPJDFE_00862	CDS	taw1	4.1.3.44	S-adenosyl-L-methionine-dependent tRNA 4-demethylwyosine synthase
+KCJPJDFE_00862	gene	taw1		
+KCJPJDFE_00863	CDS			hypothetical protein
+KCJPJDFE_00863	gene			
+KCJPJDFE_00864	CDS			hypothetical protein
+KCJPJDFE_00864	gene			
+KCJPJDFE_00865	CDS			hypothetical protein
+KCJPJDFE_00865	gene			
+KCJPJDFE_00866	CDS			hypothetical protein
+KCJPJDFE_00866	gene			
+KCJPJDFE_00867	CDS			hypothetical protein
+KCJPJDFE_00867	gene			
+KCJPJDFE_00868	CDS	guaB_1	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+KCJPJDFE_00868	gene	guaB_1		
+KCJPJDFE_00869	CDS			hypothetical protein
+KCJPJDFE_00869	gene			
+KCJPJDFE_00870	CDS			hypothetical protein
+KCJPJDFE_00870	gene			
+KCJPJDFE_00871	CDS	msrA	1.8.4.11	Peptide methionine sulfoxide reductase MsrA
+KCJPJDFE_00871	gene	msrA		
+KCJPJDFE_00872	CDS			hypothetical protein
+KCJPJDFE_00872	gene			
+KCJPJDFE_00873	CDS			hypothetical protein
+KCJPJDFE_00873	gene			
+KCJPJDFE_00874	CDS			hypothetical protein
+KCJPJDFE_00874	gene			
+KCJPJDFE_00875	CDS			hypothetical protein
+KCJPJDFE_00875	gene			
+KCJPJDFE_00876	CDS			hypothetical protein
+KCJPJDFE_00876	gene			
+KCJPJDFE_00877	CDS			hypothetical protein
+KCJPJDFE_00877	gene			
+KCJPJDFE_00878	CDS			hypothetical protein
+KCJPJDFE_00878	gene			
+KCJPJDFE_00879	tRNA			tRNA-Gln(ctg)
+KCJPJDFE_00879	gene			
+KCJPJDFE_00880	CDS	korB	1.2.7.3	2-oxoglutarate synthase subunit KorB
+KCJPJDFE_00880	gene	korB		
+KCJPJDFE_00881	CDS	korA	1.2.7.3	2-oxoglutarate synthase subunit KorA
+KCJPJDFE_00881	gene	korA		
+KCJPJDFE_00882	CDS			hypothetical protein
+KCJPJDFE_00882	gene			
+KCJPJDFE_00883	CDS	leuC	4.2.1.33	Isopropylmalate/citramalate isomerase large subunit
+KCJPJDFE_00883	gene	leuC		
+KCJPJDFE_00884	CDS			hypothetical protein
+KCJPJDFE_00884	gene			
+KCJPJDFE_00885	CDS			hypothetical protein
+KCJPJDFE_00885	gene			
+KCJPJDFE_00886	CDS	ahcY	3.3.1.1	Adenosylhomocysteinase
+KCJPJDFE_00886	gene	ahcY		
+KCJPJDFE_00887	CDS			hypothetical protein
+KCJPJDFE_00887	gene			
+KCJPJDFE_00888	CDS			hypothetical protein
+KCJPJDFE_00888	gene			
+KCJPJDFE_00889	CDS			hypothetical protein
+KCJPJDFE_00889	gene			
+KCJPJDFE_00890	CDS			hypothetical protein
+KCJPJDFE_00890	gene			
+KCJPJDFE_00891	CDS			putative ABC transporter ATP-binding protein
+KCJPJDFE_00891	gene			
+KCJPJDFE_00892	CDS			hypothetical protein
+KCJPJDFE_00892	gene			
+KCJPJDFE_00893	CDS	gpsA	1.1.1.94	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+KCJPJDFE_00893	gene	gpsA		
+KCJPJDFE_00894	tRNA			tRNA-Leu(tag)
+KCJPJDFE_00894	gene			
+KCJPJDFE_00895	CDS		5.4.99.-	tRNA pseudouridine synthase Pus10
+KCJPJDFE_00895	gene			
+KCJPJDFE_00896	CDS			50S ribosomal protein L21e
+KCJPJDFE_00896	gene			
+KCJPJDFE_00897	CDS			hypothetical protein
+KCJPJDFE_00897	gene			
+KCJPJDFE_00898	CDS			hypothetical protein
+KCJPJDFE_00898	gene			
+KCJPJDFE_00899	CDS	rsmA	2.1.1.-	putative ribosomal RNA small subunit methyltransferase A
+KCJPJDFE_00899	gene	rsmA		
+KCJPJDFE_00900	CDS			hypothetical protein
+KCJPJDFE_00900	gene			
+KCJPJDFE_00901	CDS			hypothetical protein
+KCJPJDFE_00901	gene			
+KCJPJDFE_00902	CDS			hypothetical protein
+KCJPJDFE_00902	gene			
+KCJPJDFE_00903	CDS			hypothetical protein
+KCJPJDFE_00903	gene			
+KCJPJDFE_00904	CDS			hypothetical protein
+KCJPJDFE_00904	gene			
+KCJPJDFE_00905	CDS			hypothetical protein
+KCJPJDFE_00905	gene			
+KCJPJDFE_00906	CDS	pepQ_2	3.4.13.9	Xaa-Pro dipeptidase
+KCJPJDFE_00906	gene	pepQ_2		
+KCJPJDFE_00907	CDS	pgk	2.7.2.3	Phosphoglycerate kinase
+KCJPJDFE_00907	gene	pgk		
+KCJPJDFE_00908	tRNA			tRNA-Thr(cgt)
+KCJPJDFE_00908	gene			
+KCJPJDFE_00909	CDS			hypothetical protein
+KCJPJDFE_00909	gene			
+KCJPJDFE_00910	CDS	manB	5.4.2.8	Phosphomannomutase
+KCJPJDFE_00910	gene	manB		
+KCJPJDFE_00911	CDS	yjgF_2	3.5.99.10	2-iminobutanoate/2-iminopropanoate deaminase
+KCJPJDFE_00911	gene	yjgF_2		
+KCJPJDFE_00912	CDS	nudF	3.6.1.13	ADP-ribose pyrophosphatase
+KCJPJDFE_00912	gene	nudF		
+KCJPJDFE_00913	CDS	uppS	2.5.1.89	Tritrans,polycis-undecaprenyl-diphosphate synthase (GGDP specific)
+KCJPJDFE_00913	gene	uppS		
+KCJPJDFE_00914	CDS			hypothetical protein
+KCJPJDFE_00914	gene			
+KCJPJDFE_00915	CDS			hypothetical protein
+KCJPJDFE_00915	gene			
+KCJPJDFE_00916	CDS	gpmA	5.4.2.11	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+KCJPJDFE_00916	gene	gpmA		
+KCJPJDFE_00917	CDS			Small-conductance mechanosensitive channel MscMJ
+KCJPJDFE_00917	gene			
+KCJPJDFE_00918	CDS			hypothetical protein
+KCJPJDFE_00918	gene			
+KCJPJDFE_00919	CDS			hypothetical protein
+KCJPJDFE_00919	gene			
+KCJPJDFE_00920	CDS			hypothetical protein
+KCJPJDFE_00920	gene			
+KCJPJDFE_00921	CDS	hisS	6.1.1.21	Histidine--tRNA ligase
+KCJPJDFE_00921	gene	hisS		
+KCJPJDFE_00922	CDS			hypothetical protein
+KCJPJDFE_00922	gene			
+KCJPJDFE_00923	CDS	ftsZ1_1		Cell division protein FtsZ 1
+KCJPJDFE_00923	gene	ftsZ1_1		
+KCJPJDFE_00924	CDS	purN	2.1.2.2	Phosphoribosylglycinamide formyltransferase
+KCJPJDFE_00924	gene	purN		
+KCJPJDFE_00925	CDS	mobA_1	2.7.7.77	Molybdenum cofactor guanylyltransferase
+KCJPJDFE_00925	gene	mobA_1		
+KCJPJDFE_00926	CDS			hypothetical protein
+KCJPJDFE_00926	gene			
+KCJPJDFE_00927	CDS			hypothetical protein
+KCJPJDFE_00927	gene			
+KCJPJDFE_00928	CDS			hypothetical protein
+KCJPJDFE_00928	gene			
+KCJPJDFE_00929	CDS	dnaG	2.7.7.-	DNA primase DnaG
+KCJPJDFE_00929	gene	dnaG		
+KCJPJDFE_00930	CDS	bepA	3.4.-.-	Beta-barrel assembly-enhancing protease
+KCJPJDFE_00930	gene	bepA		
+KCJPJDFE_00931	CDS			hypothetical protein
+KCJPJDFE_00931	gene			
+KCJPJDFE_00932	CDS			hypothetical protein
+KCJPJDFE_00932	gene			
+KCJPJDFE_00933	CDS	trpE	4.1.3.27	Anthranilate synthase component 1
+KCJPJDFE_00933	gene	trpE		
+KCJPJDFE_00934	CDS			hypothetical protein
+KCJPJDFE_00934	gene			
+KCJPJDFE_00935	CDS			hypothetical protein
+KCJPJDFE_00935	gene			
+KCJPJDFE_00936	CDS	pta	2.3.1.8	Phosphate acetyltransferase
+KCJPJDFE_00936	gene	pta		
+KCJPJDFE_00937	CDS			hypothetical protein
+KCJPJDFE_00937	gene			
+KCJPJDFE_00938	CDS			hypothetical protein
+KCJPJDFE_00938	gene			
+KCJPJDFE_00939	CDS			hypothetical protein
+KCJPJDFE_00939	gene			
+KCJPJDFE_00940	CDS			hypothetical protein
+KCJPJDFE_00940	gene			
+KCJPJDFE_00941	CDS			hypothetical protein
+KCJPJDFE_00941	gene			
+KCJPJDFE_00942	CDS			30S ribosomal protein S13
+KCJPJDFE_00942	gene			
+KCJPJDFE_00943	CDS	rps4		30S ribosomal protein S4
+KCJPJDFE_00943	gene	rps4		
+KCJPJDFE_00944	CDS			30S ribosomal protein S11
+KCJPJDFE_00944	gene			
+KCJPJDFE_00945	CDS	rpoD	2.7.7.6	DNA-directed RNA polymerase subunit D
+KCJPJDFE_00945	gene	rpoD		
+KCJPJDFE_00946	CDS		2.7.1.169	Pantoate kinase
+KCJPJDFE_00946	gene			
+KCJPJDFE_00947	CDS			hypothetical protein
+KCJPJDFE_00947	gene			
+KCJPJDFE_00948	CDS			hypothetical protein
+KCJPJDFE_00948	gene			
+KCJPJDFE_00949	CDS	leuS	6.1.1.4	Leucine--tRNA ligase
+KCJPJDFE_00949	gene	leuS		
+KCJPJDFE_00950	CDS		3.4.21.62	Subtilisin-like serine protease
+KCJPJDFE_00950	gene			
+KCJPJDFE_00951	CDS	mobA_2	2.7.7.77	Molybdenum cofactor guanylyltransferase
+KCJPJDFE_00951	gene	mobA_2		
+KCJPJDFE_00952	CDS			hypothetical protein
+KCJPJDFE_00952	gene			
+KCJPJDFE_00953	CDS			hypothetical protein
+KCJPJDFE_00953	gene			
+KCJPJDFE_00954	CDS			hypothetical protein
+KCJPJDFE_00954	gene			
+KCJPJDFE_00955	CDS			hypothetical protein
+KCJPJDFE_00955	gene			
+KCJPJDFE_00956	CDS	cutC	1.2.99.8	Glyceraldehyde dehydrogenase small chain
+KCJPJDFE_00956	gene	cutC		
+KCJPJDFE_00957	CDS	cutA_2	1.2.99.8	Glyceraldehyde dehydrogenase large chain
+KCJPJDFE_00957	gene	cutA_2		
+KCJPJDFE_00958	CDS	cutB	1.2.99.8	Glyceraldehyde dehydrogenase medium chain
+KCJPJDFE_00958	gene	cutB		
+KCJPJDFE_00959	CDS			hypothetical protein
+KCJPJDFE_00959	gene			
+KCJPJDFE_00960	CDS			hypothetical protein
+KCJPJDFE_00960	gene			
+KCJPJDFE_00961	CDS			hypothetical protein
+KCJPJDFE_00961	gene			
+KCJPJDFE_00962	CDS			hypothetical protein
+KCJPJDFE_00962	gene			
+KCJPJDFE_00963	CDS			hypothetical protein
+KCJPJDFE_00963	gene			
+KCJPJDFE_00964	CDS	aroC	4.2.3.5	Chorismate synthase
+KCJPJDFE_00964	gene	aroC		
+KCJPJDFE_00965	CDS			hypothetical protein
+KCJPJDFE_00965	gene			
+KCJPJDFE_00966	CDS	aroB'	1.4.1.24	3-dehydroquinate synthase
+KCJPJDFE_00966	gene	aroB'		
+KCJPJDFE_00967	CDS	aroA'	2.2.1.10	2-amino-3,7-dideoxy-D-threo-hept-6-ulosonate synthase
+KCJPJDFE_00967	gene	aroA'		
+KCJPJDFE_00968	CDS			hypothetical protein
+KCJPJDFE_00968	gene			
+KCJPJDFE_00969	CDS			hypothetical protein
+KCJPJDFE_00969	gene			
+KCJPJDFE_00970	CDS			hypothetical protein
+KCJPJDFE_00970	gene			
+KCJPJDFE_00971	CDS			hypothetical protein
+KCJPJDFE_00971	gene			
+KCJPJDFE_00972	CDS			hypothetical protein
+KCJPJDFE_00972	gene			
+KCJPJDFE_00973	CDS	fadJ	1.1.1.35	Fatty acid oxidation complex subunit alpha
+KCJPJDFE_00973	gene	fadJ		
+KCJPJDFE_00974	CDS			hypothetical protein
+KCJPJDFE_00974	gene			
+KCJPJDFE_00975	CDS		4.2.1.116	3-hydroxypropionyl-coenzyme A dehydratase
+KCJPJDFE_00975	gene			
+KCJPJDFE_00976	CDS		1.2.1.22	Lactaldehyde dehydrogenase
+KCJPJDFE_00976	gene			
+KCJPJDFE_00977	CDS	pgk2	2.7.2.-	2-phosphoglycerate kinase
+KCJPJDFE_00977	gene	pgk2		
+KCJPJDFE_00978	CDS			hypothetical protein
+KCJPJDFE_00978	gene			
+KCJPJDFE_00979	CDS	pheS	6.1.1.20	Phenylalanine--tRNA ligase alpha subunit
+KCJPJDFE_00979	gene	pheS		
+KCJPJDFE_00980	CDS			hypothetical protein
+KCJPJDFE_00980	gene			
+KCJPJDFE_00981	tRNA			tRNA-Thr(tgt)
+KCJPJDFE_00981	gene			
+KCJPJDFE_00982	CDS	folD		Bifunctional protein FolD protein
+KCJPJDFE_00982	gene	folD		
+KCJPJDFE_00983	CDS			hypothetical protein
+KCJPJDFE_00983	gene			
+KCJPJDFE_00984	CDS	sufE		Cysteine desulfuration protein SufE
+KCJPJDFE_00984	gene	sufE		
+KCJPJDFE_00985	CDS	sufS_1	2.8.1.7	Cysteine desulfurase
+KCJPJDFE_00985	gene	sufS_1		
+KCJPJDFE_00986	CDS			hypothetical protein
+KCJPJDFE_00986	gene			
+KCJPJDFE_00987	CDS	azoR	1.7.-.-	FMN-dependent NADH-azoreductase
+KCJPJDFE_00987	gene	azoR		
+KCJPJDFE_00988	tRNA			tRNA-Glu(ttc)
+KCJPJDFE_00988	gene			
+KCJPJDFE_00989	CDS			hypothetical protein
+KCJPJDFE_00989	gene			
+KCJPJDFE_00990	CDS			hypothetical protein
+KCJPJDFE_00990	gene			
+KCJPJDFE_00991	CDS			hypothetical protein
+KCJPJDFE_00991	gene			
+KCJPJDFE_00992	CDS			hypothetical protein
+KCJPJDFE_00992	gene			
+KCJPJDFE_00993	CDS	nob1	3.1.-.-	Endoribonuclease Nob1
+KCJPJDFE_00993	gene	nob1		
+KCJPJDFE_00994	CDS	tatA		Sec-independent protein translocase protein TatA
+KCJPJDFE_00994	gene	tatA		
+KCJPJDFE_00995	CDS			hypothetical protein
+KCJPJDFE_00995	gene			
+KCJPJDFE_00996	CDS		3.1.3.3	Phosphoserine phosphatase
+KCJPJDFE_00996	gene			
+KCJPJDFE_00997	CDS	polB	2.7.7.7	DNA polymerase II small subunit
+KCJPJDFE_00997	gene	polB		
+KCJPJDFE_00998	CDS			hypothetical protein
+KCJPJDFE_00998	gene			
+KCJPJDFE_00999	tRNA			tRNA-Val(tac)
+KCJPJDFE_00999	gene			
+KCJPJDFE_01000	CDS	pcm_2	2.1.1.77	Protein-L-isoaspartate O-methyltransferase
+KCJPJDFE_01000	gene	pcm_2		
+KCJPJDFE_01001	CDS			hypothetical protein
+KCJPJDFE_01001	gene			
+KCJPJDFE_01002	CDS			hypothetical protein
+KCJPJDFE_01002	gene			
+KCJPJDFE_01003	CDS	cca	2.7.7.72	CCA-adding enzyme
+KCJPJDFE_01003	gene	cca		
+KCJPJDFE_01004	CDS	gcvH_2		Glycine cleavage system H protein
+KCJPJDFE_01004	gene	gcvH_2		
+KCJPJDFE_01005	CDS	caiA_3	1.3.99.-	Crotonobetainyl-CoA dehydrogenase
+KCJPJDFE_01005	gene	caiA_3		
+KCJPJDFE_01006	CDS	hmgB	2.3.3.10	Hydroxymethylglutaryl-CoA synthase
+KCJPJDFE_01006	gene	hmgB		
+KCJPJDFE_01007	CDS	tyrS	6.1.1.1	Tyrosine--tRNA ligase
+KCJPJDFE_01007	gene	tyrS		
+KCJPJDFE_01008	CDS			hypothetical protein
+KCJPJDFE_01008	gene			
+KCJPJDFE_01009	CDS			hypothetical protein
+KCJPJDFE_01009	gene			
+KCJPJDFE_01010	CDS	caiA_4	1.3.99.-	Crotonobetainyl-CoA dehydrogenase
+KCJPJDFE_01010	gene	caiA_4		
+KCJPJDFE_01011	CDS			hypothetical protein
+KCJPJDFE_01011	gene			
+KCJPJDFE_01012	CDS			hypothetical protein
+KCJPJDFE_01012	gene			
+KCJPJDFE_01013	CDS			hypothetical protein
+KCJPJDFE_01013	gene			
+KCJPJDFE_01014	CDS			hypothetical protein
+KCJPJDFE_01014	gene			
+KCJPJDFE_01015	CDS			hypothetical protein
+KCJPJDFE_01015	gene			
+KCJPJDFE_01016	CDS	addA	3.6.4.12	ATP-dependent helicase/nuclease subunit A
+KCJPJDFE_01016	gene	addA		
+KCJPJDFE_01017	CDS			hypothetical protein
+KCJPJDFE_01017	gene			
+KCJPJDFE_01018	CDS			hypothetical protein
+KCJPJDFE_01018	gene			
+KCJPJDFE_01019	CDS			hypothetical protein
+KCJPJDFE_01019	gene			
+KCJPJDFE_01020	CDS	dapH	2.3.1.89	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+KCJPJDFE_01020	gene	dapH		
+KCJPJDFE_01021	CDS			hypothetical protein
+KCJPJDFE_01021	gene			
+KCJPJDFE_01022	CDS			hypothetical protein
+KCJPJDFE_01022	gene			
+KCJPJDFE_01023	CDS			hypothetical protein
+KCJPJDFE_01023	gene			
+KCJPJDFE_01024	CDS	ychF		Ribosome-binding ATPase YchF
+KCJPJDFE_01024	gene	ychF		
+KCJPJDFE_01025	CDS			50S ribosomal protein L12
+KCJPJDFE_01025	gene			
+KCJPJDFE_01026	CDS			50S ribosomal protein L10
+KCJPJDFE_01026	gene			
+KCJPJDFE_01027	CDS	rpl1		50S ribosomal protein L1
+KCJPJDFE_01027	gene	rpl1		
+KCJPJDFE_01028	CDS			50S ribosomal protein L11
+KCJPJDFE_01028	gene			
+KCJPJDFE_01029	CDS	spt5		Transcription elongation factor Spt5
+KCJPJDFE_01029	gene	spt5		
+KCJPJDFE_01030	CDS			hypothetical protein
+KCJPJDFE_01030	gene			
+KCJPJDFE_01031	CDS	ftsZ1_2		Cell division protein FtsZ 1
+KCJPJDFE_01031	gene	ftsZ1_2		
+KCJPJDFE_01032	CDS		2.7.8.39	Archaetidylinositol phosphate synthase
+KCJPJDFE_01032	gene			
+KCJPJDFE_01033	CDS		2.7.4.3	Putative adenylate kinase
+KCJPJDFE_01033	gene			
+KCJPJDFE_01034	CDS			hypothetical protein
+KCJPJDFE_01034	gene			
+KCJPJDFE_01035	CDS			hypothetical protein
+KCJPJDFE_01035	gene			
+KCJPJDFE_01036	CDS			hypothetical protein
+KCJPJDFE_01036	gene			
+KCJPJDFE_01037	CDS			hypothetical protein
+KCJPJDFE_01037	gene			
+KCJPJDFE_01038	CDS			putative ABC transporter ATP-binding protein
+KCJPJDFE_01038	gene			
+KCJPJDFE_01039	CDS			hypothetical protein
+KCJPJDFE_01039	gene			
+KCJPJDFE_01040	CDS			hypothetical protein
+KCJPJDFE_01040	gene			
+KCJPJDFE_01041	CDS	nadE	6.3.1.5	putative NH(3)-dependent NAD(+) synthetase
+KCJPJDFE_01041	gene	nadE		
+KCJPJDFE_01042	CDS	rlmB	2.1.1.185	23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+KCJPJDFE_01042	gene	rlmB		
+KCJPJDFE_01043	CDS			hypothetical protein
+KCJPJDFE_01043	gene			
+KCJPJDFE_01044	CDS			hypothetical protein
+KCJPJDFE_01044	gene			
+KCJPJDFE_01045	CDS	zupT		Zinc transporter ZupT
+KCJPJDFE_01045	gene	zupT		
+KCJPJDFE_01046	CDS			Putative nickel-responsive regulator
+KCJPJDFE_01046	gene			
+KCJPJDFE_01047	CDS			hypothetical protein
+KCJPJDFE_01047	gene			
+KCJPJDFE_01048	CDS	tgtA_2	2.4.2.48	tRNA-guanine(15) transglycosylase
+KCJPJDFE_01048	gene	tgtA_2		
+KCJPJDFE_01049	CDS			putative ABC transporter ATP-binding protein
+KCJPJDFE_01049	gene			
+KCJPJDFE_01050	CDS			hypothetical protein
+KCJPJDFE_01050	gene			
+KCJPJDFE_01051	CDS	malK_2	3.6.3.19	Trehalose/maltose import ATP-binding protein MalK
+KCJPJDFE_01051	gene	malK_2		
+KCJPJDFE_01052	CDS			hypothetical protein
+KCJPJDFE_01052	gene			
+KCJPJDFE_01053	CDS			hypothetical protein
+KCJPJDFE_01053	gene			
+KCJPJDFE_01054	CDS			hypothetical protein
+KCJPJDFE_01054	gene			
+KCJPJDFE_01055	CDS	truA	5.4.99.12	tRNA pseudouridine synthase A
+KCJPJDFE_01055	gene	truA		
+KCJPJDFE_01056	CDS	ribK	2.7.1.161	Riboflavin kinase
+KCJPJDFE_01056	gene	ribK		
+KCJPJDFE_01057	CDS	pqqB		Coenzyme PQQ synthesis protein B
+KCJPJDFE_01057	gene	pqqB		
+KCJPJDFE_01058	CDS	kbl	2.3.1.29	2-amino-3-ketobutyrate coenzyme A ligase
+KCJPJDFE_01058	gene	kbl		
+KCJPJDFE_01059	CDS			hypothetical protein
+KCJPJDFE_01059	gene			
+KCJPJDFE_01060	CDS			hypothetical protein
+KCJPJDFE_01060	gene			
+KCJPJDFE_01061	CDS	gltA	2.3.3.16	Citrate synthase
+KCJPJDFE_01061	gene	gltA		
+KCJPJDFE_01062	CDS			hypothetical protein
+KCJPJDFE_01062	gene			
+KCJPJDFE_01063	CDS			hypothetical protein
+KCJPJDFE_01063	gene			
+KCJPJDFE_01064	CDS	caiA_5	1.3.99.-	Crotonobetainyl-CoA dehydrogenase
+KCJPJDFE_01064	gene	caiA_5		
+KCJPJDFE_01065	CDS	asnS	6.1.1.22	Asparagine--tRNA ligase
+KCJPJDFE_01065	gene	asnS		
+KCJPJDFE_01066	tRNA			tRNA-Lys(ctt)
+KCJPJDFE_01066	gene			
+KCJPJDFE_01067	CDS	rpiA	5.3.1.6	Ribose-5-phosphate isomerase A
+KCJPJDFE_01067	gene	rpiA		
+KCJPJDFE_01068	CDS			hypothetical protein
+KCJPJDFE_01068	gene			
+KCJPJDFE_01069	CDS			hypothetical protein
+KCJPJDFE_01069	gene			
+KCJPJDFE_01070	CDS			hypothetical protein
+KCJPJDFE_01070	gene			
+KCJPJDFE_01071	CDS			hypothetical protein
+KCJPJDFE_01071	gene			
+KCJPJDFE_01072	CDS		1.1.1.376	L-arabinose 1-dehydrogenase (NAD(P)(+))
+KCJPJDFE_01072	gene			
+KCJPJDFE_01073	CDS	rlmE	2.1.1.166	Ribosomal RNA large subunit methyltransferase E
+KCJPJDFE_01073	gene	rlmE		
+KCJPJDFE_01074	CDS			hypothetical protein
+KCJPJDFE_01074	gene			
+KCJPJDFE_01075	CDS			hypothetical protein
+KCJPJDFE_01075	gene			
+KCJPJDFE_01076	CDS			hypothetical protein
+KCJPJDFE_01076	gene			
+KCJPJDFE_01077	CDS	truD	5.4.99.27	putative tRNA pseudouridine synthase D
+KCJPJDFE_01077	gene	truD		
+KCJPJDFE_01078	CDS	rpoL	2.7.7.6	DNA-directed RNA polymerase subunit L
+KCJPJDFE_01078	gene	rpoL		
+KCJPJDFE_01079	CDS			hypothetical protein
+KCJPJDFE_01079	gene			
+KCJPJDFE_01080	CDS			hypothetical protein
+KCJPJDFE_01080	gene			
+KCJPJDFE_01081	CDS			hypothetical protein
+KCJPJDFE_01081	gene			
+KCJPJDFE_01082	CDS			hypothetical protein
+KCJPJDFE_01082	gene			
+KCJPJDFE_01083	CDS		3.6.4.13	putative ATP-dependent RNA helicase
+KCJPJDFE_01083	gene			
+KCJPJDFE_01084	CDS	tusA	2.8.1.-	Sulfurtransferase TusA
+KCJPJDFE_01084	gene	tusA		
+KCJPJDFE_01085	CDS	ribA	3.5.4.25	GTP cyclohydrolase-2
+KCJPJDFE_01085	gene	ribA		
+KCJPJDFE_01086	tRNA			tRNA-His(gtg)
+KCJPJDFE_01086	gene			
+KCJPJDFE_01087	CDS			hypothetical protein
+KCJPJDFE_01087	gene			
+KCJPJDFE_01088	CDS	truB	5.4.99.25	putative tRNA pseudouridine synthase B
+KCJPJDFE_01088	gene	truB		
+KCJPJDFE_01089	CDS	cmk	2.7.4.25	Cytidylate kinase
+KCJPJDFE_01089	gene	cmk		
+KCJPJDFE_01090	CDS			hypothetical protein
+KCJPJDFE_01090	gene			
+KCJPJDFE_01091	CDS			hypothetical protein
+KCJPJDFE_01091	gene			
+KCJPJDFE_01092	CDS		3.6.5.-	GPN-loop GTPase
+KCJPJDFE_01092	gene			
+KCJPJDFE_01093	CDS	argF	2.1.3.3	Ornithine carbamoyltransferase
+KCJPJDFE_01093	gene	argF		
+KCJPJDFE_01094	CDS		2.5.1.42	Digeranylgeranylglyceryl phosphate synthase
+KCJPJDFE_01094	gene			
+KCJPJDFE_01095	CDS			hypothetical protein
+KCJPJDFE_01095	gene			
+KCJPJDFE_01096	tRNA			tRNA-Glu(ctc)
+KCJPJDFE_01096	gene			
+KCJPJDFE_01097	CDS	smc_2		Chromosome partition protein Smc
+KCJPJDFE_01097	gene	smc_2		
+KCJPJDFE_01098	CDS	guaB_2	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+KCJPJDFE_01098	gene	guaB_2		
+KCJPJDFE_01099	CDS			Protein archease
+KCJPJDFE_01099	gene			
+KCJPJDFE_01100	CDS			hypothetical protein
+KCJPJDFE_01100	gene			
+KCJPJDFE_01101	CDS			hypothetical protein
+KCJPJDFE_01101	gene			
+KCJPJDFE_01102	CDS	aspC	2.6.1.1	Aspartate aminotransferase
+KCJPJDFE_01102	gene	aspC		
+KCJPJDFE_01103	CDS			hypothetical protein
+KCJPJDFE_01103	gene			
+KCJPJDFE_01104	CDS			hypothetical protein
+KCJPJDFE_01104	gene			
+KCJPJDFE_01105	CDS			hypothetical protein
+KCJPJDFE_01105	gene			
+KCJPJDFE_01106	CDS			hypothetical protein
+KCJPJDFE_01106	gene			
+KCJPJDFE_01107	CDS		2.1.1.206	tRNA (cytidine(56)-2'-O)-methyltransferase
+KCJPJDFE_01107	gene			
+KCJPJDFE_01108	CDS	carA	6.3.5.5	Carbamoyl-phosphate synthase small chain
+KCJPJDFE_01108	gene	carA		
+KCJPJDFE_01109	CDS	ddl	6.3.2.4	D-alanine--D-alanine ligase
+KCJPJDFE_01109	gene	ddl		
+KCJPJDFE_01110	CDS			hypothetical protein
+KCJPJDFE_01110	gene			
+KCJPJDFE_01111	CDS	lysS	6.1.1.6	Lysine--tRNA ligase
+KCJPJDFE_01111	gene	lysS		
+KCJPJDFE_01112	CDS	pyrE_2	2.4.2.10	Orotate phosphoribosyltransferase
+KCJPJDFE_01112	gene	pyrE_2		
+KCJPJDFE_01113	CDS	dut	3.6.1.23	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+KCJPJDFE_01113	gene	dut		
+KCJPJDFE_01114	CDS	eif2b		Translation initiation factor 2 subunit beta
+KCJPJDFE_01114	gene	eif2b		
+KCJPJDFE_01115	CDS			hypothetical protein
+KCJPJDFE_01115	gene			
+KCJPJDFE_01116	CDS		1.3.1.84	Acryloyl-coenzyme A reductase
+KCJPJDFE_01116	gene			
+KCJPJDFE_01117	CDS			hypothetical protein
+KCJPJDFE_01117	gene			
+KCJPJDFE_01118	CDS		4.2.1.96	Putative pterin-4-alpha-carbinolamine dehydratase
+KCJPJDFE_01118	gene			
+KCJPJDFE_01119	CDS			hypothetical protein
+KCJPJDFE_01119	gene			
+KCJPJDFE_01120	CDS	obg_2	3.6.5.-	GTPase Obg
+KCJPJDFE_01120	gene	obg_2		
+KCJPJDFE_01121	CDS			hypothetical protein
+KCJPJDFE_01121	gene			
+KCJPJDFE_01122	CDS			hypothetical protein
+KCJPJDFE_01122	gene			
+KCJPJDFE_01123	CDS	pyrH	2.7.4.22	Uridylate kinase
+KCJPJDFE_01123	gene	pyrH		
+KCJPJDFE_01124	CDS	prf1		Peptide chain release factor subunit 1
+KCJPJDFE_01124	gene	prf1		
+KCJPJDFE_01125	CDS	argS	6.1.1.19	Arginine--tRNA ligase
+KCJPJDFE_01125	gene	argS		
+KCJPJDFE_01126	CDS		1.11.1.15	Peroxiredoxin
+KCJPJDFE_01126	gene			
+KCJPJDFE_01127	CDS			hypothetical protein
+KCJPJDFE_01127	gene			
+KCJPJDFE_01128	CDS	ubiX	2.5.1.-	Flavin prenyltransferase UbiX
+KCJPJDFE_01128	gene	ubiX		
+KCJPJDFE_01129	CDS	sufS_2	2.8.1.7	Cysteine desulfurase
+KCJPJDFE_01129	gene	sufS_2		
+KCJPJDFE_01130	CDS	lipB	2.3.1.181	Octanoyltransferase
+KCJPJDFE_01130	gene	lipB		
+KCJPJDFE_01131	CDS	lpdA	1.8.1.4	Dihydrolipoyl dehydrogenase
+KCJPJDFE_01131	gene	lpdA		
+KCJPJDFE_01132	CDS			hypothetical protein
+KCJPJDFE_01132	gene			
+KCJPJDFE_01133	CDS			hypothetical protein
+KCJPJDFE_01133	gene			
+KCJPJDFE_01134	CDS			hypothetical protein
+KCJPJDFE_01134	gene			
+KCJPJDFE_01135	CDS	ubiE	2.1.1.163	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE
+KCJPJDFE_01135	gene	ubiE		
+KCJPJDFE_01136	CDS			hypothetical protein
+KCJPJDFE_01136	gene			
+KCJPJDFE_01137	CDS			hypothetical protein
+KCJPJDFE_01137	gene			
+KCJPJDFE_01138	CDS			hypothetical protein
+KCJPJDFE_01138	gene			
+KCJPJDFE_01139	CDS	atpE		V-type ATP synthase subunit E
+KCJPJDFE_01139	gene	atpE		
+KCJPJDFE_01140	CDS	atpC		V-type ATP synthase subunit C
+KCJPJDFE_01140	gene	atpC		
+KCJPJDFE_01141	CDS	atpF		V-type ATP synthase subunit F
+KCJPJDFE_01141	gene	atpF		
+KCJPJDFE_01142	CDS	atpA	3.6.3.14	V-type ATP synthase alpha chain
+KCJPJDFE_01142	gene	atpA		
+KCJPJDFE_01143	CDS	atpB		V-type ATP synthase beta chain
+KCJPJDFE_01143	gene	atpB		
+KCJPJDFE_01144	CDS	atpD		V-type ATP synthase subunit D
+KCJPJDFE_01144	gene	atpD		
+KCJPJDFE_01145	CDS			hypothetical protein
+KCJPJDFE_01145	gene			
+KCJPJDFE_01146	CDS			hypothetical protein
+KCJPJDFE_01146	gene			
+KCJPJDFE_01147	CDS	tfrA_3	1.3.4.1	Fumarate reductase (CoM/CoB) subunit A
+KCJPJDFE_01147	gene	tfrA_3		
+KCJPJDFE_01148	CDS	smc_3		Chromosome partition protein Smc
+KCJPJDFE_01148	gene	smc_3		
+KCJPJDFE_01149	CDS			hypothetical protein
+KCJPJDFE_01149	gene			
+KCJPJDFE_01150	CDS	scpB		Segregation and condensation protein B
+KCJPJDFE_01150	gene	scpB		
+KCJPJDFE_01151	CDS	hmgA	1.1.1.34	3-hydroxy-3-methylglutaryl-coenzyme A reductase
+KCJPJDFE_01151	gene	hmgA		
+KCJPJDFE_01152	CDS			hypothetical protein
+KCJPJDFE_01152	gene			
+KCJPJDFE_01153	CDS			hypothetical protein
+KCJPJDFE_01153	gene			
+KCJPJDFE_01154	CDS	hly_2	3.4.21.-	Halolysin
+KCJPJDFE_01154	gene	hly_2		
+KCJPJDFE_01155	CDS			hypothetical protein
+KCJPJDFE_01155	gene			
+KCJPJDFE_01156	CDS			hypothetical protein
+KCJPJDFE_01156	gene			
+KCJPJDFE_01157	CDS		3.6.4.12	ATP-dependent DNA helicase Hel308
+KCJPJDFE_01157	gene			
+KCJPJDFE_01158	CDS			hypothetical protein
+KCJPJDFE_01158	gene			
+KCJPJDFE_01159	CDS			hypothetical protein
+KCJPJDFE_01159	gene			
+KCJPJDFE_01160	CDS			hypothetical protein
+KCJPJDFE_01160	gene			
+KCJPJDFE_01161	CDS			hypothetical protein
+KCJPJDFE_01161	gene			
+KCJPJDFE_01162	CDS	radA		DNA repair and recombination protein RadA
+KCJPJDFE_01162	gene	radA		
+KCJPJDFE_01163	tRNA			tRNA-Met(cat)
+KCJPJDFE_01163	gene			
+KCJPJDFE_01164	CDS	allB	3.5.2.5	Allantoinase
+KCJPJDFE_01164	gene	allB		
+KCJPJDFE_01165	CDS			hypothetical protein
+KCJPJDFE_01165	gene			
+KCJPJDFE_01166	CDS			hypothetical protein
+KCJPJDFE_01166	gene			
+KCJPJDFE_01167	CDS			hypothetical protein
+KCJPJDFE_01167	gene			
+KCJPJDFE_01168	CDS			hypothetical protein
+KCJPJDFE_01168	gene			
+KCJPJDFE_01169	CDS			hypothetical protein
+KCJPJDFE_01169	gene			
+KCJPJDFE_01170	CDS			hypothetical protein
+KCJPJDFE_01170	gene			
+KCJPJDFE_01171	CDS	treT_2	2.4.1.245	Trehalose synthase
+KCJPJDFE_01171	gene	treT_2		
+KCJPJDFE_01172	CDS	aglJ	2.4.1.-	Glycosyltransferase AglJ
+KCJPJDFE_01172	gene	aglJ		
+KCJPJDFE_01173	CDS			hypothetical protein
+KCJPJDFE_01173	gene			
+KCJPJDFE_01174	CDS			hypothetical protein
+KCJPJDFE_01174	gene			
+KCJPJDFE_01175	CDS			hypothetical protein
+KCJPJDFE_01175	gene			
+KCJPJDFE_01176	CDS			hypothetical protein
+KCJPJDFE_01176	gene			
+KCJPJDFE_01177	CDS			putative HTH-type transcriptional regulator
+KCJPJDFE_01177	gene			
+KCJPJDFE_01178	CDS			hypothetical protein
+KCJPJDFE_01178	gene			
+KCJPJDFE_01179	CDS			hypothetical protein
+KCJPJDFE_01179	gene			
+KCJPJDFE_01180	CDS	uvrC		UvrABC system protein C
+KCJPJDFE_01180	gene	uvrC		
+KCJPJDFE_01181	CDS			hypothetical protein
+KCJPJDFE_01181	gene			
+KCJPJDFE_01182	CDS	taw2	2.5.1.114	tRNA(Phe) (4-demethylwyosine(37)-C(7)) aminocarboxypropyltransferase
+KCJPJDFE_01182	gene	taw2		
+KCJPJDFE_01183	CDS			hypothetical protein
+KCJPJDFE_01183	gene			
+KCJPJDFE_01184	CDS			hypothetical protein
+KCJPJDFE_01184	gene			
+KCJPJDFE_01185	CDS	ths_2		Thermosome subunit
+KCJPJDFE_01185	gene	ths_2		
+KCJPJDFE_01186	CDS	mdtG		Multidrug resistance protein MdtG
+KCJPJDFE_01186	gene	mdtG		
+KCJPJDFE_01187	CDS	purH	3.5.4.10	Bifunctional purine biosynthesis protein PurH
+KCJPJDFE_01187	gene	purH		
+KCJPJDFE_01188	CDS			hypothetical protein
+KCJPJDFE_01188	gene			
+KCJPJDFE_01189	CDS			hypothetical protein
+KCJPJDFE_01189	gene			
+KCJPJDFE_01190	CDS			hypothetical protein
+KCJPJDFE_01190	gene			
+KCJPJDFE_01191	CDS			hypothetical protein
+KCJPJDFE_01191	gene			
+KCJPJDFE_01192	CDS			hypothetical protein
+KCJPJDFE_01192	gene			
+KCJPJDFE_01193	CDS			hypothetical protein
+KCJPJDFE_01193	gene			
+KCJPJDFE_01194	CDS	thrC_3	4.2.3.1	Threonine synthase
+KCJPJDFE_01194	gene	thrC_3		
+KCJPJDFE_01195	CDS			hypothetical protein
+KCJPJDFE_01195	gene			
+KCJPJDFE_01196	CDS			hypothetical protein
+KCJPJDFE_01196	gene			
+KCJPJDFE_01197	CDS			hypothetical protein
+KCJPJDFE_01197	gene			
+KCJPJDFE_01198	CDS	fixA		Protein FixA
+KCJPJDFE_01198	gene	fixA		
+KCJPJDFE_01199	CDS	fixB		Protein FixB
+KCJPJDFE_01199	gene	fixB		
+KCJPJDFE_01200	CDS			hypothetical protein
+KCJPJDFE_01200	gene			
+KCJPJDFE_01201	CDS	glmS_4	2.6.1.16	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+KCJPJDFE_01201	gene	glmS_4		
+KCJPJDFE_01202	CDS			hypothetical protein
+KCJPJDFE_01202	gene			
+KCJPJDFE_01203	CDS			hypothetical protein
+KCJPJDFE_01203	gene			
+KCJPJDFE_01204	CDS			50S ribosomal protein L44e
+KCJPJDFE_01204	gene			
+KCJPJDFE_01205	CDS			30S ribosomal protein S27e
+KCJPJDFE_01205	gene			
+KCJPJDFE_01206	CDS	eif2a		Translation initiation factor 2 subunit alpha
+KCJPJDFE_01206	gene	eif2a		
+KCJPJDFE_01207	CDS			Ribosome biogenesis protein Nop10
+KCJPJDFE_01207	gene			
+KCJPJDFE_01208	CDS			hypothetical protein
+KCJPJDFE_01208	gene			
+KCJPJDFE_01209	CDS	pepE	3.4.13.21	Peptidase E
+KCJPJDFE_01209	gene	pepE		
+KCJPJDFE_01210	CDS			hypothetical protein
+KCJPJDFE_01210	gene			
+KCJPJDFE_01211	tRNA			tRNA-Ser(cga)
+KCJPJDFE_01211	gene			
+KCJPJDFE_01212	CDS			hypothetical protein
+KCJPJDFE_01212	gene			
+KCJPJDFE_01213	CDS	pqqE		Coenzyme PQQ synthesis protein E
+KCJPJDFE_01213	gene	pqqE		
+KCJPJDFE_01214	CDS	pdxT	4.3.3.6	Pyridoxal 5'-phosphate synthase subunit PdxT
+KCJPJDFE_01214	gene	pdxT		
+KCJPJDFE_01215	CDS	serC	2.6.1.52	Phosphoserine aminotransferase
+KCJPJDFE_01215	gene	serC		
+KCJPJDFE_01216	CDS	deoC	4.1.2.4	Deoxyribose-phosphate aldolase
+KCJPJDFE_01216	gene	deoC		
+KCJPJDFE_01217	tRNA			tRNA-Val(cac)
+KCJPJDFE_01217	gene			
+KCJPJDFE_01218	CDS			hypothetical protein
+KCJPJDFE_01218	gene			
+KCJPJDFE_01219	CDS			hypothetical protein
+KCJPJDFE_01219	gene			
+KCJPJDFE_01220	CDS			hypothetical protein
+KCJPJDFE_01220	gene			
+KCJPJDFE_01221	CDS			hypothetical protein
+KCJPJDFE_01221	gene			
+KCJPJDFE_01222	CDS			hypothetical protein
+KCJPJDFE_01222	gene			
+KCJPJDFE_01223	CDS			hypothetical protein
+KCJPJDFE_01223	gene			
+KCJPJDFE_01224	CDS			hypothetical protein
+KCJPJDFE_01224	gene			

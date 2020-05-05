@@ -1,0 +1,3300 @@
+locus_tag	ftype	gene	EC_number	product
+CFLHHANF_00001	CDS			hypothetical protein
+CFLHHANF_00001	gene			
+CFLHHANF_00002	CDS	apaH	3.6.1.41	Bis(5'-nucleosyl)-tetraphosphatase, symmetrical
+CFLHHANF_00002	gene	apaH		
+CFLHHANF_00003	CDS			hypothetical protein
+CFLHHANF_00003	gene			
+CFLHHANF_00004	CDS			hypothetical protein
+CFLHHANF_00004	gene			
+CFLHHANF_00005	CDS			hypothetical protein
+CFLHHANF_00005	gene			
+CFLHHANF_00006	CDS			hypothetical protein
+CFLHHANF_00006	gene			
+CFLHHANF_00007	CDS			hypothetical protein
+CFLHHANF_00007	gene			
+CFLHHANF_00008	CDS		2.6.1.57	Aromatic-amino-acid aminotransferase 2
+CFLHHANF_00008	gene			
+CFLHHANF_00009	CDS	sufS_1	2.8.1.7	Cysteine desulfurase
+CFLHHANF_00009	gene	sufS_1		
+CFLHHANF_00010	CDS	hmgB_1	2.3.3.10	Hydroxymethylglutaryl-CoA synthase
+CFLHHANF_00010	gene	hmgB_1		
+CFLHHANF_00011	CDS	tyrS_1	6.1.1.1	Tyrosine--tRNA ligase
+CFLHHANF_00011	gene	tyrS_1		
+CFLHHANF_00012	CDS			hypothetical protein
+CFLHHANF_00012	gene			
+CFLHHANF_00013	CDS			hypothetical protein
+CFLHHANF_00013	gene			
+CFLHHANF_00014	CDS	ribH_1	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+CFLHHANF_00014	gene	ribH_1		
+CFLHHANF_00015	CDS			hypothetical protein
+CFLHHANF_00015	gene			
+CFLHHANF_00016	CDS	ribL_1	2.7.7.2	FAD synthase
+CFLHHANF_00016	gene	ribL_1		
+CFLHHANF_00017	CDS	ribB_1	4.1.99.12	3,4-dihydroxy-2-butanone 4-phosphate synthase
+CFLHHANF_00017	gene	ribB_1		
+CFLHHANF_00018	CDS			hypothetical protein
+CFLHHANF_00018	gene			
+CFLHHANF_00019	CDS	maf_1		Septum formation protein Maf
+CFLHHANF_00019	gene	maf_1		
+CFLHHANF_00020	CDS	mntR_1		Transcriptional regulator MntR
+CFLHHANF_00020	gene	mntR_1		
+CFLHHANF_00021	CDS			hypothetical protein
+CFLHHANF_00021	gene			
+CFLHHANF_00022	CDS			hypothetical protein
+CFLHHANF_00022	gene			
+CFLHHANF_00023	CDS			Small-conductance mechanosensitive channel MscMJ
+CFLHHANF_00023	gene			
+CFLHHANF_00024	CDS	gpmA	5.4.2.11	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+CFLHHANF_00024	gene	gpmA		
+CFLHHANF_00025	CDS			hypothetical protein
+CFLHHANF_00025	gene			
+CFLHHANF_00026	CDS	hdrD_1	1.8.98.1	CoB--CoM heterodisulfide reductase iron-sulfur subunit D
+CFLHHANF_00026	gene	hdrD_1		
+CFLHHANF_00027	CDS	rsxB_1		Electron transport complex subunit RsxB
+CFLHHANF_00027	gene	rsxB_1		
+CFLHHANF_00028	CDS			hypothetical protein
+CFLHHANF_00028	gene			
+CFLHHANF_00029	CDS	ogt_1	2.1.1.63	Methylated-DNA--protein-cysteine methyltransferase
+CFLHHANF_00029	gene	ogt_1		
+CFLHHANF_00030	CDS	purF_1	2.4.2.14	Amidophosphoribosyltransferase
+CFLHHANF_00030	gene	purF_1		
+CFLHHANF_00031	CDS			hypothetical protein
+CFLHHANF_00031	gene			
+CFLHHANF_00032	CDS			hypothetical protein
+CFLHHANF_00032	gene			
+CFLHHANF_00033	CDS	mnmE	3.6.-.-	tRNA modification GTPase MnmE
+CFLHHANF_00033	gene	mnmE		
+CFLHHANF_00034	CDS	glmS_1	5.4.99.1	Glutamate mutase sigma subunit
+CFLHHANF_00034	gene	glmS_1		
+CFLHHANF_00035	CDS			hypothetical protein
+CFLHHANF_00035	gene			
+CFLHHANF_00036	CDS			hypothetical protein
+CFLHHANF_00036	gene			
+CFLHHANF_00037	CDS			hypothetical protein
+CFLHHANF_00037	gene			
+CFLHHANF_00038	CDS			hypothetical protein
+CFLHHANF_00038	gene			
+CFLHHANF_00039	CDS			hypothetical protein
+CFLHHANF_00039	gene			
+CFLHHANF_00040	CDS			hypothetical protein
+CFLHHANF_00040	gene			
+CFLHHANF_00041	CDS			hypothetical protein
+CFLHHANF_00041	gene			
+CFLHHANF_00042	CDS			hypothetical protein
+CFLHHANF_00042	gene			
+CFLHHANF_00043	CDS			hypothetical protein
+CFLHHANF_00043	gene			
+CFLHHANF_00044	CDS			hypothetical protein
+CFLHHANF_00044	gene			
+CFLHHANF_00045	CDS		2.4.2.1	putative 6-oxopurine nucleoside phosphorylase
+CFLHHANF_00045	gene			
+CFLHHANF_00046	CDS			hypothetical protein
+CFLHHANF_00046	gene			
+CFLHHANF_00047	CDS			hypothetical protein
+CFLHHANF_00047	gene			
+CFLHHANF_00048	CDS	prs	2.7.6.1	Ribose-phosphate pyrophosphokinase
+CFLHHANF_00048	gene	prs		
+CFLHHANF_00049	tRNA			tRNA-Ile(gat)
+CFLHHANF_00049	gene			
+CFLHHANF_00050	CDS			hypothetical protein
+CFLHHANF_00050	gene			
+CFLHHANF_00051	CDS	lysJ_1	2.6.1.-	[LysW]-aminoadipate semialdehyde/glutamate semialdehyde transaminase
+CFLHHANF_00051	gene	lysJ_1		
+CFLHHANF_00052	CDS			hypothetical protein
+CFLHHANF_00052	gene			
+CFLHHANF_00053	CDS			hypothetical protein
+CFLHHANF_00053	gene			
+CFLHHANF_00054	CDS	dys	2.5.1.46	putative deoxyhypusine synthase
+CFLHHANF_00054	gene	dys		
+CFLHHANF_00055	CDS	uvrB		UvrABC system protein B
+CFLHHANF_00055	gene	uvrB		
+CFLHHANF_00056	CDS	deoC	4.1.2.4	Deoxyribose-phosphate aldolase
+CFLHHANF_00056	gene	deoC		
+CFLHHANF_00057	CDS	serC	2.6.1.52	Phosphoserine aminotransferase
+CFLHHANF_00057	gene	serC		
+CFLHHANF_00058	CDS	ubiX	2.5.1.-	Flavin prenyltransferase UbiX
+CFLHHANF_00058	gene	ubiX		
+CFLHHANF_00059	CDS			hypothetical protein
+CFLHHANF_00059	gene			
+CFLHHANF_00060	CDS	ahpC_1	1.11.1.15	Peroxiredoxin
+CFLHHANF_00060	gene	ahpC_1		
+CFLHHANF_00061	CDS	argS_1	6.1.1.19	Arginine--tRNA ligase
+CFLHHANF_00061	gene	argS_1		
+CFLHHANF_00062	CDS			50S ribosomal protein L18Ae
+CFLHHANF_00062	gene			
+CFLHHANF_00063	CDS	pfdA_1		Prefoldin subunit alpha
+CFLHHANF_00063	gene	pfdA_1		
+CFLHHANF_00064	CDS	ftsY_1		Signal recognition particle receptor FtsY
+CFLHHANF_00064	gene	ftsY_1		
+CFLHHANF_00065	CDS			hypothetical protein
+CFLHHANF_00065	gene			
+CFLHHANF_00066	CDS	cheY		Chemotaxis protein CheY
+CFLHHANF_00066	gene	cheY		
+CFLHHANF_00067	CDS	pgk_1	2.7.2.3	Phosphoglycerate kinase
+CFLHHANF_00067	gene	pgk_1		
+CFLHHANF_00068	CDS			hypothetical protein
+CFLHHANF_00068	gene			
+CFLHHANF_00069	CDS	dnaJ_1		Chaperone protein DnaJ
+CFLHHANF_00069	gene	dnaJ_1		
+CFLHHANF_00070	CDS			hypothetical protein
+CFLHHANF_00070	gene			
+CFLHHANF_00071	CDS			hypothetical protein
+CFLHHANF_00071	gene			
+CFLHHANF_00072	CDS			hypothetical protein
+CFLHHANF_00072	gene			
+CFLHHANF_00073	CDS	purD_1	6.3.4.13	Phosphoribosylamine--glycine ligase
+CFLHHANF_00073	gene	purD_1		
+CFLHHANF_00074	CDS	carS_1	2.7.7.67	CDP-archaeol synthase
+CFLHHANF_00074	gene	carS_1		
+CFLHHANF_00075	CDS			hypothetical protein
+CFLHHANF_00075	gene			
+CFLHHANF_00076	CDS			hypothetical protein
+CFLHHANF_00076	gene			
+CFLHHANF_00077	CDS			hypothetical protein
+CFLHHANF_00077	gene			
+CFLHHANF_00078	CDS			hypothetical protein
+CFLHHANF_00078	gene			
+CFLHHANF_00079	CDS			hypothetical protein
+CFLHHANF_00079	gene			
+CFLHHANF_00080	CDS			hypothetical protein
+CFLHHANF_00080	gene			
+CFLHHANF_00081	CDS			hypothetical protein
+CFLHHANF_00081	gene			
+CFLHHANF_00082	CDS			hypothetical protein
+CFLHHANF_00082	gene			
+CFLHHANF_00083	CDS			hypothetical protein
+CFLHHANF_00083	gene			
+CFLHHANF_00084	CDS			hypothetical protein
+CFLHHANF_00084	gene			
+CFLHHANF_00085	CDS	aroD	4.2.1.10	3-dehydroquinate dehydratase
+CFLHHANF_00085	gene	aroD		
+CFLHHANF_00086	CDS	gyrB_1	5.99.1.3	DNA gyrase subunit B
+CFLHHANF_00086	gene	gyrB_1		
+CFLHHANF_00087	CDS			hypothetical protein
+CFLHHANF_00087	gene			
+CFLHHANF_00088	CDS			hypothetical protein
+CFLHHANF_00088	gene			
+CFLHHANF_00089	CDS			hypothetical protein
+CFLHHANF_00089	gene			
+CFLHHANF_00090	CDS			hypothetical protein
+CFLHHANF_00090	gene			
+CFLHHANF_00091	CDS			hypothetical protein
+CFLHHANF_00091	gene			
+CFLHHANF_00092	CDS	ftsZ1_1		Cell division protein FtsZ 1
+CFLHHANF_00092	gene	ftsZ1_1		
+CFLHHANF_00093	CDS			hypothetical protein
+CFLHHANF_00093	gene			
+CFLHHANF_00094	CDS			putative ABC transporter ATP-binding protein
+CFLHHANF_00094	gene			
+CFLHHANF_00095	CDS			putative ABC transporter ATP-binding protein
+CFLHHANF_00095	gene			
+CFLHHANF_00096	CDS	rrp4_1		Exosome complex component Rrp4
+CFLHHANF_00096	gene	rrp4_1		
+CFLHHANF_00097	CDS		3.1.13.-	Exosome complex component Rrp41
+CFLHHANF_00097	gene			
+CFLHHANF_00098	CDS			Exosome complex component Rrp42
+CFLHHANF_00098	gene			
+CFLHHANF_00099	CDS			50S ribosomal protein L37Ae
+CFLHHANF_00099	gene			
+CFLHHANF_00100	CDS			hypothetical protein
+CFLHHANF_00100	gene			
+CFLHHANF_00101	CDS			hypothetical protein
+CFLHHANF_00101	gene			
+CFLHHANF_00102	CDS			hypothetical protein
+CFLHHANF_00102	gene			
+CFLHHANF_00103	CDS	coxA2_1	1.9.3.1	Cytochrome c oxidase polypeptide 1
+CFLHHANF_00103	gene	coxA2_1		
+CFLHHANF_00104	CDS			hypothetical protein
+CFLHHANF_00104	gene			
+CFLHHANF_00105	CDS			hypothetical protein
+CFLHHANF_00105	gene			
+CFLHHANF_00106	CDS			hypothetical protein
+CFLHHANF_00106	gene			
+CFLHHANF_00107	CDS			hypothetical protein
+CFLHHANF_00107	gene			
+CFLHHANF_00108	CDS	allB_1	3.5.2.5	Allantoinase
+CFLHHANF_00108	gene	allB_1		
+CFLHHANF_00109	tRNA			tRNA-Met(cat)
+CFLHHANF_00109	gene			
+CFLHHANF_00110	CDS			hypothetical protein
+CFLHHANF_00110	gene			
+CFLHHANF_00111	CDS	hpt_1	2.4.2.8	Hypoxanthine/guanine phosphoribosyltransferase
+CFLHHANF_00111	gene	hpt_1		
+CFLHHANF_00112	CDS			50S ribosomal protein L10e
+CFLHHANF_00112	gene			
+CFLHHANF_00113	CDS			hypothetical protein
+CFLHHANF_00113	gene			
+CFLHHANF_00114	CDS			hypothetical protein
+CFLHHANF_00114	gene			
+CFLHHANF_00115	CDS			hypothetical protein
+CFLHHANF_00115	gene			
+CFLHHANF_00116	CDS			hypothetical protein
+CFLHHANF_00116	gene			
+CFLHHANF_00117	CDS			hypothetical protein
+CFLHHANF_00117	gene			
+CFLHHANF_00118	CDS			hypothetical protein
+CFLHHANF_00118	gene			
+CFLHHANF_00119	CDS			hypothetical protein
+CFLHHANF_00119	gene			
+CFLHHANF_00120	CDS			hypothetical protein
+CFLHHANF_00120	gene			
+CFLHHANF_00121	CDS			hypothetical protein
+CFLHHANF_00121	gene			
+CFLHHANF_00122	CDS			50S ribosomal protein L19e
+CFLHHANF_00122	gene			
+CFLHHANF_00123	CDS			50S ribosomal protein L32e
+CFLHHANF_00123	gene			
+CFLHHANF_00124	CDS	rpl6_1		50S ribosomal protein L6
+CFLHHANF_00124	gene	rpl6_1		
+CFLHHANF_00125	CDS	rps8_1		30S ribosomal protein S8
+CFLHHANF_00125	gene	rps8_1		
+CFLHHANF_00126	CDS			30S ribosomal protein S14 type Z
+CFLHHANF_00126	gene			
+CFLHHANF_00127	CDS	rpl5		50S ribosomal protein L5
+CFLHHANF_00127	gene	rpl5		
+CFLHHANF_00128	CDS	rps4e		30S ribosomal protein S4E
+CFLHHANF_00128	gene	rps4e		
+CFLHHANF_00129	CDS			50S ribosomal protein L24
+CFLHHANF_00129	gene			
+CFLHHANF_00130	CDS			50S ribosomal protein L14
+CFLHHANF_00130	gene			
+CFLHHANF_00131	CDS			30S ribosomal protein S17
+CFLHHANF_00131	gene			
+CFLHHANF_00132	CDS	rnp1	3.1.26.5	Ribonuclease P protein component 1
+CFLHHANF_00132	gene	rnp1		
+CFLHHANF_00133	CDS			hypothetical protein
+CFLHHANF_00133	gene			
+CFLHHANF_00134	CDS			50S ribosomal protein L29
+CFLHHANF_00134	gene			
+CFLHHANF_00135	CDS	galK_1	2.7.1.6	Galactokinase
+CFLHHANF_00135	gene	galK_1		
+CFLHHANF_00136	CDS	pyrB	2.1.3.2	Aspartate carbamoyltransferase
+CFLHHANF_00136	gene	pyrB		
+CFLHHANF_00137	CDS	pyrI		Aspartate carbamoyltransferase regulatory chain
+CFLHHANF_00137	gene	pyrI		
+CFLHHANF_00138	CDS			hypothetical protein
+CFLHHANF_00138	gene			
+CFLHHANF_00139	CDS	frc	2.8.3.16	Formyl-CoA:oxalate CoA-transferase
+CFLHHANF_00139	gene	frc		
+CFLHHANF_00140	CDS			hypothetical protein
+CFLHHANF_00140	gene			
+CFLHHANF_00141	CDS	rppH_1	3.6.1.-	RNA pyrophosphohydrolase
+CFLHHANF_00141	gene	rppH_1		
+CFLHHANF_00142	CDS			hypothetical protein
+CFLHHANF_00142	gene			
+CFLHHANF_00143	CDS			hypothetical protein
+CFLHHANF_00143	gene			
+CFLHHANF_00144	CDS			hypothetical protein
+CFLHHANF_00144	gene			
+CFLHHANF_00145	CDS	rlmH_1	2.1.1.177	Ribosomal RNA large subunit methyltransferase H
+CFLHHANF_00145	gene	rlmH_1		
+CFLHHANF_00146	CDS			50S ribosomal protein L15
+CFLHHANF_00146	gene			
+CFLHHANF_00147	CDS			50S ribosomal protein L30
+CFLHHANF_00147	gene			
+CFLHHANF_00148	CDS	rps5_1		30S ribosomal protein S5
+CFLHHANF_00148	gene	rps5_1		
+CFLHHANF_00149	CDS			hypothetical protein
+CFLHHANF_00149	gene			
+CFLHHANF_00150	CDS	sucD_1	6.2.1.5	Succinate--CoA ligase [ADP-forming] subunit alpha
+CFLHHANF_00150	gene	sucD_1		
+CFLHHANF_00151	CDS			hypothetical protein
+CFLHHANF_00151	gene			
+CFLHHANF_00152	CDS			hypothetical protein
+CFLHHANF_00152	gene			
+CFLHHANF_00153	CDS		6.2.1.40	4-hydroxybutyrate--CoA ligase 2
+CFLHHANF_00153	gene			
+CFLHHANF_00154	CDS	argO_1		Arginine exporter protein ArgO
+CFLHHANF_00154	gene	argO_1		
+CFLHHANF_00155	CDS			hypothetical protein
+CFLHHANF_00155	gene			
+CFLHHANF_00156	CDS			putative HTH-type transcriptional regulator
+CFLHHANF_00156	gene			
+CFLHHANF_00157	CDS		2.1.1.-	tRNA (cytosine(49)-C(5))-methyltransferase
+CFLHHANF_00157	gene			
+CFLHHANF_00158	CDS			hypothetical protein
+CFLHHANF_00158	gene			
+CFLHHANF_00159	CDS			hypothetical protein
+CFLHHANF_00159	gene			
+CFLHHANF_00160	CDS			hypothetical protein
+CFLHHANF_00160	gene			
+CFLHHANF_00161	CDS	dmsB		Putative dimethyl sulfoxide reductase iron-sulfur subunit B
+CFLHHANF_00161	gene	dmsB		
+CFLHHANF_00162	CDS	gloB_1	3.1.2.6	Hydroxyacylglutathione hydrolase
+CFLHHANF_00162	gene	gloB_1		
+CFLHHANF_00163	CDS			hypothetical protein
+CFLHHANF_00163	gene			
+CFLHHANF_00164	CDS	tusA_1	2.8.1.-	Sulfurtransferase TusA
+CFLHHANF_00164	gene	tusA_1		
+CFLHHANF_00165	CDS			hypothetical protein
+CFLHHANF_00165	gene			
+CFLHHANF_00166	CDS			hypothetical protein
+CFLHHANF_00166	gene			
+CFLHHANF_00167	CDS			hypothetical protein
+CFLHHANF_00167	gene			
+CFLHHANF_00168	CDS	fpoH_1	1.12.98.3	F(420)H(2) dehydrogenase subunit H
+CFLHHANF_00168	gene	fpoH_1		
+CFLHHANF_00169	CDS	fpoD_1	1.12.98.3	F(420)H(2) dehydrogenase subunit D
+CFLHHANF_00169	gene	fpoD_1		
+CFLHHANF_00170	CDS	nuoCD_1	1.6.5.11	NADH-quinone oxidoreductase subunit C/D
+CFLHHANF_00170	gene	nuoCD_1		
+CFLHHANF_00171	CDS			hypothetical protein
+CFLHHANF_00171	gene			
+CFLHHANF_00172	CDS			hypothetical protein
+CFLHHANF_00172	gene			
+CFLHHANF_00173	CDS	namA	1.6.99.1	NADPH dehydrogenase
+CFLHHANF_00173	gene	namA		
+CFLHHANF_00174	CDS	gatD	6.3.5.-	Glutamyl-tRNA(Gln) amidotransferase subunit D
+CFLHHANF_00174	gene	gatD		
+CFLHHANF_00175	CDS			hypothetical protein
+CFLHHANF_00175	gene			
+CFLHHANF_00176	CDS			hypothetical protein
+CFLHHANF_00176	gene			
+CFLHHANF_00177	CDS			Ribosome biogenesis protein Nop10
+CFLHHANF_00177	gene			
+CFLHHANF_00178	CDS	eif2a_1		Translation initiation factor 2 subunit alpha
+CFLHHANF_00178	gene	eif2a_1		
+CFLHHANF_00179	CDS			30S ribosomal protein S27e
+CFLHHANF_00179	gene			
+CFLHHANF_00180	CDS			50S ribosomal protein L44e
+CFLHHANF_00180	gene			
+CFLHHANF_00181	CDS			hypothetical protein
+CFLHHANF_00181	gene			
+CFLHHANF_00182	CDS			hypothetical protein
+CFLHHANF_00182	gene			
+CFLHHANF_00183	CDS			hypothetical protein
+CFLHHANF_00183	gene			
+CFLHHANF_00184	CDS	pycA_1	6.4.1.1	Pyruvate carboxylase subunit A
+CFLHHANF_00184	gene	pycA_1		
+	repeat_region			
+CFLHHANF_00185	CDS	rps7_1		30S ribosomal protein S7
+CFLHHANF_00185	gene	rps7_1		
+CFLHHANF_00186	CDS			30S ribosomal protein S12
+CFLHHANF_00186	gene			
+CFLHHANF_00187	CDS			hypothetical protein
+CFLHHANF_00187	gene			
+CFLHHANF_00188	CDS			hypothetical protein
+CFLHHANF_00188	gene			
+CFLHHANF_00189	CDS	folE_1	3.5.4.16	GTP cyclohydrolase 1
+CFLHHANF_00189	gene	folE_1		
+CFLHHANF_00190	CDS			hypothetical protein
+CFLHHANF_00190	gene			
+CFLHHANF_00191	CDS			hypothetical protein
+CFLHHANF_00191	gene			
+CFLHHANF_00192	CDS		5.1.99.1	Methylmalonyl-CoA epimerase
+CFLHHANF_00192	gene			
+CFLHHANF_00193	CDS			hypothetical protein
+CFLHHANF_00193	gene			
+CFLHHANF_00194	CDS	pqqB_1		Coenzyme PQQ synthesis protein B
+CFLHHANF_00194	gene	pqqB_1		
+CFLHHANF_00195	CDS	kbl_1	2.3.1.29	2-amino-3-ketobutyrate coenzyme A ligase
+CFLHHANF_00195	gene	kbl_1		
+CFLHHANF_00196	CDS	menI_1	3.1.2.28	1,4-dihydroxy-2-naphthoyl-CoA hydrolase
+CFLHHANF_00196	gene	menI_1		
+CFLHHANF_00197	CDS			hypothetical protein
+CFLHHANF_00197	gene			
+CFLHHANF_00198	CDS			hypothetical protein
+CFLHHANF_00198	gene			
+CFLHHANF_00199	CDS	gltA_1	2.3.3.16	Citrate synthase
+CFLHHANF_00199	gene	gltA_1		
+CFLHHANF_00200	CDS			hypothetical protein
+CFLHHANF_00200	gene			
+CFLHHANF_00201	CDS	rplO		50S ribosomal protein L15
+CFLHHANF_00201	gene	rplO		
+CFLHHANF_00202	CDS			hypothetical protein
+CFLHHANF_00202	gene			
+CFLHHANF_00203	CDS			hypothetical protein
+CFLHHANF_00203	gene			
+CFLHHANF_00204	CDS			hypothetical protein
+CFLHHANF_00204	gene			
+CFLHHANF_00205	CDS			hypothetical protein
+CFLHHANF_00205	gene			
+CFLHHANF_00206	CDS			hypothetical protein
+CFLHHANF_00206	gene			
+CFLHHANF_00207	CDS			hypothetical protein
+CFLHHANF_00207	gene			
+CFLHHANF_00208	CDS			hypothetical protein
+CFLHHANF_00208	gene			
+CFLHHANF_00209	CDS			hypothetical protein
+CFLHHANF_00209	gene			
+CFLHHANF_00210	CDS			hypothetical protein
+CFLHHANF_00210	gene			
+CFLHHANF_00211	CDS			hypothetical protein
+CFLHHANF_00211	gene			
+CFLHHANF_00212	CDS			hypothetical protein
+CFLHHANF_00212	gene			
+CFLHHANF_00213	CDS			hypothetical protein
+CFLHHANF_00213	gene			
+CFLHHANF_00214	CDS			hypothetical protein
+CFLHHANF_00214	gene			
+CFLHHANF_00215	CDS			hypothetical protein
+CFLHHANF_00215	gene			
+CFLHHANF_00216	CDS	ald_1	1.4.1.1	Alanine dehydrogenase
+CFLHHANF_00216	gene	ald_1		
+CFLHHANF_00217	CDS			hypothetical protein
+CFLHHANF_00217	gene			
+CFLHHANF_00218	CDS			hypothetical protein
+CFLHHANF_00218	gene			
+CFLHHANF_00219	CDS	tatC		Sec-independent protein translocase protein TatC
+CFLHHANF_00219	gene	tatC		
+CFLHHANF_00220	CDS			hypothetical protein
+CFLHHANF_00220	gene			
+CFLHHANF_00221	CDS	sufS_2	2.8.1.7	Cysteine desulfurase
+CFLHHANF_00221	gene	sufS_2		
+CFLHHANF_00222	CDS	sufE		Cysteine desulfuration protein SufE
+CFLHHANF_00222	gene	sufE		
+CFLHHANF_00223	CDS			hypothetical protein
+CFLHHANF_00223	gene			
+CFLHHANF_00224	CDS	folD		Bifunctional protein FolD protein
+CFLHHANF_00224	gene	folD		
+CFLHHANF_00225	tRNA			tRNA-Thr(tgt)
+CFLHHANF_00225	gene			
+CFLHHANF_00226	CDS			hypothetical protein
+CFLHHANF_00226	gene			
+CFLHHANF_00227	CDS			hypothetical protein
+CFLHHANF_00227	gene			
+CFLHHANF_00228	tRNA			tRNA-Cys(gca)
+CFLHHANF_00228	gene			
+CFLHHANF_00229	CDS			hypothetical protein
+CFLHHANF_00229	gene			
+CFLHHANF_00230	CDS			hypothetical protein
+CFLHHANF_00230	gene			
+CFLHHANF_00231	CDS		2.6.1.57	Aromatic-amino-acid aminotransferase 2
+CFLHHANF_00231	gene			
+CFLHHANF_00232	CDS	tuf_1		Elongation factor 1-alpha
+CFLHHANF_00232	gene	tuf_1		
+CFLHHANF_00233	CDS			30S ribosomal protein S10
+CFLHHANF_00233	gene			
+CFLHHANF_00234	CDS			hypothetical protein
+CFLHHANF_00234	gene			
+CFLHHANF_00235	CDS			hypothetical protein
+CFLHHANF_00235	gene			
+CFLHHANF_00236	CDS			hypothetical protein
+CFLHHANF_00236	gene			
+CFLHHANF_00237	CDS	purD_2	6.3.4.13	Phosphoribosylamine--glycine ligase
+CFLHHANF_00237	gene	purD_2		
+CFLHHANF_00238	CDS	carS_2	2.7.7.67	CDP-archaeol synthase
+CFLHHANF_00238	gene	carS_2		
+CFLHHANF_00239	CDS	guaB_1	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+CFLHHANF_00239	gene	guaB_1		
+CFLHHANF_00240	CDS			hypothetical protein
+CFLHHANF_00240	gene			
+CFLHHANF_00241	CDS			hypothetical protein
+CFLHHANF_00241	gene			
+CFLHHANF_00242	CDS			hypothetical protein
+CFLHHANF_00242	gene			
+CFLHHANF_00243	CDS	coxA2_2	1.9.3.1	Cytochrome c oxidase polypeptide 1
+CFLHHANF_00243	gene	coxA2_2		
+CFLHHANF_00244	CDS	rio1_1	2.7.11.1	RIO-type serine/threonine-protein kinase Rio1
+CFLHHANF_00244	gene	rio1_1		
+CFLHHANF_00245	CDS	eIF1A_1		Translation initiation factor 1A
+CFLHHANF_00245	gene	eIF1A_1		
+CFLHHANF_00246	CDS			hypothetical protein
+CFLHHANF_00246	gene			
+CFLHHANF_00247	CDS	fpoN_1	1.12.98.3	F(420)H(2) dehydrogenase subunit N
+CFLHHANF_00247	gene	fpoN_1		
+CFLHHANF_00248	CDS			hypothetical protein
+CFLHHANF_00248	gene			
+CFLHHANF_00249	CDS		3.4.21.62	Subtilisin-like serine protease
+CFLHHANF_00249	gene			
+CFLHHANF_00250	CDS			hypothetical protein
+CFLHHANF_00250	gene			
+CFLHHANF_00251	CDS	dxs_1	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+CFLHHANF_00251	gene	dxs_1		
+CFLHHANF_00252	CDS	cofH_1	2.5.1.77	FO synthase subunit 2
+CFLHHANF_00252	gene	cofH_1		
+CFLHHANF_00253	CDS	polB	2.7.7.7	DNA polymerase II small subunit
+CFLHHANF_00253	gene	polB		
+CFLHHANF_00254	CDS		3.1.3.3	Phosphoserine phosphatase
+CFLHHANF_00254	gene			
+CFLHHANF_00255	CDS			hypothetical protein
+CFLHHANF_00255	gene			
+CFLHHANF_00256	CDS	tatAt		Sec-independent protein translocase protein TatAt
+CFLHHANF_00256	gene	tatAt		
+CFLHHANF_00257	CDS	nob1	3.1.-.-	Endoribonuclease Nob1
+CFLHHANF_00257	gene	nob1		
+CFLHHANF_00258	CDS			hypothetical protein
+CFLHHANF_00258	gene			
+CFLHHANF_00259	CDS	resA_1		Thiol-disulfide oxidoreductase ResA
+CFLHHANF_00259	gene	resA_1		
+CFLHHANF_00260	CDS			hypothetical protein
+CFLHHANF_00260	gene			
+CFLHHANF_00261	CDS	arcS_1	2.6.1.97	Archaeosine synthase
+CFLHHANF_00261	gene	arcS_1		
+CFLHHANF_00262	CDS			hypothetical protein
+CFLHHANF_00262	gene			
+CFLHHANF_00263	CDS			hypothetical protein
+CFLHHANF_00263	gene			
+CFLHHANF_00264	CDS			hypothetical protein
+CFLHHANF_00264	gene			
+CFLHHANF_00265	CDS			hypothetical protein
+CFLHHANF_00265	gene			
+CFLHHANF_00266	CDS			hypothetical protein
+CFLHHANF_00266	gene			
+CFLHHANF_00267	CDS			hypothetical protein
+CFLHHANF_00267	gene			
+CFLHHANF_00268	CDS			hypothetical protein
+CFLHHANF_00268	gene			
+CFLHHANF_00269	CDS			hypothetical protein
+CFLHHANF_00269	gene			
+CFLHHANF_00270	CDS			hypothetical protein
+CFLHHANF_00270	gene			
+CFLHHANF_00271	CDS	tfrB_1	1.3.4.1	Fumarate reductase (CoM/CoB) subunit B
+CFLHHANF_00271	gene	tfrB_1		
+CFLHHANF_00272	CDS	tfrA_1	1.3.4.1	Fumarate reductase (CoM/CoB) subunit A
+CFLHHANF_00272	gene	tfrA_1		
+CFLHHANF_00273	CDS	fbiB_1	6.3.2.34	Coenzyme F420:L-glutamate ligase
+CFLHHANF_00273	gene	fbiB_1		
+CFLHHANF_00274	CDS			hypothetical protein
+CFLHHANF_00274	gene			
+CFLHHANF_00275	CDS			hypothetical protein
+CFLHHANF_00275	gene			
+CFLHHANF_00276	CDS			hypothetical protein
+CFLHHANF_00276	gene			
+CFLHHANF_00277	CDS		5.2.1.8	FKBP-type peptidyl-prolyl cis-trans isomerase
+CFLHHANF_00277	gene			
+CFLHHANF_00278	CDS	entS		Enterobactin exporter EntS
+CFLHHANF_00278	gene	entS		
+CFLHHANF_00279	CDS			hypothetical protein
+CFLHHANF_00279	gene			
+CFLHHANF_00280	CDS	malK_1	3.6.3.19	Trehalose/maltose import ATP-binding protein MalK
+CFLHHANF_00280	gene	malK_1		
+CFLHHANF_00281	CDS			putative ABC transporter ATP-binding protein
+CFLHHANF_00281	gene			
+CFLHHANF_00282	CDS			hypothetical protein
+CFLHHANF_00282	gene			
+CFLHHANF_00283	CDS			hypothetical protein
+CFLHHANF_00283	gene			
+CFLHHANF_00284	CDS			hypothetical protein
+CFLHHANF_00284	gene			
+CFLHHANF_00285	CDS			hypothetical protein
+CFLHHANF_00285	gene			
+CFLHHANF_00286	CDS			hypothetical protein
+CFLHHANF_00286	gene			
+CFLHHANF_00287	CDS	livG		putative branched-chain amino acid transport ATP-binding protein LivG
+CFLHHANF_00287	gene	livG		
+CFLHHANF_00288	CDS			hypothetical protein
+CFLHHANF_00288	gene			
+CFLHHANF_00289	CDS	xerA		Tyrosine recombinase XerA
+CFLHHANF_00289	gene	xerA		
+CFLHHANF_00290	CDS	cofF	6.3.2.32	Coenzyme gamma-F420-2:alpha-L-glutamate ligase
+CFLHHANF_00290	gene	cofF		
+CFLHHANF_00291	CDS			hypothetical protein
+CFLHHANF_00291	gene			
+CFLHHANF_00292	CDS			hypothetical protein
+CFLHHANF_00292	gene			
+CFLHHANF_00293	CDS			hypothetical protein
+CFLHHANF_00293	gene			
+CFLHHANF_00294	CDS	hisS_1	6.1.1.21	Histidine--tRNA ligase
+CFLHHANF_00294	gene	hisS_1		
+CFLHHANF_00295	CDS			hypothetical protein
+CFLHHANF_00295	gene			
+CFLHHANF_00296	CDS			hypothetical protein
+CFLHHANF_00296	gene			
+CFLHHANF_00297	CDS			hypothetical protein
+CFLHHANF_00297	gene			
+CFLHHANF_00298	CDS	thrS	6.1.1.3	Threonine--tRNA ligase
+CFLHHANF_00298	gene	thrS		
+CFLHHANF_00299	CDS			hypothetical protein
+CFLHHANF_00299	gene			
+CFLHHANF_00300	CDS			hypothetical protein
+CFLHHANF_00300	gene			
+CFLHHANF_00301	CDS	leuC	4.2.1.33	Isopropylmalate/citramalate isomerase large subunit
+CFLHHANF_00301	gene	leuC		
+CFLHHANF_00302	CDS			hypothetical protein
+CFLHHANF_00302	gene			
+CFLHHANF_00303	CDS			hypothetical protein
+CFLHHANF_00303	gene			
+CFLHHANF_00304	CDS			50S ribosomal protein L44e
+CFLHHANF_00304	gene			
+CFLHHANF_00305	CDS			30S ribosomal protein S27e
+CFLHHANF_00305	gene			
+CFLHHANF_00306	CDS			hypothetical protein
+CFLHHANF_00306	gene			
+CFLHHANF_00307	CDS			hypothetical protein
+CFLHHANF_00307	gene			
+CFLHHANF_00308	CDS	argS_2	6.1.1.19	Arginine--tRNA ligase
+CFLHHANF_00308	gene	argS_2		
+CFLHHANF_00309	CDS	prf1_1		Peptide chain release factor subunit 1
+CFLHHANF_00309	gene	prf1_1		
+CFLHHANF_00310	CDS			hypothetical protein
+CFLHHANF_00310	gene			
+CFLHHANF_00311	CDS	top6A	5.99.1.3	Type 2 DNA topoisomerase 6 subunit A
+CFLHHANF_00311	gene	top6A		
+CFLHHANF_00312	CDS			hypothetical protein
+CFLHHANF_00312	gene			
+CFLHHANF_00313	CDS		1.2.1.26	Alpha-ketoglutarate semialdehyde dehydrogenase
+CFLHHANF_00313	gene			
+CFLHHANF_00314	CDS	pgk2_1	2.7.2.-	2-phosphoglycerate kinase
+CFLHHANF_00314	gene	pgk2_1		
+CFLHHANF_00315	CDS		4.2.1.116	3-hydroxypropionyl-coenzyme A dehydratase
+CFLHHANF_00315	gene			
+CFLHHANF_00316	CDS			hypothetical protein
+CFLHHANF_00316	gene			
+CFLHHANF_00317	CDS		3.6.1.9	Non-canonical purine NTP pyrophosphatase
+CFLHHANF_00317	gene			
+CFLHHANF_00318	CDS			hypothetical protein
+CFLHHANF_00318	gene			
+CFLHHANF_00319	CDS			hypothetical protein
+CFLHHANF_00319	gene			
+CFLHHANF_00320	CDS			hypothetical protein
+CFLHHANF_00320	gene			
+CFLHHANF_00321	CDS			hypothetical protein
+CFLHHANF_00321	gene			
+CFLHHANF_00322	CDS	rlmH_2	2.1.1.177	Ribosomal RNA large subunit methyltransferase H
+CFLHHANF_00322	gene	rlmH_2		
+CFLHHANF_00323	CDS			hypothetical protein
+CFLHHANF_00323	gene			
+CFLHHANF_00324	CDS			hypothetical protein
+CFLHHANF_00324	gene			
+CFLHHANF_00325	CDS			hypothetical protein
+CFLHHANF_00325	gene			
+CFLHHANF_00326	CDS	pta_1	2.3.1.8	Phosphate acetyltransferase
+CFLHHANF_00326	gene	pta_1		
+CFLHHANF_00327	CDS			hypothetical protein
+CFLHHANF_00327	gene			
+CFLHHANF_00328	CDS			hypothetical protein
+CFLHHANF_00328	gene			
+CFLHHANF_00329	CDS			hypothetical protein
+CFLHHANF_00329	gene			
+CFLHHANF_00330	CDS		1.2.1.75	Malonyl CoA reductase (NADP)
+CFLHHANF_00330	gene			
+CFLHHANF_00331	CDS	prmA	2.1.1.-	Ribosomal protein L11 methyltransferase
+CFLHHANF_00331	gene	prmA		
+CFLHHANF_00332	CDS	csl4		Exosome complex component Csl4
+CFLHHANF_00332	gene	csl4		
+CFLHHANF_00333	CDS	grpE_1		Protein GrpE
+CFLHHANF_00333	gene	grpE_1		
+CFLHHANF_00334	CDS	btuD_1	3.6.3.33	Cobalamin import ATP-binding protein BtuD
+CFLHHANF_00334	gene	btuD_1		
+CFLHHANF_00335	CDS			hypothetical protein
+CFLHHANF_00335	gene			
+CFLHHANF_00336	CDS			hypothetical protein
+CFLHHANF_00336	gene			
+CFLHHANF_00337	CDS	dadA_1	1.4.99.-	D-amino acid dehydrogenase
+CFLHHANF_00337	gene	dadA_1		
+CFLHHANF_00338	CDS	sucD_2	6.2.1.5	Succinate--CoA ligase [ADP-forming] subunit alpha
+CFLHHANF_00338	gene	sucD_2		
+CFLHHANF_00339	CDS			hypothetical protein
+CFLHHANF_00339	gene			
+CFLHHANF_00340	CDS	glmU		Bifunctional protein GlmU
+CFLHHANF_00340	gene	glmU		
+CFLHHANF_00341	CDS			hypothetical protein
+CFLHHANF_00341	gene			
+CFLHHANF_00342	CDS	ileS_1	6.1.1.5	Isoleucine--tRNA ligase
+CFLHHANF_00342	gene	ileS_1		
+CFLHHANF_00343	CDS			hypothetical protein
+CFLHHANF_00343	gene			
+CFLHHANF_00344	CDS			Small-conductance mechanosensitive channel MscMJ
+CFLHHANF_00344	gene			
+CFLHHANF_00345	CDS	bat		Bacterioopsin transcriptional activator
+CFLHHANF_00345	gene	bat		
+CFLHHANF_00346	CDS			hypothetical protein
+CFLHHANF_00346	gene			
+CFLHHANF_00347	CDS			hypothetical protein
+CFLHHANF_00347	gene			
+CFLHHANF_00348	CDS	sdx_1		Sulredoxin
+CFLHHANF_00348	gene	sdx_1		
+CFLHHANF_00349	CDS			hypothetical protein
+CFLHHANF_00349	gene			
+CFLHHANF_00350	CDS			hypothetical protein
+CFLHHANF_00350	gene			
+CFLHHANF_00351	CDS			hypothetical protein
+CFLHHANF_00351	gene			
+CFLHHANF_00352	CDS			hypothetical protein
+CFLHHANF_00352	gene			
+CFLHHANF_00353	CDS	aroB'	1.4.1.24	3-dehydroquinate synthase
+CFLHHANF_00353	gene	aroB'		
+CFLHHANF_00354	CDS	aroA'	2.2.1.10	2-amino-3,7-dideoxy-D-threo-hept-6-ulosonate synthase
+CFLHHANF_00354	gene	aroA'		
+CFLHHANF_00355	CDS			hypothetical protein
+CFLHHANF_00355	gene			
+CFLHHANF_00356	CDS			putative ABC transporter ATP-binding protein
+CFLHHANF_00356	gene			
+CFLHHANF_00357	CDS		1.11.1.15	Peroxiredoxin
+CFLHHANF_00357	gene			
+CFLHHANF_00358	CDS	ribA_1	3.5.4.25	GTP cyclohydrolase-2
+CFLHHANF_00358	gene	ribA_1		
+CFLHHANF_00359	CDS	arcS_2	2.6.1.97	Archaeosine synthase
+CFLHHANF_00359	gene	arcS_2		
+CFLHHANF_00360	CDS			30S ribosomal protein S15
+CFLHHANF_00360	gene			
+CFLHHANF_00361	CDS			hypothetical protein
+CFLHHANF_00361	gene			
+CFLHHANF_00362	CDS			hypothetical protein
+CFLHHANF_00362	gene			
+CFLHHANF_00363	CDS	hldE_1	2.7.7.70	Bifunctional protein HldE
+CFLHHANF_00363	gene	hldE_1		
+CFLHHANF_00364	CDS	pycA_2	6.4.1.1	Pyruvate carboxylase subunit A
+CFLHHANF_00364	gene	pycA_2		
+CFLHHANF_00365	CDS	rgy1		Reverse gyrase 1
+CFLHHANF_00365	gene	rgy1		
+CFLHHANF_00366	CDS		1.3.7.11	Digeranylgeranylglycerophospholipid reductase
+CFLHHANF_00366	gene			
+CFLHHANF_00367	CDS			hypothetical protein
+CFLHHANF_00367	gene			
+CFLHHANF_00368	CDS			hypothetical protein
+CFLHHANF_00368	gene			
+CFLHHANF_00369	CDS			hypothetical protein
+CFLHHANF_00369	gene			
+CFLHHANF_00370	CDS			hypothetical protein
+CFLHHANF_00370	gene			
+CFLHHANF_00371	CDS	purQ	3.5.1.2	Phosphoribosylformylglycinamidine synthase subunit PurQ
+CFLHHANF_00371	gene	purQ		
+CFLHHANF_00372	CDS	purL	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurL
+CFLHHANF_00372	gene	purL		
+CFLHHANF_00373	CDS			hypothetical protein
+CFLHHANF_00373	gene			
+CFLHHANF_00374	CDS			hypothetical protein
+CFLHHANF_00374	gene			
+CFLHHANF_00375	CDS			hypothetical protein
+CFLHHANF_00375	gene			
+CFLHHANF_00376	CDS			hypothetical protein
+CFLHHANF_00376	gene			
+CFLHHANF_00377	CDS			hypothetical protein
+CFLHHANF_00377	gene			
+CFLHHANF_00378	CDS			hypothetical protein
+CFLHHANF_00378	gene			
+CFLHHANF_00379	CDS			hypothetical protein
+CFLHHANF_00379	gene			
+CFLHHANF_00380	CDS			hypothetical protein
+CFLHHANF_00380	gene			
+CFLHHANF_00381	CDS			hypothetical protein
+CFLHHANF_00381	gene			
+CFLHHANF_00382	CDS	mptE	2.7.6.3	6-hydroxymethyl-7,8-dihydropterin pyrophosphokinase
+CFLHHANF_00382	gene	mptE		
+CFLHHANF_00383	CDS	polC_1	2.7.7.7	DNA polymerase II large subunit
+CFLHHANF_00383	gene	polC_1		
+CFLHHANF_00384	CDS			hypothetical protein
+CFLHHANF_00384	gene			
+CFLHHANF_00385	CDS			hypothetical protein
+CFLHHANF_00385	gene			
+CFLHHANF_00386	CDS	rnj	3.1.-.-	Ribonuclease J
+CFLHHANF_00386	gene	rnj		
+CFLHHANF_00387	CDS	psmB_1	3.4.25.1	Proteasome subunit beta
+CFLHHANF_00387	gene	psmB_1		
+CFLHHANF_00388	CDS			hypothetical protein
+CFLHHANF_00388	gene			
+CFLHHANF_00389	CDS			hypothetical protein
+CFLHHANF_00389	gene			
+CFLHHANF_00390	CDS			hypothetical protein
+CFLHHANF_00390	gene			
+CFLHHANF_00391	CDS			hypothetical protein
+CFLHHANF_00391	gene			
+CFLHHANF_00392	CDS			hypothetical protein
+CFLHHANF_00392	gene			
+CFLHHANF_00393	CDS	priS_1	2.7.7.-	DNA primase small subunit PriS
+CFLHHANF_00393	gene	priS_1		
+CFLHHANF_00394	CDS			hypothetical protein
+CFLHHANF_00394	gene			
+CFLHHANF_00395	CDS			hypothetical protein
+CFLHHANF_00395	gene			
+CFLHHANF_00396	tRNA			tRNA-Gly(gcc)
+CFLHHANF_00396	gene			
+CFLHHANF_00397	CDS			hypothetical protein
+CFLHHANF_00397	gene			
+CFLHHANF_00398	CDS			hypothetical protein
+CFLHHANF_00398	gene			
+CFLHHANF_00399	CDS		3.5.3.24	N(1)-aminopropylagmatine ureohydrolase
+CFLHHANF_00399	gene			
+CFLHHANF_00400	CDS			hypothetical protein
+CFLHHANF_00400	gene			
+CFLHHANF_00401	tRNA			tRNA-His(gtg)
+CFLHHANF_00401	gene			
+CFLHHANF_00402	CDS	ribA_2	3.5.4.25	GTP cyclohydrolase-2
+CFLHHANF_00402	gene	ribA_2		
+CFLHHANF_00403	CDS	tusA_2	2.8.1.-	Sulfurtransferase TusA
+CFLHHANF_00403	gene	tusA_2		
+CFLHHANF_00404	CDS		3.6.4.13	putative ATP-dependent RNA helicase
+CFLHHANF_00404	gene			
+CFLHHANF_00405	CDS			hypothetical protein
+CFLHHANF_00405	gene			
+CFLHHANF_00406	CDS			hypothetical protein
+CFLHHANF_00406	gene			
+CFLHHANF_00407	CDS	pol_1	2.7.7.7	DNA polymerase
+CFLHHANF_00407	gene	pol_1		
+CFLHHANF_00408	CDS			hypothetical protein
+CFLHHANF_00408	gene			
+CFLHHANF_00409	CDS			hypothetical protein
+CFLHHANF_00409	gene			
+CFLHHANF_00410	CDS			hypothetical protein
+CFLHHANF_00410	gene			
+CFLHHANF_00411	CDS	wtpC_1	3.6.3.-	Molybdate/tungstate import ATP-binding protein WtpC
+CFLHHANF_00411	gene	wtpC_1		
+CFLHHANF_00412	CDS			hypothetical protein
+CFLHHANF_00412	gene			
+CFLHHANF_00413	CDS			hypothetical protein
+CFLHHANF_00413	gene			
+CFLHHANF_00414	CDS		4.2.1.116	3-hydroxypropionyl-coenzyme A dehydratase
+CFLHHANF_00414	gene			
+CFLHHANF_00415	CDS			hypothetical protein
+CFLHHANF_00415	gene			
+CFLHHANF_00416	CDS			hypothetical protein
+CFLHHANF_00416	gene			
+CFLHHANF_00417	CDS			hypothetical protein
+CFLHHANF_00417	gene			
+CFLHHANF_00418	CDS	mwoIM	2.1.1.113	Modification methylase MwoI
+CFLHHANF_00418	gene	mwoIM		
+CFLHHANF_00419	CDS			hypothetical protein
+CFLHHANF_00419	gene			
+CFLHHANF_00420	CDS			50S ribosomal protein L21e
+CFLHHANF_00420	gene			
+CFLHHANF_00421	CDS		5.4.99.-	tRNA pseudouridine synthase Pus10
+CFLHHANF_00421	gene			
+CFLHHANF_00422	CDS			hypothetical protein
+CFLHHANF_00422	gene			
+CFLHHANF_00423	CDS			hypothetical protein
+CFLHHANF_00423	gene			
+CFLHHANF_00424	CDS	gyrB_2	5.99.1.3	DNA gyrase subunit B
+CFLHHANF_00424	gene	gyrB_2		
+CFLHHANF_00425	CDS			hypothetical protein
+CFLHHANF_00425	gene			
+CFLHHANF_00426	CDS	icd_1	1.1.1.42	Isocitrate dehydrogenase [NADP]
+CFLHHANF_00426	gene	icd_1		
+CFLHHANF_00427	CDS		3.6.4.13	putative ATP-dependent RNA helicase
+CFLHHANF_00427	gene			
+CFLHHANF_00428	CDS			hypothetical protein
+CFLHHANF_00428	gene			
+CFLHHANF_00429	CDS			hypothetical protein
+CFLHHANF_00429	gene			
+CFLHHANF_00430	CDS			hypothetical protein
+CFLHHANF_00430	gene			
+CFLHHANF_00431	CDS			hypothetical protein
+CFLHHANF_00431	gene			
+CFLHHANF_00432	CDS			hypothetical protein
+CFLHHANF_00432	gene			
+CFLHHANF_00433	tRNA			tRNA-Lys(ttt)
+CFLHHANF_00433	gene			
+CFLHHANF_00434	CDS	rpoH	2.7.7.6	DNA-directed RNA polymerase subunit H
+CFLHHANF_00434	gene	rpoH		
+CFLHHANF_00435	CDS			hypothetical protein
+CFLHHANF_00435	gene			
+CFLHHANF_00436	CDS			hypothetical protein
+CFLHHANF_00436	gene			
+CFLHHANF_00437	CDS	pyrF_1	4.1.1.23	Orotidine 5'-phosphate decarboxylase
+CFLHHANF_00437	gene	pyrF_1		
+CFLHHANF_00438	CDS			hypothetical protein
+CFLHHANF_00438	gene			
+CFLHHANF_00439	CDS			hypothetical protein
+CFLHHANF_00439	gene			
+CFLHHANF_00440	CDS	ftsY_2		Signal recognition particle receptor FtsY
+CFLHHANF_00440	gene	ftsY_2		
+CFLHHANF_00441	CDS	pfdA_2		Prefoldin subunit alpha
+CFLHHANF_00441	gene	pfdA_2		
+CFLHHANF_00442	CDS	ribA_3	3.5.4.25	GTP cyclohydrolase-2
+CFLHHANF_00442	gene	ribA_3		
+CFLHHANF_00443	tRNA			tRNA-His(gtg)
+CFLHHANF_00443	gene			
+CFLHHANF_00444	CDS			hypothetical protein
+CFLHHANF_00444	gene			
+CFLHHANF_00445	CDS	truB	5.4.99.25	putative tRNA pseudouridine synthase B
+CFLHHANF_00445	gene	truB		
+CFLHHANF_00446	CDS	cmk	2.7.4.25	Cytidylate kinase
+CFLHHANF_00446	gene	cmk		
+CFLHHANF_00447	CDS	thsA_1		Thermosome subunit alpha
+CFLHHANF_00447	gene	thsA_1		
+CFLHHANF_00448	CDS			hypothetical protein
+CFLHHANF_00448	gene			
+CFLHHANF_00449	CDS			hypothetical protein
+CFLHHANF_00449	gene			
+CFLHHANF_00450	CDS			putative bifunctional tRNA threonylcarbamoyladenosine biosynthesis protein
+CFLHHANF_00450	gene			
+CFLHHANF_00451	CDS	hutI	3.5.2.7	Imidazolonepropionase
+CFLHHANF_00451	gene	hutI		
+CFLHHANF_00452	tRNA			tRNA-Val(gac)
+CFLHHANF_00452	gene			
+CFLHHANF_00453	CDS	alaXM_1		Alanyl-tRNA editing protein AlaX-M
+CFLHHANF_00453	gene	alaXM_1		
+CFLHHANF_00454	CDS	hutH_1	4.3.1.3	Histidine ammonia-lyase
+CFLHHANF_00454	gene	hutH_1		
+CFLHHANF_00455	CDS	hutU_1	4.2.1.49	Urocanate hydratase
+CFLHHANF_00455	gene	hutU_1		
+CFLHHANF_00456	CDS			hypothetical protein
+CFLHHANF_00456	gene			
+CFLHHANF_00457	CDS		2.1.2.5	Glutamate formimidoyltransferase
+CFLHHANF_00457	gene			
+CFLHHANF_00458	CDS	pan_1		Proteasome-activating nucleotidase
+CFLHHANF_00458	gene	pan_1		
+CFLHHANF_00459	CDS			hypothetical protein
+CFLHHANF_00459	gene			
+CFLHHANF_00460	CDS			putative ribosome biogenesis protein
+CFLHHANF_00460	gene			
+CFLHHANF_00461	CDS	metG	6.1.1.10	Methionine--tRNA ligase
+CFLHHANF_00461	gene	metG		
+CFLHHANF_00462	CDS			hypothetical protein
+CFLHHANF_00462	gene			
+CFLHHANF_00463	CDS			hypothetical protein
+CFLHHANF_00463	gene			
+CFLHHANF_00464	CDS			hypothetical protein
+CFLHHANF_00464	gene			
+CFLHHANF_00465	CDS	priS_2	2.7.7.-	DNA primase small subunit PriS
+CFLHHANF_00465	gene	priS_2		
+CFLHHANF_00466	CDS			hypothetical protein
+CFLHHANF_00466	gene			
+CFLHHANF_00467	CDS	mqnD_1	4.1.-.-	1,4-dihydroxy-6-naphtoate synthase
+CFLHHANF_00467	gene	mqnD_1		
+CFLHHANF_00468	CDS			hypothetical protein
+CFLHHANF_00468	gene			
+CFLHHANF_00469	CDS	mqnA_1	4.2.1.151	Chorismate dehydratase
+CFLHHANF_00469	gene	mqnA_1		
+CFLHHANF_00470	CDS	cofH_2	2.5.1.77	FO synthase subunit 2
+CFLHHANF_00470	gene	cofH_2		
+CFLHHANF_00471	CDS	dxs_2	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+CFLHHANF_00471	gene	dxs_2		
+CFLHHANF_00472	CDS	dxs_3	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+CFLHHANF_00472	gene	dxs_3		
+CFLHHANF_00473	CDS			hypothetical protein
+CFLHHANF_00473	gene			
+CFLHHANF_00474	CDS	proS_1	6.1.1.15	Proline--tRNA ligase
+CFLHHANF_00474	gene	proS_1		
+CFLHHANF_00475	CDS			hypothetical protein
+CFLHHANF_00475	gene			
+CFLHHANF_00476	CDS			hypothetical protein
+CFLHHANF_00476	gene			
+CFLHHANF_00477	CDS	fadA_1	2.3.1.16	3-ketoacyl-CoA thiolase
+CFLHHANF_00477	gene	fadA_1		
+CFLHHANF_00478	CDS	kptA	2.7.1.-	putative RNA 2'-phosphotransferase
+CFLHHANF_00478	gene	kptA		
+CFLHHANF_00479	CDS		2.7.4.26	Isopentenyl phosphate kinase
+CFLHHANF_00479	gene			
+CFLHHANF_00480	CDS	gds	2.5.1.29	Geranylgeranyl diphosphate synthase
+CFLHHANF_00480	gene	gds		
+CFLHHANF_00481	CDS	fusA		Elongation factor 2
+CFLHHANF_00481	gene	fusA		
+CFLHHANF_00482	CDS	rps7_2		30S ribosomal protein S7
+CFLHHANF_00482	gene	rps7_2		
+CFLHHANF_00483	CDS			30S ribosomal protein S12
+CFLHHANF_00483	gene			
+CFLHHANF_00484	CDS		4.1.1.-	UbiD-like decarboxylase
+CFLHHANF_00484	gene			
+CFLHHANF_00485	CDS			hypothetical protein
+CFLHHANF_00485	gene			
+CFLHHANF_00486	CDS			hypothetical protein
+CFLHHANF_00486	gene			
+CFLHHANF_00487	CDS			hypothetical protein
+CFLHHANF_00487	gene			
+CFLHHANF_00488	CDS	ppaC	3.6.1.1	Manganese-dependent inorganic pyrophosphatase
+CFLHHANF_00488	gene	ppaC		
+CFLHHANF_00489	CDS			hypothetical protein
+CFLHHANF_00489	gene			
+CFLHHANF_00490	CDS			hypothetical protein
+CFLHHANF_00490	gene			
+CFLHHANF_00491	CDS			50S ribosomal protein L37Ae
+CFLHHANF_00491	gene			
+CFLHHANF_00492	CDS			Exosome complex component Rrp42
+CFLHHANF_00492	gene			
+CFLHHANF_00493	CDS		3.1.13.-	Exosome complex component Rrp41
+CFLHHANF_00493	gene			
+CFLHHANF_00494	CDS	rrp4_2		Exosome complex component Rrp4
+CFLHHANF_00494	gene	rrp4_2		
+CFLHHANF_00495	CDS			hypothetical protein
+CFLHHANF_00495	gene			
+CFLHHANF_00496	CDS			Ribosome maturation protein SDO1 
+CFLHHANF_00496	gene			
+CFLHHANF_00497	CDS	psmA	3.4.25.1	Proteasome subunit alpha
+CFLHHANF_00497	gene	psmA		
+CFLHHANF_00498	CDS			hypothetical protein
+CFLHHANF_00498	gene			
+CFLHHANF_00499	CDS	fumC	4.2.1.2	Fumarate hydratase class II
+CFLHHANF_00499	gene	fumC		
+CFLHHANF_00500	CDS			hypothetical protein
+CFLHHANF_00500	gene			
+CFLHHANF_00501	CDS			hypothetical protein
+CFLHHANF_00501	gene			
+CFLHHANF_00502	CDS	tiaS	6.3.4.22	tRNA(Ile2) 2-agmatinylcytidine synthetase TiaS
+CFLHHANF_00502	gene	tiaS		
+CFLHHANF_00503	CDS	hisB	4.2.1.19	Histidine biosynthesis bifunctional protein HisB
+CFLHHANF_00503	gene	hisB		
+CFLHHANF_00504	CDS	gmhA	5.3.1.28	Phosphoheptose isomerase
+CFLHHANF_00504	gene	gmhA		
+CFLHHANF_00505	CDS			hypothetical protein
+CFLHHANF_00505	gene			
+CFLHHANF_00506	CDS		3.6.4.12	ATP-dependent DNA helicase Hel308
+CFLHHANF_00506	gene			
+CFLHHANF_00507	CDS	proS_2	6.1.1.15	Proline--tRNA ligase
+CFLHHANF_00507	gene	proS_2		
+CFLHHANF_00508	CDS	rfcL		Replication factor C large subunit
+CFLHHANF_00508	gene	rfcL		
+CFLHHANF_00509	CDS			hypothetical protein
+CFLHHANF_00509	gene			
+CFLHHANF_00510	CDS			hypothetical protein
+CFLHHANF_00510	gene			
+CFLHHANF_00511	CDS			hypothetical protein
+CFLHHANF_00511	gene			
+CFLHHANF_00512	CDS			hypothetical protein
+CFLHHANF_00512	gene			
+CFLHHANF_00513	CDS			hypothetical protein
+CFLHHANF_00513	gene			
+CFLHHANF_00514	CDS			hypothetical protein
+CFLHHANF_00514	gene			
+CFLHHANF_00515	CDS			hypothetical protein
+CFLHHANF_00515	gene			
+CFLHHANF_00516	CDS			hypothetical protein
+CFLHHANF_00516	gene			
+CFLHHANF_00517	CDS			hypothetical protein
+CFLHHANF_00517	gene			
+CFLHHANF_00518	CDS			hypothetical protein
+CFLHHANF_00518	gene			
+CFLHHANF_00519	CDS			hypothetical protein
+CFLHHANF_00519	gene			
+CFLHHANF_00520	CDS	rtcB	6.5.1.-	tRNA-splicing ligase RtcB
+CFLHHANF_00520	gene	rtcB		
+CFLHHANF_00521	CDS			hypothetical protein
+CFLHHANF_00521	gene			
+CFLHHANF_00522	CDS			hypothetical protein
+CFLHHANF_00522	gene			
+CFLHHANF_00523	CDS	ileS_2	6.1.1.5	Isoleucine--tRNA ligase
+CFLHHANF_00523	gene	ileS_2		
+CFLHHANF_00524	CDS			hypothetical protein
+CFLHHANF_00524	gene			
+CFLHHANF_00525	CDS			hypothetical protein
+CFLHHANF_00525	gene			
+CFLHHANF_00526	CDS			50S ribosomal protein L10e
+CFLHHANF_00526	gene			
+CFLHHANF_00527	CDS	hpt_2	2.4.2.8	Hypoxanthine/guanine phosphoribosyltransferase
+CFLHHANF_00527	gene	hpt_2		
+CFLHHANF_00528	CDS	rutA	1.14.99.46	Pyrimidine monooxygenase RutA
+CFLHHANF_00528	gene	rutA		
+CFLHHANF_00529	CDS			hypothetical protein
+CFLHHANF_00529	gene			
+CFLHHANF_00530	CDS			hypothetical protein
+CFLHHANF_00530	gene			
+CFLHHANF_00531	CDS			putative ABC transporter ATP-binding protein
+CFLHHANF_00531	gene			
+CFLHHANF_00532	CDS			hypothetical protein
+CFLHHANF_00532	gene			
+CFLHHANF_00533	CDS	hacB	4.2.1.114	Methanogen homoaconitase small subunit
+CFLHHANF_00533	gene	hacB		
+CFLHHANF_00534	CDS			hypothetical protein
+CFLHHANF_00534	gene			
+CFLHHANF_00535	CDS	rhlE	3.6.4.13	ATP-dependent RNA helicase RhlE
+CFLHHANF_00535	gene	rhlE		
+CFLHHANF_00536	CDS			hypothetical protein
+CFLHHANF_00536	gene			
+CFLHHANF_00537	CDS			hypothetical protein
+CFLHHANF_00537	gene			
+CFLHHANF_00538	CDS			hypothetical protein
+CFLHHANF_00538	gene			
+CFLHHANF_00539	CDS	moaE	2.8.1.-	putative molybdopterin synthase
+CFLHHANF_00539	gene	moaE		
+CFLHHANF_00540	CDS	moaC	4.6.1.17	putative cyclic pyranopterin monophosphate synthase
+CFLHHANF_00540	gene	moaC		
+CFLHHANF_00541	CDS			hypothetical protein
+CFLHHANF_00541	gene			
+CFLHHANF_00542	CDS	fda_1	4.1.2.13	Fructose-bisphosphate aldolase class 1
+CFLHHANF_00542	gene	fda_1		
+CFLHHANF_00543	CDS			hypothetical protein
+CFLHHANF_00543	gene			
+CFLHHANF_00544	CDS			hypothetical protein
+CFLHHANF_00544	gene			
+CFLHHANF_00545	CDS			hypothetical protein
+CFLHHANF_00545	gene			
+CFLHHANF_00546	CDS			hypothetical protein
+CFLHHANF_00546	gene			
+CFLHHANF_00547	CDS	fdhD_1		Protein FdhD
+CFLHHANF_00547	gene	fdhD_1		
+CFLHHANF_00548	CDS			hypothetical protein
+CFLHHANF_00548	gene			
+CFLHHANF_00549	CDS			hypothetical protein
+CFLHHANF_00549	gene			
+CFLHHANF_00550	CDS			hypothetical protein
+CFLHHANF_00550	gene			
+CFLHHANF_00551	CDS			hypothetical protein
+CFLHHANF_00551	gene			
+CFLHHANF_00552	CDS			hypothetical protein
+CFLHHANF_00552	gene			
+CFLHHANF_00553	CDS			hypothetical protein
+CFLHHANF_00553	gene			
+CFLHHANF_00554	CDS	gloB_2	3.1.2.6	Hydroxyacylglutathione hydrolase
+CFLHHANF_00554	gene	gloB_2		
+CFLHHANF_00555	CDS		3.6.1.9	Non-canonical purine NTP pyrophosphatase
+CFLHHANF_00555	gene			
+CFLHHANF_00556	CDS			hypothetical protein
+CFLHHANF_00556	gene			
+CFLHHANF_00557	CDS		4.2.1.116	3-hydroxypropionyl-coenzyme A dehydratase
+CFLHHANF_00557	gene			
+CFLHHANF_00558	CDS	eif2a_2		Translation initiation factor 2 subunit alpha
+CFLHHANF_00558	gene	eif2a_2		
+CFLHHANF_00559	CDS			Ribosome biogenesis protein Nop10
+CFLHHANF_00559	gene			
+CFLHHANF_00560	CDS			hypothetical protein
+CFLHHANF_00560	gene			
+CFLHHANF_00561	CDS	pepE_1	3.4.13.21	Peptidase E
+CFLHHANF_00561	gene	pepE_1		
+CFLHHANF_00562	CDS			hypothetical protein
+CFLHHANF_00562	gene			
+CFLHHANF_00563	tRNA			tRNA-Ser(cga)
+CFLHHANF_00563	gene			
+CFLHHANF_00564	CDS	lipB	2.3.1.181	Octanoyltransferase
+CFLHHANF_00564	gene	lipB		
+CFLHHANF_00565	CDS	lpdA	1.8.1.4	Dihydrolipoyl dehydrogenase
+CFLHHANF_00565	gene	lpdA		
+CFLHHANF_00566	CDS			hypothetical protein
+CFLHHANF_00566	gene			
+CFLHHANF_00567	CDS			hypothetical protein
+CFLHHANF_00567	gene			
+CFLHHANF_00568	CDS		6.3.2.36	4-phosphopantoate--beta-alanine ligase
+CFLHHANF_00568	gene			
+CFLHHANF_00569	CDS	aksF	1.1.1.87	Homoisocitrate dehydrogenase
+CFLHHANF_00569	gene	aksF		
+CFLHHANF_00570	CDS	MCM	3.6.4.12	Minichromosome maintenance protein MCM
+CFLHHANF_00570	gene	MCM		
+CFLHHANF_00571	CDS			hypothetical protein
+CFLHHANF_00571	gene			
+CFLHHANF_00572	CDS	hisS_2	6.1.1.21	Histidine--tRNA ligase
+CFLHHANF_00572	gene	hisS_2		
+CFLHHANF_00573	CDS			hypothetical protein
+CFLHHANF_00573	gene			
+CFLHHANF_00574	CDS			hypothetical protein
+CFLHHANF_00574	gene			
+CFLHHANF_00575	CDS	tfrA_2	1.3.4.1	Fumarate reductase (CoM/CoB) subunit A
+CFLHHANF_00575	gene	tfrA_2		
+CFLHHANF_00576	CDS			hypothetical protein
+CFLHHANF_00576	gene			
+CFLHHANF_00577	CDS			hypothetical protein
+CFLHHANF_00577	gene			
+CFLHHANF_00578	CDS			hypothetical protein
+CFLHHANF_00578	gene			
+CFLHHANF_00579	CDS	tbp		TATA-box-binding protein
+CFLHHANF_00579	gene	tbp		
+CFLHHANF_00580	CDS	mvk	2.7.1.36	Mevalonate kinase
+CFLHHANF_00580	gene	mvk		
+CFLHHANF_00581	CDS		1.1.1.376	L-arabinose 1-dehydrogenase (NAD(P)(+))
+CFLHHANF_00581	gene			
+CFLHHANF_00582	CDS			hypothetical protein
+CFLHHANF_00582	gene			
+CFLHHANF_00583	CDS			hypothetical protein
+CFLHHANF_00583	gene			
+CFLHHANF_00584	CDS			hypothetical protein
+CFLHHANF_00584	gene			
+CFLHHANF_00585	CDS			hypothetical protein
+CFLHHANF_00585	gene			
+CFLHHANF_00586	CDS	manB_1	5.4.2.8	Phosphomannomutase
+CFLHHANF_00586	gene	manB_1		
+CFLHHANF_00587	CDS	pgk_2	2.7.2.3	Phosphoglycerate kinase
+CFLHHANF_00587	gene	pgk_2		
+CFLHHANF_00588	CDS	taw1	4.1.3.44	S-adenosyl-L-methionine-dependent tRNA 4-demethylwyosine synthase
+CFLHHANF_00588	gene	taw1		
+CFLHHANF_00589	CDS	fbiB_2	6.3.2.34	Coenzyme F420:L-glutamate ligase
+CFLHHANF_00589	gene	fbiB_2		
+CFLHHANF_00590	CDS			Protein SprT-like protein
+CFLHHANF_00590	gene			
+CFLHHANF_00591	CDS	tam_1	2.1.1.144	Trans-aconitate 2-methyltransferase
+CFLHHANF_00591	gene	tam_1		
+CFLHHANF_00592	CDS			hypothetical protein
+CFLHHANF_00592	gene			
+CFLHHANF_00593	CDS			hypothetical protein
+CFLHHANF_00593	gene			
+CFLHHANF_00594	CDS			hypothetical protein
+CFLHHANF_00594	gene			
+CFLHHANF_00595	CDS	actP_1		Cation/acetate symporter ActP
+CFLHHANF_00595	gene	actP_1		
+CFLHHANF_00596	CDS			putative ABC transporter ATP-binding protein
+CFLHHANF_00596	gene			
+CFLHHANF_00597	CDS			hypothetical protein
+CFLHHANF_00597	gene			
+CFLHHANF_00598	CDS	purE_1	5.4.99.18	N5-carboxyaminoimidazole ribonucleotide mutase
+CFLHHANF_00598	gene	purE_1		
+CFLHHANF_00599	CDS	guaAB_1	6.3.5.2	GMP synthase [glutamine-hydrolyzing] subunit B
+CFLHHANF_00599	gene	guaAB_1		
+CFLHHANF_00600	CDS			hypothetical protein
+CFLHHANF_00600	gene			
+CFLHHANF_00601	tRNA			tRNA-Asn(gtt)
+CFLHHANF_00601	gene			
+CFLHHANF_00602	CDS			hypothetical protein
+CFLHHANF_00602	gene			
+CFLHHANF_00603	CDS			hypothetical protein
+CFLHHANF_00603	gene			
+CFLHHANF_00604	CDS			hypothetical protein
+CFLHHANF_00604	gene			
+CFLHHANF_00605	CDS			hypothetical protein
+CFLHHANF_00605	gene			
+CFLHHANF_00606	CDS			hypothetical protein
+CFLHHANF_00606	gene			
+CFLHHANF_00607	CDS	pycB	6.4.1.1	Pyruvate carboxylase subunit B
+CFLHHANF_00607	gene	pycB		
+CFLHHANF_00608	CDS			hypothetical protein
+CFLHHANF_00608	gene			
+CFLHHANF_00609	CDS			hypothetical protein
+CFLHHANF_00609	gene			
+CFLHHANF_00610	CDS			50S ribosomal protein L18
+CFLHHANF_00610	gene			
+CFLHHANF_00611	CDS			50S ribosomal protein L19e
+CFLHHANF_00611	gene			
+CFLHHANF_00612	CDS			50S ribosomal protein L32e
+CFLHHANF_00612	gene			
+CFLHHANF_00613	CDS	rpl6_2		50S ribosomal protein L6
+CFLHHANF_00613	gene	rpl6_2		
+CFLHHANF_00614	CDS	rps8_2		30S ribosomal protein S8
+CFLHHANF_00614	gene	rps8_2		
+CFLHHANF_00615	CDS			hypothetical protein
+CFLHHANF_00615	gene			
+CFLHHANF_00616	CDS	ahcY_1	3.3.1.1	Adenosylhomocysteinase
+CFLHHANF_00616	gene	ahcY_1		
+CFLHHANF_00617	CDS			hypothetical protein
+CFLHHANF_00617	gene			
+CFLHHANF_00618	CDS			hypothetical protein
+CFLHHANF_00618	gene			
+CFLHHANF_00619	CDS			hypothetical protein
+CFLHHANF_00619	gene			
+CFLHHANF_00620	CDS			hypothetical protein
+CFLHHANF_00620	gene			
+CFLHHANF_00621	tRNA			tRNA-Gly(gcc)
+CFLHHANF_00621	gene			
+CFLHHANF_00622	CDS			hypothetical protein
+CFLHHANF_00622	gene			
+CFLHHANF_00623	CDS			hypothetical protein
+CFLHHANF_00623	gene			
+CFLHHANF_00624	CDS			putative ABC transporter ATP-binding protein
+CFLHHANF_00624	gene			
+CFLHHANF_00625	CDS			hypothetical protein
+CFLHHANF_00625	gene			
+CFLHHANF_00626	CDS	fpoJ	1.12.98.3	F(420)H(2) dehydrogenase subunit J
+CFLHHANF_00626	gene	fpoJ		
+CFLHHANF_00627	CDS	ndhI	1.6.5.11	NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+CFLHHANF_00627	gene	ndhI		
+CFLHHANF_00628	CDS	fpoH_2	1.12.98.3	F(420)H(2) dehydrogenase subunit H
+CFLHHANF_00628	gene	fpoH_2		
+CFLHHANF_00629	CDS	fpoD_2	1.12.98.3	F(420)H(2) dehydrogenase subunit D
+CFLHHANF_00629	gene	fpoD_2		
+CFLHHANF_00630	CDS	nuoCD_2	1.6.5.11	NADH-quinone oxidoreductase subunit C/D
+CFLHHANF_00630	gene	nuoCD_2		
+CFLHHANF_00631	CDS	fpoB_1	1.12.98.3	F(420)H(2) dehydrogenase subunit B
+CFLHHANF_00631	gene	fpoB_1		
+CFLHHANF_00632	CDS			hypothetical protein
+CFLHHANF_00632	gene			
+CFLHHANF_00633	CDS			hypothetical protein
+CFLHHANF_00633	gene			
+CFLHHANF_00634	CDS			hypothetical protein
+CFLHHANF_00634	gene			
+CFLHHANF_00635	CDS	gyrA	5.99.1.3	DNA gyrase subunit A
+CFLHHANF_00635	gene	gyrA		
+CFLHHANF_00636	tRNA			tRNA-Ser(gct)
+CFLHHANF_00636	gene			
+CFLHHANF_00637	CDS	sdx_2		Sulredoxin
+CFLHHANF_00637	gene	sdx_2		
+CFLHHANF_00638	CDS			hypothetical protein
+CFLHHANF_00638	gene			
+CFLHHANF_00639	CDS	aroA_1	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+CFLHHANF_00639	gene	aroA_1		
+CFLHHANF_00640	CDS	mutL_1		DNA mismatch repair protein MutL
+CFLHHANF_00640	gene	mutL_1		
+CFLHHANF_00641	CDS	mutS_1		DNA mismatch repair protein MutS
+CFLHHANF_00641	gene	mutS_1		
+CFLHHANF_00642	CDS			hypothetical protein
+CFLHHANF_00642	gene			
+CFLHHANF_00643	CDS	pfdA_3		Prefoldin subunit alpha
+CFLHHANF_00643	gene	pfdA_3		
+CFLHHANF_00644	CDS			50S ribosomal protein L18Ae
+CFLHHANF_00644	gene			
+CFLHHANF_00645	CDS		3.4.21.62	Subtilisin-like serine protease
+CFLHHANF_00645	gene			
+CFLHHANF_00646	CDS			hypothetical protein
+CFLHHANF_00646	gene			
+CFLHHANF_00647	CDS			hypothetical protein
+CFLHHANF_00647	gene			
+CFLHHANF_00648	CDS			hypothetical protein
+CFLHHANF_00648	gene			
+CFLHHANF_00649	CDS			hypothetical protein
+CFLHHANF_00649	gene			
+CFLHHANF_00650	CDS	polC_2	2.7.7.7	DNA polymerase III PolC-type
+CFLHHANF_00650	gene	polC_2		
+CFLHHANF_00651	CDS			hypothetical protein
+CFLHHANF_00651	gene			
+CFLHHANF_00652	CDS			hypothetical protein
+CFLHHANF_00652	gene			
+CFLHHANF_00653	CDS			hypothetical protein
+CFLHHANF_00653	gene			
+CFLHHANF_00654	CDS			hypothetical protein
+CFLHHANF_00654	gene			
+CFLHHANF_00655	CDS			hypothetical protein
+CFLHHANF_00655	gene			
+CFLHHANF_00656	CDS			hypothetical protein
+CFLHHANF_00656	gene			
+CFLHHANF_00657	CDS	nudF_1	3.6.1.13	ADP-ribose pyrophosphatase
+CFLHHANF_00657	gene	nudF_1		
+CFLHHANF_00658	CDS	yjgF_1	3.5.99.10	2-iminobutanoate/2-iminopropanoate deaminase
+CFLHHANF_00658	gene	yjgF_1		
+CFLHHANF_00659	CDS	manB_2	5.4.2.8	Phosphomannomutase
+CFLHHANF_00659	gene	manB_2		
+CFLHHANF_00660	CDS			hypothetical protein
+CFLHHANF_00660	gene			
+CFLHHANF_00661	CDS	pgk_3	2.7.2.3	Phosphoglycerate kinase
+CFLHHANF_00661	gene	pgk_3		
+CFLHHANF_00662	CDS	hcf136		Ycf48-like protein
+CFLHHANF_00662	gene	hcf136		
+CFLHHANF_00663	CDS			hypothetical protein
+CFLHHANF_00663	gene			
+CFLHHANF_00664	CDS	gloB_3	3.1.2.6	Hydroxyacylglutathione hydrolase
+CFLHHANF_00664	gene	gloB_3		
+CFLHHANF_00665	CDS			hypothetical protein
+CFLHHANF_00665	gene			
+CFLHHANF_00666	CDS			hypothetical protein
+CFLHHANF_00666	gene			
+CFLHHANF_00667	CDS			hypothetical protein
+CFLHHANF_00667	gene			
+CFLHHANF_00668	CDS			hypothetical protein
+CFLHHANF_00668	gene			
+CFLHHANF_00669	CDS			hypothetical protein
+CFLHHANF_00669	gene			
+CFLHHANF_00670	CDS			hypothetical protein
+CFLHHANF_00670	gene			
+CFLHHANF_00671	CDS			hypothetical protein
+CFLHHANF_00671	gene			
+CFLHHANF_00672	CDS			hypothetical protein
+CFLHHANF_00672	gene			
+CFLHHANF_00673	CDS		3.4.21.-	Archaeal Lon protease
+CFLHHANF_00673	gene			
+CFLHHANF_00674	CDS			hypothetical protein
+CFLHHANF_00674	gene			
+CFLHHANF_00675	CDS			hypothetical protein
+CFLHHANF_00675	gene			
+CFLHHANF_00676	CDS	argO_2		Arginine exporter protein ArgO
+CFLHHANF_00676	gene	argO_2		
+CFLHHANF_00677	CDS			hypothetical protein
+CFLHHANF_00677	gene			
+CFLHHANF_00678	CDS			hypothetical protein
+CFLHHANF_00678	gene			
+CFLHHANF_00679	CDS	dnaJ_2		Chaperone protein DnaJ
+CFLHHANF_00679	gene	dnaJ_2		
+CFLHHANF_00680	CDS			hypothetical protein
+CFLHHANF_00680	gene			
+CFLHHANF_00681	CDS	menH_1	4.2.99.20	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+CFLHHANF_00681	gene	menH_1		
+CFLHHANF_00682	CDS			hypothetical protein
+CFLHHANF_00682	gene			
+CFLHHANF_00683	CDS			hypothetical protein
+CFLHHANF_00683	gene			
+CFLHHANF_00684	CDS	uppS_1	2.5.1.89	Tritrans,polycis-undecaprenyl-diphosphate synthase (GGDP specific)
+CFLHHANF_00684	gene	uppS_1		
+CFLHHANF_00685	CDS	nudF_2	3.6.1.13	ADP-ribose pyrophosphatase
+CFLHHANF_00685	gene	nudF_2		
+CFLHHANF_00686	CDS			hypothetical protein
+CFLHHANF_00686	gene			
+CFLHHANF_00687	CDS	yjgF_2	3.5.99.10	2-iminobutanoate/2-iminopropanoate deaminase
+CFLHHANF_00687	gene	yjgF_2		
+CFLHHANF_00688	CDS			hypothetical protein
+CFLHHANF_00688	gene			
+CFLHHANF_00689	CDS			hypothetical protein
+CFLHHANF_00689	gene			
+CFLHHANF_00690	CDS	maf_2		Septum formation protein Maf
+CFLHHANF_00690	gene	maf_2		
+CFLHHANF_00691	CDS	mntR_2		Transcriptional regulator MntR
+CFLHHANF_00691	gene	mntR_2		
+CFLHHANF_00692	CDS			hypothetical protein
+CFLHHANF_00692	gene			
+CFLHHANF_00693	CDS			hypothetical protein
+CFLHHANF_00693	gene			
+CFLHHANF_00694	CDS		3.4.21.-	Archaeal Lon protease
+CFLHHANF_00694	gene			
+CFLHHANF_00695	CDS			hypothetical protein
+CFLHHANF_00695	gene			
+CFLHHANF_00696	CDS			hypothetical protein
+CFLHHANF_00696	gene			
+CFLHHANF_00697	CDS	argO_3		Arginine exporter protein ArgO
+CFLHHANF_00697	gene	argO_3		
+CFLHHANF_00698	CDS			50S ribosomal protein L15e
+CFLHHANF_00698	gene			
+CFLHHANF_00699	CDS			hypothetical protein
+CFLHHANF_00699	gene			
+CFLHHANF_00700	CDS			50S ribosomal protein L15e
+CFLHHANF_00700	gene			
+CFLHHANF_00701	CDS			hypothetical protein
+CFLHHANF_00701	gene			
+CFLHHANF_00702	CDS			hypothetical protein
+CFLHHANF_00702	gene			
+CFLHHANF_00703	CDS			hypothetical protein
+CFLHHANF_00703	gene			
+CFLHHANF_00704	CDS			hypothetical protein
+CFLHHANF_00704	gene			
+CFLHHANF_00705	CDS	gcvH		Glycine cleavage system H protein
+CFLHHANF_00705	gene	gcvH		
+CFLHHANF_00706	CDS	rnhA	3.1.26.4	Ribonuclease H
+CFLHHANF_00706	gene	rnhA		
+CFLHHANF_00707	CDS			hypothetical protein
+CFLHHANF_00707	gene			
+CFLHHANF_00708	CDS	hcy_1		Halocyanin
+CFLHHANF_00708	gene	hcy_1		
+CFLHHANF_00709	CDS			hypothetical protein
+CFLHHANF_00709	gene			
+CFLHHANF_00710	CDS			hypothetical protein
+CFLHHANF_00710	gene			
+CFLHHANF_00711	CDS		3.1.2.28	1,4-dihydroxy-2-naphthoyl-CoA hydrolase
+CFLHHANF_00711	gene			
+CFLHHANF_00712	CDS			hypothetical protein
+CFLHHANF_00712	gene			
+CFLHHANF_00713	CDS			hypothetical protein
+CFLHHANF_00713	gene			
+CFLHHANF_00714	CDS			hypothetical protein
+CFLHHANF_00714	gene			
+CFLHHANF_00715	CDS	nfuA		Fe/S biogenesis protein NfuA
+CFLHHANF_00715	gene	nfuA		
+CFLHHANF_00716	CDS	aroA_2	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+CFLHHANF_00716	gene	aroA_2		
+CFLHHANF_00717	CDS	mutL_2		DNA mismatch repair protein MutL
+CFLHHANF_00717	gene	mutL_2		
+CFLHHANF_00718	CDS	mutS_2		DNA mismatch repair protein MutS
+CFLHHANF_00718	gene	mutS_2		
+CFLHHANF_00719	CDS	purH	3.5.4.10	Bifunctional purine biosynthesis protein PurH
+CFLHHANF_00719	gene	purH		
+CFLHHANF_00720	CDS			hypothetical protein
+CFLHHANF_00720	gene			
+CFLHHANF_00721	CDS			hypothetical protein
+CFLHHANF_00721	gene			
+CFLHHANF_00722	CDS			hypothetical protein
+CFLHHANF_00722	gene			
+CFLHHANF_00723	CDS	fcl_1	1.1.1.271	GDP-L-fucose synthase
+CFLHHANF_00723	gene	fcl_1		
+CFLHHANF_00724	CDS			hypothetical protein
+CFLHHANF_00724	gene			
+CFLHHANF_00725	CDS			hypothetical protein
+CFLHHANF_00725	gene			
+CFLHHANF_00726	CDS			hypothetical protein
+CFLHHANF_00726	gene			
+CFLHHANF_00727	CDS			Small-conductance mechanosensitive channel MscMJ
+CFLHHANF_00727	gene			
+CFLHHANF_00728	CDS	rplU		50S ribosomal protein L21
+CFLHHANF_00728	gene	rplU		
+CFLHHANF_00729	CDS	galK_2	2.7.1.6	Galactokinase
+CFLHHANF_00729	gene	galK_2		
+CFLHHANF_00730	CDS			hypothetical protein
+CFLHHANF_00730	gene			
+CFLHHANF_00731	CDS	idi_1	5.3.3.2	Isopentenyl-diphosphate Delta-isomerase
+CFLHHANF_00731	gene	idi_1		
+CFLHHANF_00732	CDS	glnA_1	6.3.1.2	Glutamine synthetase
+CFLHHANF_00732	gene	glnA_1		
+CFLHHANF_00733	tRNA			tRNA-Arg(tct)
+CFLHHANF_00733	gene			
+CFLHHANF_00734	CDS			hypothetical protein
+CFLHHANF_00734	gene			
+CFLHHANF_00735	CDS			hypothetical protein
+CFLHHANF_00735	gene			
+CFLHHANF_00736	tRNA			tRNA-Ala(ggc)
+CFLHHANF_00736	gene			
+CFLHHANF_00737	CDS			hypothetical protein
+CFLHHANF_00737	gene			
+CFLHHANF_00738	CDS			hypothetical protein
+CFLHHANF_00738	gene			
+CFLHHANF_00739	CDS			hypothetical protein
+CFLHHANF_00739	gene			
+CFLHHANF_00740	CDS			hypothetical protein
+CFLHHANF_00740	gene			
+CFLHHANF_00741	CDS			hypothetical protein
+CFLHHANF_00741	gene			
+CFLHHANF_00742	CDS	grpE_2		Protein GrpE
+CFLHHANF_00742	gene	grpE_2		
+CFLHHANF_00743	CDS	btuD_2	3.6.3.33	Cobalamin import ATP-binding protein BtuD
+CFLHHANF_00743	gene	btuD_2		
+CFLHHANF_00744	CDS			hypothetical protein
+CFLHHANF_00744	gene			
+CFLHHANF_00745	CDS			hypothetical protein
+CFLHHANF_00745	gene			
+CFLHHANF_00746	CDS			hypothetical protein
+CFLHHANF_00746	gene			
+CFLHHANF_00747	CDS			hypothetical protein
+CFLHHANF_00747	gene			
+CFLHHANF_00748	CDS			hypothetical protein
+CFLHHANF_00748	gene			
+CFLHHANF_00749	CDS			hypothetical protein
+CFLHHANF_00749	gene			
+CFLHHANF_00750	CDS			hypothetical protein
+CFLHHANF_00750	gene			
+CFLHHANF_00751	CDS	ymdB	3.5.1.-	O-acetyl-ADP-ribose deacetylase
+CFLHHANF_00751	gene	ymdB		
+CFLHHANF_00752	CDS			hypothetical protein
+CFLHHANF_00752	gene			
+CFLHHANF_00753	CDS			Chromosomal protein MC1c
+CFLHHANF_00753	gene			
+CFLHHANF_00754	CDS			hypothetical protein
+CFLHHANF_00754	gene			
+CFLHHANF_00755	CDS	pyrE_1	2.4.2.10	Orotate phosphoribosyltransferase
+CFLHHANF_00755	gene	pyrE_1		
+CFLHHANF_00756	CDS	dut	3.6.1.23	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+CFLHHANF_00756	gene	dut		
+CFLHHANF_00757	CDS	eif2b		Translation initiation factor 2 subunit beta
+CFLHHANF_00757	gene	eif2b		
+CFLHHANF_00758	CDS			hypothetical protein
+CFLHHANF_00758	gene			
+CFLHHANF_00759	CDS		4.2.1.96	Putative pterin-4-alpha-carbinolamine dehydratase
+CFLHHANF_00759	gene			
+CFLHHANF_00760	CDS			hypothetical protein
+CFLHHANF_00760	gene			
+CFLHHANF_00761	CDS	obg_1	3.6.5.-	GTPase Obg
+CFLHHANF_00761	gene	obg_1		
+CFLHHANF_00762	CDS			hypothetical protein
+CFLHHANF_00762	gene			
+CFLHHANF_00763	CDS			hypothetical protein
+CFLHHANF_00763	gene			
+CFLHHANF_00764	CDS	pyrH_1	2.7.4.22	Uridylate kinase
+CFLHHANF_00764	gene	pyrH_1		
+CFLHHANF_00765	CDS	prf1_2		Peptide chain release factor subunit 1
+CFLHHANF_00765	gene	prf1_2		
+CFLHHANF_00766	CDS	argS_3	6.1.1.19	Arginine--tRNA ligase
+CFLHHANF_00766	gene	argS_3		
+CFLHHANF_00767	CDS	ahpC_2	1.11.1.15	Peroxiredoxin
+CFLHHANF_00767	gene	ahpC_2		
+CFLHHANF_00768	CDS			hypothetical protein
+CFLHHANF_00768	gene			
+CFLHHANF_00769	CDS			hypothetical protein
+CFLHHANF_00769	gene			
+CFLHHANF_00770	CDS	glmS_2	2.6.1.16	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+CFLHHANF_00770	gene	glmS_2		
+CFLHHANF_00771	CDS		3.1.-.-	DNA double-strand break repair protein Mre11
+CFLHHANF_00771	gene			
+CFLHHANF_00772	CDS			DNA double-strand break repair Rad50 ATPase
+CFLHHANF_00772	gene			
+CFLHHANF_00773	CDS	menH_2	4.2.99.20	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+CFLHHANF_00773	gene	menH_2		
+CFLHHANF_00774	CDS	cdc6		ORC1-type DNA replication protein
+CFLHHANF_00774	gene	cdc6		
+CFLHHANF_00775	CDS			hypothetical protein
+CFLHHANF_00775	gene			
+CFLHHANF_00776	CDS	coaD	2.7.7.3	Phosphopantetheine adenylyltransferase
+CFLHHANF_00776	gene	coaD		
+CFLHHANF_00777	CDS			hypothetical protein
+CFLHHANF_00777	gene			
+CFLHHANF_00778	CDS			hypothetical protein
+CFLHHANF_00778	gene			
+CFLHHANF_00779	CDS	pdxT	4.3.3.6	Pyridoxal 5'-phosphate synthase subunit PdxT
+CFLHHANF_00779	gene	pdxT		
+CFLHHANF_00780	CDS	pqqE_1		Coenzyme PQQ synthesis protein E
+CFLHHANF_00780	gene	pqqE_1		
+CFLHHANF_00781	CDS	pqqE_2		Coenzyme PQQ synthesis protein E
+CFLHHANF_00781	gene	pqqE_2		
+CFLHHANF_00782	CDS	leuB	1.1.1.85	3-isopropylmalate/3-methylmalate dehydrogenase
+CFLHHANF_00782	gene	leuB		
+CFLHHANF_00783	CDS		6.3.2.36	4-phosphopantoate--beta-alanine ligase
+CFLHHANF_00783	gene			
+CFLHHANF_00784	CDS			hypothetical protein
+CFLHHANF_00784	gene			
+CFLHHANF_00785	CDS	truA_1	5.4.99.12	tRNA pseudouridine synthase A
+CFLHHANF_00785	gene	truA_1		
+CFLHHANF_00786	CDS	ribK	2.7.1.161	Riboflavin kinase
+CFLHHANF_00786	gene	ribK		
+CFLHHANF_00787	CDS	pqqB_2		Coenzyme PQQ synthesis protein B
+CFLHHANF_00787	gene	pqqB_2		
+CFLHHANF_00788	CDS	pepA_1	3.4.11.10	cytosol aminopeptidase
+CFLHHANF_00788	gene	pepA_1		
+CFLHHANF_00789	CDS			hypothetical protein
+CFLHHANF_00789	gene			
+CFLHHANF_00790	CDS	speH	4.1.1.50	S-adenosylmethionine decarboxylase proenzyme
+CFLHHANF_00790	gene	speH		
+CFLHHANF_00791	CDS	psmB_2	3.4.25.1	Proteasome subunit beta
+CFLHHANF_00791	gene	psmB_2		
+CFLHHANF_00792	CDS			hypothetical protein
+CFLHHANF_00792	gene			
+CFLHHANF_00793	CDS			hypothetical protein
+CFLHHANF_00793	gene			
+CFLHHANF_00794	CDS			hypothetical protein
+CFLHHANF_00794	gene			
+CFLHHANF_00795	CDS			hypothetical protein
+CFLHHANF_00795	gene			
+CFLHHANF_00796	CDS	fen	3.1.-.-	Flap endonuclease 1
+CFLHHANF_00796	gene	fen		
+CFLHHANF_00797	CDS			hypothetical protein
+CFLHHANF_00797	gene			
+CFLHHANF_00798	CDS	kae1	2.3.1.234	tRNA N6-adenosine threonylcarbamoyltransferase
+CFLHHANF_00798	gene	kae1		
+CFLHHANF_00799	CDS			hypothetical protein
+CFLHHANF_00799	gene			
+CFLHHANF_00800	tRNA			tRNA-Leu(taa)
+CFLHHANF_00800	gene			
+CFLHHANF_00801	CDS			hypothetical protein
+CFLHHANF_00801	gene			
+CFLHHANF_00802	CDS	rhaD_1	1.1.1.377	L-rhamnose 1-dehydrogenase (NADP(+))
+CFLHHANF_00802	gene	rhaD_1		
+CFLHHANF_00803	CDS			hypothetical protein
+CFLHHANF_00803	gene			
+CFLHHANF_00804	CDS			putative ABC transporter ATP-binding protein
+CFLHHANF_00804	gene			
+CFLHHANF_00805	CDS			hypothetical protein
+CFLHHANF_00805	gene			
+CFLHHANF_00806	CDS			hypothetical protein
+CFLHHANF_00806	gene			
+CFLHHANF_00807	CDS			hypothetical protein
+CFLHHANF_00807	gene			
+CFLHHANF_00808	CDS			hypothetical protein
+CFLHHANF_00808	gene			
+CFLHHANF_00809	CDS			hypothetical protein
+CFLHHANF_00809	gene			
+CFLHHANF_00810	CDS			hypothetical protein
+CFLHHANF_00810	gene			
+CFLHHANF_00811	CDS	ahcY_2	3.3.1.1	Adenosylhomocysteinase
+CFLHHANF_00811	gene	ahcY_2		
+CFLHHANF_00812	CDS			hypothetical protein
+CFLHHANF_00812	gene			
+CFLHHANF_00813	CDS			hypothetical protein
+CFLHHANF_00813	gene			
+CFLHHANF_00814	CDS			hypothetical protein
+CFLHHANF_00814	gene			
+CFLHHANF_00815	CDS	gpsA	1.1.1.94	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+CFLHHANF_00815	gene	gpsA		
+CFLHHANF_00816	CDS			hypothetical protein
+CFLHHANF_00816	gene			
+CFLHHANF_00817	CDS			putative ABC transporter ATP-binding protein
+CFLHHANF_00817	gene			
+CFLHHANF_00818	CDS			hypothetical protein
+CFLHHANF_00818	gene			
+CFLHHANF_00819	tRNA			tRNA-Leu(gag)
+CFLHHANF_00819	gene			
+CFLHHANF_00820	CDS	ubiB	2.7.-.-	protein kinase UbiB
+CFLHHANF_00820	gene	ubiB		
+CFLHHANF_00821	CDS			hypothetical protein
+CFLHHANF_00821	gene			
+CFLHHANF_00822	CDS	crtD	1.3.99.37	Carotenoid 3,4-desaturase
+CFLHHANF_00822	gene	crtD		
+CFLHHANF_00823	CDS	rhaD_2	1.1.1.377	L-rhamnose 1-dehydrogenase (NADP(+))
+CFLHHANF_00823	gene	rhaD_2		
+CFLHHANF_00824	CDS			hypothetical protein
+CFLHHANF_00824	gene			
+CFLHHANF_00825	CDS	pheS_1	6.1.1.20	Phenylalanine--tRNA ligase alpha subunit
+CFLHHANF_00825	gene	pheS_1		
+CFLHHANF_00826	CDS			hypothetical protein
+CFLHHANF_00826	gene			
+CFLHHANF_00827	CDS			hypothetical protein
+CFLHHANF_00827	gene			
+CFLHHANF_00828	CDS			hypothetical protein
+CFLHHANF_00828	gene			
+CFLHHANF_00829	CDS	cutA_1		Divalent-cation tolerance protein CutA
+CFLHHANF_00829	gene	cutA_1		
+CFLHHANF_00830	CDS		1.3.7.11	Digeranylgeranylglycerophospholipid reductase
+CFLHHANF_00830	gene			
+CFLHHANF_00831	CDS		3.6.4.13	putative ATP-dependent RNA helicase
+CFLHHANF_00831	gene			
+CFLHHANF_00832	CDS	cutC	1.2.99.8	Glyceraldehyde dehydrogenase small chain
+CFLHHANF_00832	gene	cutC		
+CFLHHANF_00833	CDS			hypothetical protein
+CFLHHANF_00833	gene			
+CFLHHANF_00834	CDS			hypothetical protein
+CFLHHANF_00834	gene			
+CFLHHANF_00835	CDS			30S ribosomal protein S19e
+CFLHHANF_00835	gene			
+CFLHHANF_00836	CDS	hutU_2	4.2.1.49	Urocanate hydratase
+CFLHHANF_00836	gene	hutU_2		
+CFLHHANF_00837	CDS	hutH_2	4.3.1.3	Histidine ammonia-lyase
+CFLHHANF_00837	gene	hutH_2		
+CFLHHANF_00838	CDS	alaXM_2		Alanyl-tRNA editing protein AlaX-M
+CFLHHANF_00838	gene	alaXM_2		
+CFLHHANF_00839	CDS	rpa		Replication factor A
+CFLHHANF_00839	gene	rpa		
+CFLHHANF_00840	CDS	pyrE_2	2.4.2.10	Orotate phosphoribosyltransferase
+CFLHHANF_00840	gene	pyrE_2		
+CFLHHANF_00841	CDS			hypothetical protein
+CFLHHANF_00841	gene			
+CFLHHANF_00842	CDS			30S ribosomal protein S13
+CFLHHANF_00842	gene			
+CFLHHANF_00843	CDS	rps4		30S ribosomal protein S4
+CFLHHANF_00843	gene	rps4		
+CFLHHANF_00844	CDS			hypothetical protein
+CFLHHANF_00844	gene			
+CFLHHANF_00845	CDS			hypothetical protein
+CFLHHANF_00845	gene			
+CFLHHANF_00846	CDS	tusA_3	2.8.1.-	Sulfurtransferase TusA
+CFLHHANF_00846	gene	tusA_3		
+CFLHHANF_00847	CDS			hypothetical protein
+CFLHHANF_00847	gene			
+CFLHHANF_00848	CDS	rnz	3.1.26.11	Ribonuclease Z
+CFLHHANF_00848	gene	rnz		
+CFLHHANF_00849	CDS			hypothetical protein
+CFLHHANF_00849	gene			
+CFLHHANF_00850	CDS			hypothetical protein
+CFLHHANF_00850	gene			
+CFLHHANF_00851	CDS			hypothetical protein
+CFLHHANF_00851	gene			
+CFLHHANF_00852	CDS			hypothetical protein
+CFLHHANF_00852	gene			
+CFLHHANF_00853	CDS	pepX_1	3.4.14.11	Xaa-Pro dipeptidyl-peptidase
+CFLHHANF_00853	gene	pepX_1		
+CFLHHANF_00854	CDS		3.4.17.19	Thermostable carboxypeptidase 1
+CFLHHANF_00854	gene			
+CFLHHANF_00855	CDS			hypothetical protein
+CFLHHANF_00855	gene			
+CFLHHANF_00856	CDS	mthTIM_1	2.1.1.37	Modification methylase MthTI
+CFLHHANF_00856	gene	mthTIM_1		
+CFLHHANF_00857	CDS			hypothetical protein
+CFLHHANF_00857	gene			
+CFLHHANF_00858	CDS			hypothetical protein
+CFLHHANF_00858	gene			
+CFLHHANF_00859	CDS	eno	4.2.1.11	Enolase
+CFLHHANF_00859	gene	eno		
+CFLHHANF_00860	CDS	aspC_1	2.6.1.1	Aspartate aminotransferase
+CFLHHANF_00860	gene	aspC_1		
+CFLHHANF_00861	tRNA			tRNA-Cys(gca)
+CFLHHANF_00861	gene			
+CFLHHANF_00862	CDS			hypothetical protein
+CFLHHANF_00862	gene			
+CFLHHANF_00863	CDS			hypothetical protein
+CFLHHANF_00863	gene			
+CFLHHANF_00864	CDS			hypothetical protein
+CFLHHANF_00864	gene			
+CFLHHANF_00865	CDS			hypothetical protein
+CFLHHANF_00865	gene			
+CFLHHANF_00866	CDS			hypothetical protein
+CFLHHANF_00866	gene			
+CFLHHANF_00867	tRNA			tRNA-Thr(ggt)
+CFLHHANF_00867	gene			
+CFLHHANF_00868	CDS			hypothetical protein
+CFLHHANF_00868	gene			
+CFLHHANF_00869	CDS			hypothetical protein
+CFLHHANF_00869	gene			
+CFLHHANF_00870	CDS			hypothetical protein
+CFLHHANF_00870	gene			
+CFLHHANF_00871	CDS			Iron-sulfur cluster carrier protein
+CFLHHANF_00871	gene			
+CFLHHANF_00872	CDS			hypothetical protein
+CFLHHANF_00872	gene			
+CFLHHANF_00873	CDS			hypothetical protein
+CFLHHANF_00873	gene			
+CFLHHANF_00874	tRNA			tRNA-Leu(taa)
+CFLHHANF_00874	gene			
+CFLHHANF_00875	CDS			hypothetical protein
+CFLHHANF_00875	gene			
+CFLHHANF_00876	CDS	rhaD_3	1.1.1.377	L-rhamnose 1-dehydrogenase (NADP(+))
+CFLHHANF_00876	gene	rhaD_3		
+CFLHHANF_00877	CDS	fcl_2	1.1.1.271	GDP-L-fucose synthase
+CFLHHANF_00877	gene	fcl_2		
+CFLHHANF_00878	CDS	gyaR_1	1.1.1.26	Glyoxylate reductase
+CFLHHANF_00878	gene	gyaR_1		
+CFLHHANF_00879	CDS			hypothetical protein
+CFLHHANF_00879	gene			
+CFLHHANF_00880	CDS	ligN_1	6.5.1.2	DNA ligase
+CFLHHANF_00880	gene	ligN_1		
+CFLHHANF_00881	CDS			hypothetical protein
+CFLHHANF_00881	gene			
+CFLHHANF_00882	CDS			hypothetical protein
+CFLHHANF_00882	gene			
+CFLHHANF_00883	CDS	polC_3	2.7.7.7	DNA polymerase III PolC-type
+CFLHHANF_00883	gene	polC_3		
+CFLHHANF_00884	CDS			hypothetical protein
+CFLHHANF_00884	gene			
+CFLHHANF_00885	CDS			hypothetical protein
+CFLHHANF_00885	gene			
+CFLHHANF_00886	tRNA			tRNA-Arg(gcg)
+CFLHHANF_00886	gene			
+CFLHHANF_00887	CDS			hypothetical protein
+CFLHHANF_00887	gene			
+CFLHHANF_00888	CDS			hypothetical protein
+CFLHHANF_00888	gene			
+CFLHHANF_00889	CDS		3.1.2.28	1,4-dihydroxy-2-naphthoyl-CoA hydrolase
+CFLHHANF_00889	gene			
+CFLHHANF_00890	CDS			hypothetical protein
+CFLHHANF_00890	gene			
+CFLHHANF_00891	CDS			hypothetical protein
+CFLHHANF_00891	gene			
+CFLHHANF_00892	CDS			hypothetical protein
+CFLHHANF_00892	gene			
+CFLHHANF_00893	CDS	uvrC_1		UvrABC system protein C
+CFLHHANF_00893	gene	uvrC_1		
+CFLHHANF_00894	CDS			hypothetical protein
+CFLHHANF_00894	gene			
+CFLHHANF_00895	CDS			hypothetical protein
+CFLHHANF_00895	gene			
+CFLHHANF_00896	CDS		3.1.3.18	Phosphoglycolate phosphatase
+CFLHHANF_00896	gene			
+CFLHHANF_00897	CDS			hypothetical protein
+CFLHHANF_00897	gene			
+CFLHHANF_00898	CDS			hypothetical protein
+CFLHHANF_00898	gene			
+CFLHHANF_00899	CDS			hypothetical protein
+CFLHHANF_00899	gene			
+CFLHHANF_00900	CDS			hypothetical protein
+CFLHHANF_00900	gene			
+CFLHHANF_00901	CDS	fda_2	4.1.2.13	Fructose-bisphosphate aldolase class 1
+CFLHHANF_00901	gene	fda_2		
+CFLHHANF_00902	CDS			hypothetical protein
+CFLHHANF_00902	gene			
+CFLHHANF_00903	CDS			hypothetical protein
+CFLHHANF_00903	gene			
+CFLHHANF_00904	CDS			hypothetical protein
+CFLHHANF_00904	gene			
+CFLHHANF_00905	CDS			hypothetical protein
+CFLHHANF_00905	gene			
+CFLHHANF_00906	CDS			hypothetical protein
+CFLHHANF_00906	gene			
+CFLHHANF_00907	CDS			hypothetical protein
+CFLHHANF_00907	gene			
+CFLHHANF_00908	CDS			hypothetical protein
+CFLHHANF_00908	gene			
+CFLHHANF_00909	CDS			putative ABC transporter ATP-binding protein
+CFLHHANF_00909	gene			
+CFLHHANF_00910	CDS			hypothetical protein
+CFLHHANF_00910	gene			
+CFLHHANF_00911	CDS			putative ABC transporter ATP-binding protein
+CFLHHANF_00911	gene			
+CFLHHANF_00912	CDS	actP_2		Cation/acetate symporter ActP
+CFLHHANF_00912	gene	actP_2		
+CFLHHANF_00913	CDS			hypothetical protein
+CFLHHANF_00913	gene			
+CFLHHANF_00914	CDS	ftsZ1_2		Cell division protein FtsZ 1
+CFLHHANF_00914	gene	ftsZ1_2		
+CFLHHANF_00915	CDS			hypothetical protein
+CFLHHANF_00915	gene			
+CFLHHANF_00916	CDS	spt5_1		Transcription elongation factor Spt5
+CFLHHANF_00916	gene	spt5_1		
+CFLHHANF_00917	CDS			50S ribosomal protein L11
+CFLHHANF_00917	gene			
+CFLHHANF_00918	CDS			hypothetical protein
+CFLHHANF_00918	gene			
+CFLHHANF_00919	CDS			hypothetical protein
+CFLHHANF_00919	gene			
+CFLHHANF_00920	CDS	dapH_1	2.3.1.89	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+CFLHHANF_00920	gene	dapH_1		
+CFLHHANF_00921	CDS			hypothetical protein
+CFLHHANF_00921	gene			
+CFLHHANF_00922	CDS			hypothetical protein
+CFLHHANF_00922	gene			
+CFLHHANF_00923	CDS	truD	5.4.99.27	putative tRNA pseudouridine synthase D
+CFLHHANF_00923	gene	truD		
+CFLHHANF_00924	CDS			hypothetical protein
+CFLHHANF_00924	gene			
+CFLHHANF_00925	CDS			hypothetical protein
+CFLHHANF_00925	gene			
+CFLHHANF_00926	CDS			hypothetical protein
+CFLHHANF_00926	gene			
+CFLHHANF_00927	CDS			hypothetical protein
+CFLHHANF_00927	gene			
+CFLHHANF_00928	CDS			hypothetical protein
+CFLHHANF_00928	gene			
+CFLHHANF_00929	CDS	sqr_1	1.8.5.4	Sulfide-quinone reductase
+CFLHHANF_00929	gene	sqr_1		
+CFLHHANF_00930	CDS	guaB_2	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+CFLHHANF_00930	gene	guaB_2		
+CFLHHANF_00931	CDS			hypothetical protein
+CFLHHANF_00931	gene			
+CFLHHANF_00932	CDS			hypothetical protein
+CFLHHANF_00932	gene			
+CFLHHANF_00933	CDS	guaB_3	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+CFLHHANF_00933	gene	guaB_3		
+CFLHHANF_00934	CDS			hypothetical protein
+CFLHHANF_00934	gene			
+CFLHHANF_00935	CDS			hypothetical protein
+CFLHHANF_00935	gene			
+CFLHHANF_00936	CDS			hypothetical protein
+CFLHHANF_00936	gene			
+CFLHHANF_00937	CDS			50S ribosomal protein L30e
+CFLHHANF_00937	gene			
+CFLHHANF_00938	CDS	rpoA2_1	2.7.7.6	DNA-directed RNA polymerase subunit A''
+CFLHHANF_00938	gene	rpoA2_1		
+CFLHHANF_00939	CDS	rpoA1_1	2.7.7.6	DNA-directed RNA polymerase subunit A'
+CFLHHANF_00939	gene	rpoA1_1		
+CFLHHANF_00940	CDS	ftsQ		Cell division protein FtsQ
+CFLHHANF_00940	gene	ftsQ		
+CFLHHANF_00941	CDS	murC	6.3.2.8	UDP-N-acetylmuramate--L-alanine ligase
+CFLHHANF_00941	gene	murC		
+CFLHHANF_00942	CDS			hypothetical protein
+CFLHHANF_00942	gene			
+CFLHHANF_00943	CDS			hypothetical protein
+CFLHHANF_00943	gene			
+CFLHHANF_00944	CDS			hypothetical protein
+CFLHHANF_00944	gene			
+CFLHHANF_00945	CDS	rpl4		50S ribosomal protein L4
+CFLHHANF_00945	gene	rpl4		
+CFLHHANF_00946	CDS	rpl3		50S ribosomal protein L3
+CFLHHANF_00946	gene	rpl3		
+CFLHHANF_00947	CDS			hypothetical protein
+CFLHHANF_00947	gene			
+CFLHHANF_00948	CDS	dapL	2.6.1.83	LL-diaminopimelate aminotransferase
+CFLHHANF_00948	gene	dapL		
+CFLHHANF_00949	CDS	pyrF_2	4.1.1.23	Orotidine 5'-phosphate decarboxylase
+CFLHHANF_00949	gene	pyrF_2		
+CFLHHANF_00950	CDS			hypothetical protein
+CFLHHANF_00950	gene			
+CFLHHANF_00951	CDS			hypothetical protein
+CFLHHANF_00951	gene			
+CFLHHANF_00952	CDS		5.4.99.-	tRNA pseudouridine synthase Pus10
+CFLHHANF_00952	gene			
+CFLHHANF_00953	CDS			50S ribosomal protein L21e
+CFLHHANF_00953	gene			
+CFLHHANF_00954	CDS			hypothetical protein
+CFLHHANF_00954	gene			
+CFLHHANF_00955	CDS			hypothetical protein
+CFLHHANF_00955	gene			
+CFLHHANF_00956	CDS	rsmA_1	2.1.1.-	putative ribosomal RNA small subunit methyltransferase A
+CFLHHANF_00956	gene	rsmA_1		
+CFLHHANF_00957	CDS			hypothetical protein
+CFLHHANF_00957	gene			
+CFLHHANF_00958	CDS	uvrC_2		UvrABC system protein C
+CFLHHANF_00958	gene	uvrC_2		
+CFLHHANF_00959	CDS			hypothetical protein
+CFLHHANF_00959	gene			
+CFLHHANF_00960	CDS			hypothetical protein
+CFLHHANF_00960	gene			
+CFLHHANF_00961	CDS			putative HTH-type transcriptional regulator
+CFLHHANF_00961	gene			
+CFLHHANF_00962	CDS			hypothetical protein
+CFLHHANF_00962	gene			
+CFLHHANF_00963	CDS			hypothetical protein
+CFLHHANF_00963	gene			
+CFLHHANF_00964	CDS			hypothetical protein
+CFLHHANF_00964	gene			
+CFLHHANF_00965	CDS			hypothetical protein
+CFLHHANF_00965	gene			
+CFLHHANF_00966	CDS	pta_2	2.3.1.8	Phosphate acetyltransferase
+CFLHHANF_00966	gene	pta_2		
+CFLHHANF_00967	CDS	rps7_3		30S ribosomal protein S7
+CFLHHANF_00967	gene	rps7_3		
+CFLHHANF_00968	CDS			30S ribosomal protein S12
+CFLHHANF_00968	gene			
+CFLHHANF_00969	CDS	cca	2.7.7.72	CCA-adding enzyme
+CFLHHANF_00969	gene	cca		
+CFLHHANF_00970	CDS			hypothetical protein
+CFLHHANF_00970	gene			
+CFLHHANF_00971	CDS			hypothetical protein
+CFLHHANF_00971	gene			
+CFLHHANF_00972	CDS	pcm	2.1.1.77	Protein-L-isoaspartate O-methyltransferase
+CFLHHANF_00972	gene	pcm		
+CFLHHANF_00973	tRNA			tRNA-Val(tac)
+CFLHHANF_00973	gene			
+CFLHHANF_00974	CDS			hypothetical protein
+CFLHHANF_00974	gene			
+CFLHHANF_00975	CDS			hypothetical protein
+CFLHHANF_00975	gene			
+CFLHHANF_00976	CDS			hypothetical protein
+CFLHHANF_00976	gene			
+CFLHHANF_00977	CDS			hypothetical protein
+CFLHHANF_00977	gene			
+CFLHHANF_00978	CDS			hypothetical protein
+CFLHHANF_00978	gene			
+CFLHHANF_00979	CDS	dtdA	3.1.1.96	D-aminoacyl-tRNA deacylase
+CFLHHANF_00979	gene	dtdA		
+CFLHHANF_00980	CDS			putative ABC transporter ATP-binding protein
+CFLHHANF_00980	gene			
+CFLHHANF_00981	CDS			hypothetical protein
+CFLHHANF_00981	gene			
+CFLHHANF_00982	CDS	malK_2	3.6.3.19	Trehalose/maltose import ATP-binding protein MalK
+CFLHHANF_00982	gene	malK_2		
+CFLHHANF_00983	CDS			hypothetical protein
+CFLHHANF_00983	gene			
+CFLHHANF_00984	CDS	purA	6.3.4.4	Adenylosuccinate synthetase
+CFLHHANF_00984	gene	purA		
+CFLHHANF_00985	CDS			hypothetical protein
+CFLHHANF_00985	gene			
+CFLHHANF_00986	CDS			hypothetical protein
+CFLHHANF_00986	gene			
+CFLHHANF_00987	CDS			hypothetical protein
+CFLHHANF_00987	gene			
+CFLHHANF_00988	CDS			hypothetical protein
+CFLHHANF_00988	gene			
+CFLHHANF_00989	CDS			hypothetical protein
+CFLHHANF_00989	gene			
+CFLHHANF_00990	CDS			hypothetical protein
+CFLHHANF_00990	gene			
+CFLHHANF_00991	CDS			hypothetical protein
+CFLHHANF_00991	gene			
+CFLHHANF_00992	CDS			hypothetical protein
+CFLHHANF_00992	gene			
+CFLHHANF_00993	CDS			hypothetical protein
+CFLHHANF_00993	gene			
+CFLHHANF_00994	CDS			hypothetical protein
+CFLHHANF_00994	gene			
+CFLHHANF_00995	CDS	allB_2	3.5.2.5	Allantoinase
+CFLHHANF_00995	gene	allB_2		
+CFLHHANF_00996	tRNA			tRNA-Met(cat)
+CFLHHANF_00996	gene			
+CFLHHANF_00997	CDS	radA		DNA repair and recombination protein RadA
+CFLHHANF_00997	gene	radA		
+CFLHHANF_00998	CDS	cofH_3	2.5.1.77	FO synthase subunit 2
+CFLHHANF_00998	gene	cofH_3		
+CFLHHANF_00999	CDS			hypothetical protein
+CFLHHANF_00999	gene			
+CFLHHANF_01000	CDS		1.3.7.11	Digeranylgeranylglycerophospholipid reductase
+CFLHHANF_01000	gene			
+CFLHHANF_01001	CDS			hypothetical protein
+CFLHHANF_01001	gene			
+CFLHHANF_01002	CDS			hypothetical protein
+CFLHHANF_01002	gene			
+CFLHHANF_01003	CDS			hypothetical protein
+CFLHHANF_01003	gene			
+CFLHHANF_01004	CDS			hypothetical protein
+CFLHHANF_01004	gene			
+CFLHHANF_01005	CDS			hypothetical protein
+CFLHHANF_01005	gene			
+CFLHHANF_01006	CDS			hypothetical protein
+CFLHHANF_01006	gene			
+CFLHHANF_01007	CDS	ileS_3	6.1.1.5	Isoleucine--tRNA ligase
+CFLHHANF_01007	gene	ileS_3		
+CFLHHANF_01008	CDS			hypothetical protein
+CFLHHANF_01008	gene			
+CFLHHANF_01009	CDS	endA	4.6.1.16	tRNA-splicing endonuclease
+CFLHHANF_01009	gene	endA		
+CFLHHANF_01010	CDS	hldE_2	2.7.7.70	Bifunctional protein HldE
+CFLHHANF_01010	gene	hldE_2		
+CFLHHANF_01011	CDS			Iron-sulfur cluster carrier protein
+CFLHHANF_01011	gene			
+CFLHHANF_01012	CDS			hypothetical protein
+CFLHHANF_01012	gene			
+CFLHHANF_01013	CDS			hypothetical protein
+CFLHHANF_01013	gene			
+CFLHHANF_01014	CDS			hypothetical protein
+CFLHHANF_01014	gene			
+CFLHHANF_01015	CDS			hypothetical protein
+CFLHHANF_01015	gene			
+CFLHHANF_01016	CDS			hypothetical protein
+CFLHHANF_01016	gene			
+CFLHHANF_01017	CDS	sqr_2	1.8.5.4	Sulfide-quinone reductase
+CFLHHANF_01017	gene	sqr_2		
+CFLHHANF_01018	CDS			hypothetical protein
+CFLHHANF_01018	gene			
+CFLHHANF_01019	CDS	rlmE	2.1.1.166	Ribosomal RNA large subunit methyltransferase E
+CFLHHANF_01019	gene	rlmE		
+CFLHHANF_01020	CDS			hypothetical protein
+CFLHHANF_01020	gene			
+CFLHHANF_01021	CDS			hypothetical protein
+CFLHHANF_01021	gene			
+CFLHHANF_01022	CDS			hypothetical protein
+CFLHHANF_01022	gene			
+CFLHHANF_01023	CDS			hypothetical protein
+CFLHHANF_01023	gene			
+CFLHHANF_01024	CDS			hypothetical protein
+CFLHHANF_01024	gene			
+CFLHHANF_01025	CDS			hypothetical protein
+CFLHHANF_01025	gene			
+CFLHHANF_01026	CDS			hypothetical protein
+CFLHHANF_01026	gene			
+CFLHHANF_01027	CDS			putative ABC transporter ATP-binding protein
+CFLHHANF_01027	gene			
+CFLHHANF_01028	CDS			hypothetical protein
+CFLHHANF_01028	gene			
+CFLHHANF_01029	CDS			hypothetical protein
+CFLHHANF_01029	gene			
+CFLHHANF_01030	CDS	pyrE_3	2.4.2.10	Orotate phosphoribosyltransferase
+CFLHHANF_01030	gene	pyrE_3		
+CFLHHANF_01031	CDS			hypothetical protein
+CFLHHANF_01031	gene			
+CFLHHANF_01032	CDS			hypothetical protein
+CFLHHANF_01032	gene			
+CFLHHANF_01033	CDS			hypothetical protein
+CFLHHANF_01033	gene			
+CFLHHANF_01034	CDS	tadA_1	3.5.4.33	tRNA-specific adenosine deaminase
+CFLHHANF_01034	gene	tadA_1		
+CFLHHANF_01035	CDS	coaE	2.7.1.24	Dephospho-CoA kinase
+CFLHHANF_01035	gene	coaE		
+CFLHHANF_01036	CDS			hypothetical protein
+CFLHHANF_01036	gene			
+CFLHHANF_01037	CDS			hypothetical protein
+CFLHHANF_01037	gene			
+CFLHHANF_01038	CDS			hypothetical protein
+CFLHHANF_01038	gene			
+CFLHHANF_01039	CDS			hypothetical protein
+CFLHHANF_01039	gene			
+CFLHHANF_01040	CDS			hypothetical protein
+CFLHHANF_01040	gene			
+CFLHHANF_01041	CDS			hypothetical protein
+CFLHHANF_01041	gene			
+CFLHHANF_01042	tRNA			tRNA-Ala(tgc)
+CFLHHANF_01042	gene			
+CFLHHANF_01043	CDS	mthTIM_2	2.1.1.37	Modification methylase MthTI
+CFLHHANF_01043	gene	mthTIM_2		
+CFLHHANF_01044	CDS			hypothetical protein
+CFLHHANF_01044	gene			
+CFLHHANF_01045	CDS			hypothetical protein
+CFLHHANF_01045	gene			
+CFLHHANF_01046	CDS			hypothetical protein
+CFLHHANF_01046	gene			
+CFLHHANF_01047	CDS			50S ribosomal protein L18e
+CFLHHANF_01047	gene			
+CFLHHANF_01048	CDS			50S ribosomal protein L13
+CFLHHANF_01048	gene			
+CFLHHANF_01049	CDS	rps9		30S ribosomal protein S9
+CFLHHANF_01049	gene	rps9		
+CFLHHANF_01050	CDS	rpoN	2.7.7.6	DNA-directed RNA polymerase subunit N
+CFLHHANF_01050	gene	rpoN		
+CFLHHANF_01051	tRNA			tRNA-Pro(ggg)
+CFLHHANF_01051	gene			
+CFLHHANF_01052	CDS	ligN_2	6.5.1.2	DNA ligase
+CFLHHANF_01052	gene	ligN_2		
+CFLHHANF_01053	CDS			hypothetical protein
+CFLHHANF_01053	gene			
+CFLHHANF_01054	CDS	icd_2	1.1.1.42	Isocitrate dehydrogenase [NADP]
+CFLHHANF_01054	gene	icd_2		
+CFLHHANF_01055	CDS			hypothetical protein
+CFLHHANF_01055	gene			
+CFLHHANF_01056	CDS	rpoA1_2	2.7.7.6	DNA-directed RNA polymerase subunit A'
+CFLHHANF_01056	gene	rpoA1_2		
+CFLHHANF_01057	CDS			hypothetical protein
+CFLHHANF_01057	gene			
+CFLHHANF_01058	CDS			hypothetical protein
+CFLHHANF_01058	gene			
+CFLHHANF_01059	CDS	resA_2		Thiol-disulfide oxidoreductase ResA
+CFLHHANF_01059	gene	resA_2		
+CFLHHANF_01060	CDS			hypothetical protein
+CFLHHANF_01060	gene			
+CFLHHANF_01061	CDS			hypothetical protein
+CFLHHANF_01061	gene			
+CFLHHANF_01062	CDS	wtpC_2	3.6.3.-	Molybdate/tungstate import ATP-binding protein WtpC
+CFLHHANF_01062	gene	wtpC_2		
+CFLHHANF_01063	CDS			hypothetical protein
+CFLHHANF_01063	gene			
+CFLHHANF_01064	CDS			hypothetical protein
+CFLHHANF_01064	gene			
+CFLHHANF_01065	CDS			hypothetical protein
+CFLHHANF_01065	gene			
+CFLHHANF_01066	tRNA			tRNA-Ala(ggc)
+CFLHHANF_01066	gene			
+CFLHHANF_01067	CDS			hypothetical protein
+CFLHHANF_01067	gene			
+CFLHHANF_01068	CDS			hypothetical protein
+CFLHHANF_01068	gene			
+CFLHHANF_01069	CDS			hypothetical protein
+CFLHHANF_01069	gene			
+CFLHHANF_01070	CDS	tfrA_3	1.3.4.1	Fumarate reductase (CoM/CoB) subunit A
+CFLHHANF_01070	gene	tfrA_3		
+CFLHHANF_01071	CDS			hypothetical protein
+CFLHHANF_01071	gene			
+CFLHHANF_01072	CDS			hypothetical protein
+CFLHHANF_01072	gene			
+CFLHHANF_01073	CDS		2.5.-.-	Deoxyhypusine synthase-like protein
+CFLHHANF_01073	gene			
+CFLHHANF_01074	CDS			hypothetical protein
+CFLHHANF_01074	gene			
+CFLHHANF_01075	CDS			hypothetical protein
+CFLHHANF_01075	gene			
+CFLHHANF_01076	CDS			hypothetical protein
+CFLHHANF_01076	gene			
+CFLHHANF_01077	CDS			hypothetical protein
+CFLHHANF_01077	gene			
+CFLHHANF_01078	CDS	nudF_3	3.6.1.13	ADP-ribose pyrophosphatase
+CFLHHANF_01078	gene	nudF_3		
+CFLHHANF_01079	CDS	mdh	1.1.1.299	Malate dehydrogenase
+CFLHHANF_01079	gene	mdh		
+CFLHHANF_01080	CDS			hypothetical protein
+CFLHHANF_01080	gene			
+CFLHHANF_01081	CDS	ald_2	1.4.1.1	Alanine dehydrogenase
+CFLHHANF_01081	gene	ald_2		
+CFLHHANF_01082	CDS			hypothetical protein
+CFLHHANF_01082	gene			
+CFLHHANF_01083	CDS	obg_2	3.6.5.-	GTPase Obg
+CFLHHANF_01083	gene	obg_2		
+CFLHHANF_01084	CDS			hypothetical protein
+CFLHHANF_01084	gene			
+CFLHHANF_01085	CDS			hypothetical protein
+CFLHHANF_01085	gene			
+CFLHHANF_01086	CDS			hypothetical protein
+CFLHHANF_01086	gene			
+CFLHHANF_01087	CDS	pyrH_2	2.7.4.22	Uridylate kinase
+CFLHHANF_01087	gene	pyrH_2		
+CFLHHANF_01088	CDS			hypothetical protein
+CFLHHANF_01088	gene			
+CFLHHANF_01089	CDS			hypothetical protein
+CFLHHANF_01089	gene			
+CFLHHANF_01090	CDS			30S ribosomal protein S17e
+CFLHHANF_01090	gene			
+CFLHHANF_01091	CDS			50S ribosomal protein L31e
+CFLHHANF_01091	gene			
+CFLHHANF_01092	CDS			DNA-binding protein
+CFLHHANF_01092	gene			
+CFLHHANF_01093	CDS			30S ribosomal protein S19e
+CFLHHANF_01093	gene			
+CFLHHANF_01094	CDS			hypothetical protein
+CFLHHANF_01094	gene			
+CFLHHANF_01095	CDS			hypothetical protein
+CFLHHANF_01095	gene			
+CFLHHANF_01096	CDS			hypothetical protein
+CFLHHANF_01096	gene			
+CFLHHANF_01097	CDS	aspS_1	6.1.1.23	Aspartate--tRNA(Asp/Asn) ligase
+CFLHHANF_01097	gene	aspS_1		
+CFLHHANF_01098	CDS	rhaD_4	1.1.1.377	L-rhamnose 1-dehydrogenase (NADP(+))
+CFLHHANF_01098	gene	rhaD_4		
+CFLHHANF_01099	CDS		4.1.1.-	UbiD-like decarboxylase
+CFLHHANF_01099	gene			
+CFLHHANF_01100	CDS			hypothetical protein
+CFLHHANF_01100	gene			
+CFLHHANF_01101	CDS	rppH_2	3.6.1.-	RNA pyrophosphohydrolase
+CFLHHANF_01101	gene	rppH_2		
+CFLHHANF_01102	CDS			hypothetical protein
+CFLHHANF_01102	gene			
+CFLHHANF_01103	CDS	caiA_1	1.3.99.-	Crotonobetainyl-CoA dehydrogenase
+CFLHHANF_01103	gene	caiA_1		
+CFLHHANF_01104	tRNA			tRNA-Gln(ttg)
+CFLHHANF_01104	gene			
+CFLHHANF_01105	CDS	mvhB		Polyferredoxin protein MvhB
+CFLHHANF_01105	gene	mvhB		
+CFLHHANF_01106	CDS			hypothetical protein
+CFLHHANF_01106	gene			
+CFLHHANF_01107	CDS		2.5.1.41	Geranylgeranylglyceryl phosphate synthase
+CFLHHANF_01107	gene			
+CFLHHANF_01108	CDS			hypothetical protein
+CFLHHANF_01108	gene			
+CFLHHANF_01109	CDS		3.6.4.12	ATP-dependent DNA helicase Hel308
+CFLHHANF_01109	gene			
+CFLHHANF_01110	CDS			hypothetical protein
+CFLHHANF_01110	gene			
+CFLHHANF_01111	CDS			hypothetical protein
+CFLHHANF_01111	gene			
+CFLHHANF_01112	CDS			hypothetical protein
+CFLHHANF_01112	gene			
+CFLHHANF_01113	CDS			hypothetical protein
+CFLHHANF_01113	gene			
+CFLHHANF_01114	CDS			hypothetical protein
+CFLHHANF_01114	gene			
+CFLHHANF_01115	CDS			hypothetical protein
+CFLHHANF_01115	gene			
+CFLHHANF_01116	CDS	rsmA_2	2.1.1.-	putative ribosomal RNA small subunit methyltransferase A
+CFLHHANF_01116	gene	rsmA_2		
+CFLHHANF_01117	CDS	rpoA2_2	2.7.7.6	DNA-directed RNA polymerase subunit A''
+CFLHHANF_01117	gene	rpoA2_2		
+CFLHHANF_01118	CDS			50S ribosomal protein L30e
+CFLHHANF_01118	gene			
+CFLHHANF_01119	CDS			hypothetical protein
+CFLHHANF_01119	gene			
+CFLHHANF_01120	CDS			hypothetical protein
+CFLHHANF_01120	gene			
+CFLHHANF_01121	CDS			hypothetical protein
+CFLHHANF_01121	gene			
+CFLHHANF_01122	CDS			hypothetical protein
+CFLHHANF_01122	gene			
+CFLHHANF_01123	CDS			hypothetical protein
+CFLHHANF_01123	gene			
+CFLHHANF_01124	CDS			hypothetical protein
+CFLHHANF_01124	gene			
+CFLHHANF_01125	CDS			hypothetical protein
+CFLHHANF_01125	gene			
+CFLHHANF_01126	CDS			hypothetical protein
+CFLHHANF_01126	gene			
+CFLHHANF_01127	CDS			hypothetical protein
+CFLHHANF_01127	gene			
+CFLHHANF_01128	CDS	rfcS		Replication factor C small subunit
+CFLHHANF_01128	gene	rfcS		
+CFLHHANF_01129	tRNA			tRNA-Arg(cct)
+CFLHHANF_01129	gene			
+CFLHHANF_01130	CDS			hypothetical protein
+CFLHHANF_01130	gene			
+CFLHHANF_01131	CDS	tfrA_4	1.3.4.1	Fumarate reductase (CoM/CoB) subunit A
+CFLHHANF_01131	gene	tfrA_4		
+CFLHHANF_01132	CDS			hypothetical protein
+CFLHHANF_01132	gene			
+CFLHHANF_01133	CDS			hypothetical protein
+CFLHHANF_01133	gene			
+CFLHHANF_01134	CDS			hypothetical protein
+CFLHHANF_01134	gene			
+CFLHHANF_01135	CDS	tfb_1		Transcription initiation factor IIB
+CFLHHANF_01135	gene	tfb_1		
+CFLHHANF_01136	CDS	rapA	3.6.4.-	RNA polymerase-associated protein RapA
+CFLHHANF_01136	gene	rapA		
+CFLHHANF_01137	CDS			hypothetical protein
+CFLHHANF_01137	gene			
+CFLHHANF_01138	tRNA			tRNA-Ala(tgc)
+CFLHHANF_01138	gene			
+CFLHHANF_01139	CDS			Iron-sulfur cluster carrier protein
+CFLHHANF_01139	gene			
+CFLHHANF_01140	CDS			hypothetical protein
+CFLHHANF_01140	gene			
+CFLHHANF_01141	CDS	nadA_1	2.5.1.72	Quinolinate synthase A
+CFLHHANF_01141	gene	nadA_1		
+CFLHHANF_01142	CDS			hypothetical protein
+CFLHHANF_01142	gene			
+CFLHHANF_01143	CDS		3.4.21.62	Subtilisin-like serine protease
+CFLHHANF_01143	gene			
+CFLHHANF_01144	CDS			putative NOP5 family protein
+CFLHHANF_01144	gene			
+CFLHHANF_01145	CDS	flpA	2.1.1.-	Fibrillarin-like rRNA/tRNA 2'-O-methyltransferase
+CFLHHANF_01145	gene	flpA		
+CFLHHANF_01146	CDS			hypothetical protein
+CFLHHANF_01146	gene			
+CFLHHANF_01147	CDS			hypothetical protein
+CFLHHANF_01147	gene			
+CFLHHANF_01148	CDS	mutM	4.2.99.18	Formamidopyrimidine-DNA glycosylase
+CFLHHANF_01148	gene	mutM		
+CFLHHANF_01149	CDS	rhaD_5	1.1.1.377	L-rhamnose 1-dehydrogenase (NADP(+))
+CFLHHANF_01149	gene	rhaD_5		
+CFLHHANF_01150	CDS	aqpM		putative aquaporin AqpM
+CFLHHANF_01150	gene	aqpM		
+CFLHHANF_01151	CDS			hypothetical protein
+CFLHHANF_01151	gene			
+CFLHHANF_01152	CDS	galK_3	2.7.1.6	Galactokinase
+CFLHHANF_01152	gene	galK_3		
+CFLHHANF_01153	CDS	ribB_2	4.1.99.12	3,4-dihydroxy-2-butanone 4-phosphate synthase
+CFLHHANF_01153	gene	ribB_2		
+CFLHHANF_01154	CDS	ribL_2	2.7.7.2	FAD synthase
+CFLHHANF_01154	gene	ribL_2		
+CFLHHANF_01155	CDS			hypothetical protein
+CFLHHANF_01155	gene			
+CFLHHANF_01156	CDS	ribH_2	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+CFLHHANF_01156	gene	ribH_2		
+CFLHHANF_01157	CDS			hypothetical protein
+CFLHHANF_01157	gene			
+CFLHHANF_01158	CDS	rpoK	2.7.7.6	DNA-directed RNA polymerase subunit K
+CFLHHANF_01158	gene	rpoK		
+CFLHHANF_01159	CDS	fadA_2	2.3.1.16	3-ketoacyl-CoA thiolase
+CFLHHANF_01159	gene	fadA_2		
+CFLHHANF_01160	CDS	kynA	1.13.11.11	Tryptophan 2,3-dioxygenase
+CFLHHANF_01160	gene	kynA		
+CFLHHANF_01161	CDS	menE	6.2.1.26	2-succinylbenzoate--CoA ligase
+CFLHHANF_01161	gene	menE		
+CFLHHANF_01162	CDS	trm5b	2.1.1.228	tRNA (guanine(37)-N1)-methyltransferase Trm5b
+CFLHHANF_01162	gene	trm5b		
+CFLHHANF_01163	CDS			hypothetical protein
+CFLHHANF_01163	gene			
+CFLHHANF_01164	CDS			hypothetical protein
+CFLHHANF_01164	gene			
+CFLHHANF_01165	CDS	dxs_4	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+CFLHHANF_01165	gene	dxs_4		
+CFLHHANF_01166	CDS	dxs_5	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+CFLHHANF_01166	gene	dxs_5		
+CFLHHANF_01167	CDS			hypothetical protein
+CFLHHANF_01167	gene			
+CFLHHANF_01168	CDS	proS_3	6.1.1.15	Proline--tRNA ligase
+CFLHHANF_01168	gene	proS_3		
+CFLHHANF_01169	CDS			hypothetical protein
+CFLHHANF_01169	gene			
+CFLHHANF_01170	CDS			hypothetical protein
+CFLHHANF_01170	gene			
+CFLHHANF_01171	CDS			hypothetical protein
+CFLHHANF_01171	gene			
+CFLHHANF_01172	CDS			hypothetical protein
+CFLHHANF_01172	gene			
+CFLHHANF_01173	CDS			hypothetical protein
+CFLHHANF_01173	gene			
+CFLHHANF_01174	CDS			hypothetical protein
+CFLHHANF_01174	gene			
+CFLHHANF_01175	CDS			hypothetical protein
+CFLHHANF_01175	gene			
+CFLHHANF_01176	CDS			hypothetical protein
+CFLHHANF_01176	gene			
+CFLHHANF_01177	CDS			hypothetical protein
+CFLHHANF_01177	gene			
+CFLHHANF_01178	CDS			hypothetical protein
+CFLHHANF_01178	gene			
+CFLHHANF_01179	CDS			hypothetical protein
+CFLHHANF_01179	gene			
+CFLHHANF_01180	CDS			hypothetical protein
+CFLHHANF_01180	gene			
+CFLHHANF_01181	CDS	smc_1		Chromosome partition protein Smc
+CFLHHANF_01181	gene	smc_1		
+CFLHHANF_01182	CDS			hypothetical protein
+CFLHHANF_01182	gene			
+CFLHHANF_01183	CDS	tadA_2	3.5.4.33	tRNA-specific adenosine deaminase
+CFLHHANF_01183	gene	tadA_2		
+CFLHHANF_01184	CDS			hypothetical protein
+CFLHHANF_01184	gene			
+CFLHHANF_01185	CDS	cutA_2	1.2.99.8	Glyceraldehyde dehydrogenase large chain
+CFLHHANF_01185	gene	cutA_2		
+CFLHHANF_01186	CDS			hypothetical protein
+CFLHHANF_01186	gene			
+CFLHHANF_01187	CDS			hypothetical protein
+CFLHHANF_01187	gene			
+CFLHHANF_01188	CDS			hypothetical protein
+CFLHHANF_01188	gene			
+CFLHHANF_01189	CDS	mqnD_2	4.1.-.-	1,4-dihydroxy-6-naphtoate synthase
+CFLHHANF_01189	gene	mqnD_2		
+CFLHHANF_01190	CDS			hypothetical protein
+CFLHHANF_01190	gene			
+CFLHHANF_01191	CDS	mqnA_2	4.2.1.151	Chorismate dehydratase
+CFLHHANF_01191	gene	mqnA_2		
+CFLHHANF_01192	CDS			hypothetical protein
+CFLHHANF_01192	gene			
+CFLHHANF_01193	CDS			hypothetical protein
+CFLHHANF_01193	gene			
+CFLHHANF_01194	CDS			hypothetical protein
+CFLHHANF_01194	gene			
+CFLHHANF_01195	CDS			hypothetical protein
+CFLHHANF_01195	gene			
+CFLHHANF_01196	CDS	rnp4_1	3.1.26.5	Ribonuclease P protein component 4
+CFLHHANF_01196	gene	rnp4_1		
+CFLHHANF_01197	CDS	adk_1	2.7.4.3	Adenylate kinase
+CFLHHANF_01197	gene	adk_1		
+CFLHHANF_01198	CDS			hypothetical protein
+CFLHHANF_01198	gene			
+CFLHHANF_01199	CDS			hypothetical protein
+CFLHHANF_01199	gene			
+CFLHHANF_01200	CDS	nudF_4	3.6.1.13	ADP-ribose pyrophosphatase
+CFLHHANF_01200	gene	nudF_4		
+CFLHHANF_01201	CDS	uppS_2	2.5.1.89	Tritrans,polycis-undecaprenyl-diphosphate synthase (GGDP specific)
+CFLHHANF_01201	gene	uppS_2		
+CFLHHANF_01202	CDS			hypothetical protein
+CFLHHANF_01202	gene			
+CFLHHANF_01203	CDS			hypothetical protein
+CFLHHANF_01203	gene			
+CFLHHANF_01204	CDS		1.1.1.376	L-arabinose 1-dehydrogenase (NAD(P)(+))
+CFLHHANF_01204	gene			
+CFLHHANF_01205	CDS	pan_2		Proteasome-activating nucleotidase
+CFLHHANF_01205	gene	pan_2		
+CFLHHANF_01206	CDS		2.1.2.5	Glutamate formimidoyltransferase
+CFLHHANF_01206	gene			
+CFLHHANF_01207	CDS			hypothetical protein
+CFLHHANF_01207	gene			
+CFLHHANF_01208	CDS	fpoH_3	1.12.98.3	F(420)H(2) dehydrogenase subunit H
+CFLHHANF_01208	gene	fpoH_3		
+CFLHHANF_01209	CDS	fpoD_3	1.12.98.3	F(420)H(2) dehydrogenase subunit D
+CFLHHANF_01209	gene	fpoD_3		
+CFLHHANF_01210	CDS	nuoCD_3	1.6.5.11	NADH-quinone oxidoreductase subunit C/D
+CFLHHANF_01210	gene	nuoCD_3		
+CFLHHANF_01211	CDS	fpoB_2	1.12.98.3	F(420)H(2) dehydrogenase subunit B
+CFLHHANF_01211	gene	fpoB_2		
+CFLHHANF_01212	CDS	fpoA_1	1.12.98.3	F(420)H(2) dehydrogenase subunit A
+CFLHHANF_01212	gene	fpoA_1		
+CFLHHANF_01213	CDS			hypothetical protein
+CFLHHANF_01213	gene			
+CFLHHANF_01214	CDS			hypothetical protein
+CFLHHANF_01214	gene			
+CFLHHANF_01215	CDS			hypothetical protein
+CFLHHANF_01215	gene			
+CFLHHANF_01216	CDS			hypothetical protein
+CFLHHANF_01216	gene			
+CFLHHANF_01217	CDS			hypothetical protein
+CFLHHANF_01217	gene			
+CFLHHANF_01218	CDS			hypothetical protein
+CFLHHANF_01218	gene			
+CFLHHANF_01219	CDS	rnp4_2	3.1.26.5	Ribonuclease P protein component 4
+CFLHHANF_01219	gene	rnp4_2		
+CFLHHANF_01220	CDS	adk_2	2.7.4.3	Adenylate kinase
+CFLHHANF_01220	gene	adk_2		
+CFLHHANF_01221	CDS			hypothetical protein
+CFLHHANF_01221	gene			
+CFLHHANF_01222	CDS			hypothetical protein
+CFLHHANF_01222	gene			
+CFLHHANF_01223	CDS	ileS_4	6.1.1.5	Isoleucine--tRNA ligase
+CFLHHANF_01223	gene	ileS_4		
+CFLHHANF_01224	CDS			hypothetical protein
+CFLHHANF_01224	gene			
+CFLHHANF_01225	CDS	fcl_3	1.1.1.271	GDP-L-fucose synthase
+CFLHHANF_01225	gene	fcl_3		
+CFLHHANF_01226	CDS	gyaR_2	1.1.1.26	Glyoxylate reductase
+CFLHHANF_01226	gene	gyaR_2		
+CFLHHANF_01227	CDS			hypothetical protein
+CFLHHANF_01227	gene			
+CFLHHANF_01228	CDS	ygfZ		tRNA-modifying protein YgfZ
+CFLHHANF_01228	gene	ygfZ		
+CFLHHANF_01229	CDS	erpA		Iron-sulfur cluster insertion protein ErpA
+CFLHHANF_01229	gene	erpA		
+CFLHHANF_01230	CDS	fdhD_2		Protein FdhD
+CFLHHANF_01230	gene	fdhD_2		
+CFLHHANF_01231	CDS	fdhA	1.2.1.2	Formate dehydrogenase subunit alpha
+CFLHHANF_01231	gene	fdhA		
+CFLHHANF_01232	CDS	ycf3		Photosystem I assembly protein Ycf3
+CFLHHANF_01232	gene	ycf3		
+CFLHHANF_01233	CDS			hypothetical protein
+CFLHHANF_01233	gene			
+CFLHHANF_01234	CDS			30S ribosomal protein S19e
+CFLHHANF_01234	gene			
+CFLHHANF_01235	CDS			50S ribosomal protein L39e
+CFLHHANF_01235	gene			
+CFLHHANF_01236	CDS			50S ribosomal protein L31e
+CFLHHANF_01236	gene			
+CFLHHANF_01237	CDS			30S ribosomal protein S17e
+CFLHHANF_01237	gene			
+CFLHHANF_01238	CDS	trmL	2.1.1.207	tRNA (cytidine(34)-2'-O)-methyltransferase
+CFLHHANF_01238	gene	trmL		
+CFLHHANF_01239	CDS			hypothetical protein
+CFLHHANF_01239	gene			
+CFLHHANF_01240	CDS			hypothetical protein
+CFLHHANF_01240	gene			
+CFLHHANF_01241	CDS		1.11.1.15	Peroxiredoxin
+CFLHHANF_01241	gene			
+CFLHHANF_01242	CDS	ribA_4	3.5.4.25	GTP cyclohydrolase-2
+CFLHHANF_01242	gene	ribA_4		
+CFLHHANF_01243	CDS	phr	4.1.99.3	Deoxyribodipyrimidine photo-lyase
+CFLHHANF_01243	gene	phr		
+CFLHHANF_01244	CDS			hypothetical protein
+CFLHHANF_01244	gene			
+CFLHHANF_01245	CDS			hypothetical protein
+CFLHHANF_01245	gene			
+CFLHHANF_01246	CDS			hypothetical protein
+CFLHHANF_01246	gene			
+CFLHHANF_01247	CDS			hypothetical protein
+CFLHHANF_01247	gene			
+CFLHHANF_01248	CDS	tmk	2.7.4.9	putative thymidylate kinase
+CFLHHANF_01248	gene	tmk		
+CFLHHANF_01249	CDS			hypothetical protein
+CFLHHANF_01249	gene			
+CFLHHANF_01250	CDS	idsA	2.5.1.-	Short chain isoprenyl diphosphate synthase
+CFLHHANF_01250	gene	idsA		
+CFLHHANF_01251	CDS			hypothetical protein
+CFLHHANF_01251	gene			
+CFLHHANF_01252	CDS			hypothetical protein
+CFLHHANF_01252	gene			
+CFLHHANF_01253	CDS		5.1.99.1	Methylmalonyl-CoA epimerase
+CFLHHANF_01253	gene			
+CFLHHANF_01254	CDS			hypothetical protein
+CFLHHANF_01254	gene			
+CFLHHANF_01255	CDS			hypothetical protein
+CFLHHANF_01255	gene			
+CFLHHANF_01256	CDS	folE_2	3.5.4.16	GTP cyclohydrolase 1
+CFLHHANF_01256	gene	folE_2		
+CFLHHANF_01257	CDS	queE_1	4.3.99.3	7-carboxy-7-deazaguanine synthase
+CFLHHANF_01257	gene	queE_1		
+CFLHHANF_01258	CDS	msrB_1	1.8.4.12	Peptide methionine sulfoxide reductase MsrB
+CFLHHANF_01258	gene	msrB_1		
+CFLHHANF_01259	CDS			hypothetical protein
+CFLHHANF_01259	gene			
+CFLHHANF_01260	CDS	rsxB_2		Electron transport complex subunit RsxB
+CFLHHANF_01260	gene	rsxB_2		
+CFLHHANF_01261	CDS			hypothetical protein
+CFLHHANF_01261	gene			
+CFLHHANF_01262	CDS	rps3ae		30S ribosomal protein S3Ae
+CFLHHANF_01262	gene	rps3ae		
+CFLHHANF_01263	CDS		2.4.2.1	putative 6-oxopurine nucleoside phosphorylase
+CFLHHANF_01263	gene			
+CFLHHANF_01264	CDS			hypothetical protein
+CFLHHANF_01264	gene			
+CFLHHANF_01265	CDS			hypothetical protein
+CFLHHANF_01265	gene			
+CFLHHANF_01266	CDS			hypothetical protein
+CFLHHANF_01266	gene			
+CFLHHANF_01267	CDS			hypothetical protein
+CFLHHANF_01267	gene			
+CFLHHANF_01268	CDS			hypothetical protein
+CFLHHANF_01268	gene			
+CFLHHANF_01269	CDS		5.1.99.1	Methylmalonyl-CoA epimerase
+CFLHHANF_01269	gene			
+CFLHHANF_01270	CDS			hypothetical protein
+CFLHHANF_01270	gene			
+CFLHHANF_01271	CDS			hypothetical protein
+CFLHHANF_01271	gene			
+CFLHHANF_01272	CDS	folE_3	3.5.4.16	GTP cyclohydrolase 1
+CFLHHANF_01272	gene	folE_3		
+CFLHHANF_01273	CDS	queE_2	4.3.99.3	7-carboxy-7-deazaguanine synthase
+CFLHHANF_01273	gene	queE_2		
+CFLHHANF_01274	CDS	msrB_2	1.8.4.12	Peptide methionine sulfoxide reductase MsrB
+CFLHHANF_01274	gene	msrB_2		
+CFLHHANF_01275	CDS			hypothetical protein
+CFLHHANF_01275	gene			
+CFLHHANF_01276	CDS			hypothetical protein
+CFLHHANF_01276	gene			
+CFLHHANF_01277	CDS			hypothetical protein
+CFLHHANF_01277	gene			
+CFLHHANF_01278	CDS			hypothetical protein
+CFLHHANF_01278	gene			
+CFLHHANF_01279	CDS			30S ribosomal protein S27ae
+CFLHHANF_01279	gene			
+CFLHHANF_01280	CDS	rps2e		30S ribosomal protein S24e
+CFLHHANF_01280	gene	rps2e		
+CFLHHANF_01281	CDS			hypothetical protein
+CFLHHANF_01281	gene			
+CFLHHANF_01282	CDS	rpoE1	2.7.7.6	DNA-directed RNA polymerase subunit E'
+CFLHHANF_01282	gene	rpoE1		
+CFLHHANF_01283	CDS			hypothetical protein
+CFLHHANF_01283	gene			
+CFLHHANF_01284	CDS	pycA_3	6.4.1.1	Pyruvate carboxylase subunit A
+CFLHHANF_01284	gene	pycA_3		
+CFLHHANF_01285	CDS			hypothetical protein
+CFLHHANF_01285	gene			
+CFLHHANF_01286	CDS			hypothetical protein
+CFLHHANF_01286	gene			
+CFLHHANF_01287	CDS	tuf_2		Elongation factor 1-alpha
+CFLHHANF_01287	gene	tuf_2		
+CFLHHANF_01288	CDS			hypothetical protein
+CFLHHANF_01288	gene			
+CFLHHANF_01289	CDS			hypothetical protein
+CFLHHANF_01289	gene			
+CFLHHANF_01290	CDS			hypothetical protein
+CFLHHANF_01290	gene			
+CFLHHANF_01291	CDS			hypothetical protein
+CFLHHANF_01291	gene			
+CFLHHANF_01292	CDS			hypothetical protein
+CFLHHANF_01292	gene			
+CFLHHANF_01293	CDS			hypothetical protein
+CFLHHANF_01293	gene			
+CFLHHANF_01294	tRNA			tRNA-Gly(tcc)
+CFLHHANF_01294	gene			
+CFLHHANF_01295	CDS			hypothetical protein
+CFLHHANF_01295	gene			
+CFLHHANF_01296	CDS	vat_1		VCP-like ATPase
+CFLHHANF_01296	gene	vat_1		
+CFLHHANF_01297	CDS	arnA	1.1.1.305	Bifunctional polymyxin resistance protein ArnA
+CFLHHANF_01297	gene	arnA		
+CFLHHANF_01298	CDS	pqqE_3		Coenzyme PQQ synthesis protein E
+CFLHHANF_01298	gene	pqqE_3		
+CFLHHANF_01299	CDS	aglI	2.4.1.-	Glycosyltransferase AglI
+CFLHHANF_01299	gene	aglI		
+CFLHHANF_01300	CDS			hypothetical protein
+CFLHHANF_01300	gene			
+CFLHHANF_01301	CDS			hypothetical protein
+CFLHHANF_01301	gene			
+CFLHHANF_01302	CDS			hypothetical protein
+CFLHHANF_01302	gene			
+CFLHHANF_01303	CDS			hypothetical protein
+CFLHHANF_01303	gene			
+CFLHHANF_01304	CDS			hypothetical protein
+CFLHHANF_01304	gene			
+CFLHHANF_01305	CDS			hypothetical protein
+CFLHHANF_01305	gene			
+CFLHHANF_01306	CDS	fbiB_3	6.3.2.34	Coenzyme F420:L-glutamate ligase
+CFLHHANF_01306	gene	fbiB_3		
+CFLHHANF_01307	CDS	pepA_2	3.4.11.10	cytosol aminopeptidase
+CFLHHANF_01307	gene	pepA_2		
+CFLHHANF_01308	CDS	dnaK		Chaperone protein DnaK
+CFLHHANF_01308	gene	dnaK		
+CFLHHANF_01309	CDS		2.7.8.39	Archaetidylinositol phosphate synthase
+CFLHHANF_01309	gene			
+CFLHHANF_01310	CDS	ftsZ1_3		Cell division protein FtsZ 1
+CFLHHANF_01310	gene	ftsZ1_3		
+CFLHHANF_01311	CDS			hypothetical protein
+CFLHHANF_01311	gene			
+CFLHHANF_01312	CDS	spt5_2		Transcription elongation factor Spt5
+CFLHHANF_01312	gene	spt5_2		
+CFLHHANF_01313	CDS			50S ribosomal protein L11
+CFLHHANF_01313	gene			
+CFLHHANF_01314	CDS	rpl1		50S ribosomal protein L1
+CFLHHANF_01314	gene	rpl1		
+CFLHHANF_01315	CDS			50S ribosomal protein L10
+CFLHHANF_01315	gene			
+CFLHHANF_01316	CDS			50S ribosomal protein L12
+CFLHHANF_01316	gene			
+CFLHHANF_01317	CDS	ychF		Ribosome-binding ATPase YchF
+CFLHHANF_01317	gene	ychF		
+CFLHHANF_01318	CDS			hypothetical protein
+CFLHHANF_01318	gene			
+CFLHHANF_01319	CDS	truA_2	5.4.99.12	tRNA pseudouridine synthase A
+CFLHHANF_01319	gene	truA_2		
+CFLHHANF_01320	CDS			hypothetical protein
+CFLHHANF_01320	gene			
+CFLHHANF_01321	CDS			hypothetical protein
+CFLHHANF_01321	gene			
+CFLHHANF_01322	CDS			hypothetical protein
+CFLHHANF_01322	gene			
+CFLHHANF_01323	CDS	hdrD_2	1.8.98.1	CoB--CoM heterodisulfide reductase iron-sulfur subunit D
+CFLHHANF_01323	gene	hdrD_2		
+CFLHHANF_01324	CDS	gmd	4.2.1.47	GDP-mannose 4,6-dehydratase
+CFLHHANF_01324	gene	gmd		
+CFLHHANF_01325	CDS	cct1		Thermosome subunit 1
+CFLHHANF_01325	gene	cct1		
+CFLHHANF_01326	CDS			hypothetical protein
+CFLHHANF_01326	gene			
+CFLHHANF_01327	CDS	aspC_2	2.6.1.1	Aspartate aminotransferase
+CFLHHANF_01327	gene	aspC_2		
+CFLHHANF_01328	CDS			hypothetical protein
+CFLHHANF_01328	gene			
+CFLHHANF_01329	CDS			hypothetical protein
+CFLHHANF_01329	gene			
+CFLHHANF_01330	CDS			hypothetical protein
+CFLHHANF_01330	gene			
+CFLHHANF_01331	CDS			hypothetical protein
+CFLHHANF_01331	gene			
+CFLHHANF_01332	CDS			hypothetical protein
+CFLHHANF_01332	gene			
+CFLHHANF_01333	CDS			hypothetical protein
+CFLHHANF_01333	gene			
+CFLHHANF_01334	CDS	mdtD		Putative multidrug resistance protein MdtD
+CFLHHANF_01334	gene	mdtD		
+CFLHHANF_01335	CDS			hypothetical protein
+CFLHHANF_01335	gene			
+CFLHHANF_01336	CDS			hypothetical protein
+CFLHHANF_01336	gene			
+CFLHHANF_01337	CDS			hypothetical protein
+CFLHHANF_01337	gene			
+CFLHHANF_01338	CDS			hypothetical protein
+CFLHHANF_01338	gene			
+CFLHHANF_01339	CDS			hypothetical protein
+CFLHHANF_01339	gene			
+CFLHHANF_01340	CDS			hypothetical protein
+CFLHHANF_01340	gene			
+CFLHHANF_01341	CDS			hypothetical protein
+CFLHHANF_01341	gene			
+CFLHHANF_01342	CDS			hypothetical protein
+CFLHHANF_01342	gene			
+CFLHHANF_01343	CDS	ahpC_3	1.11.1.15	Peroxiredoxin
+CFLHHANF_01343	gene	ahpC_3		
+CFLHHANF_01344	CDS			hypothetical protein
+CFLHHANF_01344	gene			
+CFLHHANF_01345	CDS		3.2.2.-	G/T mismatches repair enzyme
+CFLHHANF_01345	gene			
+CFLHHANF_01346	CDS			hypothetical protein
+CFLHHANF_01346	gene			
+CFLHHANF_01347	CDS			hypothetical protein
+CFLHHANF_01347	gene			
+CFLHHANF_01348	CDS			hypothetical protein
+CFLHHANF_01348	gene			
+CFLHHANF_01349	CDS			hypothetical protein
+CFLHHANF_01349	gene			
+CFLHHANF_01350	CDS	secY		Protein translocase subunit SecY
+CFLHHANF_01350	gene	secY		
+CFLHHANF_01351	CDS			50S ribosomal protein L15
+CFLHHANF_01351	gene			
+CFLHHANF_01352	CDS			50S ribosomal protein L30
+CFLHHANF_01352	gene			
+CFLHHANF_01353	CDS	rps5_2		30S ribosomal protein S5
+CFLHHANF_01353	gene	rps5_2		
+CFLHHANF_01354	CDS			50S ribosomal protein L18
+CFLHHANF_01354	gene			
+CFLHHANF_01355	CDS			hypothetical protein
+CFLHHANF_01355	gene			
+CFLHHANF_01356	CDS			hypothetical protein
+CFLHHANF_01356	gene			
+CFLHHANF_01357	CDS	hcy_2		Halocyanin
+CFLHHANF_01357	gene	hcy_2		
+CFLHHANF_01358	CDS	rhaD_6	1.1.1.377	L-rhamnose 1-dehydrogenase (NADP(+))
+CFLHHANF_01358	gene	rhaD_6		
+CFLHHANF_01359	CDS	aspS_2	6.1.1.12	Aspartate--tRNA(Asp) ligase
+CFLHHANF_01359	gene	aspS_2		
+CFLHHANF_01360	CDS			hypothetical protein
+CFLHHANF_01360	gene			
+CFLHHANF_01361	CDS	trmI	2.1.1.219	tRNA (adenine(57)-N(1)/adenine(58)-N(1))-methyltransferase TrmI
+CFLHHANF_01361	gene	trmI		
+CFLHHANF_01362	CDS			hypothetical protein
+CFLHHANF_01362	gene			
+CFLHHANF_01363	CDS	dapH_2	2.3.1.89	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+CFLHHANF_01363	gene	dapH_2		
+CFLHHANF_01364	CDS			hypothetical protein
+CFLHHANF_01364	gene			
+CFLHHANF_01365	CDS			hypothetical protein
+CFLHHANF_01365	gene			
+CFLHHANF_01366	CDS			hypothetical protein
+CFLHHANF_01366	gene			
+CFLHHANF_01367	CDS			hypothetical protein
+CFLHHANF_01367	gene			
+CFLHHANF_01368	CDS	glmS_3	2.6.1.16	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+CFLHHANF_01368	gene	glmS_3		
+CFLHHANF_01369	CDS	kaiC	2.7.11.1	Circadian clock protein kinase KaiC
+CFLHHANF_01369	gene	kaiC		
+CFLHHANF_01370	CDS	maf_3		Septum formation protein Maf
+CFLHHANF_01370	gene	maf_3		
+CFLHHANF_01371	CDS		1.2.1.89	D-glyceraldehyde dehydrogenase (NADP(+))
+CFLHHANF_01371	gene			
+CFLHHANF_01372	CDS	pgk2_2	2.7.2.-	2-phosphoglycerate kinase
+CFLHHANF_01372	gene	pgk2_2		
+CFLHHANF_01373	CDS			hypothetical protein
+CFLHHANF_01373	gene			
+CFLHHANF_01374	CDS			hypothetical protein
+CFLHHANF_01374	gene			
+CFLHHANF_01375	CDS			hypothetical protein
+CFLHHANF_01375	gene			
+CFLHHANF_01376	CDS			hypothetical protein
+CFLHHANF_01376	gene			
+CFLHHANF_01377	CDS			hypothetical protein
+CFLHHANF_01377	gene			
+CFLHHANF_01378	CDS			hypothetical protein
+CFLHHANF_01378	gene			
+CFLHHANF_01379	CDS			hypothetical protein
+CFLHHANF_01379	gene			
+CFLHHANF_01380	CDS			hypothetical protein
+CFLHHANF_01380	gene			
+CFLHHANF_01381	CDS			hypothetical protein
+CFLHHANF_01381	gene			
+CFLHHANF_01382	CDS	fcl_4	1.1.1.271	GDP-L-fucose synthase
+CFLHHANF_01382	gene	fcl_4		
+CFLHHANF_01383	CDS	gcvPA	1.4.4.2	glycine dehydrogenase (decarboxylating) subunit 1
+CFLHHANF_01383	gene	gcvPA		
+CFLHHANF_01384	CDS	gcvPB	1.4.4.2	glycine dehydrogenase (decarboxylating) subunit 2
+CFLHHANF_01384	gene	gcvPB		
+CFLHHANF_01385	CDS			hypothetical protein
+CFLHHANF_01385	gene			
+CFLHHANF_01386	CDS	purE_2	5.4.99.18	N5-carboxyaminoimidazole ribonucleotide mutase
+CFLHHANF_01386	gene	purE_2		
+CFLHHANF_01387	CDS	guaAB_2	6.3.5.2	GMP synthase [glutamine-hydrolyzing] subunit B
+CFLHHANF_01387	gene	guaAB_2		
+CFLHHANF_01388	tRNA			tRNA-Asn(gtt)
+CFLHHANF_01388	gene			
+CFLHHANF_01389	CDS			hypothetical protein
+CFLHHANF_01389	gene			
+CFLHHANF_01390	CDS			hypothetical protein
+CFLHHANF_01390	gene			
+CFLHHANF_01391	CDS			hypothetical protein
+CFLHHANF_01391	gene			
+CFLHHANF_01392	CDS	dusB	1.3.1.-	tRNA-dihydrouridine synthase B
+CFLHHANF_01392	gene	dusB		
+CFLHHANF_01393	CDS			hypothetical protein
+CFLHHANF_01393	gene			
+CFLHHANF_01394	CDS			hypothetical protein
+CFLHHANF_01394	gene			
+CFLHHANF_01395	CDS	vat_2		VCP-like ATPase
+CFLHHANF_01395	gene	vat_2		
+CFLHHANF_01396	CDS			hypothetical protein
+CFLHHANF_01396	gene			
+CFLHHANF_01397	CDS	tfrB_2	1.3.4.1	Fumarate reductase (CoM/CoB) subunit B
+CFLHHANF_01397	gene	tfrB_2		
+CFLHHANF_01398	CDS	tfrA_5	1.3.4.1	Fumarate reductase (CoM/CoB) subunit A
+CFLHHANF_01398	gene	tfrA_5		
+CFLHHANF_01399	CDS			hypothetical protein
+CFLHHANF_01399	gene			
+CFLHHANF_01400	CDS			hypothetical protein
+CFLHHANF_01400	gene			
+CFLHHANF_01401	CDS	ligN_3	6.5.1.2	DNA ligase
+CFLHHANF_01401	gene	ligN_3		
+CFLHHANF_01402	CDS			hypothetical protein
+CFLHHANF_01402	gene			
+CFLHHANF_01403	CDS			Small-conductance mechanosensitive channel MscMJ
+CFLHHANF_01403	gene			
+CFLHHANF_01404	CDS			hypothetical protein
+CFLHHANF_01404	gene			
+CFLHHANF_01405	CDS	panB	2.1.2.11	3-methyl-2-oxobutanoate hydroxymethyltransferase
+CFLHHANF_01405	gene	panB		
+CFLHHANF_01406	CDS			hypothetical protein
+CFLHHANF_01406	gene			
+CFLHHANF_01407	CDS			hypothetical protein
+CFLHHANF_01407	gene			
+CFLHHANF_01408	CDS		5.3.1.29	Putative thiazole biosynthetic enzyme
+CFLHHANF_01408	gene			
+CFLHHANF_01409	CDS	smc_2		Chromosome partition protein Smc
+CFLHHANF_01409	gene	smc_2		
+CFLHHANF_01410	CDS			hypothetical protein
+CFLHHANF_01410	gene			
+CFLHHANF_01411	CDS	fpoA_2	1.12.98.3	F(420)H(2) dehydrogenase subunit A
+CFLHHANF_01411	gene	fpoA_2		
+CFLHHANF_01412	CDS			hypothetical protein
+CFLHHANF_01412	gene			
+CFLHHANF_01413	CDS		3.4.21.62	Subtilisin-like serine protease
+CFLHHANF_01413	gene			
+CFLHHANF_01414	CDS			hypothetical protein
+CFLHHANF_01414	gene			
+CFLHHANF_01415	CDS			hypothetical protein
+CFLHHANF_01415	gene			
+CFLHHANF_01416	CDS			hypothetical protein
+CFLHHANF_01416	gene			
+CFLHHANF_01417	CDS		1.1.1.374	UDP-N-acetylglucosamine 3-dehydrogenase
+CFLHHANF_01417	gene			
+CFLHHANF_01418	CDS			hypothetical protein
+CFLHHANF_01418	gene			
+CFLHHANF_01419	CDS			putative KH and PIN-domain containing protein
+CFLHHANF_01419	gene			
+CFLHHANF_01420	CDS			hypothetical protein
+CFLHHANF_01420	gene			
+CFLHHANF_01421	CDS			hypothetical protein
+CFLHHANF_01421	gene			
+CFLHHANF_01422	CDS			hypothetical protein
+CFLHHANF_01422	gene			
+CFLHHANF_01423	CDS			hypothetical protein
+CFLHHANF_01423	gene			
+CFLHHANF_01424	CDS			hypothetical protein
+CFLHHANF_01424	gene			
+CFLHHANF_01425	CDS			hypothetical protein
+CFLHHANF_01425	gene			
+CFLHHANF_01426	CDS			hypothetical protein
+CFLHHANF_01426	gene			
+CFLHHANF_01427	CDS			hypothetical protein
+CFLHHANF_01427	gene			
+CFLHHANF_01428	CDS			hypothetical protein
+CFLHHANF_01428	gene			
+CFLHHANF_01429	CDS			hypothetical protein
+CFLHHANF_01429	gene			
+CFLHHANF_01430	CDS			hypothetical protein
+CFLHHANF_01430	gene			
+CFLHHANF_01431	CDS	rps8e_1		30S ribosomal protein S8e
+CFLHHANF_01431	gene	rps8e_1		
+CFLHHANF_01432	CDS		3.1.3.3	Phosphoserine phosphatase
+CFLHHANF_01432	gene			
+CFLHHANF_01433	CDS			hypothetical protein
+CFLHHANF_01433	gene			
+CFLHHANF_01434	CDS			hypothetical protein
+CFLHHANF_01434	gene			
+CFLHHANF_01435	CDS			hypothetical protein
+CFLHHANF_01435	gene			
+CFLHHANF_01436	CDS			hypothetical protein
+CFLHHANF_01436	gene			
+CFLHHANF_01437	CDS			hypothetical protein
+CFLHHANF_01437	gene			
+CFLHHANF_01438	CDS	ahpC_4	1.11.1.15	Peroxiredoxin
+CFLHHANF_01438	gene	ahpC_4		
+CFLHHANF_01439	tRNA			tRNA-Gln(ttg)
+CFLHHANF_01439	gene			
+CFLHHANF_01440	CDS	deoA	2.4.2.57	AMP phosphorylase
+CFLHHANF_01440	gene	deoA		
+CFLHHANF_01441	CDS	wecH	2.3.1.-	O-acetyltransferase WecH
+CFLHHANF_01441	gene	wecH		
+CFLHHANF_01442	CDS			hypothetical protein
+CFLHHANF_01442	gene			
+CFLHHANF_01443	CDS			hypothetical protein
+CFLHHANF_01443	gene			
+CFLHHANF_01444	CDS	rps8e_2		30S ribosomal protein S8e
+CFLHHANF_01444	gene	rps8e_2		
+CFLHHANF_01445	CDS			Signal recognition particle 19 kDa protein
+CFLHHANF_01445	gene			
+CFLHHANF_01446	CDS			hypothetical protein
+CFLHHANF_01446	gene			
+CFLHHANF_01447	CDS			hypothetical protein
+CFLHHANF_01447	gene			
+CFLHHANF_01448	CDS			Small-conductance mechanosensitive channel MscMJ
+CFLHHANF_01448	gene			
+CFLHHANF_01449	CDS			hypothetical protein
+CFLHHANF_01449	gene			
+CFLHHANF_01450	CDS			hypothetical protein
+CFLHHANF_01450	gene			
+CFLHHANF_01451	CDS	queE_3	4.3.99.3	7-carboxy-7-deazaguanine synthase
+CFLHHANF_01451	gene	queE_3		
+CFLHHANF_01452	CDS			hypothetical protein
+CFLHHANF_01452	gene			
+CFLHHANF_01453	CDS			hypothetical protein
+CFLHHANF_01453	gene			
+CFLHHANF_01454	CDS			hypothetical protein
+CFLHHANF_01454	gene			
+CFLHHANF_01455	CDS	pan_3		Proteasome-activating nucleotidase
+CFLHHANF_01455	gene	pan_3		
+CFLHHANF_01456	CDS			hypothetical protein
+CFLHHANF_01456	gene			
+CFLHHANF_01457	CDS			hypothetical protein
+CFLHHANF_01457	gene			
+CFLHHANF_01458	CDS	eif2g		Translation initiation factor 2 subunit gamma
+CFLHHANF_01458	gene	eif2g		
+CFLHHANF_01459	CDS			hypothetical protein
+CFLHHANF_01459	gene			
+CFLHHANF_01460	CDS			putative ABC transporter ATP-binding protein
+CFLHHANF_01460	gene			
+CFLHHANF_01461	CDS			hypothetical protein
+CFLHHANF_01461	gene			
+CFLHHANF_01462	CDS			hypothetical protein
+CFLHHANF_01462	gene			
+CFLHHANF_01463	CDS	rpoB1	2.7.7.6	DNA-directed RNA polymerase subunit B'
+CFLHHANF_01463	gene	rpoB1		
+CFLHHANF_01464	CDS	hldE_3	2.7.7.70	Bifunctional protein HldE
+CFLHHANF_01464	gene	hldE_3		
+CFLHHANF_01465	CDS			hypothetical protein
+CFLHHANF_01465	gene			
+CFLHHANF_01466	CDS			hypothetical protein
+CFLHHANF_01466	gene			
+CFLHHANF_01467	CDS			hypothetical protein
+CFLHHANF_01467	gene			
+CFLHHANF_01468	CDS			hypothetical protein
+CFLHHANF_01468	gene			
+CFLHHANF_01469	CDS			hypothetical protein
+CFLHHANF_01469	gene			
+CFLHHANF_01470	CDS	thrC	4.2.3.1	Threonine synthase
+CFLHHANF_01470	gene	thrC		
+CFLHHANF_01471	CDS	fadA_3	2.3.1.16	3-ketoacyl-CoA thiolase
+CFLHHANF_01471	gene	fadA_3		
+CFLHHANF_01472	CDS		4.2.1.116	3-hydroxypropionyl-coenzyme A dehydratase
+CFLHHANF_01472	gene			
+CFLHHANF_01473	CDS	caiA_2	1.3.99.-	Crotonobetainyl-CoA dehydrogenase
+CFLHHANF_01473	gene	caiA_2		
+CFLHHANF_01474	CDS	menH_3	4.2.99.20	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+CFLHHANF_01474	gene	menH_3		
+CFLHHANF_01475	CDS			hypothetical protein
+CFLHHANF_01475	gene			
+CFLHHANF_01476	CDS			hypothetical protein
+CFLHHANF_01476	gene			
+CFLHHANF_01477	CDS			hypothetical protein
+CFLHHANF_01477	gene			
+CFLHHANF_01478	CDS	lysJ_2	2.6.1.-	[LysW]-aminoadipate semialdehyde/glutamate semialdehyde transaminase
+CFLHHANF_01478	gene	lysJ_2		
+CFLHHANF_01479	CDS			hypothetical protein
+CFLHHANF_01479	gene			
+CFLHHANF_01480	CDS	polC_4	2.7.7.7	DNA polymerase II large subunit
+CFLHHANF_01480	gene	polC_4		
+CFLHHANF_01481	CDS			hypothetical protein
+CFLHHANF_01481	gene			
+CFLHHANF_01482	CDS			hypothetical protein
+CFLHHANF_01482	gene			
+CFLHHANF_01483	CDS			hypothetical protein
+CFLHHANF_01483	gene			
+CFLHHANF_01484	CDS			putative ABC transporter ATP-binding protein
+CFLHHANF_01484	gene			
+CFLHHANF_01485	CDS			hypothetical protein
+CFLHHANF_01485	gene			
+CFLHHANF_01486	CDS			hypothetical protein
+CFLHHANF_01486	gene			
+CFLHHANF_01487	CDS			hypothetical protein
+CFLHHANF_01487	gene			
+CFLHHANF_01488	CDS			hypothetical protein
+CFLHHANF_01488	gene			
+CFLHHANF_01489	CDS			hypothetical protein
+CFLHHANF_01489	gene			
+CFLHHANF_01490	CDS			hypothetical protein
+CFLHHANF_01490	gene			
+CFLHHANF_01491	CDS			hypothetical protein
+CFLHHANF_01491	gene			
+CFLHHANF_01492	CDS			hypothetical protein
+CFLHHANF_01492	gene			
+CFLHHANF_01493	CDS			hypothetical protein
+CFLHHANF_01493	gene			
+CFLHHANF_01494	CDS		5.3.1.9	Bifunctional phosphoglucose/phosphomannose isomerase
+CFLHHANF_01494	gene			
+CFLHHANF_01495	CDS			hypothetical protein
+CFLHHANF_01495	gene			
+CFLHHANF_01496	CDS			hypothetical protein
+CFLHHANF_01496	gene			
+CFLHHANF_01497	CDS			hypothetical protein
+CFLHHANF_01497	gene			
+CFLHHANF_01498	CDS			hypothetical protein
+CFLHHANF_01498	gene			
+CFLHHANF_01499	CDS			hypothetical protein
+CFLHHANF_01499	gene			
+CFLHHANF_01500	CDS			hypothetical protein
+CFLHHANF_01500	gene			
+CFLHHANF_01501	CDS	rsmA_3	2.1.1.-	Ribosomal RNA small subunit methyltransferase A
+CFLHHANF_01501	gene	rsmA_3		
+CFLHHANF_01502	CDS			hypothetical protein
+CFLHHANF_01502	gene			
+CFLHHANF_01503	CDS			hypothetical protein
+CFLHHANF_01503	gene			
+CFLHHANF_01504	CDS			hypothetical protein
+CFLHHANF_01504	gene			
+CFLHHANF_01505	CDS			hypothetical protein
+CFLHHANF_01505	gene			
+CFLHHANF_01506	CDS			hypothetical protein
+CFLHHANF_01506	gene			
+CFLHHANF_01507	CDS	pol_2	2.7.7.7	DNA polymerase
+CFLHHANF_01507	gene	pol_2		
+CFLHHANF_01508	CDS	wtpC_3	3.6.3.-	Molybdate/tungstate import ATP-binding protein WtpC
+CFLHHANF_01508	gene	wtpC_3		
+CFLHHANF_01509	CDS			hypothetical protein
+CFLHHANF_01509	gene			
+CFLHHANF_01510	CDS			hypothetical protein
+CFLHHANF_01510	gene			
+CFLHHANF_01511	CDS	glpE	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+CFLHHANF_01511	gene	glpE		
+CFLHHANF_01512	CDS			hypothetical protein
+CFLHHANF_01512	gene			
+CFLHHANF_01513	CDS	pcp	3.4.19.3	Pyrrolidone-carboxylate peptidase
+CFLHHANF_01513	gene	pcp		
+CFLHHANF_01514	CDS			hypothetical protein
+CFLHHANF_01514	gene			
+CFLHHANF_01515	CDS			hypothetical protein
+CFLHHANF_01515	gene			
+CFLHHANF_01516	CDS			hypothetical protein
+CFLHHANF_01516	gene			
+CFLHHANF_01517	CDS			hypothetical protein
+CFLHHANF_01517	gene			
+CFLHHANF_01518	CDS		2.5.1.42	Digeranylgeranylglyceryl phosphate synthase
+CFLHHANF_01518	gene			
+CFLHHANF_01519	CDS	argF	2.1.3.3	Ornithine carbamoyltransferase
+CFLHHANF_01519	gene	argF		
+CFLHHANF_01520	CDS		3.6.5.-	GPN-loop GTPase
+CFLHHANF_01520	gene			
+CFLHHANF_01521	CDS	caiA_3	1.3.99.-	Crotonobetainyl-CoA dehydrogenase
+CFLHHANF_01521	gene	caiA_3		
+CFLHHANF_01522	CDS	sufS_3	2.8.1.7	Cysteine desulfurase
+CFLHHANF_01522	gene	sufS_3		
+CFLHHANF_01523	CDS	hmgB_2	2.3.3.10	Hydroxymethylglutaryl-CoA synthase
+CFLHHANF_01523	gene	hmgB_2		
+CFLHHANF_01524	CDS	tyrS_2	6.1.1.1	Tyrosine--tRNA ligase
+CFLHHANF_01524	gene	tyrS_2		
+CFLHHANF_01525	CDS			hypothetical protein
+CFLHHANF_01525	gene			
+CFLHHANF_01526	CDS			hypothetical protein
+CFLHHANF_01526	gene			
+CFLHHANF_01527	CDS	caiA_4	1.3.99.-	Crotonobetainyl-CoA dehydrogenase
+CFLHHANF_01527	gene	caiA_4		
+CFLHHANF_01528	CDS	fixA		Protein FixA
+CFLHHANF_01528	gene	fixA		
+CFLHHANF_01529	CDS			hypothetical protein
+CFLHHANF_01529	gene			
+CFLHHANF_01530	CDS	pepX_2	3.4.14.11	Xaa-Pro dipeptidyl-peptidase
+CFLHHANF_01530	gene	pepX_2		
+CFLHHANF_01531	CDS			hypothetical protein
+CFLHHANF_01531	gene			
+CFLHHANF_01532	CDS			50S ribosomal protein L24e
+CFLHHANF_01532	gene			
+CFLHHANF_01533	CDS			30S ribosomal protein S28e
+CFLHHANF_01533	gene			
+CFLHHANF_01534	CDS	rpl7ae		50S ribosomal protein L7Ae
+CFLHHANF_01534	gene	rpl7ae		
+CFLHHANF_01535	CDS			putative HTH-type transcriptional regulator
+CFLHHANF_01535	gene			
+CFLHHANF_01536	CDS			hypothetical protein
+CFLHHANF_01536	gene			
+CFLHHANF_01537	CDS			hypothetical protein
+CFLHHANF_01537	gene			
+CFLHHANF_01538	CDS	rnhB	3.1.26.4	Ribonuclease HII
+CFLHHANF_01538	gene	rnhB		
+CFLHHANF_01539	CDS			hypothetical protein
+CFLHHANF_01539	gene			
+CFLHHANF_01540	CDS			hypothetical protein
+CFLHHANF_01540	gene			
+CFLHHANF_01541	CDS			hypothetical protein
+CFLHHANF_01541	gene			
+CFLHHANF_01542	CDS	hcy_3		Halocyanin
+CFLHHANF_01542	gene	hcy_3		
+CFLHHANF_01543	CDS			hypothetical protein
+CFLHHANF_01543	gene			
+CFLHHANF_01544	CDS			hypothetical protein
+CFLHHANF_01544	gene			
+CFLHHANF_01545	CDS			hypothetical protein
+CFLHHANF_01545	gene			
+CFLHHANF_01546	CDS			hypothetical protein
+CFLHHANF_01546	gene			
+CFLHHANF_01547	CDS			hypothetical protein
+CFLHHANF_01547	gene			
+CFLHHANF_01548	CDS		4.2.1.116	3-hydroxypropionyl-coenzyme A dehydratase
+CFLHHANF_01548	gene			
+CFLHHANF_01549	CDS	accA	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+CFLHHANF_01549	gene	accA		
+CFLHHANF_01550	CDS			hypothetical protein
+CFLHHANF_01550	gene			
+CFLHHANF_01551	CDS			hypothetical protein
+CFLHHANF_01551	gene			
+CFLHHANF_01552	CDS	rio1_2	2.7.11.1	RIO-type serine/threonine-protein kinase Rio1
+CFLHHANF_01552	gene	rio1_2		
+CFLHHANF_01553	CDS	eIF1A_2		Translation initiation factor 1A
+CFLHHANF_01553	gene	eIF1A_2		
+CFLHHANF_01554	CDS	fpoN_2	1.12.98.3	F(420)H(2) dehydrogenase subunit N
+CFLHHANF_01554	gene	fpoN_2		
+CFLHHANF_01555	CDS	fpoM	1.12.98.3	F(420)H(2) dehydrogenase subunit M
+CFLHHANF_01555	gene	fpoM		
+CFLHHANF_01556	CDS			hypothetical protein
+CFLHHANF_01556	gene			
+CFLHHANF_01557	CDS	gap	1.2.1.59	Glyceraldehyde-3-phosphate dehydrogenase
+CFLHHANF_01557	gene	gap		
+CFLHHANF_01558	CDS			hypothetical protein
+CFLHHANF_01558	gene			
+CFLHHANF_01559	CDS			hypothetical protein
+CFLHHANF_01559	gene			
+CFLHHANF_01560	tRNA			tRNA-Met(cat)
+CFLHHANF_01560	gene			
+CFLHHANF_01561	CDS			hypothetical protein
+CFLHHANF_01561	gene			
+CFLHHANF_01562	CDS	nadA_2	2.5.1.72	Quinolinate synthase A
+CFLHHANF_01562	gene	nadA_2		
+CFLHHANF_01563	CDS	purN	2.1.2.2	Phosphoribosylglycinamide formyltransferase
+CFLHHANF_01563	gene	purN		
+CFLHHANF_01564	CDS	mobA	2.7.7.77	Molybdenum cofactor guanylyltransferase
+CFLHHANF_01564	gene	mobA		
+CFLHHANF_01565	CDS			hypothetical protein
+CFLHHANF_01565	gene			
+CFLHHANF_01566	CDS			hypothetical protein
+CFLHHANF_01566	gene			
+CFLHHANF_01567	CDS			hypothetical protein
+CFLHHANF_01567	gene			
+CFLHHANF_01568	CDS			hypothetical protein
+CFLHHANF_01568	gene			
+CFLHHANF_01569	CDS			hypothetical protein
+CFLHHANF_01569	gene			
+CFLHHANF_01570	CDS			hypothetical protein
+CFLHHANF_01570	gene			
+CFLHHANF_01571	CDS			hypothetical protein
+CFLHHANF_01571	gene			
+CFLHHANF_01572	CDS			hypothetical protein
+CFLHHANF_01572	gene			
+CFLHHANF_01573	CDS	ribA_5	3.5.4.25	GTP cyclohydrolase-2
+CFLHHANF_01573	gene	ribA_5		
+CFLHHANF_01574	CDS		1.11.1.15	Peroxiredoxin
+CFLHHANF_01574	gene			
+CFLHHANF_01575	CDS			hypothetical protein
+CFLHHANF_01575	gene			
+CFLHHANF_01576	CDS			hypothetical protein
+CFLHHANF_01576	gene			
+CFLHHANF_01577	CDS	wtpC_4	3.6.3.-	Molybdate/tungstate import ATP-binding protein WtpC
+CFLHHANF_01577	gene	wtpC_4		
+CFLHHANF_01578	CDS			hypothetical protein
+CFLHHANF_01578	gene			
+CFLHHANF_01579	CDS			hypothetical protein
+CFLHHANF_01579	gene			
+CFLHHANF_01580	CDS		3.6.4.12	ATP-dependent DNA helicase Hel308
+CFLHHANF_01580	gene			
+CFLHHANF_01581	CDS			hypothetical protein
+CFLHHANF_01581	gene			
+CFLHHANF_01582	CDS	kbl_2	2.3.1.29	2-amino-3-ketobutyrate coenzyme A ligase
+CFLHHANF_01582	gene	kbl_2		
+CFLHHANF_01583	CDS	menI_2	3.1.2.28	1,4-dihydroxy-2-naphthoyl-CoA hydrolase
+CFLHHANF_01583	gene	menI_2		
+CFLHHANF_01584	CDS			hypothetical protein
+CFLHHANF_01584	gene			
+CFLHHANF_01585	CDS			hypothetical protein
+CFLHHANF_01585	gene			
+CFLHHANF_01586	CDS	gltA_2	2.3.3.16	Citrate synthase
+CFLHHANF_01586	gene	gltA_2		
+CFLHHANF_01587	CDS			hypothetical protein
+CFLHHANF_01587	gene			
+CFLHHANF_01588	CDS	ogt_2	2.1.1.63	Methylated-DNA--protein-cysteine methyltransferase
+CFLHHANF_01588	gene	ogt_2		
+CFLHHANF_01589	CDS	purF_2	2.4.2.14	Amidophosphoribosyltransferase
+CFLHHANF_01589	gene	purF_2		
+CFLHHANF_01590	CDS			hypothetical protein
+CFLHHANF_01590	gene			
+CFLHHANF_01591	CDS	ureG		Urease accessory protein UreG
+CFLHHANF_01591	gene	ureG		
+CFLHHANF_01592	CDS	glmS_4	5.4.99.1	Glutamate mutase sigma subunit
+CFLHHANF_01592	gene	glmS_4		
+CFLHHANF_01593	CDS			hypothetical protein
+CFLHHANF_01593	gene			
+CFLHHANF_01594	CDS			hypothetical protein
+CFLHHANF_01594	gene			
+CFLHHANF_01595	CDS			hypothetical protein
+CFLHHANF_01595	gene			
+CFLHHANF_01596	CDS			hypothetical protein
+CFLHHANF_01596	gene			
+CFLHHANF_01597	CDS		2.7.8.-	Cardiolipin synthase
+CFLHHANF_01597	gene			
+CFLHHANF_01598	CDS			hypothetical protein
+CFLHHANF_01598	gene			
+CFLHHANF_01599	CDS	recD2	3.6.4.12	ATP-dependent RecD-like DNA helicase
+CFLHHANF_01599	gene	recD2		
+CFLHHANF_01600	CDS	pqqE_4		Coenzyme PQQ synthesis protein E
+CFLHHANF_01600	gene	pqqE_4		
+CFLHHANF_01601	CDS			hypothetical protein
+CFLHHANF_01601	gene			
+CFLHHANF_01602	CDS			hypothetical protein
+CFLHHANF_01602	gene			
+CFLHHANF_01603	CDS			hypothetical protein
+CFLHHANF_01603	gene			
+CFLHHANF_01604	CDS			hypothetical protein
+CFLHHANF_01604	gene			
+CFLHHANF_01605	CDS			hypothetical protein
+CFLHHANF_01605	gene			
+CFLHHANF_01606	CDS	dadA_2	1.4.99.-	D-amino acid dehydrogenase
+CFLHHANF_01606	gene	dadA_2		
+CFLHHANF_01607	CDS	idi_2	5.3.3.2	Isopentenyl-diphosphate Delta-isomerase
+CFLHHANF_01607	gene	idi_2		
+CFLHHANF_01608	CDS	glnA_2	6.3.1.2	Glutamine synthetase
+CFLHHANF_01608	gene	glnA_2		
+CFLHHANF_01609	CDS			hypothetical protein
+CFLHHANF_01609	gene			
+CFLHHANF_01610	CDS			hypothetical protein
+CFLHHANF_01610	gene			
+CFLHHANF_01611	tRNA			tRNA-Ser(cga)
+CFLHHANF_01611	gene			
+CFLHHANF_01612	CDS			hypothetical protein
+CFLHHANF_01612	gene			
+CFLHHANF_01613	CDS	pepE_2	3.4.13.21	Peptidase E
+CFLHHANF_01613	gene	pepE_2		
+CFLHHANF_01614	CDS	tfb_2		Transcription initiation factor IIB
+CFLHHANF_01614	gene	tfb_2		
+CFLHHANF_01615	CDS			hypothetical protein
+CFLHHANF_01615	gene			
+CFLHHANF_01616	CDS			hypothetical protein
+CFLHHANF_01616	gene			
+CFLHHANF_01617	CDS			hypothetical protein
+CFLHHANF_01617	gene			
+CFLHHANF_01618	CDS	leuS	6.1.1.4	Leucine--tRNA ligase
+CFLHHANF_01618	gene	leuS		
+CFLHHANF_01619	tRNA			tRNA-Ala(ggc)
+CFLHHANF_01619	gene			
+CFLHHANF_01620	CDS			hypothetical protein
+CFLHHANF_01620	gene			
+CFLHHANF_01621	CDS			hypothetical protein
+CFLHHANF_01621	gene			
+CFLHHANF_01622	tRNA			tRNA-Arg(tct)
+CFLHHANF_01622	gene			
+CFLHHANF_01623	CDS		3.6.4.12	ATP-dependent DNA helicase
+CFLHHANF_01623	gene			
+CFLHHANF_01624	CDS			hypothetical protein
+CFLHHANF_01624	gene			
+CFLHHANF_01625	CDS			hypothetical protein
+CFLHHANF_01625	gene			
+CFLHHANF_01626	CDS		2.7.1.169	Pantoate kinase
+CFLHHANF_01626	gene			
+CFLHHANF_01627	CDS	rpoD	2.7.7.6	DNA-directed RNA polymerase subunit D
+CFLHHANF_01627	gene	rpoD		
+CFLHHANF_01628	CDS			30S ribosomal protein S11
+CFLHHANF_01628	gene			
+CFLHHANF_01629	CDS			hypothetical protein
+CFLHHANF_01629	gene			
+CFLHHANF_01630	CDS	proS_4	6.1.1.15	Proline--tRNA ligase
+CFLHHANF_01630	gene	proS_4		
+CFLHHANF_01631	CDS			putative ABC transporter ATP-binding protein
+CFLHHANF_01631	gene			
+CFLHHANF_01632	CDS	thsA_2		Thermosome subunit alpha
+CFLHHANF_01632	gene	thsA_2		
+CFLHHANF_01633	CDS			hypothetical protein
+CFLHHANF_01633	gene			
+CFLHHANF_01634	CDS			hypothetical protein
+CFLHHANF_01634	gene			
+CFLHHANF_01635	CDS			hypothetical protein
+CFLHHANF_01635	gene			
+CFLHHANF_01636	CDS	narC		putative respiratory nitrate reductase subunit cytochrome b-561
+CFLHHANF_01636	gene	narC		
+CFLHHANF_01637	CDS	actP_3		Cation/acetate symporter ActP
+CFLHHANF_01637	gene	actP_3		
+CFLHHANF_01638	CDS			hypothetical protein
+CFLHHANF_01638	gene			
+CFLHHANF_01639	CDS	tam_2	2.1.1.144	Trans-aconitate 2-methyltransferase
+CFLHHANF_01639	gene	tam_2		
+CFLHHANF_01640	CDS			hypothetical protein
+CFLHHANF_01640	gene			
+CFLHHANF_01641	CDS			hypothetical protein
+CFLHHANF_01641	gene			
+CFLHHANF_01642	CDS	polC_5	2.7.7.7	DNA polymerase III PolC-type
+CFLHHANF_01642	gene	polC_5		
+CFLHHANF_01643	CDS			hypothetical protein
+CFLHHANF_01643	gene			
+CFLHHANF_01644	CDS			hypothetical protein
+CFLHHANF_01644	gene			
+CFLHHANF_01645	CDS			hypothetical protein
+CFLHHANF_01645	gene			
+CFLHHANF_01646	CDS	ccsA		Cytochrome c biogenesis protein CcsA
+CFLHHANF_01646	gene	ccsA		
+CFLHHANF_01647	CDS		1.3.7.11	Digeranylgeranylglycerophospholipid reductase
+CFLHHANF_01647	gene			
+CFLHHANF_01648	tRNA			tRNA-Thr(tgt)
+CFLHHANF_01648	gene			
+CFLHHANF_01649	CDS	pheS_2	6.1.1.20	Phenylalanine--tRNA ligase alpha subunit
+CFLHHANF_01649	gene	pheS_2		

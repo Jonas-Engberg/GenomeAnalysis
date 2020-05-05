@@ -1,0 +1,2281 @@
+locus_tag	ftype	gene	EC_number	product
+IHKBHOGD_00001	CDS			hypothetical protein
+IHKBHOGD_00001	gene			
+IHKBHOGD_00002	CDS	trxA		Thioredoxin
+IHKBHOGD_00002	gene	trxA		
+IHKBHOGD_00003	CDS			hypothetical protein
+IHKBHOGD_00003	gene			
+IHKBHOGD_00004	CDS			hypothetical protein
+IHKBHOGD_00004	gene			
+IHKBHOGD_00005	CDS	pccB_1	6.4.1.3	Propionyl-CoA carboxylase beta chain
+IHKBHOGD_00005	gene	pccB_1		
+IHKBHOGD_00006	CDS	yfiR		putative HTH-type transcriptional regulator YfiR
+IHKBHOGD_00006	gene	yfiR		
+IHKBHOGD_00007	CDS			hypothetical protein
+IHKBHOGD_00007	gene			
+IHKBHOGD_00008	CDS			hypothetical protein
+IHKBHOGD_00008	gene			
+IHKBHOGD_00009	CDS	mrpC		Na(+)/H(+) antiporter subunit C
+IHKBHOGD_00009	gene	mrpC		
+IHKBHOGD_00010	CDS	mrpB		Na(+)/H(+) antiporter subunit B
+IHKBHOGD_00010	gene	mrpB		
+IHKBHOGD_00011	CDS	mrpA		Na(+)/H(+) antiporter subunit A
+IHKBHOGD_00011	gene	mrpA		
+IHKBHOGD_00012	CDS			hypothetical protein
+IHKBHOGD_00012	gene			
+IHKBHOGD_00013	CDS			hypothetical protein
+IHKBHOGD_00013	gene			
+IHKBHOGD_00014	CDS	caeA	3.1.1.-	Carboxylesterase A
+IHKBHOGD_00014	gene	caeA		
+IHKBHOGD_00015	CDS			hypothetical protein
+IHKBHOGD_00015	gene			
+IHKBHOGD_00016	CDS			hypothetical protein
+IHKBHOGD_00016	gene			
+IHKBHOGD_00017	CDS			hypothetical protein
+IHKBHOGD_00017	gene			
+IHKBHOGD_00018	CDS	gpsA2	1.1.1.94	putative glycerol-3-phosphate dehydrogenase 2 [NAD(P)+]
+IHKBHOGD_00018	gene	gpsA2		
+IHKBHOGD_00019	CDS	folP	2.5.1.15	Dihydropteroate synthase
+IHKBHOGD_00019	gene	folP		
+IHKBHOGD_00020	CDS			hypothetical protein
+IHKBHOGD_00020	gene			
+IHKBHOGD_00021	CDS	pstC2_1		Phosphate transport system permease protein PstC 2
+IHKBHOGD_00021	gene	pstC2_1		
+IHKBHOGD_00022	CDS	pstA1_1		Phosphate transport system permease protein PstA 1
+IHKBHOGD_00022	gene	pstA1_1		
+IHKBHOGD_00023	CDS	pstB1	3.6.3.27	Phosphate import ATP-binding protein PstB 1
+IHKBHOGD_00023	gene	pstB1		
+IHKBHOGD_00024	CDS	phoU2		Phosphate-specific transport system accessory protein PhoU 
+IHKBHOGD_00024	gene	phoU2		
+IHKBHOGD_00025	CDS	ppk	2.7.4.1	Polyphosphate kinase
+IHKBHOGD_00025	gene	ppk		
+IHKBHOGD_00026	CDS			hypothetical protein
+IHKBHOGD_00026	gene			
+IHKBHOGD_00027	CDS	whiB		Transcriptional regulator WhiB
+IHKBHOGD_00027	gene	whiB		
+IHKBHOGD_00028	CDS			hypothetical protein
+IHKBHOGD_00028	gene			
+IHKBHOGD_00029	CDS			hypothetical protein
+IHKBHOGD_00029	gene			
+IHKBHOGD_00030	CDS			hypothetical protein
+IHKBHOGD_00030	gene			
+IHKBHOGD_00031	CDS			hypothetical protein
+IHKBHOGD_00031	gene			
+IHKBHOGD_00032	CDS			hypothetical protein
+IHKBHOGD_00032	gene			
+IHKBHOGD_00033	CDS			hypothetical protein
+IHKBHOGD_00033	gene			
+IHKBHOGD_00034	CDS	crt	4.2.1.150	Short-chain-enoyl-CoA hydratase
+IHKBHOGD_00034	gene	crt		
+IHKBHOGD_00035	CDS			hypothetical protein
+IHKBHOGD_00035	gene			
+IHKBHOGD_00036	CDS	dhmA1_1	3.8.1.5	Haloalkane dehalogenase 1
+IHKBHOGD_00036	gene	dhmA1_1		
+IHKBHOGD_00037	CDS			hypothetical protein
+IHKBHOGD_00037	gene			
+IHKBHOGD_00038	CDS	prmA	2.1.1.-	Ribosomal protein L11 methyltransferase
+IHKBHOGD_00038	gene	prmA		
+IHKBHOGD_00039	CDS			hypothetical protein
+IHKBHOGD_00039	gene			
+IHKBHOGD_00040	CDS	etfA		Electron transfer flavoprotein subunit alpha
+IHKBHOGD_00040	gene	etfA		
+IHKBHOGD_00041	CDS	etfB		Electron transfer flavoprotein subunit beta
+IHKBHOGD_00041	gene	etfB		
+IHKBHOGD_00042	CDS			PE-PGRS family protein PE_PGRS18
+IHKBHOGD_00042	gene			
+IHKBHOGD_00043	CDS			hypothetical protein
+IHKBHOGD_00043	gene			
+IHKBHOGD_00044	CDS			hypothetical protein
+IHKBHOGD_00044	gene			
+IHKBHOGD_00045	CDS	yrbG		Inner membrane protein YrbG
+IHKBHOGD_00045	gene	yrbG		
+IHKBHOGD_00046	CDS			hypothetical protein
+IHKBHOGD_00046	gene			
+IHKBHOGD_00047	CDS			hypothetical protein
+IHKBHOGD_00047	gene			
+IHKBHOGD_00048	CDS			hypothetical protein
+IHKBHOGD_00048	gene			
+IHKBHOGD_00049	CDS			hypothetical protein
+IHKBHOGD_00049	gene			
+IHKBHOGD_00050	CDS			hypothetical protein
+IHKBHOGD_00050	gene			
+IHKBHOGD_00051	CDS	ytrF		ABC transporter permease YtrF
+IHKBHOGD_00051	gene	ytrF		
+IHKBHOGD_00052	CDS			hypothetical protein
+IHKBHOGD_00052	gene			
+IHKBHOGD_00053	CDS			putative signaling protein
+IHKBHOGD_00053	gene			
+IHKBHOGD_00054	CDS			hypothetical protein
+IHKBHOGD_00054	gene			
+IHKBHOGD_00055	CDS			hypothetical protein
+IHKBHOGD_00055	gene			
+IHKBHOGD_00056	CDS	polA	2.7.7.7	DNA polymerase I
+IHKBHOGD_00056	gene	polA		
+IHKBHOGD_00057	CDS	gsiB_1		Glutathione-binding protein GsiB
+IHKBHOGD_00057	gene	gsiB_1		
+IHKBHOGD_00058	CDS			hypothetical protein
+IHKBHOGD_00058	gene			
+IHKBHOGD_00059	CDS	sdh_1	1.1.1.276	Serine 3-dehydrogenase
+IHKBHOGD_00059	gene	sdh_1		
+IHKBHOGD_00060	CDS	dauA_1	1.4.99.6	FAD-dependent catabolic D-arginine dehydrogenase DauA
+IHKBHOGD_00060	gene	dauA_1		
+IHKBHOGD_00061	CDS		1.5.1.49	Delta(1)-pyrroline-2-carboxylate reductase
+IHKBHOGD_00061	gene			
+IHKBHOGD_00062	CDS	sfrA	1.-.-.-	NADPH-Fe(3+) oxidoreductase subunit alpha
+IHKBHOGD_00062	gene	sfrA		
+IHKBHOGD_00063	CDS	hndC	1.12.1.3	NADP-reducing hydrogenase subunit HndC
+IHKBHOGD_00063	gene	hndC		
+IHKBHOGD_00064	CDS			hypothetical protein
+IHKBHOGD_00064	gene			
+IHKBHOGD_00065	CDS			hypothetical protein
+IHKBHOGD_00065	gene			
+IHKBHOGD_00066	CDS			hypothetical protein
+IHKBHOGD_00066	gene			
+IHKBHOGD_00067	CDS			hypothetical protein
+IHKBHOGD_00067	gene			
+IHKBHOGD_00068	CDS			hypothetical protein
+IHKBHOGD_00068	gene			
+IHKBHOGD_00069	CDS			hypothetical protein
+IHKBHOGD_00069	gene			
+IHKBHOGD_00070	CDS	ppiB	5.2.1.8	putative peptidyl-prolyl cis-trans isomerase B
+IHKBHOGD_00070	gene	ppiB		
+IHKBHOGD_00071	CDS			hypothetical protein
+IHKBHOGD_00071	gene			
+IHKBHOGD_00072	CDS			hypothetical protein
+IHKBHOGD_00072	gene			
+IHKBHOGD_00073	CDS			hypothetical protein
+IHKBHOGD_00073	gene			
+IHKBHOGD_00074	CDS			hypothetical protein
+IHKBHOGD_00074	gene			
+IHKBHOGD_00075	CDS	folD		Bifunctional protein FolD protein
+IHKBHOGD_00075	gene	folD		
+IHKBHOGD_00076	CDS	rpmE		50S ribosomal protein L31
+IHKBHOGD_00076	gene	rpmE		
+IHKBHOGD_00077	CDS	mftC	2.-.-.-	Putative mycofactocin radical SAM maturase MftC
+IHKBHOGD_00077	gene	mftC		
+IHKBHOGD_00078	CDS	plsY_1	2.3.1.-	Glycerol-3-phosphate acyltransferase
+IHKBHOGD_00078	gene	plsY_1		
+IHKBHOGD_00079	CDS	ydaD	1.-.-.-	General stress protein 39
+IHKBHOGD_00079	gene	ydaD		
+IHKBHOGD_00080	CDS			hypothetical protein
+IHKBHOGD_00080	gene			
+IHKBHOGD_00081	CDS			hypothetical protein
+IHKBHOGD_00081	gene			
+IHKBHOGD_00082	CDS			hypothetical protein
+IHKBHOGD_00082	gene			
+IHKBHOGD_00083	CDS	tmpC		Membrane lipoprotein TmpC
+IHKBHOGD_00083	gene	tmpC		
+IHKBHOGD_00084	CDS			hypothetical protein
+IHKBHOGD_00084	gene			
+IHKBHOGD_00085	CDS			hypothetical protein
+IHKBHOGD_00085	gene			
+IHKBHOGD_00086	CDS	greA		Transcription elongation factor GreA
+IHKBHOGD_00086	gene	greA		
+IHKBHOGD_00087	CDS		3.1.1.10	Tropinesterase
+IHKBHOGD_00087	gene			
+IHKBHOGD_00088	CDS	ubiB	2.7.-.-	putative protein kinase UbiB
+IHKBHOGD_00088	gene	ubiB		
+IHKBHOGD_00089	CDS	dcyD	4.4.1.15	D-cysteine desulfhydrase
+IHKBHOGD_00089	gene	dcyD		
+IHKBHOGD_00090	CDS			hypothetical protein
+IHKBHOGD_00090	gene			
+IHKBHOGD_00091	CDS	nanK	2.7.1.60	N-acetylmannosamine kinase
+IHKBHOGD_00091	gene	nanK		
+IHKBHOGD_00092	CDS			hypothetical protein
+IHKBHOGD_00092	gene			
+IHKBHOGD_00093	CDS			hypothetical protein
+IHKBHOGD_00093	gene			
+IHKBHOGD_00094	CDS			putative HTH-type transcriptional regulator
+IHKBHOGD_00094	gene			
+IHKBHOGD_00095	CDS			hypothetical protein
+IHKBHOGD_00095	gene			
+IHKBHOGD_00096	CDS			hypothetical protein
+IHKBHOGD_00096	gene			
+IHKBHOGD_00097	CDS			hypothetical protein
+IHKBHOGD_00097	gene			
+IHKBHOGD_00098	CDS			hypothetical protein
+IHKBHOGD_00098	gene			
+IHKBHOGD_00099	CDS	egtA	6.3.2.2	Glutamate--cysteine ligase EgtA
+IHKBHOGD_00099	gene	egtA		
+IHKBHOGD_00100	CDS	gshB	6.3.2.3	Glutathione synthetase
+IHKBHOGD_00100	gene	gshB		
+IHKBHOGD_00101	CDS			hypothetical protein
+IHKBHOGD_00101	gene			
+IHKBHOGD_00102	CDS			hypothetical protein
+IHKBHOGD_00102	gene			
+IHKBHOGD_00103	CDS			hypothetical protein
+IHKBHOGD_00103	gene			
+IHKBHOGD_00104	CDS			hypothetical protein
+IHKBHOGD_00104	gene			
+IHKBHOGD_00105	CDS	dhmA1_2	3.8.1.5	Haloalkane dehalogenase 1
+IHKBHOGD_00105	gene	dhmA1_2		
+IHKBHOGD_00106	CDS			hypothetical protein
+IHKBHOGD_00106	gene			
+IHKBHOGD_00107	CDS			hypothetical protein
+IHKBHOGD_00107	gene			
+IHKBHOGD_00108	CDS			hypothetical protein
+IHKBHOGD_00108	gene			
+IHKBHOGD_00109	CDS	yfmJ_1	1.-.-.-	Putative NADP-dependent oxidoreductase YfmJ
+IHKBHOGD_00109	gene	yfmJ_1		
+IHKBHOGD_00110	CDS			hypothetical protein
+IHKBHOGD_00110	gene			
+IHKBHOGD_00111	CDS			hypothetical protein
+IHKBHOGD_00111	gene			
+IHKBHOGD_00112	CDS	gsiB_2		Glutathione-binding protein GsiB
+IHKBHOGD_00112	gene	gsiB_2		
+IHKBHOGD_00113	CDS			hypothetical protein
+IHKBHOGD_00113	gene			
+IHKBHOGD_00114	CDS			hypothetical protein
+IHKBHOGD_00114	gene			
+IHKBHOGD_00115	CDS	cinA		Putative competence-damage inducible protein
+IHKBHOGD_00115	gene	cinA		
+IHKBHOGD_00116	CDS	pgsA	2.7.8.5	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+IHKBHOGD_00116	gene	pgsA		
+IHKBHOGD_00117	CDS	rimO	2.8.4.4	Ribosomal protein S12 methylthiotransferase RimO
+IHKBHOGD_00117	gene	rimO		
+IHKBHOGD_00118	CDS	dan	3.5.1.81	D-aminoacylase
+IHKBHOGD_00118	gene	dan		
+IHKBHOGD_00119	CDS	fadA_1	2.3.1.-	Putative acyltransferase
+IHKBHOGD_00119	gene	fadA_1		
+IHKBHOGD_00120	CDS		1.-.-.-	Putative coenzyme F420-dependent oxidoreductase
+IHKBHOGD_00120	gene			
+IHKBHOGD_00121	CDS	cysK	2.5.1.47	Cysteine synthase
+IHKBHOGD_00121	gene	cysK		
+IHKBHOGD_00122	CDS			hypothetical protein
+IHKBHOGD_00122	gene			
+IHKBHOGD_00123	CDS	recO		DNA repair protein RecO
+IHKBHOGD_00123	gene	recO		
+IHKBHOGD_00124	CDS	uppS_1	2.5.1.31	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+IHKBHOGD_00124	gene	uppS_1		
+IHKBHOGD_00125	CDS	uppS_2	2.5.1.-	Isoprenyl transferase
+IHKBHOGD_00125	gene	uppS_2		
+IHKBHOGD_00126	CDS	dinG	3.6.4.12	putative ATP-dependent helicase DinG 
+IHKBHOGD_00126	gene	dinG		
+IHKBHOGD_00127	CDS	fbaA	4.1.2.13	Fructose-bisphosphate aldolase class 2
+IHKBHOGD_00127	gene	fbaA		
+IHKBHOGD_00128	CDS			hypothetical protein
+IHKBHOGD_00128	gene			
+IHKBHOGD_00129	CDS	dauP	3.1.1.-	Rhodomycin D methylesterase DauP
+IHKBHOGD_00129	gene	dauP		
+IHKBHOGD_00130	CDS	rlmI_1	2.1.1.191	Ribosomal RNA large subunit methyltransferase I
+IHKBHOGD_00130	gene	rlmI_1		
+IHKBHOGD_00131	CDS	uvrC		UvrABC system protein C
+IHKBHOGD_00131	gene	uvrC		
+IHKBHOGD_00132	CDS	rebM	2.1.1.164	Demethylrebeccamycin-D-glucose O-methyltransferase
+IHKBHOGD_00132	gene	rebM		
+IHKBHOGD_00133	CDS			Nucleotide-binding protein
+IHKBHOGD_00133	gene			
+IHKBHOGD_00134	CDS	gap2	1.2.1.12	Glyceraldehyde-3-phosphate dehydrogenase 2
+IHKBHOGD_00134	gene	gap2		
+IHKBHOGD_00135	CDS			hypothetical protein
+IHKBHOGD_00135	gene			
+IHKBHOGD_00136	CDS	tylM1	2.1.1.235	dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose N,N-dimethyltransferase
+IHKBHOGD_00136	gene	tylM1		
+IHKBHOGD_00137	CDS			hypothetical protein
+IHKBHOGD_00137	gene			
+IHKBHOGD_00138	CDS		1.-.-.-	putative oxidoreductase
+IHKBHOGD_00138	gene			
+IHKBHOGD_00139	CDS			hypothetical protein
+IHKBHOGD_00139	gene			
+IHKBHOGD_00140	CDS	lytN	3.-.-.-	putative cell wall hydrolase LytN
+IHKBHOGD_00140	gene	lytN		
+IHKBHOGD_00141	CDS	dps2	1.16.-.-	DNA protection during starvation protein 2
+IHKBHOGD_00141	gene	dps2		
+IHKBHOGD_00142	CDS			hypothetical protein
+IHKBHOGD_00142	gene			
+IHKBHOGD_00143	CDS			hypothetical protein
+IHKBHOGD_00143	gene			
+IHKBHOGD_00144	CDS			hypothetical protein
+IHKBHOGD_00144	gene			
+IHKBHOGD_00145	CDS	ssuD	1.14.14.5	Alkanesulfonate monooxygenase
+IHKBHOGD_00145	gene	ssuD		
+IHKBHOGD_00146	CDS	sugC	3.6.3.-	Trehalose import ATP-binding protein SugC
+IHKBHOGD_00146	gene	sugC		
+IHKBHOGD_00147	CDS			hypothetical protein
+IHKBHOGD_00147	gene			
+IHKBHOGD_00148	CDS	ogt	2.1.1.63	Methylated-DNA--protein-cysteine methyltransferase
+IHKBHOGD_00148	gene	ogt		
+IHKBHOGD_00149	CDS	alkA		putative bifunctional transcriptional activator/DNA repair enzyme AlkA
+IHKBHOGD_00149	gene	alkA		
+IHKBHOGD_00150	CDS	pspA_1	3.1.3.3	Phosphoserine phosphatase 1
+IHKBHOGD_00150	gene	pspA_1		
+IHKBHOGD_00151	CDS	apeB_1	3.4.11.-	putative M18 family aminopeptidase 2
+IHKBHOGD_00151	gene	apeB_1		
+IHKBHOGD_00152	CDS	plsC_1	2.3.1.-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+IHKBHOGD_00152	gene	plsC_1		
+IHKBHOGD_00153	CDS			hypothetical protein
+IHKBHOGD_00153	gene			
+IHKBHOGD_00154	CDS			hypothetical protein
+IHKBHOGD_00154	gene			
+IHKBHOGD_00155	CDS			hypothetical protein
+IHKBHOGD_00155	gene			
+IHKBHOGD_00156	CDS		2.1.3.1	Methylmalonyl-CoA carboxyltransferase 12S subunit
+IHKBHOGD_00156	gene			
+IHKBHOGD_00157	CDS			hypothetical protein
+IHKBHOGD_00157	gene			
+IHKBHOGD_00158	CDS			hypothetical protein
+IHKBHOGD_00158	gene			
+IHKBHOGD_00159	CDS	purQ_1	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurQ
+IHKBHOGD_00159	gene	purQ_1		
+IHKBHOGD_00160	CDS	purL_1	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurL
+IHKBHOGD_00160	gene	purL_1		
+IHKBHOGD_00161	CDS	sdaB	4.3.1.17	L-serine dehydratase 2
+IHKBHOGD_00161	gene	sdaB		
+IHKBHOGD_00162	CDS	uidA	3.2.1.31	Beta-glucuronidase
+IHKBHOGD_00162	gene	uidA		
+IHKBHOGD_00163	CDS			hypothetical protein
+IHKBHOGD_00163	gene			
+IHKBHOGD_00164	CDS	ftsZ		Cell division protein FtsZ
+IHKBHOGD_00164	gene	ftsZ		
+IHKBHOGD_00165	CDS	ftsQ		Cell division protein FtsQ
+IHKBHOGD_00165	gene	ftsQ		
+IHKBHOGD_00166	CDS	purL_2	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurL
+IHKBHOGD_00166	gene	purL_2		
+IHKBHOGD_00167	CDS	purQ_2	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurQ
+IHKBHOGD_00167	gene	purQ_2		
+IHKBHOGD_00168	CDS	purC	6.3.2.6	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+IHKBHOGD_00168	gene	purC		
+IHKBHOGD_00169	CDS			hypothetical protein
+IHKBHOGD_00169	gene			
+IHKBHOGD_00170	CDS			hypothetical protein
+IHKBHOGD_00170	gene			
+IHKBHOGD_00171	CDS	tadA	3.5.4.33	tRNA-specific adenosine deaminase
+IHKBHOGD_00171	gene	tadA		
+IHKBHOGD_00172	CDS			hypothetical protein
+IHKBHOGD_00172	gene			
+IHKBHOGD_00173	CDS			hypothetical protein
+IHKBHOGD_00173	gene			
+IHKBHOGD_00174	CDS		2.3.1.-	Putative acetyltransferase
+IHKBHOGD_00174	gene			
+IHKBHOGD_00175	CDS		3.4.11.-	putative aminopeptidase
+IHKBHOGD_00175	gene			
+IHKBHOGD_00176	CDS	panC	6.3.2.1	Pantothenate synthetase
+IHKBHOGD_00176	gene	panC		
+IHKBHOGD_00177	CDS			hypothetical protein
+IHKBHOGD_00177	gene			
+IHKBHOGD_00178	CDS	pepN	3.4.11.2	Aminopeptidase N
+IHKBHOGD_00178	gene	pepN		
+IHKBHOGD_00179	CDS	proA	1.2.1.41	Gamma-glutamyl phosphate reductase
+IHKBHOGD_00179	gene	proA		
+IHKBHOGD_00180	CDS			hypothetical protein
+IHKBHOGD_00180	gene			
+IHKBHOGD_00181	CDS	scpA_1	5.4.99.2	Methylmalonyl-CoA mutase
+IHKBHOGD_00181	gene	scpA_1		
+IHKBHOGD_00182	CDS	sucC	6.2.1.5	Succinate--CoA ligase [ADP-forming] subunit beta
+IHKBHOGD_00182	gene	sucC		
+IHKBHOGD_00183	CDS	sucD	6.2.1.5	Succinate--CoA ligase [ADP-forming] subunit alpha
+IHKBHOGD_00183	gene	sucD		
+IHKBHOGD_00184	CDS			hypothetical protein
+IHKBHOGD_00184	gene			
+IHKBHOGD_00185	CDS			hypothetical protein
+IHKBHOGD_00185	gene			
+IHKBHOGD_00186	CDS			hypothetical protein
+IHKBHOGD_00186	gene			
+IHKBHOGD_00187	CDS			hypothetical protein
+IHKBHOGD_00187	gene			
+IHKBHOGD_00188	CDS			hypothetical protein
+IHKBHOGD_00188	gene			
+IHKBHOGD_00189	CDS			hypothetical protein
+IHKBHOGD_00189	gene			
+IHKBHOGD_00190	CDS	nhaP_1		K(+)/H(+) antiporter NhaP
+IHKBHOGD_00190	gene	nhaP_1		
+IHKBHOGD_00191	CDS			hypothetical protein
+IHKBHOGD_00191	gene			
+IHKBHOGD_00192	CDS			hypothetical protein
+IHKBHOGD_00192	gene			
+IHKBHOGD_00193	CDS		1.-.-.-	Putative coenzyme F420-dependent oxidoreductase
+IHKBHOGD_00193	gene			
+IHKBHOGD_00194	CDS			hypothetical protein
+IHKBHOGD_00194	gene			
+IHKBHOGD_00195	CDS	cshA	3.6.4.13	DEAD-box ATP-dependent RNA helicase CshA
+IHKBHOGD_00195	gene	cshA		
+IHKBHOGD_00196	CDS			hypothetical protein
+IHKBHOGD_00196	gene			
+IHKBHOGD_00197	CDS			hypothetical protein
+IHKBHOGD_00197	gene			
+IHKBHOGD_00198	CDS			hypothetical protein
+IHKBHOGD_00198	gene			
+IHKBHOGD_00199	CDS			hypothetical protein
+IHKBHOGD_00199	gene			
+IHKBHOGD_00200	CDS			hypothetical protein
+IHKBHOGD_00200	gene			
+IHKBHOGD_00201	CDS			hypothetical protein
+IHKBHOGD_00201	gene			
+IHKBHOGD_00202	CDS	rsmH	2.1.1.199	Ribosomal RNA small subunit methyltransferase H
+IHKBHOGD_00202	gene	rsmH		
+IHKBHOGD_00203	CDS	ftsL		Cell division protein FtsL
+IHKBHOGD_00203	gene	ftsL		
+IHKBHOGD_00204	CDS			hypothetical protein
+IHKBHOGD_00204	gene			
+IHKBHOGD_00205	CDS			hypothetical protein
+IHKBHOGD_00205	gene			
+IHKBHOGD_00206	CDS	glmU		Bifunctional protein GlmU
+IHKBHOGD_00206	gene	glmU		
+IHKBHOGD_00207	tRNA			tRNA-Gln(ttg)
+IHKBHOGD_00207	gene			
+IHKBHOGD_00208	CDS			hypothetical protein
+IHKBHOGD_00208	gene			
+IHKBHOGD_00209	CDS	ispE	2.7.1.148	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+IHKBHOGD_00209	gene	ispE		
+IHKBHOGD_00210	CDS	udp	2.4.2.3	Uridine phosphorylase
+IHKBHOGD_00210	gene	udp		
+IHKBHOGD_00211	CDS	leuS	6.1.1.4	Leucine--tRNA ligase
+IHKBHOGD_00211	gene	leuS		
+IHKBHOGD_00212	CDS			hypothetical protein
+IHKBHOGD_00212	gene			
+IHKBHOGD_00213	CDS		1.3.99.-	Putative acyl-CoA dehydrogenase FadE17
+IHKBHOGD_00213	gene			
+IHKBHOGD_00214	CDS			hypothetical protein
+IHKBHOGD_00214	gene			
+IHKBHOGD_00215	CDS			hypothetical protein
+IHKBHOGD_00215	gene			
+IHKBHOGD_00216	CDS	sigK		ECF RNA polymerase sigma factor SigK
+IHKBHOGD_00216	gene	sigK		
+IHKBHOGD_00217	tRNA			tRNA-Val(gac)
+IHKBHOGD_00217	gene			
+IHKBHOGD_00218	CDS	hemN	1.3.99.-	Oxygen-independent coproporphyrinogen-III oxidase-like protein YqeR
+IHKBHOGD_00218	gene	hemN		
+IHKBHOGD_00219	CDS			hypothetical protein
+IHKBHOGD_00219	gene			
+IHKBHOGD_00220	CDS	rsmE	2.1.1.193	Ribosomal RNA small subunit methyltransferase E
+IHKBHOGD_00220	gene	rsmE		
+IHKBHOGD_00221	CDS	dnaJ_1		Chaperone protein DnaJ
+IHKBHOGD_00221	gene	dnaJ_1		
+IHKBHOGD_00222	CDS		4.2.1.112	Acetylene hydratase
+IHKBHOGD_00222	gene			
+IHKBHOGD_00223	CDS			hypothetical protein
+IHKBHOGD_00223	gene			
+IHKBHOGD_00224	CDS			hypothetical protein
+IHKBHOGD_00224	gene			
+IHKBHOGD_00225	CDS	hutU	4.2.1.49	Urocanate hydratase
+IHKBHOGD_00225	gene	hutU		
+IHKBHOGD_00226	CDS	def_1	3.5.1.88	Peptide deformylase
+IHKBHOGD_00226	gene	def_1		
+IHKBHOGD_00227	CDS		3.5.4.32	8-oxoguanine deaminase
+IHKBHOGD_00227	gene			
+IHKBHOGD_00228	CDS	kdgK	2.7.1.45	2-dehydro-3-deoxygluconokinase
+IHKBHOGD_00228	gene	kdgK		
+IHKBHOGD_00229	CDS			hypothetical protein
+IHKBHOGD_00229	gene			
+IHKBHOGD_00230	CDS	xthA_1	3.1.11.2	Exodeoxyribonuclease III
+IHKBHOGD_00230	gene	xthA_1		
+IHKBHOGD_00231	CDS	rdmC	3.1.1.95	Aclacinomycin methylesterase RdmC
+IHKBHOGD_00231	gene	rdmC		
+IHKBHOGD_00232	CDS	afr	1.1.1.292	1,5-anhydro-D-fructose reductase
+IHKBHOGD_00232	gene	afr		
+IHKBHOGD_00233	CDS	iolD_1	3.7.1.22	3D-(3,5/4)-trihydroxycyclohexane-1,2-dione hydrolase
+IHKBHOGD_00233	gene	iolD_1		
+IHKBHOGD_00234	CDS			hypothetical protein
+IHKBHOGD_00234	gene			
+IHKBHOGD_00235	CDS			hypothetical protein
+IHKBHOGD_00235	gene			
+IHKBHOGD_00236	CDS	rpsO		30S ribosomal protein S15
+IHKBHOGD_00236	gene	rpsO		
+IHKBHOGD_00237	CDS	metK	2.5.1.6	S-adenosylmethionine synthase
+IHKBHOGD_00237	gene	metK		
+IHKBHOGD_00238	CDS	priA	3.6.4.-	Primosomal protein N'
+IHKBHOGD_00238	gene	priA		
+IHKBHOGD_00239	CDS	rsmC	2.1.1.172	Ribosomal RNA small subunit methyltransferase C
+IHKBHOGD_00239	gene	rsmC		
+IHKBHOGD_00240	CDS	ald	1.4.1.1	Alanine dehydrogenase
+IHKBHOGD_00240	gene	ald		
+IHKBHOGD_00241	CDS	lrpC		HTH-type transcriptional regulator LrpC
+IHKBHOGD_00241	gene	lrpC		
+IHKBHOGD_00242	CDS	dnaJ_2		Chaperone protein DnaJ
+IHKBHOGD_00242	gene	dnaJ_2		
+IHKBHOGD_00243	tRNA			tRNA-Val(cac)
+IHKBHOGD_00243	gene			
+IHKBHOGD_00244	CDS	birA_1	6.3.4.15	Bifunctional ligase/repressor BirA
+IHKBHOGD_00244	gene	birA_1		
+IHKBHOGD_00245	CDS	yvhJ		Putative transcriptional regulator YvhJ
+IHKBHOGD_00245	gene	yvhJ		
+IHKBHOGD_00246	CDS			hypothetical protein
+IHKBHOGD_00246	gene			
+IHKBHOGD_00247	CDS		2.7.1.-	Putative aminoglycoside phosphotransferase
+IHKBHOGD_00247	gene			
+IHKBHOGD_00248	CDS			hypothetical protein
+IHKBHOGD_00248	gene			
+IHKBHOGD_00249	CDS	iap	3.4.-.-	putative endopeptidase p60
+IHKBHOGD_00249	gene	iap		
+IHKBHOGD_00250	CDS	guaA	6.3.5.2	GMP synthase [glutamine-hydrolyzing]
+IHKBHOGD_00250	gene	guaA		
+IHKBHOGD_00251	CDS		1.3.99.-	Putative acyl-CoA dehydrogenase FadE17
+IHKBHOGD_00251	gene			
+IHKBHOGD_00252	CDS	prdB	1.21.4.1	D-proline reductase subunit gamma
+IHKBHOGD_00252	gene	prdB		
+IHKBHOGD_00253	CDS			hypothetical protein
+IHKBHOGD_00253	gene			
+IHKBHOGD_00254	CDS			hypothetical protein
+IHKBHOGD_00254	gene			
+IHKBHOGD_00255	CDS	bauC	1.2.1.-	Putative 3-oxopropanoate dehydrogenase
+IHKBHOGD_00255	gene	bauC		
+IHKBHOGD_00256	CDS	aspC_1	2.6.1.1	Aspartate aminotransferase
+IHKBHOGD_00256	gene	aspC_1		
+IHKBHOGD_00257	CDS	yahA	3.1.4.-	Cyclic di-GMP phosphodiesterase YahA
+IHKBHOGD_00257	gene	yahA		
+IHKBHOGD_00258	CDS			hypothetical protein
+IHKBHOGD_00258	gene			
+IHKBHOGD_00259	CDS			hypothetical protein
+IHKBHOGD_00259	gene			
+IHKBHOGD_00260	CDS	gcvT	2.1.2.10	Aminomethyltransferase
+IHKBHOGD_00260	gene	gcvT		
+IHKBHOGD_00261	CDS			hypothetical protein
+IHKBHOGD_00261	gene			
+IHKBHOGD_00262	CDS			hypothetical protein
+IHKBHOGD_00262	gene			
+IHKBHOGD_00263	CDS	serA_1	1.1.1.95	D-3-phosphoglycerate dehydrogenase
+IHKBHOGD_00263	gene	serA_1		
+IHKBHOGD_00264	CDS	pyrF_1	4.1.1.23	Orotidine 5'-phosphate decarboxylase
+IHKBHOGD_00264	gene	pyrF_1		
+IHKBHOGD_00265	CDS	subB_1		Ferredoxin-2
+IHKBHOGD_00265	gene	subB_1		
+IHKBHOGD_00266	CDS			hypothetical protein
+IHKBHOGD_00266	gene			
+IHKBHOGD_00267	CDS	leuA_1	2.3.3.13	2-isopropylmalate synthase
+IHKBHOGD_00267	gene	leuA_1		
+IHKBHOGD_00268	CDS			hypothetical protein
+IHKBHOGD_00268	gene			
+IHKBHOGD_00269	CDS	thiB		Thiamine-binding periplasmic protein
+IHKBHOGD_00269	gene	thiB		
+IHKBHOGD_00270	CDS	phnV		Putative 2-aminoethylphosphonate transport system permease protein PhnV
+IHKBHOGD_00270	gene	phnV		
+IHKBHOGD_00271	CDS	phnT		Putative 2-aminoethylphosphonate import ATP-binding protein PhnT
+IHKBHOGD_00271	gene	phnT		
+IHKBHOGD_00272	CDS			hypothetical protein
+IHKBHOGD_00272	gene			
+IHKBHOGD_00273	CDS			hypothetical protein
+IHKBHOGD_00273	gene			
+IHKBHOGD_00274	CDS			hypothetical protein
+IHKBHOGD_00274	gene			
+IHKBHOGD_00275	CDS			hypothetical protein
+IHKBHOGD_00275	gene			
+IHKBHOGD_00276	CDS			hypothetical protein
+IHKBHOGD_00276	gene			
+IHKBHOGD_00277	CDS			hypothetical protein
+IHKBHOGD_00277	gene			
+IHKBHOGD_00278	CDS	novR	4.1.-.-	Decarboxylase NovR
+IHKBHOGD_00278	gene	novR		
+IHKBHOGD_00279	tRNA			tRNA-Ala(tgc)
+IHKBHOGD_00279	gene			
+IHKBHOGD_00280	CDS			hypothetical protein
+IHKBHOGD_00280	gene			
+IHKBHOGD_00281	CDS	cat1	2.8.3.-	Succinyl-CoA:coenzyme A transferase
+IHKBHOGD_00281	gene	cat1		
+IHKBHOGD_00282	CDS	atpD_1	3.6.3.14	ATP synthase subunit beta
+IHKBHOGD_00282	gene	atpD_1		
+IHKBHOGD_00283	CDS	atpG_1		ATP synthase gamma chain
+IHKBHOGD_00283	gene	atpG_1		
+IHKBHOGD_00284	CDS			hypothetical protein
+IHKBHOGD_00284	gene			
+IHKBHOGD_00285	CDS	mrp_1		Iron-sulfur cluster carrier protein
+IHKBHOGD_00285	gene	mrp_1		
+IHKBHOGD_00286	CDS			hypothetical protein
+IHKBHOGD_00286	gene			
+IHKBHOGD_00287	CDS			hypothetical protein
+IHKBHOGD_00287	gene			
+IHKBHOGD_00288	CDS			hypothetical protein
+IHKBHOGD_00288	gene			
+IHKBHOGD_00289	CDS	devR		Transcriptional regulatory protein DevR (DosR)
+IHKBHOGD_00289	gene	devR		
+IHKBHOGD_00290	CDS	nhaA		Na(+)/H(+) antiporter NhaA
+IHKBHOGD_00290	gene	nhaA		
+IHKBHOGD_00291	CDS			hypothetical protein
+IHKBHOGD_00291	gene			
+IHKBHOGD_00292	CDS	ideR_1		Iron-dependent repressor IdeR
+IHKBHOGD_00292	gene	ideR_1		
+IHKBHOGD_00293	CDS			hypothetical protein
+IHKBHOGD_00293	gene			
+IHKBHOGD_00294	CDS			hypothetical protein
+IHKBHOGD_00294	gene			
+IHKBHOGD_00295	CDS	dcsG	6.3.3.5	Cycloserine biosynthesis protein DcsG
+IHKBHOGD_00295	gene	dcsG		
+IHKBHOGD_00296	CDS	cysO_1		Sulfur carrier protein CysO
+IHKBHOGD_00296	gene	cysO_1		
+IHKBHOGD_00297	CDS	garK_1	2.7.1.165	Glycerate 2-kinase
+IHKBHOGD_00297	gene	garK_1		
+IHKBHOGD_00298	CDS			hypothetical protein
+IHKBHOGD_00298	gene			
+IHKBHOGD_00299	CDS			hypothetical protein
+IHKBHOGD_00299	gene			
+IHKBHOGD_00300	CDS			hypothetical protein
+IHKBHOGD_00300	gene			
+IHKBHOGD_00301	CDS	bauA	2.6.1.18	Beta-alanine--pyruvate aminotransferase
+IHKBHOGD_00301	gene	bauA		
+IHKBHOGD_00302	CDS	apc4	6.4.1.8	Acetophenone carboxylase delta subunit
+IHKBHOGD_00302	gene	apc4		
+IHKBHOGD_00303	CDS	dmg	1.5.3.10	Dimethylglycine oxidase
+IHKBHOGD_00303	gene	dmg		
+IHKBHOGD_00304	CDS			hypothetical protein
+IHKBHOGD_00304	gene			
+IHKBHOGD_00305	CDS			hypothetical protein
+IHKBHOGD_00305	gene			
+IHKBHOGD_00306	CDS	nfnB	1.-.-.-	Nitroreductase NfnB
+IHKBHOGD_00306	gene	nfnB		
+IHKBHOGD_00307	CDS			hypothetical protein
+IHKBHOGD_00307	gene			
+IHKBHOGD_00308	CDS	deoC	4.1.2.4	Deoxyribose-phosphate aldolase
+IHKBHOGD_00308	gene	deoC		
+IHKBHOGD_00309	CDS	kanE	2.4.1.301	Alpha-D-kanosaminyltransferase
+IHKBHOGD_00309	gene	kanE		
+IHKBHOGD_00310	CDS	mshA_1	2.4.1.250	D-inositol 3-phosphate glycosyltransferase
+IHKBHOGD_00310	gene	mshA_1		
+IHKBHOGD_00311	CDS	mshA_2	2.4.1.250	D-inositol 3-phosphate glycosyltransferase
+IHKBHOGD_00311	gene	mshA_2		
+IHKBHOGD_00312	CDS			hypothetical protein
+IHKBHOGD_00312	gene			
+IHKBHOGD_00313	CDS		2.4.1.54	Undecaprenyl-phosphate mannosyltransferase
+IHKBHOGD_00313	gene			
+IHKBHOGD_00314	CDS			hypothetical protein
+IHKBHOGD_00314	gene			
+IHKBHOGD_00315	CDS	paaG	5.3.3.18	1,2-epoxyphenylacetyl-CoA isomerase
+IHKBHOGD_00315	gene	paaG		
+IHKBHOGD_00316	CDS	bluB	1.13.11.79	5,6-dimethylbenzimidazole synthase
+IHKBHOGD_00316	gene	bluB		
+IHKBHOGD_00317	CDS	xylB	2.7.1.17	Xylulose kinase
+IHKBHOGD_00317	gene	xylB		
+IHKBHOGD_00318	CDS	dnaJ_3		Chaperone protein DnaJ
+IHKBHOGD_00318	gene	dnaJ_3		
+IHKBHOGD_00319	CDS	ywlC	2.7.7.87	Threonylcarbamoyl-AMP synthase
+IHKBHOGD_00319	gene	ywlC		
+IHKBHOGD_00320	CDS	menH_1	4.2.99.20	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+IHKBHOGD_00320	gene	menH_1		
+IHKBHOGD_00321	CDS	guaB1	1.-.-.-	putative oxidoreductase
+IHKBHOGD_00321	gene	guaB1		
+IHKBHOGD_00322	CDS	cmk	2.7.4.25	Cytidylate kinase
+IHKBHOGD_00322	gene	cmk		
+IHKBHOGD_00323	CDS	plsC_2	2.3.1.-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+IHKBHOGD_00323	gene	plsC_2		
+IHKBHOGD_00324	CDS	apeB_2	3.4.11.-	putative M18 family aminopeptidase 2
+IHKBHOGD_00324	gene	apeB_2		
+IHKBHOGD_00325	CDS	pspA_2	3.1.3.3	Phosphoserine phosphatase 1
+IHKBHOGD_00325	gene	pspA_2		
+IHKBHOGD_00326	CDS	pyk	2.7.1.40	Pyruvate kinase
+IHKBHOGD_00326	gene	pyk		
+IHKBHOGD_00327	CDS			hypothetical protein
+IHKBHOGD_00327	gene			
+IHKBHOGD_00328	CDS			hypothetical protein
+IHKBHOGD_00328	gene			
+IHKBHOGD_00329	CDS			hypothetical protein
+IHKBHOGD_00329	gene			
+IHKBHOGD_00330	CDS	mobA	2.7.7.77	Molybdenum cofactor guanylyltransferase
+IHKBHOGD_00330	gene	mobA		
+IHKBHOGD_00331	CDS	glpE_1	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+IHKBHOGD_00331	gene	glpE_1		
+IHKBHOGD_00332	CDS	rnd	3.1.13.5	Ribonuclease D
+IHKBHOGD_00332	gene	rnd		
+IHKBHOGD_00333	CDS	parA		Chromosome partitioning protein ParA
+IHKBHOGD_00333	gene	parA		
+IHKBHOGD_00334	CDS			hypothetical protein
+IHKBHOGD_00334	gene			
+IHKBHOGD_00335	CDS			hypothetical protein
+IHKBHOGD_00335	gene			
+IHKBHOGD_00336	CDS			hypothetical protein
+IHKBHOGD_00336	gene			
+IHKBHOGD_00337	CDS			hypothetical protein
+IHKBHOGD_00337	gene			
+IHKBHOGD_00338	CDS	mshA_3	2.4.1.250	D-inositol-3-phosphate glycosyltransferase
+IHKBHOGD_00338	gene	mshA_3		
+IHKBHOGD_00339	CDS	mfpsA_1	2.4.1.246	Mannosylfructose-phosphate synthase
+IHKBHOGD_00339	gene	mfpsA_1		
+IHKBHOGD_00340	CDS			hypothetical protein
+IHKBHOGD_00340	gene			
+IHKBHOGD_00341	CDS			hypothetical protein
+IHKBHOGD_00341	gene			
+IHKBHOGD_00342	CDS			hypothetical protein
+IHKBHOGD_00342	gene			
+IHKBHOGD_00343	CDS	dut_1	3.6.1.23	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+IHKBHOGD_00343	gene	dut_1		
+IHKBHOGD_00344	CDS	nudL_1	3.6.1.-	putative Nudix hydrolase NudL
+IHKBHOGD_00344	gene	nudL_1		
+IHKBHOGD_00345	CDS			hypothetical protein
+IHKBHOGD_00345	gene			
+IHKBHOGD_00346	CDS	pepA	3.4.11.1	Cytosol aminopeptidase
+IHKBHOGD_00346	gene	pepA		
+IHKBHOGD_00347	CDS			hypothetical protein
+IHKBHOGD_00347	gene			
+IHKBHOGD_00348	CDS		1.4.3.5	Putative pyridoxine/pyridoxamine 5'-phosphate oxidase
+IHKBHOGD_00348	gene			
+IHKBHOGD_00349	CDS			hypothetical protein
+IHKBHOGD_00349	gene			
+IHKBHOGD_00350	CDS		3.1.1.10	Tropinesterase
+IHKBHOGD_00350	gene			
+IHKBHOGD_00351	CDS	menH_2	4.2.99.20	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+IHKBHOGD_00351	gene	menH_2		
+IHKBHOGD_00352	CDS	echA8_1	4.2.1.17	putative enoyl-CoA hydratase echA8
+IHKBHOGD_00352	gene	echA8_1		
+IHKBHOGD_00353	CDS			hypothetical protein
+IHKBHOGD_00353	gene			
+IHKBHOGD_00354	CDS			Fatty acid-binding protein
+IHKBHOGD_00354	gene			
+IHKBHOGD_00355	CDS			hypothetical protein
+IHKBHOGD_00355	gene			
+IHKBHOGD_00356	CDS			hypothetical protein
+IHKBHOGD_00356	gene			
+IHKBHOGD_00357	CDS	der		GTPase Der
+IHKBHOGD_00357	gene	der		
+IHKBHOGD_00358	CDS			hypothetical protein
+IHKBHOGD_00358	gene			
+IHKBHOGD_00359	tRNA			tRNA-Pro(ggg)
+IHKBHOGD_00359	gene			
+IHKBHOGD_00360	CDS			hypothetical protein
+IHKBHOGD_00360	gene			
+IHKBHOGD_00361	CDS	acpS	2.7.8.7	Holo-[acyl-carrier-protein] synthase
+IHKBHOGD_00361	gene	acpS		
+IHKBHOGD_00362	CDS	lcfB_1	6.2.1.3	Long-chain-fatty-acid--CoA ligase
+IHKBHOGD_00362	gene	lcfB_1		
+IHKBHOGD_00363	CDS	galK	2.7.1.6	Galactokinase
+IHKBHOGD_00363	gene	galK		
+IHKBHOGD_00364	CDS	lacZ	3.2.1.23	Beta-galactosidase
+IHKBHOGD_00364	gene	lacZ		
+IHKBHOGD_00365	CDS			hypothetical protein
+IHKBHOGD_00365	gene			
+IHKBHOGD_00366	CDS			hypothetical protein
+IHKBHOGD_00366	gene			
+IHKBHOGD_00367	CDS			hypothetical protein
+IHKBHOGD_00367	gene			
+IHKBHOGD_00368	CDS			hypothetical protein
+IHKBHOGD_00368	gene			
+IHKBHOGD_00369	CDS			hypothetical protein
+IHKBHOGD_00369	gene			
+IHKBHOGD_00370	CDS			hypothetical protein
+IHKBHOGD_00370	gene			
+IHKBHOGD_00371	CDS	paaX		Transcriptional repressor PaaX
+IHKBHOGD_00371	gene	paaX		
+IHKBHOGD_00372	CDS			hypothetical protein
+IHKBHOGD_00372	gene			
+IHKBHOGD_00373	CDS	araQ		L-arabinose transport system permease protein AraQ
+IHKBHOGD_00373	gene	araQ		
+IHKBHOGD_00374	CDS	ycjO		Inner membrane ABC transporter permease protein YcjO
+IHKBHOGD_00374	gene	ycjO		
+IHKBHOGD_00375	CDS			hypothetical protein
+IHKBHOGD_00375	gene			
+IHKBHOGD_00376	CDS			hypothetical protein
+IHKBHOGD_00376	gene			
+IHKBHOGD_00377	CDS			hypothetical protein
+IHKBHOGD_00377	gene			
+IHKBHOGD_00378	CDS	udk	2.7.1.48	Uridine kinase
+IHKBHOGD_00378	gene	udk		
+IHKBHOGD_00379	CDS	aspC_2	2.6.1.1	Aspartate aminotransferase
+IHKBHOGD_00379	gene	aspC_2		
+IHKBHOGD_00380	CDS			hypothetical protein
+IHKBHOGD_00380	gene			
+IHKBHOGD_00381	CDS	rsmD	2.1.1.171	Ribosomal RNA small subunit methyltransferase D
+IHKBHOGD_00381	gene	rsmD		
+IHKBHOGD_00382	CDS	coaD_1	2.7.7.3	Phosphopantetheine adenylyltransferase
+IHKBHOGD_00382	gene	coaD_1		
+IHKBHOGD_00383	CDS			hypothetical protein
+IHKBHOGD_00383	gene			
+IHKBHOGD_00384	CDS			hypothetical protein
+IHKBHOGD_00384	gene			
+IHKBHOGD_00385	CDS	pccB_2	6.4.1.3	Propionyl-CoA carboxylase beta chain
+IHKBHOGD_00385	gene	pccB_2		
+IHKBHOGD_00386	CDS	valS	6.1.1.9	Valine--tRNA ligase
+IHKBHOGD_00386	gene	valS		
+IHKBHOGD_00387	CDS	capA		Capsule biosynthesis protein CapA
+IHKBHOGD_00387	gene	capA		
+IHKBHOGD_00388	CDS			hypothetical protein
+IHKBHOGD_00388	gene			
+IHKBHOGD_00389	CDS	galT	2.7.7.12	Galactose-1-phosphate uridylyltransferase
+IHKBHOGD_00389	gene	galT		
+IHKBHOGD_00390	CDS			hypothetical protein
+IHKBHOGD_00390	gene			
+IHKBHOGD_00391	CDS	glgB	2.4.1.18	1,4-alpha-glucan branching enzyme GlgB
+IHKBHOGD_00391	gene	glgB		
+IHKBHOGD_00392	CDS		2.4.1.11	Glycogen synthase
+IHKBHOGD_00392	gene			
+IHKBHOGD_00393	CDS			hypothetical protein
+IHKBHOGD_00393	gene			
+IHKBHOGD_00394	CDS	mdtG		Multidrug resistance protein MdtG
+IHKBHOGD_00394	gene	mdtG		
+IHKBHOGD_00395	CDS	echA8_2	4.2.1.17	putative enoyl-CoA hydratase echA8
+IHKBHOGD_00395	gene	echA8_2		
+IHKBHOGD_00396	CDS		3.6.-.-	putative GTPase
+IHKBHOGD_00396	gene			
+IHKBHOGD_00397	CDS	nfuA_1		Fe/S biogenesis protein NfuA
+IHKBHOGD_00397	gene	nfuA_1		
+IHKBHOGD_00398	CDS			hypothetical protein
+IHKBHOGD_00398	gene			
+IHKBHOGD_00399	CDS	murA_1	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+IHKBHOGD_00399	gene	murA_1		
+IHKBHOGD_00400	CDS			hypothetical protein
+IHKBHOGD_00400	gene			
+IHKBHOGD_00401	CDS			hypothetical protein
+IHKBHOGD_00401	gene			
+IHKBHOGD_00402	CDS	clpP1	3.4.21.92	ATP-dependent Clp protease proteolytic subunit 1
+IHKBHOGD_00402	gene	clpP1		
+IHKBHOGD_00403	CDS			hypothetical protein
+IHKBHOGD_00403	gene			
+IHKBHOGD_00404	CDS	glgX	3.2.1.-	Glycogen operon protein GlgX 
+IHKBHOGD_00404	gene	glgX		
+IHKBHOGD_00405	CDS			hypothetical protein
+IHKBHOGD_00405	gene			
+IHKBHOGD_00406	CDS			hypothetical protein
+IHKBHOGD_00406	gene			
+IHKBHOGD_00407	CDS			hypothetical protein
+IHKBHOGD_00407	gene			
+IHKBHOGD_00408	CDS	tkt	2.2.1.1	Transketolase
+IHKBHOGD_00408	gene	tkt		
+IHKBHOGD_00409	CDS	tal	2.2.1.2	Transaldolase
+IHKBHOGD_00409	gene	tal		
+IHKBHOGD_00410	CDS	yedY	1.8.-.-	Sulfoxide reductase catalytic subunit YedY
+IHKBHOGD_00410	gene	yedY		
+IHKBHOGD_00411	CDS			hypothetical protein
+IHKBHOGD_00411	gene			
+IHKBHOGD_00412	CDS			hypothetical protein
+IHKBHOGD_00412	gene			
+IHKBHOGD_00413	CDS	glpC		Anaerobic glycerol-3-phosphate dehydrogenase subunit C
+IHKBHOGD_00413	gene	glpC		
+IHKBHOGD_00414	CDS	nei1	3.2.2.-	Endonuclease 8 1
+IHKBHOGD_00414	gene	nei1		
+IHKBHOGD_00415	CDS			hypothetical protein
+IHKBHOGD_00415	gene			
+IHKBHOGD_00416	CDS	pucG	2.-.-.-	Purine catabolism protein PucG
+IHKBHOGD_00416	gene	pucG		
+IHKBHOGD_00417	CDS	regX3		Sensory transduction protein regX3
+IHKBHOGD_00417	gene	regX3		
+IHKBHOGD_00418	CDS	senX3	2.7.13.3	Signal-transduction histidine kinase senX3
+IHKBHOGD_00418	gene	senX3		
+IHKBHOGD_00419	CDS	phoU1		Phosphate-specific transport system accessory protein PhoU 
+IHKBHOGD_00419	gene	phoU1		
+IHKBHOGD_00420	CDS			hypothetical protein
+IHKBHOGD_00420	gene			
+IHKBHOGD_00421	CDS	whiB3_1		Redox-responsive transcriptional regulator WhiB3
+IHKBHOGD_00421	gene	whiB3_1		
+IHKBHOGD_00422	CDS	selB_1		Selenocysteine-specific elongation factor
+IHKBHOGD_00422	gene	selB_1		
+IHKBHOGD_00423	CDS	cutM	1.2.5.3	Carbon monoxide dehydrogenase medium chain
+IHKBHOGD_00423	gene	cutM		
+IHKBHOGD_00424	CDS	cutS	1.2.5.3	Carbon monoxide dehydrogenase small chain
+IHKBHOGD_00424	gene	cutS		
+IHKBHOGD_00425	CDS	cutL_1	1.2.5.3	Carbon monoxide dehydrogenase large chain
+IHKBHOGD_00425	gene	cutL_1		
+IHKBHOGD_00426	CDS			hypothetical protein
+IHKBHOGD_00426	gene			
+IHKBHOGD_00427	CDS	nuoM	1.6.5.11	NADH-quinone oxidoreductase subunit M
+IHKBHOGD_00427	gene	nuoM		
+IHKBHOGD_00428	CDS	nuoN	1.6.5.11	NADH-quinone oxidoreductase subunit N
+IHKBHOGD_00428	gene	nuoN		
+IHKBHOGD_00429	CDS			hypothetical protein
+IHKBHOGD_00429	gene			
+IHKBHOGD_00430	CDS			hypothetical protein
+IHKBHOGD_00430	gene			
+IHKBHOGD_00431	CDS			hypothetical protein
+IHKBHOGD_00431	gene			
+IHKBHOGD_00432	CDS	coaE	2.7.1.24	Dephospho-CoA kinase
+IHKBHOGD_00432	gene	coaE		
+IHKBHOGD_00433	CDS	rpsA		30S ribosomal protein S1
+IHKBHOGD_00433	gene	rpsA		
+IHKBHOGD_00434	CDS	ptlE	1.14.13.171	Neopentalenolactone D synthase
+IHKBHOGD_00434	gene	ptlE		
+IHKBHOGD_00435	CDS	lytH	3.4.-.-	L-Ala--D-Glu endopeptidase
+IHKBHOGD_00435	gene	lytH		
+IHKBHOGD_00436	CDS	ribD		Riboflavin biosynthesis protein RibD
+IHKBHOGD_00436	gene	ribD		
+IHKBHOGD_00437	CDS	ribBA		Riboflavin biosynthesis protein RibBA
+IHKBHOGD_00437	gene	ribBA		
+IHKBHOGD_00438	CDS	fbiC	2.5.1.77	FO synthase
+IHKBHOGD_00438	gene	fbiC		
+IHKBHOGD_00439	CDS			hypothetical protein
+IHKBHOGD_00439	gene			
+IHKBHOGD_00440	CDS	ddl	6.3.2.4	D-alanine--D-alanine ligase
+IHKBHOGD_00440	gene	ddl		
+IHKBHOGD_00441	CDS	icaR		Biofilm operon icaADBC HTH-type negative transcriptional regulator IcaR
+IHKBHOGD_00441	gene	icaR		
+IHKBHOGD_00442	CDS			hypothetical protein
+IHKBHOGD_00442	gene			
+IHKBHOGD_00443	CDS	mhuD	1.14.14.18	Heme-degrading monooxygenase HmoB
+IHKBHOGD_00443	gene	mhuD		
+IHKBHOGD_00444	CDS	ligD		Multifunctional non-homologous end joining DNA repair protein LigD
+IHKBHOGD_00444	gene	ligD		
+IHKBHOGD_00445	CDS	smtB_1	2.8.3.22	Succinyl-CoA--L-malate CoA-transferase beta subunit
+IHKBHOGD_00445	gene	smtB_1		
+IHKBHOGD_00446	CDS	boxB	1.14.13.208	Benzoyl-CoA oxygenase component B
+IHKBHOGD_00446	gene	boxB		
+IHKBHOGD_00447	CDS	menH_3	4.2.99.20	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+IHKBHOGD_00447	gene	menH_3		
+IHKBHOGD_00448	CDS	aiiM	3.1.1.81	N-acyl homoserine lactonase
+IHKBHOGD_00448	gene	aiiM		
+IHKBHOGD_00449	CDS			hypothetical protein
+IHKBHOGD_00449	gene			
+IHKBHOGD_00450	CDS	oppD		Oligopeptide transport ATP-binding protein OppD
+IHKBHOGD_00450	gene	oppD		
+IHKBHOGD_00451	CDS	gsiC		Glutathione transport system permease protein GsiC
+IHKBHOGD_00451	gene	gsiC		
+IHKBHOGD_00452	CDS			hypothetical protein
+IHKBHOGD_00452	gene			
+IHKBHOGD_00453	CDS	nrdR		Transcriptional repressor NrdR
+IHKBHOGD_00453	gene	nrdR		
+IHKBHOGD_00454	CDS			hypothetical protein
+IHKBHOGD_00454	gene			
+IHKBHOGD_00455	CDS	lexA	3.4.21.88	LexA repressor
+IHKBHOGD_00455	gene	lexA		
+IHKBHOGD_00456	CDS			hypothetical protein
+IHKBHOGD_00456	gene			
+IHKBHOGD_00457	CDS	bacF	2.6.1.-	Transaminase BacF
+IHKBHOGD_00457	gene	bacF		
+IHKBHOGD_00458	CDS			hypothetical protein
+IHKBHOGD_00458	gene			
+IHKBHOGD_00459	CDS			hypothetical protein
+IHKBHOGD_00459	gene			
+IHKBHOGD_00460	CDS		4.2.1.17	putative enoyl-CoA hydratase echA14
+IHKBHOGD_00460	gene			
+IHKBHOGD_00461	CDS			putative HTH-type transcriptional regulator
+IHKBHOGD_00461	gene			
+IHKBHOGD_00462	CDS			hypothetical protein
+IHKBHOGD_00462	gene			
+IHKBHOGD_00463	CDS	nhaP_2		K(+)/H(+) antiporter NhaP
+IHKBHOGD_00463	gene	nhaP_2		
+IHKBHOGD_00464	CDS		1.1.99.36	NDMA-dependent alcohol dehydrogenase
+IHKBHOGD_00464	gene			
+IHKBHOGD_00465	CDS	nirQ		Denitrification regulatory protein NirQ
+IHKBHOGD_00465	gene	nirQ		
+IHKBHOGD_00466	CDS			hypothetical protein
+IHKBHOGD_00466	gene			
+IHKBHOGD_00467	CDS		3.6.3.-	Putative multidrug export ATP-binding/permease protein
+IHKBHOGD_00467	gene			
+IHKBHOGD_00468	CDS			hypothetical protein
+IHKBHOGD_00468	gene			
+IHKBHOGD_00469	CDS			hypothetical protein
+IHKBHOGD_00469	gene			
+IHKBHOGD_00470	CDS	ndhD1	1.6.5.-	NAD(P)H-quinone oxidoreductase chain 4 1
+IHKBHOGD_00470	gene	ndhD1		
+IHKBHOGD_00471	CDS			hypothetical protein
+IHKBHOGD_00471	gene			
+IHKBHOGD_00472	CDS			hypothetical protein
+IHKBHOGD_00472	gene			
+IHKBHOGD_00473	CDS	rlmI_2	2.1.1.191	Ribosomal RNA large subunit methyltransferase I
+IHKBHOGD_00473	gene	rlmI_2		
+IHKBHOGD_00474	CDS	rhlG	1.1.1.100	Rhamnolipids biosynthesis 3-oxoacyl-[acyl-carrier-protein] reductase
+IHKBHOGD_00474	gene	rhlG		
+IHKBHOGD_00475	CDS	dinB	2.7.7.7	DNA polymerase IV
+IHKBHOGD_00475	gene	dinB		
+IHKBHOGD_00476	CDS			hypothetical protein
+IHKBHOGD_00476	gene			
+IHKBHOGD_00477	CDS	tgpA	2.3.2.13	Protein-glutamine gamma-glutamyltransferase
+IHKBHOGD_00477	gene	tgpA		
+IHKBHOGD_00478	tRNA			tRNA-Leu(cag)
+IHKBHOGD_00478	gene			
+IHKBHOGD_00479	CDS	fhaB_1		FHA domain-containing protein FhaB
+IHKBHOGD_00479	gene	fhaB_1		
+IHKBHOGD_00480	CDS	fhaB_2		FHA domain-containing protein FhaB
+IHKBHOGD_00480	gene	fhaB_2		
+IHKBHOGD_00481	CDS	stp	3.1.3.16	Serine/threonine phosphatase stp
+IHKBHOGD_00481	gene	stp		
+IHKBHOGD_00482	CDS	rodA		putative FtsW-like protein
+IHKBHOGD_00482	gene	rodA		
+IHKBHOGD_00483	CDS	pbpA		Penicillin-binding protein A
+IHKBHOGD_00483	gene	pbpA		
+IHKBHOGD_00484	CDS			hypothetical protein
+IHKBHOGD_00484	gene			
+IHKBHOGD_00485	CDS	tauD	1.14.11.17	Alpha-ketoglutarate-dependent taurine dioxygenase
+IHKBHOGD_00485	gene	tauD		
+IHKBHOGD_00486	CDS	rutA	1.14.99.46	Pyrimidine monooxygenase RutA
+IHKBHOGD_00486	gene	rutA		
+IHKBHOGD_00487	CDS	sadH	1.-.-.-	Putative oxidoreductase SadH
+IHKBHOGD_00487	gene	sadH		
+IHKBHOGD_00488	CDS	pheA	4.2.1.51	Prephenate dehydratase
+IHKBHOGD_00488	gene	pheA		
+IHKBHOGD_00489	CDS	ydjH	2.7.1.-	putative sugar kinase YdjH
+IHKBHOGD_00489	gene	ydjH		
+IHKBHOGD_00490	CDS			putative HTH-type transcriptional regulator
+IHKBHOGD_00490	gene			
+IHKBHOGD_00491	CDS			hypothetical protein
+IHKBHOGD_00491	gene			
+IHKBHOGD_00492	CDS	acs	6.2.1.1	Acetyl-coenzyme A synthetase
+IHKBHOGD_00492	gene	acs		
+IHKBHOGD_00493	CDS	birA_2	6.3.4.15	Bifunctional ligase/repressor BirA
+IHKBHOGD_00493	gene	birA_2		
+IHKBHOGD_00494	CDS	accC	6.3.4.14	Biotin carboxylase
+IHKBHOGD_00494	gene	accC		
+IHKBHOGD_00495	CDS	lpdA	1.6.5.2	NAD(P)H dehydrogenase (quinone)
+IHKBHOGD_00495	gene	lpdA		
+IHKBHOGD_00496	CDS			hypothetical protein
+IHKBHOGD_00496	gene			
+IHKBHOGD_00497	CDS			hypothetical protein
+IHKBHOGD_00497	gene			
+IHKBHOGD_00498	CDS			hypothetical protein
+IHKBHOGD_00498	gene			
+IHKBHOGD_00499	CDS			hypothetical protein
+IHKBHOGD_00499	gene			
+IHKBHOGD_00500	CDS		1.1.2.-	L-gulono-1,4-lactone dehydrogenase
+IHKBHOGD_00500	gene			
+IHKBHOGD_00501	CDS			Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+IHKBHOGD_00501	gene			
+IHKBHOGD_00502	CDS			hypothetical protein
+IHKBHOGD_00502	gene			
+IHKBHOGD_00503	CDS			hypothetical protein
+IHKBHOGD_00503	gene			
+IHKBHOGD_00504	CDS			hypothetical protein
+IHKBHOGD_00504	gene			
+IHKBHOGD_00505	CDS	nuoC	1.6.5.11	NADH-quinone oxidoreductase subunit C
+IHKBHOGD_00505	gene	nuoC		
+IHKBHOGD_00506	CDS	nuoB_1	1.6.5.11	NADH-quinone oxidoreductase subunit B
+IHKBHOGD_00506	gene	nuoB_1		
+IHKBHOGD_00507	CDS	nuoA	1.6.5.11	NADH-quinone oxidoreductase subunit A
+IHKBHOGD_00507	gene	nuoA		
+IHKBHOGD_00508	CDS			hypothetical protein
+IHKBHOGD_00508	gene			
+IHKBHOGD_00509	CDS	rpiB	5.3.1.6	Ribose-5-phosphate isomerase B
+IHKBHOGD_00509	gene	rpiB		
+IHKBHOGD_00510	CDS	glyA	2.1.2.1	Serine hydroxymethyltransferase
+IHKBHOGD_00510	gene	glyA		
+IHKBHOGD_00511	CDS			hypothetical protein
+IHKBHOGD_00511	gene			
+IHKBHOGD_00512	CDS	vraR		Response regulator protein VraR
+IHKBHOGD_00512	gene	vraR		
+IHKBHOGD_00513	CDS	ndhC	1.6.5.-	NAD(P)H-quinone oxidoreductase subunit 3
+IHKBHOGD_00513	gene	ndhC		
+IHKBHOGD_00514	CDS	nuoB_2	1.6.5.11	NADH-quinone oxidoreductase subunit B
+IHKBHOGD_00514	gene	nuoB_2		
+IHKBHOGD_00515	CDS			hypothetical protein
+IHKBHOGD_00515	gene			
+IHKBHOGD_00516	CDS			hypothetical protein
+IHKBHOGD_00516	gene			
+IHKBHOGD_00517	CDS			hypothetical protein
+IHKBHOGD_00517	gene			
+IHKBHOGD_00518	CDS			hypothetical protein
+IHKBHOGD_00518	gene			
+IHKBHOGD_00519	CDS			hypothetical protein
+IHKBHOGD_00519	gene			
+IHKBHOGD_00520	CDS	hchA	4.2.1.130	Molecular chaperone Hsp31 and glyoxalase 3
+IHKBHOGD_00520	gene	hchA		
+IHKBHOGD_00521	CDS			hypothetical protein
+IHKBHOGD_00521	gene			
+IHKBHOGD_00522	CDS	yfmJ_2	1.-.-.-	Putative NADP-dependent oxidoreductase YfmJ
+IHKBHOGD_00522	gene	yfmJ_2		
+IHKBHOGD_00523	CDS		2.3.1.20	Putative diacyglycerol O-acyltransferase
+IHKBHOGD_00523	gene			
+IHKBHOGD_00524	CDS			hypothetical protein
+IHKBHOGD_00524	gene			
+IHKBHOGD_00525	CDS	linC	1.1.1.-	2,5-dichloro-2,5-cyclohexadiene-1,4-diol dehydrogenase
+IHKBHOGD_00525	gene	linC		
+IHKBHOGD_00526	CDS			hypothetical protein
+IHKBHOGD_00526	gene			
+IHKBHOGD_00527	CDS	dpp5	3.4.14.-	Dipeptidyl-peptidase 5
+IHKBHOGD_00527	gene	dpp5		
+IHKBHOGD_00528	CDS	nudC	3.6.1.22	NADH pyrophosphatase
+IHKBHOGD_00528	gene	nudC		
+IHKBHOGD_00529	CDS			hypothetical protein
+IHKBHOGD_00529	gene			
+IHKBHOGD_00530	CDS	folC	6.3.2.12	Dihydrofolate synthase/folylpolyglutamate synthase
+IHKBHOGD_00530	gene	folC		
+IHKBHOGD_00531	CDS	ndkA	2.7.4.6	Nucleoside diphosphate kinase
+IHKBHOGD_00531	gene	ndkA		
+IHKBHOGD_00532	CDS	otsA	2.4.1.15	Trehalose-6-phosphate synthase
+IHKBHOGD_00532	gene	otsA		
+IHKBHOGD_00533	CDS			hypothetical protein
+IHKBHOGD_00533	gene			
+IHKBHOGD_00534	CDS			hypothetical protein
+IHKBHOGD_00534	gene			
+IHKBHOGD_00535	CDS			hypothetical protein
+IHKBHOGD_00535	gene			
+IHKBHOGD_00536	CDS			hypothetical protein
+IHKBHOGD_00536	gene			
+IHKBHOGD_00537	CDS			hypothetical protein
+IHKBHOGD_00537	gene			
+IHKBHOGD_00538	CDS	ctaB	2.5.1.-	Protoheme IX farnesyltransferase
+IHKBHOGD_00538	gene	ctaB		
+IHKBHOGD_00539	CDS	clpS		ATP-dependent Clp protease adapter protein ClpS
+IHKBHOGD_00539	gene	clpS		
+IHKBHOGD_00540	CDS			hypothetical protein
+IHKBHOGD_00540	gene			
+IHKBHOGD_00541	CDS			hypothetical protein
+IHKBHOGD_00541	gene			
+IHKBHOGD_00542	CDS			hypothetical protein
+IHKBHOGD_00542	gene			
+IHKBHOGD_00543	CDS			hypothetical protein
+IHKBHOGD_00543	gene			
+IHKBHOGD_00544	CDS			hypothetical protein
+IHKBHOGD_00544	gene			
+IHKBHOGD_00545	CDS	ideR_2		Iron-dependent repressor IdeR
+IHKBHOGD_00545	gene	ideR_2		
+IHKBHOGD_00546	CDS			hypothetical protein
+IHKBHOGD_00546	gene			
+IHKBHOGD_00547	CDS			hypothetical protein
+IHKBHOGD_00547	gene			
+IHKBHOGD_00548	CDS			hypothetical protein
+IHKBHOGD_00548	gene			
+IHKBHOGD_00549	CDS		1.18.1.2	Ferredoxin--NADP reductase
+IHKBHOGD_00549	gene			
+IHKBHOGD_00550	CDS	lnt		Bifunctional apolipoprotein N-acyltransferase/polyprenol monophosphomannose synthase
+IHKBHOGD_00550	gene	lnt		
+IHKBHOGD_00551	CDS	crtA	1.14.15.9	Spheroidene monooxygenase
+IHKBHOGD_00551	gene	crtA		
+IHKBHOGD_00552	CDS	pnbA	3.1.1.-	Para-nitrobenzyl esterase
+IHKBHOGD_00552	gene	pnbA		
+IHKBHOGD_00553	CDS			putative sulfate transporter
+IHKBHOGD_00553	gene			
+IHKBHOGD_00554	CDS			hypothetical protein
+IHKBHOGD_00554	gene			
+IHKBHOGD_00555	CDS			hypothetical protein
+IHKBHOGD_00555	gene			
+IHKBHOGD_00556	CDS	plsC_3	2.3.1.51	1-acyl-sn-glycerol-3-phosphate acyltransferase
+IHKBHOGD_00556	gene	plsC_3		
+IHKBHOGD_00557	CDS			hypothetical protein
+IHKBHOGD_00557	gene			
+IHKBHOGD_00558	CDS			hypothetical protein
+IHKBHOGD_00558	gene			
+IHKBHOGD_00559	CDS			hypothetical protein
+IHKBHOGD_00559	gene			
+IHKBHOGD_00560	CDS			hypothetical protein
+IHKBHOGD_00560	gene			
+IHKBHOGD_00561	CDS			hypothetical protein
+IHKBHOGD_00561	gene			
+IHKBHOGD_00562	CDS			hypothetical protein
+IHKBHOGD_00562	gene			
+IHKBHOGD_00563	CDS			hypothetical protein
+IHKBHOGD_00563	gene			
+IHKBHOGD_00564	CDS			hypothetical protein
+IHKBHOGD_00564	gene			
+IHKBHOGD_00565	CDS	pkn1_1	2.7.11.1	Serine/threonine-protein kinase pkn1
+IHKBHOGD_00565	gene	pkn1_1		
+IHKBHOGD_00566	CDS			hypothetical protein
+IHKBHOGD_00566	gene			
+IHKBHOGD_00567	CDS	xynZ	3.2.1.8	Endo-1,4-beta-xylanase Z
+IHKBHOGD_00567	gene	xynZ		
+IHKBHOGD_00568	CDS			hypothetical protein
+IHKBHOGD_00568	gene			
+IHKBHOGD_00569	CDS	perR		Peroxide operon regulator
+IHKBHOGD_00569	gene	perR		
+IHKBHOGD_00570	CDS	ssaB		Manganese ABC transporter substrate-binding lipoprotein
+IHKBHOGD_00570	gene	ssaB		
+IHKBHOGD_00571	CDS			hypothetical protein
+IHKBHOGD_00571	gene			
+IHKBHOGD_00572	CDS	fabH_1	2.3.1.180	3-oxoacyl-[acyl-carrier-protein] synthase 3
+IHKBHOGD_00572	gene	fabH_1		
+IHKBHOGD_00573	CDS			hypothetical protein
+IHKBHOGD_00573	gene			
+IHKBHOGD_00574	CDS			hypothetical protein
+IHKBHOGD_00574	gene			
+IHKBHOGD_00575	CDS			hypothetical protein
+IHKBHOGD_00575	gene			
+IHKBHOGD_00576	CDS			hypothetical protein
+IHKBHOGD_00576	gene			
+IHKBHOGD_00577	CDS	ftsX		Cell division protein FtsX
+IHKBHOGD_00577	gene	ftsX		
+IHKBHOGD_00578	CDS	ftsE		Cell division ATP-binding protein FtsE
+IHKBHOGD_00578	gene	ftsE		
+IHKBHOGD_00579	CDS	cofD	2.7.8.28	2-phospho-L-lactate transferase
+IHKBHOGD_00579	gene	cofD		
+IHKBHOGD_00580	CDS		5.1.3.2	UDP-glucose 4-epimerase
+IHKBHOGD_00580	gene			
+IHKBHOGD_00581	CDS	hddC	2.7.7.71	D-glycero-alpha-D-manno-heptose 1-phosphate guanylyltransferase
+IHKBHOGD_00581	gene	hddC		
+IHKBHOGD_00582	CDS			hypothetical protein
+IHKBHOGD_00582	gene			
+IHKBHOGD_00583	CDS	rplA		50S ribosomal protein L1
+IHKBHOGD_00583	gene	rplA		
+IHKBHOGD_00584	CDS	rplK		50S ribosomal protein L11
+IHKBHOGD_00584	gene	rplK		
+IHKBHOGD_00585	CDS	nusG		Transcription termination/antitermination protein NusG
+IHKBHOGD_00585	gene	nusG		
+IHKBHOGD_00586	CDS	secE		Protein translocase subunit SecE
+IHKBHOGD_00586	gene	secE		
+IHKBHOGD_00587	CDS			hypothetical protein
+IHKBHOGD_00587	gene			
+IHKBHOGD_00588	CDS			hypothetical protein
+IHKBHOGD_00588	gene			
+IHKBHOGD_00589	CDS	rex		Redox-sensing transcriptional repressor Rex
+IHKBHOGD_00589	gene	rex		
+IHKBHOGD_00590	CDS	lcfB_2	6.2.1.3	Long-chain-fatty-acid--CoA ligase
+IHKBHOGD_00590	gene	lcfB_2		
+IHKBHOGD_00591	CDS	salL	2.5.1.94	Adenosyl-chloride synthase
+IHKBHOGD_00591	gene	salL		
+IHKBHOGD_00592	CDS	proC	1.5.1.2	Pyrroline-5-carboxylate reductase
+IHKBHOGD_00592	gene	proC		
+IHKBHOGD_00593	CDS	trpE	4.1.3.27	Anthranilate synthase component 1
+IHKBHOGD_00593	gene	trpE		
+IHKBHOGD_00594	CDS			hypothetical protein
+IHKBHOGD_00594	gene			
+IHKBHOGD_00595	CDS	ygfZ		tRNA-modifying protein YgfZ
+IHKBHOGD_00595	gene	ygfZ		
+IHKBHOGD_00596	CDS	pcrA	3.6.4.12	ATP-dependent DNA helicase PcrA
+IHKBHOGD_00596	gene	pcrA		
+IHKBHOGD_00597	CDS			hypothetical protein
+IHKBHOGD_00597	gene			
+IHKBHOGD_00598	CDS			hypothetical protein
+IHKBHOGD_00598	gene			
+IHKBHOGD_00599	CDS	prmC	2.1.1.297	Release factor glutamine methyltransferase
+IHKBHOGD_00599	gene	prmC		
+IHKBHOGD_00600	CDS	prfA		Peptide chain release factor 1
+IHKBHOGD_00600	gene	prfA		
+IHKBHOGD_00601	CDS			hypothetical protein
+IHKBHOGD_00601	gene			
+IHKBHOGD_00602	CDS			hypothetical protein
+IHKBHOGD_00602	gene			
+IHKBHOGD_00603	CDS	mmgC	1.3.99.-	Acyl-CoA dehydrogenase
+IHKBHOGD_00603	gene	mmgC		
+IHKBHOGD_00604	CDS			hypothetical protein
+IHKBHOGD_00604	gene			
+IHKBHOGD_00605	CDS			hypothetical protein
+IHKBHOGD_00605	gene			
+IHKBHOGD_00606	tRNA			tRNA-Met(cat)
+IHKBHOGD_00606	gene			
+IHKBHOGD_00607	tRNA			tRNA-Asn(gtt)
+IHKBHOGD_00607	gene			
+IHKBHOGD_00608	CDS	sigA		RNA polymerase sigma factor SigA
+IHKBHOGD_00608	gene	sigA		
+IHKBHOGD_00609	CDS			hypothetical protein
+IHKBHOGD_00609	gene			
+IHKBHOGD_00610	CDS			hypothetical protein
+IHKBHOGD_00610	gene			
+IHKBHOGD_00611	CDS			hypothetical protein
+IHKBHOGD_00611	gene			
+IHKBHOGD_00612	CDS			hypothetical protein
+IHKBHOGD_00612	gene			
+IHKBHOGD_00613	CDS	cdhA	1.17.5.2	Caffeine dehydrogenase subunit alpha
+IHKBHOGD_00613	gene	cdhA		
+IHKBHOGD_00614	CDS			hypothetical protein
+IHKBHOGD_00614	gene			
+IHKBHOGD_00615	CDS			hypothetical protein
+IHKBHOGD_00615	gene			
+IHKBHOGD_00616	CDS			hypothetical protein
+IHKBHOGD_00616	gene			
+IHKBHOGD_00617	CDS			hypothetical protein
+IHKBHOGD_00617	gene			
+IHKBHOGD_00618	CDS			hypothetical protein
+IHKBHOGD_00618	gene			
+IHKBHOGD_00619	CDS			hypothetical protein
+IHKBHOGD_00619	gene			
+IHKBHOGD_00620	CDS		3.4.16.4	D-alanyl-D-alanine carboxypeptidase
+IHKBHOGD_00620	gene			
+IHKBHOGD_00621	CDS			hypothetical protein
+IHKBHOGD_00621	gene			
+IHKBHOGD_00622	CDS	rppH	3.6.1.-	RNA pyrophosphohydrolase
+IHKBHOGD_00622	gene	rppH		
+IHKBHOGD_00623	CDS			putative AAA domain-containing protein
+IHKBHOGD_00623	gene			
+IHKBHOGD_00624	CDS			hypothetical protein
+IHKBHOGD_00624	gene			
+IHKBHOGD_00625	CDS			hypothetical protein
+IHKBHOGD_00625	gene			
+IHKBHOGD_00626	CDS		1.-.-.-	putative FAD-linked oxidoreductase
+IHKBHOGD_00626	gene			
+IHKBHOGD_00627	CDS		1.-.-.-	putative FAD-linked oxidoreductase
+IHKBHOGD_00627	gene			
+IHKBHOGD_00628	CDS	srkA	2.7.11.1	Stress response kinase A
+IHKBHOGD_00628	gene	srkA		
+IHKBHOGD_00629	CDS	dapb1	3.4.14.-	Dipeptidyl aminopeptidase BI
+IHKBHOGD_00629	gene	dapb1		
+IHKBHOGD_00630	CDS	rbn_1	3.1.26.11	Ribonuclease BN
+IHKBHOGD_00630	gene	rbn_1		
+IHKBHOGD_00631	CDS			hypothetical protein
+IHKBHOGD_00631	gene			
+IHKBHOGD_00632	CDS			hypothetical protein
+IHKBHOGD_00632	gene			
+IHKBHOGD_00633	CDS	crtP_1	1.14.99.44	Diapolycopene oxygenase
+IHKBHOGD_00633	gene	crtP_1		
+IHKBHOGD_00634	CDS			hypothetical protein
+IHKBHOGD_00634	gene			
+IHKBHOGD_00635	CDS	dnaN	2.7.7.7	DNA polymerase III subunit beta
+IHKBHOGD_00635	gene	dnaN		
+IHKBHOGD_00636	CDS	dnaA		Chromosomal replication initiator protein DnaA
+IHKBHOGD_00636	gene	dnaA		
+IHKBHOGD_00637	CDS	dus	1.3.1.-	putative tRNA-dihydrouridine synthase
+IHKBHOGD_00637	gene	dus		
+IHKBHOGD_00638	CDS	yhdE		Maf-like protein YhdE
+IHKBHOGD_00638	gene	yhdE		
+IHKBHOGD_00639	CDS	groS		10 kDa chaperonin
+IHKBHOGD_00639	gene	groS		
+IHKBHOGD_00640	CDS	groL1		60 kDa chaperonin 1
+IHKBHOGD_00640	gene	groL1		
+IHKBHOGD_00641	CDS			hypothetical protein
+IHKBHOGD_00641	gene			
+IHKBHOGD_00642	CDS			hypothetical protein
+IHKBHOGD_00642	gene			
+IHKBHOGD_00643	tRNA			tRNA-Val(cac)
+IHKBHOGD_00643	gene			
+IHKBHOGD_00644	CDS	gpr	1.1.1.-	L-glyceraldehyde 3-phosphate reductase
+IHKBHOGD_00644	gene	gpr		
+IHKBHOGD_00645	CDS	pkn1_2	2.7.11.1	Serine/threonine-protein kinase pkn1
+IHKBHOGD_00645	gene	pkn1_2		
+IHKBHOGD_00646	CDS			hypothetical protein
+IHKBHOGD_00646	gene			
+IHKBHOGD_00647	CDS			hypothetical protein
+IHKBHOGD_00647	gene			
+IHKBHOGD_00648	CDS	hsaA	1.14.14.12	Flavin-dependent monooxygenase, oxygenase subunit HsaA
+IHKBHOGD_00648	gene	hsaA		
+IHKBHOGD_00649	CDS	trpB	4.2.1.20	Tryptophan synthase beta chain
+IHKBHOGD_00649	gene	trpB		
+IHKBHOGD_00650	CDS	trpA	4.2.1.20	Tryptophan synthase alpha chain
+IHKBHOGD_00650	gene	trpA		
+IHKBHOGD_00651	CDS	yvoA		HTH-type transcriptional repressor YvoA
+IHKBHOGD_00651	gene	yvoA		
+IHKBHOGD_00652	CDS			hypothetical protein
+IHKBHOGD_00652	gene			
+IHKBHOGD_00653	CDS	glpE_2	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+IHKBHOGD_00653	gene	glpE_2		
+IHKBHOGD_00654	CDS			hypothetical protein
+IHKBHOGD_00654	gene			
+IHKBHOGD_00655	CDS			hypothetical protein
+IHKBHOGD_00655	gene			
+IHKBHOGD_00656	CDS			hypothetical protein
+IHKBHOGD_00656	gene			
+IHKBHOGD_00657	CDS			hypothetical protein
+IHKBHOGD_00657	gene			
+IHKBHOGD_00658	CDS	scpB		Segregation and condensation protein B
+IHKBHOGD_00658	gene	scpB		
+IHKBHOGD_00659	CDS	scpA_2		Segregation and condensation protein A
+IHKBHOGD_00659	gene	scpA_2		
+IHKBHOGD_00660	CDS			hypothetical protein
+IHKBHOGD_00660	gene			
+IHKBHOGD_00661	CDS			hypothetical protein
+IHKBHOGD_00661	gene			
+IHKBHOGD_00662	CDS			hypothetical protein
+IHKBHOGD_00662	gene			
+IHKBHOGD_00663	CDS			hypothetical protein
+IHKBHOGD_00663	gene			
+IHKBHOGD_00664	CDS			hypothetical protein
+IHKBHOGD_00664	gene			
+IHKBHOGD_00665	CDS			hypothetical protein
+IHKBHOGD_00665	gene			
+IHKBHOGD_00666	CDS			hypothetical protein
+IHKBHOGD_00666	gene			
+IHKBHOGD_00667	CDS	mutM	3.2.2.23	Formamidopyrimidine-DNA glycosylase
+IHKBHOGD_00667	gene	mutM		
+IHKBHOGD_00668	CDS	rihB	3.2.2.8	Pyrimidine-specific ribonucleoside hydrolase RihB
+IHKBHOGD_00668	gene	rihB		
+IHKBHOGD_00669	CDS			hypothetical protein
+IHKBHOGD_00669	gene			
+IHKBHOGD_00670	CDS			hypothetical protein
+IHKBHOGD_00670	gene			
+IHKBHOGD_00671	CDS			hypothetical protein
+IHKBHOGD_00671	gene			
+IHKBHOGD_00672	CDS			hypothetical protein
+IHKBHOGD_00672	gene			
+IHKBHOGD_00673	CDS	rbn_2	3.1.-.-	Ribonuclease BN
+IHKBHOGD_00673	gene	rbn_2		
+IHKBHOGD_00674	CDS			hypothetical protein
+IHKBHOGD_00674	gene			
+IHKBHOGD_00675	CDS			hypothetical protein
+IHKBHOGD_00675	gene			
+IHKBHOGD_00676	CDS	malL_1	3.2.1.10	Oligo-1,6-glucosidase
+IHKBHOGD_00676	gene	malL_1		
+IHKBHOGD_00677	CDS			hypothetical protein
+IHKBHOGD_00677	gene			
+IHKBHOGD_00678	CDS			hypothetical protein
+IHKBHOGD_00678	gene			
+IHKBHOGD_00679	CDS			hypothetical protein
+IHKBHOGD_00679	gene			
+IHKBHOGD_00680	CDS			hypothetical protein
+IHKBHOGD_00680	gene			
+IHKBHOGD_00681	CDS			hypothetical protein
+IHKBHOGD_00681	gene			
+IHKBHOGD_00682	CDS			hypothetical protein
+IHKBHOGD_00682	gene			
+IHKBHOGD_00683	CDS	ligd		Bifunctional non-homologous end joining protein LigD
+IHKBHOGD_00683	gene	ligd		
+IHKBHOGD_00684	CDS			hypothetical protein
+IHKBHOGD_00684	gene			
+IHKBHOGD_00685	CDS			hypothetical protein
+IHKBHOGD_00685	gene			
+IHKBHOGD_00686	CDS	yheI	3.6.3.-	putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+IHKBHOGD_00686	gene	yheI		
+IHKBHOGD_00687	CDS			hypothetical protein
+IHKBHOGD_00687	gene			
+IHKBHOGD_00688	CDS	lacA	2.3.1.18	Galactoside O-acetyltransferase
+IHKBHOGD_00688	gene	lacA		
+IHKBHOGD_00689	CDS			hypothetical protein
+IHKBHOGD_00689	gene			
+IHKBHOGD_00690	CDS			hypothetical protein
+IHKBHOGD_00690	gene			
+IHKBHOGD_00691	CDS			hypothetical protein
+IHKBHOGD_00691	gene			
+IHKBHOGD_00692	CDS	ravA	3.6.3.-	ATPase RavA
+IHKBHOGD_00692	gene	ravA		
+IHKBHOGD_00693	CDS			hypothetical protein
+IHKBHOGD_00693	gene			
+IHKBHOGD_00694	CDS	iniC		Isoniazid-induced protein IniC
+IHKBHOGD_00694	gene	iniC		
+IHKBHOGD_00695	CDS			hypothetical protein
+IHKBHOGD_00695	gene			
+IHKBHOGD_00696	CDS			hypothetical protein
+IHKBHOGD_00696	gene			
+IHKBHOGD_00697	CDS			hypothetical protein
+IHKBHOGD_00697	gene			
+IHKBHOGD_00698	CDS			hypothetical protein
+IHKBHOGD_00698	gene			
+IHKBHOGD_00699	CDS		6.2.1.3	Long-chain-fatty-acid--CoA ligase FadD15
+IHKBHOGD_00699	gene			
+IHKBHOGD_00700	CDS	marR		Multiple antibiotic resistance protein MarR
+IHKBHOGD_00700	gene	marR		
+IHKBHOGD_00701	CDS	davT	2.6.1.48	5-aminovalerate aminotransferase DavT
+IHKBHOGD_00701	gene	davT		
+IHKBHOGD_00702	CDS	def_2	3.5.1.88	Peptide deformylase
+IHKBHOGD_00702	gene	def_2		
+IHKBHOGD_00703	CDS	fmt	2.1.2.9	Methionyl-tRNA formyltransferase
+IHKBHOGD_00703	gene	fmt		
+IHKBHOGD_00704	CDS		2.1.1.-	Putative methyltransferase
+IHKBHOGD_00704	gene			
+IHKBHOGD_00705	CDS	mog	2.7.7.75	Molybdopterin adenylyltransferase
+IHKBHOGD_00705	gene	mog		
+IHKBHOGD_00706	CDS	soxD	1.5.3.1	Sarcosine oxidase subunit delta
+IHKBHOGD_00706	gene	soxD		
+IHKBHOGD_00707	CDS	soxB	1.5.3.1	Sarcosine oxidase subunit beta
+IHKBHOGD_00707	gene	soxB		
+IHKBHOGD_00708	CDS	oatA_1	2.3.1.-	O-acetyltransferase OatA
+IHKBHOGD_00708	gene	oatA_1		
+IHKBHOGD_00709	CDS	oatA_2	2.3.1.-	O-acetyltransferase OatA
+IHKBHOGD_00709	gene	oatA_2		
+IHKBHOGD_00710	CDS	rpoB	2.7.7.6	DNA-directed RNA polymerase subunit beta
+IHKBHOGD_00710	gene	rpoB		
+IHKBHOGD_00711	CDS			hypothetical protein
+IHKBHOGD_00711	gene			
+IHKBHOGD_00712	CDS			hypothetical protein
+IHKBHOGD_00712	gene			
+IHKBHOGD_00713	CDS	catD	3.1.1.24	3-oxoadipate enol-lactonase 2
+IHKBHOGD_00713	gene	catD		
+IHKBHOGD_00714	CDS		1.6.3.5	Renalase
+IHKBHOGD_00714	gene			
+IHKBHOGD_00715	CDS			hypothetical protein
+IHKBHOGD_00715	gene			
+IHKBHOGD_00716	CDS	hemL	5.4.3.8	Glutamate-1-semialdehyde 2,1-aminomutase
+IHKBHOGD_00716	gene	hemL		
+IHKBHOGD_00717	CDS	ephA	3.3.2.10	Epoxide hydrolase A
+IHKBHOGD_00717	gene	ephA		
+IHKBHOGD_00718	CDS			hypothetical protein
+IHKBHOGD_00718	gene			
+IHKBHOGD_00719	CDS			hypothetical protein
+IHKBHOGD_00719	gene			
+IHKBHOGD_00720	CDS	sigB		RNA polymerase sigma factor SigB
+IHKBHOGD_00720	gene	sigB		
+IHKBHOGD_00721	CDS	rplO		50S ribosomal protein L15
+IHKBHOGD_00721	gene	rplO		
+IHKBHOGD_00722	CDS	rpmD		50S ribosomal protein L30
+IHKBHOGD_00722	gene	rpmD		
+IHKBHOGD_00723	CDS	rpsE		30S ribosomal protein S5
+IHKBHOGD_00723	gene	rpsE		
+IHKBHOGD_00724	CDS	rplR		50S ribosomal protein L18
+IHKBHOGD_00724	gene	rplR		
+IHKBHOGD_00725	CDS	rplF		50S ribosomal protein L6
+IHKBHOGD_00725	gene	rplF		
+IHKBHOGD_00726	CDS	xthA_2	3.1.11.2	Exodeoxyribonuclease III
+IHKBHOGD_00726	gene	xthA_2		
+IHKBHOGD_00727	CDS	uvrD2	3.6.4.12	ATP-dependent DNA helicase UvrD2
+IHKBHOGD_00727	gene	uvrD2		
+IHKBHOGD_00728	CDS			hypothetical protein
+IHKBHOGD_00728	gene			
+IHKBHOGD_00729	CDS	rffH	2.7.7.24	Glucose-1-phosphate thymidylyltransferase 2
+IHKBHOGD_00729	gene	rffH		
+IHKBHOGD_00730	CDS	rffG	4.2.1.46	dTDP-glucose 4,6-dehydratase 2
+IHKBHOGD_00730	gene	rffG		
+IHKBHOGD_00731	CDS			hypothetical protein
+IHKBHOGD_00731	gene			
+IHKBHOGD_00732	CDS	crtP_2	1.14.99.44	Diapolycopene oxygenase
+IHKBHOGD_00732	gene	crtP_2		
+IHKBHOGD_00733	CDS	crtQ	2.4.1.-	4,4'-diaponeurosporenoate glycosyltransferase
+IHKBHOGD_00733	gene	crtQ		
+IHKBHOGD_00734	CDS	plsY_2	2.3.1.15	Glycerol-3-phosphate acyltransferase
+IHKBHOGD_00734	gene	plsY_2		
+IHKBHOGD_00735	CDS	tcrA		Transcriptional regulatory protein TcrA
+IHKBHOGD_00735	gene	tcrA		
+IHKBHOGD_00736	CDS	guaB	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+IHKBHOGD_00736	gene	guaB		
+IHKBHOGD_00737	CDS	rpsG		30S ribosomal protein S7
+IHKBHOGD_00737	gene	rpsG		
+IHKBHOGD_00738	CDS	rpsL		30S ribosomal protein S12
+IHKBHOGD_00738	gene	rpsL		
+IHKBHOGD_00739	CDS	cdpA	3.1.4.52	Cyclic di-GMP phosphodiesterase CdpA
+IHKBHOGD_00739	gene	cdpA		
+IHKBHOGD_00740	CDS	rpoC	2.7.7.6	DNA-directed RNA polymerase subunit beta'
+IHKBHOGD_00740	gene	rpoC		
+IHKBHOGD_00741	CDS		3.2.1.-	putative glycosyl hydrolase
+IHKBHOGD_00741	gene			
+IHKBHOGD_00742	CDS	treP	2.4.1.64	Alpha,alpha-trehalose phosphorylase
+IHKBHOGD_00742	gene	treP		
+IHKBHOGD_00743	CDS			hypothetical protein
+IHKBHOGD_00743	gene			
+IHKBHOGD_00744	CDS			hypothetical protein
+IHKBHOGD_00744	gene			
+IHKBHOGD_00745	CDS			hypothetical protein
+IHKBHOGD_00745	gene			
+IHKBHOGD_00746	CDS			hypothetical protein
+IHKBHOGD_00746	gene			
+IHKBHOGD_00747	CDS			hypothetical protein
+IHKBHOGD_00747	gene			
+IHKBHOGD_00748	CDS	ribE	2.5.1.9	Riboflavin synthase
+IHKBHOGD_00748	gene	ribE		
+IHKBHOGD_00749	CDS			hypothetical protein
+IHKBHOGD_00749	gene			
+IHKBHOGD_00750	CDS	tpx	1.11.1.-	putative thiol peroxidase
+IHKBHOGD_00750	gene	tpx		
+IHKBHOGD_00751	CDS			hypothetical protein
+IHKBHOGD_00751	gene			
+IHKBHOGD_00752	CDS			hypothetical protein
+IHKBHOGD_00752	gene			
+IHKBHOGD_00753	CDS			hypothetical protein
+IHKBHOGD_00753	gene			
+IHKBHOGD_00754	CDS			hypothetical protein
+IHKBHOGD_00754	gene			
+IHKBHOGD_00755	CDS			DegV domain-containing protein
+IHKBHOGD_00755	gene			
+IHKBHOGD_00756	CDS			hypothetical protein
+IHKBHOGD_00756	gene			
+IHKBHOGD_00757	CDS	atpG_2		ATP synthase gamma chain
+IHKBHOGD_00757	gene	atpG_2		
+IHKBHOGD_00758	CDS	atpD_2	3.6.3.14	ATP synthase subunit beta
+IHKBHOGD_00758	gene	atpD_2		
+IHKBHOGD_00759	CDS	atpC		ATP synthase epsilon chain
+IHKBHOGD_00759	gene	atpC		
+IHKBHOGD_00760	CDS			hypothetical protein
+IHKBHOGD_00760	gene			
+IHKBHOGD_00761	CDS	aqpZ2		Aquaporin Z 2
+IHKBHOGD_00761	gene	aqpZ2		
+IHKBHOGD_00762	CDS	cysO_2		Sulfur carrier protein CysO
+IHKBHOGD_00762	gene	cysO_2		
+IHKBHOGD_00763	CDS	garK_2	2.7.1.165	Glycerate 2-kinase
+IHKBHOGD_00763	gene	garK_2		
+IHKBHOGD_00764	CDS			hypothetical protein
+IHKBHOGD_00764	gene			
+IHKBHOGD_00765	CDS			hypothetical protein
+IHKBHOGD_00765	gene			
+IHKBHOGD_00766	CDS	lppC		Putative lipoprotein LppC
+IHKBHOGD_00766	gene	lppC		
+IHKBHOGD_00767	CDS			putative signaling protein
+IHKBHOGD_00767	gene			
+IHKBHOGD_00768	CDS		1.-.-.-	putative oxidoreductase
+IHKBHOGD_00768	gene			
+IHKBHOGD_00769	CDS	pimB	2.4.1.57	GDP-mannose-dependent alpha-(1-6)-phosphatidylinositol monomannoside mannosyltransferase
+IHKBHOGD_00769	gene	pimB		
+IHKBHOGD_00770	CDS			hypothetical protein
+IHKBHOGD_00770	gene			
+IHKBHOGD_00771	CDS	nagB	3.5.99.6	Glucosamine-6-phosphate deaminase
+IHKBHOGD_00771	gene	nagB		
+IHKBHOGD_00772	CDS	mak	2.7.1.4	Fructokinase
+IHKBHOGD_00772	gene	mak		
+IHKBHOGD_00773	CDS			hypothetical protein
+IHKBHOGD_00773	gene			
+IHKBHOGD_00774	CDS	xylH		Xylose transport system permease protein XylH
+IHKBHOGD_00774	gene	xylH		
+IHKBHOGD_00775	CDS	mglA	3.6.3.17	Galactose/methyl galactoside import ATP-binding protein MglA
+IHKBHOGD_00775	gene	mglA		
+IHKBHOGD_00776	CDS	iolC	2.7.1.92	5-dehydro-2-deoxygluconokinase
+IHKBHOGD_00776	gene	iolC		
+IHKBHOGD_00777	CDS	aroA'	2.2.1.10	2-amino-3,7-dideoxy-D-threo-hept-6-ulosonate synthase
+IHKBHOGD_00777	gene	aroA'		
+IHKBHOGD_00778	CDS	iolX_1	1.1.1.370	scyllo-inositol 2-dehydrogenase (NAD(+))
+IHKBHOGD_00778	gene	iolX_1		
+IHKBHOGD_00779	CDS	iolD_2	3.7.1.22	3D-(3,5/4)-trihydroxycyclohexane-1,2-dione hydrolase
+IHKBHOGD_00779	gene	iolD_2		
+IHKBHOGD_00780	CDS	ndoA		Naphthalene 1,2-dioxygenase system ferredoxin subunit
+IHKBHOGD_00780	gene	ndoA		
+IHKBHOGD_00781	CDS	idhA	1.1.1.18	Inositol 2-dehydrogenase
+IHKBHOGD_00781	gene	idhA		
+IHKBHOGD_00782	CDS	iolB	5.3.1.30	5-deoxy-glucuronate isomerase
+IHKBHOGD_00782	gene	iolB		
+IHKBHOGD_00783	CDS	lacD2	4.1.2.40	Tagatose 1,6-diphosphate aldolase 2
+IHKBHOGD_00783	gene	lacD2		
+IHKBHOGD_00784	CDS			hypothetical protein
+IHKBHOGD_00784	gene			
+IHKBHOGD_00785	CDS		1.14.-.-	Cytochrome P450 107B1
+IHKBHOGD_00785	gene			
+IHKBHOGD_00786	CDS		1.-.-.-	Putative coenzyme F420-dependent oxidoreductase
+IHKBHOGD_00786	gene			
+IHKBHOGD_00787	CDS	paaI	3.1.2.-	Acyl-coenzyme A thioesterase PaaI
+IHKBHOGD_00787	gene	paaI		
+IHKBHOGD_00788	CDS			hypothetical protein
+IHKBHOGD_00788	gene			
+IHKBHOGD_00789	CDS			hypothetical protein
+IHKBHOGD_00789	gene			
+IHKBHOGD_00790	CDS			hypothetical protein
+IHKBHOGD_00790	gene			
+IHKBHOGD_00791	CDS			hypothetical protein
+IHKBHOGD_00791	gene			
+IHKBHOGD_00792	CDS			hypothetical protein
+IHKBHOGD_00792	gene			
+IHKBHOGD_00793	CDS	yjcS	3.1.6.-	Putative alkyl/aryl-sulfatase YjcS
+IHKBHOGD_00793	gene	yjcS		
+IHKBHOGD_00794	CDS		6.2.1.3	Long-chain-fatty-acid--CoA ligase FadD13
+IHKBHOGD_00794	gene			
+IHKBHOGD_00795	CDS			hypothetical protein
+IHKBHOGD_00795	gene			
+IHKBHOGD_00796	CDS			hypothetical protein
+IHKBHOGD_00796	gene			
+IHKBHOGD_00797	CDS	ruvA	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvA
+IHKBHOGD_00797	gene	ruvA		
+IHKBHOGD_00798	CDS	ruvB	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvB
+IHKBHOGD_00798	gene	ruvB		
+IHKBHOGD_00799	CDS	queA	2.4.99.17	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+IHKBHOGD_00799	gene	queA		
+IHKBHOGD_00800	CDS			hypothetical protein
+IHKBHOGD_00800	gene			
+IHKBHOGD_00801	CDS	fumA	4.2.1.2	Fumarate hydratase class I, aerobic
+IHKBHOGD_00801	gene	fumA		
+IHKBHOGD_00802	CDS			hypothetical protein
+IHKBHOGD_00802	gene			
+IHKBHOGD_00803	CDS	serA_2	1.1.1.95	D-3-phosphoglycerate dehydrogenase
+IHKBHOGD_00803	gene	serA_2		
+IHKBHOGD_00804	CDS	pyrF_2	4.1.1.23	Orotidine 5'-phosphate decarboxylase
+IHKBHOGD_00804	gene	pyrF_2		
+IHKBHOGD_00805	CDS	subB_2		Ferredoxin-2
+IHKBHOGD_00805	gene	subB_2		
+IHKBHOGD_00806	CDS			hypothetical protein
+IHKBHOGD_00806	gene			
+IHKBHOGD_00807	CDS	leuA_2	2.3.3.13	2-isopropylmalate synthase
+IHKBHOGD_00807	gene	leuA_2		
+IHKBHOGD_00808	CDS	apc3	6.4.1.8	Acetophenone carboxylase gamma subunit
+IHKBHOGD_00808	gene	apc3		
+IHKBHOGD_00809	CDS	bacC_1	1.1.1.385	Dihydroanticapsin 7-dehydrogenase
+IHKBHOGD_00809	gene	bacC_1		
+IHKBHOGD_00810	CDS	vapC	3.1.-.-	tRNA(fMet)-specific endonuclease VapC
+IHKBHOGD_00810	gene	vapC		
+IHKBHOGD_00811	CDS	gloC	3.1.2.6	Hydroxyacylglutathione hydrolase GloC
+IHKBHOGD_00811	gene	gloC		
+IHKBHOGD_00812	CDS			hypothetical protein
+IHKBHOGD_00812	gene			
+IHKBHOGD_00813	CDS			hypothetical protein
+IHKBHOGD_00813	gene			
+IHKBHOGD_00814	CDS	xylA	5.3.1.5	Xylose isomerase
+IHKBHOGD_00814	gene	xylA		
+IHKBHOGD_00815	CDS	scpA_3	5.4.99.2	Methylmalonyl-CoA mutase
+IHKBHOGD_00815	gene	scpA_3		
+IHKBHOGD_00816	CDS	fadB2	1.1.1.157	3-hydroxybutyryl-CoA dehydrogenase
+IHKBHOGD_00816	gene	fadB2		
+IHKBHOGD_00817	CDS	ricR		Copper-sensing transcriptional repressor RicR
+IHKBHOGD_00817	gene	ricR		
+IHKBHOGD_00818	CDS			hypothetical protein
+IHKBHOGD_00818	gene			
+IHKBHOGD_00819	CDS			hypothetical protein
+IHKBHOGD_00819	gene			
+IHKBHOGD_00820	CDS	glnD		Bifunctional uridylyltransferase/uridylyl-removing enzyme
+IHKBHOGD_00820	gene	glnD		
+IHKBHOGD_00821	CDS	mutT4	3.6.1.-	Putative mutator protein MutT4
+IHKBHOGD_00821	gene	mutT4		
+IHKBHOGD_00822	CDS			hypothetical protein
+IHKBHOGD_00822	gene			
+IHKBHOGD_00823	CDS	relA		Bifunctional (p)ppGpp synthase/hydrolase RelA
+IHKBHOGD_00823	gene	relA		
+IHKBHOGD_00824	CDS	hisS	6.1.1.21	Histidine--tRNA ligase
+IHKBHOGD_00824	gene	hisS		
+IHKBHOGD_00825	CDS	aspS	6.1.1.23	Aspartate--tRNA(Asp/Asn) ligase
+IHKBHOGD_00825	gene	aspS		
+IHKBHOGD_00826	CDS			hypothetical protein
+IHKBHOGD_00826	gene			
+IHKBHOGD_00827	CDS			hypothetical protein
+IHKBHOGD_00827	gene			
+IHKBHOGD_00828	CDS	ppsC	2.3.1.41	Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsC
+IHKBHOGD_00828	gene	ppsC		
+IHKBHOGD_00829	CDS	orn	3.1.-.-	Oligoribonuclease
+IHKBHOGD_00829	gene	orn		
+IHKBHOGD_00830	CDS			hypothetical protein
+IHKBHOGD_00830	gene			
+IHKBHOGD_00831	CDS	tcrY_1	2.7.13.3	putative sensor histidine kinase TcrY
+IHKBHOGD_00831	gene	tcrY_1		
+IHKBHOGD_00832	CDS	rpmA		50S ribosomal protein L27
+IHKBHOGD_00832	gene	rpmA		
+IHKBHOGD_00833	CDS	rplU		50S ribosomal protein L21
+IHKBHOGD_00833	gene	rplU		
+IHKBHOGD_00834	CDS			hypothetical protein
+IHKBHOGD_00834	gene			
+IHKBHOGD_00835	CDS			hypothetical protein
+IHKBHOGD_00835	gene			
+IHKBHOGD_00836	CDS			hypothetical protein
+IHKBHOGD_00836	gene			
+IHKBHOGD_00837	CDS	rng	3.1.26.-	Ribonuclease G
+IHKBHOGD_00837	gene	rng		
+IHKBHOGD_00838	CDS			hypothetical protein
+IHKBHOGD_00838	gene			
+IHKBHOGD_00839	CDS			hypothetical protein
+IHKBHOGD_00839	gene			
+IHKBHOGD_00840	CDS			hypothetical protein
+IHKBHOGD_00840	gene			
+IHKBHOGD_00841	CDS			hypothetical protein
+IHKBHOGD_00841	gene			
+IHKBHOGD_00842	CDS			hypothetical protein
+IHKBHOGD_00842	gene			
+IHKBHOGD_00843	CDS		1.-.-.-	Putative coenzyme F420-dependent oxidoreductase
+IHKBHOGD_00843	gene			
+IHKBHOGD_00844	CDS			hypothetical protein
+IHKBHOGD_00844	gene			
+IHKBHOGD_00845	CDS	hflX		GTPase HflX
+IHKBHOGD_00845	gene	hflX		
+IHKBHOGD_00846	CDS	dapF	5.1.1.7	Diaminopimelate epimerase
+IHKBHOGD_00846	gene	dapF		
+IHKBHOGD_00847	CDS	miaA	2.5.1.75	tRNA dimethylallyltransferase
+IHKBHOGD_00847	gene	miaA		
+IHKBHOGD_00848	CDS	tyrA		T-protein
+IHKBHOGD_00848	gene	tyrA		
+IHKBHOGD_00849	CDS	miaB	2.8.4.3	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+IHKBHOGD_00849	gene	miaB		
+IHKBHOGD_00850	CDS			hypothetical protein
+IHKBHOGD_00850	gene			
+IHKBHOGD_00851	CDS	recA		Protein RecA
+IHKBHOGD_00851	gene	recA		
+IHKBHOGD_00852	CDS			hypothetical protein
+IHKBHOGD_00852	gene			
+IHKBHOGD_00853	tRNA			tRNA-His(gtg)
+IHKBHOGD_00853	gene			
+IHKBHOGD_00854	tRNA			tRNA-Lys(ctt)
+IHKBHOGD_00854	gene			
+IHKBHOGD_00855	CDS			hypothetical protein
+IHKBHOGD_00855	gene			
+IHKBHOGD_00856	CDS			hypothetical protein
+IHKBHOGD_00856	gene			
+IHKBHOGD_00857	CDS			hypothetical protein
+IHKBHOGD_00857	gene			
+IHKBHOGD_00858	CDS			hypothetical protein
+IHKBHOGD_00858	gene			
+IHKBHOGD_00859	CDS			hypothetical protein
+IHKBHOGD_00859	gene			
+IHKBHOGD_00860	CDS		1.-.-.-	putative oxidoreductase
+IHKBHOGD_00860	gene			
+IHKBHOGD_00861	CDS	nylA	3.5.2.12	6-aminohexanoate-cyclic-dimer hydrolase
+IHKBHOGD_00861	gene	nylA		
+IHKBHOGD_00862	CDS			hypothetical protein
+IHKBHOGD_00862	gene			
+IHKBHOGD_00863	CDS	modB		Molybdenum transport system permease protein ModB
+IHKBHOGD_00863	gene	modB		
+IHKBHOGD_00864	CDS	modC	3.6.3.29	Molybdenum import ATP-binding protein ModC
+IHKBHOGD_00864	gene	modC		
+IHKBHOGD_00865	CDS	drrB		Daunorubicin/doxorubicin resistance ABC transporter permease protein DrrB
+IHKBHOGD_00865	gene	drrB		
+IHKBHOGD_00866	CDS			hypothetical protein
+IHKBHOGD_00866	gene			
+IHKBHOGD_00867	CDS			hypothetical protein
+IHKBHOGD_00867	gene			
+IHKBHOGD_00868	CDS	menJ	1.3.-.-	Menaquinone reductase
+IHKBHOGD_00868	gene	menJ		
+IHKBHOGD_00869	CDS	hxcR		putative type II secretion system protein HxcR
+IHKBHOGD_00869	gene	hxcR		
+IHKBHOGD_00870	CDS	epsF		Type II secretion system protein F
+IHKBHOGD_00870	gene	epsF		
+IHKBHOGD_00871	CDS	comC		Type 4 prepilin-like proteins leader peptide-processing enzyme
+IHKBHOGD_00871	gene	comC		
+IHKBHOGD_00872	CDS	pilT		Twitching mobility protein
+IHKBHOGD_00872	gene	pilT		
+IHKBHOGD_00873	CDS	fabG1	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG1
+IHKBHOGD_00873	gene	fabG1		
+IHKBHOGD_00874	CDS	acpP		Acyl carrier protein
+IHKBHOGD_00874	gene	acpP		
+IHKBHOGD_00875	CDS	fabF	2.3.1.179	3-oxoacyl-[acyl-carrier-protein] synthase 2
+IHKBHOGD_00875	gene	fabF		
+IHKBHOGD_00876	CDS	yjjG	3.1.3.5	Pyrimidine 5'-nucleotidase YjjG
+IHKBHOGD_00876	gene	yjjG		
+IHKBHOGD_00877	CDS			hypothetical protein
+IHKBHOGD_00877	gene			
+IHKBHOGD_00878	CDS			hypothetical protein
+IHKBHOGD_00878	gene			
+IHKBHOGD_00879	CDS	murA_2	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+IHKBHOGD_00879	gene	murA_2		
+IHKBHOGD_00880	CDS			hypothetical protein
+IHKBHOGD_00880	gene			
+IHKBHOGD_00881	CDS			hypothetical protein
+IHKBHOGD_00881	gene			
+IHKBHOGD_00882	CDS			hypothetical protein
+IHKBHOGD_00882	gene			
+IHKBHOGD_00883	CDS			hypothetical protein
+IHKBHOGD_00883	gene			
+IHKBHOGD_00884	CDS			hypothetical protein
+IHKBHOGD_00884	gene			
+IHKBHOGD_00885	CDS	rpmF		50S ribosomal protein L32
+IHKBHOGD_00885	gene	rpmF		
+IHKBHOGD_00886	CDS			hypothetical protein
+IHKBHOGD_00886	gene			
+IHKBHOGD_00887	CDS			hypothetical protein
+IHKBHOGD_00887	gene			
+IHKBHOGD_00888	CDS	coaD_2	2.7.7.3	Phosphopantetheine adenylyltransferase
+IHKBHOGD_00888	gene	coaD_2		
+IHKBHOGD_00889	CDS			hypothetical protein
+IHKBHOGD_00889	gene			
+IHKBHOGD_00890	CDS			hypothetical protein
+IHKBHOGD_00890	gene			
+IHKBHOGD_00891	CDS	pyrB	2.1.3.2	Aspartate carbamoyltransferase
+IHKBHOGD_00891	gene	pyrB		
+IHKBHOGD_00892	CDS	pyrR		Bifunctional protein PyrR
+IHKBHOGD_00892	gene	pyrR		
+IHKBHOGD_00893	CDS			hypothetical protein
+IHKBHOGD_00893	gene			
+IHKBHOGD_00894	CDS	iniA		Isoniazid-induced protein IniA
+IHKBHOGD_00894	gene	iniA		
+IHKBHOGD_00895	CDS			hypothetical protein
+IHKBHOGD_00895	gene			
+IHKBHOGD_00896	CDS			hypothetical protein
+IHKBHOGD_00896	gene			
+IHKBHOGD_00897	CDS			hypothetical protein
+IHKBHOGD_00897	gene			
+IHKBHOGD_00898	CDS	mutT3	3.6.1.55	Putative 8-oxo-dGTP diphosphatase 3
+IHKBHOGD_00898	gene	mutT3		
+IHKBHOGD_00899	CDS			hypothetical protein
+IHKBHOGD_00899	gene			
+IHKBHOGD_00900	CDS			hypothetical protein
+IHKBHOGD_00900	gene			
+IHKBHOGD_00901	CDS			hypothetical protein
+IHKBHOGD_00901	gene			
+IHKBHOGD_00902	CDS	queF	1.7.1.13	NADPH-dependent 7-cyano-7-deazaguanine reductase
+IHKBHOGD_00902	gene	queF		
+IHKBHOGD_00903	CDS	dac	3.4.16.4	D-alanyl-D-alanine carboxypeptidase
+IHKBHOGD_00903	gene	dac		
+IHKBHOGD_00904	CDS	dacC	3.4.16.4	D-alanyl-D-alanine carboxypeptidase DacC
+IHKBHOGD_00904	gene	dacC		
+IHKBHOGD_00905	CDS	nuoG	1.6.5.11	NADH-quinone oxidoreductase subunit G
+IHKBHOGD_00905	gene	nuoG		
+IHKBHOGD_00906	CDS	nuoF	1.6.5.11	NADH-quinone oxidoreductase subunit F
+IHKBHOGD_00906	gene	nuoF		
+IHKBHOGD_00907	CDS	adhB	1.1.1.1	Alcohol dehydrogenase B
+IHKBHOGD_00907	gene	adhB		
+IHKBHOGD_00908	CDS	arsR1		Arsenic resistance transcriptional regulator ArsR1
+IHKBHOGD_00908	gene	arsR1		
+IHKBHOGD_00909	CDS			Putative ATPase
+IHKBHOGD_00909	gene			
+IHKBHOGD_00910	CDS			hypothetical protein
+IHKBHOGD_00910	gene			
+IHKBHOGD_00911	CDS	whiB3_2		Redox-responsive transcriptional regulator WhiB3
+IHKBHOGD_00911	gene	whiB3_2		
+IHKBHOGD_00912	CDS	selB_2		Selenocysteine-specific elongation factor
+IHKBHOGD_00912	gene	selB_2		
+IHKBHOGD_00913	CDS	selA	2.9.1.1	L-seryl-tRNA(Sec) selenium transferase
+IHKBHOGD_00913	gene	selA		
+IHKBHOGD_00914	CDS	dut_2	3.6.1.23	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+IHKBHOGD_00914	gene	dut_2		
+IHKBHOGD_00915	CDS	nudL_2	3.6.1.-	putative Nudix hydrolase NudL
+IHKBHOGD_00915	gene	nudL_2		
+IHKBHOGD_00916	CDS			hypothetical protein
+IHKBHOGD_00916	gene			
+IHKBHOGD_00917	CDS	nadE	6.3.5.1	Glutamine-dependent NAD(+) synthetase
+IHKBHOGD_00917	gene	nadE		
+IHKBHOGD_00918	CDS	pvdQ	3.5.1.97	Acyl-homoserine lactone acylase PvdQ
+IHKBHOGD_00918	gene	pvdQ		
+IHKBHOGD_00919	CDS	glnII	6.3.1.2	Glutamine synthetase 2
+IHKBHOGD_00919	gene	glnII		
+IHKBHOGD_00920	CDS	glnA	6.3.1.2	Glutamine synthetase 2
+IHKBHOGD_00920	gene	glnA		
+IHKBHOGD_00921	CDS	srrA		Transcriptional regulatory protein SrrA
+IHKBHOGD_00921	gene	srrA		
+IHKBHOGD_00922	CDS			hypothetical protein
+IHKBHOGD_00922	gene			
+IHKBHOGD_00923	CDS		3.5.4.32	8-oxoguanine deaminase
+IHKBHOGD_00923	gene			
+IHKBHOGD_00924	CDS			hypothetical protein
+IHKBHOGD_00924	gene			
+IHKBHOGD_00925	CDS	yabJ	3.5.99.10	2-iminobutanoate/2-iminopropanoate deaminase
+IHKBHOGD_00925	gene	yabJ		
+IHKBHOGD_00926	CDS			hypothetical protein
+IHKBHOGD_00926	gene			
+IHKBHOGD_00927	CDS	erpA		Iron-sulfur cluster insertion protein ErpA
+IHKBHOGD_00927	gene	erpA		
+IHKBHOGD_00928	CDS			hypothetical protein
+IHKBHOGD_00928	gene			
+IHKBHOGD_00929	CDS	mrp_2		Iron-sulfur cluster carrier protein
+IHKBHOGD_00929	gene	mrp_2		
+IHKBHOGD_00930	CDS			hypothetical protein
+IHKBHOGD_00930	gene			
+IHKBHOGD_00931	CDS			hypothetical protein
+IHKBHOGD_00931	gene			
+IHKBHOGD_00932	CDS			hypothetical protein
+IHKBHOGD_00932	gene			
+IHKBHOGD_00933	CDS			hypothetical protein
+IHKBHOGD_00933	gene			
+IHKBHOGD_00934	CDS			hypothetical protein
+IHKBHOGD_00934	gene			
+IHKBHOGD_00935	CDS	trkA		Trk system potassium uptake protein TrkA
+IHKBHOGD_00935	gene	trkA		
+IHKBHOGD_00936	CDS			hypothetical protein
+IHKBHOGD_00936	gene			
+IHKBHOGD_00937	CDS			hypothetical protein
+IHKBHOGD_00937	gene			
+IHKBHOGD_00938	CDS	cshE	3.6.4.13	DEAD-box ATP-dependent RNA helicase CshE
+IHKBHOGD_00938	gene	cshE		
+IHKBHOGD_00939	CDS	drrA	3.6.3.-	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+IHKBHOGD_00939	gene	drrA		
+IHKBHOGD_00940	CDS			hypothetical protein
+IHKBHOGD_00940	gene			
+IHKBHOGD_00941	CDS			hypothetical protein
+IHKBHOGD_00941	gene			
+IHKBHOGD_00942	CDS			hypothetical protein
+IHKBHOGD_00942	gene			
+IHKBHOGD_00943	CDS	ysnE	2.3.1.-	putative N-acetyltransferase YsnE
+IHKBHOGD_00943	gene	ysnE		
+IHKBHOGD_00944	CDS		1.1.98.-	F420H(2)-dependent quinone reductase
+IHKBHOGD_00944	gene			
+IHKBHOGD_00945	CDS			hypothetical protein
+IHKBHOGD_00945	gene			
+IHKBHOGD_00946	CDS			hypothetical protein
+IHKBHOGD_00946	gene			
+IHKBHOGD_00947	CDS	leuD_1	4.2.1.33	3-isopropylmalate dehydratase small subunit
+IHKBHOGD_00947	gene	leuD_1		
+IHKBHOGD_00948	CDS	glmM	5.4.2.10	Phosphoglucosamine mutase
+IHKBHOGD_00948	gene	glmM		
+IHKBHOGD_00949	CDS	rpsI		30S ribosomal protein S9
+IHKBHOGD_00949	gene	rpsI		
+IHKBHOGD_00950	CDS	rplM		50S ribosomal protein L13
+IHKBHOGD_00950	gene	rplM		
+IHKBHOGD_00951	CDS			hypothetical protein
+IHKBHOGD_00951	gene			
+IHKBHOGD_00952	CDS	malL_2	3.2.1.10	Oligo-1,6-glucosidase
+IHKBHOGD_00952	gene	malL_2		
+IHKBHOGD_00953	CDS			hypothetical protein
+IHKBHOGD_00953	gene			
+IHKBHOGD_00954	CDS	echA6	4.2.1.17	putative enoyl-CoA hydratase echA6
+IHKBHOGD_00954	gene	echA6		
+IHKBHOGD_00955	CDS			hypothetical protein
+IHKBHOGD_00955	gene			
+IHKBHOGD_00956	CDS	mtrR		HTH-type transcriptional regulator MtrR
+IHKBHOGD_00956	gene	mtrR		
+IHKBHOGD_00957	CDS			hypothetical protein
+IHKBHOGD_00957	gene			
+IHKBHOGD_00958	CDS			hypothetical protein
+IHKBHOGD_00958	gene			
+IHKBHOGD_00959	CDS	lhpH	4.2.1.77	Trans-3-hydroxy-L-proline dehydratase
+IHKBHOGD_00959	gene	lhpH		
+IHKBHOGD_00960	CDS			hypothetical protein
+IHKBHOGD_00960	gene			
+IHKBHOGD_00961	CDS	tetR		Tetracycline repressor protein class A from transposon 1721
+IHKBHOGD_00961	gene	tetR		
+IHKBHOGD_00962	CDS			hypothetical protein
+IHKBHOGD_00962	gene			
+IHKBHOGD_00963	CDS	mfpsA_2	2.4.1.246	Mannosylfructose-phosphate synthase
+IHKBHOGD_00963	gene	mfpsA_2		
+IHKBHOGD_00964	CDS	dtd	3.1.1.96	D-aminoacyl-tRNA deacylase
+IHKBHOGD_00964	gene	dtd		
+IHKBHOGD_00965	CDS	pdhD	1.8.1.4	Dihydrolipoyl dehydrogenase
+IHKBHOGD_00965	gene	pdhD		
+IHKBHOGD_00966	CDS	aceF	2.3.1.12	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+IHKBHOGD_00966	gene	aceF		
+IHKBHOGD_00967	CDS			hypothetical protein
+IHKBHOGD_00967	gene			
+IHKBHOGD_00968	CDS			hypothetical protein
+IHKBHOGD_00968	gene			
+IHKBHOGD_00969	CDS			hypothetical protein
+IHKBHOGD_00969	gene			
+IHKBHOGD_00970	CDS	rpmB		50S ribosomal protein L28
+IHKBHOGD_00970	gene	rpmB		
+IHKBHOGD_00971	CDS			hypothetical protein
+IHKBHOGD_00971	gene			
+IHKBHOGD_00972	CDS	crp		CRP-like cAMP-activated global transcriptional regulator
+IHKBHOGD_00972	gene	crp		
+IHKBHOGD_00973	CDS	ispD	2.7.7.60	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+IHKBHOGD_00973	gene	ispD		
+IHKBHOGD_00974	CDS	ispF	4.6.1.12	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+IHKBHOGD_00974	gene	ispF		
+IHKBHOGD_00975	CDS			hypothetical protein
+IHKBHOGD_00975	gene			
+IHKBHOGD_00976	CDS		3.1.-.-	Putative esterase
+IHKBHOGD_00976	gene			
+IHKBHOGD_00977	CDS	ybaK	4.2.-.-	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+IHKBHOGD_00977	gene	ybaK		
+IHKBHOGD_00978	CDS	mdtL		Multidrug resistance protein MdtL
+IHKBHOGD_00978	gene	mdtL		
+IHKBHOGD_00979	CDS	ycdF	1.1.1.47	Glucose 1-dehydrogenase 2
+IHKBHOGD_00979	gene	ycdF		
+IHKBHOGD_00980	CDS	bacC_2	1.1.1.385	Dihydroanticapsin 7-dehydrogenase
+IHKBHOGD_00980	gene	bacC_2		
+IHKBHOGD_00981	CDS	sdh_2	1.1.1.276	Serine 3-dehydrogenase
+IHKBHOGD_00981	gene	sdh_2		
+IHKBHOGD_00982	CDS	dauA_2	1.4.99.6	FAD-dependent catabolic D-arginine dehydrogenase DauA
+IHKBHOGD_00982	gene	dauA_2		
+IHKBHOGD_00983	CDS			hypothetical protein
+IHKBHOGD_00983	gene			
+IHKBHOGD_00984	CDS	galE	5.1.3.2	UDP-glucose 4-epimerase
+IHKBHOGD_00984	gene	galE		
+IHKBHOGD_00985	CDS	idiA		Iron deficiency-induced protein A
+IHKBHOGD_00985	gene	idiA		
+IHKBHOGD_00986	CDS	phnU		Putative 2-aminoethylphosphonate transport system permease protein PhnU
+IHKBHOGD_00986	gene	phnU		
+IHKBHOGD_00987	CDS	fbpC	3.6.3.30	Fe(3+) ions import ATP-binding protein FbpC
+IHKBHOGD_00987	gene	fbpC		
+IHKBHOGD_00988	CDS			hypothetical protein
+IHKBHOGD_00988	gene			
+IHKBHOGD_00989	CDS			hypothetical protein
+IHKBHOGD_00989	gene			
+IHKBHOGD_00990	CDS			hypothetical protein
+IHKBHOGD_00990	gene			
+IHKBHOGD_00991	CDS			hypothetical protein
+IHKBHOGD_00991	gene			
+IHKBHOGD_00992	CDS	catE	1.13.11.2	Catechol-2,3-dioxygenase
+IHKBHOGD_00992	gene	catE		
+IHKBHOGD_00993	CDS		2.3.1.20	Putative diacyglycerol O-acyltransferase
+IHKBHOGD_00993	gene			
+IHKBHOGD_00994	CDS			hypothetical protein
+IHKBHOGD_00994	gene			
+IHKBHOGD_00995	CDS	phrB	4.1.99.13	(6-4) photolyase
+IHKBHOGD_00995	gene	phrB		
+IHKBHOGD_00996	CDS	gyrA	5.99.1.3	DNA gyrase subunit A
+IHKBHOGD_00996	gene	gyrA		
+IHKBHOGD_00997	CDS			hypothetical protein
+IHKBHOGD_00997	gene			
+IHKBHOGD_00998	CDS			hypothetical protein
+IHKBHOGD_00998	gene			
+IHKBHOGD_00999	tRNA			tRNA-Ile(gat)
+IHKBHOGD_00999	gene			
+IHKBHOGD_01000	CDS			hypothetical protein
+IHKBHOGD_01000	gene			
+IHKBHOGD_01001	CDS			hypothetical protein
+IHKBHOGD_01001	gene			
+IHKBHOGD_01002	CDS			hypothetical protein
+IHKBHOGD_01002	gene			
+IHKBHOGD_01003	CDS		1.-.-.-	putative oxidoreductase
+IHKBHOGD_01003	gene			
+IHKBHOGD_01004	CDS	aroA	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+IHKBHOGD_01004	gene	aroA		
+IHKBHOGD_01005	CDS			hypothetical protein
+IHKBHOGD_01005	gene			
+IHKBHOGD_01006	CDS		2.4.2.45	Decaprenyl-phosphate phosphoribosyltransferase
+IHKBHOGD_01006	gene			
+IHKBHOGD_01007	CDS			hypothetical protein
+IHKBHOGD_01007	gene			
+IHKBHOGD_01008	CDS		3.4.21.-	Serine protease
+IHKBHOGD_01008	gene			
+IHKBHOGD_01009	CDS	echA8_3	4.2.1.17	putative enoyl-CoA hydratase echA8
+IHKBHOGD_01009	gene	echA8_3		
+IHKBHOGD_01010	CDS	hisN	3.1.3.15	Histidinol-phosphatase
+IHKBHOGD_01010	gene	hisN		
+IHKBHOGD_01011	CDS			hypothetical protein
+IHKBHOGD_01011	gene			
+IHKBHOGD_01012	CDS	disA	2.7.7.85	DNA integrity scanning protein DisA
+IHKBHOGD_01012	gene	disA		
+IHKBHOGD_01013	CDS		3.1.3.-	Phosphorylated carbohydrates phosphatase
+IHKBHOGD_01013	gene			
+IHKBHOGD_01014	CDS	ccr	1.3.1.86	Crotonyl-CoA reductase
+IHKBHOGD_01014	gene	ccr		
+IHKBHOGD_01015	CDS			hypothetical protein
+IHKBHOGD_01015	gene			
+IHKBHOGD_01016	CDS	amaB	3.5.1.87	N-carbamoyl-L-amino acid hydrolase
+IHKBHOGD_01016	gene	amaB		
+IHKBHOGD_01017	CDS	dorA	1.7.2.3	Dimethyl sulfoxide/trimethylamine N-oxide reductase
+IHKBHOGD_01017	gene	dorA		
+IHKBHOGD_01018	CDS			Magnesium transporter MgtE
+IHKBHOGD_01018	gene			
+IHKBHOGD_01019	CDS	tdh	1.1.1.103	L-threonine 3-dehydrogenase
+IHKBHOGD_01019	gene	tdh		
+IHKBHOGD_01020	CDS		3.1.3.-	putative phosphatase
+IHKBHOGD_01020	gene			
+IHKBHOGD_01021	CDS			hypothetical protein
+IHKBHOGD_01021	gene			
+IHKBHOGD_01022	CDS			hypothetical protein
+IHKBHOGD_01022	gene			
+IHKBHOGD_01023	CDS		1.13.12.16	Nitronate monooxygenase
+IHKBHOGD_01023	gene			
+IHKBHOGD_01024	CDS			hypothetical protein
+IHKBHOGD_01024	gene			
+IHKBHOGD_01025	CDS			hypothetical protein
+IHKBHOGD_01025	gene			
+IHKBHOGD_01026	CDS			hypothetical protein
+IHKBHOGD_01026	gene			
+IHKBHOGD_01027	CDS	selD	2.7.9.3	Selenide, water dikinase
+IHKBHOGD_01027	gene	selD		
+IHKBHOGD_01028	CDS	yxeN		putative amino-acid permease protein YxeN
+IHKBHOGD_01028	gene	yxeN		
+IHKBHOGD_01029	CDS			hypothetical protein
+IHKBHOGD_01029	gene			
+IHKBHOGD_01030	CDS			hypothetical protein
+IHKBHOGD_01030	gene			
+IHKBHOGD_01031	CDS	ung	3.2.2.27	Uracil-DNA glycosylase
+IHKBHOGD_01031	gene	ung		
+IHKBHOGD_01032	CDS			hypothetical protein
+IHKBHOGD_01032	gene			
+IHKBHOGD_01033	CDS			hypothetical protein
+IHKBHOGD_01033	gene			
+IHKBHOGD_01034	CDS	pstC2_2		Phosphate transport system permease protein PstC 2
+IHKBHOGD_01034	gene	pstC2_2		
+IHKBHOGD_01035	CDS	pstA1_2		Phosphate transport system permease protein PstA 1
+IHKBHOGD_01035	gene	pstA1_2		
+IHKBHOGD_01036	CDS			hypothetical protein
+IHKBHOGD_01036	gene			
+IHKBHOGD_01037	CDS	tcrY_2	2.7.13.3	putative sensor histidine kinase TcrY
+IHKBHOGD_01037	gene	tcrY_2		
+IHKBHOGD_01038	CDS	tcrX		putative transcriptional regulatory protein TcrX
+IHKBHOGD_01038	gene	tcrX		
+IHKBHOGD_01039	CDS			hypothetical protein
+IHKBHOGD_01039	gene			
+IHKBHOGD_01040	CDS			hypothetical protein
+IHKBHOGD_01040	gene			
+IHKBHOGD_01041	CDS	yknY	3.6.3.-	putative ABC transporter ATP-binding protein YknY
+IHKBHOGD_01041	gene	yknY		
+IHKBHOGD_01042	CDS	macB	3.6.3.-	Macrolide export ATP-binding/permease protein MacB
+IHKBHOGD_01042	gene	macB		
+IHKBHOGD_01043	CDS			hypothetical protein
+IHKBHOGD_01043	gene			
+IHKBHOGD_01044	CDS			hypothetical protein
+IHKBHOGD_01044	gene			
+IHKBHOGD_01045	CDS			hypothetical protein
+IHKBHOGD_01045	gene			
+IHKBHOGD_01046	CDS			hypothetical protein
+IHKBHOGD_01046	gene			
+IHKBHOGD_01047	CDS			hypothetical protein
+IHKBHOGD_01047	gene			
+IHKBHOGD_01048	CDS			hypothetical protein
+IHKBHOGD_01048	gene			
+IHKBHOGD_01049	CDS	cutL_2	1.2.5.3	Carbon monoxide dehydrogenase large chain
+IHKBHOGD_01049	gene	cutL_2		
+IHKBHOGD_01050	CDS			hypothetical protein
+IHKBHOGD_01050	gene			
+IHKBHOGD_01051	CDS			putative sulfate transporter
+IHKBHOGD_01051	gene			
+IHKBHOGD_01052	CDS			hypothetical protein
+IHKBHOGD_01052	gene			
+IHKBHOGD_01053	CDS	liaR		Transcriptional regulatory protein LiaR
+IHKBHOGD_01053	gene	liaR		
+IHKBHOGD_01054	CDS			hypothetical protein
+IHKBHOGD_01054	gene			
+IHKBHOGD_01055	CDS			hypothetical protein
+IHKBHOGD_01055	gene			
+IHKBHOGD_01056	CDS			hypothetical protein
+IHKBHOGD_01056	gene			
+IHKBHOGD_01057	CDS			hypothetical protein
+IHKBHOGD_01057	gene			
+IHKBHOGD_01058	CDS			hypothetical protein
+IHKBHOGD_01058	gene			
+IHKBHOGD_01059	CDS		1.1.1.-	Putative 2-hydroxyacid dehydrogenase
+IHKBHOGD_01059	gene			
+IHKBHOGD_01060	CDS			hypothetical protein
+IHKBHOGD_01060	gene			
+IHKBHOGD_01061	CDS			hypothetical protein
+IHKBHOGD_01061	gene			
+IHKBHOGD_01062	CDS			hypothetical protein
+IHKBHOGD_01062	gene			
+IHKBHOGD_01063	CDS			hypothetical protein
+IHKBHOGD_01063	gene			
+IHKBHOGD_01064	CDS	cypM	2.1.1.301	Cypemycin N-terminal methyltransferase
+IHKBHOGD_01064	gene	cypM		
+IHKBHOGD_01065	CDS			hypothetical protein
+IHKBHOGD_01065	gene			
+IHKBHOGD_01066	CDS			hypothetical protein
+IHKBHOGD_01066	gene			
+IHKBHOGD_01067	CDS	fadD3	6.2.1.41	3-[(3aS,4S,7aS)-7a-methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoyl:CoA ligase
+IHKBHOGD_01067	gene	fadD3		
+IHKBHOGD_01068	CDS	gdhA	1.4.1.3	Glutamate dehydrogenase
+IHKBHOGD_01068	gene	gdhA		
+IHKBHOGD_01069	CDS		4.1.2.27	putative sphingosine-1-phosphate lyase
+IHKBHOGD_01069	gene			
+IHKBHOGD_01070	CDS	patB	4.4.1.8	Cystathionine beta-lyase PatB
+IHKBHOGD_01070	gene	patB		
+IHKBHOGD_01071	CDS			hypothetical protein
+IHKBHOGD_01071	gene			
+IHKBHOGD_01072	CDS			hypothetical protein
+IHKBHOGD_01072	gene			
+IHKBHOGD_01073	CDS			hypothetical protein
+IHKBHOGD_01073	gene			
+IHKBHOGD_01074	CDS			hypothetical protein
+IHKBHOGD_01074	gene			
+IHKBHOGD_01075	CDS	sigD		ECF RNA polymerase sigma factor SigD
+IHKBHOGD_01075	gene	sigD		
+IHKBHOGD_01076	CDS	leuD_2	4.2.1.33	3-isopropylmalate dehydratase small subunit
+IHKBHOGD_01076	gene	leuD_2		
+IHKBHOGD_01077	CDS	leuC	4.2.1.33	3-isopropylmalate dehydratase large subunit
+IHKBHOGD_01077	gene	leuC		
+IHKBHOGD_01078	CDS			hypothetical protein
+IHKBHOGD_01078	gene			
+IHKBHOGD_01079	CDS			hypothetical protein
+IHKBHOGD_01079	gene			
+IHKBHOGD_01080	CDS			hypothetical protein
+IHKBHOGD_01080	gene			
+IHKBHOGD_01081	CDS			hypothetical protein
+IHKBHOGD_01081	gene			
+IHKBHOGD_01082	CDS	dauA_3		C4-dicarboxylic acid transporter DauA
+IHKBHOGD_01082	gene	dauA_3		
+IHKBHOGD_01083	CDS			hypothetical protein
+IHKBHOGD_01083	gene			
+IHKBHOGD_01084	CDS			hypothetical protein
+IHKBHOGD_01084	gene			
+IHKBHOGD_01085	CDS			hypothetical protein
+IHKBHOGD_01085	gene			
+IHKBHOGD_01086	CDS	fabD	2.3.1.39	Malonyl CoA-acyl carrier protein transacylase
+IHKBHOGD_01086	gene	fabD		
+IHKBHOGD_01087	CDS	fabH_2	2.3.1.180	3-oxoacyl-[acyl-carrier-protein] synthase 3
+IHKBHOGD_01087	gene	fabH_2		
+IHKBHOGD_01088	CDS			hypothetical protein
+IHKBHOGD_01088	gene			
+IHKBHOGD_01089	CDS			hypothetical protein
+IHKBHOGD_01089	gene			
+IHKBHOGD_01090	CDS			hypothetical protein
+IHKBHOGD_01090	gene			
+IHKBHOGD_01091	CDS	ubiE	2.1.1.163	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE
+IHKBHOGD_01091	gene	ubiE		
+IHKBHOGD_01092	CDS			hypothetical protein
+IHKBHOGD_01092	gene			
+IHKBHOGD_01093	CDS	htpX	3.4.24.-	Protease HtpX 
+IHKBHOGD_01093	gene	htpX		
+IHKBHOGD_01094	CDS			hypothetical protein
+IHKBHOGD_01094	gene			
+IHKBHOGD_01095	CDS			hypothetical protein
+IHKBHOGD_01095	gene			
+IHKBHOGD_01096	CDS	mtnN	3.2.2.9	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+IHKBHOGD_01096	gene	mtnN		
+IHKBHOGD_01097	CDS	ppdK	2.7.9.1	Pyruvate, phosphate dikinase
+IHKBHOGD_01097	gene	ppdK		
+IHKBHOGD_01098	CDS			hypothetical protein
+IHKBHOGD_01098	gene			
+IHKBHOGD_01099	CDS			hypothetical protein
+IHKBHOGD_01099	gene			
+IHKBHOGD_01100	CDS	cutL_3	1.2.5.3	Carbon monoxide dehydrogenase large chain
+IHKBHOGD_01100	gene	cutL_3		
+IHKBHOGD_01101	CDS	fadA_2	2.3.1.16	3-ketoacyl-CoA thiolase
+IHKBHOGD_01101	gene	fadA_2		
+IHKBHOGD_01102	CDS	pleD		Response regulator PleD
+IHKBHOGD_01102	gene	pleD		
+IHKBHOGD_01103	CDS	mshB	3.5.1.103	1D-myo-inositol 2-acetamido-2-deoxy-alpha-D-glucopyranoside deacetylase
+IHKBHOGD_01103	gene	mshB		
+IHKBHOGD_01104	CDS			hypothetical protein
+IHKBHOGD_01104	gene			
+IHKBHOGD_01105	CDS	smtB_2	2.8.3.22	Succinyl-CoA--L-malate CoA-transferase beta subunit
+IHKBHOGD_01105	gene	smtB_2		
+IHKBHOGD_01106	CDS			hypothetical protein
+IHKBHOGD_01106	gene			
+IHKBHOGD_01107	CDS			hypothetical protein
+IHKBHOGD_01107	gene			
+IHKBHOGD_01108	CDS			hypothetical protein
+IHKBHOGD_01108	gene			
+IHKBHOGD_01109	CDS			hypothetical protein
+IHKBHOGD_01109	gene			
+IHKBHOGD_01110	CDS			hypothetical protein
+IHKBHOGD_01110	gene			
+IHKBHOGD_01111	CDS			hypothetical protein
+IHKBHOGD_01111	gene			
+IHKBHOGD_01112	CDS	nfuA_2		Fe/S biogenesis protein NfuA
+IHKBHOGD_01112	gene	nfuA_2		
+IHKBHOGD_01113	CDS			hypothetical protein
+IHKBHOGD_01113	gene			
+IHKBHOGD_01114	CDS			hypothetical protein
+IHKBHOGD_01114	gene			
+IHKBHOGD_01115	CDS	fpr	1.18.1.2	Ferredoxin--NADP reductase
+IHKBHOGD_01115	gene	fpr		
+IHKBHOGD_01116	CDS	topA	5.99.1.2	DNA topoisomerase 1
+IHKBHOGD_01116	gene	topA		
+IHKBHOGD_01117	CDS			hypothetical protein
+IHKBHOGD_01117	gene			
+IHKBHOGD_01118	CDS	iolX_2	1.1.1.370	scyllo-inositol 2-dehydrogenase (NAD(+))
+IHKBHOGD_01118	gene	iolX_2		
+IHKBHOGD_01119	CDS			hypothetical protein
+IHKBHOGD_01119	gene			
+IHKBHOGD_01120	CDS			hypothetical protein
+IHKBHOGD_01120	gene			
+IHKBHOGD_01121	CDS	aroK	2.7.1.71	Shikimate kinase
+IHKBHOGD_01121	gene	aroK		
+IHKBHOGD_01122	CDS	aroC	4.2.3.5	Chorismate synthase
+IHKBHOGD_01122	gene	aroC		
+IHKBHOGD_01123	CDS	aroE	1.1.1.25	Shikimate dehydrogenase (NADP(+))
+IHKBHOGD_01123	gene	aroE		
+IHKBHOGD_01124	CDS	mltG	4.2.2.-	Endolytic murein transglycosylase
+IHKBHOGD_01124	gene	mltG		
+IHKBHOGD_01125	CDS	yrrK	3.1.-.-	Putative pre-16S rRNA nuclease
+IHKBHOGD_01125	gene	yrrK		
+IHKBHOGD_01126	CDS	alaS	6.1.1.7	Alanine--tRNA ligase
+IHKBHOGD_01126	gene	alaS		
+IHKBHOGD_01127	CDS			hypothetical protein
+IHKBHOGD_01127	gene			
+IHKBHOGD_01128	CDS	xseB	3.1.11.6	Exodeoxyribonuclease 7 small subunit
+IHKBHOGD_01128	gene	xseB		
+IHKBHOGD_01129	CDS	aam	3.5.1.13	Acylamidase
+IHKBHOGD_01129	gene	aam		
+IHKBHOGD_01130	CDS		2.5.1.10	Farnesyl diphosphate synthase
+IHKBHOGD_01130	gene			
+IHKBHOGD_01131	CDS	carA2	1.3.99.29	zeta-carotene-forming phytoene desaturase
+IHKBHOGD_01131	gene	carA2		
+IHKBHOGD_01132	CDS	crtB	2.5.1.99	All-trans-phytoene synthase
+IHKBHOGD_01132	gene	crtB		
+IHKBHOGD_01133	CDS	ddc	4.1.1.86	L-2,4-diaminobutyrate decarboxylase
+IHKBHOGD_01133	gene	ddc		
+IHKBHOGD_01134	CDS			hypothetical protein
+IHKBHOGD_01134	gene			
+IHKBHOGD_01135	CDS			hypothetical protein
+IHKBHOGD_01135	gene			
+IHKBHOGD_01136	CDS			hypothetical protein
+IHKBHOGD_01136	gene			
+IHKBHOGD_01137	CDS	murF	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+IHKBHOGD_01137	gene	murF		
+IHKBHOGD_01138	CDS			hypothetical protein
+IHKBHOGD_01138	gene			
+IHKBHOGD_01139	CDS	aceE	1.2.4.1	Pyruvate dehydrogenase E1 component
+IHKBHOGD_01139	gene	aceE		
+IHKBHOGD_01140	CDS	dhmA2	3.8.1.5	Haloalkane dehalogenase 2
+IHKBHOGD_01140	gene	dhmA2		

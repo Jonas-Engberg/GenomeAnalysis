@@ -1,0 +1,3501 @@
+locus_tag	ftype	gene	EC_number	product
+ALJPEIHI_00001	CDS	xecD	1.1.1.268	2-(R)-hydroxypropyl-CoM dehydrogenase
+ALJPEIHI_00001	gene	xecD		
+ALJPEIHI_00002	CDS			hypothetical protein
+ALJPEIHI_00002	gene			
+ALJPEIHI_00003	CDS		2.3.1.-	Putative acetyltransferase
+ALJPEIHI_00003	gene			
+ALJPEIHI_00004	CDS			hypothetical protein
+ALJPEIHI_00004	gene			
+ALJPEIHI_00005	CDS	pigC_1	6.4.-.-	Prodigiosin synthesizing transferase PigC
+ALJPEIHI_00005	gene	pigC_1		
+ALJPEIHI_00006	CDS	fgd_1	1.1.98.2	F420-dependent glucose-6-phosphate dehydrogenase
+ALJPEIHI_00006	gene	fgd_1		
+ALJPEIHI_00007	CDS	sucB	2.3.1.61	Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex
+ALJPEIHI_00007	gene	sucB		
+ALJPEIHI_00008	CDS			hypothetical protein
+ALJPEIHI_00008	gene			
+ALJPEIHI_00009	CDS	groS3		10 kDa chaperonin 3
+ALJPEIHI_00009	gene	groS3		
+ALJPEIHI_00010	CDS	hisF	4.1.3.-	Imidazole glycerol phosphate synthase subunit HisF
+ALJPEIHI_00010	gene	hisF		
+ALJPEIHI_00011	CDS	hisA	5.3.1.16	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+ALJPEIHI_00011	gene	hisA		
+ALJPEIHI_00012	CDS	hisH	2.4.2.-	Imidazole glycerol phosphate synthase subunit HisH
+ALJPEIHI_00012	gene	hisH		
+ALJPEIHI_00013	CDS	hisB		Histidine biosynthesis bifunctional protein HisB
+ALJPEIHI_00013	gene	hisB		
+ALJPEIHI_00014	CDS	hisC	2.6.1.9	Histidinol-phosphate aminotransferase
+ALJPEIHI_00014	gene	hisC		
+ALJPEIHI_00015	CDS	sucC	6.2.1.4	Succinate--CoA ligase [GDP-forming] subunit beta
+ALJPEIHI_00015	gene	sucC		
+ALJPEIHI_00016	CDS	sucD	6.2.1.5	Succinate--CoA ligase [ADP-forming] subunit alpha
+ALJPEIHI_00016	gene	sucD		
+ALJPEIHI_00017	CDS	purN	2.1.2.2	Phosphoribosylglycinamide formyltransferase
+ALJPEIHI_00017	gene	purN		
+ALJPEIHI_00018	CDS	purH		Bifunctional purine biosynthesis protein PurH
+ALJPEIHI_00018	gene	purH		
+ALJPEIHI_00019	CDS			hypothetical protein
+ALJPEIHI_00019	gene			
+ALJPEIHI_00020	CDS			hypothetical protein
+ALJPEIHI_00020	gene			
+ALJPEIHI_00021	CDS			hypothetical protein
+ALJPEIHI_00021	gene			
+ALJPEIHI_00022	CDS	cypB_1	5.2.1.8	Peptidyl-prolyl cis-trans isomerase B
+ALJPEIHI_00022	gene	cypB_1		
+ALJPEIHI_00023	CDS			hypothetical protein
+ALJPEIHI_00023	gene			
+ALJPEIHI_00024	CDS			hypothetical protein
+ALJPEIHI_00024	gene			
+ALJPEIHI_00025	CDS			hypothetical protein
+ALJPEIHI_00025	gene			
+ALJPEIHI_00026	CDS	echA8_1	4.2.1.17	putative enoyl-CoA hydratase echA8
+ALJPEIHI_00026	gene	echA8_1		
+ALJPEIHI_00027	CDS	baiB	6.-.-.-	Bile acid-coenzyme A ligase
+ALJPEIHI_00027	gene	baiB		
+ALJPEIHI_00028	CDS			hypothetical protein
+ALJPEIHI_00028	gene			
+ALJPEIHI_00029	tRNA			tRNA-Ser(tga)
+ALJPEIHI_00029	gene			
+ALJPEIHI_00030	tRNA			tRNA-Ser(gct)
+ALJPEIHI_00030	gene			
+ALJPEIHI_00031	tRNA			tRNA-Arg(acg)
+ALJPEIHI_00031	gene			
+ALJPEIHI_00032	CDS			hypothetical protein
+ALJPEIHI_00032	gene			
+ALJPEIHI_00033	CDS	purE_1	5.4.99.18	N5-carboxyaminoimidazole ribonucleotide mutase
+ALJPEIHI_00033	gene	purE_1		
+ALJPEIHI_00034	CDS	nadE_1	6.3.5.1	NH(3)-dependent NAD(+) synthetase
+ALJPEIHI_00034	gene	nadE_1		
+ALJPEIHI_00035	CDS			hypothetical protein
+ALJPEIHI_00035	gene			
+ALJPEIHI_00036	CDS	cysQ_1	3.1.3.7	3'-phosphoadenosine 5'-phosphate phosphatase
+ALJPEIHI_00036	gene	cysQ_1		
+ALJPEIHI_00037	CDS	cspLA		Cold shock-like protein CspLA
+ALJPEIHI_00037	gene	cspLA		
+ALJPEIHI_00038	CDS			hypothetical protein
+ALJPEIHI_00038	gene			
+ALJPEIHI_00039	CDS		1.-.-.-	Putative coenzyme F420-dependent oxidoreductase
+ALJPEIHI_00039	gene			
+ALJPEIHI_00040	CDS	fgd2_1	1.1.98.-	F420-dependent hydroxymycolic acid dehydrogenase
+ALJPEIHI_00040	gene	fgd2_1		
+ALJPEIHI_00041	CDS	sufS_1	2.8.1.7	Cysteine desulfurase
+ALJPEIHI_00041	gene	sufS_1		
+ALJPEIHI_00042	CDS	ogt	2.1.1.63	Methylated-DNA--protein-cysteine methyltransferase, constitutive
+ALJPEIHI_00042	gene	ogt		
+ALJPEIHI_00043	CDS		1.13.12.16	Nitronate monooxygenase
+ALJPEIHI_00043	gene			
+ALJPEIHI_00044	CDS		4.2.1.112	Acetylene hydratase
+ALJPEIHI_00044	gene			
+ALJPEIHI_00045	CDS	crt_1	4.2.1.150	Short-chain-enoyl-CoA hydratase
+ALJPEIHI_00045	gene	crt_1		
+ALJPEIHI_00046	CDS	crt_2	4.2.1.150	Short-chain-enoyl-CoA hydratase
+ALJPEIHI_00046	gene	crt_2		
+ALJPEIHI_00047	CDS	mutX	3.6.1.55	8-oxo-dGTP diphosphatase
+ALJPEIHI_00047	gene	mutX		
+ALJPEIHI_00048	CDS	gltC		HTH-type transcriptional regulator GltC
+ALJPEIHI_00048	gene	gltC		
+ALJPEIHI_00049	CDS			hypothetical protein
+ALJPEIHI_00049	gene			
+ALJPEIHI_00050	CDS	nhaA		Na(+)/H(+) antiporter NhaA
+ALJPEIHI_00050	gene	nhaA		
+ALJPEIHI_00051	CDS			hypothetical protein
+ALJPEIHI_00051	gene			
+ALJPEIHI_00052	CDS	rsbW	2.7.11.1	Serine-protein kinase RsbW
+ALJPEIHI_00052	gene	rsbW		
+ALJPEIHI_00053	CDS	rsbV		Anti-sigma-B factor antagonist
+ALJPEIHI_00053	gene	rsbV		
+ALJPEIHI_00054	CDS		2.7.1.-	Putative aminoglycoside phosphotransferase
+ALJPEIHI_00054	gene			
+ALJPEIHI_00055	CDS			hypothetical protein
+ALJPEIHI_00055	gene			
+ALJPEIHI_00056	tRNA			tRNA-SeC(tca)
+ALJPEIHI_00056	gene			
+ALJPEIHI_00057	CDS	hrdB_1		RNA polymerase principal sigma factor HrdB
+ALJPEIHI_00057	gene	hrdB_1		
+ALJPEIHI_00058	CDS	nadE_2	6.3.5.1	Glutamine-dependent NAD(+) synthetase
+ALJPEIHI_00058	gene	nadE_2		
+ALJPEIHI_00059	CDS	hisI	3.5.4.19	Phosphoribosyl-AMP cyclohydrolase
+ALJPEIHI_00059	gene	hisI		
+ALJPEIHI_00060	CDS	glnII	6.3.1.2	Glutamine synthetase 2
+ALJPEIHI_00060	gene	glnII		
+ALJPEIHI_00061	CDS	glnA	6.3.1.2	Glutamine synthetase 2
+ALJPEIHI_00061	gene	glnA		
+ALJPEIHI_00062	CDS	hssR		Heme response regulator HssR
+ALJPEIHI_00062	gene	hssR		
+ALJPEIHI_00063	CDS			hypothetical protein
+ALJPEIHI_00063	gene			
+ALJPEIHI_00064	CDS	yabJ	3.5.99.10	2-iminobutanoate/2-iminopropanoate deaminase
+ALJPEIHI_00064	gene	yabJ		
+ALJPEIHI_00065	CDS			hypothetical protein
+ALJPEIHI_00065	gene			
+ALJPEIHI_00066	CDS	erpA		Iron-sulfur cluster insertion protein ErpA
+ALJPEIHI_00066	gene	erpA		
+ALJPEIHI_00067	CDS	mrp_1		Iron-sulfur cluster carrier protein
+ALJPEIHI_00067	gene	mrp_1		
+ALJPEIHI_00068	CDS			hypothetical protein
+ALJPEIHI_00068	gene			
+ALJPEIHI_00069	CDS			hypothetical protein
+ALJPEIHI_00069	gene			
+ALJPEIHI_00070	CDS	selA	2.9.1.1	L-seryl-tRNA(Sec) selenium transferase
+ALJPEIHI_00070	gene	selA		
+ALJPEIHI_00071	CDS	selB		Selenocysteine-specific elongation factor
+ALJPEIHI_00071	gene	selB		
+ALJPEIHI_00072	CDS	deoD	2.4.2.1	Purine nucleoside phosphorylase DeoD-type
+ALJPEIHI_00072	gene	deoD		
+ALJPEIHI_00073	CDS	whiB3		putative transcriptional regulator WhiB3
+ALJPEIHI_00073	gene	whiB3		
+ALJPEIHI_00074	CDS			hypothetical protein
+ALJPEIHI_00074	gene			
+ALJPEIHI_00075	CDS			Putative anti-sigma factor antagonist
+ALJPEIHI_00075	gene			
+ALJPEIHI_00076	CDS			hypothetical protein
+ALJPEIHI_00076	gene			
+ALJPEIHI_00077	tRNA			tRNA-Pro(cgg)
+ALJPEIHI_00077	gene			
+ALJPEIHI_00078	CDS			hypothetical protein
+ALJPEIHI_00078	gene			
+ALJPEIHI_00079	CDS	asd	1.2.1.11	Aspartate-semialdehyde dehydrogenase
+ALJPEIHI_00079	gene	asd		
+ALJPEIHI_00080	CDS			hypothetical protein
+ALJPEIHI_00080	gene			
+ALJPEIHI_00081	CDS	rapA_1	3.6.4.-	RNA polymerase-associated protein RapA
+ALJPEIHI_00081	gene	rapA_1		
+ALJPEIHI_00082	CDS	lysC	2.7.2.4	Aspartate kinase Ask_LysC
+ALJPEIHI_00082	gene	lysC		
+ALJPEIHI_00083	CDS			hypothetical protein
+ALJPEIHI_00083	gene			
+ALJPEIHI_00084	CDS	pccB_1	6.4.1.3	Propionyl-CoA carboxylase beta chain
+ALJPEIHI_00084	gene	pccB_1		
+ALJPEIHI_00085	CDS	ddpX	3.4.13.22	D-alanyl-D-alanine dipeptidase
+ALJPEIHI_00085	gene	ddpX		
+ALJPEIHI_00086	CDS	yerB		Putative lipoprotein YerB
+ALJPEIHI_00086	gene	yerB		
+ALJPEIHI_00087	CDS	thrC_1	4.2.3.1	Threonine synthase
+ALJPEIHI_00087	gene	thrC_1		
+ALJPEIHI_00088	CDS	cysK	2.5.1.47	Cysteine synthase
+ALJPEIHI_00088	gene	cysK		
+ALJPEIHI_00089	CDS		1.14.13.221	Steroid C26-monooxygenase
+ALJPEIHI_00089	gene			
+ALJPEIHI_00090	CDS	luxA	1.14.14.3	Alkanal monooxygenase alpha chain
+ALJPEIHI_00090	gene	luxA		
+ALJPEIHI_00091	CDS	lvr_1	1.1.1.-	Levodione reductase
+ALJPEIHI_00091	gene	lvr_1		
+ALJPEIHI_00092	CDS	yciB		intracellular septation protein A
+ALJPEIHI_00092	gene	yciB		
+ALJPEIHI_00093	CDS	hsdA_1	1.1.1.50	3-alpha-hydroxysteroid dehydrogenase/carbonyl reductase
+ALJPEIHI_00093	gene	hsdA_1		
+ALJPEIHI_00094	CDS	lcfB_1	6.2.1.3	Long-chain-fatty-acid--CoA ligase
+ALJPEIHI_00094	gene	lcfB_1		
+ALJPEIHI_00095	CDS			hypothetical protein
+ALJPEIHI_00095	gene			
+ALJPEIHI_00096	CDS		2.1.1.-	putative tRNA/rRNA methyltransferase
+ALJPEIHI_00096	gene			
+ALJPEIHI_00097	CDS			hypothetical protein
+ALJPEIHI_00097	gene			
+ALJPEIHI_00098	CDS	ywle	3.9.1.2	Protein-arginine-phosphatase
+ALJPEIHI_00098	gene	ywle		
+ALJPEIHI_00099	CDS			hypothetical protein
+ALJPEIHI_00099	gene			
+ALJPEIHI_00100	CDS	carC_1	1.3.1.108	Caffeyl-CoA reductase-Etf complex subunit CarC
+ALJPEIHI_00100	gene	carC_1		
+ALJPEIHI_00101	CDS		1.3.99.-	Putative acyl-CoA dehydrogenase FadE17
+ALJPEIHI_00101	gene			
+ALJPEIHI_00102	CDS			hypothetical protein
+ALJPEIHI_00102	gene			
+ALJPEIHI_00103	CDS	smtB_1	2.8.3.22	Succinyl-CoA--L-malate CoA-transferase beta subunit
+ALJPEIHI_00103	gene	smtB_1		
+ALJPEIHI_00104	CDS	pheS	6.1.1.20	Phenylalanine--tRNA ligase alpha subunit
+ALJPEIHI_00104	gene	pheS		
+ALJPEIHI_00105	CDS	aviRb	2.1.1.208	23S rRNA (uridine(2479)-2'-O)-methyltransferase
+ALJPEIHI_00105	gene	aviRb		
+ALJPEIHI_00106	CDS	rplT		50S ribosomal protein L20
+ALJPEIHI_00106	gene	rplT		
+ALJPEIHI_00107	CDS	rpmI		50S ribosomal protein L35
+ALJPEIHI_00107	gene	rpmI		
+ALJPEIHI_00108	CDS	infC		Translation initiation factor IF-3
+ALJPEIHI_00108	gene	infC		
+ALJPEIHI_00109	CDS			hypothetical protein
+ALJPEIHI_00109	gene			
+ALJPEIHI_00110	CDS	rdmC	3.1.1.95	Aclacinomycin methylesterase RdmC
+ALJPEIHI_00110	gene	rdmC		
+ALJPEIHI_00111	CDS	yjiB_1	1.14.-.-	Putative cytochrome P450 YjiB
+ALJPEIHI_00111	gene	yjiB_1		
+ALJPEIHI_00112	CDS			hypothetical protein
+ALJPEIHI_00112	gene			
+ALJPEIHI_00113	CDS	ppsC_1	2.3.1.41	Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsC
+ALJPEIHI_00113	gene	ppsC_1		
+ALJPEIHI_00114	CDS	echA8_2	4.2.1.17	putative enoyl-CoA hydratase echA8
+ALJPEIHI_00114	gene	echA8_2		
+ALJPEIHI_00115	CDS			hypothetical protein
+ALJPEIHI_00115	gene			
+ALJPEIHI_00116	CDS	gpr	1.1.1.-	L-glyceraldehyde 3-phosphate reductase
+ALJPEIHI_00116	gene	gpr		
+ALJPEIHI_00117	CDS			hypothetical protein
+ALJPEIHI_00117	gene			
+ALJPEIHI_00118	CDS			hypothetical protein
+ALJPEIHI_00118	gene			
+ALJPEIHI_00119	CDS			hypothetical protein
+ALJPEIHI_00119	gene			
+ALJPEIHI_00120	rRNA			16S ribosomal RNA (partial)
+ALJPEIHI_00120	gene			
+ALJPEIHI_00121	rRNA			23S ribosomal RNA (partial)
+ALJPEIHI_00121	gene			
+ALJPEIHI_00122	CDS	dac	3.4.16.4	D-alanyl-D-alanine carboxypeptidase
+ALJPEIHI_00122	gene	dac		
+ALJPEIHI_00123	CDS			hypothetical protein
+ALJPEIHI_00123	gene			
+ALJPEIHI_00124	CDS			hypothetical protein
+ALJPEIHI_00124	gene			
+ALJPEIHI_00125	CDS			hypothetical protein
+ALJPEIHI_00125	gene			
+ALJPEIHI_00126	CDS			hypothetical protein
+ALJPEIHI_00126	gene			
+ALJPEIHI_00127	CDS	dhmA	3.8.1.5	Haloalkane dehalogenase
+ALJPEIHI_00127	gene	dhmA		
+ALJPEIHI_00128	CDS	rbn_1	3.1.-.-	Ribonuclease BN
+ALJPEIHI_00128	gene	rbn_1		
+ALJPEIHI_00129	CDS	atsA_1	3.1.6.1	Arylsulfatase
+ALJPEIHI_00129	gene	atsA_1		
+ALJPEIHI_00130	CDS			hypothetical protein
+ALJPEIHI_00130	gene			
+ALJPEIHI_00131	CDS	rgtE	2.4.1.-	Dodecaprenyl-phosphate galacturonate synthase
+ALJPEIHI_00131	gene	rgtE		
+ALJPEIHI_00132	CDS	npt	2.7.8.7	4'-phosphopantetheinyl transferase Npt
+ALJPEIHI_00132	gene	npt		
+ALJPEIHI_00133	CDS	gatB	6.3.5.-	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+ALJPEIHI_00133	gene	gatB		
+ALJPEIHI_00134	CDS	gatA	6.3.5.7	Glutamyl-tRNA(Gln) amidotransferase subunit A
+ALJPEIHI_00134	gene	gatA		
+ALJPEIHI_00135	CDS	gatC	6.3.5.-	Glutamyl-tRNA(Gln) amidotransferase subunit C
+ALJPEIHI_00135	gene	gatC		
+ALJPEIHI_00136	CDS	prkC	2.7.11.1	Serine/threonine-protein kinase PrkC
+ALJPEIHI_00136	gene	prkC		
+ALJPEIHI_00137	CDS			hypothetical protein
+ALJPEIHI_00137	gene			
+ALJPEIHI_00138	CDS	yihX_1	3.1.3.10	Alpha-D-glucose 1-phosphate phosphatase YihX
+ALJPEIHI_00138	gene	yihX_1		
+ALJPEIHI_00139	CDS	ligA	6.5.1.2	DNA ligase
+ALJPEIHI_00139	gene	ligA		
+ALJPEIHI_00140	CDS			hypothetical protein
+ALJPEIHI_00140	gene			
+ALJPEIHI_00141	CDS			hypothetical protein
+ALJPEIHI_00141	gene			
+ALJPEIHI_00142	CDS	mnmA	2.8.1.13	tRNA-specific 2-thiouridylase MnmA
+ALJPEIHI_00142	gene	mnmA		
+ALJPEIHI_00143	CDS	iscS	2.8.1.7	Cysteine desulfurase IscS
+ALJPEIHI_00143	gene	iscS		
+ALJPEIHI_00144	CDS			hypothetical protein
+ALJPEIHI_00144	gene			
+ALJPEIHI_00145	CDS	murA	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+ALJPEIHI_00145	gene	murA		
+ALJPEIHI_00146	CDS			hypothetical protein
+ALJPEIHI_00146	gene			
+ALJPEIHI_00147	CDS			hypothetical protein
+ALJPEIHI_00147	gene			
+ALJPEIHI_00148	CDS			hypothetical protein
+ALJPEIHI_00148	gene			
+ALJPEIHI_00149	CDS	glpX	3.1.3.11	Fructose-1,6-bisphosphatase class 2
+ALJPEIHI_00149	gene	glpX		
+ALJPEIHI_00150	CDS	butA	1.1.1.304	Diacetyl reductase [(S)-acetoin forming]
+ALJPEIHI_00150	gene	butA		
+ALJPEIHI_00151	CDS	atpC		ATP synthase epsilon chain
+ALJPEIHI_00151	gene	atpC		
+ALJPEIHI_00152	CDS	atpD	3.6.3.14	ATP synthase subunit beta
+ALJPEIHI_00152	gene	atpD		
+ALJPEIHI_00153	CDS	atpG		ATP synthase gamma chain
+ALJPEIHI_00153	gene	atpG		
+ALJPEIHI_00154	CDS	atpA	3.6.3.14	ATP synthase subunit alpha
+ALJPEIHI_00154	gene	atpA		
+ALJPEIHI_00155	CDS	atpH		ATP synthase subunit delta
+ALJPEIHI_00155	gene	atpH		
+ALJPEIHI_00156	CDS	atpF		ATP synthase subunit b
+ALJPEIHI_00156	gene	atpF		
+ALJPEIHI_00157	CDS	atpE		ATP synthase subunit c
+ALJPEIHI_00157	gene	atpE		
+ALJPEIHI_00158	CDS	atpB		ATP synthase subunit a
+ALJPEIHI_00158	gene	atpB		
+ALJPEIHI_00159	CDS			hypothetical protein
+ALJPEIHI_00159	gene			
+ALJPEIHI_00160	CDS			hypothetical protein
+ALJPEIHI_00160	gene			
+ALJPEIHI_00161	CDS	glyA	2.1.2.1	Serine hydroxymethyltransferase
+ALJPEIHI_00161	gene	glyA		
+ALJPEIHI_00162	CDS	rpiB	5.3.1.6	Ribose-5-phosphate isomerase B
+ALJPEIHI_00162	gene	rpiB		
+ALJPEIHI_00163	CDS	ywlC	2.7.7.87	Threonylcarbamoyl-AMP synthase
+ALJPEIHI_00163	gene	ywlC		
+ALJPEIHI_00164	CDS	prmC	2.1.1.297	Release factor glutamine methyltransferase
+ALJPEIHI_00164	gene	prmC		
+ALJPEIHI_00165	CDS	prfA		Peptide chain release factor 1
+ALJPEIHI_00165	gene	prfA		
+ALJPEIHI_00166	CDS			hypothetical protein
+ALJPEIHI_00166	gene			
+ALJPEIHI_00167	CDS	rpmE2		50S ribosomal protein L31 type B
+ALJPEIHI_00167	gene	rpmE2		
+ALJPEIHI_00168	CDS	rho	3.6.4.-	Transcription termination factor Rho
+ALJPEIHI_00168	gene	rho		
+ALJPEIHI_00169	CDS	thrC_2	4.2.3.1	Threonine synthase
+ALJPEIHI_00169	gene	thrC_2		
+ALJPEIHI_00170	CDS	hom	1.1.1.3	Homoserine dehydrogenase
+ALJPEIHI_00170	gene	hom		
+ALJPEIHI_00171	CDS	lysA	4.1.1.20	Diaminopimelate decarboxylase
+ALJPEIHI_00171	gene	lysA		
+ALJPEIHI_00172	CDS	argS	6.1.1.19	Arginine--tRNA ligase
+ALJPEIHI_00172	gene	argS		
+ALJPEIHI_00173	CDS	dus	1.3.1.-	putative tRNA-dihydrouridine synthase
+ALJPEIHI_00173	gene	dus		
+ALJPEIHI_00174	tRNA			tRNA-Arg(ccg)
+ALJPEIHI_00174	gene			
+ALJPEIHI_00175	CDS			hypothetical protein
+ALJPEIHI_00175	gene			
+ALJPEIHI_00176	CDS			hypothetical protein
+ALJPEIHI_00176	gene			
+ALJPEIHI_00177	CDS			hypothetical protein
+ALJPEIHI_00177	gene			
+ALJPEIHI_00178	CDS			hypothetical protein
+ALJPEIHI_00178	gene			
+ALJPEIHI_00179	CDS	pspA_1	3.1.3.3	Phosphoserine phosphatase 1
+ALJPEIHI_00179	gene	pspA_1		
+ALJPEIHI_00180	CDS			hypothetical protein
+ALJPEIHI_00180	gene			
+ALJPEIHI_00181	CDS			hypothetical protein
+ALJPEIHI_00181	gene			
+ALJPEIHI_00182	CDS			hypothetical protein
+ALJPEIHI_00182	gene			
+ALJPEIHI_00183	CDS	etfA		Electron transfer flavoprotein subunit alpha
+ALJPEIHI_00183	gene	etfA		
+ALJPEIHI_00184	CDS	etfB		Electron transfer flavoprotein subunit beta
+ALJPEIHI_00184	gene	etfB		
+ALJPEIHI_00185	CDS	dagK_1	2.7.1.107	Diacylglycerol kinase
+ALJPEIHI_00185	gene	dagK_1		
+ALJPEIHI_00186	CDS	ugpQ_1	3.1.4.46	Glycerophosphodiester phosphodiesterase, cytoplasmic
+ALJPEIHI_00186	gene	ugpQ_1		
+ALJPEIHI_00187	CDS	whiB1		Transcriptional regulator WhiB1
+ALJPEIHI_00187	gene	whiB1		
+ALJPEIHI_00188	CDS	pdtaS	2.7.13.3	putative sensor histidine kinase pdtaS
+ALJPEIHI_00188	gene	pdtaS		
+ALJPEIHI_00189	CDS			hypothetical protein
+ALJPEIHI_00189	gene			
+ALJPEIHI_00190	CDS	mrp_2		Iron-sulfur cluster carrier protein
+ALJPEIHI_00190	gene	mrp_2		
+ALJPEIHI_00191	CDS			hypothetical protein
+ALJPEIHI_00191	gene			
+ALJPEIHI_00192	CDS	ccmH		Cytochrome c-type biogenesis protein CcmH
+ALJPEIHI_00192	gene	ccmH		
+ALJPEIHI_00193	CDS	dsbE		Thiol:disulfide interchange protein DsbE
+ALJPEIHI_00193	gene	dsbE		
+ALJPEIHI_00194	CDS	ccmF		Cytochrome c-type biogenesis protein CcmF
+ALJPEIHI_00194	gene	ccmF		
+ALJPEIHI_00195	CDS	ccmE		Cytochrome c-type biogenesis protein CcmE
+ALJPEIHI_00195	gene	ccmE		
+ALJPEIHI_00196	CDS			hypothetical protein
+ALJPEIHI_00196	gene			
+ALJPEIHI_00197	CDS	ccmC		Heme exporter protein C
+ALJPEIHI_00197	gene	ccmC		
+ALJPEIHI_00198	CDS			hypothetical protein
+ALJPEIHI_00198	gene			
+ALJPEIHI_00199	CDS	natA		ABC transporter ATP-binding protein NatA
+ALJPEIHI_00199	gene	natA		
+ALJPEIHI_00200	CDS			hypothetical protein
+ALJPEIHI_00200	gene			
+ALJPEIHI_00201	CDS			hypothetical protein
+ALJPEIHI_00201	gene			
+ALJPEIHI_00202	CDS	rppH_1	3.6.1.-	RNA pyrophosphohydrolase
+ALJPEIHI_00202	gene	rppH_1		
+ALJPEIHI_00203	CDS		1.3.99.-	Putative acyl-CoA dehydrogenase FadE17
+ALJPEIHI_00203	gene			
+ALJPEIHI_00204	CDS	fecE		Fe(3+) dicitrate transport ATP-binding protein FecE
+ALJPEIHI_00204	gene	fecE		
+ALJPEIHI_00205	CDS	hmuU		Hemin transport system permease protein HmuU
+ALJPEIHI_00205	gene	hmuU		
+ALJPEIHI_00206	CDS	btuF		Vitamin B12-binding protein
+ALJPEIHI_00206	gene	btuF		
+ALJPEIHI_00207	CDS		3.5.1.77	N-carbamoyl-D-amino acid hydrolase
+ALJPEIHI_00207	gene			
+ALJPEIHI_00208	CDS	amaB	3.5.1.87	N-carbamoyl-L-amino acid hydrolase
+ALJPEIHI_00208	gene	amaB		
+ALJPEIHI_00209	CDS	pucD_1	1.17.1.4	putative xanthine dehydrogenase subunit D
+ALJPEIHI_00209	gene	pucD_1		
+ALJPEIHI_00210	CDS	ndhS	1.17.1.5	Nicotinate dehydrogenase small FeS subunit
+ALJPEIHI_00210	gene	ndhS		
+ALJPEIHI_00211	CDS	ndhF	1.17.1.5	Nicotinate dehydrogenase FAD-subunit
+ALJPEIHI_00211	gene	ndhF		
+ALJPEIHI_00212	CDS	gpt	2.4.2.22	Xanthine phosphoribosyltransferase
+ALJPEIHI_00212	gene	gpt		
+ALJPEIHI_00213	CDS		1.1.1.81	Hydroxypyruvate reductase
+ALJPEIHI_00213	gene			
+ALJPEIHI_00214	CDS			hypothetical protein
+ALJPEIHI_00214	gene			
+ALJPEIHI_00215	CDS	bshB1	3.5.1.-	N-acetyl-alpha-D-glucosaminyl L-malate deacetylase 1
+ALJPEIHI_00215	gene	bshB1		
+ALJPEIHI_00216	CDS	cofC	2.7.7.68	2-phospho-L-lactate guanylyltransferase
+ALJPEIHI_00216	gene	cofC		
+ALJPEIHI_00217	CDS	gpsA2	1.1.1.94	putative glycerol-3-phosphate dehydrogenase 2 [NAD(P)+]
+ALJPEIHI_00217	gene	gpsA2		
+ALJPEIHI_00218	CDS			hypothetical protein
+ALJPEIHI_00218	gene			
+ALJPEIHI_00219	CDS	rnhB	3.1.26.4	Ribonuclease HII
+ALJPEIHI_00219	gene	rnhB		
+ALJPEIHI_00220	CDS			hypothetical protein
+ALJPEIHI_00220	gene			
+ALJPEIHI_00221	CDS			hypothetical protein
+ALJPEIHI_00221	gene			
+ALJPEIHI_00222	CDS	ybgC_1	3.1.2.-	Acyl-CoA thioesterase YbgC
+ALJPEIHI_00222	gene	ybgC_1		
+ALJPEIHI_00223	CDS	fabG3	1.1.1.53	3-alpha-(or 20-beta)-hydroxysteroid dehydrogenase
+ALJPEIHI_00223	gene	fabG3		
+ALJPEIHI_00224	CDS	mca	3.5.1.115	Mycothiol S-conjugate amidase
+ALJPEIHI_00224	gene	mca		
+ALJPEIHI_00225	CDS			hypothetical protein
+ALJPEIHI_00225	gene			
+ALJPEIHI_00226	CDS			hypothetical protein
+ALJPEIHI_00226	gene			
+ALJPEIHI_00227	CDS	fadB2	1.1.1.157	3-hydroxybutyryl-CoA dehydrogenase
+ALJPEIHI_00227	gene	fadB2		
+ALJPEIHI_00228	CDS		1.-.-.-	Putative coenzyme F420-dependent oxidoreductase
+ALJPEIHI_00228	gene			
+ALJPEIHI_00229	CDS			hypothetical protein
+ALJPEIHI_00229	gene			
+ALJPEIHI_00230	CDS			hypothetical protein
+ALJPEIHI_00230	gene			
+ALJPEIHI_00231	CDS	menJ_1	1.3.-.-	Menaquinone reductase
+ALJPEIHI_00231	gene	menJ_1		
+ALJPEIHI_00232	CDS	vanW		Vancomycin B-type resistance protein VanW
+ALJPEIHI_00232	gene	vanW		
+ALJPEIHI_00233	CDS	nucS	3.1.-.-	Endonuclease NucS
+ALJPEIHI_00233	gene	nucS		
+ALJPEIHI_00234	CDS	cysQ_2	3.1.3.7	3'-phosphoadenosine 5'-phosphate phosphatase
+ALJPEIHI_00234	gene	cysQ_2		
+ALJPEIHI_00235	CDS			hypothetical protein
+ALJPEIHI_00235	gene			
+ALJPEIHI_00236	CDS	hemB	4.2.1.24	Delta-aminolevulinic acid dehydratase
+ALJPEIHI_00236	gene	hemB		
+ALJPEIHI_00237	CDS	hemL	5.4.3.8	Glutamate-1-semialdehyde 2,1-aminomutase
+ALJPEIHI_00237	gene	hemL		
+ALJPEIHI_00238	CDS	pgi	5.3.1.9	Glucose-6-phosphate isomerase
+ALJPEIHI_00238	gene	pgi		
+ALJPEIHI_00239	CDS			hypothetical protein
+ALJPEIHI_00239	gene			
+ALJPEIHI_00240	CDS			hypothetical protein
+ALJPEIHI_00240	gene			
+ALJPEIHI_00241	CDS	ndhI_1	1.6.5.11	NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+ALJPEIHI_00241	gene	ndhI_1		
+ALJPEIHI_00242	CDS	qcrB		Menaquinol-cytochrome c reductase cytochrome b subunit
+ALJPEIHI_00242	gene	qcrB		
+ALJPEIHI_00243	CDS			hypothetical protein
+ALJPEIHI_00243	gene			
+ALJPEIHI_00244	CDS	petC1	1.10.9.1	Cytochrome b6-f complex iron-sulfur subunit 1
+ALJPEIHI_00244	gene	petC1		
+ALJPEIHI_00245	CDS			hypothetical protein
+ALJPEIHI_00245	gene			
+ALJPEIHI_00246	CDS			hypothetical protein
+ALJPEIHI_00246	gene			
+ALJPEIHI_00247	CDS			hypothetical protein
+ALJPEIHI_00247	gene			
+ALJPEIHI_00248	CDS			hypothetical protein
+ALJPEIHI_00248	gene			
+ALJPEIHI_00249	CDS	groL1		60 kDa chaperonin 1
+ALJPEIHI_00249	gene	groL1		
+ALJPEIHI_00250	CDS			hypothetical protein
+ALJPEIHI_00250	gene			
+ALJPEIHI_00251	CDS	nudL	3.6.1.-	putative Nudix hydrolase NudL
+ALJPEIHI_00251	gene	nudL		
+ALJPEIHI_00252	CDS	tag	3.2.2.20	DNA-3-methyladenine glycosylase 1
+ALJPEIHI_00252	gene	tag		
+ALJPEIHI_00253	CDS			hypothetical protein
+ALJPEIHI_00253	gene			
+ALJPEIHI_00254	CDS	pyrE	2.4.2.10	Orotate phosphoribosyltransferase
+ALJPEIHI_00254	gene	pyrE		
+ALJPEIHI_00255	CDS	tauD_1	1.14.11.17	Alpha-ketoglutarate-dependent taurine dioxygenase
+ALJPEIHI_00255	gene	tauD_1		
+ALJPEIHI_00256	CDS	groS		10 kDa chaperonin
+ALJPEIHI_00256	gene	groS		
+ALJPEIHI_00257	CDS			hypothetical protein
+ALJPEIHI_00257	gene			
+ALJPEIHI_00258	CDS			hypothetical protein
+ALJPEIHI_00258	gene			
+ALJPEIHI_00259	CDS			hypothetical protein
+ALJPEIHI_00259	gene			
+ALJPEIHI_00260	CDS			hypothetical protein
+ALJPEIHI_00260	gene			
+ALJPEIHI_00261	CDS			hypothetical protein
+ALJPEIHI_00261	gene			
+ALJPEIHI_00262	CDS			hypothetical protein
+ALJPEIHI_00262	gene			
+ALJPEIHI_00263	CDS			Epimerase family protein
+ALJPEIHI_00263	gene			
+ALJPEIHI_00264	CDS			hypothetical protein
+ALJPEIHI_00264	gene			
+ALJPEIHI_00265	CDS	fbiC	2.5.1.77	FO synthase
+ALJPEIHI_00265	gene	fbiC		
+ALJPEIHI_00266	CDS			hypothetical protein
+ALJPEIHI_00266	gene			
+ALJPEIHI_00267	CDS	rnd	3.1.13.5	Ribonuclease D
+ALJPEIHI_00267	gene	rnd		
+ALJPEIHI_00268	CDS	glpE_1	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+ALJPEIHI_00268	gene	glpE_1		
+ALJPEIHI_00269	CDS	mobA	2.7.7.77	Molybdenum cofactor guanylyltransferase
+ALJPEIHI_00269	gene	mobA		
+ALJPEIHI_00270	CDS			hypothetical protein
+ALJPEIHI_00270	gene			
+ALJPEIHI_00271	CDS	pyk	2.7.1.40	Pyruvate kinase
+ALJPEIHI_00271	gene	pyk		
+ALJPEIHI_00272	CDS	ugpQ_2	3.1.4.46	Glycerophosphodiester phosphodiesterase, cytoplasmic
+ALJPEIHI_00272	gene	ugpQ_2		
+ALJPEIHI_00273	CDS			hypothetical protein
+ALJPEIHI_00273	gene			
+ALJPEIHI_00274	CDS			hypothetical protein
+ALJPEIHI_00274	gene			
+ALJPEIHI_00275	CDS	rsmG	2.1.1.-	Ribosomal RNA small subunit methyltransferase G
+ALJPEIHI_00275	gene	rsmG		
+ALJPEIHI_00276	CDS	soj	3.6.-.-	Sporulation initiation inhibitor protein Soj
+ALJPEIHI_00276	gene	soj		
+ALJPEIHI_00277	CDS	parB		putative chromosome-partitioning protein ParB
+ALJPEIHI_00277	gene	parB		
+ALJPEIHI_00278	CDS	cwlM	3.5.1.28	N-acetylmuramoyl-L-alanine amidase CwlM
+ALJPEIHI_00278	gene	cwlM		
+ALJPEIHI_00279	CDS	trxA_1		Thioredoxin
+ALJPEIHI_00279	gene	trxA_1		
+ALJPEIHI_00280	CDS	trxB	1.8.1.9	Thioredoxin reductase
+ALJPEIHI_00280	gene	trxB		
+ALJPEIHI_00281	CDS			hypothetical protein
+ALJPEIHI_00281	gene			
+ALJPEIHI_00282	CDS			hypothetical protein
+ALJPEIHI_00282	gene			
+ALJPEIHI_00283	CDS	sigE		ECF RNA polymerase sigma factor SigE
+ALJPEIHI_00283	gene	sigE		
+ALJPEIHI_00284	CDS			hypothetical protein
+ALJPEIHI_00284	gene			
+ALJPEIHI_00285	CDS		1.3.99.-	Acyl-CoA dehydrogenase fadE12
+ALJPEIHI_00285	gene			
+ALJPEIHI_00286	CDS			hypothetical protein
+ALJPEIHI_00286	gene			
+ALJPEIHI_00287	CDS			hypothetical protein
+ALJPEIHI_00287	gene			
+ALJPEIHI_00288	CDS	mtnN	3.2.2.9	5'-methylthioadenosine/S-adenosylhomocysteine nucleosidase
+ALJPEIHI_00288	gene	mtnN		
+ALJPEIHI_00289	CDS	fbiB_1	6.3.2.34	Coenzyme F420:L-glutamate ligase
+ALJPEIHI_00289	gene	fbiB_1		
+ALJPEIHI_00290	CDS			hypothetical protein
+ALJPEIHI_00290	gene			
+ALJPEIHI_00291	CDS	xylB_1	1.1.1.175	D-xylose 1-dehydrogenase
+ALJPEIHI_00291	gene	xylB_1		
+ALJPEIHI_00292	CDS	fetB		putative iron export permease protein FetB
+ALJPEIHI_00292	gene	fetB		
+ALJPEIHI_00293	CDS	aroK	2.7.1.71	Shikimate kinase
+ALJPEIHI_00293	gene	aroK		
+ALJPEIHI_00294	CDS	cetB	5.1.3.33	2-epi-5-epi-valiolone epimerase
+ALJPEIHI_00294	gene	cetB		
+ALJPEIHI_00295	tRNA			tRNA-Ser(cga)
+ALJPEIHI_00295	gene			
+ALJPEIHI_00296	CDS	menJ_2	1.3.-.-	Menaquinone reductase
+ALJPEIHI_00296	gene	menJ_2		
+ALJPEIHI_00297	CDS	tadA	3.5.4.33	tRNA-specific adenosine deaminase
+ALJPEIHI_00297	gene	tadA		
+ALJPEIHI_00298	CDS			hypothetical protein
+ALJPEIHI_00298	gene			
+ALJPEIHI_00299	CDS	estB_1	3.1.1.-	Esterase EstB
+ALJPEIHI_00299	gene	estB_1		
+ALJPEIHI_00300	tRNA			tRNA-Ser(gga)
+ALJPEIHI_00300	gene			
+ALJPEIHI_00301	CDS	dnaX_1	2.7.7.7	DNA polymerase III subunit gamma/tau
+ALJPEIHI_00301	gene	dnaX_1		
+ALJPEIHI_00302	CDS	recR		Recombination protein RecR
+ALJPEIHI_00302	gene	recR		
+ALJPEIHI_00303	CDS			hypothetical protein
+ALJPEIHI_00303	gene			
+ALJPEIHI_00304	CDS		2.3.1.9	putative acetyl-CoA acetyltransferase
+ALJPEIHI_00304	gene			
+ALJPEIHI_00305	CDS			hypothetical protein
+ALJPEIHI_00305	gene			
+ALJPEIHI_00306	CDS	polA_1	2.7.7.7	DNA polymerase I
+ALJPEIHI_00306	gene	polA_1		
+ALJPEIHI_00307	CDS		1.4.3.5	Putative pyridoxine/pyridoxamine 5'-phosphate oxidase
+ALJPEIHI_00307	gene			
+ALJPEIHI_00308	CDS			hypothetical protein
+ALJPEIHI_00308	gene			
+ALJPEIHI_00309	CDS		3.3.2.10	Soluble epoxide hydrolase
+ALJPEIHI_00309	gene			
+ALJPEIHI_00310	CDS	caeA	3.1.1.-	Carboxylesterase A
+ALJPEIHI_00310	gene	caeA		
+ALJPEIHI_00311	CDS		1.14.13.-	Putative epoxidase LasC
+ALJPEIHI_00311	gene			
+ALJPEIHI_00312	CDS	cypX_1	1.14.15.13	Pulcherriminic acid synthase
+ALJPEIHI_00312	gene	cypX_1		
+ALJPEIHI_00313	CDS			hypothetical protein
+ALJPEIHI_00313	gene			
+ALJPEIHI_00314	CDS			hypothetical protein
+ALJPEIHI_00314	gene			
+ALJPEIHI_00315	CDS	pafA	6.3.1.19	Pup--protein ligase
+ALJPEIHI_00315	gene	pafA		
+ALJPEIHI_00316	CDS	caiD_1	4.2.1.149	Carnitinyl-CoA dehydratase
+ALJPEIHI_00316	gene	caiD_1		
+ALJPEIHI_00317	CDS			hypothetical protein
+ALJPEIHI_00317	gene			
+ALJPEIHI_00318	CDS	whiB2_1		Transcriptional regulator WhiB2
+ALJPEIHI_00318	gene	whiB2_1		
+ALJPEIHI_00319	CDS	whiB2_2		Transcriptional regulator WhiB2
+ALJPEIHI_00319	gene	whiB2_2		
+ALJPEIHI_00320	CDS			hypothetical protein
+ALJPEIHI_00320	gene			
+ALJPEIHI_00321	CDS			hypothetical protein
+ALJPEIHI_00321	gene			
+ALJPEIHI_00322	CDS	pucD_2	1.17.1.4	putative xanthine dehydrogenase subunit D
+ALJPEIHI_00322	gene	pucD_2		
+ALJPEIHI_00323	CDS	dadD	3.5.4.31	5'-deoxyadenosine deaminase
+ALJPEIHI_00323	gene	dadD		
+ALJPEIHI_00324	CDS	fgd1_1	1.1.98.2	F420-dependent glucose-6-phosphate dehydrogenase 1
+ALJPEIHI_00324	gene	fgd1_1		
+ALJPEIHI_00325	CDS	nylA	3.5.2.12	6-aminohexanoate-cyclic-dimer hydrolase
+ALJPEIHI_00325	gene	nylA		
+ALJPEIHI_00326	CDS			hypothetical protein
+ALJPEIHI_00326	gene			
+ALJPEIHI_00327	CDS		3.5.4.32	8-oxoguanine deaminase
+ALJPEIHI_00327	gene			
+ALJPEIHI_00328	CDS	mftE	3.5.-.-	Putative mycofactocin system creatinine amidohydrolase family protein MftE
+ALJPEIHI_00328	gene	mftE		
+ALJPEIHI_00329	CDS		3.5.2.-	D-hydantoinase
+ALJPEIHI_00329	gene			
+ALJPEIHI_00330	CDS		1.2.-.-	Phthiodiolone/phenolphthiodiolone dimycocerosates ketoreductase
+ALJPEIHI_00330	gene			
+ALJPEIHI_00331	CDS			hypothetical protein
+ALJPEIHI_00331	gene			
+ALJPEIHI_00332	CDS			hypothetical protein
+ALJPEIHI_00332	gene			
+ALJPEIHI_00333	CDS	pucA_1	1.17.1.4	putative xanthine dehydrogenase subunit A
+ALJPEIHI_00333	gene	pucA_1		
+ALJPEIHI_00334	CDS	mtaD	3.5.4.28	5-methylthioadenosine/S-adenosylhomocysteine deaminase
+ALJPEIHI_00334	gene	mtaD		
+ALJPEIHI_00335	CDS		1.1.1.47	Glucose 1-dehydrogenase
+ALJPEIHI_00335	gene			
+ALJPEIHI_00336	CDS	xdhA	1.17.1.4	Putative xanthine dehydrogenase molybdenum-binding subunit XdhA
+ALJPEIHI_00336	gene	xdhA		
+ALJPEIHI_00337	CDS	dcd	3.5.4.13	dCTP deaminase
+ALJPEIHI_00337	gene	dcd		
+ALJPEIHI_00338	CDS			hypothetical protein
+ALJPEIHI_00338	gene			
+ALJPEIHI_00339	CDS	lutA		Lactate utilization protein A
+ALJPEIHI_00339	gene	lutA		
+ALJPEIHI_00340	CDS	amtB		Ammonia channel
+ALJPEIHI_00340	gene	amtB		
+ALJPEIHI_00341	CDS			hypothetical protein
+ALJPEIHI_00341	gene			
+ALJPEIHI_00342	CDS			hypothetical protein
+ALJPEIHI_00342	gene			
+ALJPEIHI_00343	CDS	pepA	3.4.11.1	putative cytosol aminopeptidase
+ALJPEIHI_00343	gene	pepA		
+ALJPEIHI_00344	CDS			hypothetical protein
+ALJPEIHI_00344	gene			
+ALJPEIHI_00345	CDS	cobB	3.5.1.-	NAD-dependent protein deacetylase
+ALJPEIHI_00345	gene	cobB		
+ALJPEIHI_00346	CDS	moeZ		putative adenylyltransferase/sulfurtransferase MoeZ
+ALJPEIHI_00346	gene	moeZ		
+ALJPEIHI_00347	CDS	epsE	2.4.-.-	Putative glycosyltransferase EpsE
+ALJPEIHI_00347	gene	epsE		
+ALJPEIHI_00348	CDS	wecA	2.7.8.40	UDP-N-acetylgalactosamine-undecaprenyl-phosphate N-acetylgalactosaminephosphotransferase
+ALJPEIHI_00348	gene	wecA		
+ALJPEIHI_00349	CDS	accC	6.3.4.14	Biotin carboxylase
+ALJPEIHI_00349	gene	accC		
+ALJPEIHI_00350	CDS			hypothetical protein
+ALJPEIHI_00350	gene			
+ALJPEIHI_00351	CDS	fadA5_1	2.3.1.16	Steroid 3-ketoacyl-CoA thiolase
+ALJPEIHI_00351	gene	fadA5_1		
+ALJPEIHI_00352	CDS		1.1.1.-	Putative short-chain type dehydrogenase/reductase
+ALJPEIHI_00352	gene			
+ALJPEIHI_00353	CDS	fabG2_1	1.-.-.-	putative oxidoreductase
+ALJPEIHI_00353	gene	fabG2_1		
+ALJPEIHI_00354	CDS	uctC_1	2.8.3.19	Acetyl-CoA:oxalate CoA-transferase
+ALJPEIHI_00354	gene	uctC_1		
+ALJPEIHI_00355	CDS		1.-.-.-	Putative coenzyme F420-dependent oxidoreductase
+ALJPEIHI_00355	gene			
+ALJPEIHI_00356	CDS	gloC_1	3.1.2.6	Hydroxyacylglutathione hydrolase GloC
+ALJPEIHI_00356	gene	gloC_1		
+ALJPEIHI_00357	CDS		1.-.-.-	putative oxidoreductase
+ALJPEIHI_00357	gene			
+ALJPEIHI_00358	CDS		2.8.3.-	Putative CoA-transferase subunit alpha
+ALJPEIHI_00358	gene			
+ALJPEIHI_00359	CDS		2.8.3.-	Putative CoA-transferase subunit beta
+ALJPEIHI_00359	gene			
+ALJPEIHI_00360	CDS			hypothetical protein
+ALJPEIHI_00360	gene			
+ALJPEIHI_00361	CDS		2.4.2.45	Decaprenyl-phosphate phosphoribosyltransferase
+ALJPEIHI_00361	gene			
+ALJPEIHI_00362	CDS	lpdG	1.8.1.4	Dihydrolipoyl dehydrogenase
+ALJPEIHI_00362	gene	lpdG		
+ALJPEIHI_00363	CDS	lipA	2.8.1.8	Lipoyl synthase
+ALJPEIHI_00363	gene	lipA		
+ALJPEIHI_00364	CDS	pepE	3.4.13.-	putative dipeptidase PepE
+ALJPEIHI_00364	gene	pepE		
+ALJPEIHI_00365	CDS			hypothetical protein
+ALJPEIHI_00365	gene			
+ALJPEIHI_00366	CDS			hypothetical protein
+ALJPEIHI_00366	gene			
+ALJPEIHI_00367	CDS			hypothetical protein
+ALJPEIHI_00367	gene			
+ALJPEIHI_00368	CDS		2.7.7.70	D-beta-D-heptose 1-phosphate adenylyltransferase
+ALJPEIHI_00368	gene			
+ALJPEIHI_00369	CDS	fbiB_2	6.3.2.31	Coenzyme F420:L-glutamate ligase
+ALJPEIHI_00369	gene	fbiB_2		
+ALJPEIHI_00370	CDS	cofD	2.7.8.28	2-phospho-L-lactate transferase
+ALJPEIHI_00370	gene	cofD		
+ALJPEIHI_00371	CDS	gmd	4.2.1.47	GDP-mannose 4,6-dehydratase
+ALJPEIHI_00371	gene	gmd		
+ALJPEIHI_00372	CDS	rmd	1.1.1.281	GDP-6-deoxy-D-mannose reductase
+ALJPEIHI_00372	gene	rmd		
+ALJPEIHI_00373	CDS			hypothetical protein
+ALJPEIHI_00373	gene			
+ALJPEIHI_00374	CDS			hypothetical protein
+ALJPEIHI_00374	gene			
+ALJPEIHI_00375	CDS			hypothetical protein
+ALJPEIHI_00375	gene			
+ALJPEIHI_00376	CDS	ftsH	3.4.24.-	ATP-dependent zinc metalloprotease FtsH
+ALJPEIHI_00376	gene	ftsH		
+ALJPEIHI_00377	CDS			hypothetical protein
+ALJPEIHI_00377	gene			
+ALJPEIHI_00378	CDS	livF_1		High-affinity branched-chain amino acid transport ATP-binding protein LivF
+ALJPEIHI_00378	gene	livF_1		
+ALJPEIHI_00379	CDS	livH_1		High-affinity branched-chain amino acid transport system permease protein LivH
+ALJPEIHI_00379	gene	livH_1		
+ALJPEIHI_00380	CDS			hypothetical protein
+ALJPEIHI_00380	gene			
+ALJPEIHI_00381	CDS	pigC_2	6.4.-.-	Prodigiosin synthesizing transferase PigC
+ALJPEIHI_00381	gene	pigC_2		
+ALJPEIHI_00382	CDS			hypothetical protein
+ALJPEIHI_00382	gene			
+ALJPEIHI_00383	CDS			hypothetical protein
+ALJPEIHI_00383	gene			
+ALJPEIHI_00384	CDS	thlA	2.3.1.9	Acetyl-CoA acetyltransferase
+ALJPEIHI_00384	gene	thlA		
+ALJPEIHI_00385	CDS			hypothetical protein
+ALJPEIHI_00385	gene			
+ALJPEIHI_00386	CDS		1.13.11.-	Carotenoid cleavage oxygenase
+ALJPEIHI_00386	gene			
+ALJPEIHI_00387	CDS	caiD_2	4.2.1.149	Carnitinyl-CoA dehydratase
+ALJPEIHI_00387	gene	caiD_2		
+ALJPEIHI_00388	CDS	clcD	3.1.1.45	Carboxymethylenebutenolidase
+ALJPEIHI_00388	gene	clcD		
+ALJPEIHI_00389	CDS	kduD_1	1.1.1.127	2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase
+ALJPEIHI_00389	gene	kduD_1		
+ALJPEIHI_00390	CDS		1.6.5.11	NADH-quinone oxidoreductase subunit 11
+ALJPEIHI_00390	gene			
+ALJPEIHI_00391	CDS	nuoL_1	1.6.5.11	NADH-quinone oxidoreductase subunit L
+ALJPEIHI_00391	gene	nuoL_1		
+ALJPEIHI_00392	CDS	nuoM	1.6.5.11	NADH-quinone oxidoreductase subunit M
+ALJPEIHI_00392	gene	nuoM		
+ALJPEIHI_00393	CDS	yhdW		Putative amino-acid ABC transporter-binding protein YhdW
+ALJPEIHI_00393	gene	yhdW		
+ALJPEIHI_00394	CDS		3.1.3.3	Phosphoserine phosphatase
+ALJPEIHI_00394	gene			
+ALJPEIHI_00395	CDS	pkn1	2.7.11.1	Serine/threonine-protein kinase pkn1
+ALJPEIHI_00395	gene	pkn1		
+ALJPEIHI_00396	CDS	suaB		Ferredoxin-1
+ALJPEIHI_00396	gene	suaB		
+ALJPEIHI_00397	CDS			hypothetical protein
+ALJPEIHI_00397	gene			
+ALJPEIHI_00398	CDS			hypothetical protein
+ALJPEIHI_00398	gene			
+ALJPEIHI_00399	CDS			hypothetical protein
+ALJPEIHI_00399	gene			
+ALJPEIHI_00400	CDS			hypothetical protein
+ALJPEIHI_00400	gene			
+ALJPEIHI_00401	CDS			hypothetical protein
+ALJPEIHI_00401	gene			
+ALJPEIHI_00402	CDS	adhD	1.1.1.1	Putative alcohol dehydrogenase D
+ALJPEIHI_00402	gene	adhD		
+ALJPEIHI_00403	CDS			hypothetical protein
+ALJPEIHI_00403	gene			
+ALJPEIHI_00404	CDS		1.-.-.-	Putative coenzyme F420-dependent oxidoreductase
+ALJPEIHI_00404	gene			
+ALJPEIHI_00405	CDS	fadK	6.2.1.-	Short-chain-fatty-acid--CoA ligase
+ALJPEIHI_00405	gene	fadK		
+ALJPEIHI_00406	CDS			hypothetical protein
+ALJPEIHI_00406	gene			
+ALJPEIHI_00407	CDS	gnl	3.1.1.17	Gluconolactonase
+ALJPEIHI_00407	gene	gnl		
+ALJPEIHI_00408	CDS			hypothetical protein
+ALJPEIHI_00408	gene			
+ALJPEIHI_00409	CDS		1.3.99.-	Acyl-CoA dehydrogenase FadE27
+ALJPEIHI_00409	gene			
+ALJPEIHI_00410	CDS			hypothetical protein
+ALJPEIHI_00410	gene			
+ALJPEIHI_00411	CDS			hypothetical protein
+ALJPEIHI_00411	gene			
+ALJPEIHI_00412	CDS		2.7.1.-	Putative aminoglycoside phosphotransferase
+ALJPEIHI_00412	gene			
+ALJPEIHI_00413	CDS			hypothetical protein
+ALJPEIHI_00413	gene			
+ALJPEIHI_00414	CDS	fabG_1	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+ALJPEIHI_00414	gene	fabG_1		
+ALJPEIHI_00415	CDS			hypothetical protein
+ALJPEIHI_00415	gene			
+ALJPEIHI_00416	CDS	dinG	3.6.4.12	putative ATP-dependent helicase DinG 
+ALJPEIHI_00416	gene	dinG		
+ALJPEIHI_00417	CDS	glpE_2	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+ALJPEIHI_00417	gene	glpE_2		
+ALJPEIHI_00418	CDS	acr1	1.2.1.-	Fatty acyl-CoA reductase
+ALJPEIHI_00418	gene	acr1		
+ALJPEIHI_00419	CDS	dmdC	1.3.8.-	3-methylmercaptopropionyl-CoA dehydrogenase
+ALJPEIHI_00419	gene	dmdC		
+ALJPEIHI_00420	CDS			hypothetical protein
+ALJPEIHI_00420	gene			
+ALJPEIHI_00421	CDS	resA_1		Thiol-disulfide oxidoreductase ResA
+ALJPEIHI_00421	gene	resA_1		
+ALJPEIHI_00422	CDS	ygfZ		tRNA-modifying protein YgfZ
+ALJPEIHI_00422	gene	ygfZ		
+ALJPEIHI_00423	CDS	trpC	4.1.1.48	Indole-3-glycerol phosphate synthase
+ALJPEIHI_00423	gene	trpC		
+ALJPEIHI_00424	CDS	trpF	5.3.1.24	N-(5'-phosphoribosyl)anthranilate isomerase
+ALJPEIHI_00424	gene	trpF		
+ALJPEIHI_00425	CDS	trpB	4.2.1.20	Tryptophan synthase beta chain
+ALJPEIHI_00425	gene	trpB		
+ALJPEIHI_00426	CDS	trpA	4.2.1.20	Tryptophan synthase alpha chain
+ALJPEIHI_00426	gene	trpA		
+ALJPEIHI_00427	CDS			hypothetical protein
+ALJPEIHI_00427	gene			
+ALJPEIHI_00428	CDS		1.3.99.-	Putative acyl-CoA dehydrogenase FadE17
+ALJPEIHI_00428	gene			
+ALJPEIHI_00429	CDS	paaJ	2.3.1.174	3-oxoadipyl-CoA/3-oxo-5,6-dehydrosuberyl-CoA thiolase
+ALJPEIHI_00429	gene	paaJ		
+ALJPEIHI_00430	CDS	paaF_1	4.2.1.17	2,3-dehydroadipyl-CoA hydratase
+ALJPEIHI_00430	gene	paaF_1		
+ALJPEIHI_00431	CDS	menE_1	6.2.1.26	2-succinylbenzoate--CoA ligase
+ALJPEIHI_00431	gene	menE_1		
+ALJPEIHI_00432	CDS			hypothetical protein
+ALJPEIHI_00432	gene			
+ALJPEIHI_00433	CDS	cshE	3.6.4.13	DEAD-box ATP-dependent RNA helicase CshE
+ALJPEIHI_00433	gene	cshE		
+ALJPEIHI_00434	CDS		2.1.1.72	Modification methylase Eco57IB
+ALJPEIHI_00434	gene			
+ALJPEIHI_00435	CDS			hypothetical protein
+ALJPEIHI_00435	gene			
+ALJPEIHI_00436	CDS			putative HIT-like protein
+ALJPEIHI_00436	gene			
+ALJPEIHI_00437	rRNA			23S ribosomal RNA
+ALJPEIHI_00437	gene			
+ALJPEIHI_00438	CDS			hypothetical protein
+ALJPEIHI_00438	gene			
+ALJPEIHI_00439	CDS	pckA	4.1.1.49	Phosphoenolpyruvate carboxykinase (ATP)
+ALJPEIHI_00439	gene	pckA		
+ALJPEIHI_00440	CDS			hypothetical protein
+ALJPEIHI_00440	gene			
+ALJPEIHI_00441	CDS			hypothetical protein
+ALJPEIHI_00441	gene			
+ALJPEIHI_00442	CDS	recG	3.6.4.12	ATP-dependent DNA helicase RecG
+ALJPEIHI_00442	gene	recG		
+ALJPEIHI_00443	CDS			hypothetical protein
+ALJPEIHI_00443	gene			
+ALJPEIHI_00444	CDS	rsmD	2.1.1.171	Ribosomal RNA small subunit methyltransferase D
+ALJPEIHI_00444	gene	rsmD		
+ALJPEIHI_00445	CDS	coaD_1	2.7.7.3	Phosphopantetheine adenylyltransferase
+ALJPEIHI_00445	gene	coaD_1		
+ALJPEIHI_00446	CDS			hypothetical protein
+ALJPEIHI_00446	gene			
+ALJPEIHI_00447	CDS			hypothetical protein
+ALJPEIHI_00447	gene			
+ALJPEIHI_00448	CDS	plsX	2.3.1.-	Phosphate acyltransferase
+ALJPEIHI_00448	gene	plsX		
+ALJPEIHI_00449	CDS	acpP_1		Acyl carrier protein
+ALJPEIHI_00449	gene	acpP_1		
+ALJPEIHI_00450	CDS	rnc	3.1.26.3	Ribonuclease 3
+ALJPEIHI_00450	gene	rnc		
+ALJPEIHI_00451	CDS	mutM_1	3.2.2.23	Formamidopyrimidine-DNA glycosylase
+ALJPEIHI_00451	gene	mutM_1		
+ALJPEIHI_00452	CDS	smc_1		Chromosome partition protein Smc
+ALJPEIHI_00452	gene	smc_1		
+ALJPEIHI_00453	CDS	degP	3.4.21.107	Periplasmic serine endoprotease DegP
+ALJPEIHI_00453	gene	degP		
+ALJPEIHI_00454	CDS	ftsY		Signal recognition particle receptor FtsY
+ALJPEIHI_00454	gene	ftsY		
+ALJPEIHI_00455	CDS	ffh		Signal recognition particle protein
+ALJPEIHI_00455	gene	ffh		
+ALJPEIHI_00456	CDS	carC_2	1.3.1.108	Caffeyl-CoA reductase-Etf complex subunit CarC
+ALJPEIHI_00456	gene	carC_2		
+ALJPEIHI_00457	CDS		1.3.99.-	Acyl-CoA dehydrogenase FadE26
+ALJPEIHI_00457	gene			
+ALJPEIHI_00458	CDS			hypothetical protein
+ALJPEIHI_00458	gene			
+ALJPEIHI_00459	CDS		1.3.99.-	Putative acyl-CoA dehydrogenase FadE17
+ALJPEIHI_00459	gene			
+ALJPEIHI_00460	CDS	ctaB	2.5.1.-	Protoheme IX farnesyltransferase
+ALJPEIHI_00460	gene	ctaB		
+ALJPEIHI_00461	CDS	coxS_1	1.2.5.3	Carbon monoxide dehydrogenase small chain
+ALJPEIHI_00461	gene	coxS_1		
+ALJPEIHI_00462	CDS	cutL_1	1.2.5.3	Carbon monoxide dehydrogenase large chain
+ALJPEIHI_00462	gene	cutL_1		
+ALJPEIHI_00463	CDS			hypothetical protein
+ALJPEIHI_00463	gene			
+ALJPEIHI_00464	CDS	pcrA_1	3.6.4.12	ATP-dependent DNA helicase PcrA
+ALJPEIHI_00464	gene	pcrA_1		
+ALJPEIHI_00465	CDS			hypothetical protein
+ALJPEIHI_00465	gene			
+ALJPEIHI_00466	CDS			hypothetical protein
+ALJPEIHI_00466	gene			
+ALJPEIHI_00467	CDS	fbpA		Fe(3+)-binding periplasmic protein
+ALJPEIHI_00467	gene	fbpA		
+ALJPEIHI_00468	CDS	potA	3.6.3.31	Spermidine/putrescine import ATP-binding protein PotA
+ALJPEIHI_00468	gene	potA		
+ALJPEIHI_00469	CDS			hypothetical protein
+ALJPEIHI_00469	gene			
+ALJPEIHI_00470	CDS			hypothetical protein
+ALJPEIHI_00470	gene			
+ALJPEIHI_00471	CDS	bamB		Outer membrane protein assembly factor BamB
+ALJPEIHI_00471	gene	bamB		
+ALJPEIHI_00472	CDS		3.5.1.111	2-oxoglutaramate amidase
+ALJPEIHI_00472	gene			
+ALJPEIHI_00473	CDS	dapC	2.6.1.17	putative N-succinyldiaminopimelate aminotransferase DapC
+ALJPEIHI_00473	gene	dapC		
+ALJPEIHI_00474	CDS	sufB		FeS cluster assembly protein SufB
+ALJPEIHI_00474	gene	sufB		
+ALJPEIHI_00475	CDS	yidA	3.1.3.23	Sugar phosphatase YidA
+ALJPEIHI_00475	gene	yidA		
+ALJPEIHI_00476	CDS	sufD		FeS cluster assembly protein SufD
+ALJPEIHI_00476	gene	sufD		
+ALJPEIHI_00477	CDS	hcaC		3-phenylpropionate/cinnamic acid dioxygenase ferredoxin subunit
+ALJPEIHI_00477	gene	hcaC		
+ALJPEIHI_00478	CDS	sufC_1		Vegetative protein 296
+ALJPEIHI_00478	gene	sufC_1		
+ALJPEIHI_00479	CDS	phhB	4.2.1.96	Putative pterin-4-alpha-carbinolamine dehydratase
+ALJPEIHI_00479	gene	phhB		
+ALJPEIHI_00480	CDS	lvr_2	1.1.1.-	Levodione reductase
+ALJPEIHI_00480	gene	lvr_2		
+ALJPEIHI_00481	CDS			hypothetical protein
+ALJPEIHI_00481	gene			
+ALJPEIHI_00482	CDS	yjcS_1	3.1.6.-	Putative alkyl/aryl-sulfatase YjcS
+ALJPEIHI_00482	gene	yjcS_1		
+ALJPEIHI_00483	CDS	sufU	2.-.-.-	Zinc-dependent sulfurtransferase SufU
+ALJPEIHI_00483	gene	sufU		
+ALJPEIHI_00484	CDS	sufS_2	2.8.1.7	Cysteine desulfurase SufS
+ALJPEIHI_00484	gene	sufS_2		
+ALJPEIHI_00485	CDS	sufC_2		Vegetative protein 296
+ALJPEIHI_00485	gene	sufC_2		
+ALJPEIHI_00486	CDS	gloC_2	3.1.2.6	Hydroxyacylglutathione hydrolase GloC
+ALJPEIHI_00486	gene	gloC_2		
+ALJPEIHI_00487	CDS			hypothetical protein
+ALJPEIHI_00487	gene			
+ALJPEIHI_00488	CDS			hypothetical protein
+ALJPEIHI_00488	gene			
+ALJPEIHI_00489	CDS			hypothetical protein
+ALJPEIHI_00489	gene			
+ALJPEIHI_00490	CDS			hypothetical protein
+ALJPEIHI_00490	gene			
+ALJPEIHI_00491	CDS	rnhA	3.1.26.4	Ribonuclease H
+ALJPEIHI_00491	gene	rnhA		
+ALJPEIHI_00492	CDS	gabT	2.6.1.19	4-aminobutyrate aminotransferase GabT
+ALJPEIHI_00492	gene	gabT		
+ALJPEIHI_00493	CDS	puuB	1.4.3.-	Gamma-glutamylputrescine oxidoreductase
+ALJPEIHI_00493	gene	puuB		
+ALJPEIHI_00494	CDS	bauA	2.6.1.18	Beta-alanine--pyruvate aminotransferase
+ALJPEIHI_00494	gene	bauA		
+ALJPEIHI_00495	CDS		1.-.-.-	NADH oxidase
+ALJPEIHI_00495	gene			
+ALJPEIHI_00496	CDS	paaF_2	4.2.1.17	2,3-dehydroadipyl-CoA hydratase
+ALJPEIHI_00496	gene	paaF_2		
+ALJPEIHI_00497	CDS	manA	5.3.1.8	Mannose-6-phosphate isomerase
+ALJPEIHI_00497	gene	manA		
+ALJPEIHI_00498	CDS			hypothetical protein
+ALJPEIHI_00498	gene			
+ALJPEIHI_00499	CDS	sepF_1		Cell division protein SepF
+ALJPEIHI_00499	gene	sepF_1		
+ALJPEIHI_00500	CDS	aspS	6.1.1.12	Aspartate--tRNA ligase
+ALJPEIHI_00500	gene	aspS		
+ALJPEIHI_00501	CDS			hypothetical protein
+ALJPEIHI_00501	gene			
+ALJPEIHI_00502	CDS			hypothetical protein
+ALJPEIHI_00502	gene			
+ALJPEIHI_00503	CDS			hypothetical protein
+ALJPEIHI_00503	gene			
+ALJPEIHI_00504	CDS		1.14.13.141	Steroid C26-monooxygenase
+ALJPEIHI_00504	gene			
+ALJPEIHI_00505	CDS			hypothetical protein
+ALJPEIHI_00505	gene			
+ALJPEIHI_00506	CDS			hypothetical protein
+ALJPEIHI_00506	gene			
+ALJPEIHI_00507	CDS	rplI		50S ribosomal protein L9
+ALJPEIHI_00507	gene	rplI		
+ALJPEIHI_00508	CDS	rpsR1		30S ribosomal protein S18 1
+ALJPEIHI_00508	gene	rpsR1		
+ALJPEIHI_00509	CDS	ssb		Single-stranded DNA-binding protein
+ALJPEIHI_00509	gene	ssb		
+ALJPEIHI_00510	CDS	rpsF		30S ribosomal protein S6
+ALJPEIHI_00510	gene	rpsF		
+ALJPEIHI_00511	CDS	panB	2.1.2.11	3-methyl-2-oxobutanoate hydroxymethyltransferase
+ALJPEIHI_00511	gene	panB		
+ALJPEIHI_00512	CDS	luxB_1	1.14.14.3	Alkanal monooxygenase beta chain
+ALJPEIHI_00512	gene	luxB_1		
+ALJPEIHI_00513	CDS			hypothetical protein
+ALJPEIHI_00513	gene			
+ALJPEIHI_00514	CDS	cca	2.7.7.72	CCA-adding enzyme
+ALJPEIHI_00514	gene	cca		
+ALJPEIHI_00515	CDS	hdaH	3.5.1.-	Histone deacetylase-like amidohydrolase
+ALJPEIHI_00515	gene	hdaH		
+ALJPEIHI_00516	CDS			DegV domain-containing protein
+ALJPEIHI_00516	gene			
+ALJPEIHI_00517	CDS			hypothetical protein
+ALJPEIHI_00517	gene			
+ALJPEIHI_00518	CDS	fadD3_1	6.2.1.41	3-[(3aS,4S,7aS)-7a-methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoyl:CoA ligase
+ALJPEIHI_00518	gene	fadD3_1		
+ALJPEIHI_00519	CDS			hypothetical protein
+ALJPEIHI_00519	gene			
+ALJPEIHI_00520	CDS	selD	2.7.9.3	Selenide, water dikinase
+ALJPEIHI_00520	gene	selD		
+ALJPEIHI_00521	CDS	acnA	4.2.1.3	Aconitate hydratase A
+ALJPEIHI_00521	gene	acnA		
+ALJPEIHI_00522	CDS	oxyR		Hydrogen peroxide-inducible genes activator
+ALJPEIHI_00522	gene	oxyR		
+ALJPEIHI_00523	CDS	pccB_2	6.4.1.3	Propionyl-CoA carboxylase beta chain
+ALJPEIHI_00523	gene	pccB_2		
+ALJPEIHI_00524	CDS	aarA	2.3.3.16	Citrate synthase
+ALJPEIHI_00524	gene	aarA		
+ALJPEIHI_00525	CDS	rsmE	2.1.1.193	Ribosomal RNA small subunit methyltransferase E
+ALJPEIHI_00525	gene	rsmE		
+ALJPEIHI_00526	CDS	dnaJ		Chaperone protein DnaJ
+ALJPEIHI_00526	gene	dnaJ		
+ALJPEIHI_00527	CDS	lepA	3.6.5.-	Elongation factor 4
+ALJPEIHI_00527	gene	lepA		
+ALJPEIHI_00528	CDS	rpsT		30S ribosomal protein S20
+ALJPEIHI_00528	gene	rpsT		
+ALJPEIHI_00529	CDS			hypothetical protein
+ALJPEIHI_00529	gene			
+ALJPEIHI_00530	CDS	trxA_2		Thioredoxin
+ALJPEIHI_00530	gene	trxA_2		
+ALJPEIHI_00531	CDS	dop	3.4.-.-	Depupylase
+ALJPEIHI_00531	gene	dop		
+ALJPEIHI_00532	CDS	pup		Prokaryotic ubiquitin-like protein Pup
+ALJPEIHI_00532	gene	pup		
+ALJPEIHI_00533	CDS	prcB	3.4.25.1	Proteasome subunit beta
+ALJPEIHI_00533	gene	prcB		
+ALJPEIHI_00534	CDS	prcA1	3.4.25.1	Proteasome subunit alpha 1
+ALJPEIHI_00534	gene	prcA1		
+ALJPEIHI_00535	CDS			hypothetical protein
+ALJPEIHI_00535	gene			
+ALJPEIHI_00536	CDS	nnr		Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+ALJPEIHI_00536	gene	nnr		
+ALJPEIHI_00537	CDS	glmS	2.6.1.16	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+ALJPEIHI_00537	gene	glmS		
+ALJPEIHI_00538	CDS	glmM	5.4.2.10	Phosphoglucosamine mutase
+ALJPEIHI_00538	gene	glmM		
+ALJPEIHI_00539	CDS			hypothetical protein
+ALJPEIHI_00539	gene			
+ALJPEIHI_00540	CDS	hutI_1	3.5.2.7	Imidazolonepropionase
+ALJPEIHI_00540	gene	hutI_1		
+ALJPEIHI_00541	CDS			hypothetical protein
+ALJPEIHI_00541	gene			
+ALJPEIHI_00542	CDS	gdhI_1	1.1.1.47	Glucose 1-dehydrogenase 1
+ALJPEIHI_00542	gene	gdhI_1		
+ALJPEIHI_00543	CDS			hypothetical protein
+ALJPEIHI_00543	gene			
+ALJPEIHI_00544	CDS			hypothetical protein
+ALJPEIHI_00544	gene			
+ALJPEIHI_00545	CDS	penE	1.14.13.170	Pentalenolactone D synthase
+ALJPEIHI_00545	gene	penE		
+ALJPEIHI_00546	CDS	phrB	4.1.99.3	Deoxyribodipyrimidine photo-lyase
+ALJPEIHI_00546	gene	phrB		
+ALJPEIHI_00547	CDS			hypothetical protein
+ALJPEIHI_00547	gene			
+ALJPEIHI_00548	CDS			hypothetical protein
+ALJPEIHI_00548	gene			
+ALJPEIHI_00549	CDS		3.5.3.18	N(G),N(G)-dimethylarginine dimethylaminohydrolase
+ALJPEIHI_00549	gene			
+ALJPEIHI_00550	CDS	yecD	3.-.-.-	Isochorismatase family protein YecD
+ALJPEIHI_00550	gene	yecD		
+ALJPEIHI_00551	CDS			hypothetical protein
+ALJPEIHI_00551	gene			
+ALJPEIHI_00552	CDS	yhdJ	2.1.1.72	DNA adenine methyltransferase YhdJ
+ALJPEIHI_00552	gene	yhdJ		
+ALJPEIHI_00553	CDS			hypothetical protein
+ALJPEIHI_00553	gene			
+ALJPEIHI_00554	CDS			hypothetical protein
+ALJPEIHI_00554	gene			
+ALJPEIHI_00555	CDS			hypothetical protein
+ALJPEIHI_00555	gene			
+ALJPEIHI_00556	CDS		1.-.-.-	putative FAD-linked oxidoreductase
+ALJPEIHI_00556	gene			
+ALJPEIHI_00557	CDS			hypothetical protein
+ALJPEIHI_00557	gene			
+ALJPEIHI_00558	CDS	tatA		Sec-independent protein translocase protein TatA
+ALJPEIHI_00558	gene	tatA		
+ALJPEIHI_00559	CDS	yfdE	2.8.3.19	Acetyl-CoA:oxalate CoA-transferase
+ALJPEIHI_00559	gene	yfdE		
+ALJPEIHI_00560	CDS		3.5.1.29	2-(acetamidomethylene)succinate hydrolase
+ALJPEIHI_00560	gene			
+ALJPEIHI_00561	CDS	hapE	1.14.13.84	4-hydroxyacetophenone monooxygenase
+ALJPEIHI_00561	gene	hapE		
+ALJPEIHI_00562	CDS			hypothetical protein
+ALJPEIHI_00562	gene			
+ALJPEIHI_00563	CDS			hypothetical protein
+ALJPEIHI_00563	gene			
+ALJPEIHI_00564	CDS		1.1.1.306	S-(hydroxymethyl)mycothiol dehydrogenase
+ALJPEIHI_00564	gene			
+ALJPEIHI_00565	CDS	patB	4.4.1.8	Cystathionine beta-lyase PatB
+ALJPEIHI_00565	gene	patB		
+ALJPEIHI_00566	CDS	nrdJ	1.17.4.1	Vitamin B12-dependent ribonucleotide reductase
+ALJPEIHI_00566	gene	nrdJ		
+ALJPEIHI_00567	CDS			hypothetical protein
+ALJPEIHI_00567	gene			
+ALJPEIHI_00568	CDS			hypothetical protein
+ALJPEIHI_00568	gene			
+ALJPEIHI_00569	CDS	tauD_2	1.14.11.17	Alpha-ketoglutarate-dependent taurine dioxygenase
+ALJPEIHI_00569	gene	tauD_2		
+ALJPEIHI_00570	CDS			hypothetical protein
+ALJPEIHI_00570	gene			
+ALJPEIHI_00571	CDS		3.6.-.-	putative GTPase
+ALJPEIHI_00571	gene			
+ALJPEIHI_00572	CDS		5.4.99.-	Pivalyl-CoA mutase small subunit
+ALJPEIHI_00572	gene			
+ALJPEIHI_00573	CDS	mutB_1	5.4.99.2	Methylmalonyl-CoA mutase large subunit
+ALJPEIHI_00573	gene	mutB_1		
+ALJPEIHI_00574	CDS	lcfB_2	6.2.1.3	Long-chain-fatty-acid--CoA ligase
+ALJPEIHI_00574	gene	lcfB_2		
+ALJPEIHI_00575	CDS		1.-.-.-	Putative coenzyme F420-dependent oxidoreductase
+ALJPEIHI_00575	gene			
+ALJPEIHI_00576	CDS	oppF		Oligopeptide transport ATP-binding protein OppF
+ALJPEIHI_00576	gene	oppF		
+ALJPEIHI_00577	CDS	oppD		Oligopeptide transport ATP-binding protein OppD
+ALJPEIHI_00577	gene	oppD		
+ALJPEIHI_00578	CDS	oppC		Oligopeptide transport system permease protein OppC
+ALJPEIHI_00578	gene	oppC		
+ALJPEIHI_00579	CDS	gsiC		Glutathione transport system permease protein GsiC
+ALJPEIHI_00579	gene	gsiC		
+ALJPEIHI_00580	CDS	nikA		Nickel-binding periplasmic protein
+ALJPEIHI_00580	gene	nikA		
+ALJPEIHI_00581	CDS			hypothetical protein
+ALJPEIHI_00581	gene			
+ALJPEIHI_00582	CDS	fkbP_1	5.2.1.8	FK506-binding protein
+ALJPEIHI_00582	gene	fkbP_1		
+ALJPEIHI_00583	CDS			hypothetical protein
+ALJPEIHI_00583	gene			
+ALJPEIHI_00584	CDS		2.1.1.-	Putative TrmH family tRNA/rRNA methyltransferase
+ALJPEIHI_00584	gene			
+ALJPEIHI_00585	CDS	cysS	6.1.1.16	Cysteine--tRNA ligase
+ALJPEIHI_00585	gene	cysS		
+ALJPEIHI_00586	CDS	coaE	2.7.1.24	Dephospho-CoA kinase
+ALJPEIHI_00586	gene	coaE		
+ALJPEIHI_00587	CDS	uvrB		UvrABC system protein B
+ALJPEIHI_00587	gene	uvrB		
+ALJPEIHI_00588	CDS			hypothetical protein
+ALJPEIHI_00588	gene			
+ALJPEIHI_00589	CDS			hypothetical protein
+ALJPEIHI_00589	gene			
+ALJPEIHI_00590	CDS			hypothetical protein
+ALJPEIHI_00590	gene			
+ALJPEIHI_00591	CDS	purF	2.4.2.14	Amidophosphoribosyltransferase
+ALJPEIHI_00591	gene	purF		
+ALJPEIHI_00592	CDS	purM	6.3.3.1	Phosphoribosylformylglycinamidine cyclo-ligase
+ALJPEIHI_00592	gene	purM		
+ALJPEIHI_00593	CDS	yjjG	3.1.3.5	Pyrimidine 5'-nucleotidase YjjG
+ALJPEIHI_00593	gene	yjjG		
+ALJPEIHI_00594	CDS	limB_1	1.14.13.107	Limonene 1,2-monooxygenase
+ALJPEIHI_00594	gene	limB_1		
+ALJPEIHI_00595	CDS			hypothetical protein
+ALJPEIHI_00595	gene			
+ALJPEIHI_00596	CDS	groL2		60 kDa chaperonin 2
+ALJPEIHI_00596	gene	groL2		
+ALJPEIHI_00597	CDS		1.11.1.-	Putative heme-dependent peroxidase
+ALJPEIHI_00597	gene			
+ALJPEIHI_00598	CDS	viuB		Vibriobactin utilization protein ViuB
+ALJPEIHI_00598	gene	viuB		
+ALJPEIHI_00599	CDS			hypothetical protein
+ALJPEIHI_00599	gene			
+ALJPEIHI_00600	CDS	livF_2		High-affinity branched-chain amino acid transport ATP-binding protein LivF
+ALJPEIHI_00600	gene	livF_2		
+ALJPEIHI_00601	CDS	lptB_1	3.6.3.-	Lipopolysaccharide export system ATP-binding protein LptB
+ALJPEIHI_00601	gene	lptB_1		
+ALJPEIHI_00602	CDS			hypothetical protein
+ALJPEIHI_00602	gene			
+ALJPEIHI_00603	CDS	livH_2		High-affinity branched-chain amino acid transport system permease protein LivH
+ALJPEIHI_00603	gene	livH_2		
+ALJPEIHI_00604	CDS	amt		Ammonia channel
+ALJPEIHI_00604	gene	amt		
+ALJPEIHI_00605	CDS	glnD		Bifunctional uridylyltransferase/uridylyl-removing enzyme
+ALJPEIHI_00605	gene	glnD		
+ALJPEIHI_00606	CDS	rppH_2	3.6.1.-	RNA pyrophosphohydrolase
+ALJPEIHI_00606	gene	rppH_2		
+ALJPEIHI_00607	CDS			hypothetical protein
+ALJPEIHI_00607	gene			
+ALJPEIHI_00608	CDS			hypothetical protein
+ALJPEIHI_00608	gene			
+ALJPEIHI_00609	CDS			hypothetical protein
+ALJPEIHI_00609	gene			
+ALJPEIHI_00610	CDS			hypothetical protein
+ALJPEIHI_00610	gene			
+ALJPEIHI_00611	CDS	bcpB	1.11.1.15	Putative peroxiredoxin
+ALJPEIHI_00611	gene	bcpB		
+ALJPEIHI_00612	CDS			hypothetical protein
+ALJPEIHI_00612	gene			
+ALJPEIHI_00613	CDS	rebM_1	2.1.1.164	Demethylrebeccamycin-D-glucose O-methyltransferase
+ALJPEIHI_00613	gene	rebM_1		
+ALJPEIHI_00614	CDS	pimB	2.4.1.57	GDP-mannose-dependent alpha-(1-6)-phosphatidylinositol monomannoside mannosyltransferase
+ALJPEIHI_00614	gene	pimB		
+ALJPEIHI_00615	CDS	dtd	3.1.1.96	D-aminoacyl-tRNA deacylase
+ALJPEIHI_00615	gene	dtd		
+ALJPEIHI_00616	CDS	lnt	2.3.1.-	Apolipoprotein N-acyltransferase
+ALJPEIHI_00616	gene	lnt		
+ALJPEIHI_00617	CDS	hemY	1.3.3.4	Protoporphyrinogen oxidase
+ALJPEIHI_00617	gene	hemY		
+ALJPEIHI_00618	CDS	hemE	4.1.1.37	Uroporphyrinogen decarboxylase
+ALJPEIHI_00618	gene	hemE		
+ALJPEIHI_00619	CDS	helD_1	3.6.4.12	DNA helicase IV
+ALJPEIHI_00619	gene	helD_1		
+ALJPEIHI_00620	CDS	macB	3.6.3.-	Macrolide export ATP-binding/permease protein MacB
+ALJPEIHI_00620	gene	macB		
+ALJPEIHI_00621	CDS			hypothetical protein
+ALJPEIHI_00621	gene			
+ALJPEIHI_00622	CDS			hypothetical protein
+ALJPEIHI_00622	gene			
+ALJPEIHI_00623	CDS			hypothetical protein
+ALJPEIHI_00623	gene			
+ALJPEIHI_00624	CDS		1.-.-.-	Putative coenzyme F420-dependent oxidoreductase
+ALJPEIHI_00624	gene			
+ALJPEIHI_00625	CDS			hypothetical protein
+ALJPEIHI_00625	gene			
+ALJPEIHI_00626	CDS		1.-.-.-	Putative coenzyme F420-dependent oxidoreductase
+ALJPEIHI_00626	gene			
+ALJPEIHI_00627	CDS			hypothetical protein
+ALJPEIHI_00627	gene			
+ALJPEIHI_00628	CDS	surE_1	3.1.3.5	5'-nucleotidase SurE
+ALJPEIHI_00628	gene	surE_1		
+ALJPEIHI_00629	CDS	mmgC	1.3.99.-	Acyl-CoA dehydrogenase
+ALJPEIHI_00629	gene	mmgC		
+ALJPEIHI_00630	CDS	fadA5_2	2.3.1.16	Steroid 3-ketoacyl-CoA thiolase
+ALJPEIHI_00630	gene	fadA5_2		
+ALJPEIHI_00631	CDS	nicR		HTH-type transcriptional repressor NicR
+ALJPEIHI_00631	gene	nicR		
+ALJPEIHI_00632	CDS	rbsA	3.6.3.17	Ribose import ATP-binding protein RbsA
+ALJPEIHI_00632	gene	rbsA		
+ALJPEIHI_00633	CDS	rbsC		Ribose import permease protein RbsC
+ALJPEIHI_00633	gene	rbsC		
+ALJPEIHI_00634	CDS	bcr		Bicyclomycin resistance protein
+ALJPEIHI_00634	gene	bcr		
+ALJPEIHI_00635	CDS	cutL_2	1.2.5.3	Carbon monoxide dehydrogenase large chain
+ALJPEIHI_00635	gene	cutL_2		
+ALJPEIHI_00636	CDS			hypothetical protein
+ALJPEIHI_00636	gene			
+ALJPEIHI_00637	CDS			hypothetical protein
+ALJPEIHI_00637	gene			
+ALJPEIHI_00638	CDS	lptB_2	3.6.3.-	Lipopolysaccharide export system ATP-binding protein LptB
+ALJPEIHI_00638	gene	lptB_2		
+ALJPEIHI_00639	CDS	livF_3		High-affinity branched-chain amino acid transport ATP-binding protein LivF
+ALJPEIHI_00639	gene	livF_3		
+ALJPEIHI_00640	CDS			hypothetical protein
+ALJPEIHI_00640	gene			
+ALJPEIHI_00641	CDS		2.1.3.1	Methylmalonyl-CoA carboxyltransferase 12S subunit
+ALJPEIHI_00641	gene			
+ALJPEIHI_00642	CDS	limA_1	3.3.2.8	Limonene-1,2-epoxide hydrolase
+ALJPEIHI_00642	gene	limA_1		
+ALJPEIHI_00643	CDS	fbiB_3	6.3.2.34	Coenzyme F420:L-glutamate ligase
+ALJPEIHI_00643	gene	fbiB_3		
+ALJPEIHI_00644	CDS		1.-.-.-	putative oxidoreductase
+ALJPEIHI_00644	gene			
+ALJPEIHI_00645	CDS	fabG_2	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+ALJPEIHI_00645	gene	fabG_2		
+ALJPEIHI_00646	CDS			hypothetical protein
+ALJPEIHI_00646	gene			
+ALJPEIHI_00647	CDS	bchI	6.6.1.1	Magnesium-chelatase 38 kDa subunit
+ALJPEIHI_00647	gene	bchI		
+ALJPEIHI_00648	CDS	nanK	2.7.1.60	N-acetylmannosamine kinase
+ALJPEIHI_00648	gene	nanK		
+ALJPEIHI_00649	CDS			hypothetical protein
+ALJPEIHI_00649	gene			
+ALJPEIHI_00650	CDS			hypothetical protein
+ALJPEIHI_00650	gene			
+ALJPEIHI_00651	CDS	cypX_2	1.14.15.13	Pulcherriminic acid synthase
+ALJPEIHI_00651	gene	cypX_2		
+ALJPEIHI_00652	CDS			hypothetical protein
+ALJPEIHI_00652	gene			
+ALJPEIHI_00653	CDS		1.13.11.82	8'-apo-carotenoid 13,14-cleaving dioxygenase
+ALJPEIHI_00653	gene			
+ALJPEIHI_00654	CDS	rhlE	3.6.4.13	ATP-dependent RNA helicase RhlE
+ALJPEIHI_00654	gene	rhlE		
+ALJPEIHI_00655	CDS			hypothetical protein
+ALJPEIHI_00655	gene			
+ALJPEIHI_00656	CDS			hypothetical protein
+ALJPEIHI_00656	gene			
+ALJPEIHI_00657	CDS			hypothetical protein
+ALJPEIHI_00657	gene			
+ALJPEIHI_00658	CDS	cprA	3.8.1.-	3-chloro-4-hydroxyphenylacetate reductive dehalogenase
+ALJPEIHI_00658	gene	cprA		
+ALJPEIHI_00659	CDS			hypothetical protein
+ALJPEIHI_00659	gene			
+ALJPEIHI_00660	CDS			hypothetical protein
+ALJPEIHI_00660	gene			
+ALJPEIHI_00661	CDS			hypothetical protein
+ALJPEIHI_00661	gene			
+ALJPEIHI_00662	CDS			hypothetical protein
+ALJPEIHI_00662	gene			
+ALJPEIHI_00663	CDS	rebM_2	2.1.1.164	Demethylrebeccamycin-D-glucose O-methyltransferase
+ALJPEIHI_00663	gene	rebM_2		
+ALJPEIHI_00664	CDS		2.1.1.-	Putative O-methyltransferase
+ALJPEIHI_00664	gene			
+ALJPEIHI_00665	CDS			hypothetical protein
+ALJPEIHI_00665	gene			
+ALJPEIHI_00666	CDS			hypothetical protein
+ALJPEIHI_00666	gene			
+ALJPEIHI_00667	CDS			hypothetical protein
+ALJPEIHI_00667	gene			
+ALJPEIHI_00668	CDS			hypothetical protein
+ALJPEIHI_00668	gene			
+ALJPEIHI_00669	CDS	trkA		Trk system potassium uptake protein TrkA
+ALJPEIHI_00669	gene	trkA		
+ALJPEIHI_00670	CDS	trkH_1		Trk system potassium uptake protein TrkH
+ALJPEIHI_00670	gene	trkH_1		
+ALJPEIHI_00671	CDS	trkH_2		Trk system potassium uptake protein TrkH
+ALJPEIHI_00671	gene	trkH_2		
+ALJPEIHI_00672	CDS	apeB	3.4.11.-	putative M18 family aminopeptidase 2
+ALJPEIHI_00672	gene	apeB		
+ALJPEIHI_00673	CDS	gltB	1.4.1.13	Glutamate synthase [NADPH] large chain
+ALJPEIHI_00673	gene	gltB		
+ALJPEIHI_00674	CDS	gltD	1.4.1.13	Glutamate synthase [NADPH] small chain
+ALJPEIHI_00674	gene	gltD		
+ALJPEIHI_00675	CDS	menH_1	4.2.99.20	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+ALJPEIHI_00675	gene	menH_1		
+ALJPEIHI_00676	CDS	lspA	3.4.23.36	Lipoprotein signal peptidase
+ALJPEIHI_00676	gene	lspA		
+ALJPEIHI_00677	CDS	rluD	5.4.99.23	Ribosomal large subunit pseudouridine synthase D
+ALJPEIHI_00677	gene	rluD		
+ALJPEIHI_00678	CDS			hypothetical protein
+ALJPEIHI_00678	gene			
+ALJPEIHI_00679	CDS	bpa		Bacterial proteasome activator
+ALJPEIHI_00679	gene	bpa		
+ALJPEIHI_00680	CDS	dnaE1	2.7.7.7	DNA polymerase III subunit alpha
+ALJPEIHI_00680	gene	dnaE1		
+ALJPEIHI_00681	CDS			hypothetical protein
+ALJPEIHI_00681	gene			
+ALJPEIHI_00682	CDS	fbiB_4	6.3.2.34	Coenzyme F420:L-glutamate ligase
+ALJPEIHI_00682	gene	fbiB_4		
+ALJPEIHI_00683	CDS			hypothetical protein
+ALJPEIHI_00683	gene			
+ALJPEIHI_00684	CDS	pcrA_2	3.6.4.12	ATP-dependent DNA helicase PcrA
+ALJPEIHI_00684	gene	pcrA_2		
+ALJPEIHI_00685	CDS	mprA		Response regulator MprA
+ALJPEIHI_00685	gene	mprA		
+ALJPEIHI_00686	CDS	aceK	2.7.11.5	Isocitrate dehydrogenase kinase/phosphatase
+ALJPEIHI_00686	gene	aceK		
+ALJPEIHI_00687	CDS	mshD	2.3.1.189	Mycothiol acetyltransferase
+ALJPEIHI_00687	gene	mshD		
+ALJPEIHI_00688	CDS	menG	2.1.1.163	Demethylmenaquinone methyltransferase
+ALJPEIHI_00688	gene	menG		
+ALJPEIHI_00689	CDS	fosB	2.5.1.-	Metallothiol transferase FosB
+ALJPEIHI_00689	gene	fosB		
+ALJPEIHI_00690	CDS	menA	2.5.1.74	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+ALJPEIHI_00690	gene	menA		
+ALJPEIHI_00691	CDS	ald	1.2.1.83	3-succinoylsemialdehyde-pyridine dehydrogenase
+ALJPEIHI_00691	gene	ald		
+ALJPEIHI_00692	CDS	fadA_1	2.3.1.16	3-ketoacyl-CoA thiolase
+ALJPEIHI_00692	gene	fadA_1		
+ALJPEIHI_00693	CDS			hypothetical protein
+ALJPEIHI_00693	gene			
+ALJPEIHI_00694	CDS	gdhA	1.4.1.3	Glutamate dehydrogenase
+ALJPEIHI_00694	gene	gdhA		
+ALJPEIHI_00695	CDS		2.5.1.10	Farnesyl diphosphate synthase
+ALJPEIHI_00695	gene			
+ALJPEIHI_00696	CDS	novR_1	4.1.-.-	Decarboxylase NovR
+ALJPEIHI_00696	gene	novR_1		
+ALJPEIHI_00697	CDS	glpD2	1.1.5.3	Glycerol-3-phosphate dehydrogenase 2
+ALJPEIHI_00697	gene	glpD2		
+ALJPEIHI_00698	CDS			hypothetical protein
+ALJPEIHI_00698	gene			
+ALJPEIHI_00699	CDS	copR		Transcriptional activator protein CopR
+ALJPEIHI_00699	gene	copR		
+ALJPEIHI_00700	CDS	smc_2		Chromosome partition protein Smc
+ALJPEIHI_00700	gene	smc_2		
+ALJPEIHI_00701	CDS			hypothetical protein
+ALJPEIHI_00701	gene			
+ALJPEIHI_00702	CDS			hypothetical protein
+ALJPEIHI_00702	gene			
+ALJPEIHI_00703	CDS	fabL	1.3.1.104	Enoyl-[acyl-carrier-protein] reductase [NADPH] FabL
+ALJPEIHI_00703	gene	fabL		
+ALJPEIHI_00704	CDS	fkbP_2	5.2.1.8	FK506-binding protein
+ALJPEIHI_00704	gene	fkbP_2		
+ALJPEIHI_00705	CDS		1.14.-.-	Cytochrome P450 107B1
+ALJPEIHI_00705	gene			
+ALJPEIHI_00706	CDS			hypothetical protein
+ALJPEIHI_00706	gene			
+ALJPEIHI_00707	CDS			hypothetical protein
+ALJPEIHI_00707	gene			
+ALJPEIHI_00708	CDS			hypothetical protein
+ALJPEIHI_00708	gene			
+ALJPEIHI_00709	CDS	resA_2		Thiol-disulfide oxidoreductase ResA
+ALJPEIHI_00709	gene	resA_2		
+ALJPEIHI_00710	CDS	whiB7		putative transcriptional regulator WhiB7
+ALJPEIHI_00710	gene	whiB7		
+ALJPEIHI_00711	CDS			hypothetical protein
+ALJPEIHI_00711	gene			
+ALJPEIHI_00712	CDS	gloB	3.1.2.6	Hydroxyacylglutathione hydrolase
+ALJPEIHI_00712	gene	gloB		
+ALJPEIHI_00713	CDS		1.3.99.-	Putative acyl-CoA dehydrogenase FadE17
+ALJPEIHI_00713	gene			
+ALJPEIHI_00714	CDS	pigC_3	6.4.-.-	Prodigiosin synthesizing transferase PigC
+ALJPEIHI_00714	gene	pigC_3		
+ALJPEIHI_00715	CDS	yihX_2	3.1.3.10	Alpha-D-glucose 1-phosphate phosphatase YihX
+ALJPEIHI_00715	gene	yihX_2		
+ALJPEIHI_00716	CDS	dpgD_1	4.2.1.17	Enoyl-CoA-hydratase
+ALJPEIHI_00716	gene	dpgD_1		
+ALJPEIHI_00717	CDS			hypothetical protein
+ALJPEIHI_00717	gene			
+ALJPEIHI_00718	CDS	mhpC	3.7.1.14	2-hydroxy-6-oxononadienedioate/2-hydroxy-6-oxononatrienedioate hydrolase
+ALJPEIHI_00718	gene	mhpC		
+ALJPEIHI_00719	CDS	saeR		Response regulator SaeR
+ALJPEIHI_00719	gene	saeR		
+ALJPEIHI_00720	CDS	pleC	2.7.13.3	Non-motile and phage-resistance protein
+ALJPEIHI_00720	gene	pleC		
+ALJPEIHI_00721	CDS	ssuA		Putative aliphatic sulfonates-binding protein
+ALJPEIHI_00721	gene	ssuA		
+ALJPEIHI_00722	CDS			hypothetical protein
+ALJPEIHI_00722	gene			
+ALJPEIHI_00723	CDS			hypothetical protein
+ALJPEIHI_00723	gene			
+ALJPEIHI_00724	CDS			hypothetical protein
+ALJPEIHI_00724	gene			
+ALJPEIHI_00725	CDS			hypothetical protein
+ALJPEIHI_00725	gene			
+ALJPEIHI_00726	CDS	linC	1.1.1.-	2,5-dichloro-2,5-cyclohexadiene-1,4-diol dehydrogenase
+ALJPEIHI_00726	gene	linC		
+ALJPEIHI_00727	CDS	rutA	1.14.99.46	Pyrimidine monooxygenase RutA
+ALJPEIHI_00727	gene	rutA		
+ALJPEIHI_00728	CDS	nlhH	3.1.1.1	Carboxylesterase NlhH
+ALJPEIHI_00728	gene	nlhH		
+ALJPEIHI_00729	CDS			hypothetical protein
+ALJPEIHI_00729	gene			
+ALJPEIHI_00730	CDS			hypothetical protein
+ALJPEIHI_00730	gene			
+ALJPEIHI_00731	CDS			Thioredoxin-like reductase
+ALJPEIHI_00731	gene			
+ALJPEIHI_00732	CDS			hypothetical protein
+ALJPEIHI_00732	gene			
+ALJPEIHI_00733	CDS	cobQ		Cobyric acid synthase
+ALJPEIHI_00733	gene	cobQ		
+ALJPEIHI_00734	CDS	murF_1	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+ALJPEIHI_00734	gene	murF_1		
+ALJPEIHI_00735	CDS	ettA		Energy-dependent translational throttle protein EttA
+ALJPEIHI_00735	gene	ettA		
+ALJPEIHI_00736	CDS	fabG_3	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+ALJPEIHI_00736	gene	fabG_3		
+ALJPEIHI_00737	CDS			hypothetical protein
+ALJPEIHI_00737	gene			
+ALJPEIHI_00738	CDS			hypothetical protein
+ALJPEIHI_00738	gene			
+ALJPEIHI_00739	CDS	antA_1	1.14.12.1	Anthranilate 1,2-dioxygenase large subunit
+ALJPEIHI_00739	gene	antA_1		
+ALJPEIHI_00740	CDS	cmdD		Chondramide synthase cmdD
+ALJPEIHI_00740	gene	cmdD		
+ALJPEIHI_00741	CDS			hypothetical protein
+ALJPEIHI_00741	gene			
+ALJPEIHI_00742	CDS	proC	1.5.1.2	Pyrroline-5-carboxylate reductase
+ALJPEIHI_00742	gene	proC		
+ALJPEIHI_00743	CDS			Putative DNA-binding proteinA
+ALJPEIHI_00743	gene			
+ALJPEIHI_00744	CDS	flA	2.5.1.63	5'-fluoro-5'-deoxy-adenosine synthase
+ALJPEIHI_00744	gene	flA		
+ALJPEIHI_00745	CDS	hemA	1.2.1.70	Glutamyl-tRNA reductase
+ALJPEIHI_00745	gene	hemA		
+ALJPEIHI_00746	CDS	hemC	2.5.1.61	Porphobilinogen deaminase
+ALJPEIHI_00746	gene	hemC		
+ALJPEIHI_00747	CDS	pstB	3.6.3.27	Phosphate import ATP-binding protein PstB
+ALJPEIHI_00747	gene	pstB		
+ALJPEIHI_00748	CDS	phoU1		Phosphate-specific transport system accessory protein PhoU 
+ALJPEIHI_00748	gene	phoU1		
+ALJPEIHI_00749	CDS	regX3		Sensory transduction protein regX3
+ALJPEIHI_00749	gene	regX3		
+ALJPEIHI_00750	CDS	dapL	2.6.1.83	LL-diaminopimelate aminotransferase
+ALJPEIHI_00750	gene	dapL		
+ALJPEIHI_00751	CDS	dapE	3.5.1.18	Putative succinyl-diaminopimelate desuccinylase DapE
+ALJPEIHI_00751	gene	dapE		
+ALJPEIHI_00752	CDS	lexA	3.4.21.88	LexA repressor
+ALJPEIHI_00752	gene	lexA		
+ALJPEIHI_00753	CDS			hypothetical protein
+ALJPEIHI_00753	gene			
+ALJPEIHI_00754	CDS			hypothetical protein
+ALJPEIHI_00754	gene			
+ALJPEIHI_00755	CDS			hypothetical protein
+ALJPEIHI_00755	gene			
+ALJPEIHI_00756	CDS		4.2.1.17	putative enoyl-CoA hydratase 1
+ALJPEIHI_00756	gene			
+ALJPEIHI_00757	CDS	map	3.4.11.18	Methionine aminopeptidase 2
+ALJPEIHI_00757	gene	map		
+ALJPEIHI_00758	CDS	pspB_1	3.1.3.3	Putative phosphoserine phosphatase 2
+ALJPEIHI_00758	gene	pspB_1		
+ALJPEIHI_00759	CDS			hypothetical protein
+ALJPEIHI_00759	gene			
+ALJPEIHI_00760	CDS		1.1.1.47	Glucose 1-dehydrogenase
+ALJPEIHI_00760	gene			
+ALJPEIHI_00761	CDS	htpX_1	3.4.24.-	Protease HtpX 
+ALJPEIHI_00761	gene	htpX_1		
+ALJPEIHI_00762	CDS	capA		Capsule biosynthesis protein CapA
+ALJPEIHI_00762	gene	capA		
+ALJPEIHI_00763	CDS			hypothetical protein
+ALJPEIHI_00763	gene			
+ALJPEIHI_00764	CDS	mutY	3.2.2.-	Adenine DNA glycosylase
+ALJPEIHI_00764	gene	mutY		
+ALJPEIHI_00765	CDS			hypothetical protein
+ALJPEIHI_00765	gene			
+ALJPEIHI_00766	CDS			hypothetical protein
+ALJPEIHI_00766	gene			
+ALJPEIHI_00767	CDS			hypothetical protein
+ALJPEIHI_00767	gene			
+ALJPEIHI_00768	CDS	hcaE	1.14.12.19	3-phenylpropionate/cinnamic acid dioxygenase subunit alpha
+ALJPEIHI_00768	gene	hcaE		
+ALJPEIHI_00769	CDS	purS	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurS
+ALJPEIHI_00769	gene	purS		
+ALJPEIHI_00770	CDS	purQ	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurQ
+ALJPEIHI_00770	gene	purQ		
+ALJPEIHI_00771	CDS	purL	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurL
+ALJPEIHI_00771	gene	purL		
+ALJPEIHI_00772	CDS		1.14.-.-	Putative cytochrome P450 140
+ALJPEIHI_00772	gene			
+ALJPEIHI_00773	CDS			hypothetical protein
+ALJPEIHI_00773	gene			
+ALJPEIHI_00774	CDS	coaD_2	2.7.7.3	Phosphopantetheine adenylyltransferase
+ALJPEIHI_00774	gene	coaD_2		
+ALJPEIHI_00775	CDS	pbuE_1		Purine efflux pump PbuE
+ALJPEIHI_00775	gene	pbuE_1		
+ALJPEIHI_00776	CDS	ilvB1	2.2.1.6	Acetolactate synthase large subunit IlvB1
+ALJPEIHI_00776	gene	ilvB1		
+ALJPEIHI_00777	CDS	ilvH	2.2.1.6	Acetolactate synthase small subunit
+ALJPEIHI_00777	gene	ilvH		
+ALJPEIHI_00778	CDS	ilvC	1.1.1.382	Ketol-acid reductoisomerase (NAD(+))
+ALJPEIHI_00778	gene	ilvC		
+ALJPEIHI_00779	CDS	mgl	4.4.1.11	L-methionine gamma-lyase
+ALJPEIHI_00779	gene	mgl		
+ALJPEIHI_00780	CDS			hypothetical protein
+ALJPEIHI_00780	gene			
+ALJPEIHI_00781	CDS			hypothetical protein
+ALJPEIHI_00781	gene			
+ALJPEIHI_00782	CDS		1.1.1.-	Putative short-chain type dehydrogenase/reductase
+ALJPEIHI_00782	gene			
+ALJPEIHI_00783	CDS	fadA_2	2.3.1.16	3-ketoacyl-CoA thiolase
+ALJPEIHI_00783	gene	fadA_2		
+ALJPEIHI_00784	CDS	dan_1	3.5.1.81	D-aminoacylase
+ALJPEIHI_00784	gene	dan_1		
+ALJPEIHI_00785	CDS	gbsA	1.2.1.8	Betaine aldehyde dehydrogenase
+ALJPEIHI_00785	gene	gbsA		
+ALJPEIHI_00786	CDS	ubiG	2.1.1.222	Ubiquinone biosynthesis O-methyltransferase
+ALJPEIHI_00786	gene	ubiG		
+ALJPEIHI_00787	CDS	ctpE	3.6.3.-	putative cation-transporting ATPase E
+ALJPEIHI_00787	gene	ctpE		
+ALJPEIHI_00788	CDS			hypothetical protein
+ALJPEIHI_00788	gene			
+ALJPEIHI_00789	CDS	udk	2.7.1.48	Uridine kinase
+ALJPEIHI_00789	gene	udk		
+ALJPEIHI_00790	tRNA			tRNA-Gly(tcc)
+ALJPEIHI_00790	gene			
+ALJPEIHI_00791	CDS	tig	5.2.1.8	Trigger factor
+ALJPEIHI_00791	gene	tig		
+ALJPEIHI_00792	CDS	clpP_1	3.4.21.92	ATP-dependent Clp protease proteolytic subunit
+ALJPEIHI_00792	gene	clpP_1		
+ALJPEIHI_00793	CDS	pigC_4	6.4.-.-	Prodigiosin synthesizing transferase PigC
+ALJPEIHI_00793	gene	pigC_4		
+ALJPEIHI_00794	CDS			hypothetical protein
+ALJPEIHI_00794	gene			
+ALJPEIHI_00795	CDS			hypothetical protein
+ALJPEIHI_00795	gene			
+ALJPEIHI_00796	CDS			hypothetical protein
+ALJPEIHI_00796	gene			
+ALJPEIHI_00797	CDS	guaA	6.3.5.2	GMP synthase [glutamine-hydrolyzing]
+ALJPEIHI_00797	gene	guaA		
+ALJPEIHI_00798	CDS	lrp		Leucine-responsive regulatory protein
+ALJPEIHI_00798	gene	lrp		
+ALJPEIHI_00799	CDS		3.5.4.32	8-oxoguanine deaminase
+ALJPEIHI_00799	gene			
+ALJPEIHI_00800	CDS	fgd1_2	1.1.98.2	F420-dependent glucose-6-phosphate dehydrogenase
+ALJPEIHI_00800	gene	fgd1_2		
+ALJPEIHI_00801	CDS	azoR	1.7.-.-	FMN-dependent NADH-azoreductase
+ALJPEIHI_00801	gene	azoR		
+ALJPEIHI_00802	CDS			hypothetical protein
+ALJPEIHI_00802	gene			
+ALJPEIHI_00803	CDS	luxB_2	1.14.14.3	Alkanal monooxygenase beta chain
+ALJPEIHI_00803	gene	luxB_2		
+ALJPEIHI_00804	CDS			hypothetical protein
+ALJPEIHI_00804	gene			
+ALJPEIHI_00805	CDS	cmpD	3.6.3.-	Bicarbonate transport ATP-binding protein CmpD
+ALJPEIHI_00805	gene	cmpD		
+ALJPEIHI_00806	CDS	ribX		Riboflavin transport system permease protein RibX
+ALJPEIHI_00806	gene	ribX		
+ALJPEIHI_00807	CDS	fgd2_2	1.1.98.-	F420-dependent hydroxymycolic acid dehydrogenase
+ALJPEIHI_00807	gene	fgd2_2		
+ALJPEIHI_00808	CDS	codAch2	3.5.4.11	Pterin deaminase
+ALJPEIHI_00808	gene	codAch2		
+ALJPEIHI_00809	CDS	ubiD	4.1.1.98	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+ALJPEIHI_00809	gene	ubiD		
+ALJPEIHI_00810	CDS	ubiX	2.5.1.129	Flavin prenyltransferase UbiX
+ALJPEIHI_00810	gene	ubiX		
+ALJPEIHI_00811	CDS		1.-.-.-	Putative coenzyme F420-dependent oxidoreductase
+ALJPEIHI_00811	gene			
+ALJPEIHI_00812	CDS	crtI	1.3.99.31	Phytoene desaturase (lycopene-forming)
+ALJPEIHI_00812	gene	crtI		
+ALJPEIHI_00813	CDS			hypothetical protein
+ALJPEIHI_00813	gene			
+ALJPEIHI_00814	CDS	ifcA	1.3.5.4	Fumarate reductase flavoprotein subunit
+ALJPEIHI_00814	gene	ifcA		
+ALJPEIHI_00815	CDS		6.2.1.3	Long-chain-fatty-acid--CoA ligase FadD13
+ALJPEIHI_00815	gene			
+ALJPEIHI_00816	CDS			hypothetical protein
+ALJPEIHI_00816	gene			
+ALJPEIHI_00817	CDS		1.1.1.119	Glucose 1-dehydrogenase
+ALJPEIHI_00817	gene			
+ALJPEIHI_00818	CDS			hypothetical protein
+ALJPEIHI_00818	gene			
+ALJPEIHI_00819	CDS			hypothetical protein
+ALJPEIHI_00819	gene			
+ALJPEIHI_00820	CDS		1.3.99.-	Putative acyl-CoA dehydrogenase FadE17
+ALJPEIHI_00820	gene			
+ALJPEIHI_00821	CDS	fabG_4	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+ALJPEIHI_00821	gene	fabG_4		
+ALJPEIHI_00822	CDS	uctC_2	2.8.3.19	Acetyl-CoA:oxalate CoA-transferase
+ALJPEIHI_00822	gene	uctC_2		
+ALJPEIHI_00823	CDS		4.2.1.17	putative enoyl-CoA hydratase 1
+ALJPEIHI_00823	gene			
+ALJPEIHI_00824	CDS			hypothetical protein
+ALJPEIHI_00824	gene			
+ALJPEIHI_00825	CDS			hypothetical protein
+ALJPEIHI_00825	gene			
+ALJPEIHI_00826	CDS			hypothetical protein
+ALJPEIHI_00826	gene			
+ALJPEIHI_00827	CDS			hypothetical protein
+ALJPEIHI_00827	gene			
+ALJPEIHI_00828	CDS	smtB_2	2.8.3.22	Succinyl-CoA--L-malate CoA-transferase beta subunit
+ALJPEIHI_00828	gene	smtB_2		
+ALJPEIHI_00829	CDS	leuA	2.3.3.13	2-isopropylmalate synthase
+ALJPEIHI_00829	gene	leuA		
+ALJPEIHI_00830	CDS	dpgD_2	4.2.1.17	Enoyl-CoA-hydratase
+ALJPEIHI_00830	gene	dpgD_2		
+ALJPEIHI_00831	CDS	fabG_5	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+ALJPEIHI_00831	gene	fabG_5		
+ALJPEIHI_00832	CDS			hypothetical protein
+ALJPEIHI_00832	gene			
+ALJPEIHI_00833	CDS	yjiB_2	1.14.-.-	Putative cytochrome P450 YjiB
+ALJPEIHI_00833	gene	yjiB_2		
+ALJPEIHI_00834	CDS	tdcF	3.5.4.-	Putative reactive intermediate deaminase TdcF
+ALJPEIHI_00834	gene	tdcF		
+ALJPEIHI_00835	CDS		1.14.-.-	Cytochrome P450 144
+ALJPEIHI_00835	gene			
+ALJPEIHI_00836	CDS	menB_1	4.1.3.36	1,4-dihydroxy-2-naphthoyl-CoA synthase
+ALJPEIHI_00836	gene	menB_1		
+ALJPEIHI_00837	CDS			hypothetical protein
+ALJPEIHI_00837	gene			
+ALJPEIHI_00838	CDS			hypothetical protein
+ALJPEIHI_00838	gene			
+ALJPEIHI_00839	CDS	mepM	3.4.24.-	Murein DD-endopeptidase MepM
+ALJPEIHI_00839	gene	mepM		
+ALJPEIHI_00840	CDS	murF_2	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+ALJPEIHI_00840	gene	murF_2		
+ALJPEIHI_00841	CDS	cbpA		Curved DNA-binding protein
+ALJPEIHI_00841	gene	cbpA		
+ALJPEIHI_00842	CDS			hypothetical protein
+ALJPEIHI_00842	gene			
+ALJPEIHI_00843	CDS			hypothetical protein
+ALJPEIHI_00843	gene			
+ALJPEIHI_00844	CDS	leuS	6.1.1.4	Leucine--tRNA ligase
+ALJPEIHI_00844	gene	leuS		
+ALJPEIHI_00845	CDS	lptB_3	3.6.3.-	Lipopolysaccharide export system ATP-binding protein LptB
+ALJPEIHI_00845	gene	lptB_3		
+ALJPEIHI_00846	CDS		3.3.2.10	Soluble epoxide hydrolase
+ALJPEIHI_00846	gene			
+ALJPEIHI_00847	CDS	ydfG	1.1.1.381	NADP-dependent 3-hydroxy acid dehydrogenase YdfG
+ALJPEIHI_00847	gene	ydfG		
+ALJPEIHI_00848	CDS		1.-.-.-	Putative coenzyme F420-dependent oxidoreductase
+ALJPEIHI_00848	gene			
+ALJPEIHI_00849	CDS	hemH	4.99.1.1	Ferrochelatase
+ALJPEIHI_00849	gene	hemH		
+ALJPEIHI_00850	CDS	arnC	2.4.2.53	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+ALJPEIHI_00850	gene	arnC		
+ALJPEIHI_00851	CDS			hypothetical protein
+ALJPEIHI_00851	gene			
+ALJPEIHI_00852	CDS	yitU	3.1.3.-	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YitU
+ALJPEIHI_00852	gene	yitU		
+ALJPEIHI_00853	CDS	melA	3.2.1.22	Alpha-galactosidase
+ALJPEIHI_00853	gene	melA		
+ALJPEIHI_00854	CDS	galK	2.7.1.6	Galactokinase
+ALJPEIHI_00854	gene	galK		
+ALJPEIHI_00855	CDS			hypothetical protein
+ALJPEIHI_00855	gene			
+ALJPEIHI_00856	CDS	livH_3		High-affinity branched-chain amino acid transport system permease protein LivH
+ALJPEIHI_00856	gene	livH_3		
+ALJPEIHI_00857	CDS			hypothetical protein
+ALJPEIHI_00857	gene			
+ALJPEIHI_00858	CDS			hypothetical protein
+ALJPEIHI_00858	gene			
+ALJPEIHI_00859	CDS			hypothetical protein
+ALJPEIHI_00859	gene			
+ALJPEIHI_00860	CDS	dnaC	3.6.4.12	Replicative DNA helicase
+ALJPEIHI_00860	gene	dnaC		
+ALJPEIHI_00861	CDS	ybaK_1	4.2.-.-	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+ALJPEIHI_00861	gene	ybaK_1		
+ALJPEIHI_00862	CDS		1.1.1.-	Putative short-chain type dehydrogenase/reductase
+ALJPEIHI_00862	gene			
+ALJPEIHI_00863	CDS	glnB		Nitrogen regulatory protein P-II
+ALJPEIHI_00863	gene	glnB		
+ALJPEIHI_00864	CDS		1.3.99.-	Acyl-CoA dehydrogenase FadE26
+ALJPEIHI_00864	gene			
+ALJPEIHI_00865	CDS		1.3.99.-	Acyl-CoA dehydrogenase FadE27
+ALJPEIHI_00865	gene			
+ALJPEIHI_00866	CDS			hypothetical protein
+ALJPEIHI_00866	gene			
+ALJPEIHI_00867	CDS	ribF		Riboflavin biosynthesis protein RibF
+ALJPEIHI_00867	gene	ribF		
+ALJPEIHI_00868	CDS	rpsO		30S ribosomal protein S15
+ALJPEIHI_00868	gene	rpsO		
+ALJPEIHI_00869	CDS	pnp	2.7.7.8	Polyribonucleotide nucleotidyltransferase
+ALJPEIHI_00869	gene	pnp		
+ALJPEIHI_00870	CDS	dapB	1.17.1.8	4-hydroxy-tetrahydrodipicolinate reductase
+ALJPEIHI_00870	gene	dapB		
+ALJPEIHI_00871	CDS			putative SURF1-like protein
+ALJPEIHI_00871	gene			
+ALJPEIHI_00872	CDS	dapA	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+ALJPEIHI_00872	gene	dapA		
+ALJPEIHI_00873	CDS	rnjA	3.1.-.-	Ribonuclease J1
+ALJPEIHI_00873	gene	rnjA		
+ALJPEIHI_00874	CDS	ftsK_1		DNA translocase FtsK
+ALJPEIHI_00874	gene	ftsK_1		
+ALJPEIHI_00875	CDS	pucA_2	1.17.1.4	putative xanthine dehydrogenase subunit A
+ALJPEIHI_00875	gene	pucA_2		
+ALJPEIHI_00876	CDS			hypothetical protein
+ALJPEIHI_00876	gene			
+ALJPEIHI_00877	CDS			hypothetical protein
+ALJPEIHI_00877	gene			
+ALJPEIHI_00878	CDS			hypothetical protein
+ALJPEIHI_00878	gene			
+ALJPEIHI_00879	CDS	cutM	1.2.5.3	Carbon monoxide dehydrogenase medium chain
+ALJPEIHI_00879	gene	cutM		
+ALJPEIHI_00880	CDS	coxS_2	1.2.5.3	Carbon monoxide dehydrogenase small chain
+ALJPEIHI_00880	gene	coxS_2		
+ALJPEIHI_00881	CDS	drrB		Daunorubicin/doxorubicin resistance ABC transporter permease protein DrrB
+ALJPEIHI_00881	gene	drrB		
+ALJPEIHI_00882	CDS	drrC		putative doxorubicin resistance ABC transporter permease protein DrrC
+ALJPEIHI_00882	gene	drrC		
+ALJPEIHI_00883	CDS	drrA	3.6.3.-	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+ALJPEIHI_00883	gene	drrA		
+ALJPEIHI_00884	CDS	ftsL_1		Cell division protein FtsL
+ALJPEIHI_00884	gene	ftsL_1		
+ALJPEIHI_00885	CDS	eno	4.2.1.11	Enolase
+ALJPEIHI_00885	gene	eno		
+ALJPEIHI_00886	CDS	mfd	3.6.4.-	Transcription-repair-coupling factor
+ALJPEIHI_00886	gene	mfd		
+ALJPEIHI_00887	CDS	pth	3.1.1.29	Peptidyl-tRNA hydrolase
+ALJPEIHI_00887	gene	pth		
+ALJPEIHI_00888	CDS	rplY		50S ribosomal protein L25
+ALJPEIHI_00888	gene	rplY		
+ALJPEIHI_00889	CDS	prs	2.7.6.1	Ribose-phosphate pyrophosphokinase
+ALJPEIHI_00889	gene	prs		
+ALJPEIHI_00890	tRNA			tRNA-Gln(ttg)
+ALJPEIHI_00890	gene			
+ALJPEIHI_00891	CDS	ispE	2.7.1.148	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+ALJPEIHI_00891	gene	ispE		
+ALJPEIHI_00892	CDS	ksgA	2.1.1.182	Ribosomal RNA small subunit methyltransferase A
+ALJPEIHI_00892	gene	ksgA		
+ALJPEIHI_00893	CDS			hypothetical protein
+ALJPEIHI_00893	gene			
+ALJPEIHI_00894	CDS	ycfH	3.1.-.-	putative metal-dependent hydrolase YcfH
+ALJPEIHI_00894	gene	ycfH		
+ALJPEIHI_00895	CDS	metG	6.1.1.10	Methionine--tRNA ligase
+ALJPEIHI_00895	gene	metG		
+ALJPEIHI_00896	CDS	rsmI	2.1.1.198	Ribosomal RNA small subunit methyltransferase I
+ALJPEIHI_00896	gene	rsmI		
+ALJPEIHI_00897	CDS	ychF		Ribosome-binding ATPase YchF
+ALJPEIHI_00897	gene	ychF		
+ALJPEIHI_00898	CDS			hypothetical protein
+ALJPEIHI_00898	gene			
+ALJPEIHI_00899	CDS	ttgW		putative HTH-type transcriptional regulator TtgW
+ALJPEIHI_00899	gene	ttgW		
+ALJPEIHI_00900	CDS			hypothetical protein
+ALJPEIHI_00900	gene			
+ALJPEIHI_00901	CDS	dxs	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+ALJPEIHI_00901	gene	dxs		
+ALJPEIHI_00902	CDS	nfuA		Fe/S biogenesis protein NfuA
+ALJPEIHI_00902	gene	nfuA		
+ALJPEIHI_00903	CDS			hypothetical protein
+ALJPEIHI_00903	gene			
+ALJPEIHI_00904	CDS			hypothetical protein
+ALJPEIHI_00904	gene			
+ALJPEIHI_00905	CDS			hypothetical protein
+ALJPEIHI_00905	gene			
+ALJPEIHI_00906	CDS	purB	4.3.2.2	Adenylosuccinate lyase
+ALJPEIHI_00906	gene	purB		
+ALJPEIHI_00907	CDS	purE_2	5.4.99.18	N5-carboxyaminoimidazole ribonucleotide mutase
+ALJPEIHI_00907	gene	purE_2		
+ALJPEIHI_00908	CDS	purD	6.3.4.13	Phosphoribosylamine--glycine ligase
+ALJPEIHI_00908	gene	purD		
+ALJPEIHI_00909	CDS	purA	6.3.4.4	Adenylosuccinate synthetase
+ALJPEIHI_00909	gene	purA		
+ALJPEIHI_00910	CDS			hypothetical protein
+ALJPEIHI_00910	gene			
+ALJPEIHI_00911	CDS	argC	1.2.1.38	N-acetyl-gamma-glutamyl-phosphate reductase
+ALJPEIHI_00911	gene	argC		
+ALJPEIHI_00912	CDS	argJ		Arginine biosynthesis bifunctional protein ArgJ
+ALJPEIHI_00912	gene	argJ		
+ALJPEIHI_00913	CDS	argB	2.7.2.8	Acetylglutamate kinase
+ALJPEIHI_00913	gene	argB		
+ALJPEIHI_00914	CDS	argD	2.6.1.11	Acetylornithine aminotransferase
+ALJPEIHI_00914	gene	argD		
+ALJPEIHI_00915	CDS	argF	2.1.3.3	Ornithine carbamoyltransferase
+ALJPEIHI_00915	gene	argF		
+ALJPEIHI_00916	CDS	argR		Arginine repressor
+ALJPEIHI_00916	gene	argR		
+ALJPEIHI_00917	CDS	argG	6.3.4.5	Argininosuccinate synthase
+ALJPEIHI_00917	gene	argG		
+ALJPEIHI_00918	CDS	argH	4.3.2.1	Argininosuccinate lyase
+ALJPEIHI_00918	gene	argH		
+ALJPEIHI_00919	CDS	ybgC_2	3.1.2.-	Acyl-CoA thioester hydrolase YbgC
+ALJPEIHI_00919	gene	ybgC_2		
+ALJPEIHI_00920	CDS			hypothetical protein
+ALJPEIHI_00920	gene			
+ALJPEIHI_00921	CDS			hypothetical protein
+ALJPEIHI_00921	gene			
+ALJPEIHI_00922	CDS			hypothetical protein
+ALJPEIHI_00922	gene			
+ALJPEIHI_00923	CDS	ddn	1.-.-.-	Deazaflavin-dependent nitroreductase
+ALJPEIHI_00923	gene	ddn		
+ALJPEIHI_00924	CDS			hypothetical protein
+ALJPEIHI_00924	gene			
+ALJPEIHI_00925	CDS			hypothetical protein
+ALJPEIHI_00925	gene			
+ALJPEIHI_00926	CDS		4.2.1.17	putative enoyl-CoA hydratase 1
+ALJPEIHI_00926	gene			
+ALJPEIHI_00927	CDS			hypothetical protein
+ALJPEIHI_00927	gene			
+ALJPEIHI_00928	CDS		1.3.99.-	Acyl-CoA dehydrogenase FadE34
+ALJPEIHI_00928	gene			
+ALJPEIHI_00929	CDS	tsaD	2.3.1.234	tRNA N6-adenosine threonylcarbamoyltransferase
+ALJPEIHI_00929	gene	tsaD		
+ALJPEIHI_00930	CDS	rimI	2.3.1.255	N-alpha-acetyltransferase RimI
+ALJPEIHI_00930	gene	rimI		
+ALJPEIHI_00931	CDS			hypothetical protein
+ALJPEIHI_00931	gene			
+ALJPEIHI_00932	CDS			hypothetical protein
+ALJPEIHI_00932	gene			
+ALJPEIHI_00933	CDS	fabG_6	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+ALJPEIHI_00933	gene	fabG_6		
+ALJPEIHI_00934	CDS		2.7.1.-	Putative aminoglycoside phosphotransferase
+ALJPEIHI_00934	gene			
+ALJPEIHI_00935	CDS	acrC	1.3.1.95	Acryloyl-CoA reductase (NADH)
+ALJPEIHI_00935	gene	acrC		
+ALJPEIHI_00936	CDS	glyQS	6.1.1.14	Glycine--tRNA ligase
+ALJPEIHI_00936	gene	glyQS		
+ALJPEIHI_00937	CDS	recO		DNA repair protein RecO
+ALJPEIHI_00937	gene	recO		
+ALJPEIHI_00938	CDS		2.5.1.88	Trans,polycis-polyprenyl diphosphate synthase ((2Z,6E)-farnesyl diphosphate specific)
+ALJPEIHI_00938	gene			
+ALJPEIHI_00939	CDS	era		GTPase Era
+ALJPEIHI_00939	gene	era		
+ALJPEIHI_00940	CDS	corC_1		Magnesium and cobalt efflux protein CorC
+ALJPEIHI_00940	gene	corC_1		
+ALJPEIHI_00941	CDS	ybeY	3.1.-.-	Endoribonuclease YbeY
+ALJPEIHI_00941	gene	ybeY		
+ALJPEIHI_00942	CDS			PhoH-like protein
+ALJPEIHI_00942	gene			
+ALJPEIHI_00943	CDS	ppsC_2	2.3.1.41	Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsC
+ALJPEIHI_00943	gene	ppsC_2		
+ALJPEIHI_00944	CDS	fadD3_2	6.2.1.41	3-[(3aS,4S,7aS)-7a-methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoyl:CoA ligase
+ALJPEIHI_00944	gene	fadD3_2		
+ALJPEIHI_00945	CDS	fabG_7	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+ALJPEIHI_00945	gene	fabG_7		
+ALJPEIHI_00946	CDS			hypothetical protein
+ALJPEIHI_00946	gene			
+ALJPEIHI_00947	CDS			hypothetical protein
+ALJPEIHI_00947	gene			
+ALJPEIHI_00948	CDS			putative HIT-like protein
+ALJPEIHI_00948	gene			
+ALJPEIHI_00949	CDS	pgsA1_1	2.7.8.5	Putative CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyl-transferase 1
+ALJPEIHI_00949	gene	pgsA1_1		
+ALJPEIHI_00950	CDS	gcvH		Glycine cleavage system H protein
+ALJPEIHI_00950	gene	gcvH		
+ALJPEIHI_00951	CDS	odhI		Oxoglutarate dehydrogenase inhibitor
+ALJPEIHI_00951	gene	odhI		
+ALJPEIHI_00952	CDS			hypothetical protein
+ALJPEIHI_00952	gene			
+ALJPEIHI_00953	CDS			hypothetical protein
+ALJPEIHI_00953	gene			
+ALJPEIHI_00954	CDS	dinB1	2.7.7.7	DNA polymerase IV 1
+ALJPEIHI_00954	gene	dinB1		
+ALJPEIHI_00955	CDS			hypothetical protein
+ALJPEIHI_00955	gene			
+ALJPEIHI_00956	CDS	suhB_1	3.1.3.25	Inositol-1-monophosphatase
+ALJPEIHI_00956	gene	suhB_1		
+ALJPEIHI_00957	CDS	phoP		Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+ALJPEIHI_00957	gene	phoP		
+ALJPEIHI_00958	CDS	mtrB	2.7.13.3	Sensor histidine kinase MtrB
+ALJPEIHI_00958	gene	mtrB		
+ALJPEIHI_00959	CDS			hypothetical protein
+ALJPEIHI_00959	gene			
+ALJPEIHI_00960	CDS	glpK	2.7.1.30	Glycerol kinase
+ALJPEIHI_00960	gene	glpK		
+ALJPEIHI_00961	CDS	alaC	2.6.1.2	Glutamate-pyruvate aminotransferase AlaC
+ALJPEIHI_00961	gene	alaC		
+ALJPEIHI_00962	CDS	glkA	2.7.1.2	Glucokinase
+ALJPEIHI_00962	gene	glkA		
+ALJPEIHI_00963	CDS			hypothetical protein
+ALJPEIHI_00963	gene			
+ALJPEIHI_00964	CDS			hypothetical protein
+ALJPEIHI_00964	gene			
+ALJPEIHI_00965	CDS	cinA		Putative competence-damage inducible protein
+ALJPEIHI_00965	gene	cinA		
+ALJPEIHI_00966	CDS	pgsA2	2.7.8.5	Putative CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyl-transferase 2
+ALJPEIHI_00966	gene	pgsA2		
+ALJPEIHI_00967	CDS	rimO	2.8.4.4	Ribosomal protein S12 methylthiotransferase RimO
+ALJPEIHI_00967	gene	rimO		
+ALJPEIHI_00968	CDS	yrbG		Inner membrane protein YrbG
+ALJPEIHI_00968	gene	yrbG		
+ALJPEIHI_00969	CDS	ftsK_2		DNA translocase FtsK
+ALJPEIHI_00969	gene	ftsK_2		
+ALJPEIHI_00970	CDS			hypothetical protein
+ALJPEIHI_00970	gene			
+ALJPEIHI_00971	CDS			Magnesium transporter MgtE
+ALJPEIHI_00971	gene			
+ALJPEIHI_00972	CDS	ugpQ_3	3.1.4.46	Glycerophosphodiester phosphodiesterase, cytoplasmic
+ALJPEIHI_00972	gene	ugpQ_3		
+ALJPEIHI_00973	CDS	crt_3	4.2.1.150	Short-chain-enoyl-CoA hydratase
+ALJPEIHI_00973	gene	crt_3		
+ALJPEIHI_00974	CDS	alaS	6.1.1.7	Alanine--tRNA ligase
+ALJPEIHI_00974	gene	alaS		
+ALJPEIHI_00975	CDS	yrrK	3.1.-.-	Putative pre-16S rRNA nuclease
+ALJPEIHI_00975	gene	yrrK		
+ALJPEIHI_00976	CDS	mltG	4.2.2.-	Endolytic murein transglycosylase
+ALJPEIHI_00976	gene	mltG		
+ALJPEIHI_00977	CDS	aroE	1.1.1.25	Shikimate dehydrogenase (NADP(+))
+ALJPEIHI_00977	gene	aroE		
+ALJPEIHI_00978	CDS	aroB	4.2.3.4	3-dehydroquinate synthase
+ALJPEIHI_00978	gene	aroB		
+ALJPEIHI_00979	CDS	yqhS	4.2.1.10	3-dehydroquinate dehydratase
+ALJPEIHI_00979	gene	yqhS		
+ALJPEIHI_00980	CDS		3.4.-.-	putative peptidase
+ALJPEIHI_00980	gene			
+ALJPEIHI_00981	CDS	efp		Elongation factor P
+ALJPEIHI_00981	gene	efp		
+ALJPEIHI_00982	CDS	nusB		N utilization substance protein B 
+ALJPEIHI_00982	gene	nusB		
+ALJPEIHI_00983	CDS	pyrR		Bifunctional protein PyrR
+ALJPEIHI_00983	gene	pyrR		
+ALJPEIHI_00984	CDS	pyrB	2.1.3.2	Aspartate carbamoyltransferase
+ALJPEIHI_00984	gene	pyrB		
+ALJPEIHI_00985	CDS	pyrC_1	3.5.2.3	Dihydroorotase
+ALJPEIHI_00985	gene	pyrC_1		
+ALJPEIHI_00986	CDS	carA	6.3.5.5	Carbamoyl-phosphate synthase small chain
+ALJPEIHI_00986	gene	carA		
+ALJPEIHI_00987	CDS	carB	6.3.5.5	Carbamoyl-phosphate synthase large chain
+ALJPEIHI_00987	gene	carB		
+ALJPEIHI_00988	CDS	pyrDB	1.3.1.14	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+ALJPEIHI_00988	gene	pyrDB		
+ALJPEIHI_00989	CDS	pyrF	4.1.1.23	Orotidine 5'-phosphate decarboxylase
+ALJPEIHI_00989	gene	pyrF		
+ALJPEIHI_00990	CDS			hypothetical protein
+ALJPEIHI_00990	gene			
+ALJPEIHI_00991	CDS	gmk	2.7.4.8	Guanylate kinase
+ALJPEIHI_00991	gene	gmk		
+ALJPEIHI_00992	CDS	rpoZ	2.7.7.6	DNA-directed RNA polymerase subunit omega
+ALJPEIHI_00992	gene	rpoZ		
+ALJPEIHI_00993	CDS	coaBC		Coenzyme A biosynthesis bifunctional protein CoaBC
+ALJPEIHI_00993	gene	coaBC		
+ALJPEIHI_00994	CDS	metK	2.5.1.6	S-adenosylmethionine synthase
+ALJPEIHI_00994	gene	metK		
+ALJPEIHI_00995	CDS	priA	3.6.4.-	Primosomal protein N'
+ALJPEIHI_00995	gene	priA		
+ALJPEIHI_00996	CDS	trmH	2.1.1.34	tRNA (guanosine(18)-2'-O)-methyltransferase
+ALJPEIHI_00996	gene	trmH		
+ALJPEIHI_00997	CDS	rsmC	2.1.1.172	Ribosomal RNA small subunit methyltransferase C
+ALJPEIHI_00997	gene	rsmC		
+ALJPEIHI_00998	CDS	def	3.5.1.88	Peptide deformylase
+ALJPEIHI_00998	gene	def		
+ALJPEIHI_00999	CDS		6.2.1.3	Long-chain-fatty-acid--CoA ligase FadD13
+ALJPEIHI_00999	gene			
+ALJPEIHI_01000	CDS	lldD_1	1.1.-.-	Putative L-lactate dehydrogenase
+ALJPEIHI_01000	gene	lldD_1		
+ALJPEIHI_01001	CDS	pbuE_2		Purine efflux pump PbuE
+ALJPEIHI_01001	gene	pbuE_2		
+ALJPEIHI_01002	CDS		6.2.1.3	Long-chain-fatty-acid--CoA ligase FadD13
+ALJPEIHI_01002	gene			
+ALJPEIHI_01003	CDS	braC		Leucine-, isoleucine-, valine-, threonine-, and alanine-binding protein
+ALJPEIHI_01003	gene	braC		
+ALJPEIHI_01004	CDS	dinB	2.7.7.7	DNA polymerase IV
+ALJPEIHI_01004	gene	dinB		
+ALJPEIHI_01005	CDS	lcfB_3	6.2.1.3	Long-chain-fatty-acid--CoA ligase
+ALJPEIHI_01005	gene	lcfB_3		
+ALJPEIHI_01006	CDS	menB_2	4.1.3.36	1,4-dihydroxy-2-naphthoyl-CoA synthase
+ALJPEIHI_01006	gene	menB_2		
+ALJPEIHI_01007	CDS	eamA		putative amino-acid metabolite efflux pump
+ALJPEIHI_01007	gene	eamA		
+ALJPEIHI_01008	CDS	kanJ	1.14.11.37	Kanamycin B dioxygenase
+ALJPEIHI_01008	gene	kanJ		
+ALJPEIHI_01009	CDS	entE	6.3.2.14	Enterobactin synthase component E
+ALJPEIHI_01009	gene	entE		
+ALJPEIHI_01010	CDS	gdhI_2	1.1.1.47	Glucose 1-dehydrogenase 1
+ALJPEIHI_01010	gene	gdhI_2		
+ALJPEIHI_01011	CDS	fgd1_3	1.1.98.2	F420-dependent glucose-6-phosphate dehydrogenase
+ALJPEIHI_01011	gene	fgd1_3		
+ALJPEIHI_01012	CDS		1.2.-.-	Phthiodiolone/phenolphthiodiolone dimycocerosates ketoreductase
+ALJPEIHI_01012	gene			
+ALJPEIHI_01013	CDS			hypothetical protein
+ALJPEIHI_01013	gene			
+ALJPEIHI_01014	CDS	fgd_2	1.1.98.2	F420-dependent glucose-6-phosphate dehydrogenase
+ALJPEIHI_01014	gene	fgd_2		
+ALJPEIHI_01015	CDS		1.3.99.-	Putative acyl-CoA dehydrogenase FadE17
+ALJPEIHI_01015	gene			
+ALJPEIHI_01016	CDS			hypothetical protein
+ALJPEIHI_01016	gene			
+ALJPEIHI_01017	CDS			hypothetical protein
+ALJPEIHI_01017	gene			
+ALJPEIHI_01018	CDS			hypothetical protein
+ALJPEIHI_01018	gene			
+ALJPEIHI_01019	CDS	dhbC	5.4.4.2	Isochorismate synthase DhbC
+ALJPEIHI_01019	gene	dhbC		
+ALJPEIHI_01020	CDS	fabG2_2	1.-.-.-	putative oxidoreductase
+ALJPEIHI_01020	gene	fabG2_2		
+ALJPEIHI_01021	CDS			hypothetical protein
+ALJPEIHI_01021	gene			
+ALJPEIHI_01022	CDS	acoA	1.1.1.-	Acetoin:2,6-dichlorophenolindophenol oxidoreductase subunit alpha
+ALJPEIHI_01022	gene	acoA		
+ALJPEIHI_01023	CDS	acoB	1.1.1.-	Acetoin:2,6-dichlorophenolindophenol oxidoreductase subunit beta
+ALJPEIHI_01023	gene	acoB		
+ALJPEIHI_01024	tRNA			tRNA-Ala(tgc)
+ALJPEIHI_01024	gene			
+ALJPEIHI_01025	tRNA			tRNA-Ile(gat)
+ALJPEIHI_01025	gene			
+ALJPEIHI_01026	rRNA			16S ribosomal RNA
+ALJPEIHI_01026	gene			
+ALJPEIHI_01027	CDS	nupX		Putative nucleoside permease NupX
+ALJPEIHI_01027	gene	nupX		
+ALJPEIHI_01028	CDS	prdB	1.21.4.1	D-proline reductase subunit gamma
+ALJPEIHI_01028	gene	prdB		
+ALJPEIHI_01029	CDS			hypothetical protein
+ALJPEIHI_01029	gene			
+ALJPEIHI_01030	CDS	phrA	4.1.99.3	Deoxyribodipyrimidine photo-lyase
+ALJPEIHI_01030	gene	phrA		
+ALJPEIHI_01031	CDS	scpA		Segregation and condensation protein A
+ALJPEIHI_01031	gene	scpA		
+ALJPEIHI_01032	CDS	scpB		Segregation and condensation protein B
+ALJPEIHI_01032	gene	scpB		
+ALJPEIHI_01033	CDS	rluB	5.4.99.22	Ribosomal large subunit pseudouridine synthase B
+ALJPEIHI_01033	gene	rluB		
+ALJPEIHI_01034	CDS	tyrA_1	1.3.1.12	Prephenate dehydrogenase
+ALJPEIHI_01034	gene	tyrA_1		
+ALJPEIHI_01035	CDS	aroA	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+ALJPEIHI_01035	gene	aroA		
+ALJPEIHI_01036	CDS	tkt	2.2.1.1	Transketolase
+ALJPEIHI_01036	gene	tkt		
+ALJPEIHI_01037	CDS	tal	2.2.1.2	Transaldolase
+ALJPEIHI_01037	gene	tal		
+ALJPEIHI_01038	CDS			putative HTH-type transcriptional regulator
+ALJPEIHI_01038	gene			
+ALJPEIHI_01039	CDS	hppA1	3.6.1.1	Putative K(+)-stimulated pyrophosphate-energized sodium pump
+ALJPEIHI_01039	gene	hppA1		
+ALJPEIHI_01040	CDS	bpoC	1.11.1.18	Putative non-heme bromoperoxidase BpoC
+ALJPEIHI_01040	gene	bpoC		
+ALJPEIHI_01041	CDS	ddl	6.3.2.4	D-alanine--D-alanine ligase
+ALJPEIHI_01041	gene	ddl		
+ALJPEIHI_01042	CDS	icaR		Biofilm operon icaADBC HTH-type negative transcriptional regulator IcaR
+ALJPEIHI_01042	gene	icaR		
+ALJPEIHI_01043	CDS		3.1.3.-	putative phosphatase
+ALJPEIHI_01043	gene			
+ALJPEIHI_01044	CDS			hypothetical protein
+ALJPEIHI_01044	gene			
+ALJPEIHI_01045	CDS	citB	4.2.1.3	Aconitate hydratase A
+ALJPEIHI_01045	gene	citB		
+ALJPEIHI_01046	CDS			hypothetical protein
+ALJPEIHI_01046	gene			
+ALJPEIHI_01047	CDS			hypothetical protein
+ALJPEIHI_01047	gene			
+ALJPEIHI_01048	CDS			hypothetical protein
+ALJPEIHI_01048	gene			
+ALJPEIHI_01049	CDS	kduD_2	1.1.1.127	2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase
+ALJPEIHI_01049	gene	kduD_2		
+ALJPEIHI_01050	CDS	topA	5.99.1.2	DNA topoisomerase 1
+ALJPEIHI_01050	gene	topA		
+ALJPEIHI_01051	CDS			hypothetical protein
+ALJPEIHI_01051	gene			
+ALJPEIHI_01052	CDS	tmk	2.7.4.9	Thymidylate kinase
+ALJPEIHI_01052	gene	tmk		
+ALJPEIHI_01053	CDS	dnaX_2	2.7.7.7	DNA polymerase III subunit tau
+ALJPEIHI_01053	gene	dnaX_2		
+ALJPEIHI_01054	tRNA			tRNA-Thr(cgt)
+ALJPEIHI_01054	gene			
+ALJPEIHI_01055	CDS	sigH		ECF RNA polymerase sigma factor SigH
+ALJPEIHI_01055	gene	sigH		
+ALJPEIHI_01056	CDS			hypothetical protein
+ALJPEIHI_01056	gene			
+ALJPEIHI_01057	CDS			hypothetical protein
+ALJPEIHI_01057	gene			
+ALJPEIHI_01058	CDS			hypothetical protein
+ALJPEIHI_01058	gene			
+ALJPEIHI_01059	CDS	tilS	6.3.4.19	tRNA(Ile)-lysidine synthase
+ALJPEIHI_01059	gene	tilS		
+ALJPEIHI_01060	CDS	hpt	2.4.2.8	Hypoxanthine-guanine phosphoribosyltransferase
+ALJPEIHI_01060	gene	hpt		
+ALJPEIHI_01061	CDS			hypothetical protein
+ALJPEIHI_01061	gene			
+ALJPEIHI_01062	CDS	sulD		Bifunctional folate synthesis protein
+ALJPEIHI_01062	gene	sulD		
+ALJPEIHI_01063	CDS			hypothetical protein
+ALJPEIHI_01063	gene			
+ALJPEIHI_01064	CDS	livF_4		High-affinity branched-chain amino acid transport ATP-binding protein LivF
+ALJPEIHI_01064	gene	livF_4		
+ALJPEIHI_01065	CDS	proS	6.1.1.15	Proline--tRNA ligase
+ALJPEIHI_01065	gene	proS		
+ALJPEIHI_01066	CDS			hypothetical protein
+ALJPEIHI_01066	gene			
+ALJPEIHI_01067	CDS			hypothetical protein
+ALJPEIHI_01067	gene			
+ALJPEIHI_01068	CDS	pyrC_2	3.5.2.3	Dihydroorotase
+ALJPEIHI_01068	gene	pyrC_2		
+ALJPEIHI_01069	CDS			Putative enoyl-CoA hydratase EchA13
+ALJPEIHI_01069	gene			
+ALJPEIHI_01070	CDS			hypothetical protein
+ALJPEIHI_01070	gene			
+ALJPEIHI_01071	CDS	nuoH_1	1.6.5.11	NADH-quinone oxidoreductase subunit H
+ALJPEIHI_01071	gene	nuoH_1		
+ALJPEIHI_01072	CDS	nuoI_1	1.6.5.11	NADH-quinone oxidoreductase subunit I
+ALJPEIHI_01072	gene	nuoI_1		
+ALJPEIHI_01073	CDS	nuoJ_1	1.6.5.11	NADH-quinone oxidoreductase subunit J
+ALJPEIHI_01073	gene	nuoJ_1		
+ALJPEIHI_01074	CDS		1.6.5.11	NADH-quinone oxidoreductase subunit 11
+ALJPEIHI_01074	gene			
+ALJPEIHI_01075	CDS			hypothetical protein
+ALJPEIHI_01075	gene			
+ALJPEIHI_01076	CDS	sepF_2		Cell division protein SepF
+ALJPEIHI_01076	gene	sepF_2		
+ALJPEIHI_01077	CDS			hypothetical protein
+ALJPEIHI_01077	gene			
+ALJPEIHI_01078	CDS	ileS	6.1.1.5	Isoleucine--tRNA ligase
+ALJPEIHI_01078	gene	ileS		
+ALJPEIHI_01079	CDS	mcd	1.3.8.12	(2S)-methylsuccinyl-CoA dehydrogenase
+ALJPEIHI_01079	gene	mcd		
+ALJPEIHI_01080	CDS	caiD_3	4.2.1.149	Carnitinyl-CoA dehydratase
+ALJPEIHI_01080	gene	caiD_3		
+ALJPEIHI_01081	CDS		4.2.1.112	Acetylene hydratase
+ALJPEIHI_01081	gene			
+ALJPEIHI_01082	CDS	lcfB_4	6.2.1.3	Long-chain-fatty-acid--CoA ligase
+ALJPEIHI_01082	gene	lcfB_4		
+ALJPEIHI_01083	CDS	dhmA2	3.8.1.5	Haloalkane dehalogenase 2
+ALJPEIHI_01083	gene	dhmA2		
+ALJPEIHI_01084	CDS	tyrA_2		T-protein
+ALJPEIHI_01084	gene	tyrA_2		
+ALJPEIHI_01085	CDS			hypothetical protein
+ALJPEIHI_01085	gene			
+ALJPEIHI_01086	CDS			hypothetical protein
+ALJPEIHI_01086	gene			
+ALJPEIHI_01087	CDS			hypothetical protein
+ALJPEIHI_01087	gene			
+ALJPEIHI_01088	CDS	uctC_3	2.8.3.19	Acetyl-CoA:oxalate CoA-transferase
+ALJPEIHI_01088	gene	uctC_3		
+ALJPEIHI_01089	CDS		3.5.1.29	2-(acetamidomethylene)succinate hydrolase
+ALJPEIHI_01089	gene			
+ALJPEIHI_01090	CDS			hypothetical protein
+ALJPEIHI_01090	gene			
+ALJPEIHI_01091	CDS			hypothetical protein
+ALJPEIHI_01091	gene			
+ALJPEIHI_01092	CDS	hsaB	1.5.1.36	Flavin-dependent monooxygenase, reductase subunit HsaB
+ALJPEIHI_01092	gene	hsaB		
+ALJPEIHI_01093	CDS	caiE		Carnitine operon protein CaiE
+ALJPEIHI_01093	gene	caiE		
+ALJPEIHI_01094	CDS			hypothetical protein
+ALJPEIHI_01094	gene			
+ALJPEIHI_01095	CDS	dxr	1.1.1.267	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+ALJPEIHI_01095	gene	dxr		
+ALJPEIHI_01096	CDS	cdsA	2.7.7.41	Phosphatidate cytidylyltransferase
+ALJPEIHI_01096	gene	cdsA		
+ALJPEIHI_01097	CDS	frr		Ribosome-recycling factor
+ALJPEIHI_01097	gene	frr		
+ALJPEIHI_01098	CDS	pyrH	2.7.4.22	Uridylate kinase
+ALJPEIHI_01098	gene	pyrH		
+ALJPEIHI_01099	CDS	tsf		Elongation factor Ts
+ALJPEIHI_01099	gene	tsf		
+ALJPEIHI_01100	CDS	rpsB		30S ribosomal protein S2
+ALJPEIHI_01100	gene	rpsB		
+ALJPEIHI_01101	CDS	xerD_1		Tyrosine recombinase XerD
+ALJPEIHI_01101	gene	xerD_1		
+ALJPEIHI_01102	CDS	petJ		Cytochrome c6
+ALJPEIHI_01102	gene	petJ		
+ALJPEIHI_01103	CDS	crt_4	4.2.1.150	Short-chain-enoyl-CoA hydratase
+ALJPEIHI_01103	gene	crt_4		
+ALJPEIHI_01104	CDS			hypothetical protein
+ALJPEIHI_01104	gene			
+ALJPEIHI_01105	CDS	rplS		50S ribosomal protein L19
+ALJPEIHI_01105	gene	rplS		
+ALJPEIHI_01106	CDS	trmD	2.1.1.228	tRNA (guanine-N(1)-)-methyltransferase
+ALJPEIHI_01106	gene	trmD		
+ALJPEIHI_01107	CDS	rimM		Ribosome maturation factor RimM
+ALJPEIHI_01107	gene	rimM		
+ALJPEIHI_01108	CDS			hypothetical protein
+ALJPEIHI_01108	gene			
+ALJPEIHI_01109	CDS	yidC		Membrane protein insertase YidC
+ALJPEIHI_01109	gene	yidC		
+ALJPEIHI_01110	CDS	rnpA	3.1.26.5	Ribonuclease P protein component
+ALJPEIHI_01110	gene	rnpA		
+ALJPEIHI_01111	CDS			hypothetical protein
+ALJPEIHI_01111	gene			
+ALJPEIHI_01112	CDS	dnaA		Chromosomal replication initiator protein DnaA
+ALJPEIHI_01112	gene	dnaA		
+ALJPEIHI_01113	CDS	dnaN	2.7.7.7	DNA polymerase III subunit beta
+ALJPEIHI_01113	gene	dnaN		
+ALJPEIHI_01114	CDS	recF		DNA replication and repair protein RecF
+ALJPEIHI_01114	gene	recF		
+ALJPEIHI_01115	CDS			hypothetical protein
+ALJPEIHI_01115	gene			
+ALJPEIHI_01116	CDS	gyrB	5.99.1.3	DNA gyrase subunit B
+ALJPEIHI_01116	gene	gyrB		
+ALJPEIHI_01117	CDS	gyrA	5.99.1.3	DNA gyrase subunit A
+ALJPEIHI_01117	gene	gyrA		
+ALJPEIHI_01118	CDS			hypothetical protein
+ALJPEIHI_01118	gene			
+ALJPEIHI_01119	tRNA			tRNA-Ile(gat)
+ALJPEIHI_01119	gene			
+ALJPEIHI_01120	CDS			hypothetical protein
+ALJPEIHI_01120	gene			
+ALJPEIHI_01121	CDS	rip1	3.4.24.-	Zinc metalloprotease Rip1
+ALJPEIHI_01121	gene	rip1		
+ALJPEIHI_01122	CDS	ispG	1.17.7.3	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+ALJPEIHI_01122	gene	ispG		
+ALJPEIHI_01123	CDS	rimP		Ribosome maturation factor RimP
+ALJPEIHI_01123	gene	rimP		
+ALJPEIHI_01124	CDS	nusA		Transcription termination/antitermination protein NusA
+ALJPEIHI_01124	gene	nusA		
+ALJPEIHI_01125	CDS	infB		Translation initiation factor IF-2
+ALJPEIHI_01125	gene	infB		
+ALJPEIHI_01126	CDS	rbfA		Ribosome-binding factor A
+ALJPEIHI_01126	gene	rbfA		
+ALJPEIHI_01127	CDS	flhA	1.1.1.284	S-(hydroxymethyl)glutathione dehydrogenase
+ALJPEIHI_01127	gene	flhA		
+ALJPEIHI_01128	CDS	kduD_3	1.1.1.127	2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase
+ALJPEIHI_01128	gene	kduD_3		
+ALJPEIHI_01129	CDS	mch	4.2.1.148	Mesaconyl-CoA hydratase
+ALJPEIHI_01129	gene	mch		
+ALJPEIHI_01130	CDS	guaB	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+ALJPEIHI_01130	gene	guaB		
+ALJPEIHI_01131	CDS	plsC	2.3.1.-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+ALJPEIHI_01131	gene	plsC		
+ALJPEIHI_01132	CDS	fabG_8	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+ALJPEIHI_01132	gene	fabG_8		
+ALJPEIHI_01133	CDS	idnD	1.1.1.264	L-idonate 5-dehydrogenase (NAD(P)(+))
+ALJPEIHI_01133	gene	idnD		
+ALJPEIHI_01134	CDS	mhqP	1.-.-.-	Putative oxidoreductase MhqP
+ALJPEIHI_01134	gene	mhqP		
+ALJPEIHI_01135	CDS			hypothetical protein
+ALJPEIHI_01135	gene			
+ALJPEIHI_01136	CDS	crgA		Cell division protein CrgA
+ALJPEIHI_01136	gene	crgA		
+ALJPEIHI_01137	CDS	trpG	4.1.3.27	Anthranilate synthase component 2
+ALJPEIHI_01137	gene	trpG		
+ALJPEIHI_01138	CDS	pknB	2.7.11.1	Serine/threonine-protein kinase PknB
+ALJPEIHI_01138	gene	pknB		
+ALJPEIHI_01139	CDS	stp	3.1.3.16	Serine/threonine phosphatase stp
+ALJPEIHI_01139	gene	stp		
+ALJPEIHI_01140	CDS	caiD_4	4.2.1.149	Carnitinyl-CoA dehydratase
+ALJPEIHI_01140	gene	caiD_4		
+ALJPEIHI_01141	tRNA			tRNA-Leu(cag)
+ALJPEIHI_01141	gene			
+ALJPEIHI_01142	CDS			hypothetical protein
+ALJPEIHI_01142	gene			
+ALJPEIHI_01143	CDS	baeB	3.-.-.-	putative polyketide biosynthesis zinc-dependent hydrolase BaeB
+ALJPEIHI_01143	gene	baeB		
+ALJPEIHI_01144	CDS	pheA	4.2.1.51	Prephenate dehydratase
+ALJPEIHI_01144	gene	pheA		
+ALJPEIHI_01145	CDS	gdh	1.1.1.47	Glucose 1-dehydrogenase
+ALJPEIHI_01145	gene	gdh		
+ALJPEIHI_01146	CDS	rpsA		30S ribosomal protein S1
+ALJPEIHI_01146	gene	rpsA		
+ALJPEIHI_01147	CDS	cfa	2.1.1.79	Cyclopropane-fatty-acyl-phospholipid synthase
+ALJPEIHI_01147	gene	cfa		
+ALJPEIHI_01148	CDS	polA_2	2.7.7.7	DNA polymerase I, thermostable
+ALJPEIHI_01148	gene	polA_2		
+ALJPEIHI_01149	CDS	pdtaR		putative transcriptional regulatory protein pdtaR
+ALJPEIHI_01149	gene	pdtaR		
+ALJPEIHI_01150	CDS			hypothetical protein
+ALJPEIHI_01150	gene			
+ALJPEIHI_01151	tRNA			tRNA-Leu(caa)
+ALJPEIHI_01151	gene			
+ALJPEIHI_01152	CDS	fabD	2.3.1.39	Malonyl CoA-acyl carrier protein transacylase
+ALJPEIHI_01152	gene	fabD		
+ALJPEIHI_01153	CDS	fabH_1	2.3.1.180	3-oxoacyl-[acyl-carrier-protein] synthase 3
+ALJPEIHI_01153	gene	fabH_1		
+ALJPEIHI_01154	CDS	fabG1	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG1
+ALJPEIHI_01154	gene	fabG1		
+ALJPEIHI_01155	CDS	acpP_2		Acyl carrier protein
+ALJPEIHI_01155	gene	acpP_2		
+ALJPEIHI_01156	CDS		1.1.2.-	L-gulono-1,4-lactone dehydrogenase
+ALJPEIHI_01156	gene			
+ALJPEIHI_01157	CDS	galE	5.1.3.2	UDP-glucose 4-epimerase
+ALJPEIHI_01157	gene	galE		
+ALJPEIHI_01158	CDS			hypothetical protein
+ALJPEIHI_01158	gene			
+ALJPEIHI_01159	CDS	mhuD	1.14.14.18	Heme-degrading monooxygenase HmoB
+ALJPEIHI_01159	gene	mhuD		
+ALJPEIHI_01160	CDS	smtB_3	2.8.3.22	Succinyl-CoA--L-malate CoA-transferase beta subunit
+ALJPEIHI_01160	gene	smtB_3		
+ALJPEIHI_01161	CDS			hypothetical protein
+ALJPEIHI_01161	gene			
+ALJPEIHI_01162	CDS	uvrD2	3.6.4.12	ATP-dependent DNA helicase UvrD2
+ALJPEIHI_01162	gene	uvrD2		
+ALJPEIHI_01163	CDS	pheP		Phenylalanine-specific permease
+ALJPEIHI_01163	gene	pheP		
+ALJPEIHI_01164	CDS	xthA	3.1.11.2	Exodeoxyribonuclease III
+ALJPEIHI_01164	gene	xthA		
+ALJPEIHI_01165	CDS	yihX_3	3.1.3.10	Alpha-D-glucose 1-phosphate phosphatase YihX
+ALJPEIHI_01165	gene	yihX_3		
+ALJPEIHI_01166	CDS	tauD_3	1.14.11.17	Alpha-ketoglutarate-dependent taurine dioxygenase
+ALJPEIHI_01166	gene	tauD_3		
+ALJPEIHI_01167	tRNA			tRNA-Arg(tct)
+ALJPEIHI_01167	gene			
+ALJPEIHI_01168	CDS	glcB	2.3.3.9	Malate synthase G
+ALJPEIHI_01168	gene	glcB		
+ALJPEIHI_01169	CDS			hypothetical protein
+ALJPEIHI_01169	gene			
+ALJPEIHI_01170	CDS	nap	3.1.1.1	putative carboxylesterase nap
+ALJPEIHI_01170	gene	nap		
+ALJPEIHI_01171	CDS	ymfD		Bacillibactin exporter
+ALJPEIHI_01171	gene	ymfD		
+ALJPEIHI_01172	CDS			hypothetical protein
+ALJPEIHI_01172	gene			
+ALJPEIHI_01173	CDS	pspB_2	3.1.3.3	Putative phosphoserine phosphatase 2
+ALJPEIHI_01173	gene	pspB_2		
+ALJPEIHI_01174	CDS			hypothetical protein
+ALJPEIHI_01174	gene			
+ALJPEIHI_01175	CDS			hypothetical protein
+ALJPEIHI_01175	gene			
+ALJPEIHI_01176	CDS	pbpG		Penicillin-binding protein 2D
+ALJPEIHI_01176	gene	pbpG		
+ALJPEIHI_01177	CDS			hypothetical protein
+ALJPEIHI_01177	gene			
+ALJPEIHI_01178	CDS	suhB_2	3.1.3.25	Inositol-1-monophosphatase
+ALJPEIHI_01178	gene	suhB_2		
+ALJPEIHI_01179	CDS		3.1.6.1	Arylsulfatase
+ALJPEIHI_01179	gene			
+ALJPEIHI_01180	CDS			hypothetical protein
+ALJPEIHI_01180	gene			
+ALJPEIHI_01181	CDS			hypothetical protein
+ALJPEIHI_01181	gene			
+ALJPEIHI_01182	CDS	cypB_2		Bifunctional cytochrome P450/NADPH--P450 reductase 2
+ALJPEIHI_01182	gene	cypB_2		
+ALJPEIHI_01183	CDS			hypothetical protein
+ALJPEIHI_01183	gene			
+ALJPEIHI_01184	CDS			hypothetical protein
+ALJPEIHI_01184	gene			
+ALJPEIHI_01185	CDS	phnC	3.6.3.27	Phosphate-import ATP-binding protein PhnC
+ALJPEIHI_01185	gene	phnC		
+ALJPEIHI_01186	CDS	phnD		Phosphate-import protein PhnD
+ALJPEIHI_01186	gene	phnD		
+ALJPEIHI_01187	CDS	phnF		putative transcriptional regulator PhnF
+ALJPEIHI_01187	gene	phnF		
+ALJPEIHI_01188	CDS			hypothetical protein
+ALJPEIHI_01188	gene			
+ALJPEIHI_01189	CDS	phnH	2.7.8.37	Alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnH
+ALJPEIHI_01189	gene	phnH		
+ALJPEIHI_01190	CDS	phnI	2.7.8.37	Alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnI
+ALJPEIHI_01190	gene	phnI		
+ALJPEIHI_01191	CDS	phnJ	4.7.1.1	Alpha-D-ribose 1-methylphosphonate 5-phosphate C-P lyase
+ALJPEIHI_01191	gene	phnJ		
+ALJPEIHI_01192	CDS	phnK		Putative phosphonates utilization ATP-binding protein PhnK
+ALJPEIHI_01192	gene	phnK		
+ALJPEIHI_01193	CDS	yjcS_2	3.1.6.-	Putative alkyl/aryl-sulfatase YjcS
+ALJPEIHI_01193	gene	yjcS_2		
+ALJPEIHI_01194	CDS	lcfB_5	6.2.1.3	Long-chain-fatty-acid--CoA ligase
+ALJPEIHI_01194	gene	lcfB_5		
+ALJPEIHI_01195	CDS	iolI	5.3.99.11	Inosose isomerase
+ALJPEIHI_01195	gene	iolI		
+ALJPEIHI_01196	CDS	rplM		50S ribosomal protein L13
+ALJPEIHI_01196	gene	rplM		
+ALJPEIHI_01197	CDS	truA	5.4.99.12	tRNA pseudouridine synthase A
+ALJPEIHI_01197	gene	truA		
+ALJPEIHI_01198	CDS	rplQ		50S ribosomal protein L17
+ALJPEIHI_01198	gene	rplQ		
+ALJPEIHI_01199	CDS	rpoA	2.7.7.6	DNA-directed RNA polymerase subunit alpha
+ALJPEIHI_01199	gene	rpoA		
+ALJPEIHI_01200	CDS	rpsD		30S ribosomal protein S4
+ALJPEIHI_01200	gene	rpsD		
+ALJPEIHI_01201	CDS	rpsK		30S ribosomal protein S11
+ALJPEIHI_01201	gene	rpsK		
+ALJPEIHI_01202	CDS	rpsM		30S ribosomal protein S13
+ALJPEIHI_01202	gene	rpsM		
+ALJPEIHI_01203	CDS	infA		Translation initiation factor IF-1
+ALJPEIHI_01203	gene	infA		
+ALJPEIHI_01204	CDS	adk	2.7.4.3	Adenylate kinase
+ALJPEIHI_01204	gene	adk		
+ALJPEIHI_01205	CDS	secY		Protein translocase subunit SecY
+ALJPEIHI_01205	gene	secY		
+ALJPEIHI_01206	CDS	rplO		50S ribosomal protein L15
+ALJPEIHI_01206	gene	rplO		
+ALJPEIHI_01207	CDS	rpmD		50S ribosomal protein L30
+ALJPEIHI_01207	gene	rpmD		
+ALJPEIHI_01208	CDS	rpsE		30S ribosomal protein S5
+ALJPEIHI_01208	gene	rpsE		
+ALJPEIHI_01209	CDS	rplR		50S ribosomal protein L18
+ALJPEIHI_01209	gene	rplR		
+ALJPEIHI_01210	CDS	rplF		50S ribosomal protein L6
+ALJPEIHI_01210	gene	rplF		
+ALJPEIHI_01211	CDS	rpsH		30S ribosomal protein S8
+ALJPEIHI_01211	gene	rpsH		
+ALJPEIHI_01212	CDS	rplE		50S ribosomal protein L5
+ALJPEIHI_01212	gene	rplE		
+ALJPEIHI_01213	CDS	rplX		50S ribosomal protein L24
+ALJPEIHI_01213	gene	rplX		
+ALJPEIHI_01214	CDS	rplN		50S ribosomal protein L14
+ALJPEIHI_01214	gene	rplN		
+ALJPEIHI_01215	CDS	rpsQ		30S ribosomal protein S17
+ALJPEIHI_01215	gene	rpsQ		
+ALJPEIHI_01216	CDS	rpmC		50S ribosomal protein L29
+ALJPEIHI_01216	gene	rpmC		
+ALJPEIHI_01217	CDS	rplP		50S ribosomal protein L16
+ALJPEIHI_01217	gene	rplP		
+ALJPEIHI_01218	CDS	rpsC		30S ribosomal protein S3
+ALJPEIHI_01218	gene	rpsC		
+ALJPEIHI_01219	CDS	rplV		50S ribosomal protein L22
+ALJPEIHI_01219	gene	rplV		
+ALJPEIHI_01220	CDS	rpsS		30S ribosomal protein S19
+ALJPEIHI_01220	gene	rpsS		
+ALJPEIHI_01221	CDS	rplB		50S ribosomal protein L2
+ALJPEIHI_01221	gene	rplB		
+ALJPEIHI_01222	CDS	rplW		50S ribosomal protein L23
+ALJPEIHI_01222	gene	rplW		
+ALJPEIHI_01223	CDS	rplD		50S ribosomal protein L4
+ALJPEIHI_01223	gene	rplD		
+ALJPEIHI_01224	CDS	rplC		50S ribosomal protein L3
+ALJPEIHI_01224	gene	rplC		
+ALJPEIHI_01225	CDS	rpsJ		30S ribosomal protein S10
+ALJPEIHI_01225	gene	rpsJ		
+ALJPEIHI_01226	CDS	tufA		Elongation factor Tu
+ALJPEIHI_01226	gene	tufA		
+ALJPEIHI_01227	CDS	fusA		Elongation factor G
+ALJPEIHI_01227	gene	fusA		
+ALJPEIHI_01228	CDS	rpsG		30S ribosomal protein S7
+ALJPEIHI_01228	gene	rpsG		
+ALJPEIHI_01229	CDS	rpsL		30S ribosomal protein S12
+ALJPEIHI_01229	gene	rpsL		
+ALJPEIHI_01230	CDS	rpoC	2.7.7.6	DNA-directed RNA polymerase subunit beta'
+ALJPEIHI_01230	gene	rpoC		
+ALJPEIHI_01231	CDS	rpoB	2.7.7.6	DNA-directed RNA polymerase subunit beta
+ALJPEIHI_01231	gene	rpoB		
+ALJPEIHI_01232	CDS	rplL		50S ribosomal protein L7/L12
+ALJPEIHI_01232	gene	rplL		
+ALJPEIHI_01233	CDS			hypothetical protein
+ALJPEIHI_01233	gene			
+ALJPEIHI_01234	CDS	folB	4.1.2.25	Dihydroneopterin aldolase
+ALJPEIHI_01234	gene	folB		
+ALJPEIHI_01235	CDS	garK	2.7.1.165	Glycerate 2-kinase
+ALJPEIHI_01235	gene	garK		
+ALJPEIHI_01236	CDS			hypothetical protein
+ALJPEIHI_01236	gene			
+ALJPEIHI_01237	CDS			hypothetical protein
+ALJPEIHI_01237	gene			
+ALJPEIHI_01238	tRNA			tRNA-Thr(tgt)
+ALJPEIHI_01238	gene			
+ALJPEIHI_01239	CDS		2.1.1.-	Putative TrmH family tRNA/rRNA methyltransferase
+ALJPEIHI_01239	gene			
+ALJPEIHI_01240	CDS			Green-light absorbing proteorhodopsin
+ALJPEIHI_01240	gene			
+ALJPEIHI_01241	CDS	blh	3.-.-.-	Beta-lactamase hydrolase-like protein
+ALJPEIHI_01241	gene	blh		
+ALJPEIHI_01242	CDS			hypothetical protein
+ALJPEIHI_01242	gene			
+ALJPEIHI_01243	tRNA			tRNA-Gln(ctg)
+ALJPEIHI_01243	gene			
+ALJPEIHI_01244	tRNA			tRNA-Glu(ctc)
+ALJPEIHI_01244	gene			
+ALJPEIHI_01245	CDS			hypothetical protein
+ALJPEIHI_01245	gene			
+ALJPEIHI_01246	CDS	gltX	6.1.1.17	Glutamate--tRNA ligase
+ALJPEIHI_01246	gene	gltX		
+ALJPEIHI_01247	CDS			hypothetical protein
+ALJPEIHI_01247	gene			
+ALJPEIHI_01248	CDS	cimA	2.3.1.182	(R)-citramalate synthase
+ALJPEIHI_01248	gene	cimA		
+ALJPEIHI_01249	CDS	ilvE	2.6.1.42	Branched-chain-amino-acid aminotransferase
+ALJPEIHI_01249	gene	ilvE		
+ALJPEIHI_01250	CDS	leuB	1.1.1.85	3-isopropylmalate dehydrogenase
+ALJPEIHI_01250	gene	leuB		
+ALJPEIHI_01251	CDS	greA		Transcription elongation factor GreA
+ALJPEIHI_01251	gene	greA		
+ALJPEIHI_01252	CDS			hypothetical protein
+ALJPEIHI_01252	gene			
+ALJPEIHI_01253	CDS	leuC	4.2.1.33	3-isopropylmalate dehydratase large subunit
+ALJPEIHI_01253	gene	leuC		
+ALJPEIHI_01254	CDS	leuD	4.2.1.33	3-isopropylmalate dehydratase small subunit
+ALJPEIHI_01254	gene	leuD		
+ALJPEIHI_01255	CDS			hypothetical protein
+ALJPEIHI_01255	gene			
+ALJPEIHI_01256	CDS			hypothetical protein
+ALJPEIHI_01256	gene			
+ALJPEIHI_01257	CDS	serA	1.1.1.95	D-3-phosphoglycerate dehydrogenase
+ALJPEIHI_01257	gene	serA		
+ALJPEIHI_01258	CDS			hypothetical protein
+ALJPEIHI_01258	gene			
+ALJPEIHI_01259	CDS			hypothetical protein
+ALJPEIHI_01259	gene			
+ALJPEIHI_01260	CDS	dapb3	3.4.14.-	Dipeptidyl aminopeptidase BIII
+ALJPEIHI_01260	gene	dapb3		
+ALJPEIHI_01261	CDS		2.6.1.1	Aspartate aminotransferase
+ALJPEIHI_01261	gene			
+ALJPEIHI_01262	CDS	serC	2.6.1.52	Phosphoserine aminotransferase
+ALJPEIHI_01262	gene	serC		
+ALJPEIHI_01263	CDS			hypothetical protein
+ALJPEIHI_01263	gene			
+ALJPEIHI_01264	CDS	frc_1	2.8.3.16	Formyl-CoA:oxalate CoA-transferase
+ALJPEIHI_01264	gene	frc_1		
+ALJPEIHI_01265	CDS			hypothetical protein
+ALJPEIHI_01265	gene			
+ALJPEIHI_01266	CDS	potB		Spermidine/putrescine transport system permease protein PotB
+ALJPEIHI_01266	gene	potB		
+ALJPEIHI_01267	CDS	phnV		Putative 2-aminoethylphosphonate transport system permease protein PhnV
+ALJPEIHI_01267	gene	phnV		
+ALJPEIHI_01268	CDS	spuD		Putrescine-binding periplasmic protein SpuD
+ALJPEIHI_01268	gene	spuD		
+ALJPEIHI_01269	CDS	bauC	1.2.1.-	Putative 3-oxopropanoate dehydrogenase
+ALJPEIHI_01269	gene	bauC		
+ALJPEIHI_01270	CDS		2.4.2.-	Putative glutamine amidotransferase
+ALJPEIHI_01270	gene			
+ALJPEIHI_01271	CDS			hypothetical protein
+ALJPEIHI_01271	gene			
+ALJPEIHI_01272	CDS			hypothetical protein
+ALJPEIHI_01272	gene			
+ALJPEIHI_01273	CDS	gap3	1.2.1.12	Glyceraldehyde-3-phosphate dehydrogenase 3
+ALJPEIHI_01273	gene	gap3		
+ALJPEIHI_01274	CDS			hypothetical protein
+ALJPEIHI_01274	gene			
+ALJPEIHI_01275	CDS			hypothetical protein
+ALJPEIHI_01275	gene			
+ALJPEIHI_01276	CDS			hypothetical protein
+ALJPEIHI_01276	gene			
+ALJPEIHI_01277	CDS	cutL_3	1.2.5.3	Carbon monoxide dehydrogenase large chain
+ALJPEIHI_01277	gene	cutL_3		
+ALJPEIHI_01278	CDS	antA_2	1.14.12.1	Anthranilate 1,2-dioxygenase large subunit
+ALJPEIHI_01278	gene	antA_2		
+ALJPEIHI_01279	CDS			hypothetical protein
+ALJPEIHI_01279	gene			
+ALJPEIHI_01280	CDS			hypothetical protein
+ALJPEIHI_01280	gene			
+ALJPEIHI_01281	CDS	limB_2	1.14.13.107	Limonene 1,2-monooxygenase
+ALJPEIHI_01281	gene	limB_2		
+ALJPEIHI_01282	CDS			hypothetical protein
+ALJPEIHI_01282	gene			
+ALJPEIHI_01283	CDS	fgd_3	1.1.98.2	F420-dependent glucose-6-phosphate dehydrogenase
+ALJPEIHI_01283	gene	fgd_3		
+ALJPEIHI_01284	CDS			hypothetical protein
+ALJPEIHI_01284	gene			
+ALJPEIHI_01285	CDS			hypothetical protein
+ALJPEIHI_01285	gene			
+ALJPEIHI_01286	CDS	fgd2_3	1.1.98.-	F420-dependent hydroxymycolic acid dehydrogenase
+ALJPEIHI_01286	gene	fgd2_3		
+ALJPEIHI_01287	CDS	fabG_9	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+ALJPEIHI_01287	gene	fabG_9		
+ALJPEIHI_01288	CDS	ddc	4.1.1.86	L-2,4-diaminobutyrate decarboxylase
+ALJPEIHI_01288	gene	ddc		
+ALJPEIHI_01289	CDS	ybaK_2	4.2.-.-	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+ALJPEIHI_01289	gene	ybaK_2		
+ALJPEIHI_01290	CDS	decR		DNA-binding transcriptional activator DecR
+ALJPEIHI_01290	gene	decR		
+ALJPEIHI_01291	CDS	nusG		Transcription termination/antitermination protein NusG
+ALJPEIHI_01291	gene	nusG		
+ALJPEIHI_01292	CDS	secE		Protein translocase subunit SecE
+ALJPEIHI_01292	gene	secE		
+ALJPEIHI_01293	tRNA			tRNA-Trp(cca)
+ALJPEIHI_01293	gene			
+ALJPEIHI_01294	CDS		2.3.1.-	L-methionine sulfoximine/L-methionine sulfone acetyltransferase
+ALJPEIHI_01294	gene			
+ALJPEIHI_01295	tRNA			tRNA-Met(cat)
+ALJPEIHI_01295	gene			
+ALJPEIHI_01296	tRNA			tRNA-Thr(ggt)
+ALJPEIHI_01296	gene			
+ALJPEIHI_01297	tRNA			tRNA-Tyr(gta)
+ALJPEIHI_01297	gene			
+ALJPEIHI_01298	CDS			hypothetical protein
+ALJPEIHI_01298	gene			
+ALJPEIHI_01299	CDS			hypothetical protein
+ALJPEIHI_01299	gene			
+ALJPEIHI_01300	CDS			hypothetical protein
+ALJPEIHI_01300	gene			
+ALJPEIHI_01301	CDS	betC	3.1.6.6	Choline-sulfatase
+ALJPEIHI_01301	gene	betC		
+ALJPEIHI_01302	CDS	acsA	6.2.1.1	Acetyl-coenzyme A synthetase
+ALJPEIHI_01302	gene	acsA		
+ALJPEIHI_01303	CDS			hypothetical protein
+ALJPEIHI_01303	gene			
+ALJPEIHI_01304	CDS	nuoN_1	1.6.5.11	NADH-quinone oxidoreductase subunit N
+ALJPEIHI_01304	gene	nuoN_1		
+ALJPEIHI_01305	CDS	ndhD1	1.6.5.-	NAD(P)H-quinone oxidoreductase chain 4 1
+ALJPEIHI_01305	gene	ndhD1		
+ALJPEIHI_01306	CDS	nuoL_2	1.6.5.11	NADH-quinone oxidoreductase subunit L
+ALJPEIHI_01306	gene	nuoL_2		
+ALJPEIHI_01307	CDS		1.6.5.11	NADH-quinone oxidoreductase subunit 11
+ALJPEIHI_01307	gene			
+ALJPEIHI_01308	CDS	nuoJ_2	1.6.5.11	NADH-quinone oxidoreductase subunit J
+ALJPEIHI_01308	gene	nuoJ_2		
+ALJPEIHI_01309	CDS	ndhI_2	1.6.5.-	NAD(P)H-quinone oxidoreductase subunit I
+ALJPEIHI_01309	gene	ndhI_2		
+ALJPEIHI_01310	CDS	nuoH_2	1.6.5.11	NADH-quinone oxidoreductase subunit H
+ALJPEIHI_01310	gene	nuoH_2		
+ALJPEIHI_01311	CDS	nqo4	1.6.5.11	NADH-quinone oxidoreductase subunit 4
+ALJPEIHI_01311	gene	nqo4		
+ALJPEIHI_01312	CDS	nuoC_1	1.6.5.11	NADH-quinone oxidoreductase subunit C/D
+ALJPEIHI_01312	gene	nuoC_1		
+ALJPEIHI_01313	CDS	nuoB_1	1.6.5.11	NADH-quinone oxidoreductase subunit B
+ALJPEIHI_01313	gene	nuoB_1		
+ALJPEIHI_01314	CDS	ndhC	1.6.5.-	NAD(P)H-quinone oxidoreductase subunit 3
+ALJPEIHI_01314	gene	ndhC		
+ALJPEIHI_01315	CDS	nuoN_2	1.6.5.11	NADH-quinone oxidoreductase subunit N
+ALJPEIHI_01315	gene	nuoN_2		
+ALJPEIHI_01316	CDS	csgA		C-factor
+ALJPEIHI_01316	gene	csgA		
+ALJPEIHI_01317	CDS	emrY		putative multidrug resistance protein EmrY
+ALJPEIHI_01317	gene	emrY		
+ALJPEIHI_01318	CDS		1.1.1.119	Glucose 1-dehydrogenase
+ALJPEIHI_01318	gene			
+ALJPEIHI_01319	CDS			hypothetical protein
+ALJPEIHI_01319	gene			
+ALJPEIHI_01320	CDS			hypothetical protein
+ALJPEIHI_01320	gene			
+ALJPEIHI_01321	CDS			hypothetical protein
+ALJPEIHI_01321	gene			
+ALJPEIHI_01322	CDS	absAa_1	1.14.12.14	2-aminobenzenesulfonate 2,3-dioxygenase subunit alpha
+ALJPEIHI_01322	gene	absAa_1		
+ALJPEIHI_01323	CDS	bacC	1.1.1.385	Dihydroanticapsin 7-dehydrogenase
+ALJPEIHI_01323	gene	bacC		
+ALJPEIHI_01324	CDS	ybaN		Inner membrane protein YbaN
+ALJPEIHI_01324	gene	ybaN		
+ALJPEIHI_01325	CDS	fgd_4	1.1.98.2	F420-dependent glucose-6-phosphate dehydrogenase
+ALJPEIHI_01325	gene	fgd_4		
+ALJPEIHI_01326	CDS	atsA_2	3.1.6.1	Arylsulfatase
+ALJPEIHI_01326	gene	atsA_2		
+ALJPEIHI_01327	CDS			hypothetical protein
+ALJPEIHI_01327	gene			
+ALJPEIHI_01328	CDS			hypothetical protein
+ALJPEIHI_01328	gene			
+ALJPEIHI_01329	CDS			hypothetical protein
+ALJPEIHI_01329	gene			
+ALJPEIHI_01330	CDS	lon	3.4.21.53	Lon protease
+ALJPEIHI_01330	gene	lon		
+ALJPEIHI_01331	CDS			hypothetical protein
+ALJPEIHI_01331	gene			
+ALJPEIHI_01332	CDS			hypothetical protein
+ALJPEIHI_01332	gene			
+ALJPEIHI_01333	CDS	mreB_1		Rod shape-determining protein MreB
+ALJPEIHI_01333	gene	mreB_1		
+ALJPEIHI_01334	CDS			hypothetical protein
+ALJPEIHI_01334	gene			
+ALJPEIHI_01335	CDS	moaE1	2.8.1.12	Molybdopterin synthase catalytic subunit 1
+ALJPEIHI_01335	gene	moaE1		
+ALJPEIHI_01336	CDS			hypothetical protein
+ALJPEIHI_01336	gene			
+ALJPEIHI_01337	CDS	fcl	1.1.1.271	GDP-L-fucose synthase
+ALJPEIHI_01337	gene	fcl		
+ALJPEIHI_01338	CDS			hypothetical protein
+ALJPEIHI_01338	gene			
+ALJPEIHI_01339	CDS	bglB	3.2.1.21	Thermostable beta-glucosidase B
+ALJPEIHI_01339	gene	bglB		
+ALJPEIHI_01340	CDS	fabG_10	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+ALJPEIHI_01340	gene	fabG_10		
+ALJPEIHI_01341	CDS		1.14.-.-	Cytochrome P450-terp
+ALJPEIHI_01341	gene			
+ALJPEIHI_01342	CDS		2.1.3.1	Methylmalonyl-CoA carboxyltransferase 12S subunit
+ALJPEIHI_01342	gene			
+ALJPEIHI_01343	CDS			hypothetical protein
+ALJPEIHI_01343	gene			
+ALJPEIHI_01344	CDS			hypothetical protein
+ALJPEIHI_01344	gene			
+ALJPEIHI_01345	CDS	ribE	2.5.1.9	Riboflavin synthase
+ALJPEIHI_01345	gene	ribE		
+ALJPEIHI_01346	CDS	ribBA		Riboflavin biosynthesis protein RibBA
+ALJPEIHI_01346	gene	ribBA		
+ALJPEIHI_01347	CDS	ribH	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+ALJPEIHI_01347	gene	ribH		
+ALJPEIHI_01348	CDS	malL	3.2.1.10	Oligo-1,6-glucosidase
+ALJPEIHI_01348	gene	malL		
+ALJPEIHI_01349	CDS		3.6.3.-	Putative multidrug export ATP-binding/permease protein
+ALJPEIHI_01349	gene			
+ALJPEIHI_01350	CDS			putative ABC transporter ATP-binding protein
+ALJPEIHI_01350	gene			
+ALJPEIHI_01351	CDS	mdh	1.1.1.37	Malate dehydrogenase
+ALJPEIHI_01351	gene	mdh		
+ALJPEIHI_01352	CDS			hypothetical protein
+ALJPEIHI_01352	gene			
+ALJPEIHI_01353	CDS	dagK_2	2.7.1.107	Diacylglycerol kinase
+ALJPEIHI_01353	gene	dagK_2		
+ALJPEIHI_01354	CDS			hypothetical protein
+ALJPEIHI_01354	gene			
+ALJPEIHI_01355	CDS	pksS	1.14.-.-	Polyketide biosynthesis cytochrome P450 PksS
+ALJPEIHI_01355	gene	pksS		
+ALJPEIHI_01356	CDS			hypothetical protein
+ALJPEIHI_01356	gene			
+ALJPEIHI_01357	CDS			hypothetical protein
+ALJPEIHI_01357	gene			
+ALJPEIHI_01358	CDS			hypothetical protein
+ALJPEIHI_01358	gene			
+ALJPEIHI_01359	CDS		1.-.-.-	Putative coenzyme F420-dependent oxidoreductase
+ALJPEIHI_01359	gene			
+ALJPEIHI_01360	CDS	fadD3_3	6.2.1.41	3-[(3aS,4S,7aS)-7a-methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoyl:CoA ligase
+ALJPEIHI_01360	gene	fadD3_3		
+ALJPEIHI_01361	CDS			hypothetical protein
+ALJPEIHI_01361	gene			
+ALJPEIHI_01362	CDS			hypothetical protein
+ALJPEIHI_01362	gene			
+ALJPEIHI_01363	CDS	ribZ		Riboflavin transporter RibZ
+ALJPEIHI_01363	gene	ribZ		
+ALJPEIHI_01364	CDS		1.11.1.15	Alkyl hydroperoxide reductase subunit C
+ALJPEIHI_01364	gene			
+ALJPEIHI_01365	CDS	yjiB_3	1.14.-.-	Putative cytochrome P450 YjiB
+ALJPEIHI_01365	gene	yjiB_3		
+ALJPEIHI_01366	CDS	fur		Ferric uptake regulation protein
+ALJPEIHI_01366	gene	fur		
+ALJPEIHI_01367	CDS	yusV		putative siderophore transport system ATP-binding protein YusV
+ALJPEIHI_01367	gene	yusV		
+ALJPEIHI_01368	tRNA			tRNA-Arg(cct)
+ALJPEIHI_01368	gene			
+ALJPEIHI_01369	CDS			hypothetical protein
+ALJPEIHI_01369	gene			
+ALJPEIHI_01370	CDS	pstC_1		Phosphate transport system permease protein PstC
+ALJPEIHI_01370	gene	pstC_1		
+ALJPEIHI_01371	CDS	pstC_2		Phosphate transport system permease protein PstC
+ALJPEIHI_01371	gene	pstC_2		
+ALJPEIHI_01372	CDS	pstS		Phosphate-binding protein PstS
+ALJPEIHI_01372	gene	pstS		
+ALJPEIHI_01373	CDS			hypothetical protein
+ALJPEIHI_01373	gene			
+ALJPEIHI_01374	CDS			hypothetical protein
+ALJPEIHI_01374	gene			
+ALJPEIHI_01375	CDS	novR_2	4.1.-.-	Decarboxylase NovR
+ALJPEIHI_01375	gene	novR_2		
+ALJPEIHI_01376	CDS			hypothetical protein
+ALJPEIHI_01376	gene			
+ALJPEIHI_01377	CDS			hypothetical protein
+ALJPEIHI_01377	gene			
+ALJPEIHI_01378	CDS			hypothetical protein
+ALJPEIHI_01378	gene			
+ALJPEIHI_01379	CDS			hypothetical protein
+ALJPEIHI_01379	gene			
+ALJPEIHI_01380	CDS			hypothetical protein
+ALJPEIHI_01380	gene			
+ALJPEIHI_01381	CDS			hypothetical protein
+ALJPEIHI_01381	gene			
+ALJPEIHI_01382	CDS	engB		putative GTP-binding protein EngB
+ALJPEIHI_01382	gene	engB		
+ALJPEIHI_01383	CDS			hypothetical protein
+ALJPEIHI_01383	gene			
+ALJPEIHI_01384	CDS			hypothetical protein
+ALJPEIHI_01384	gene			
+ALJPEIHI_01385	CDS	absAa_2	1.14.12.14	2-aminobenzenesulfonate 2,3-dioxygenase subunit alpha
+ALJPEIHI_01385	gene	absAa_2		
+ALJPEIHI_01386	CDS			hypothetical protein
+ALJPEIHI_01386	gene			
+ALJPEIHI_01387	CDS	lacZ	3.2.1.23	Beta-galactosidase
+ALJPEIHI_01387	gene	lacZ		
+ALJPEIHI_01388	CDS			hypothetical protein
+ALJPEIHI_01388	gene			
+ALJPEIHI_01389	CDS	tyrS	6.1.1.1	Tyrosine--tRNA ligase
+ALJPEIHI_01389	gene	tyrS		
+ALJPEIHI_01390	rRNA			16S ribosomal RNA (partial)
+ALJPEIHI_01390	gene			
+ALJPEIHI_01391	CDS	secA		Protein translocase subunit SecA
+ALJPEIHI_01391	gene	secA		
+ALJPEIHI_01392	CDS	prfB		Peptide chain release factor 2
+ALJPEIHI_01392	gene	prfB		
+ALJPEIHI_01393	CDS	ftsE		Cell division ATP-binding protein FtsE
+ALJPEIHI_01393	gene	ftsE		
+ALJPEIHI_01394	CDS	ftsX		Cell division protein FtsX
+ALJPEIHI_01394	gene	ftsX		
+ALJPEIHI_01395	CDS	ltaE	4.1.2.48	Low specificity L-threonine aldolase
+ALJPEIHI_01395	gene	ltaE		
+ALJPEIHI_01396	CDS			hypothetical protein
+ALJPEIHI_01396	gene			
+ALJPEIHI_01397	CDS		1.13.11.79	5,6-dimethylbenzimidazole synthase
+ALJPEIHI_01397	gene			
+ALJPEIHI_01398	CDS			hypothetical protein
+ALJPEIHI_01398	gene			
+ALJPEIHI_01399	CDS		1.14.15.14	Methyl-branched lipid omega-hydroxylase
+ALJPEIHI_01399	gene			
+ALJPEIHI_01400	CDS			hypothetical protein
+ALJPEIHI_01400	gene			
+ALJPEIHI_01401	tmRNA	ssrA		transfer-messenger RNA, SsrA
+ALJPEIHI_01401	gene	ssrA		
+ALJPEIHI_01402	CDS	kstD	1.3.99.4	3-oxosteroid 1-dehydrogenase
+ALJPEIHI_01402	gene	kstD		
+ALJPEIHI_01403	CDS	smpB		SsrA-binding protein
+ALJPEIHI_01403	gene	smpB		
+ALJPEIHI_01404	CDS	mec	3.4.17.-	CysO-cysteine peptidase
+ALJPEIHI_01404	gene	mec		
+ALJPEIHI_01405	CDS	cysM	2.5.1.113	O-phosphoserine sulfhydrylase
+ALJPEIHI_01405	gene	cysM		
+ALJPEIHI_01406	CDS	bdhA_1	1.1.1.30	D-beta-hydroxybutyrate dehydrogenase
+ALJPEIHI_01406	gene	bdhA_1		
+ALJPEIHI_01407	CDS	bdhA_2	1.1.1.30	D-beta-hydroxybutyrate dehydrogenase
+ALJPEIHI_01407	gene	bdhA_2		
+ALJPEIHI_01408	CDS			hypothetical protein
+ALJPEIHI_01408	gene			
+ALJPEIHI_01409	CDS			hypothetical protein
+ALJPEIHI_01409	gene			
+ALJPEIHI_01410	CDS			hypothetical protein
+ALJPEIHI_01410	gene			
+ALJPEIHI_01411	CDS			hypothetical protein
+ALJPEIHI_01411	gene			
+ALJPEIHI_01412	CDS	lcfB_6	6.2.1.3	Long-chain-fatty-acid--CoA ligase
+ALJPEIHI_01412	gene	lcfB_6		
+ALJPEIHI_01413	CDS		4.2.1.17	putative enoyl-CoA hydratase 1
+ALJPEIHI_01413	gene			
+ALJPEIHI_01414	CDS	fda	4.1.2.13	Fructose-bisphosphate aldolase class 1
+ALJPEIHI_01414	gene	fda		
+ALJPEIHI_01415	CDS			hypothetical protein
+ALJPEIHI_01415	gene			
+ALJPEIHI_01416	rRNA			5S ribosomal RNA
+ALJPEIHI_01416	gene			
+ALJPEIHI_01417	CDS	rihA	3.2.-.-	Pyrimidine-specific ribonucleoside hydrolase RihA
+ALJPEIHI_01417	gene	rihA		
+ALJPEIHI_01418	CDS	mutM_2	3.2.2.23	Formamidopyrimidine-DNA glycosylase
+ALJPEIHI_01418	gene	mutM_2		
+ALJPEIHI_01419	CDS	addA	3.6.4.12	ATP-dependent helicase/nuclease subunit A
+ALJPEIHI_01419	gene	addA		
+ALJPEIHI_01420	CDS			hypothetical protein
+ALJPEIHI_01420	gene			
+ALJPEIHI_01421	CDS	mrdA	3.4.16.4	Peptidoglycan D,D-transpeptidase MrdA
+ALJPEIHI_01421	gene	mrdA		
+ALJPEIHI_01422	CDS			hypothetical protein
+ALJPEIHI_01422	gene			
+ALJPEIHI_01423	CDS	mreC		Cell shape-determining protein MreC
+ALJPEIHI_01423	gene	mreC		
+ALJPEIHI_01424	CDS	mreB_2		Rod shape-determining protein MreB
+ALJPEIHI_01424	gene	mreB_2		
+ALJPEIHI_01425	CDS	ndk	2.7.4.6	Nucleoside diphosphate kinase
+ALJPEIHI_01425	gene	ndk		
+ALJPEIHI_01426	CDS	gpgS	2.4.1.266	Glucosyl-3-phosphoglycerate synthase
+ALJPEIHI_01426	gene	gpgS		
+ALJPEIHI_01427	CDS			3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase
+ALJPEIHI_01427	gene			
+ALJPEIHI_01428	CDS	acdA_1	1.3.99.-	Acyl-CoA dehydrogenase
+ALJPEIHI_01428	gene	acdA_1		
+ALJPEIHI_01429	CDS			hypothetical protein
+ALJPEIHI_01429	gene			
+ALJPEIHI_01430	CDS	vapC	3.1.-.-	tRNA(fMet)-specific endonuclease VapC
+ALJPEIHI_01430	gene	vapC		
+ALJPEIHI_01431	CDS		1.1.1.-	Putative short-chain type dehydrogenase/reductase
+ALJPEIHI_01431	gene			
+ALJPEIHI_01432	CDS	uctC_4	2.8.3.19	Acetyl-CoA:oxalate CoA-transferase
+ALJPEIHI_01432	gene	uctC_4		
+ALJPEIHI_01433	CDS			hypothetical protein
+ALJPEIHI_01433	gene			
+ALJPEIHI_01434	CDS	hprA	1.1.1.29	Glycerate dehydrogenase
+ALJPEIHI_01434	gene	hprA		
+ALJPEIHI_01435	CDS	cbs	4.2.1.22	Putative cystathionine beta-synthase
+ALJPEIHI_01435	gene	cbs		
+ALJPEIHI_01436	CDS			hypothetical protein
+ALJPEIHI_01436	gene			
+ALJPEIHI_01437	CDS	inhA_1	4.2.1.103	Isonitrile hydratase
+ALJPEIHI_01437	gene	inhA_1		
+ALJPEIHI_01438	CDS			hypothetical protein
+ALJPEIHI_01438	gene			
+ALJPEIHI_01439	CDS	hisG	2.4.2.17	ATP phosphoribosyltransferase
+ALJPEIHI_01439	gene	hisG		
+ALJPEIHI_01440	CDS	ribD		Riboflavin biosynthesis protein RibD
+ALJPEIHI_01440	gene	ribD		
+ALJPEIHI_01441	CDS	mog	2.7.7.75	Molybdopterin adenylyltransferase
+ALJPEIHI_01441	gene	mog		
+ALJPEIHI_01442	CDS			hypothetical protein
+ALJPEIHI_01442	gene			
+ALJPEIHI_01443	CDS	proA	1.2.1.41	Gamma-glutamyl phosphate reductase
+ALJPEIHI_01443	gene	proA		
+ALJPEIHI_01444	CDS	ung	3.2.2.27	Uracil-DNA glycosylase
+ALJPEIHI_01444	gene	ung		
+ALJPEIHI_01445	CDS	tpiA	5.3.1.1	Triosephosphate isomerase
+ALJPEIHI_01445	gene	tpiA		
+ALJPEIHI_01446	CDS	pgk/tpi		Bifunctional PGK/TIM
+ALJPEIHI_01446	gene	pgk/tpi		
+ALJPEIHI_01447	CDS	gap2	1.2.1.12	Glyceraldehyde-3-phosphate dehydrogenase 2
+ALJPEIHI_01447	gene	gap2		
+ALJPEIHI_01448	CDS			Nucleotide-binding protein
+ALJPEIHI_01448	gene			
+ALJPEIHI_01449	CDS	ubiE	2.1.1.163	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE
+ALJPEIHI_01449	gene	ubiE		
+ALJPEIHI_01450	CDS			hypothetical protein
+ALJPEIHI_01450	gene			
+ALJPEIHI_01451	CDS			hypothetical protein
+ALJPEIHI_01451	gene			
+ALJPEIHI_01452	CDS	mct	5.4.1.3	2-methylfumaryl-CoA isomerase
+ALJPEIHI_01452	gene	mct		
+ALJPEIHI_01453	CDS	dap4	3.4.14.5	Dipeptidyl aminopeptidase 4
+ALJPEIHI_01453	gene	dap4		
+ALJPEIHI_01454	CDS		1.3.99.-	Putative acyl-CoA dehydrogenase FadE17
+ALJPEIHI_01454	gene			
+ALJPEIHI_01455	CDS			hypothetical protein
+ALJPEIHI_01455	gene			
+ALJPEIHI_01456	CDS		3.3.2.10	Soluble epoxide hydrolase
+ALJPEIHI_01456	gene			
+ALJPEIHI_01457	CDS		2.7.1.-	Putative aminoglycoside phosphotransferase
+ALJPEIHI_01457	gene			
+ALJPEIHI_01458	CDS	plsY_1	2.3.1.-	Glycerol-3-phosphate acyltransferase
+ALJPEIHI_01458	gene	plsY_1		
+ALJPEIHI_01459	CDS	crtQ	2.4.1.-	4,4'-diaponeurosporenoate glycosyltransferase
+ALJPEIHI_01459	gene	crtQ		
+ALJPEIHI_01460	CDS			hypothetical protein
+ALJPEIHI_01460	gene			
+ALJPEIHI_01461	CDS	arfA		Peptidoglycan-binding protein ArfA
+ALJPEIHI_01461	gene	arfA		
+ALJPEIHI_01462	CDS	msrA	1.8.4.11	Peptide methionine sulfoxide reductase MsrA
+ALJPEIHI_01462	gene	msrA		
+ALJPEIHI_01463	CDS			hypothetical protein
+ALJPEIHI_01463	gene			
+ALJPEIHI_01464	CDS	coaA	2.7.1.33	Pantothenate kinase
+ALJPEIHI_01464	gene	coaA		
+ALJPEIHI_01465	CDS	yjmD	1.-.-.-	putative zinc-type alcohol dehydrogenase-like protein YjmD
+ALJPEIHI_01465	gene	yjmD		
+ALJPEIHI_01466	CDS			hypothetical protein
+ALJPEIHI_01466	gene			
+ALJPEIHI_01467	CDS	gpsB		Cell cycle protein GpsB
+ALJPEIHI_01467	gene	gpsB		
+ALJPEIHI_01468	CDS	relA		Bifunctional (p)ppGpp synthase/hydrolase RelA
+ALJPEIHI_01468	gene	relA		
+ALJPEIHI_01469	CDS	apt	2.4.2.7	Adenine phosphoribosyltransferase
+ALJPEIHI_01469	gene	apt		
+ALJPEIHI_01470	CDS			hypothetical protein
+ALJPEIHI_01470	gene			
+ALJPEIHI_01471	CDS			hypothetical protein
+ALJPEIHI_01471	gene			
+ALJPEIHI_01472	CDS			hypothetical protein
+ALJPEIHI_01472	gene			
+ALJPEIHI_01473	CDS	tgt	2.4.2.29	Queuine tRNA-ribosyltransferase
+ALJPEIHI_01473	gene	tgt		
+ALJPEIHI_01474	CDS	queA	2.4.99.17	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+ALJPEIHI_01474	gene	queA		
+ALJPEIHI_01475	CDS	ruvB_1	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvB
+ALJPEIHI_01475	gene	ruvB_1		
+ALJPEIHI_01476	CDS	ruvA	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvA
+ALJPEIHI_01476	gene	ruvA		
+ALJPEIHI_01477	CDS	ruvC	3.1.22.4	Crossover junction endodeoxyribonuclease RuvC
+ALJPEIHI_01477	gene	ruvC		
+ALJPEIHI_01478	CDS			putative transcriptional regulatory protein/MSMEI_2866
+ALJPEIHI_01478	gene			
+ALJPEIHI_01479	CDS	pdxT	4.3.3.6	Pyridoxal 5'-phosphate synthase subunit PdxT
+ALJPEIHI_01479	gene	pdxT		
+ALJPEIHI_01480	CDS	pdxS	4.3.3.6	Pyridoxal 5'-phosphate synthase subunit PdxS
+ALJPEIHI_01480	gene	pdxS		
+ALJPEIHI_01481	CDS	htpX_2	3.4.24.-	Protease HtpX 
+ALJPEIHI_01481	gene	htpX_2		
+ALJPEIHI_01482	CDS			hypothetical protein
+ALJPEIHI_01482	gene			
+ALJPEIHI_01483	CDS	pimA	2.4.1.57	Phosphatidyl-myo-inositol mannosyltransferase
+ALJPEIHI_01483	gene	pimA		
+ALJPEIHI_01484	CDS		2.3.1.-	Phosphatidylinositol mannoside acyltransferase
+ALJPEIHI_01484	gene			
+ALJPEIHI_01485	CDS	pgsA1_2	2.7.8.11	CDP-diacylglycerol--inositol 3-phosphatidyltransferase
+ALJPEIHI_01485	gene	pgsA1_2		
+ALJPEIHI_01486	CDS			hypothetical protein
+ALJPEIHI_01486	gene			
+ALJPEIHI_01487	CDS		2.7.7.53	AP-4-A phosphorylase
+ALJPEIHI_01487	gene			
+ALJPEIHI_01488	CDS	thrS	6.1.1.3	Threonine--tRNA ligase
+ALJPEIHI_01488	gene	thrS		
+ALJPEIHI_01489	CDS	mshC	6.3.1.13	L-cysteine:1D-myo-inositol 2-amino-2-deoxy-alpha-D-glucopyranoside ligase
+ALJPEIHI_01489	gene	mshC		
+ALJPEIHI_01490	CDS			hypothetical protein
+ALJPEIHI_01490	gene			
+ALJPEIHI_01491	CDS	inhA_2	1.3.1.9	Enoyl-[acyl-carrier-protein] reductase [NADH]
+ALJPEIHI_01491	gene	inhA_2		
+ALJPEIHI_01492	CDS	corC_2		Magnesium and cobalt efflux protein CorC
+ALJPEIHI_01492	gene	corC_2		
+ALJPEIHI_01493	CDS	tlyC		Hemolysin C
+ALJPEIHI_01493	gene	tlyC		
+ALJPEIHI_01494	CDS		3.6.3.-	Putative multidrug export ATP-binding/permease protein
+ALJPEIHI_01494	gene			
+ALJPEIHI_01495	CDS		3.6.3.-	Multidrug efflux ATP-binding/permease protein
+ALJPEIHI_01495	gene			
+ALJPEIHI_01496	CDS	ylmA	3.6.3.-	putative ABC transporter ATP-binding protein YlmA
+ALJPEIHI_01496	gene	ylmA		
+ALJPEIHI_01497	CDS	thiN	2.7.6.2	Thiamine pyrophosphokinase
+ALJPEIHI_01497	gene	thiN		
+ALJPEIHI_01498	CDS			hypothetical protein
+ALJPEIHI_01498	gene			
+ALJPEIHI_01499	CDS	qacA		Antiseptic resistance protein
+ALJPEIHI_01499	gene	qacA		
+ALJPEIHI_01500	CDS			hypothetical protein
+ALJPEIHI_01500	gene			
+ALJPEIHI_01501	CDS	hdhA	1.1.1.159	7-alpha-hydroxysteroid dehydrogenase
+ALJPEIHI_01501	gene	hdhA		
+ALJPEIHI_01502	CDS			hypothetical protein
+ALJPEIHI_01502	gene			
+ALJPEIHI_01503	CDS	glbO		Group 2 truncated hemoglobin GlbO
+ALJPEIHI_01503	gene	glbO		
+ALJPEIHI_01504	CDS	yvdD		LOG family protein YvdD
+ALJPEIHI_01504	gene	yvdD		
+ALJPEIHI_01505	CDS	menE_2	6.2.1.26	2-succinylbenzoate--CoA ligase
+ALJPEIHI_01505	gene	menE_2		
+ALJPEIHI_01506	CDS	menC	4.2.1.113	o-succinylbenzoate synthase
+ALJPEIHI_01506	gene	menC		
+ALJPEIHI_01507	CDS	menH_2	4.2.99.20	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+ALJPEIHI_01507	gene	menH_2		
+ALJPEIHI_01508	CDS	menD	2.2.1.9	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+ALJPEIHI_01508	gene	menD		
+ALJPEIHI_01509	CDS		1.-.-.-	putative FAD-linked oxidoreductase
+ALJPEIHI_01509	gene			
+ALJPEIHI_01510	CDS	rpe	5.1.3.1	Ribulose-phosphate 3-epimerase
+ALJPEIHI_01510	gene	rpe		
+ALJPEIHI_01511	CDS			hypothetical protein
+ALJPEIHI_01511	gene			
+ALJPEIHI_01512	CDS	clpP_2	3.4.21.92	ATP-dependent Clp protease proteolytic subunit
+ALJPEIHI_01512	gene	clpP_2		
+ALJPEIHI_01513	tRNA			tRNA-Leu(tag)
+ALJPEIHI_01513	gene			
+ALJPEIHI_01514	CDS			Bifunctional NMN adenylyltransferase/Nudix hydrolase
+ALJPEIHI_01514	gene			
+ALJPEIHI_01515	CDS	pncA	3.5.1.19	Nicotinamidase/pyrazinamidase
+ALJPEIHI_01515	gene	pncA		
+ALJPEIHI_01516	CDS	pncB1	6.3.4.21	Nicotinate phosphoribosyltransferase pncB1
+ALJPEIHI_01516	gene	pncB1		
+ALJPEIHI_01517	CDS			hypothetical protein
+ALJPEIHI_01517	gene			
+ALJPEIHI_01518	CDS		3.6.1.9	Non-canonical purine NTP pyrophosphatase
+ALJPEIHI_01518	gene			
+ALJPEIHI_01519	CDS	rph	2.7.7.56	Ribonuclease PH
+ALJPEIHI_01519	gene	rph		
+ALJPEIHI_01520	CDS	rbn_2	3.1.26.11	Ribonuclease BN
+ALJPEIHI_01520	gene	rbn_2		
+ALJPEIHI_01521	CDS	racE	5.1.1.3	Glutamate racemase 1
+ALJPEIHI_01521	gene	racE		
+ALJPEIHI_01522	CDS			hypothetical protein
+ALJPEIHI_01522	gene			
+ALJPEIHI_01523	CDS	modA		Molybdate-binding protein
+ALJPEIHI_01523	gene	modA		
+ALJPEIHI_01524	CDS	modB		Molybdenum transport system permease protein ModB
+ALJPEIHI_01524	gene	modB		
+ALJPEIHI_01525	CDS	modC	3.6.3.29	Molybdenum import ATP-binding protein ModC
+ALJPEIHI_01525	gene	modC		
+ALJPEIHI_01526	CDS		4.1.3.17	Putative 4-hydroxy-4-methyl-2-oxoglutarate aldolase
+ALJPEIHI_01526	gene			
+ALJPEIHI_01527	CDS	nrdA	1.17.4.1	Ribonucleoside-diphosphate reductase 1 subunit alpha
+ALJPEIHI_01527	gene	nrdA		
+ALJPEIHI_01528	CDS	nrdB	1.17.4.1	Ribonucleoside-diphosphate reductase subunit beta
+ALJPEIHI_01528	gene	nrdB		
+ALJPEIHI_01529	CDS		3.6.-.-	putative GTPase
+ALJPEIHI_01529	gene			
+ALJPEIHI_01530	CDS	mutB_2	5.4.99.2	putative methylmalonyl-CoA mutase large subunit
+ALJPEIHI_01530	gene	mutB_2		
+ALJPEIHI_01531	CDS	ytrF		ABC transporter permease YtrF
+ALJPEIHI_01531	gene	ytrF		
+ALJPEIHI_01532	CDS	helD_2	3.6.4.12	DNA helicase IV
+ALJPEIHI_01532	gene	helD_2		
+ALJPEIHI_01533	CDS	ahcY	3.3.1.1	Adenosylhomocysteinase
+ALJPEIHI_01533	gene	ahcY		
+ALJPEIHI_01534	CDS			hypothetical protein
+ALJPEIHI_01534	gene			
+ALJPEIHI_01535	CDS			hypothetical protein
+ALJPEIHI_01535	gene			
+ALJPEIHI_01536	CDS			hypothetical protein
+ALJPEIHI_01536	gene			
+ALJPEIHI_01537	CDS	bphA1	1.14.12.18	Biphenyl 2,3-dioxygenase subunit alpha
+ALJPEIHI_01537	gene	bphA1		
+ALJPEIHI_01538	CDS	aroC	4.2.3.5	Chorismate synthase
+ALJPEIHI_01538	gene	aroC		
+ALJPEIHI_01539	CDS	mtr	1.8.1.15	Mycothione reductase
+ALJPEIHI_01539	gene	mtr		
+ALJPEIHI_01540	CDS	ephD	1.-.-.-	putative oxidoreductase EphD
+ALJPEIHI_01540	gene	ephD		
+ALJPEIHI_01541	CDS	ghrB	1.1.1.79	Glyoxylate/hydroxypyruvate reductase B
+ALJPEIHI_01541	gene	ghrB		
+ALJPEIHI_01542	CDS	paaF_3	4.2.1.17	2,3-dehydroadipyl-CoA hydratase
+ALJPEIHI_01542	gene	paaF_3		
+ALJPEIHI_01543	CDS	gcvP	1.4.4.2	putative glycine dehydrogenase (decarboxylating)
+ALJPEIHI_01543	gene	gcvP		
+ALJPEIHI_01544	CDS			hypothetical protein
+ALJPEIHI_01544	gene			
+ALJPEIHI_01545	CDS	ybhA	3.1.3.74	Pyridoxal phosphate phosphatase YbhA
+ALJPEIHI_01545	gene	ybhA		
+ALJPEIHI_01546	CDS			hypothetical protein
+ALJPEIHI_01546	gene			
+ALJPEIHI_01547	CDS	fabH_2	2.3.1.180	3-oxoacyl-[acyl-carrier-protein] synthase 3
+ALJPEIHI_01547	gene	fabH_2		
+ALJPEIHI_01548	CDS	crt_5	4.2.1.150	Short-chain-enoyl-CoA hydratase
+ALJPEIHI_01548	gene	crt_5		
+ALJPEIHI_01549	CDS			hypothetical protein
+ALJPEIHI_01549	gene			
+ALJPEIHI_01550	CDS			hypothetical protein
+ALJPEIHI_01550	gene			
+ALJPEIHI_01551	CDS			hypothetical protein
+ALJPEIHI_01551	gene			
+ALJPEIHI_01552	CDS			hypothetical protein
+ALJPEIHI_01552	gene			
+ALJPEIHI_01553	CDS	pspA_2	3.1.3.3	Phosphoserine phosphatase 1
+ALJPEIHI_01553	gene	pspA_2		
+ALJPEIHI_01554	CDS	actIII	1.3.1.-	Putative ketoacyl reductase
+ALJPEIHI_01554	gene	actIII		
+ALJPEIHI_01555	CDS			hypothetical protein
+ALJPEIHI_01555	gene			
+ALJPEIHI_01556	CDS			hypothetical protein
+ALJPEIHI_01556	gene			
+ALJPEIHI_01557	CDS			hypothetical protein
+ALJPEIHI_01557	gene			
+ALJPEIHI_01558	CDS		1.1.98.-	F420H(2)-dependent quinone reductase
+ALJPEIHI_01558	gene			
+ALJPEIHI_01559	CDS	fabG_11	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+ALJPEIHI_01559	gene	fabG_11		
+ALJPEIHI_01560	tRNA			tRNA-Met(cat)
+ALJPEIHI_01560	gene			
+ALJPEIHI_01561	tRNA			tRNA-Asn(gtt)
+ALJPEIHI_01561	gene			
+ALJPEIHI_01562	CDS	hrdB_2		RNA polymerase principal sigma factor HrdB
+ALJPEIHI_01562	gene	hrdB_2		
+ALJPEIHI_01563	CDS	dnaG	2.7.7.-	DNA primase
+ALJPEIHI_01563	gene	dnaG		
+ALJPEIHI_01564	CDS	ppdK	2.7.9.1	Pyruvate, phosphate dikinase
+ALJPEIHI_01564	gene	ppdK		
+ALJPEIHI_01565	CDS			hypothetical protein
+ALJPEIHI_01565	gene			
+ALJPEIHI_01566	CDS	sdh	1.1.1.276	Serine 3-dehydrogenase
+ALJPEIHI_01566	gene	sdh		
+ALJPEIHI_01567	CDS	echA8_3	4.2.1.17	putative enoyl-CoA hydratase echA8
+ALJPEIHI_01567	gene	echA8_3		
+ALJPEIHI_01568	CDS	fabG2_3	1.-.-.-	putative oxidoreductase
+ALJPEIHI_01568	gene	fabG2_3		
+ALJPEIHI_01569	CDS		1.3.99.-	Putative acyl-CoA dehydrogenase FadE17
+ALJPEIHI_01569	gene			
+ALJPEIHI_01570	CDS			hypothetical protein
+ALJPEIHI_01570	gene			
+ALJPEIHI_01571	CDS	hisN	3.1.3.15	Histidinol-phosphatase
+ALJPEIHI_01571	gene	hisN		
+ALJPEIHI_01572	CDS			hypothetical protein
+ALJPEIHI_01572	gene			
+ALJPEIHI_01573	CDS	smtB_4	2.8.3.22	Succinyl-CoA--L-malate CoA-transferase beta subunit
+ALJPEIHI_01573	gene	smtB_4		
+ALJPEIHI_01574	CDS			hypothetical protein
+ALJPEIHI_01574	gene			
+ALJPEIHI_01575	CDS	lipM	2.3.1.181	Octanoyltransferase LipM
+ALJPEIHI_01575	gene	lipM		
+ALJPEIHI_01576	CDS	mraZ		Transcriptional regulator MraZ
+ALJPEIHI_01576	gene	mraZ		
+ALJPEIHI_01577	CDS	rsmH	2.1.1.199	Ribosomal RNA small subunit methyltransferase H
+ALJPEIHI_01577	gene	rsmH		
+ALJPEIHI_01578	CDS	ftsL_2		Cell division protein FtsL
+ALJPEIHI_01578	gene	ftsL_2		
+ALJPEIHI_01579	CDS	ftsI	3.4.16.4	Peptidoglycan D,D-transpeptidase FtsI
+ALJPEIHI_01579	gene	ftsI		
+ALJPEIHI_01580	CDS	murE	6.3.2.13	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+ALJPEIHI_01580	gene	murE		
+ALJPEIHI_01581	CDS	mraY	2.7.8.13	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+ALJPEIHI_01581	gene	mraY		
+ALJPEIHI_01582	CDS	murD	6.3.2.9	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+ALJPEIHI_01582	gene	murD		
+ALJPEIHI_01583	CDS	ftsW	2.4.1.129	putative peptidoglycan glycosyltransferase FtsW
+ALJPEIHI_01583	gene	ftsW		
+ALJPEIHI_01584	CDS	murG	2.4.1.227	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+ALJPEIHI_01584	gene	murG		
+ALJPEIHI_01585	CDS	murC	6.3.2.8	UDP-N-acetylmuramate--L-alanine ligase
+ALJPEIHI_01585	gene	murC		
+ALJPEIHI_01586	CDS	murB	1.3.1.98	UDP-N-acetylenolpyruvoylglucosamine reductase
+ALJPEIHI_01586	gene	murB		
+ALJPEIHI_01587	CDS	ftsQ		Cell division protein FtsQ
+ALJPEIHI_01587	gene	ftsQ		
+ALJPEIHI_01588	CDS	ftsZ		Cell division protein FtsZ
+ALJPEIHI_01588	gene	ftsZ		
+ALJPEIHI_01589	CDS			Laccase domain protein
+ALJPEIHI_01589	gene			
+ALJPEIHI_01590	CDS			hypothetical protein
+ALJPEIHI_01590	gene			
+ALJPEIHI_01591	CDS		1.3.99.-	Putative acyl-CoA dehydrogenase FadE17
+ALJPEIHI_01591	gene			
+ALJPEIHI_01592	CDS		1.-.-.-	NADH oxidase
+ALJPEIHI_01592	gene			
+ALJPEIHI_01593	CDS		1.14.-.-	Cytochrome P450 130
+ALJPEIHI_01593	gene			
+ALJPEIHI_01594	CDS		3.1.3.3	Phosphoserine phosphatase
+ALJPEIHI_01594	gene			
+ALJPEIHI_01595	CDS			hypothetical protein
+ALJPEIHI_01595	gene			
+ALJPEIHI_01596	CDS			hypothetical protein
+ALJPEIHI_01596	gene			
+ALJPEIHI_01597	CDS	rapA_2	3.6.4.-	RNA polymerase-associated protein RapA
+ALJPEIHI_01597	gene	rapA_2		
+ALJPEIHI_01598	CDS	tsaE		tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+ALJPEIHI_01598	gene	tsaE		
+ALJPEIHI_01599	CDS		3.4.11.-	putative aminopeptidase
+ALJPEIHI_01599	gene			
+ALJPEIHI_01600	CDS	alr	5.1.1.1	Alanine racemase
+ALJPEIHI_01600	gene	alr		
+ALJPEIHI_01601	CDS			hypothetical protein
+ALJPEIHI_01601	gene			
+ALJPEIHI_01602	CDS			hypothetical protein
+ALJPEIHI_01602	gene			
+ALJPEIHI_01603	CDS	arfB	3.1.1.29	Peptidyl-tRNA hydrolase ArfB
+ALJPEIHI_01603	gene	arfB		
+ALJPEIHI_01604	CDS	surE_2	3.1.3.5	5'-nucleotidase SurE
+ALJPEIHI_01604	gene	surE_2		
+ALJPEIHI_01605	CDS			hypothetical protein
+ALJPEIHI_01605	gene			
+ALJPEIHI_01606	CDS	tesB	3.1.2.-	Acyl-CoA thioesterase 2
+ALJPEIHI_01606	gene	tesB		
+ALJPEIHI_01607	CDS	hsdA_2	1.1.1.50	3-alpha-hydroxysteroid dehydrogenase/carbonyl reductase
+ALJPEIHI_01607	gene	hsdA_2		
+ALJPEIHI_01608	CDS			hypothetical protein
+ALJPEIHI_01608	gene			
+ALJPEIHI_01609	CDS	fabG_12	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+ALJPEIHI_01609	gene	fabG_12		
+ALJPEIHI_01610	CDS			hypothetical protein
+ALJPEIHI_01610	gene			
+ALJPEIHI_01611	CDS	livF_5		High-affinity branched-chain amino acid transport ATP-binding protein LivF
+ALJPEIHI_01611	gene	livF_5		
+ALJPEIHI_01612	CDS	lptB_4	3.6.3.-	Lipopolysaccharide export system ATP-binding protein LptB
+ALJPEIHI_01612	gene	lptB_4		
+ALJPEIHI_01613	CDS			hypothetical protein
+ALJPEIHI_01613	gene			
+ALJPEIHI_01614	CDS	panC	6.3.2.1	Pantothenate synthetase
+ALJPEIHI_01614	gene	panC		
+ALJPEIHI_01615	CDS	lysS	6.1.1.6	Lysine--tRNA ligase
+ALJPEIHI_01615	gene	lysS		
+ALJPEIHI_01616	CDS	hepT	2.5.1.30	Heptaprenyl diphosphate synthase component 2
+ALJPEIHI_01616	gene	hepT		
+ALJPEIHI_01617	CDS	clpC1		ATP-dependent Clp protease ATP-binding subunit ClpC1
+ALJPEIHI_01617	gene	clpC1		
+ALJPEIHI_01618	CDS	gph	3.1.3.18	Phosphoglycolate phosphatase
+ALJPEIHI_01618	gene	gph		
+ALJPEIHI_01619	CDS	crp		CRP-like cAMP-activated global transcriptional regulator
+ALJPEIHI_01619	gene	crp		
+ALJPEIHI_01620	CDS	ispF	4.6.1.12	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+ALJPEIHI_01620	gene	ispF		
+ALJPEIHI_01621	CDS			hypothetical protein
+ALJPEIHI_01621	gene			
+ALJPEIHI_01622	CDS	ped	1.1.1.311	(S)-1-Phenylethanol dehydrogenase
+ALJPEIHI_01622	gene	ped		
+ALJPEIHI_01623	CDS	fabG_13	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+ALJPEIHI_01623	gene	fabG_13		
+ALJPEIHI_01624	CDS	ord	1.4.1.12	2,4-diaminopentanoate dehydrogenase
+ALJPEIHI_01624	gene	ord		
+ALJPEIHI_01625	CDS	xylB_2	1.1.1.90	Aryl-alcohol dehydrogenase
+ALJPEIHI_01625	gene	xylB_2		
+ALJPEIHI_01626	CDS	dan_2	3.5.1.81	D-aminoacylase
+ALJPEIHI_01626	gene	dan_2		
+ALJPEIHI_01627	CDS			hypothetical protein
+ALJPEIHI_01627	gene			
+ALJPEIHI_01628	CDS			hypothetical protein
+ALJPEIHI_01628	gene			
+ALJPEIHI_01629	CDS			hypothetical protein
+ALJPEIHI_01629	gene			
+ALJPEIHI_01630	CDS		1.-.-.-	putative oxidoreductase
+ALJPEIHI_01630	gene			
+ALJPEIHI_01631	CDS	pspA_3	3.1.3.3	Phosphoserine phosphatase 1
+ALJPEIHI_01631	gene	pspA_3		
+ALJPEIHI_01632	CDS	gutB	1.1.1.14	Sorbitol dehydrogenase
+ALJPEIHI_01632	gene	gutB		
+ALJPEIHI_01633	CDS	recN		DNA repair protein RecN
+ALJPEIHI_01633	gene	recN		
+ALJPEIHI_01634	CDS	pyrG	6.3.4.2	CTP synthase
+ALJPEIHI_01634	gene	pyrG		
+ALJPEIHI_01635	CDS	nudF	3.6.1.13	ADP-ribose pyrophosphatase
+ALJPEIHI_01635	gene	nudF		
+ALJPEIHI_01636	CDS	xerD_2		Tyrosine recombinase XerD
+ALJPEIHI_01636	gene	xerD_2		
+ALJPEIHI_01637	CDS			hypothetical protein
+ALJPEIHI_01637	gene			
+ALJPEIHI_01638	CDS		2.1.1.-	Putative TrmH family tRNA/rRNA methyltransferase
+ALJPEIHI_01638	gene			
+ALJPEIHI_01639	CDS	trpS	6.1.1.2	Tryptophan--tRNA ligase
+ALJPEIHI_01639	gene	trpS		
+ALJPEIHI_01640	CDS			hypothetical protein
+ALJPEIHI_01640	gene			
+ALJPEIHI_01641	CDS			hypothetical protein
+ALJPEIHI_01641	gene			
+ALJPEIHI_01642	CDS			hypothetical protein
+ALJPEIHI_01642	gene			
+ALJPEIHI_01643	CDS	hutI_2	3.5.2.7	Imidazolonepropionase
+ALJPEIHI_01643	gene	hutI_2		
+ALJPEIHI_01644	CDS	limA_2	3.3.2.8	Limonene-1,2-epoxide hydrolase
+ALJPEIHI_01644	gene	limA_2		
+ALJPEIHI_01645	CDS			hypothetical protein
+ALJPEIHI_01645	gene			
+ALJPEIHI_01646	CDS			hypothetical protein
+ALJPEIHI_01646	gene			
+ALJPEIHI_01647	CDS			hypothetical protein
+ALJPEIHI_01647	gene			
+ALJPEIHI_01648	CDS	lldD_2	1.1.-.-	Putative L-lactate dehydrogenase
+ALJPEIHI_01648	gene	lldD_2		
+ALJPEIHI_01649	CDS			hypothetical protein
+ALJPEIHI_01649	gene			
+ALJPEIHI_01650	CDS	nboR	1.1.1.328	Nicotine blue oxidoreductase
+ALJPEIHI_01650	gene	nboR		
+ALJPEIHI_01651	CDS			hypothetical protein
+ALJPEIHI_01651	gene			
+ALJPEIHI_01652	CDS			hypothetical protein
+ALJPEIHI_01652	gene			
+ALJPEIHI_01653	CDS	ppx	3.6.1.11	Exopolyphosphatase
+ALJPEIHI_01653	gene	ppx		
+ALJPEIHI_01654	CDS	ydaF	2.3.1.-	Putative ribosomal N-acetyltransferase YdaF
+ALJPEIHI_01654	gene	ydaF		
+ALJPEIHI_01655	CDS		4.2.1.17	putative enoyl-CoA hydratase echA14
+ALJPEIHI_01655	gene			
+ALJPEIHI_01656	CDS			hypothetical protein
+ALJPEIHI_01656	gene			
+ALJPEIHI_01657	CDS			hypothetical protein
+ALJPEIHI_01657	gene			
+ALJPEIHI_01658	CDS		1.1.1.53	3-alpha-(or 20-beta)-hydroxysteroid dehydrogenase
+ALJPEIHI_01658	gene			
+ALJPEIHI_01659	tRNA			tRNA-Leu(taa)
+ALJPEIHI_01659	gene			
+ALJPEIHI_01660	CDS		3.5.1.83	N-acyl-D-aspartate deacylase
+ALJPEIHI_01660	gene			
+ALJPEIHI_01661	CDS	limA_3	3.3.2.8	Limonene-1,2-epoxide hydrolase
+ALJPEIHI_01661	gene	limA_3		
+ALJPEIHI_01662	CDS	atsA_3	3.1.6.1	Arylsulfatase
+ALJPEIHI_01662	gene	atsA_3		
+ALJPEIHI_01663	CDS	yknZ		putative ABC transporter permease YknZ
+ALJPEIHI_01663	gene	yknZ		
+ALJPEIHI_01664	CDS	yknY	3.6.3.-	putative ABC transporter ATP-binding protein YknY
+ALJPEIHI_01664	gene	yknY		
+ALJPEIHI_01665	CDS			hypothetical protein
+ALJPEIHI_01665	gene			
+ALJPEIHI_01666	CDS			hypothetical protein
+ALJPEIHI_01666	gene			
+ALJPEIHI_01667	tRNA			tRNA-Ala(ggc)
+ALJPEIHI_01667	gene			
+ALJPEIHI_01668	CDS	rsfS		Ribosomal silencing factor RsfS
+ALJPEIHI_01668	gene	rsfS		
+ALJPEIHI_01669	CDS			hypothetical protein
+ALJPEIHI_01669	gene			
+ALJPEIHI_01670	CDS	nadD	2.7.7.18	Nicotinate-nucleotide adenylyltransferase
+ALJPEIHI_01670	gene	nadD		
+ALJPEIHI_01671	CDS	sigA		RNA polymerase sigma factor SigA
+ALJPEIHI_01671	gene	sigA		
+ALJPEIHI_01672	CDS	aroH	2.5.1.54	Phospho-2-dehydro-3-deoxyheptonate aldolase
+ALJPEIHI_01672	gene	aroH		
+ALJPEIHI_01673	CDS			hypothetical protein
+ALJPEIHI_01673	gene			
+ALJPEIHI_01674	CDS	ruvB_2	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvB
+ALJPEIHI_01674	gene	ruvB_2		
+ALJPEIHI_01675	CDS	murJ		Lipid II flippase MurJ
+ALJPEIHI_01675	gene	murJ		
+ALJPEIHI_01676	CDS	proB	2.7.2.11	Glutamate 5-kinase 1
+ALJPEIHI_01676	gene	proB		
+ALJPEIHI_01677	CDS	obg	3.6.5.-	GTPase Obg
+ALJPEIHI_01677	gene	obg		
+ALJPEIHI_01678	CDS	rpmA		50S ribosomal protein L27
+ALJPEIHI_01678	gene	rpmA		
+ALJPEIHI_01679	CDS	rplU		50S ribosomal protein L21
+ALJPEIHI_01679	gene	rplU		
+ALJPEIHI_01680	CDS	rng	3.1.26.-	Ribonuclease G
+ALJPEIHI_01680	gene	rng		
+ALJPEIHI_01681	CDS			hypothetical protein
+ALJPEIHI_01681	gene			
+ALJPEIHI_01682	CDS			hypothetical protein
+ALJPEIHI_01682	gene			
+ALJPEIHI_01683	CDS	mrdB	2.4.1.129	Peptidoglycan glycosyltransferase MrdB
+ALJPEIHI_01683	gene	mrdB		
+ALJPEIHI_01684	CDS	ptlF	1.1.1.340	1-deoxy-11-beta-hydroxypentalenate dehydrogenase
+ALJPEIHI_01684	gene	ptlF		
+ALJPEIHI_01685	CDS			hypothetical protein
+ALJPEIHI_01685	gene			
+ALJPEIHI_01686	CDS			hypothetical protein
+ALJPEIHI_01686	gene			
+ALJPEIHI_01687	CDS	glnS	6.1.1.18	Glutamine--tRNA ligase
+ALJPEIHI_01687	gene	glnS		
+ALJPEIHI_01688	CDS	estB_2	3.1.1.-	Esterase EstB
+ALJPEIHI_01688	gene	estB_2		
+ALJPEIHI_01689	CDS	uctC_5	2.8.3.19	Acetyl-CoA:oxalate CoA-transferase
+ALJPEIHI_01689	gene	uctC_5		
+ALJPEIHI_01690	CDS	cypX_3	1.14.15.13	Pulcherriminic acid synthase
+ALJPEIHI_01690	gene	cypX_3		
+ALJPEIHI_01691	CDS		1.14.-.-	Cytochrome P450 107B1
+ALJPEIHI_01691	gene			
+ALJPEIHI_01692	CDS	budC	1.1.1.304	Diacetyl reductase [(S)-acetoin forming]
+ALJPEIHI_01692	gene	budC		
+ALJPEIHI_01693	CDS	bphA3		Biphenyl 2,3-dioxygenase, ferredoxin component
+ALJPEIHI_01693	gene	bphA3		
+ALJPEIHI_01694	CDS	absAa_3	1.14.12.14	2-aminobenzenesulfonate 2,3-dioxygenase subunit alpha
+ALJPEIHI_01694	gene	absAa_3		
+ALJPEIHI_01695	CDS			hypothetical protein
+ALJPEIHI_01695	gene			
+ALJPEIHI_01696	CDS			hypothetical protein
+ALJPEIHI_01696	gene			
+ALJPEIHI_01697	CDS	frc_2	2.8.3.16	Formyl-CoA:oxalate CoA-transferase
+ALJPEIHI_01697	gene	frc_2		
+ALJPEIHI_01698	CDS		1.3.99.-	Putative acyl-CoA dehydrogenase FadE17
+ALJPEIHI_01698	gene			
+ALJPEIHI_01699	CDS	tmpC		Membrane lipoprotein TmpC
+ALJPEIHI_01699	gene	tmpC		
+ALJPEIHI_01700	CDS			hypothetical protein
+ALJPEIHI_01700	gene			
+ALJPEIHI_01701	CDS	echA8_4	4.2.1.17	putative enoyl-CoA hydratase echA8
+ALJPEIHI_01701	gene	echA8_4		
+ALJPEIHI_01702	CDS	livH_4		High-affinity branched-chain amino acid transport system permease protein LivH
+ALJPEIHI_01702	gene	livH_4		
+ALJPEIHI_01703	CDS	livF_6		High-affinity branched-chain amino acid transport ATP-binding protein LivF
+ALJPEIHI_01703	gene	livF_6		
+ALJPEIHI_01704	CDS			hypothetical protein
+ALJPEIHI_01704	gene			
+ALJPEIHI_01705	CDS			hypothetical protein
+ALJPEIHI_01705	gene			
+ALJPEIHI_01706	CDS			hypothetical protein
+ALJPEIHI_01706	gene			
+ALJPEIHI_01707	CDS	ctaD_1	1.9.3.1	Cytochrome c oxidase subunit 1
+ALJPEIHI_01707	gene	ctaD_1		
+ALJPEIHI_01708	CDS	ctaE_1	1.9.3.1	putative cytochrome c oxidase subunit 3
+ALJPEIHI_01708	gene	ctaE_1		
+ALJPEIHI_01709	CDS			hypothetical protein
+ALJPEIHI_01709	gene			
+ALJPEIHI_01710	CDS	ctaC	1.9.3.1	Cytochrome c oxidase subunit 2
+ALJPEIHI_01710	gene	ctaC		
+ALJPEIHI_01711	CDS	ctaD_2	1.9.3.1	Cytochrome c oxidase subunit 1
+ALJPEIHI_01711	gene	ctaD_2		
+ALJPEIHI_01712	CDS	ctaE_2	1.9.3.1	Cytochrome c oxidase subunit 3
+ALJPEIHI_01712	gene	ctaE_2		
+ALJPEIHI_01713	CDS			hypothetical protein
+ALJPEIHI_01713	gene			
+ALJPEIHI_01714	CDS			hypothetical protein
+ALJPEIHI_01714	gene			
+ALJPEIHI_01715	CDS	serS	6.1.1.11	Serine--tRNA ligase
+ALJPEIHI_01715	gene	serS		
+ALJPEIHI_01716	CDS			hypothetical protein
+ALJPEIHI_01716	gene			
+ALJPEIHI_01717	CDS	flK	3.1.2.29	Fluoroacetyl-CoA thioesterase
+ALJPEIHI_01717	gene	flK		
+ALJPEIHI_01718	CDS	tldD	3.4.-.-	Metalloprotease TldD
+ALJPEIHI_01718	gene	tldD		
+ALJPEIHI_01719	CDS	pmbA	3.4.-.-	Metalloprotease PmbA
+ALJPEIHI_01719	gene	pmbA		
+ALJPEIHI_01720	CDS	uppP	3.6.1.27	Undecaprenyl-diphosphatase
+ALJPEIHI_01720	gene	uppP		
+ALJPEIHI_01721	CDS	plsY_2	2.3.1.-	Glycerol-3-phosphate acyltransferase
+ALJPEIHI_01721	gene	plsY_2		
+ALJPEIHI_01722	CDS	moeA	2.10.1.1	Molybdopterin molybdenumtransferase
+ALJPEIHI_01722	gene	moeA		
+ALJPEIHI_01723	CDS	moaA	4.1.99.22	GTP 3',8-cyclase
+ALJPEIHI_01723	gene	moaA		
+ALJPEIHI_01724	CDS	moaC	4.6.1.17	Cyclic pyranopterin monophosphate synthase
+ALJPEIHI_01724	gene	moaC		
+ALJPEIHI_01725	CDS			hypothetical protein
+ALJPEIHI_01725	gene			
+ALJPEIHI_01726	tRNA			tRNA-Ala(cgc)
+ALJPEIHI_01726	gene			
+ALJPEIHI_01727	CDS	acs	6.2.1.1	Acetyl-coenzyme A synthetase
+ALJPEIHI_01727	gene	acs		
+ALJPEIHI_01728	CDS		4.1.-.-	Citrate lyase subunit beta-like protein
+ALJPEIHI_01728	gene			
+ALJPEIHI_01729	CDS	rhtA		Threonine/homoserine exporter RhtA
+ALJPEIHI_01729	gene	rhtA		
+ALJPEIHI_01730	CDS	dapD	2.3.1.117	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+ALJPEIHI_01730	gene	dapD		
+ALJPEIHI_01731	CDS	rsgA	3.6.1.-	Small ribosomal subunit biogenesis GTPase RsgA
+ALJPEIHI_01731	gene	rsgA		
+ALJPEIHI_01732	CDS	acdA_2	1.3.99.-	Acyl-CoA dehydrogenase
+ALJPEIHI_01732	gene	acdA_2		
+ALJPEIHI_01733	CDS	hflX		GTPase HflX
+ALJPEIHI_01733	gene	hflX		
+ALJPEIHI_01734	CDS	dapF	5.1.1.7	Diaminopimelate epimerase
+ALJPEIHI_01734	gene	dapF		
+ALJPEIHI_01735	CDS	miaA	2.5.1.75	tRNA dimethylallyltransferase
+ALJPEIHI_01735	gene	miaA		
+ALJPEIHI_01736	CDS	miaB	2.8.4.3	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+ALJPEIHI_01736	gene	miaB		
+ALJPEIHI_01737	CDS	recA		Protein RecA
+ALJPEIHI_01737	gene	recA		
+ALJPEIHI_01738	CDS	msrB	1.8.4.12	Peptide methionine sulfoxide reductase MsrB
+ALJPEIHI_01738	gene	msrB		
+ALJPEIHI_01739	CDS			hypothetical protein
+ALJPEIHI_01739	gene			
+ALJPEIHI_01740	CDS	nuoJ_3	1.6.5.11	NADH-quinone oxidoreductase subunit J
+ALJPEIHI_01740	gene	nuoJ_3		
+ALJPEIHI_01741	CDS	nuoI_2	1.6.5.11	NADH-quinone oxidoreductase subunit I
+ALJPEIHI_01741	gene	nuoI_2		
+ALJPEIHI_01742	CDS	nuoH_3	1.6.5.11	NADH-quinone oxidoreductase subunit H
+ALJPEIHI_01742	gene	nuoH_3		
+ALJPEIHI_01743	CDS	nuoG	1.6.5.11	NADH-quinone oxidoreductase subunit G
+ALJPEIHI_01743	gene	nuoG		
+ALJPEIHI_01744	CDS	nuoF	1.6.5.11	NADH-quinone oxidoreductase subunit F
+ALJPEIHI_01744	gene	nuoF		
+ALJPEIHI_01745	CDS	nuoE	1.6.5.11	NADH-quinone oxidoreductase subunit E
+ALJPEIHI_01745	gene	nuoE		
+ALJPEIHI_01746	CDS	nuoD	1.6.5.11	NADH-quinone oxidoreductase subunit D
+ALJPEIHI_01746	gene	nuoD		
+ALJPEIHI_01747	CDS	nuoC_2	1.6.5.11	NADH-quinone oxidoreductase subunit C
+ALJPEIHI_01747	gene	nuoC_2		
+ALJPEIHI_01748	CDS	nuoB_2	1.6.5.11	NADH-quinone oxidoreductase subunit B
+ALJPEIHI_01748	gene	nuoB_2		
+ALJPEIHI_01749	CDS	nuoA	1.6.5.11	NADH-quinone oxidoreductase subunit A
+ALJPEIHI_01749	gene	nuoA		
+ALJPEIHI_01750	CDS			hypothetical protein
+ALJPEIHI_01750	gene			

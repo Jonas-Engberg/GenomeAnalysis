@@ -1,0 +1,4541 @@
+locus_tag	ftype	gene	EC_number	product
+IOLNKBKD_00001	CDS	glmU_1		Bifunctional protein GlmU
+IOLNKBKD_00001	gene	glmU_1		
+IOLNKBKD_00002	CDS	fis		DNA-binding protein Fis
+IOLNKBKD_00002	gene	fis		
+IOLNKBKD_00003	CDS	mtaB	2.8.4.5	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+IOLNKBKD_00003	gene	mtaB		
+IOLNKBKD_00004	CDS	atpH		ATP synthase subunit delta
+IOLNKBKD_00004	gene	atpH		
+IOLNKBKD_00005	CDS	atpF		ATP synthase subunit b
+IOLNKBKD_00005	gene	atpF		
+IOLNKBKD_00006	CDS	atpE		ATP synthase subunit c, sodium ion specific
+IOLNKBKD_00006	gene	atpE		
+IOLNKBKD_00007	CDS	atpB		ATP synthase subunit a
+IOLNKBKD_00007	gene	atpB		
+IOLNKBKD_00008	CDS			hypothetical protein
+IOLNKBKD_00008	gene			
+IOLNKBKD_00009	CDS	rsxB_1		Electron transport complex subunit RsxB
+IOLNKBKD_00009	gene	rsxB_1		
+IOLNKBKD_00010	CDS			hypothetical protein
+IOLNKBKD_00010	gene			
+IOLNKBKD_00011	CDS	pbuG		Guanine/hypoxanthine permease PbuG
+IOLNKBKD_00011	gene	pbuG		
+IOLNKBKD_00012	CDS	cca	2.7.7.72	CCA-adding enzyme
+IOLNKBKD_00012	gene	cca		
+IOLNKBKD_00013	CDS	hemE_1	4.1.1.37	Uroporphyrinogen decarboxylase
+IOLNKBKD_00013	gene	hemE_1		
+IOLNKBKD_00014	CDS	queG_1	1.17.99.6	Epoxyqueuosine reductase
+IOLNKBKD_00014	gene	queG_1		
+IOLNKBKD_00015	CDS	hdaH_1	3.5.1.-	Histone deacetylase-like amidohydrolase
+IOLNKBKD_00015	gene	hdaH_1		
+IOLNKBKD_00016	CDS			hypothetical protein
+IOLNKBKD_00016	gene			
+IOLNKBKD_00017	CDS			hypothetical protein
+IOLNKBKD_00017	gene			
+IOLNKBKD_00018	CDS			hypothetical protein
+IOLNKBKD_00018	gene			
+IOLNKBKD_00019	CDS			hypothetical protein
+IOLNKBKD_00019	gene			
+IOLNKBKD_00020	CDS	prsA	5.2.1.8	Foldase protein PrsA
+IOLNKBKD_00020	gene	prsA		
+IOLNKBKD_00021	CDS			hypothetical protein
+IOLNKBKD_00021	gene			
+IOLNKBKD_00022	CDS			hypothetical protein
+IOLNKBKD_00022	gene			
+IOLNKBKD_00023	CDS	degP	3.4.21.107	Periplasmic serine endoprotease DegP
+IOLNKBKD_00023	gene	degP		
+IOLNKBKD_00024	CDS	htrA_1		Putative serine protease HtrA
+IOLNKBKD_00024	gene	htrA_1		
+IOLNKBKD_00025	CDS			hypothetical protein
+IOLNKBKD_00025	gene			
+IOLNKBKD_00026	CDS	fabF_1	2.3.1.179	3-oxoacyl-[acyl-carrier-protein] synthase 2
+IOLNKBKD_00026	gene	fabF_1		
+IOLNKBKD_00027	CDS	ispF	4.6.1.12	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+IOLNKBKD_00027	gene	ispF		
+IOLNKBKD_00028	CDS	dxr	1.1.1.267	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+IOLNKBKD_00028	gene	dxr		
+IOLNKBKD_00029	CDS	cdsA_1	2.7.7.41	Phosphatidate cytidylyltransferase
+IOLNKBKD_00029	gene	cdsA_1		
+IOLNKBKD_00030	CDS	uppS_1	2.5.1.31	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+IOLNKBKD_00030	gene	uppS_1		
+IOLNKBKD_00031	CDS	frr_1		Ribosome-recycling factor
+IOLNKBKD_00031	gene	frr_1		
+IOLNKBKD_00032	CDS	pyrH_1	2.7.4.22	Uridylate kinase
+IOLNKBKD_00032	gene	pyrH_1		
+IOLNKBKD_00033	CDS	tsf_1		Elongation factor Ts
+IOLNKBKD_00033	gene	tsf_1		
+IOLNKBKD_00034	CDS	rpsB_1		30S ribosomal protein S2
+IOLNKBKD_00034	gene	rpsB_1		
+IOLNKBKD_00035	CDS	glnA_1	6.3.1.2	Glutamine synthetase
+IOLNKBKD_00035	gene	glnA_1		
+IOLNKBKD_00036	CDS	speE_1	2.5.1.-	Polyamine aminopropyltransferase
+IOLNKBKD_00036	gene	speE_1		
+IOLNKBKD_00037	CDS			hypothetical protein
+IOLNKBKD_00037	gene			
+IOLNKBKD_00038	CDS			hypothetical protein
+IOLNKBKD_00038	gene			
+IOLNKBKD_00039	CDS			hypothetical protein
+IOLNKBKD_00039	gene			
+IOLNKBKD_00040	CDS	rng	3.1.26.-	Ribonuclease G
+IOLNKBKD_00040	gene	rng		
+IOLNKBKD_00041	CDS	mrdB	2.4.1.129	Peptidoglycan glycosyltransferase MrdB
+IOLNKBKD_00041	gene	mrdB		
+IOLNKBKD_00042	CDS			hypothetical protein
+IOLNKBKD_00042	gene			
+IOLNKBKD_00043	CDS	xpsE_1		Type II secretion system protein E
+IOLNKBKD_00043	gene	xpsE_1		
+IOLNKBKD_00044	CDS	epsF_1		Type II secretion system protein F
+IOLNKBKD_00044	gene	epsF_1		
+IOLNKBKD_00045	CDS	xcpT		Type II secretion system protein G
+IOLNKBKD_00045	gene	xcpT		
+IOLNKBKD_00046	CDS			hypothetical protein
+IOLNKBKD_00046	gene			
+IOLNKBKD_00047	CDS	bepA_1	3.4.-.-	Beta-barrel assembly-enhancing protease
+IOLNKBKD_00047	gene	bepA_1		
+IOLNKBKD_00048	CDS			hypothetical protein
+IOLNKBKD_00048	gene			
+IOLNKBKD_00049	CDS	pkn1_1	2.7.11.1	Serine/threonine-protein kinase pkn1
+IOLNKBKD_00049	gene	pkn1_1		
+IOLNKBKD_00050	CDS	sauT	6.2.1.-	putative sulfoacetate--CoA ligase
+IOLNKBKD_00050	gene	sauT		
+IOLNKBKD_00051	CDS			hypothetical protein
+IOLNKBKD_00051	gene			
+IOLNKBKD_00052	CDS	icd	1.1.1.42	Isocitrate dehydrogenase [NADP]
+IOLNKBKD_00052	gene	icd		
+IOLNKBKD_00053	CDS	mdh_1	1.1.1.37	Malate dehydrogenase
+IOLNKBKD_00053	gene	mdh_1		
+IOLNKBKD_00054	CDS	argC_1	1.2.1.38	N-acetyl-gamma-glutamyl-phosphate reductase
+IOLNKBKD_00054	gene	argC_1		
+IOLNKBKD_00055	CDS	argJ_1		Arginine biosynthesis bifunctional protein ArgJ
+IOLNKBKD_00055	gene	argJ_1		
+IOLNKBKD_00056	CDS	def2	3.5.1.88	Peptide deformylase 2
+IOLNKBKD_00056	gene	def2		
+IOLNKBKD_00057	CDS	fmt_1	2.1.2.9	Methionyl-tRNA formyltransferase
+IOLNKBKD_00057	gene	fmt_1		
+IOLNKBKD_00058	CDS	zapA		Cell division protein ZapA
+IOLNKBKD_00058	gene	zapA		
+IOLNKBKD_00059	CDS			hypothetical protein
+IOLNKBKD_00059	gene			
+IOLNKBKD_00060	CDS	pheT	6.1.1.20	Phenylalanine--tRNA ligase beta subunit
+IOLNKBKD_00060	gene	pheT		
+IOLNKBKD_00061	CDS			hypothetical protein
+IOLNKBKD_00061	gene			
+IOLNKBKD_00062	CDS	lapA		Lipopolysaccharide assembly protein A
+IOLNKBKD_00062	gene	lapA		
+IOLNKBKD_00063	CDS	sppA_1	3.4.21.-	Putative signal peptide peptidase SppA
+IOLNKBKD_00063	gene	sppA_1		
+IOLNKBKD_00064	CDS			hypothetical protein
+IOLNKBKD_00064	gene			
+IOLNKBKD_00065	CDS	flhB_1		Flagellar biosynthetic protein FlhB
+IOLNKBKD_00065	gene	flhB_1		
+IOLNKBKD_00066	CDS			hypothetical protein
+IOLNKBKD_00066	gene			
+IOLNKBKD_00067	CDS	ywaD_1	3.4.11.6	Aminopeptidase YwaD
+IOLNKBKD_00067	gene	ywaD_1		
+IOLNKBKD_00068	CDS	nudB	3.6.1.67	Dihydroneopterin triphosphate diphosphatase
+IOLNKBKD_00068	gene	nudB		
+IOLNKBKD_00069	CDS			hypothetical protein
+IOLNKBKD_00069	gene			
+IOLNKBKD_00070	CDS			hypothetical protein
+IOLNKBKD_00070	gene			
+IOLNKBKD_00071	CDS	relA_1	2.7.6.5	GTP pyrophosphokinase
+IOLNKBKD_00071	gene	relA_1		
+IOLNKBKD_00072	CDS	pomA		Chemotaxis protein PomA
+IOLNKBKD_00072	gene	pomA		
+IOLNKBKD_00073	CDS	motB_1		Motility protein B
+IOLNKBKD_00073	gene	motB_1		
+IOLNKBKD_00074	CDS			hypothetical protein
+IOLNKBKD_00074	gene			
+IOLNKBKD_00075	CDS			hypothetical protein
+IOLNKBKD_00075	gene			
+IOLNKBKD_00076	CDS	tatC		Sec-independent protein translocase protein TatC
+IOLNKBKD_00076	gene	tatC		
+IOLNKBKD_00077	CDS			hypothetical protein
+IOLNKBKD_00077	gene			
+IOLNKBKD_00078	CDS	dsbA		Thiol:disulfide interchange protein DsbA
+IOLNKBKD_00078	gene	dsbA		
+IOLNKBKD_00079	CDS	pcrC		Perchlorate reductase subunit gamma
+IOLNKBKD_00079	gene	pcrC		
+IOLNKBKD_00080	CDS	yciV_1	3.1.13.-	5'-3' exoribonuclease
+IOLNKBKD_00080	gene	yciV_1		
+IOLNKBKD_00081	CDS	glmM	5.4.2.10	Phosphoglucosamine mutase
+IOLNKBKD_00081	gene	glmM		
+IOLNKBKD_00082	CDS	glmU_2		Bifunctional protein GlmU
+IOLNKBKD_00082	gene	glmU_2		
+IOLNKBKD_00083	CDS	yejB_1		Inner membrane ABC transporter permease protein YejB
+IOLNKBKD_00083	gene	yejB_1		
+IOLNKBKD_00084	CDS	appA		Oligopeptide-binding protein AppA
+IOLNKBKD_00084	gene	appA		
+IOLNKBKD_00085	CDS			hypothetical protein
+IOLNKBKD_00085	gene			
+IOLNKBKD_00086	CDS			hypothetical protein
+IOLNKBKD_00086	gene			
+IOLNKBKD_00087	CDS	rplS_1		50S ribosomal protein L19
+IOLNKBKD_00087	gene	rplS_1		
+IOLNKBKD_00088	CDS			hypothetical protein
+IOLNKBKD_00088	gene			
+IOLNKBKD_00089	CDS	trmD_1	2.1.1.228	tRNA (guanine-N(1)-)-methyltransferase
+IOLNKBKD_00089	gene	trmD_1		
+IOLNKBKD_00090	CDS	rimM_1		Ribosome maturation factor RimM
+IOLNKBKD_00090	gene	rimM_1		
+IOLNKBKD_00091	CDS			hypothetical protein
+IOLNKBKD_00091	gene			
+IOLNKBKD_00092	CDS	ykfA	3.4.16.-	putative murein peptide carboxypeptidase
+IOLNKBKD_00092	gene	ykfA		
+IOLNKBKD_00093	CDS	hisF	4.1.3.-	Imidazole glycerol phosphate synthase subunit HisF
+IOLNKBKD_00093	gene	hisF		
+IOLNKBKD_00094	CDS	hisA	5.3.1.16	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+IOLNKBKD_00094	gene	hisA		
+IOLNKBKD_00095	CDS			hypothetical protein
+IOLNKBKD_00095	gene			
+IOLNKBKD_00096	CDS	oadG_1	4.1.1.3	oxaloacetate decarboxylase gamma chain
+IOLNKBKD_00096	gene	oadG_1		
+IOLNKBKD_00097	CDS	gcdB_1	4.1.1.70	Glutaconyl-CoA decarboxylase subunit beta
+IOLNKBKD_00097	gene	gcdB_1		
+IOLNKBKD_00098	CDS			hypothetical protein
+IOLNKBKD_00098	gene			
+IOLNKBKD_00099	CDS			hypothetical protein
+IOLNKBKD_00099	gene			
+IOLNKBKD_00100	CDS	rnz	3.1.26.11	Ribonuclease Z
+IOLNKBKD_00100	gene	rnz		
+IOLNKBKD_00101	CDS			hypothetical protein
+IOLNKBKD_00101	gene			
+IOLNKBKD_00102	CDS	hemY	1.3.3.4	Protoporphyrinogen oxidase
+IOLNKBKD_00102	gene	hemY		
+IOLNKBKD_00103	CDS			hypothetical protein
+IOLNKBKD_00103	gene			
+IOLNKBKD_00104	CDS			hypothetical protein
+IOLNKBKD_00104	gene			
+IOLNKBKD_00105	CDS			hypothetical protein
+IOLNKBKD_00105	gene			
+IOLNKBKD_00106	CDS			hypothetical protein
+IOLNKBKD_00106	gene			
+IOLNKBKD_00107	CDS	wfgD	2.4.1.305	UDP-Glc:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-glucosyltransferase WfgD
+IOLNKBKD_00107	gene	wfgD		
+IOLNKBKD_00108	CDS	ispB	2.5.1.90	Octaprenyl diphosphate synthase
+IOLNKBKD_00108	gene	ispB		
+IOLNKBKD_00109	CDS			hypothetical protein
+IOLNKBKD_00109	gene			
+IOLNKBKD_00110	CDS	rimP_1		Ribosome maturation factor RimP
+IOLNKBKD_00110	gene	rimP_1		
+IOLNKBKD_00111	CDS	nusA_1		Transcription termination/antitermination protein NusA
+IOLNKBKD_00111	gene	nusA_1		
+IOLNKBKD_00112	CDS	macA_1		Macrolide export protein MacA
+IOLNKBKD_00112	gene	macA_1		
+IOLNKBKD_00113	CDS	yknY_1	3.6.3.-	putative ABC transporter ATP-binding protein YknY
+IOLNKBKD_00113	gene	yknY_1		
+IOLNKBKD_00114	CDS	macB_1	3.6.3.-	Macrolide export ATP-binding/permease protein MacB
+IOLNKBKD_00114	gene	macB_1		
+IOLNKBKD_00115	CDS	macB_2	3.6.3.-	Macrolide export ATP-binding/permease protein MacB
+IOLNKBKD_00115	gene	macB_2		
+IOLNKBKD_00116	CDS			hypothetical protein
+IOLNKBKD_00116	gene			
+IOLNKBKD_00117	CDS			hypothetical protein
+IOLNKBKD_00117	gene			
+IOLNKBKD_00118	CDS		1.-.-.-	putative oxidoreductase
+IOLNKBKD_00118	gene			
+IOLNKBKD_00119	CDS			hypothetical protein
+IOLNKBKD_00119	gene			
+IOLNKBKD_00120	CDS			hypothetical protein
+IOLNKBKD_00120	gene			
+IOLNKBKD_00121	CDS			hypothetical protein
+IOLNKBKD_00121	gene			
+IOLNKBKD_00122	CDS	mtnP	2.4.2.28	S-methyl-5'-thioadenosine phosphorylase
+IOLNKBKD_00122	gene	mtnP		
+IOLNKBKD_00123	CDS	hemL	5.4.3.8	Glutamate-1-semialdehyde 2,1-aminomutase
+IOLNKBKD_00123	gene	hemL		
+IOLNKBKD_00124	CDS	eno	4.2.1.11	Enolase
+IOLNKBKD_00124	gene	eno		
+IOLNKBKD_00125	CDS	ftsB		Cell division protein FtsB
+IOLNKBKD_00125	gene	ftsB		
+IOLNKBKD_00126	CDS	hup_1		DNA-binding protein HU
+IOLNKBKD_00126	gene	hup_1		
+IOLNKBKD_00127	CDS	queA	2.4.99.17	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+IOLNKBKD_00127	gene	queA		
+IOLNKBKD_00128	CDS	lolD_1	3.6.3.-	Lipoprotein-releasing system ATP-binding protein LolD
+IOLNKBKD_00128	gene	lolD_1		
+IOLNKBKD_00129	CDS			hypothetical protein
+IOLNKBKD_00129	gene			
+IOLNKBKD_00130	CDS			hypothetical protein
+IOLNKBKD_00130	gene			
+IOLNKBKD_00131	CDS	nusB		N utilization substance protein B 
+IOLNKBKD_00131	gene	nusB		
+IOLNKBKD_00132	CDS			hypothetical protein
+IOLNKBKD_00132	gene			
+IOLNKBKD_00133	CDS	amiC_1	3.5.1.28	N-acetylmuramoyl-L-alanine amidase AmiC
+IOLNKBKD_00133	gene	amiC_1		
+IOLNKBKD_00134	CDS			hypothetical protein
+IOLNKBKD_00134	gene			
+IOLNKBKD_00135	CDS	crcB		Putative fluoride ion transporter CrcB
+IOLNKBKD_00135	gene	crcB		
+IOLNKBKD_00136	CDS			hypothetical protein
+IOLNKBKD_00136	gene			
+IOLNKBKD_00137	tRNA			tRNA-Arg(tct)
+IOLNKBKD_00137	gene			
+IOLNKBKD_00138	CDS	bioD	6.3.3.3	ATP-dependent dethiobiotin synthetase BioD
+IOLNKBKD_00138	gene	bioD		
+IOLNKBKD_00139	CDS	walR		Transcriptional regulatory protein WalR
+IOLNKBKD_00139	gene	walR		
+IOLNKBKD_00140	CDS	phoR_1	2.7.13.3	Alkaline phosphatase synthesis sensor protein PhoR
+IOLNKBKD_00140	gene	phoR_1		
+IOLNKBKD_00141	CDS			hypothetical protein
+IOLNKBKD_00141	gene			
+IOLNKBKD_00142	CDS			hypothetical protein
+IOLNKBKD_00142	gene			
+IOLNKBKD_00143	CDS	metG	6.1.1.10	Methionine--tRNA ligase
+IOLNKBKD_00143	gene	metG		
+IOLNKBKD_00144	CDS			hypothetical protein
+IOLNKBKD_00144	gene			
+IOLNKBKD_00145	CDS	aspS	6.1.1.12	Aspartate--tRNA ligase
+IOLNKBKD_00145	gene	aspS		
+IOLNKBKD_00146	CDS	nadE_1	6.3.5.1	NH(3)-dependent NAD(+) synthetase
+IOLNKBKD_00146	gene	nadE_1		
+IOLNKBKD_00147	CDS			hypothetical protein
+IOLNKBKD_00147	gene			
+IOLNKBKD_00148	CDS			hypothetical protein
+IOLNKBKD_00148	gene			
+IOLNKBKD_00149	CDS	pipB		Secreted effector protein PipB
+IOLNKBKD_00149	gene	pipB		
+IOLNKBKD_00150	CDS	rnc	3.1.26.3	Ribonuclease 3
+IOLNKBKD_00150	gene	rnc		
+IOLNKBKD_00151	CDS	fabF_2	2.3.1.179	3-oxoacyl-[acyl-carrier-protein] synthase 2
+IOLNKBKD_00151	gene	fabF_2		
+IOLNKBKD_00152	CDS	acpP_1		Acyl carrier protein
+IOLNKBKD_00152	gene	acpP_1		
+IOLNKBKD_00153	CDS	fabG_1	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+IOLNKBKD_00153	gene	fabG_1		
+IOLNKBKD_00154	CDS	fabD	2.3.1.39	Malonyl CoA-acyl carrier protein transacylase
+IOLNKBKD_00154	gene	fabD		
+IOLNKBKD_00155	CDS	fabH	2.3.1.180	3-oxoacyl-[acyl-carrier-protein] synthase 3
+IOLNKBKD_00155	gene	fabH		
+IOLNKBKD_00156	CDS			hypothetical protein
+IOLNKBKD_00156	gene			
+IOLNKBKD_00157	CDS			hypothetical protein
+IOLNKBKD_00157	gene			
+IOLNKBKD_00158	CDS	exoA_1	3.1.11.2	Exodeoxyribonuclease
+IOLNKBKD_00158	gene	exoA_1		
+IOLNKBKD_00159	CDS			hypothetical protein
+IOLNKBKD_00159	gene			
+IOLNKBKD_00160	CDS			hypothetical protein
+IOLNKBKD_00160	gene			
+IOLNKBKD_00161	CDS	mtgA_1	2.4.1.129	Biosynthetic peptidoglycan transglycosylase
+IOLNKBKD_00161	gene	mtgA_1		
+IOLNKBKD_00162	CDS	mepM_1	3.4.24.-	Murein DD-endopeptidase MepM
+IOLNKBKD_00162	gene	mepM_1		
+IOLNKBKD_00163	CDS	splG_1	4.1.99.14	Spore photoproduct lyase
+IOLNKBKD_00163	gene	splG_1		
+IOLNKBKD_00164	CDS	dnaN_1	2.7.7.7	DNA polymerase III subunit beta
+IOLNKBKD_00164	gene	dnaN_1		
+IOLNKBKD_00165	CDS	speE_2	2.5.1.-	Polyamine aminopropyltransferase
+IOLNKBKD_00165	gene	speE_2		
+IOLNKBKD_00166	CDS			hypothetical protein
+IOLNKBKD_00166	gene			
+IOLNKBKD_00167	CDS			hypothetical protein
+IOLNKBKD_00167	gene			
+IOLNKBKD_00168	CDS			hypothetical protein
+IOLNKBKD_00168	gene			
+IOLNKBKD_00169	CDS			hypothetical protein
+IOLNKBKD_00169	gene			
+IOLNKBKD_00170	CDS	pyrR		Bifunctional protein PyrR
+IOLNKBKD_00170	gene	pyrR		
+IOLNKBKD_00171	CDS	pyrB	2.1.3.2	Aspartate carbamoyltransferase
+IOLNKBKD_00171	gene	pyrB		
+IOLNKBKD_00172	CDS	pyrC	3.5.2.3	Dihydroorotase
+IOLNKBKD_00172	gene	pyrC		
+IOLNKBKD_00173	CDS	alaC	2.6.1.2	Glutamate-pyruvate aminotransferase AlaC
+IOLNKBKD_00173	gene	alaC		
+IOLNKBKD_00174	CDS	hom	1.1.1.3	Homoserine dehydrogenase
+IOLNKBKD_00174	gene	hom		
+IOLNKBKD_00175	CDS	thrC_1	4.2.3.1	Threonine synthase
+IOLNKBKD_00175	gene	thrC_1		
+IOLNKBKD_00176	CDS	pkn1_2	2.7.11.1	Serine/threonine-protein kinase pkn1
+IOLNKBKD_00176	gene	pkn1_2		
+IOLNKBKD_00177	CDS	trxB	1.8.1.9	Thioredoxin reductase
+IOLNKBKD_00177	gene	trxB		
+IOLNKBKD_00178	CDS	yedY	1.8.-.-	Sulfoxide reductase catalytic subunit YedY
+IOLNKBKD_00178	gene	yedY		
+IOLNKBKD_00179	CDS			hypothetical protein
+IOLNKBKD_00179	gene			
+IOLNKBKD_00180	CDS	pkn1_3	2.7.11.1	Serine/threonine-protein kinase pkn1
+IOLNKBKD_00180	gene	pkn1_3		
+IOLNKBKD_00181	CDS	metF	1.5.1.20	5,10-methylenetetrahydrofolate reductase
+IOLNKBKD_00181	gene	metF		
+IOLNKBKD_00182	CDS			hypothetical protein
+IOLNKBKD_00182	gene			
+IOLNKBKD_00183	CDS	hpnR_1	2.1.1.-	Hopanoid C-3 methylase
+IOLNKBKD_00183	gene	hpnR_1		
+IOLNKBKD_00184	CDS			hypothetical protein
+IOLNKBKD_00184	gene			
+IOLNKBKD_00185	CDS			hypothetical protein
+IOLNKBKD_00185	gene			
+IOLNKBKD_00186	CDS	opuAC		Glycine betaine-binding protein OpuAC
+IOLNKBKD_00186	gene	opuAC		
+IOLNKBKD_00187	CDS	proV		Glycine betaine/proline betaine transport system ATP-binding protein ProV
+IOLNKBKD_00187	gene	proV		
+IOLNKBKD_00188	CDS	qcrB_1		Menaquinol-cytochrome c reductase cytochrome b subunit
+IOLNKBKD_00188	gene	qcrB_1		
+IOLNKBKD_00189	CDS			hypothetical protein
+IOLNKBKD_00189	gene			
+IOLNKBKD_00190	CDS	resA_1		Thiol-disulfide oxidoreductase ResA
+IOLNKBKD_00190	gene	resA_1		
+IOLNKBKD_00191	CDS			hypothetical protein
+IOLNKBKD_00191	gene			
+IOLNKBKD_00192	CDS			hypothetical protein
+IOLNKBKD_00192	gene			
+IOLNKBKD_00193	CDS	xseA_1	3.1.11.6	Exodeoxyribonuclease 7 large subunit
+IOLNKBKD_00193	gene	xseA_1		
+IOLNKBKD_00194	CDS	folD_1		Bifunctional protein FolD protein
+IOLNKBKD_00194	gene	folD_1		
+IOLNKBKD_00195	CDS	ntrC_1		Nitrogen assimilation regulatory protein
+IOLNKBKD_00195	gene	ntrC_1		
+IOLNKBKD_00196	CDS			hypothetical protein
+IOLNKBKD_00196	gene			
+IOLNKBKD_00197	CDS			hypothetical protein
+IOLNKBKD_00197	gene			
+IOLNKBKD_00198	CDS	pheS_1	6.1.1.20	Phenylalanine--tRNA ligase alpha subunit
+IOLNKBKD_00198	gene	pheS_1		
+IOLNKBKD_00199	CDS			hypothetical protein
+IOLNKBKD_00199	gene			
+IOLNKBKD_00200	CDS			hypothetical protein
+IOLNKBKD_00200	gene			
+IOLNKBKD_00201	CDS	yrrB_1		TPR repeat-containing protein YrrB
+IOLNKBKD_00201	gene	yrrB_1		
+IOLNKBKD_00202	CDS			hypothetical protein
+IOLNKBKD_00202	gene			
+IOLNKBKD_00203	CDS			hypothetical protein
+IOLNKBKD_00203	gene			
+IOLNKBKD_00204	CDS	ywaD_2	3.4.11.6	Aminopeptidase YwaD
+IOLNKBKD_00204	gene	ywaD_2		
+IOLNKBKD_00205	CDS	fosB_1	2.5.1.-	Metallothiol transferase FosB
+IOLNKBKD_00205	gene	fosB_1		
+IOLNKBKD_00206	CDS	moaC_1	4.6.1.17	Cyclic pyranopterin monophosphate synthase
+IOLNKBKD_00206	gene	moaC_1		
+IOLNKBKD_00207	CDS	moaD_1		Molybdopterin synthase sulfur carrier subunit
+IOLNKBKD_00207	gene	moaD_1		
+IOLNKBKD_00208	CDS	moaE	2.8.1.12	Molybdopterin synthase catalytic subunit
+IOLNKBKD_00208	gene	moaE		
+IOLNKBKD_00209	CDS			hypothetical protein
+IOLNKBKD_00209	gene			
+IOLNKBKD_00210	CDS	spo0C		Chromosome-partitioning protein Spo0J
+IOLNKBKD_00210	gene	spo0C		
+IOLNKBKD_00211	CDS	pkn1_4	2.7.11.1	Serine/threonine-protein kinase pkn1
+IOLNKBKD_00211	gene	pkn1_4		
+IOLNKBKD_00212	CDS			hypothetical protein
+IOLNKBKD_00212	gene			
+IOLNKBKD_00213	CDS	lapB_1		Lipopolysaccharide assembly protein B
+IOLNKBKD_00213	gene	lapB_1		
+IOLNKBKD_00214	CDS			hypothetical protein
+IOLNKBKD_00214	gene			
+IOLNKBKD_00215	CDS			hypothetical protein
+IOLNKBKD_00215	gene			
+IOLNKBKD_00216	CDS	rhlE_1	3.6.4.13	ATP-dependent RNA helicase RhlE
+IOLNKBKD_00216	gene	rhlE_1		
+IOLNKBKD_00217	CDS	ycf3_1		Photosystem I assembly protein Ycf3
+IOLNKBKD_00217	gene	ycf3_1		
+IOLNKBKD_00218	CDS	ntrC_2		Nitrogen assimilation regulatory protein
+IOLNKBKD_00218	gene	ntrC_2		
+IOLNKBKD_00219	CDS	doeB	3.5.1.-	N-alpha-acetyl-L-2,4-diaminobutyric acid deacetylase
+IOLNKBKD_00219	gene	doeB		
+IOLNKBKD_00220	CDS			hypothetical protein
+IOLNKBKD_00220	gene			
+IOLNKBKD_00221	CDS	nusA_2		Transcription termination/antitermination protein NusA
+IOLNKBKD_00221	gene	nusA_2		
+IOLNKBKD_00222	CDS	infB		Translation initiation factor IF-2
+IOLNKBKD_00222	gene	infB		
+IOLNKBKD_00223	CDS			hypothetical protein
+IOLNKBKD_00223	gene			
+IOLNKBKD_00224	CDS	rbfA		Ribosome-binding factor A
+IOLNKBKD_00224	gene	rbfA		
+IOLNKBKD_00225	CDS	truB_1	5.4.99.25	tRNA pseudouridine synthase B
+IOLNKBKD_00225	gene	truB_1		
+IOLNKBKD_00226	CDS	rpsO_1		30S ribosomal protein S15
+IOLNKBKD_00226	gene	rpsO_1		
+IOLNKBKD_00227	CDS			hypothetical protein
+IOLNKBKD_00227	gene			
+IOLNKBKD_00228	CDS			hypothetical protein
+IOLNKBKD_00228	gene			
+IOLNKBKD_00229	CDS	sfsA		Sugar fermentation stimulation protein A
+IOLNKBKD_00229	gene	sfsA		
+IOLNKBKD_00230	CDS	nuoM_1	1.6.5.11	NADH-quinone oxidoreductase subunit M
+IOLNKBKD_00230	gene	nuoM_1		
+IOLNKBKD_00231	CDS	nuoL_1	1.6.5.11	NADH-quinone oxidoreductase subunit L
+IOLNKBKD_00231	gene	nuoL_1		
+IOLNKBKD_00232	CDS			hypothetical protein
+IOLNKBKD_00232	gene			
+IOLNKBKD_00233	CDS			hypothetical protein
+IOLNKBKD_00233	gene			
+IOLNKBKD_00234	CDS	rhlE_2	3.6.4.13	ATP-dependent RNA helicase RhlE
+IOLNKBKD_00234	gene	rhlE_2		
+IOLNKBKD_00235	CDS		2.1.1.-	putative S-adenosylmethionine-dependent methyltransferase
+IOLNKBKD_00235	gene			
+IOLNKBKD_00236	CDS	bshA_1	2.4.1.-	N-acetyl-alpha-D-glucosaminyl L-malate synthase
+IOLNKBKD_00236	gene	bshA_1		
+IOLNKBKD_00237	CDS	rfaG	2.4.-.-	Lipopolysaccharide core biosynthesis protein RfaG
+IOLNKBKD_00237	gene	rfaG		
+IOLNKBKD_00238	CDS			hypothetical protein
+IOLNKBKD_00238	gene			
+IOLNKBKD_00239	CDS			hypothetical protein
+IOLNKBKD_00239	gene			
+IOLNKBKD_00240	CDS			hypothetical protein
+IOLNKBKD_00240	gene			
+IOLNKBKD_00241	CDS	ychF_1		Ribosome-binding ATPase YchF
+IOLNKBKD_00241	gene	ychF_1		
+IOLNKBKD_00242	CDS		1.1.1.-	Putative 2-hydroxyacid dehydrogenase
+IOLNKBKD_00242	gene			
+IOLNKBKD_00243	CDS	fom3_1	2.1.1.308	2-hydroxyethylphosphonate methyltransferase
+IOLNKBKD_00243	gene	fom3_1		
+IOLNKBKD_00244	CDS			hypothetical protein
+IOLNKBKD_00244	gene			
+IOLNKBKD_00245	CDS	queE_1	4.3.99.3	7-carboxy-7-deazaguanine synthase
+IOLNKBKD_00245	gene	queE_1		
+IOLNKBKD_00246	CDS	mutY	3.2.2.-	Adenine DNA glycosylase
+IOLNKBKD_00246	gene	mutY		
+IOLNKBKD_00247	CDS	fieF		Ferrous-iron efflux pump FieF
+IOLNKBKD_00247	gene	fieF		
+IOLNKBKD_00248	CDS	cysI	1.8.1.2	Sulfite reductase [NADPH] hemoprotein beta-component
+IOLNKBKD_00248	gene	cysI		
+IOLNKBKD_00249	CDS			hypothetical protein
+IOLNKBKD_00249	gene			
+IOLNKBKD_00250	CDS	gmk	2.7.4.8	Guanylate kinase
+IOLNKBKD_00250	gene	gmk		
+IOLNKBKD_00251	CDS	hisC2_1	2.6.1.9	Histidinol-phosphate aminotransferase 2
+IOLNKBKD_00251	gene	hisC2_1		
+IOLNKBKD_00252	CDS	guaB_1	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+IOLNKBKD_00252	gene	guaB_1		
+IOLNKBKD_00253	CDS	guaA	6.3.5.2	GMP synthase [glutamine-hydrolyzing]
+IOLNKBKD_00253	gene	guaA		
+IOLNKBKD_00254	CDS	pilQ_1		Type IV pilus biogenesis and competence protein PilQ
+IOLNKBKD_00254	gene	pilQ_1		
+IOLNKBKD_00255	CDS	aroB	4.2.3.4	3-dehydroquinate synthase
+IOLNKBKD_00255	gene	aroB		
+IOLNKBKD_00256	CDS			hypothetical protein
+IOLNKBKD_00256	gene			
+IOLNKBKD_00257	CDS			hypothetical protein
+IOLNKBKD_00257	gene			
+IOLNKBKD_00258	CDS	kinA	2.7.13.3	Sporulation kinase A
+IOLNKBKD_00258	gene	kinA		
+IOLNKBKD_00259	CDS	bamD_1		Outer membrane protein assembly factor BamD
+IOLNKBKD_00259	gene	bamD_1		
+IOLNKBKD_00260	CDS			hypothetical protein
+IOLNKBKD_00260	gene			
+IOLNKBKD_00261	CDS	hldD	5.1.3.20	ADP-L-glycero-D-manno-heptose-6-epimerase
+IOLNKBKD_00261	gene	hldD		
+IOLNKBKD_00262	CDS	hldE		Bifunctional protein HldE
+IOLNKBKD_00262	gene	hldE		
+IOLNKBKD_00263	CDS	gmhA1	5.3.1.28	Phosphoheptose isomerase 1
+IOLNKBKD_00263	gene	gmhA1		
+IOLNKBKD_00264	CDS			hypothetical protein
+IOLNKBKD_00264	gene			
+IOLNKBKD_00265	CDS			hypothetical protein
+IOLNKBKD_00265	gene			
+IOLNKBKD_00266	CDS			hypothetical protein
+IOLNKBKD_00266	gene			
+IOLNKBKD_00267	CDS			hypothetical protein
+IOLNKBKD_00267	gene			
+IOLNKBKD_00268	CDS	flhF_1		Flagellar biosynthesis protein FlhF
+IOLNKBKD_00268	gene	flhF_1		
+IOLNKBKD_00269	CDS	flhA_1		Flagellar biosynthesis protein FlhA
+IOLNKBKD_00269	gene	flhA_1		
+IOLNKBKD_00270	CDS			hypothetical protein
+IOLNKBKD_00270	gene			
+IOLNKBKD_00271	CDS			hypothetical protein
+IOLNKBKD_00271	gene			
+IOLNKBKD_00272	CDS			hypothetical protein
+IOLNKBKD_00272	gene			
+IOLNKBKD_00273	CDS	miaA	2.5.1.75	tRNA dimethylallyltransferase
+IOLNKBKD_00273	gene	miaA		
+IOLNKBKD_00274	CDS	yfiC	2.1.1.223	tRNA1(Val) (adenine(37)-N6)-methyltransferase
+IOLNKBKD_00274	gene	yfiC		
+IOLNKBKD_00275	CDS			hypothetical protein
+IOLNKBKD_00275	gene			
+IOLNKBKD_00276	CDS			hypothetical protein
+IOLNKBKD_00276	gene			
+IOLNKBKD_00277	CDS	tpx	1.11.1.-	putative thiol peroxidase
+IOLNKBKD_00277	gene	tpx		
+IOLNKBKD_00278	tmRNA	ssrA		transfer-messenger RNA, SsrA
+IOLNKBKD_00278	gene	ssrA		
+IOLNKBKD_00279	CDS	mshA	2.4.1.250	D-inositol 3-phosphate glycosyltransferase
+IOLNKBKD_00279	gene	mshA		
+IOLNKBKD_00280	CDS	ped_1	1.1.1.311	(S)-1-Phenylethanol dehydrogenase
+IOLNKBKD_00280	gene	ped_1		
+IOLNKBKD_00281	CDS	moeZ_1		putative adenylyltransferase/sulfurtransferase MoeZ
+IOLNKBKD_00281	gene	moeZ_1		
+IOLNKBKD_00282	CDS	aspC_1	2.6.1.1	Aspartate aminotransferase
+IOLNKBKD_00282	gene	aspC_1		
+IOLNKBKD_00283	CDS	purH_1		Bifunctional purine biosynthesis protein PurH
+IOLNKBKD_00283	gene	purH_1		
+IOLNKBKD_00284	CDS	glpE_1	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+IOLNKBKD_00284	gene	glpE_1		
+IOLNKBKD_00285	CDS	glpQ	3.1.4.46	Glycerophosphodiester phosphodiesterase
+IOLNKBKD_00285	gene	glpQ		
+IOLNKBKD_00286	CDS	degS	2.7.13.3	Signal transduction histidine-protein kinase/phosphatase DegS
+IOLNKBKD_00286	gene	degS		
+IOLNKBKD_00287	CDS	degU		Transcriptional regulatory protein DegU
+IOLNKBKD_00287	gene	degU		
+IOLNKBKD_00288	CDS			hypothetical protein
+IOLNKBKD_00288	gene			
+IOLNKBKD_00289	CDS			hypothetical protein
+IOLNKBKD_00289	gene			
+IOLNKBKD_00290	CDS	folA	1.5.1.3	Dihydrofolate reductase
+IOLNKBKD_00290	gene	folA		
+IOLNKBKD_00291	CDS		3.4.24.-	putative zinc protease
+IOLNKBKD_00291	gene			
+IOLNKBKD_00292	CDS			hypothetical protein
+IOLNKBKD_00292	gene			
+IOLNKBKD_00293	CDS	aceE	1.2.4.1	Pyruvate dehydrogenase E1 component
+IOLNKBKD_00293	gene	aceE		
+IOLNKBKD_00294	CDS	yeeO		putative FMN/FAD exporter YeeO
+IOLNKBKD_00294	gene	yeeO		
+IOLNKBKD_00295	CDS			hypothetical protein
+IOLNKBKD_00295	gene			
+IOLNKBKD_00296	CDS	psuG	4.2.1.70	Pseudouridine-5'-phosphate glycosidase
+IOLNKBKD_00296	gene	psuG		
+IOLNKBKD_00297	CDS			hypothetical protein
+IOLNKBKD_00297	gene			
+IOLNKBKD_00298	CDS	gyrA_1	5.99.1.3	DNA gyrase subunit A
+IOLNKBKD_00298	gene	gyrA_1		
+IOLNKBKD_00299	CDS	gyrB_1	5.99.1.3	DNA gyrase subunit B
+IOLNKBKD_00299	gene	gyrB_1		
+IOLNKBKD_00300	CDS			hypothetical protein
+IOLNKBKD_00300	gene			
+IOLNKBKD_00301	CDS	recF_1		DNA replication and repair protein RecF
+IOLNKBKD_00301	gene	recF_1		
+IOLNKBKD_00302	CDS	dnaN_2	2.7.7.7	DNA polymerase III subunit beta
+IOLNKBKD_00302	gene	dnaN_2		
+IOLNKBKD_00303	CDS	surA_1	5.2.1.8	Chaperone SurA
+IOLNKBKD_00303	gene	surA_1		
+IOLNKBKD_00304	CDS			hypothetical protein
+IOLNKBKD_00304	gene			
+IOLNKBKD_00305	CDS	mfd	3.6.4.-	Transcription-repair-coupling factor
+IOLNKBKD_00305	gene	mfd		
+IOLNKBKD_00306	CDS	mnmG_1		tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+IOLNKBKD_00306	gene	mnmG_1		
+IOLNKBKD_00307	CDS	mnmE	3.6.-.-	tRNA modification GTPase MnmE
+IOLNKBKD_00307	gene	mnmE		
+IOLNKBKD_00308	CDS	yidC_1		Membrane protein insertase YidC
+IOLNKBKD_00308	gene	yidC_1		
+IOLNKBKD_00309	CDS	dnaA_1		Chromosomal replication initiator protein DnaA
+IOLNKBKD_00309	gene	dnaA_1		
+IOLNKBKD_00310	CDS	lexA_1	3.4.21.88	LexA repressor
+IOLNKBKD_00310	gene	lexA_1		
+IOLNKBKD_00311	CDS			hypothetical protein
+IOLNKBKD_00311	gene			
+IOLNKBKD_00312	CDS			hypothetical protein
+IOLNKBKD_00312	gene			
+IOLNKBKD_00313	CDS	ssb_1		Single-stranded DNA-binding protein
+IOLNKBKD_00313	gene	ssb_1		
+IOLNKBKD_00314	CDS	plsC_1	2.3.1.-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+IOLNKBKD_00314	gene	plsC_1		
+IOLNKBKD_00315	CDS	mltB	4.2.2.-	Membrane-bound lytic murein transglycosylase B
+IOLNKBKD_00315	gene	mltB		
+IOLNKBKD_00316	CDS	ywaD_3	3.4.11.6	Aminopeptidase YwaD
+IOLNKBKD_00316	gene	ywaD_3		
+IOLNKBKD_00317	CDS	apaG		Protein ApaG
+IOLNKBKD_00317	gene	apaG		
+IOLNKBKD_00318	CDS	pyk_1	2.7.1.40	Pyruvate kinase
+IOLNKBKD_00318	gene	pyk_1		
+IOLNKBKD_00319	CDS	ppdK_1	2.7.9.1	Pyruvate, phosphate dikinase
+IOLNKBKD_00319	gene	ppdK_1		
+IOLNKBKD_00320	CDS			hypothetical protein
+IOLNKBKD_00320	gene			
+IOLNKBKD_00321	CDS		1.13.11.24	Putative quercetin 2,3-dioxygenase
+IOLNKBKD_00321	gene			
+IOLNKBKD_00322	CDS	gabD2	1.2.1.79	Putative succinate-semialdehyde dehydrogenase [NADP(+)] 2
+IOLNKBKD_00322	gene	gabD2		
+IOLNKBKD_00323	CDS	yhdN_1	1.1.1.-	General stress protein 69
+IOLNKBKD_00323	gene	yhdN_1		
+IOLNKBKD_00324	CDS	mutS2_1	3.1.-.-	Endonuclease MutS2
+IOLNKBKD_00324	gene	mutS2_1		
+IOLNKBKD_00325	CDS	phhA	1.14.16.1	Phenylalanine-4-hydroxylase
+IOLNKBKD_00325	gene	phhA		
+IOLNKBKD_00326	CDS			hypothetical protein
+IOLNKBKD_00326	gene			
+IOLNKBKD_00327	CDS			hypothetical protein
+IOLNKBKD_00327	gene			
+IOLNKBKD_00328	CDS			hypothetical protein
+IOLNKBKD_00328	gene			
+IOLNKBKD_00329	CDS			hypothetical protein
+IOLNKBKD_00329	gene			
+IOLNKBKD_00330	CDS			hypothetical protein
+IOLNKBKD_00330	gene			
+IOLNKBKD_00331	CDS	gltP_1		Proton/glutamate-aspartate symporter
+IOLNKBKD_00331	gene	gltP_1		
+IOLNKBKD_00332	CDS	lipM	2.3.1.181	Octanoyltransferase LipM
+IOLNKBKD_00332	gene	lipM		
+IOLNKBKD_00333	CDS	pkn1_5	2.7.11.1	Serine/threonine-protein kinase pkn1
+IOLNKBKD_00333	gene	pkn1_5		
+IOLNKBKD_00334	CDS			hypothetical protein
+IOLNKBKD_00334	gene			
+IOLNKBKD_00335	CDS			hypothetical protein
+IOLNKBKD_00335	gene			
+IOLNKBKD_00336	CDS	modA_1		Molybdate-binding periplasmic protein
+IOLNKBKD_00336	gene	modA_1		
+IOLNKBKD_00337	CDS	modB		Molybdenum transport system permease protein ModB
+IOLNKBKD_00337	gene	modB		
+IOLNKBKD_00338	CDS	cysA_1	3.6.3.25	Sulfate/thiosulfate import ATP-binding protein CysA
+IOLNKBKD_00338	gene	cysA_1		
+IOLNKBKD_00339	CDS			hypothetical protein
+IOLNKBKD_00339	gene			
+IOLNKBKD_00340	CDS			Cyclic nucleotide-gated potassium channel
+IOLNKBKD_00340	gene			
+IOLNKBKD_00341	CDS			hypothetical protein
+IOLNKBKD_00341	gene			
+IOLNKBKD_00342	CDS	msrP_1	1.8.5.-	Protein-methionine-sulfoxide reductase catalytic subunit MsrP
+IOLNKBKD_00342	gene	msrP_1		
+IOLNKBKD_00343	CDS	cugP	2.7.7.9	UTP--glucose-1-phosphate uridylyltransferase
+IOLNKBKD_00343	gene	cugP		
+IOLNKBKD_00344	CDS			hypothetical protein
+IOLNKBKD_00344	gene			
+IOLNKBKD_00345	CDS	exbD_1		Biopolymer transport protein ExbD
+IOLNKBKD_00345	gene	exbD_1		
+IOLNKBKD_00346	CDS	exbB_1		Biopolymer transport protein ExbB
+IOLNKBKD_00346	gene	exbB_1		
+IOLNKBKD_00347	CDS	bamD_2		Outer membrane protein assembly factor BamD
+IOLNKBKD_00347	gene	bamD_2		
+IOLNKBKD_00348	CDS	sigA_1		RNA polymerase sigma factor SigA
+IOLNKBKD_00348	gene	sigA_1		
+IOLNKBKD_00349	CDS	gnu_1	5.1.3.26	N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol 4-epimerase
+IOLNKBKD_00349	gene	gnu_1		
+IOLNKBKD_00350	CDS	cbf2	5.2.1.8	Putative peptidyl-prolyl cis-trans isomerase Cbf2
+IOLNKBKD_00350	gene	cbf2		
+IOLNKBKD_00351	CDS			hypothetical protein
+IOLNKBKD_00351	gene			
+IOLNKBKD_00352	CDS	bshA_2	2.4.1.-	N-acetyl-alpha-D-glucosaminyl L-malate synthase
+IOLNKBKD_00352	gene	bshA_2		
+IOLNKBKD_00353	CDS	wbbL_1	2.4.1.289	N-acetylglucosaminyl-diphospho-decaprenol L-rhamnosyltransferase
+IOLNKBKD_00353	gene	wbbL_1		
+IOLNKBKD_00354	CDS	mnmG_2		tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+IOLNKBKD_00354	gene	mnmG_2		
+IOLNKBKD_00355	CDS			hypothetical protein
+IOLNKBKD_00355	gene			
+IOLNKBKD_00356	CDS	iolX_1	1.1.1.370	scyllo-inositol 2-dehydrogenase (NAD(+))
+IOLNKBKD_00356	gene	iolX_1		
+IOLNKBKD_00357	CDS	lpxA	2.3.1.129	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+IOLNKBKD_00357	gene	lpxA		
+IOLNKBKD_00358	CDS	fabZ_1	4.2.1.59	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+IOLNKBKD_00358	gene	fabZ_1		
+IOLNKBKD_00359	CDS			hypothetical protein
+IOLNKBKD_00359	gene			
+IOLNKBKD_00360	CDS	bamA_1		Outer membrane protein assembly factor BamA
+IOLNKBKD_00360	gene	bamA_1		
+IOLNKBKD_00361	CDS			hypothetical protein
+IOLNKBKD_00361	gene			
+IOLNKBKD_00362	CDS	clpC_1		ATP-dependent Clp protease ATP-binding subunit ClpC
+IOLNKBKD_00362	gene	clpC_1		
+IOLNKBKD_00363	CDS	hdaH_2	3.5.1.-	Histone deacetylase-like amidohydrolase
+IOLNKBKD_00363	gene	hdaH_2		
+IOLNKBKD_00364	CDS	queG_2	1.17.99.6	Epoxyqueuosine reductase
+IOLNKBKD_00364	gene	queG_2		
+IOLNKBKD_00365	CDS			hypothetical protein
+IOLNKBKD_00365	gene			
+IOLNKBKD_00366	CDS	hemE_2	4.1.1.37	Uroporphyrinogen decarboxylase
+IOLNKBKD_00366	gene	hemE_2		
+IOLNKBKD_00367	CDS	hemH	4.99.1.1	Ferrochelatase
+IOLNKBKD_00367	gene	hemH		
+IOLNKBKD_00368	CDS	pcrA_1	3.6.4.12	ATP-dependent DNA helicase PcrA
+IOLNKBKD_00368	gene	pcrA_1		
+IOLNKBKD_00369	CDS	hflX_1		GTPase HflX
+IOLNKBKD_00369	gene	hflX_1		
+IOLNKBKD_00370	CDS	malQ	2.4.1.25	4-alpha-glucanotransferase
+IOLNKBKD_00370	gene	malQ		
+IOLNKBKD_00371	CDS	glgP	2.4.1.1	Glycogen phosphorylase
+IOLNKBKD_00371	gene	glgP		
+IOLNKBKD_00372	CDS			hypothetical protein
+IOLNKBKD_00372	gene			
+IOLNKBKD_00373	CDS		1.6.5.11	NADH-quinone oxidoreductase subunit 11
+IOLNKBKD_00373	gene			
+IOLNKBKD_00374	CDS	nuoJ_1	1.6.5.11	NADH-quinone oxidoreductase subunit J
+IOLNKBKD_00374	gene	nuoJ_1		
+IOLNKBKD_00375	CDS	nuoI_1	1.6.5.11	NADH-quinone oxidoreductase subunit I
+IOLNKBKD_00375	gene	nuoI_1		
+IOLNKBKD_00376	CDS	nuoH_1	1.6.5.11	NADH-quinone oxidoreductase subunit H
+IOLNKBKD_00376	gene	nuoH_1		
+IOLNKBKD_00377	CDS	nqo5_1	1.6.5.11	NADH-quinone oxidoreductase chain 5
+IOLNKBKD_00377	gene	nqo5_1		
+IOLNKBKD_00378	CDS	nuoA_1	1.6.5.11	NADH-quinone oxidoreductase subunit A
+IOLNKBKD_00378	gene	nuoA_1		
+IOLNKBKD_00379	tRNA			tRNA-His(gtg)
+IOLNKBKD_00379	gene			
+IOLNKBKD_00380	CDS			hypothetical protein
+IOLNKBKD_00380	gene			
+IOLNKBKD_00381	CDS	cphA	3.5.2.6	Metallo-beta-lactamase type 2
+IOLNKBKD_00381	gene	cphA		
+IOLNKBKD_00382	CDS			hypothetical protein
+IOLNKBKD_00382	gene			
+IOLNKBKD_00383	CDS	arnT_1	2.4.2.43	Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase
+IOLNKBKD_00383	gene	arnT_1		
+IOLNKBKD_00384	CDS	ilvB	2.2.1.6	Acetolactate synthase large subunit
+IOLNKBKD_00384	gene	ilvB		
+IOLNKBKD_00385	CDS			hypothetical protein
+IOLNKBKD_00385	gene			
+IOLNKBKD_00386	CDS	aer		Aerotaxis receptor
+IOLNKBKD_00386	gene	aer		
+IOLNKBKD_00387	CDS	mcp4		Methyl-accepting chemotaxis protein 4
+IOLNKBKD_00387	gene	mcp4		
+IOLNKBKD_00388	CDS			hypothetical protein
+IOLNKBKD_00388	gene			
+IOLNKBKD_00389	CDS		1.6.5.11	NADH-quinone oxidoreductase subunit 11
+IOLNKBKD_00389	gene			
+IOLNKBKD_00390	CDS	nuoJ_2	1.6.5.11	NADH-quinone oxidoreductase subunit J
+IOLNKBKD_00390	gene	nuoJ_2		
+IOLNKBKD_00391	CDS	nuoI_2	1.6.5.11	NADH-quinone oxidoreductase subunit I
+IOLNKBKD_00391	gene	nuoI_2		
+IOLNKBKD_00392	CDS	nuoH_2	1.6.5.11	NADH-quinone oxidoreductase subunit H
+IOLNKBKD_00392	gene	nuoH_2		
+IOLNKBKD_00393	CDS	nqo5_2	1.6.5.11	NADH-quinone oxidoreductase chain 5
+IOLNKBKD_00393	gene	nqo5_2		
+IOLNKBKD_00394	CDS	nuoA_2	1.6.5.11	NADH-quinone oxidoreductase subunit A
+IOLNKBKD_00394	gene	nuoA_2		
+IOLNKBKD_00395	rRNA			5S ribosomal RNA
+IOLNKBKD_00395	gene			
+IOLNKBKD_00396	CDS			hypothetical protein
+IOLNKBKD_00396	gene			
+IOLNKBKD_00397	CDS	glgA	2.4.1.21	Glycogen synthase
+IOLNKBKD_00397	gene	glgA		
+IOLNKBKD_00398	CDS			hypothetical protein
+IOLNKBKD_00398	gene			
+IOLNKBKD_00399	CDS			hypothetical protein
+IOLNKBKD_00399	gene			
+IOLNKBKD_00400	CDS	mexB		Multidrug resistance protein MexB
+IOLNKBKD_00400	gene	mexB		
+IOLNKBKD_00401	CDS			hypothetical protein
+IOLNKBKD_00401	gene			
+IOLNKBKD_00402	CDS			hypothetical protein
+IOLNKBKD_00402	gene			
+IOLNKBKD_00403	CDS			putative ABC transporter ATP-binding protein
+IOLNKBKD_00403	gene			
+IOLNKBKD_00404	CDS	aspC_2	2.6.1.1	Aspartate aminotransferase
+IOLNKBKD_00404	gene	aspC_2		
+IOLNKBKD_00405	CDS	moeZ_2		putative adenylyltransferase/sulfurtransferase MoeZ
+IOLNKBKD_00405	gene	moeZ_2		
+IOLNKBKD_00406	CDS			hypothetical protein
+IOLNKBKD_00406	gene			
+IOLNKBKD_00407	CDS	pcm_1	2.1.1.77	Protein-L-isoaspartate O-methyltransferase
+IOLNKBKD_00407	gene	pcm_1		
+IOLNKBKD_00408	CDS			hypothetical protein
+IOLNKBKD_00408	gene			
+IOLNKBKD_00409	CDS	dpp5	3.4.14.-	Dipeptidyl-peptidase 5
+IOLNKBKD_00409	gene	dpp5		
+IOLNKBKD_00410	CDS			hypothetical protein
+IOLNKBKD_00410	gene			
+IOLNKBKD_00411	CDS	alsS_1	2.2.1.6	Acetolactate synthase
+IOLNKBKD_00411	gene	alsS_1		
+IOLNKBKD_00412	CDS			hypothetical protein
+IOLNKBKD_00412	gene			
+IOLNKBKD_00413	CDS	pstB2	3.6.3.27	Phosphate import ATP-binding protein PstB 2
+IOLNKBKD_00413	gene	pstB2		
+IOLNKBKD_00414	CDS	pstA2		Phosphate transport system permease protein PstA 2
+IOLNKBKD_00414	gene	pstA2		
+IOLNKBKD_00415	CDS	pstC		Phosphate transport system permease protein PstC
+IOLNKBKD_00415	gene	pstC		
+IOLNKBKD_00416	CDS	argF	2.1.3.3	Ornithine carbamoyltransferase
+IOLNKBKD_00416	gene	argF		
+IOLNKBKD_00417	CDS	argD	2.6.1.11	Acetylornithine aminotransferase
+IOLNKBKD_00417	gene	argD		
+IOLNKBKD_00418	CDS			Cyclic nucleotide-gated potassium channel
+IOLNKBKD_00418	gene			
+IOLNKBKD_00419	CDS			hypothetical protein
+IOLNKBKD_00419	gene			
+IOLNKBKD_00420	CDS	petB_1		Cytochrome b6
+IOLNKBKD_00420	gene	petB_1		
+IOLNKBKD_00421	CDS			hypothetical protein
+IOLNKBKD_00421	gene			
+IOLNKBKD_00422	CDS	resA_2		Thiol-disulfide oxidoreductase ResA
+IOLNKBKD_00422	gene	resA_2		
+IOLNKBKD_00423	CDS			hypothetical protein
+IOLNKBKD_00423	gene			
+IOLNKBKD_00424	CDS	fom3_2	2.1.1.308	2-hydroxyethylphosphonate methyltransferase
+IOLNKBKD_00424	gene	fom3_2		
+IOLNKBKD_00425	CDS			hypothetical protein
+IOLNKBKD_00425	gene			
+IOLNKBKD_00426	CDS	fom3_3	2.1.1.308	2-hydroxyethylphosphonate methyltransferase
+IOLNKBKD_00426	gene	fom3_3		
+IOLNKBKD_00427	CDS			hypothetical protein
+IOLNKBKD_00427	gene			
+IOLNKBKD_00428	tRNA			tRNA-Ala(ggc)
+IOLNKBKD_00428	gene			
+IOLNKBKD_00429	CDS			hypothetical protein
+IOLNKBKD_00429	gene			
+IOLNKBKD_00430	CDS	truC	5.4.99.26	tRNA pseudouridine synthase C
+IOLNKBKD_00430	gene	truC		
+IOLNKBKD_00431	CDS	mdtC		Multidrug resistance protein MdtC
+IOLNKBKD_00431	gene	mdtC		
+IOLNKBKD_00432	CDS			hypothetical protein
+IOLNKBKD_00432	gene			
+IOLNKBKD_00433	CDS		3.5.1.77	N-carbamoyl-D-amino acid hydrolase
+IOLNKBKD_00433	gene			
+IOLNKBKD_00434	CDS	aguA	3.5.3.12	Agmatine deiminase
+IOLNKBKD_00434	gene	aguA		
+IOLNKBKD_00435	CDS			hypothetical protein
+IOLNKBKD_00435	gene			
+IOLNKBKD_00436	CDS			Bacteriohemerythrin
+IOLNKBKD_00436	gene			
+IOLNKBKD_00437	CDS			Zinc-type alcohol dehydrogenase-like protein
+IOLNKBKD_00437	gene			
+IOLNKBKD_00438	CDS	yijE		putative cystine transporter YijE
+IOLNKBKD_00438	gene	yijE		
+IOLNKBKD_00439	CDS	kynB	3.5.1.9	Kynurenine formamidase
+IOLNKBKD_00439	gene	kynB		
+IOLNKBKD_00440	CDS			hypothetical protein
+IOLNKBKD_00440	gene			
+IOLNKBKD_00441	CDS			hypothetical protein
+IOLNKBKD_00441	gene			
+IOLNKBKD_00442	CDS			hypothetical protein
+IOLNKBKD_00442	gene			
+IOLNKBKD_00443	CDS	recG	3.6.4.12	ATP-dependent DNA helicase RecG
+IOLNKBKD_00443	gene	recG		
+IOLNKBKD_00444	CDS			hypothetical protein
+IOLNKBKD_00444	gene			
+IOLNKBKD_00445	CDS			GTP cyclohydrolase 1 type 2 
+IOLNKBKD_00445	gene			
+IOLNKBKD_00446	CDS	dppB_1		Dipeptide transport system permease protein DppB
+IOLNKBKD_00446	gene	dppB_1		
+IOLNKBKD_00447	CDS	dppC_1		Dipeptide transport system permease protein DppC
+IOLNKBKD_00447	gene	dppC_1		
+IOLNKBKD_00448	CDS	yheS_1		putative ABC transporter ATP-binding protein YheS
+IOLNKBKD_00448	gene	yheS_1		
+IOLNKBKD_00449	CDS			hypothetical protein
+IOLNKBKD_00449	gene			
+IOLNKBKD_00450	CDS	spoIIAA		Anti-sigma F factor antagonist
+IOLNKBKD_00450	gene	spoIIAA		
+IOLNKBKD_00451	CDS	phnC	3.6.3.27	Phosphate-import ATP-binding protein PhnC
+IOLNKBKD_00451	gene	phnC		
+IOLNKBKD_00452	CDS	phnD		Phosphate-import protein PhnD
+IOLNKBKD_00452	gene	phnD		
+IOLNKBKD_00453	CDS	wbgU	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+IOLNKBKD_00453	gene	wbgU		
+IOLNKBKD_00454	CDS	fmt_2	2.1.2.9	Methionyl-tRNA formyltransferase
+IOLNKBKD_00454	gene	fmt_2		
+IOLNKBKD_00455	CDS	def_1	3.5.1.88	Peptide deformylase
+IOLNKBKD_00455	gene	def_1		
+IOLNKBKD_00456	CDS	argJ_2		Arginine biosynthesis bifunctional protein ArgJ
+IOLNKBKD_00456	gene	argJ_2		
+IOLNKBKD_00457	CDS	argC_2	1.2.1.38	N-acetyl-gamma-glutamyl-phosphate reductase
+IOLNKBKD_00457	gene	argC_2		
+IOLNKBKD_00458	CDS	rpsI		30S ribosomal protein S9
+IOLNKBKD_00458	gene	rpsI		
+IOLNKBKD_00459	CDS	rplM		50S ribosomal protein L13
+IOLNKBKD_00459	gene	rplM		
+IOLNKBKD_00460	CDS	shc_1	4.2.1.129	Squalene--hopene cyclase
+IOLNKBKD_00460	gene	shc_1		
+IOLNKBKD_00461	CDS	skfE	3.6.3.25	SkfA peptide export ATP-binding protein SkfE
+IOLNKBKD_00461	gene	skfE		
+IOLNKBKD_00462	CDS			hypothetical protein
+IOLNKBKD_00462	gene			
+IOLNKBKD_00463	CDS			hypothetical protein
+IOLNKBKD_00463	gene			
+IOLNKBKD_00464	CDS	purD_1	6.3.4.13	Phosphoribosylamine--glycine ligase
+IOLNKBKD_00464	gene	purD_1		
+IOLNKBKD_00465	CDS	mutS2_2	3.1.-.-	Endonuclease MutS2
+IOLNKBKD_00465	gene	mutS2_2		
+IOLNKBKD_00466	CDS			hypothetical protein
+IOLNKBKD_00466	gene			
+IOLNKBKD_00467	CDS			hypothetical protein
+IOLNKBKD_00467	gene			
+IOLNKBKD_00468	CDS	bepA_2	3.4.-.-	Beta-barrel assembly-enhancing protease
+IOLNKBKD_00468	gene	bepA_2		
+IOLNKBKD_00469	CDS			hypothetical protein
+IOLNKBKD_00469	gene			
+IOLNKBKD_00470	CDS	ispE	2.7.1.148	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+IOLNKBKD_00470	gene	ispE		
+IOLNKBKD_00471	tRNA			tRNA-Gln(ttg)
+IOLNKBKD_00471	gene			
+IOLNKBKD_00472	CDS	prs_1	2.7.6.1	Ribose-phosphate pyrophosphokinase
+IOLNKBKD_00472	gene	prs_1		
+IOLNKBKD_00473	CDS	rplY		50S ribosomal protein L25
+IOLNKBKD_00473	gene	rplY		
+IOLNKBKD_00474	CDS	pth_1	3.1.1.29	Peptidyl-tRNA hydrolase
+IOLNKBKD_00474	gene	pth_1		
+IOLNKBKD_00475	CDS	hppA1	3.6.1.1	Putative K(+)-stimulated pyrophosphate-energized sodium pump
+IOLNKBKD_00475	gene	hppA1		
+IOLNKBKD_00476	CDS	mqnA	4.2.1.151	Chorismate dehydratase
+IOLNKBKD_00476	gene	mqnA		
+IOLNKBKD_00477	CDS			hypothetical protein
+IOLNKBKD_00477	gene			
+IOLNKBKD_00478	CDS			hypothetical protein
+IOLNKBKD_00478	gene			
+IOLNKBKD_00479	CDS	carE_1	1.3.1.108	Caffeyl-CoA reductase-Etf complex subunit CarE
+IOLNKBKD_00479	gene	carE_1		
+IOLNKBKD_00480	CDS	rsmG_1	2.1.1.-	Ribosomal RNA small subunit methyltransferase G
+IOLNKBKD_00480	gene	rsmG_1		
+IOLNKBKD_00481	CDS	soj	3.6.-.-	Sporulation initiation inhibitor protein Soj
+IOLNKBKD_00481	gene	soj		
+IOLNKBKD_00482	CDS			hypothetical protein
+IOLNKBKD_00482	gene			
+IOLNKBKD_00483	CDS	flhB_2		Flagellar biosynthetic protein FlhB
+IOLNKBKD_00483	gene	flhB_2		
+IOLNKBKD_00484	CDS			hypothetical protein
+IOLNKBKD_00484	gene			
+IOLNKBKD_00485	CDS			hypothetical protein
+IOLNKBKD_00485	gene			
+IOLNKBKD_00486	CDS			hypothetical protein
+IOLNKBKD_00486	gene			
+IOLNKBKD_00487	CDS	livH_1		High-affinity branched-chain amino acid transport system permease protein LivH
+IOLNKBKD_00487	gene	livH_1		
+IOLNKBKD_00488	CDS	glnD_1		Bifunctional uridylyltransferase/uridylyl-removing enzyme
+IOLNKBKD_00488	gene	glnD_1		
+IOLNKBKD_00489	CDS	fixP		Cbb3-type cytochrome c oxidase subunit FixP
+IOLNKBKD_00489	gene	fixP		
+IOLNKBKD_00490	CDS			hypothetical protein
+IOLNKBKD_00490	gene			
+IOLNKBKD_00491	CDS	pheA		P-protein
+IOLNKBKD_00491	gene	pheA		
+IOLNKBKD_00492	CDS	tyrA_1	1.3.1.12	Prephenate dehydrogenase
+IOLNKBKD_00492	gene	tyrA_1		
+IOLNKBKD_00493	CDS	cmk_1	2.7.4.25	Cytidylate kinase
+IOLNKBKD_00493	gene	cmk_1		
+IOLNKBKD_00494	CDS			hypothetical protein
+IOLNKBKD_00494	gene			
+IOLNKBKD_00495	CDS	recA		Protein RecA
+IOLNKBKD_00495	gene	recA		
+IOLNKBKD_00496	CDS	selU	2.9.1.-	tRNA 2-selenouridine synthase
+IOLNKBKD_00496	gene	selU		
+IOLNKBKD_00497	CDS	nadD_1	2.7.7.18	putative nicotinate-nucleotide adenylyltransferase
+IOLNKBKD_00497	gene	nadD_1		
+IOLNKBKD_00498	CDS	rsfS_1		Ribosomal silencing factor RsfS
+IOLNKBKD_00498	gene	rsfS_1		
+IOLNKBKD_00499	CDS	dksA_1		RNA polymerase-binding transcription factor DksA
+IOLNKBKD_00499	gene	dksA_1		
+IOLNKBKD_00500	CDS	lapB_2		Lipopolysaccharide assembly protein B
+IOLNKBKD_00500	gene	lapB_2		
+IOLNKBKD_00501	CDS			hypothetical protein
+IOLNKBKD_00501	gene			
+IOLNKBKD_00502	CDS	yrrB_2		TPR repeat-containing protein YrrB
+IOLNKBKD_00502	gene	yrrB_2		
+IOLNKBKD_00503	CDS	spkB	2.7.11.1	Serine/threonine-protein kinase B
+IOLNKBKD_00503	gene	spkB		
+IOLNKBKD_00504	CDS	mftC	2.-.-.-	Putative mycofactocin radical SAM maturase MftC
+IOLNKBKD_00504	gene	mftC		
+IOLNKBKD_00505	CDS			hypothetical protein
+IOLNKBKD_00505	gene			
+IOLNKBKD_00506	CDS			hypothetical protein
+IOLNKBKD_00506	gene			
+IOLNKBKD_00507	CDS	nfuA_1		Fe/S biogenesis protein NfuA
+IOLNKBKD_00507	gene	nfuA_1		
+IOLNKBKD_00508	CDS			hypothetical protein
+IOLNKBKD_00508	gene			
+IOLNKBKD_00509	CDS			hypothetical protein
+IOLNKBKD_00509	gene			
+IOLNKBKD_00510	CDS			hypothetical protein
+IOLNKBKD_00510	gene			
+IOLNKBKD_00511	CDS			hypothetical protein
+IOLNKBKD_00511	gene			
+IOLNKBKD_00512	CDS			hypothetical protein
+IOLNKBKD_00512	gene			
+IOLNKBKD_00513	CDS			hypothetical protein
+IOLNKBKD_00513	gene			
+IOLNKBKD_00514	CDS	lon2	3.4.21.53	Lon protease 2
+IOLNKBKD_00514	gene	lon2		
+IOLNKBKD_00515	CDS			hypothetical protein
+IOLNKBKD_00515	gene			
+IOLNKBKD_00516	CDS	prfB		Peptide chain release factor RF2
+IOLNKBKD_00516	gene	prfB		
+IOLNKBKD_00517	CDS	rbn_1	3.1.-.-	Ribonuclease BN
+IOLNKBKD_00517	gene	rbn_1		
+IOLNKBKD_00518	CDS			hypothetical protein
+IOLNKBKD_00518	gene			
+IOLNKBKD_00519	CDS	nudL_1	3.6.1.-	putative Nudix hydrolase NudL
+IOLNKBKD_00519	gene	nudL_1		
+IOLNKBKD_00520	CDS	mgsR_1		Regulatory protein MgsR
+IOLNKBKD_00520	gene	mgsR_1		
+IOLNKBKD_00521	CDS			hypothetical protein
+IOLNKBKD_00521	gene			
+IOLNKBKD_00522	CDS			hypothetical protein
+IOLNKBKD_00522	gene			
+IOLNKBKD_00523	CDS	hpnR_2	2.1.1.-	Hopanoid C-3 methylase
+IOLNKBKD_00523	gene	hpnR_2		
+IOLNKBKD_00524	CDS			hypothetical protein
+IOLNKBKD_00524	gene			
+IOLNKBKD_00525	CDS	czcD		Cadmium, cobalt and zinc/H(+)-K(+) antiporter
+IOLNKBKD_00525	gene	czcD		
+IOLNKBKD_00526	CDS	znuB		High-affinity zinc uptake system membrane protein ZnuB
+IOLNKBKD_00526	gene	znuB		
+IOLNKBKD_00527	CDS			hypothetical protein
+IOLNKBKD_00527	gene			
+IOLNKBKD_00528	CDS			hypothetical protein
+IOLNKBKD_00528	gene			
+IOLNKBKD_00529	CDS			hypothetical protein
+IOLNKBKD_00529	gene			
+IOLNKBKD_00530	CDS	vgb_1	4.2.99.-	Virginiamycin B lyase
+IOLNKBKD_00530	gene	vgb_1		
+IOLNKBKD_00531	CDS			hypothetical protein
+IOLNKBKD_00531	gene			
+IOLNKBKD_00532	CDS			hypothetical protein
+IOLNKBKD_00532	gene			
+IOLNKBKD_00533	CDS	ettA		Energy-dependent translational throttle protein EttA
+IOLNKBKD_00533	gene	ettA		
+IOLNKBKD_00534	CDS			hypothetical protein
+IOLNKBKD_00534	gene			
+IOLNKBKD_00535	CDS	efp		Elongation factor P
+IOLNKBKD_00535	gene	efp		
+IOLNKBKD_00536	CDS	exbB_2		Biopolymer transport protein ExbB
+IOLNKBKD_00536	gene	exbB_2		
+IOLNKBKD_00537	CDS	exbD_2		Biopolymer transport protein ExbD
+IOLNKBKD_00537	gene	exbD_2		
+IOLNKBKD_00538	CDS			hypothetical protein
+IOLNKBKD_00538	gene			
+IOLNKBKD_00539	CDS			hypothetical protein
+IOLNKBKD_00539	gene			
+IOLNKBKD_00540	CDS	tagG		Teichoic acid translocation permease protein TagG
+IOLNKBKD_00540	gene	tagG		
+IOLNKBKD_00541	CDS	cysC	2.7.1.25	Adenylyl-sulfate kinase
+IOLNKBKD_00541	gene	cysC		
+IOLNKBKD_00542	CDS			hypothetical protein
+IOLNKBKD_00542	gene			
+IOLNKBKD_00543	CDS		3.1.-.-	Phosphatase
+IOLNKBKD_00543	gene			
+IOLNKBKD_00544	CDS	msrP_2	1.8.5.-	Protein-methionine-sulfoxide reductase catalytic subunit MsrP
+IOLNKBKD_00544	gene	msrP_2		
+IOLNKBKD_00545	CDS	cutA_1		Divalent-cation tolerance protein CutA
+IOLNKBKD_00545	gene	cutA_1		
+IOLNKBKD_00546	CDS			hypothetical protein
+IOLNKBKD_00546	gene			
+IOLNKBKD_00547	CDS			hypothetical protein
+IOLNKBKD_00547	gene			
+IOLNKBKD_00548	CDS			hypothetical protein
+IOLNKBKD_00548	gene			
+IOLNKBKD_00549	CDS	wbbL_2	2.4.1.289	N-acetylglucosaminyl-diphospho-decaprenol L-rhamnosyltransferase
+IOLNKBKD_00549	gene	wbbL_2		
+IOLNKBKD_00550	CDS	mpl	6.3.2.45	UDP-N-acetylmuramate--L-alanyl-gamma-D-glutamyl-meso-2,6-diaminoheptandioate ligase
+IOLNKBKD_00550	gene	mpl		
+IOLNKBKD_00551	CDS	gph	3.1.3.18	Phosphoglycolate phosphatase
+IOLNKBKD_00551	gene	gph		
+IOLNKBKD_00552	CDS			hypothetical protein
+IOLNKBKD_00552	gene			
+IOLNKBKD_00553	CDS	gsk	2.7.1.73	Inosine-guanosine kinase
+IOLNKBKD_00553	gene	gsk		
+IOLNKBKD_00554	CDS	rho	3.6.4.-	Transcription termination factor Rho
+IOLNKBKD_00554	gene	rho		
+IOLNKBKD_00555	CDS	rpmE		50S ribosomal protein L31
+IOLNKBKD_00555	gene	rpmE		
+IOLNKBKD_00556	CDS	prfA		Peptide chain release factor RF1
+IOLNKBKD_00556	gene	prfA		
+IOLNKBKD_00557	CDS	prmC	2.1.1.297	Release factor glutamine methyltransferase
+IOLNKBKD_00557	gene	prmC		
+IOLNKBKD_00558	CDS	murA_1	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+IOLNKBKD_00558	gene	murA_1		
+IOLNKBKD_00559	CDS	rfaF_1	2.-.-.-	ADP-heptose--LPS heptosyltransferase 2
+IOLNKBKD_00559	gene	rfaF_1		
+IOLNKBKD_00560	CDS			hypothetical protein
+IOLNKBKD_00560	gene			
+IOLNKBKD_00561	CDS			hypothetical protein
+IOLNKBKD_00561	gene			
+IOLNKBKD_00562	CDS	arnC_1	2.4.2.53	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+IOLNKBKD_00562	gene	arnC_1		
+IOLNKBKD_00563	CDS			hypothetical protein
+IOLNKBKD_00563	gene			
+IOLNKBKD_00564	CDS		2.7.7.53	AP-4-A phosphorylase
+IOLNKBKD_00564	gene			
+IOLNKBKD_00565	CDS			hypothetical protein
+IOLNKBKD_00565	gene			
+IOLNKBKD_00566	CDS	phnE_1		Phosphate-import permease protein PhnE
+IOLNKBKD_00566	gene	phnE_1		
+IOLNKBKD_00567	CDS	ndhK	1.6.5.-	NAD(P)H-quinone oxidoreductase subunit K
+IOLNKBKD_00567	gene	ndhK		
+IOLNKBKD_00568	CDS			hypothetical protein
+IOLNKBKD_00568	gene			
+IOLNKBKD_00569	CDS			hypothetical protein
+IOLNKBKD_00569	gene			
+IOLNKBKD_00570	CDS			hypothetical protein
+IOLNKBKD_00570	gene			
+IOLNKBKD_00571	CDS			hypothetical protein
+IOLNKBKD_00571	gene			
+IOLNKBKD_00572	CDS			hypothetical protein
+IOLNKBKD_00572	gene			
+IOLNKBKD_00573	CDS			hypothetical protein
+IOLNKBKD_00573	gene			
+IOLNKBKD_00574	CDS			hypothetical protein
+IOLNKBKD_00574	gene			
+IOLNKBKD_00575	CDS			hypothetical protein
+IOLNKBKD_00575	gene			
+IOLNKBKD_00576	CDS			hypothetical protein
+IOLNKBKD_00576	gene			
+IOLNKBKD_00577	CDS			hypothetical protein
+IOLNKBKD_00577	gene			
+IOLNKBKD_00578	CDS	gpx1	1.11.1.22	Hydroperoxy fatty acid reductase gpx1
+IOLNKBKD_00578	gene	gpx1		
+IOLNKBKD_00579	CDS			hypothetical protein
+IOLNKBKD_00579	gene			
+IOLNKBKD_00580	CDS		2.7.7.-	putative uridylyltransferase
+IOLNKBKD_00580	gene			
+IOLNKBKD_00581	CDS			hypothetical protein
+IOLNKBKD_00581	gene			
+IOLNKBKD_00582	CDS	actP_1		Cation/acetate symporter ActP
+IOLNKBKD_00582	gene	actP_1		
+IOLNKBKD_00583	CDS			hypothetical protein
+IOLNKBKD_00583	gene			
+IOLNKBKD_00584	CDS	ptrA_1	3.4.24.55	Protease 3
+IOLNKBKD_00584	gene	ptrA_1		
+IOLNKBKD_00585	CDS			hypothetical protein
+IOLNKBKD_00585	gene			
+IOLNKBKD_00586	CDS			hypothetical protein
+IOLNKBKD_00586	gene			
+IOLNKBKD_00587	CDS			hypothetical protein
+IOLNKBKD_00587	gene			
+IOLNKBKD_00588	CDS			hypothetical protein
+IOLNKBKD_00588	gene			
+IOLNKBKD_00589	CDS	barA	2.7.13.3	Signal transduction histidine-protein kinase BarA
+IOLNKBKD_00589	gene	barA		
+IOLNKBKD_00590	CDS			hypothetical protein
+IOLNKBKD_00590	gene			
+IOLNKBKD_00591	CDS	nadB_1	1.4.3.16	L-aspartate oxidase
+IOLNKBKD_00591	gene	nadB_1		
+IOLNKBKD_00592	CDS	rsxC		Electron transport complex subunit RsxC
+IOLNKBKD_00592	gene	rsxC		
+IOLNKBKD_00593	CDS			putative transcriptional regulatory protein
+IOLNKBKD_00593	gene			
+IOLNKBKD_00594	CDS			hypothetical protein
+IOLNKBKD_00594	gene			
+IOLNKBKD_00595	CDS	gppA	3.6.1.40	Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase
+IOLNKBKD_00595	gene	gppA		
+IOLNKBKD_00596	CDS	lptG		Lipopolysaccharide export system permease protein LptG
+IOLNKBKD_00596	gene	lptG		
+IOLNKBKD_00597	CDS	srkA_1	2.7.11.1	Stress response kinase A
+IOLNKBKD_00597	gene	srkA_1		
+IOLNKBKD_00598	CDS	fdx4_1		Ferredoxin, 2Fe-2S
+IOLNKBKD_00598	gene	fdx4_1		
+IOLNKBKD_00599	CDS	ruvB	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvB
+IOLNKBKD_00599	gene	ruvB		
+IOLNKBKD_00600	CDS	ruvA	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvA
+IOLNKBKD_00600	gene	ruvA		
+IOLNKBKD_00601	CDS	ruvC	3.1.22.4	Crossover junction endodeoxyribonuclease RuvC
+IOLNKBKD_00601	gene	ruvC		
+IOLNKBKD_00602	CDS			putative transcriptional regulatory protein
+IOLNKBKD_00602	gene			
+IOLNKBKD_00603	CDS	fabZ_2	4.2.1.59	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+IOLNKBKD_00603	gene	fabZ_2		
+IOLNKBKD_00604	CDS	fabG_2	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+IOLNKBKD_00604	gene	fabG_2		
+IOLNKBKD_00605	CDS		5.3.1.29	Putative thiazole biosynthetic enzyme
+IOLNKBKD_00605	gene			
+IOLNKBKD_00606	CDS	glpB	1.1.5.3	Anaerobic glycerol-3-phosphate dehydrogenase subunit B
+IOLNKBKD_00606	gene	glpB		
+IOLNKBKD_00607	CDS	acpP_2		Acyl carrier protein
+IOLNKBKD_00607	gene	acpP_2		
+IOLNKBKD_00608	CDS	rlmB	2.1.1.185	23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+IOLNKBKD_00608	gene	rlmB		
+IOLNKBKD_00609	CDS	dus	1.3.1.-	putative tRNA-dihydrouridine synthase
+IOLNKBKD_00609	gene	dus		
+IOLNKBKD_00610	CDS	rluD	5.4.99.23	Ribosomal large subunit pseudouridine synthase D
+IOLNKBKD_00610	gene	rluD		
+IOLNKBKD_00611	CDS			hypothetical protein
+IOLNKBKD_00611	gene			
+IOLNKBKD_00612	CDS			hypothetical protein
+IOLNKBKD_00612	gene			
+IOLNKBKD_00613	CDS	hisI_1	3.5.4.19	Phosphoribosyl-AMP cyclohydrolase
+IOLNKBKD_00613	gene	hisI_1		
+IOLNKBKD_00614	CDS	hisG_1	2.4.2.17	ATP phosphoribosyltransferase
+IOLNKBKD_00614	gene	hisG_1		
+IOLNKBKD_00615	CDS			hypothetical protein
+IOLNKBKD_00615	gene			
+IOLNKBKD_00616	CDS			hypothetical protein
+IOLNKBKD_00616	gene			
+IOLNKBKD_00617	CDS			hypothetical protein
+IOLNKBKD_00617	gene			
+IOLNKBKD_00618	CDS	ppa_1	3.6.1.1	Inorganic pyrophosphatase
+IOLNKBKD_00618	gene	ppa_1		
+IOLNKBKD_00619	CDS			hypothetical protein
+IOLNKBKD_00619	gene			
+IOLNKBKD_00620	CDS	yfiH		Laccase domain protein YfiH
+IOLNKBKD_00620	gene	yfiH		
+IOLNKBKD_00621	CDS	ccmF_1		Cytochrome c-type biogenesis protein CcmF
+IOLNKBKD_00621	gene	ccmF_1		
+IOLNKBKD_00622	CDS			hypothetical protein
+IOLNKBKD_00622	gene			
+IOLNKBKD_00623	CDS			hypothetical protein
+IOLNKBKD_00623	gene			
+IOLNKBKD_00624	CDS	natA_1		ABC transporter ATP-binding protein NatA
+IOLNKBKD_00624	gene	natA_1		
+IOLNKBKD_00625	CDS			hypothetical protein
+IOLNKBKD_00625	gene			
+IOLNKBKD_00626	CDS			hypothetical protein
+IOLNKBKD_00626	gene			
+IOLNKBKD_00627	CDS	ccmC_1		Heme exporter protein C
+IOLNKBKD_00627	gene	ccmC_1		
+IOLNKBKD_00628	CDS	resA_3		Thiol-disulfide oxidoreductase ResA
+IOLNKBKD_00628	gene	resA_3		
+IOLNKBKD_00629	CDS			hypothetical protein
+IOLNKBKD_00629	gene			
+IOLNKBKD_00630	CDS	glgC	2.7.7.27	Glucose-1-phosphate adenylyltransferase
+IOLNKBKD_00630	gene	glgC		
+IOLNKBKD_00631	CDS	groL		60 kDa chaperonin
+IOLNKBKD_00631	gene	groL		
+IOLNKBKD_00632	CDS	groS		10 kDa chaperonin
+IOLNKBKD_00632	gene	groS		
+IOLNKBKD_00633	CDS	fusA_1		Elongation factor G
+IOLNKBKD_00633	gene	fusA_1		
+IOLNKBKD_00634	CDS	ihfA		Integration host factor subunit alpha
+IOLNKBKD_00634	gene	ihfA		
+IOLNKBKD_00635	CDS	bluR		HTH-type transcriptional repressor BluR
+IOLNKBKD_00635	gene	bluR		
+IOLNKBKD_00636	CDS			hypothetical protein
+IOLNKBKD_00636	gene			
+IOLNKBKD_00637	CDS			hypothetical protein
+IOLNKBKD_00637	gene			
+IOLNKBKD_00638	CDS			hypothetical protein
+IOLNKBKD_00638	gene			
+IOLNKBKD_00639	CDS			hypothetical protein
+IOLNKBKD_00639	gene			
+IOLNKBKD_00640	CDS	pcm_2	2.1.1.77	Protein-L-isoaspartate O-methyltransferase
+IOLNKBKD_00640	gene	pcm_2		
+IOLNKBKD_00641	CDS	pyrE_1	2.4.2.10	Orotate phosphoribosyltransferase
+IOLNKBKD_00641	gene	pyrE_1		
+IOLNKBKD_00642	CDS	mltA	4.2.2.-	Membrane-bound lytic murein transglycosylase A
+IOLNKBKD_00642	gene	mltA		
+IOLNKBKD_00643	CDS	thiI	2.8.1.4	putative tRNA sulfurtransferase
+IOLNKBKD_00643	gene	thiI		
+IOLNKBKD_00644	CDS	folK	2.7.6.3	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+IOLNKBKD_00644	gene	folK		
+IOLNKBKD_00645	CDS	dapL	2.6.1.83	LL-diaminopimelate aminotransferase
+IOLNKBKD_00645	gene	dapL		
+IOLNKBKD_00646	CDS			hypothetical protein
+IOLNKBKD_00646	gene			
+IOLNKBKD_00647	CDS	rpe	5.1.3.1	Ribulose-phosphate 3-epimerase
+IOLNKBKD_00647	gene	rpe		
+IOLNKBKD_00648	CDS	glnE_1		Bifunctional glutamine synthetase adenylyltransferase/adenylyl-removing enzyme
+IOLNKBKD_00648	gene	glnE_1		
+IOLNKBKD_00649	CDS	cimA_1	2.3.1.182	(R)-citramalate synthase
+IOLNKBKD_00649	gene	cimA_1		
+IOLNKBKD_00650	CDS	lysC	2.7.2.4	Aspartate kinase Ask_LysC
+IOLNKBKD_00650	gene	lysC		
+IOLNKBKD_00651	CDS			hypothetical protein
+IOLNKBKD_00651	gene			
+IOLNKBKD_00652	CDS			hypothetical protein
+IOLNKBKD_00652	gene			
+IOLNKBKD_00653	CDS			hypothetical protein
+IOLNKBKD_00653	gene			
+IOLNKBKD_00654	CDS			hypothetical protein
+IOLNKBKD_00654	gene			
+IOLNKBKD_00655	CDS	ctpB	3.4.21.102	Carboxy-terminal processing protease CtpB
+IOLNKBKD_00655	gene	ctpB		
+IOLNKBKD_00656	CDS	ilvD_1	4.2.1.9	Dihydroxy-acid dehydratase
+IOLNKBKD_00656	gene	ilvD_1		
+IOLNKBKD_00657	CDS			hypothetical protein
+IOLNKBKD_00657	gene			
+IOLNKBKD_00658	CDS	gloA	4.4.1.5	Lactoylglutathione lyase
+IOLNKBKD_00658	gene	gloA		
+IOLNKBKD_00659	CDS	algC_1	5.4.2.2	Phosphomannomutase/phosphoglucomutase
+IOLNKBKD_00659	gene	algC_1		
+IOLNKBKD_00660	CDS	htrA_2		Putative serine protease HtrA
+IOLNKBKD_00660	gene	htrA_2		
+IOLNKBKD_00661	CDS	bamD_3		Outer membrane protein assembly factor BamD
+IOLNKBKD_00661	gene	bamD_3		
+IOLNKBKD_00662	CDS	apeB	3.4.11.-	putative M18 family aminopeptidase 2
+IOLNKBKD_00662	gene	apeB		
+IOLNKBKD_00663	CDS			hypothetical protein
+IOLNKBKD_00663	gene			
+IOLNKBKD_00664	CDS			hypothetical protein
+IOLNKBKD_00664	gene			
+IOLNKBKD_00665	CDS	ylmA	3.6.3.-	putative ABC transporter ATP-binding protein YlmA
+IOLNKBKD_00665	gene	ylmA		
+IOLNKBKD_00666	CDS	safD	1.2.1.73	Sulfoacetaldehyde dehydrogenase
+IOLNKBKD_00666	gene	safD		
+IOLNKBKD_00667	CDS	pkn1_6	2.7.11.1	Serine/threonine-protein kinase pkn1
+IOLNKBKD_00667	gene	pkn1_6		
+IOLNKBKD_00668	CDS	pkn1_7	2.7.11.1	Serine/threonine-protein kinase pkn1
+IOLNKBKD_00668	gene	pkn1_7		
+IOLNKBKD_00669	CDS			hypothetical protein
+IOLNKBKD_00669	gene			
+IOLNKBKD_00670	CDS			hypothetical protein
+IOLNKBKD_00670	gene			
+IOLNKBKD_00671	CDS			hypothetical protein
+IOLNKBKD_00671	gene			
+IOLNKBKD_00672	CDS	fosB_2	2.5.1.-	Metallothiol transferase FosB
+IOLNKBKD_00672	gene	fosB_2		
+IOLNKBKD_00673	CDS	moaC_2	4.6.1.17	Cyclic pyranopterin monophosphate synthase
+IOLNKBKD_00673	gene	moaC_2		
+IOLNKBKD_00674	CDS			hypothetical protein
+IOLNKBKD_00674	gene			
+IOLNKBKD_00675	CDS			hypothetical protein
+IOLNKBKD_00675	gene			
+IOLNKBKD_00676	CDS			hypothetical protein
+IOLNKBKD_00676	gene			
+IOLNKBKD_00677	CDS	pknD_1	2.7.11.1	Serine/threonine-protein kinase PknD
+IOLNKBKD_00677	gene	pknD_1		
+IOLNKBKD_00678	CDS			hypothetical protein
+IOLNKBKD_00678	gene			
+IOLNKBKD_00679	CDS			hypothetical protein
+IOLNKBKD_00679	gene			
+IOLNKBKD_00680	CDS			hypothetical protein
+IOLNKBKD_00680	gene			
+IOLNKBKD_00681	CDS			hypothetical protein
+IOLNKBKD_00681	gene			
+IOLNKBKD_00682	CDS	polA_1	2.7.7.7	DNA polymerase I
+IOLNKBKD_00682	gene	polA_1		
+IOLNKBKD_00683	CDS	aniA_1	1.7.2.1	Copper-containing nitrite reductase
+IOLNKBKD_00683	gene	aniA_1		
+IOLNKBKD_00684	CDS	alsS_2	2.2.1.6	Acetolactate synthase
+IOLNKBKD_00684	gene	alsS_2		
+IOLNKBKD_00685	CDS	dnaC_1	3.6.4.12	Replicative DNA helicase
+IOLNKBKD_00685	gene	dnaC_1		
+IOLNKBKD_00686	CDS	rplI		50S ribosomal protein L9
+IOLNKBKD_00686	gene	rplI		
+IOLNKBKD_00687	CDS			hypothetical protein
+IOLNKBKD_00687	gene			
+IOLNKBKD_00688	CDS	rpsR		30S ribosomal protein S18
+IOLNKBKD_00688	gene	rpsR		
+IOLNKBKD_00689	CDS	ssb_2		Single-stranded DNA-binding protein
+IOLNKBKD_00689	gene	ssb_2		
+IOLNKBKD_00690	CDS	rpsF		30S ribosomal protein S6
+IOLNKBKD_00690	gene	rpsF		
+IOLNKBKD_00691	CDS	fosB_3	2.5.1.-	Metallothiol transferase FosB
+IOLNKBKD_00691	gene	fosB_3		
+IOLNKBKD_00692	CDS	mhqN	1.-.-.-	Putative NAD(P)H nitroreductase MhqN
+IOLNKBKD_00692	gene	mhqN		
+IOLNKBKD_00693	CDS	aroF_1	2.5.1.54	Phospho-2-dehydro-3-deoxyheptonate aldolase
+IOLNKBKD_00693	gene	aroF_1		
+IOLNKBKD_00694	CDS	glnD_2		Bifunctional uridylyltransferase/uridylyl-removing enzyme
+IOLNKBKD_00694	gene	glnD_2		
+IOLNKBKD_00695	CDS			hypothetical protein
+IOLNKBKD_00695	gene			
+IOLNKBKD_00696	CDS	orn	3.1.-.-	Oligoribonuclease
+IOLNKBKD_00696	gene	orn		
+IOLNKBKD_00697	CDS			hypothetical protein
+IOLNKBKD_00697	gene			
+IOLNKBKD_00698	CDS	hrcA_1		Heat-inducible transcription repressor HrcA
+IOLNKBKD_00698	gene	hrcA_1		
+IOLNKBKD_00699	CDS	argB_1	2.7.2.8	Acetylglutamate kinase
+IOLNKBKD_00699	gene	argB_1		
+IOLNKBKD_00700	CDS	clpY		ATP-dependent protease ATPase subunit ClpY
+IOLNKBKD_00700	gene	clpY		
+IOLNKBKD_00701	CDS			hypothetical protein
+IOLNKBKD_00701	gene			
+IOLNKBKD_00702	CDS			hypothetical protein
+IOLNKBKD_00702	gene			
+IOLNKBKD_00703	CDS	nadK_1	2.7.1.23	NAD kinase
+IOLNKBKD_00703	gene	nadK_1		
+IOLNKBKD_00704	CDS			hypothetical protein
+IOLNKBKD_00704	gene			
+IOLNKBKD_00705	CDS			hypothetical protein
+IOLNKBKD_00705	gene			
+IOLNKBKD_00706	CDS	bepA_3	3.4.-.-	Beta-barrel assembly-enhancing protease
+IOLNKBKD_00706	gene	bepA_3		
+IOLNKBKD_00707	CDS	pkn1_8	2.7.11.1	Serine/threonine-protein kinase pkn1
+IOLNKBKD_00707	gene	pkn1_8		
+IOLNKBKD_00708	CDS	serC_1	2.6.1.52	Phosphoserine aminotransferase
+IOLNKBKD_00708	gene	serC_1		
+IOLNKBKD_00709	CDS			hypothetical protein
+IOLNKBKD_00709	gene			
+IOLNKBKD_00710	CDS			hypothetical protein
+IOLNKBKD_00710	gene			
+IOLNKBKD_00711	CDS	wbjC_1	1.1.1.367	UDP-2-acetamido-2,6-beta-L-arabino-hexul-4-ose reductase
+IOLNKBKD_00711	gene	wbjC_1		
+IOLNKBKD_00712	CDS	wbjC_2	1.1.1.367	UDP-2-acetamido-2,6-beta-L-arabino-hexul-4-ose reductase
+IOLNKBKD_00712	gene	wbjC_2		
+IOLNKBKD_00713	CDS	pglA	2.4.1.290	N,N'-diacetylbacillosaminyl-diphospho-undecaprenol alpha-1,3-N-acetylgalactosaminyltransferase
+IOLNKBKD_00713	gene	pglA		
+IOLNKBKD_00714	CDS			hypothetical protein
+IOLNKBKD_00714	gene			
+IOLNKBKD_00715	CDS			hypothetical protein
+IOLNKBKD_00715	gene			
+IOLNKBKD_00716	tRNA			tRNA-Leu(cag)
+IOLNKBKD_00716	gene			
+IOLNKBKD_00717	CDS	yhdN_2	1.1.1.-	General stress protein 69
+IOLNKBKD_00717	gene	yhdN_2		
+IOLNKBKD_00718	CDS	kat	2.6.1.-	3-aminobutyryl-CoA aminotransferase
+IOLNKBKD_00718	gene	kat		
+IOLNKBKD_00719	CDS	gltB_1	1.4.7.1	Ferredoxin-dependent glutamate synthase 1
+IOLNKBKD_00719	gene	gltB_1		
+IOLNKBKD_00720	CDS	gltB_2	1.4.1.13	Glutamate synthase [NADPH] small chain
+IOLNKBKD_00720	gene	gltB_2		
+IOLNKBKD_00721	CDS	htrA_3		Putative serine protease HtrA
+IOLNKBKD_00721	gene	htrA_3		
+IOLNKBKD_00722	CDS			hypothetical protein
+IOLNKBKD_00722	gene			
+IOLNKBKD_00723	CDS		1.2.7.10	Oxalate oxidoreductase subunit alpha
+IOLNKBKD_00723	gene			
+IOLNKBKD_00724	CDS		1.2.7.10	Oxalate oxidoreductase subunit beta
+IOLNKBKD_00724	gene			
+IOLNKBKD_00725	CDS	porC	1.2.7.1	Pyruvate synthase subunit PorC
+IOLNKBKD_00725	gene	porC		
+IOLNKBKD_00726	CDS	rsxB_2		Electron transport complex subunit RsxB
+IOLNKBKD_00726	gene	rsxB_2		
+IOLNKBKD_00727	CDS			hypothetical protein
+IOLNKBKD_00727	gene			
+IOLNKBKD_00728	CDS	fumC_1	4.2.1.2	Fumarate hydratase class II
+IOLNKBKD_00728	gene	fumC_1		
+IOLNKBKD_00729	CDS	rpoH		RNA polymerase sigma factor RpoH
+IOLNKBKD_00729	gene	rpoH		
+IOLNKBKD_00730	CDS			hypothetical protein
+IOLNKBKD_00730	gene			
+IOLNKBKD_00731	CDS			hypothetical protein
+IOLNKBKD_00731	gene			
+IOLNKBKD_00732	CDS			hypothetical protein
+IOLNKBKD_00732	gene			
+IOLNKBKD_00733	CDS			hypothetical protein
+IOLNKBKD_00733	gene			
+IOLNKBKD_00734	CDS	ramA_1	3.5.1.100	(R)-stereoselective amidase
+IOLNKBKD_00734	gene	ramA_1		
+IOLNKBKD_00735	CDS	aroC	4.2.3.5	Chorismate synthase
+IOLNKBKD_00735	gene	aroC		
+IOLNKBKD_00736	CDS	hup_2		DNA-binding protein HU
+IOLNKBKD_00736	gene	hup_2		
+IOLNKBKD_00737	CDS	sppA_2	3.4.21.-	Putative signal peptide peptidase SppA
+IOLNKBKD_00737	gene	sppA_2		
+IOLNKBKD_00738	CDS			hypothetical protein
+IOLNKBKD_00738	gene			
+IOLNKBKD_00739	CDS			hypothetical protein
+IOLNKBKD_00739	gene			
+IOLNKBKD_00740	CDS	rpsO_2		30S ribosomal protein S15
+IOLNKBKD_00740	gene	rpsO_2		
+IOLNKBKD_00741	CDS	truB_2	5.4.99.25	tRNA pseudouridine synthase B
+IOLNKBKD_00741	gene	truB_2		
+IOLNKBKD_00742	CDS	moaD_2		Molybdopterin synthase sulfur carrier subunit
+IOLNKBKD_00742	gene	moaD_2		
+IOLNKBKD_00743	CDS	nadK_2	2.7.1.23	NAD kinase
+IOLNKBKD_00743	gene	nadK_2		
+IOLNKBKD_00744	CDS	bamA_2		Outer membrane protein assembly factor BamA
+IOLNKBKD_00744	gene	bamA_2		
+IOLNKBKD_00745	CDS			hypothetical protein
+IOLNKBKD_00745	gene			
+IOLNKBKD_00746	CDS	pkn1_9	2.7.11.1	Serine/threonine-protein kinase pkn1
+IOLNKBKD_00746	gene	pkn1_9		
+IOLNKBKD_00747	CDS	resA_4		Thiol-disulfide oxidoreductase ResA
+IOLNKBKD_00747	gene	resA_4		
+IOLNKBKD_00748	CDS	nfuA_2		Fe/S biogenesis protein NfuA
+IOLNKBKD_00748	gene	nfuA_2		
+IOLNKBKD_00749	CDS	fdx_1		Ferredoxin
+IOLNKBKD_00749	gene	fdx_1		
+IOLNKBKD_00750	CDS			hypothetical protein
+IOLNKBKD_00750	gene			
+IOLNKBKD_00751	CDS	nqrF_1	1.6.5.8	Na(+)-translocating NADH-quinone reductase subunit F
+IOLNKBKD_00751	gene	nqrF_1		
+IOLNKBKD_00752	CDS			hypothetical protein
+IOLNKBKD_00752	gene			
+IOLNKBKD_00753	CDS	yhdN_3	1.1.1.-	General stress protein 69
+IOLNKBKD_00753	gene	yhdN_3		
+IOLNKBKD_00754	CDS			hypothetical protein
+IOLNKBKD_00754	gene			
+IOLNKBKD_00755	CDS	mreB_1		Rod shape-determining protein MreB
+IOLNKBKD_00755	gene	mreB_1		
+IOLNKBKD_00756	CDS			hypothetical protein
+IOLNKBKD_00756	gene			
+IOLNKBKD_00757	CDS	xerD_1		Tyrosine recombinase XerD
+IOLNKBKD_00757	gene	xerD_1		
+IOLNKBKD_00758	CDS	hslV	3.4.25.2	ATP-dependent protease subunit HslV
+IOLNKBKD_00758	gene	hslV		
+IOLNKBKD_00759	CDS	hslU		ATP-dependent protease ATPase subunit HslU
+IOLNKBKD_00759	gene	hslU		
+IOLNKBKD_00760	CDS	argB_2	2.7.2.8	Acetylglutamate kinase
+IOLNKBKD_00760	gene	argB_2		
+IOLNKBKD_00761	CDS	hrcA_2		Heat-inducible transcription repressor HrcA
+IOLNKBKD_00761	gene	hrcA_2		
+IOLNKBKD_00762	CDS	grpE_1		Protein GrpE
+IOLNKBKD_00762	gene	grpE_1		
+IOLNKBKD_00763	CDS	lpxB	2.4.1.182	Lipid-A-disaccharide synthase
+IOLNKBKD_00763	gene	lpxB		
+IOLNKBKD_00764	CDS			hypothetical protein
+IOLNKBKD_00764	gene			
+IOLNKBKD_00765	CDS	iolX_2	1.1.1.370	scyllo-inositol 2-dehydrogenase (NAD(+))
+IOLNKBKD_00765	gene	iolX_2		
+IOLNKBKD_00766	CDS	fabF_3	2.3.1.179	3-oxoacyl-[acyl-carrier-protein] synthase 2
+IOLNKBKD_00766	gene	fabF_3		
+IOLNKBKD_00767	CDS			hypothetical protein
+IOLNKBKD_00767	gene			
+IOLNKBKD_00768	CDS			hypothetical protein
+IOLNKBKD_00768	gene			
+IOLNKBKD_00769	CDS			hypothetical protein
+IOLNKBKD_00769	gene			
+IOLNKBKD_00770	CDS	miaB	2.8.4.3	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+IOLNKBKD_00770	gene	miaB		
+IOLNKBKD_00771	tRNA			tRNA-Gln(ctg)
+IOLNKBKD_00771	gene			
+IOLNKBKD_00772	CDS			hypothetical protein
+IOLNKBKD_00772	gene			
+IOLNKBKD_00773	tRNA			tRNA-Glu(ctc)
+IOLNKBKD_00773	gene			
+IOLNKBKD_00774	CDS	petC	1.10.9.1	Cytochrome b6-f complex iron-sulfur subunit
+IOLNKBKD_00774	gene	petC		
+IOLNKBKD_00775	CDS	petB_2		Cytochrome b6
+IOLNKBKD_00775	gene	petB_2		
+IOLNKBKD_00776	CDS			hypothetical protein
+IOLNKBKD_00776	gene			
+IOLNKBKD_00777	CDS			hypothetical protein
+IOLNKBKD_00777	gene			
+IOLNKBKD_00778	CDS	nlpD_1		Murein hydrolase activator NlpD
+IOLNKBKD_00778	gene	nlpD_1		
+IOLNKBKD_00779	CDS			hypothetical protein
+IOLNKBKD_00779	gene			
+IOLNKBKD_00780	CDS	dnaJ_1		Chaperone protein DnaJ
+IOLNKBKD_00780	gene	dnaJ_1		
+IOLNKBKD_00781	CDS			hypothetical protein
+IOLNKBKD_00781	gene			
+IOLNKBKD_00782	CDS			hypothetical protein
+IOLNKBKD_00782	gene			
+IOLNKBKD_00783	CDS			hypothetical protein
+IOLNKBKD_00783	gene			
+IOLNKBKD_00784	CDS	ypmQ		SCO1 protein 
+IOLNKBKD_00784	gene	ypmQ		
+IOLNKBKD_00785	CDS			hypothetical protein
+IOLNKBKD_00785	gene			
+IOLNKBKD_00786	CDS			hypothetical protein
+IOLNKBKD_00786	gene			
+IOLNKBKD_00787	CDS			hypothetical protein
+IOLNKBKD_00787	gene			
+IOLNKBKD_00788	CDS			hypothetical protein
+IOLNKBKD_00788	gene			
+IOLNKBKD_00789	CDS	flhB_3		Flagellar biosynthetic protein FlhB
+IOLNKBKD_00789	gene	flhB_3		
+IOLNKBKD_00790	CDS			hypothetical protein
+IOLNKBKD_00790	gene			
+IOLNKBKD_00791	CDS	clcA		H(+)/Cl(-) exchange transporter ClcA
+IOLNKBKD_00791	gene	clcA		
+IOLNKBKD_00792	CDS			hypothetical protein
+IOLNKBKD_00792	gene			
+IOLNKBKD_00793	CDS	rfaQ	2.-.-.-	Lipopolysaccharide core heptosyltransferase RfaQ
+IOLNKBKD_00793	gene	rfaQ		
+IOLNKBKD_00794	CDS			hypothetical protein
+IOLNKBKD_00794	gene			
+IOLNKBKD_00795	CDS	rfaC	2.-.-.-	Lipopolysaccharide heptosyltransferase 1
+IOLNKBKD_00795	gene	rfaC		
+IOLNKBKD_00796	CDS	ybjG	3.6.1.27	Putative undecaprenyl-diphosphatase YbjG
+IOLNKBKD_00796	gene	ybjG		
+IOLNKBKD_00797	CDS			hypothetical protein
+IOLNKBKD_00797	gene			
+IOLNKBKD_00798	CDS	ywlC	2.7.7.87	Threonylcarbamoyl-AMP synthase
+IOLNKBKD_00798	gene	ywlC		
+IOLNKBKD_00799	CDS	acpS_1	2.7.8.7	Holo-[acyl-carrier-protein] synthase
+IOLNKBKD_00799	gene	acpS_1		
+IOLNKBKD_00800	CDS			hypothetical protein
+IOLNKBKD_00800	gene			
+IOLNKBKD_00801	CDS	spsI_1		Bifunctional IPC transferase and DIPP synthase
+IOLNKBKD_00801	gene	spsI_1		
+IOLNKBKD_00802	CDS			hypothetical protein
+IOLNKBKD_00802	gene			
+IOLNKBKD_00803	CDS			hypothetical protein
+IOLNKBKD_00803	gene			
+IOLNKBKD_00804	CDS	nuoF_1	1.6.5.11	NADH-quinone oxidoreductase subunit F
+IOLNKBKD_00804	gene	nuoF_1		
+IOLNKBKD_00805	CDS	nqo2	1.6.5.11	NADH-quinone oxidoreductase subunit 2
+IOLNKBKD_00805	gene	nqo2		
+IOLNKBKD_00806	CDS	nqo4_1	1.6.5.11	NADH-quinone oxidoreductase subunit 4
+IOLNKBKD_00806	gene	nqo4_1		
+IOLNKBKD_00807	CDS	nqo5_3	1.6.5.11	NADH-quinone oxidoreductase subunit 5
+IOLNKBKD_00807	gene	nqo5_3		
+IOLNKBKD_00808	CDS	nqo6_1	1.6.5.11	NADH-quinone oxidoreductase subunit 6
+IOLNKBKD_00808	gene	nqo6_1		
+IOLNKBKD_00809	CDS	nuoA_3	1.6.5.11	NADH-quinone oxidoreductase subunit A
+IOLNKBKD_00809	gene	nuoA_3		
+IOLNKBKD_00810	CDS			hypothetical protein
+IOLNKBKD_00810	gene			
+IOLNKBKD_00811	CDS			hypothetical protein
+IOLNKBKD_00811	gene			
+IOLNKBKD_00812	CDS			hypothetical protein
+IOLNKBKD_00812	gene			
+IOLNKBKD_00813	CDS	moeZ_3		putative adenylyltransferase/sulfurtransferase MoeZ
+IOLNKBKD_00813	gene	moeZ_3		
+IOLNKBKD_00814	CDS	cysM	2.5.1.47	Cysteine synthase B
+IOLNKBKD_00814	gene	cysM		
+IOLNKBKD_00815	CDS			Ferredoxin, 2Fe-2S
+IOLNKBKD_00815	gene			
+IOLNKBKD_00816	CDS			hypothetical protein
+IOLNKBKD_00816	gene			
+IOLNKBKD_00817	CDS			hypothetical protein
+IOLNKBKD_00817	gene			
+IOLNKBKD_00818	CDS			putative ABC transporter ATP-binding protein
+IOLNKBKD_00818	gene			
+IOLNKBKD_00819	CDS	yheI	3.6.3.-	putative multidrug resistance ABC transporter ATP-binding/permease protein YheI
+IOLNKBKD_00819	gene	yheI		
+IOLNKBKD_00820	CDS	rsmI_1	2.1.1.198	Ribosomal RNA small subunit methyltransferase I
+IOLNKBKD_00820	gene	rsmI_1		
+IOLNKBKD_00821	CDS			hypothetical protein
+IOLNKBKD_00821	gene			
+IOLNKBKD_00822	CDS	parB_1		putative chromosome-partitioning protein ParB
+IOLNKBKD_00822	gene	parB_1		
+IOLNKBKD_00823	CDS			hypothetical protein
+IOLNKBKD_00823	gene			
+IOLNKBKD_00824	CDS			hypothetical protein
+IOLNKBKD_00824	gene			
+IOLNKBKD_00825	CDS			hypothetical protein
+IOLNKBKD_00825	gene			
+IOLNKBKD_00826	CDS	gltP_2		Proton/glutamate-aspartate symporter
+IOLNKBKD_00826	gene	gltP_2		
+IOLNKBKD_00827	CDS			hypothetical protein
+IOLNKBKD_00827	gene			
+IOLNKBKD_00828	CDS	exoA_2	3.1.11.2	Exodeoxyribonuclease
+IOLNKBKD_00828	gene	exoA_2		
+IOLNKBKD_00829	CDS			hypothetical protein
+IOLNKBKD_00829	gene			
+IOLNKBKD_00830	CDS	oppD		Oligopeptide transport ATP-binding protein OppD
+IOLNKBKD_00830	gene	oppD		
+IOLNKBKD_00831	CDS	oppF		Oligopeptide transport ATP-binding protein OppF
+IOLNKBKD_00831	gene	oppF		
+IOLNKBKD_00832	CDS			hypothetical protein
+IOLNKBKD_00832	gene			
+IOLNKBKD_00833	CDS	tmoT		Response regulator protein TmoT
+IOLNKBKD_00833	gene	tmoT		
+IOLNKBKD_00834	CDS	cckA		Sensor kinase CckA
+IOLNKBKD_00834	gene	cckA		
+IOLNKBKD_00835	CDS			hypothetical protein
+IOLNKBKD_00835	gene			
+IOLNKBKD_00836	CDS	gcvT_1	2.1.2.10	Aminomethyltransferase
+IOLNKBKD_00836	gene	gcvT_1		
+IOLNKBKD_00837	CDS	gcvH_1		Glycine cleavage system H protein
+IOLNKBKD_00837	gene	gcvH_1		
+IOLNKBKD_00838	CDS	gcvPA_1	1.4.4.2	putative glycine dehydrogenase (decarboxylating) subunit 1
+IOLNKBKD_00838	gene	gcvPA_1		
+IOLNKBKD_00839	CDS	merA	1.16.1.1	Mercuric reductase
+IOLNKBKD_00839	gene	merA		
+IOLNKBKD_00840	CDS			hypothetical protein
+IOLNKBKD_00840	gene			
+IOLNKBKD_00841	CDS			hypothetical protein
+IOLNKBKD_00841	gene			
+IOLNKBKD_00842	CDS			hypothetical protein
+IOLNKBKD_00842	gene			
+IOLNKBKD_00843	CDS	rnhB_1	3.1.26.4	Ribonuclease HII
+IOLNKBKD_00843	gene	rnhB_1		
+IOLNKBKD_00844	CDS	serC_2	2.6.1.52	Phosphoserine aminotransferase
+IOLNKBKD_00844	gene	serC_2		
+IOLNKBKD_00845	CDS	serA	1.1.1.95	D-3-phosphoglycerate dehydrogenase
+IOLNKBKD_00845	gene	serA		
+IOLNKBKD_00846	CDS			hypothetical protein
+IOLNKBKD_00846	gene			
+IOLNKBKD_00847	CDS	desV_1	2.6.1.106	dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase
+IOLNKBKD_00847	gene	desV_1		
+IOLNKBKD_00848	CDS	surA_2	5.2.1.8	Chaperone SurA
+IOLNKBKD_00848	gene	surA_2		
+IOLNKBKD_00849	CDS	ybhA	3.1.3.74	Pyridoxal phosphate phosphatase YbhA
+IOLNKBKD_00849	gene	ybhA		
+IOLNKBKD_00850	CDS			hypothetical protein
+IOLNKBKD_00850	gene			
+IOLNKBKD_00851	CDS	ftsZ_1		Cell division protein FtsZ
+IOLNKBKD_00851	gene	ftsZ_1		
+IOLNKBKD_00852	CDS			hypothetical protein
+IOLNKBKD_00852	gene			
+IOLNKBKD_00853	CDS			hypothetical protein
+IOLNKBKD_00853	gene			
+IOLNKBKD_00854	CDS			hypothetical protein
+IOLNKBKD_00854	gene			
+IOLNKBKD_00855	CDS	cas9	3.1.-.-	CRISPR-associated endonuclease Cas9
+IOLNKBKD_00855	gene	cas9		
+IOLNKBKD_00856	CDS	desV_2	2.6.1.106	dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase
+IOLNKBKD_00856	gene	desV_2		
+IOLNKBKD_00857	CDS	surA_3	5.2.1.8	Chaperone SurA
+IOLNKBKD_00857	gene	surA_3		
+IOLNKBKD_00858	CDS			hypothetical protein
+IOLNKBKD_00858	gene			
+IOLNKBKD_00859	CDS	yigL	3.1.3.74	Pyridoxal phosphate phosphatase YigL
+IOLNKBKD_00859	gene	yigL		
+IOLNKBKD_00860	CDS	arnB_1	2.6.1.87	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+IOLNKBKD_00860	gene	arnB_1		
+IOLNKBKD_00861	CDS			hypothetical protein
+IOLNKBKD_00861	gene			
+IOLNKBKD_00862	CDS	uvrC_1		UvrABC system protein C
+IOLNKBKD_00862	gene	uvrC_1		
+IOLNKBKD_00863	CDS			hypothetical protein
+IOLNKBKD_00863	gene			
+IOLNKBKD_00864	CDS			hypothetical protein
+IOLNKBKD_00864	gene			
+IOLNKBKD_00865	CDS	trmB	2.1.1.33	tRNA (guanine-N(7)-)-methyltransferase
+IOLNKBKD_00865	gene	trmB		
+IOLNKBKD_00866	CDS			hypothetical protein
+IOLNKBKD_00866	gene			
+IOLNKBKD_00867	CDS	purM_1	6.3.3.1	Phosphoribosylformylglycinamidine cyclo-ligase
+IOLNKBKD_00867	gene	purM_1		
+IOLNKBKD_00868	CDS	gdhA	1.4.1.3	Glutamate dehydrogenase
+IOLNKBKD_00868	gene	gdhA		
+IOLNKBKD_00869	CDS			hypothetical protein
+IOLNKBKD_00869	gene			
+IOLNKBKD_00870	CDS	purC	6.3.2.6	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+IOLNKBKD_00870	gene	purC		
+IOLNKBKD_00871	CDS	purB	4.3.2.2	Adenylosuccinate lyase
+IOLNKBKD_00871	gene	purB		
+IOLNKBKD_00872	CDS			hypothetical protein
+IOLNKBKD_00872	gene			
+IOLNKBKD_00873	CDS	tyrS_1	6.1.1.1	Tyrosine--tRNA ligase
+IOLNKBKD_00873	gene	tyrS_1		
+IOLNKBKD_00874	CDS			hypothetical protein
+IOLNKBKD_00874	gene			
+IOLNKBKD_00875	CDS			hypothetical protein
+IOLNKBKD_00875	gene			
+IOLNKBKD_00876	CDS			hypothetical protein
+IOLNKBKD_00876	gene			
+IOLNKBKD_00877	CDS			hypothetical protein
+IOLNKBKD_00877	gene			
+IOLNKBKD_00878	CDS	nadE_2	6.3.5.1	Glutamine-dependent NAD(+) synthetase
+IOLNKBKD_00878	gene	nadE_2		
+IOLNKBKD_00879	CDS			hypothetical protein
+IOLNKBKD_00879	gene			
+IOLNKBKD_00880	CDS			hypothetical protein
+IOLNKBKD_00880	gene			
+IOLNKBKD_00881	CDS	prmA_1	2.1.1.-	Ribosomal protein L11 methyltransferase
+IOLNKBKD_00881	gene	prmA_1		
+IOLNKBKD_00882	CDS	lapB_3		Lipopolysaccharide assembly protein B
+IOLNKBKD_00882	gene	lapB_3		
+IOLNKBKD_00883	CDS			hypothetical protein
+IOLNKBKD_00883	gene			
+IOLNKBKD_00884	CDS	mutL		DNA mismatch repair protein MutL
+IOLNKBKD_00884	gene	mutL		
+IOLNKBKD_00885	CDS			hypothetical protein
+IOLNKBKD_00885	gene			
+IOLNKBKD_00886	CDS	flhA_2		Flagellar biosynthesis protein FlhA
+IOLNKBKD_00886	gene	flhA_2		
+IOLNKBKD_00887	CDS	flhF_2		Flagellar biosynthesis protein FlhF
+IOLNKBKD_00887	gene	flhF_2		
+IOLNKBKD_00888	CDS	ylxH_1		Flagellum site-determining protein YlxH
+IOLNKBKD_00888	gene	ylxH_1		
+IOLNKBKD_00889	CDS			hypothetical protein
+IOLNKBKD_00889	gene			
+IOLNKBKD_00890	CDS			hypothetical protein
+IOLNKBKD_00890	gene			
+IOLNKBKD_00891	CDS	rnhA	3.1.26.4	Ribonuclease HI
+IOLNKBKD_00891	gene	rnhA		
+IOLNKBKD_00892	CDS			hypothetical protein
+IOLNKBKD_00892	gene			
+IOLNKBKD_00893	CDS	ssb_3		Single-stranded DNA-binding protein
+IOLNKBKD_00893	gene	ssb_3		
+IOLNKBKD_00894	CDS			hypothetical protein
+IOLNKBKD_00894	gene			
+IOLNKBKD_00895	CDS			hypothetical protein
+IOLNKBKD_00895	gene			
+IOLNKBKD_00896	CDS	xerD_2		Tyrosine recombinase XerD
+IOLNKBKD_00896	gene	xerD_2		
+IOLNKBKD_00897	CDS			hypothetical protein
+IOLNKBKD_00897	gene			
+IOLNKBKD_00898	CDS	ydiP	2.1.1.37	putative BsuMI modification methylase subunit YdiP
+IOLNKBKD_00898	gene	ydiP		
+IOLNKBKD_00899	CDS			hypothetical protein
+IOLNKBKD_00899	gene			
+IOLNKBKD_00900	CDS			hypothetical protein
+IOLNKBKD_00900	gene			
+IOLNKBKD_00901	CDS			hypothetical protein
+IOLNKBKD_00901	gene			
+IOLNKBKD_00902	CDS	yrbG_1		Inner membrane protein YrbG
+IOLNKBKD_00902	gene	yrbG_1		
+IOLNKBKD_00903	tRNA			tRNA-Arg(ccg)
+IOLNKBKD_00903	gene			
+IOLNKBKD_00904	CDS	rsbRA		RsbT co-antagonist protein RsbRA
+IOLNKBKD_00904	gene	rsbRA		
+IOLNKBKD_00905	CDS	rsbS		RsbT antagonist protein RsbS
+IOLNKBKD_00905	gene	rsbS		
+IOLNKBKD_00906	CDS	bchB	1.3.7.7	Light-independent protochlorophyllide reductase subunit B
+IOLNKBKD_00906	gene	bchB		
+IOLNKBKD_00907	CDS	apbC_1		Iron-sulfur cluster carrier protein
+IOLNKBKD_00907	gene	apbC_1		
+IOLNKBKD_00908	CDS			hypothetical protein
+IOLNKBKD_00908	gene			
+IOLNKBKD_00909	CDS	hupB		DNA-binding protein HU-beta
+IOLNKBKD_00909	gene	hupB		
+IOLNKBKD_00910	CDS	mrcA_1		Penicillin-binding protein 1A
+IOLNKBKD_00910	gene	mrcA_1		
+IOLNKBKD_00911	CDS	lolD_2	3.6.3.-	Lipoprotein-releasing system ATP-binding protein LolD
+IOLNKBKD_00911	gene	lolD_2		
+IOLNKBKD_00912	CDS	lolE		Lipoprotein-releasing system transmembrane protein LolE
+IOLNKBKD_00912	gene	lolE		
+IOLNKBKD_00913	CDS	lysS_1	6.1.1.6	Lysine--tRNA ligase
+IOLNKBKD_00913	gene	lysS_1		
+IOLNKBKD_00914	CDS		3.1.4.-	3'3'-cGAMP-specific phosphodiesterase 3
+IOLNKBKD_00914	gene			
+IOLNKBKD_00915	CDS			hypothetical protein
+IOLNKBKD_00915	gene			
+IOLNKBKD_00916	CDS	mgtE		Magnesium transporter MgtE
+IOLNKBKD_00916	gene	mgtE		
+IOLNKBKD_00917	CDS			hypothetical protein
+IOLNKBKD_00917	gene			
+IOLNKBKD_00918	CDS			hypothetical protein
+IOLNKBKD_00918	gene			
+IOLNKBKD_00919	CDS	isdG	1.14.99.3	Heme oxygenase (staphylobilin-producing)
+IOLNKBKD_00919	gene	isdG		
+IOLNKBKD_00920	CDS	hemN	1.3.98.3	Oxygen-independent coproporphyrinogen III oxidase
+IOLNKBKD_00920	gene	hemN		
+IOLNKBKD_00921	CDS	bluB	1.13.11.79	5,6-dimethylbenzimidazole synthase
+IOLNKBKD_00921	gene	bluB		
+IOLNKBKD_00922	CDS	cobS	2.7.8.26	Adenosylcobinamide-GDP ribazoletransferase
+IOLNKBKD_00922	gene	cobS		
+IOLNKBKD_00923	CDS	cobO	2.5.1.17	Cob(I)yrinic acid a,c-diamide adenosyltransferase
+IOLNKBKD_00923	gene	cobO		
+IOLNKBKD_00924	CDS			hypothetical protein
+IOLNKBKD_00924	gene			
+IOLNKBKD_00925	CDS	arnT_2	2.4.2.43	Undecaprenyl phosphate-alpha-4-amino-4-deoxy-L-arabinose arabinosyl transferase
+IOLNKBKD_00925	gene	arnT_2		
+IOLNKBKD_00926	CDS			hypothetical protein
+IOLNKBKD_00926	gene			
+IOLNKBKD_00927	CDS	ppa_2	3.6.1.1	Inorganic pyrophosphatase
+IOLNKBKD_00927	gene	ppa_2		
+IOLNKBKD_00928	CDS			hypothetical protein
+IOLNKBKD_00928	gene			
+IOLNKBKD_00929	CDS	obg	3.6.5.-	GTPase Obg
+IOLNKBKD_00929	gene	obg		
+IOLNKBKD_00930	CDS	rpmA		50S ribosomal protein L27
+IOLNKBKD_00930	gene	rpmA		
+IOLNKBKD_00931	CDS	rplU		50S ribosomal protein L21
+IOLNKBKD_00931	gene	rplU		
+IOLNKBKD_00932	CDS	tehB	2.1.1.265	Tellurite methyltransferase
+IOLNKBKD_00932	gene	tehB		
+IOLNKBKD_00933	CDS			hypothetical protein
+IOLNKBKD_00933	gene			
+IOLNKBKD_00934	CDS			hypothetical protein
+IOLNKBKD_00934	gene			
+IOLNKBKD_00935	CDS		2.1.1.-	Putative O-methyltransferase
+IOLNKBKD_00935	gene			
+IOLNKBKD_00936	CDS	alkA_1	3.2.2.21	DNA-3-methyladenine glycosylase
+IOLNKBKD_00936	gene	alkA_1		
+IOLNKBKD_00937	CDS			hypothetical protein
+IOLNKBKD_00937	gene			
+IOLNKBKD_00938	CDS	aroL	2.7.1.71	Shikimate kinase 2
+IOLNKBKD_00938	gene	aroL		
+IOLNKBKD_00939	CDS			hypothetical protein
+IOLNKBKD_00939	gene			
+IOLNKBKD_00940	CDS	arnC_2	2.4.2.53	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+IOLNKBKD_00940	gene	arnC_2		
+IOLNKBKD_00941	CDS	purL	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurL
+IOLNKBKD_00941	gene	purL		
+IOLNKBKD_00942	CDS	purQ	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurQ
+IOLNKBKD_00942	gene	purQ		
+IOLNKBKD_00943	CDS	purS	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurS
+IOLNKBKD_00943	gene	purS		
+IOLNKBKD_00944	tRNA			tRNA-Ser(tga)
+IOLNKBKD_00944	gene			
+IOLNKBKD_00945	tRNA			tRNA-Ser(gct)
+IOLNKBKD_00945	gene			
+IOLNKBKD_00946	CDS			hypothetical protein
+IOLNKBKD_00946	gene			
+IOLNKBKD_00947	tRNA			tRNA-Arg(gcg)
+IOLNKBKD_00947	gene			
+IOLNKBKD_00948	CDS			hypothetical protein
+IOLNKBKD_00948	gene			
+IOLNKBKD_00949	CDS			hypothetical protein
+IOLNKBKD_00949	gene			
+IOLNKBKD_00950	tRNA			tRNA-Ser(gga)
+IOLNKBKD_00950	gene			
+IOLNKBKD_00951	CDS			hypothetical protein
+IOLNKBKD_00951	gene			
+IOLNKBKD_00952	CDS	dnaX_1	2.7.7.7	DNA polymerase III subunit tau
+IOLNKBKD_00952	gene	dnaX_1		
+IOLNKBKD_00953	CDS	vgb_2	4.2.99.-	Virginiamycin B lyase
+IOLNKBKD_00953	gene	vgb_2		
+IOLNKBKD_00954	CDS	speE_3	2.5.1.104	Polyamine aminopropyltransferase
+IOLNKBKD_00954	gene	speE_3		
+IOLNKBKD_00955	CDS			hypothetical protein
+IOLNKBKD_00955	gene			
+IOLNKBKD_00956	CDS	mopA		Molybdenum-pterin-binding protein MopA
+IOLNKBKD_00956	gene	mopA		
+IOLNKBKD_00957	CDS			hypothetical protein
+IOLNKBKD_00957	gene			
+IOLNKBKD_00958	CDS			hypothetical protein
+IOLNKBKD_00958	gene			
+IOLNKBKD_00959	CDS			hypothetical protein
+IOLNKBKD_00959	gene			
+IOLNKBKD_00960	CDS			hypothetical protein
+IOLNKBKD_00960	gene			
+IOLNKBKD_00961	CDS			hypothetical protein
+IOLNKBKD_00961	gene			
+IOLNKBKD_00962	CDS	esiB_1		Secretory immunoglobulin A-binding protein EsiB
+IOLNKBKD_00962	gene	esiB_1		
+IOLNKBKD_00963	CDS			hypothetical protein
+IOLNKBKD_00963	gene			
+IOLNKBKD_00964	CDS			hypothetical protein
+IOLNKBKD_00964	gene			
+IOLNKBKD_00965	CDS			hypothetical protein
+IOLNKBKD_00965	gene			
+IOLNKBKD_00966	CDS			hypothetical protein
+IOLNKBKD_00966	gene			
+IOLNKBKD_00967	CDS			hypothetical protein
+IOLNKBKD_00967	gene			
+IOLNKBKD_00968	CDS	yqaB	3.1.3.-	Fructose-1-phosphate phosphatase YqaB
+IOLNKBKD_00968	gene	yqaB		
+IOLNKBKD_00969	CDS	lepB	3.4.21.89	Signal peptidase I
+IOLNKBKD_00969	gene	lepB		
+IOLNKBKD_00970	CDS	lepA	3.6.5.-	Elongation factor 4
+IOLNKBKD_00970	gene	lepA		
+IOLNKBKD_00971	CDS	mobA	2.7.7.77	Molybdenum cofactor guanylyltransferase
+IOLNKBKD_00971	gene	mobA		
+IOLNKBKD_00972	CDS	gcvT_2	2.1.2.10	Aminomethyltransferase
+IOLNKBKD_00972	gene	gcvT_2		
+IOLNKBKD_00973	CDS	gcvH_2		Glycine cleavage system H protein
+IOLNKBKD_00973	gene	gcvH_2		
+IOLNKBKD_00974	CDS	gcvPA_2	1.4.4.2	putative glycine dehydrogenase (decarboxylating) subunit 1
+IOLNKBKD_00974	gene	gcvPA_2		
+IOLNKBKD_00975	CDS	lpd	1.8.1.4	Dihydrolipoyl dehydrogenase
+IOLNKBKD_00975	gene	lpd		
+IOLNKBKD_00976	CDS	ycf3_2		Photosystem I assembly protein Ycf3
+IOLNKBKD_00976	gene	ycf3_2		
+IOLNKBKD_00977	CDS			hypothetical protein
+IOLNKBKD_00977	gene			
+IOLNKBKD_00978	CDS	hcaC		3-phenylpropionate/cinnamic acid dioxygenase ferredoxin subunit
+IOLNKBKD_00978	gene	hcaC		
+IOLNKBKD_00979	CDS			hypothetical protein
+IOLNKBKD_00979	gene			
+IOLNKBKD_00980	CDS			hypothetical protein
+IOLNKBKD_00980	gene			
+IOLNKBKD_00981	CDS	tgt	2.4.2.29	Queuine tRNA-ribosyltransferase
+IOLNKBKD_00981	gene	tgt		
+IOLNKBKD_00982	CDS			hypothetical protein
+IOLNKBKD_00982	gene			
+IOLNKBKD_00983	CDS			hypothetical protein
+IOLNKBKD_00983	gene			
+IOLNKBKD_00984	CDS			hypothetical protein
+IOLNKBKD_00984	gene			
+IOLNKBKD_00985	CDS	dnaG_1	2.7.7.-	DNA primase
+IOLNKBKD_00985	gene	dnaG_1		
+IOLNKBKD_00986	CDS	rpoD_1		RNA polymerase sigma factor RpoD
+IOLNKBKD_00986	gene	rpoD_1		
+IOLNKBKD_00987	tRNA			tRNA-Met(cat)
+IOLNKBKD_00987	gene			
+IOLNKBKD_00988	CDS			hypothetical protein
+IOLNKBKD_00988	gene			
+IOLNKBKD_00989	CDS		1.6.5.11	NADH-quinone oxidoreductase subunit 11
+IOLNKBKD_00989	gene			
+IOLNKBKD_00990	CDS	nuoJ_3	1.6.5.11	NADH-quinone oxidoreductase subunit J
+IOLNKBKD_00990	gene	nuoJ_3		
+IOLNKBKD_00991	CDS	ribBA		Riboflavin biosynthesis protein RibBA
+IOLNKBKD_00991	gene	ribBA		
+IOLNKBKD_00992	CDS	ribE	2.5.1.9	Riboflavin synthase
+IOLNKBKD_00992	gene	ribE		
+IOLNKBKD_00993	CDS	ribD		Riboflavin biosynthesis protein RibD
+IOLNKBKD_00993	gene	ribD		
+IOLNKBKD_00994	CDS	mutS		DNA mismatch repair protein MutS
+IOLNKBKD_00994	gene	mutS		
+IOLNKBKD_00995	CDS		2.7.7.53	AP-4-A phosphorylase
+IOLNKBKD_00995	gene			
+IOLNKBKD_00996	CDS	ybeY	3.1.-.-	Endoribonuclease YbeY
+IOLNKBKD_00996	gene	ybeY		
+IOLNKBKD_00997	CDS			PhoH-like protein
+IOLNKBKD_00997	gene			
+IOLNKBKD_00998	CDS	folE	3.5.4.16	GTP cyclohydrolase 1
+IOLNKBKD_00998	gene	folE		
+IOLNKBKD_00999	CDS	queD_1	4.1.2.50	6-carboxy-5,6,7,8-tetrahydropterin synthase
+IOLNKBKD_00999	gene	queD_1		
+IOLNKBKD_01000	CDS			hypothetical protein
+IOLNKBKD_01000	gene			
+IOLNKBKD_01001	CDS	hxuB_1		Heme/hemopexin transporter protein HuxB
+IOLNKBKD_01001	gene	hxuB_1		
+IOLNKBKD_01002	CDS			hypothetical protein
+IOLNKBKD_01002	gene			
+IOLNKBKD_01003	CDS	lapB_4		Lipopolysaccharide assembly protein B
+IOLNKBKD_01003	gene	lapB_4		
+IOLNKBKD_01004	CDS	panD	4.1.1.11	Aspartate 1-decarboxylase
+IOLNKBKD_01004	gene	panD		
+IOLNKBKD_01005	CDS	panC	6.3.2.1	Pantothenate synthetase
+IOLNKBKD_01005	gene	panC		
+IOLNKBKD_01006	CDS	panB	2.1.2.11	3-methyl-2-oxobutanoate hydroxymethyltransferase
+IOLNKBKD_01006	gene	panB		
+IOLNKBKD_01007	CDS			hypothetical protein
+IOLNKBKD_01007	gene			
+IOLNKBKD_01008	CDS	coaX	2.7.1.33	Type III pantothenate kinase
+IOLNKBKD_01008	gene	coaX		
+IOLNKBKD_01009	CDS			hypothetical protein
+IOLNKBKD_01009	gene			
+IOLNKBKD_01010	CDS			hypothetical protein
+IOLNKBKD_01010	gene			
+IOLNKBKD_01011	CDS			hypothetical protein
+IOLNKBKD_01011	gene			
+IOLNKBKD_01012	CDS	nrdR		Transcriptional repressor NrdR
+IOLNKBKD_01012	gene	nrdR		
+IOLNKBKD_01013	CDS	glyA	2.1.2.1	Serine hydroxymethyltransferase
+IOLNKBKD_01013	gene	glyA		
+IOLNKBKD_01014	CDS	rpiB	5.3.1.6	Ribose-5-phosphate isomerase B
+IOLNKBKD_01014	gene	rpiB		
+IOLNKBKD_01015	CDS			hypothetical protein
+IOLNKBKD_01015	gene			
+IOLNKBKD_01016	CDS			hypothetical protein
+IOLNKBKD_01016	gene			
+IOLNKBKD_01017	CDS			hypothetical protein
+IOLNKBKD_01017	gene			
+IOLNKBKD_01018	CDS	nuoM_2	1.6.5.11	NADH-quinone oxidoreductase subunit M
+IOLNKBKD_01018	gene	nuoM_2		
+IOLNKBKD_01019	CDS			hypothetical protein
+IOLNKBKD_01019	gene			
+IOLNKBKD_01020	CDS			hypothetical protein
+IOLNKBKD_01020	gene			
+IOLNKBKD_01021	CDS	dgt		Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+IOLNKBKD_01021	gene	dgt		
+IOLNKBKD_01022	CDS	yvdD		LOG family protein YvdD
+IOLNKBKD_01022	gene	yvdD		
+IOLNKBKD_01023	CDS	sdcS_1		Sodium-dependent dicarboxylate transporter SdcS
+IOLNKBKD_01023	gene	sdcS_1		
+IOLNKBKD_01024	CDS	skfB	1.21.98.-	Sporulation killing factor maturation protein SkfB
+IOLNKBKD_01024	gene	skfB		
+IOLNKBKD_01025	CDS	dmdA_1	4.2.1.85	2,3-dimethylmalate dehydratase large subunit
+IOLNKBKD_01025	gene	dmdA_1		
+IOLNKBKD_01026	CDS	DmdB_1	4.2.1.85	2,3-dimethylmalate dehydratase small subunit
+IOLNKBKD_01026	gene	DmdB_1		
+IOLNKBKD_01027	CDS	pkn1_10	2.7.11.1	Serine/threonine-protein kinase pkn1
+IOLNKBKD_01027	gene	pkn1_10		
+IOLNKBKD_01028	CDS			hypothetical protein
+IOLNKBKD_01028	gene			
+IOLNKBKD_01029	CDS			hypothetical protein
+IOLNKBKD_01029	gene			
+IOLNKBKD_01030	CDS			hypothetical protein
+IOLNKBKD_01030	gene			
+IOLNKBKD_01031	CDS	kdpE		KDP operon transcriptional regulatory protein KdpE
+IOLNKBKD_01031	gene	kdpE		
+IOLNKBKD_01032	CDS	oppC		Oligopeptide transport system permease protein OppC
+IOLNKBKD_01032	gene	oppC		
+IOLNKBKD_01033	CDS	dppB_2		Dipeptide transport system permease protein DppB
+IOLNKBKD_01033	gene	dppB_2		
+IOLNKBKD_01034	CDS			hypothetical protein
+IOLNKBKD_01034	gene			
+IOLNKBKD_01035	tRNA			tRNA-Arg(gcg)
+IOLNKBKD_01035	gene			
+IOLNKBKD_01036	CDS			hypothetical protein
+IOLNKBKD_01036	gene			
+IOLNKBKD_01037	tRNA			tRNA-Ser(gct)
+IOLNKBKD_01037	gene			
+IOLNKBKD_01038	tRNA			tRNA-Ser(tga)
+IOLNKBKD_01038	gene			
+IOLNKBKD_01039	CDS	serS	6.1.1.11	Serine--tRNA ligase
+IOLNKBKD_01039	gene	serS		
+IOLNKBKD_01040	CDS			hypothetical protein
+IOLNKBKD_01040	gene			
+IOLNKBKD_01041	CDS	suhB	3.1.3.25	Inositol-1-monophosphatase
+IOLNKBKD_01041	gene	suhB		
+IOLNKBKD_01042	CDS	loiP_1	3.4.24.-	Metalloprotease LoiP
+IOLNKBKD_01042	gene	loiP_1		
+IOLNKBKD_01043	CDS	speA	4.1.1.19	Biosynthetic arginine decarboxylase
+IOLNKBKD_01043	gene	speA		
+IOLNKBKD_01044	CDS	pipB2_1		Secreted effector protein PipB2
+IOLNKBKD_01044	gene	pipB2_1		
+IOLNKBKD_01045	CDS			hypothetical protein
+IOLNKBKD_01045	gene			
+IOLNKBKD_01046	CDS	maf		Septum formation protein Maf
+IOLNKBKD_01046	gene	maf		
+IOLNKBKD_01047	CDS			hypothetical protein
+IOLNKBKD_01047	gene			
+IOLNKBKD_01048	CDS	queE_2	4.3.99.3	7-carboxy-7-deazaguanine synthase
+IOLNKBKD_01048	gene	queE_2		
+IOLNKBKD_01049	CDS			hypothetical protein
+IOLNKBKD_01049	gene			
+IOLNKBKD_01050	CDS	gyrB_2	5.99.1.3	DNA gyrase subunit B
+IOLNKBKD_01050	gene	gyrB_2		
+IOLNKBKD_01051	CDS	gyrA_2	5.99.1.3	DNA gyrase subunit A
+IOLNKBKD_01051	gene	gyrA_2		
+IOLNKBKD_01052	CDS	bamD_4		Outer membrane protein assembly factor BamD
+IOLNKBKD_01052	gene	bamD_4		
+IOLNKBKD_01053	CDS	rpoB	2.7.7.6	DNA-directed RNA polymerase subunit beta
+IOLNKBKD_01053	gene	rpoB		
+IOLNKBKD_01054	CDS	rpoC	2.7.7.6	DNA-directed RNA polymerase subunit beta'
+IOLNKBKD_01054	gene	rpoC		
+IOLNKBKD_01055	CDS	rpsL		30S ribosomal protein S12
+IOLNKBKD_01055	gene	rpsL		
+IOLNKBKD_01056	CDS	rpsG		30S ribosomal protein S7
+IOLNKBKD_01056	gene	rpsG		
+IOLNKBKD_01057	CDS	fusA_2		Elongation factor G
+IOLNKBKD_01057	gene	fusA_2		
+IOLNKBKD_01058	CDS			Actin-binding protein
+IOLNKBKD_01058	gene			
+IOLNKBKD_01059	CDS	lpxC	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+IOLNKBKD_01059	gene	lpxC		
+IOLNKBKD_01060	CDS	pkn1_11	2.7.11.1	Serine/threonine-protein kinase pkn1
+IOLNKBKD_01060	gene	pkn1_11		
+IOLNKBKD_01061	CDS			hypothetical protein
+IOLNKBKD_01061	gene			
+IOLNKBKD_01062	CDS	dfa1	1.-.-.-	Diflavin flavoprotein A 1
+IOLNKBKD_01062	gene	dfa1		
+IOLNKBKD_01063	CDS			hypothetical protein
+IOLNKBKD_01063	gene			
+IOLNKBKD_01064	CDS	pflA	1.97.1.4	Pyruvate formate-lyase-activating enzyme
+IOLNKBKD_01064	gene	pflA		
+IOLNKBKD_01065	CDS			hypothetical protein
+IOLNKBKD_01065	gene			
+IOLNKBKD_01066	CDS			hypothetical protein
+IOLNKBKD_01066	gene			
+IOLNKBKD_01067	CDS	pqiB		Paraquat-inducible protein B
+IOLNKBKD_01067	gene	pqiB		
+IOLNKBKD_01068	CDS			hypothetical protein
+IOLNKBKD_01068	gene			
+IOLNKBKD_01069	CDS	nagZ	3.2.1.52	Beta-hexosaminidase
+IOLNKBKD_01069	gene	nagZ		
+IOLNKBKD_01070	CDS	fabF_4	2.3.1.179	3-oxoacyl-[acyl-carrier-protein] synthase 2
+IOLNKBKD_01070	gene	fabF_4		
+IOLNKBKD_01071	CDS			hypothetical protein
+IOLNKBKD_01071	gene			
+IOLNKBKD_01072	CDS	esiB_2		Secretory immunoglobulin A-binding protein EsiB
+IOLNKBKD_01072	gene	esiB_2		
+IOLNKBKD_01073	CDS			hypothetical protein
+IOLNKBKD_01073	gene			
+IOLNKBKD_01074	CDS	cheY		Chemotaxis protein CheY 
+IOLNKBKD_01074	gene	cheY		
+IOLNKBKD_01075	CDS	hflC		Modulator of FtsH protease HflC
+IOLNKBKD_01075	gene	hflC		
+IOLNKBKD_01076	CDS	trkA_1		Trk system potassium uptake protein TrkA
+IOLNKBKD_01076	gene	trkA_1		
+IOLNKBKD_01077	CDS			hypothetical protein
+IOLNKBKD_01077	gene			
+IOLNKBKD_01078	CDS	gyrA_3	5.99.1.3	DNA gyrase subunit A
+IOLNKBKD_01078	gene	gyrA_3		
+IOLNKBKD_01079	CDS			hypothetical protein
+IOLNKBKD_01079	gene			
+IOLNKBKD_01080	CDS	yjiA		putative GTP-binding protein YjiA
+IOLNKBKD_01080	gene	yjiA		
+IOLNKBKD_01081	CDS	pipB2_2		Secreted effector protein PipB2
+IOLNKBKD_01081	gene	pipB2_2		
+IOLNKBKD_01082	CDS			hypothetical protein
+IOLNKBKD_01082	gene			
+IOLNKBKD_01083	CDS	trmL	2.1.1.207	tRNA (cytidine(34)-2'-O)-methyltransferase
+IOLNKBKD_01083	gene	trmL		
+IOLNKBKD_01084	CDS			hypothetical protein
+IOLNKBKD_01084	gene			
+IOLNKBKD_01085	CDS		1.2.7.10	Oxalate oxidoreductase subunit beta
+IOLNKBKD_01085	gene			
+IOLNKBKD_01086	CDS	padE	1.2.1.58	NADH-dependent phenylglyoxylate dehydrogenase subunit gamma
+IOLNKBKD_01086	gene	padE		
+IOLNKBKD_01087	CDS			hypothetical protein
+IOLNKBKD_01087	gene			
+IOLNKBKD_01088	CDS	ndk	2.7.4.6	Nucleoside diphosphate kinase
+IOLNKBKD_01088	gene	ndk		
+IOLNKBKD_01089	CDS	cyaA	4.6.1.1	Adenylate cyclase
+IOLNKBKD_01089	gene	cyaA		
+IOLNKBKD_01090	CDS	motB_2		Motility protein B
+IOLNKBKD_01090	gene	motB_2		
+IOLNKBKD_01091	CDS			hypothetical protein
+IOLNKBKD_01091	gene			
+IOLNKBKD_01092	CDS			hypothetical protein
+IOLNKBKD_01092	gene			
+IOLNKBKD_01093	CDS		2.1.1.-	Putative O-methyltransferase
+IOLNKBKD_01093	gene			
+IOLNKBKD_01094	CDS	alkA_2	3.2.2.21	DNA-3-methyladenine glycosylase
+IOLNKBKD_01094	gene	alkA_2		
+IOLNKBKD_01095	CDS			hypothetical protein
+IOLNKBKD_01095	gene			
+IOLNKBKD_01096	CDS	aroK	2.7.1.71	Shikimate kinase
+IOLNKBKD_01096	gene	aroK		
+IOLNKBKD_01097	CDS			hypothetical protein
+IOLNKBKD_01097	gene			
+IOLNKBKD_01098	CDS			hypothetical protein
+IOLNKBKD_01098	gene			
+IOLNKBKD_01099	CDS	bepA_4	3.4.-.-	Beta-barrel assembly-enhancing protease
+IOLNKBKD_01099	gene	bepA_4		
+IOLNKBKD_01100	CDS			hypothetical protein
+IOLNKBKD_01100	gene			
+IOLNKBKD_01101	CDS	rbn_2	3.1.26.11	Ribonuclease BN
+IOLNKBKD_01101	gene	rbn_2		
+IOLNKBKD_01102	CDS			hypothetical protein
+IOLNKBKD_01102	gene			
+IOLNKBKD_01103	CDS			hypothetical protein
+IOLNKBKD_01103	gene			
+IOLNKBKD_01104	CDS	mnmG_3		tRNA uridine 5-carboxymethylaminomethyl modification enzyme MnmG
+IOLNKBKD_01104	gene	mnmG_3		
+IOLNKBKD_01105	CDS		2.1.1.-	putative S-adenosylmethionine-dependent methyltransferase/MSMEI_2290
+IOLNKBKD_01105	gene			
+IOLNKBKD_01106	CDS	rplS_2		50S ribosomal protein L19
+IOLNKBKD_01106	gene	rplS_2		
+IOLNKBKD_01107	CDS			hypothetical protein
+IOLNKBKD_01107	gene			
+IOLNKBKD_01108	CDS	trmD_2	2.1.1.228	tRNA (guanine-N(1)-)-methyltransferase
+IOLNKBKD_01108	gene	trmD_2		
+IOLNKBKD_01109	CDS	rimM_2		Ribosome maturation factor RimM
+IOLNKBKD_01109	gene	rimM_2		
+IOLNKBKD_01110	CDS			hypothetical protein
+IOLNKBKD_01110	gene			
+IOLNKBKD_01111	CDS	rpsP_1		30S ribosomal protein S16
+IOLNKBKD_01111	gene	rpsP_1		
+IOLNKBKD_01112	CDS	ffh_1		Signal recognition particle protein
+IOLNKBKD_01112	gene	ffh_1		
+IOLNKBKD_01113	CDS	queC_1	6.3.4.20	7-cyano-7-deazaguanine synthase
+IOLNKBKD_01113	gene	queC_1		
+IOLNKBKD_01114	CDS			hypothetical protein
+IOLNKBKD_01114	gene			
+IOLNKBKD_01115	CDS			hypothetical protein
+IOLNKBKD_01115	gene			
+IOLNKBKD_01116	CDS			hypothetical protein
+IOLNKBKD_01116	gene			
+IOLNKBKD_01117	CDS			Epimerase family protein
+IOLNKBKD_01117	gene			
+IOLNKBKD_01118	CDS			hypothetical protein
+IOLNKBKD_01118	gene			
+IOLNKBKD_01119	CDS			hypothetical protein
+IOLNKBKD_01119	gene			
+IOLNKBKD_01120	CDS			hypothetical protein
+IOLNKBKD_01120	gene			
+IOLNKBKD_01121	CDS		1.-.-.-	putative FAD-linked oxidoreductase
+IOLNKBKD_01121	gene			
+IOLNKBKD_01122	CDS			hypothetical protein
+IOLNKBKD_01122	gene			
+IOLNKBKD_01123	CDS			hypothetical protein
+IOLNKBKD_01123	gene			
+IOLNKBKD_01124	CDS		3.6.1.-	Nudix hydrolase
+IOLNKBKD_01124	gene			
+IOLNKBKD_01125	CDS	mltD	4.2.2.-	Membrane-bound lytic murein transglycosylase D
+IOLNKBKD_01125	gene	mltD		
+IOLNKBKD_01126	CDS			hypothetical protein
+IOLNKBKD_01126	gene			
+IOLNKBKD_01127	CDS			hypothetical protein
+IOLNKBKD_01127	gene			
+IOLNKBKD_01128	CDS	pstS		Phosphate-binding protein PstS
+IOLNKBKD_01128	gene	pstS		
+IOLNKBKD_01129	CDS	pstC1		Phosphate transport system permease protein PstC 1
+IOLNKBKD_01129	gene	pstC1		
+IOLNKBKD_01130	CDS	pstA_1		Phosphate transport system permease protein PstA
+IOLNKBKD_01130	gene	pstA_1		
+IOLNKBKD_01131	CDS	pstB3_1	3.6.3.27	Phosphate import ATP-binding protein PstB 3
+IOLNKBKD_01131	gene	pstB3_1		
+IOLNKBKD_01132	CDS	phoU_1		Phosphate-specific transport system accessory protein PhoU 
+IOLNKBKD_01132	gene	phoU_1		
+IOLNKBKD_01133	CDS	sfrA_1	1.-.-.-	NADPH-Fe(3+) oxidoreductase subunit alpha
+IOLNKBKD_01133	gene	sfrA_1		
+IOLNKBKD_01134	CDS	nqo8	1.6.5.11	NADH-quinone oxidoreductase subunit 8
+IOLNKBKD_01134	gene	nqo8		
+IOLNKBKD_01135	CDS	nqo9	1.6.5.11	NADH-quinone oxidoreductase subunit 9
+IOLNKBKD_01135	gene	nqo9		
+IOLNKBKD_01136	CDS	nuoJ_4	1.6.5.11	NADH-quinone oxidoreductase subunit J
+IOLNKBKD_01136	gene	nuoJ_4		
+IOLNKBKD_01137	CDS	nuoK	1.6.5.11	NADH-quinone oxidoreductase subunit K
+IOLNKBKD_01137	gene	nuoK		
+IOLNKBKD_01138	CDS			hypothetical protein
+IOLNKBKD_01138	gene			
+IOLNKBKD_01139	CDS	ligA	6.5.1.2	DNA ligase
+IOLNKBKD_01139	gene	ligA		
+IOLNKBKD_01140	CDS	rhlB	3.6.4.13	ATP-dependent RNA helicase RhlB
+IOLNKBKD_01140	gene	rhlB		
+IOLNKBKD_01141	CDS	frdA_1	1.3.5.4	Fumarate reductase flavoprotein subunit
+IOLNKBKD_01141	gene	frdA_1		
+IOLNKBKD_01142	CDS	sdhB_1	1.3.5.-	8-methylmenaquinol:fumarate reductase iron-sulfur subunit
+IOLNKBKD_01142	gene	sdhB_1		
+IOLNKBKD_01143	CDS	sdhE_1	1.3.5.-	8-methylmenaquinol:fumarate reductase membrane anchor subunit
+IOLNKBKD_01143	gene	sdhE_1		
+IOLNKBKD_01144	CDS	sdcS_2		Sodium-dependent dicarboxylate transporter SdcS
+IOLNKBKD_01144	gene	sdcS_2		
+IOLNKBKD_01145	CDS	dnaE	2.7.7.7	DNA polymerase III subunit alpha
+IOLNKBKD_01145	gene	dnaE		
+IOLNKBKD_01146	CDS		3.4.24.-	putative zinc protease
+IOLNKBKD_01146	gene			
+IOLNKBKD_01147	CDS	serC_3	1.97.1.9	Selenate reductase subunit gamma
+IOLNKBKD_01147	gene	serC_3		
+IOLNKBKD_01148	CDS	fetB		putative iron export permease protein FetB
+IOLNKBKD_01148	gene	fetB		
+IOLNKBKD_01149	CDS			hypothetical protein
+IOLNKBKD_01149	gene			
+IOLNKBKD_01150	CDS	ilvD_2	4.2.1.9	Dihydroxy-acid dehydratase
+IOLNKBKD_01150	gene	ilvD_2		
+IOLNKBKD_01151	CDS	rimO_1	2.8.4.4	Ribosomal protein S12 methylthiotransferase RimO
+IOLNKBKD_01151	gene	rimO_1		
+IOLNKBKD_01152	CDS	mutM	3.2.2.23	Formamidopyrimidine-DNA glycosylase
+IOLNKBKD_01152	gene	mutM		
+IOLNKBKD_01153	CDS	grpE_2		Protein GrpE
+IOLNKBKD_01153	gene	grpE_2		
+IOLNKBKD_01154	CDS			hypothetical protein
+IOLNKBKD_01154	gene			
+IOLNKBKD_01155	CDS	yidC_2		Membrane protein insertase YidC
+IOLNKBKD_01155	gene	yidC_2		
+IOLNKBKD_01156	CDS	rnpA_1	3.1.26.5	Ribonuclease P protein component
+IOLNKBKD_01156	gene	rnpA_1		
+IOLNKBKD_01157	CDS			hypothetical protein
+IOLNKBKD_01157	gene			
+IOLNKBKD_01158	CDS	tyrS_2	6.1.1.1	Tyrosine--tRNA ligase
+IOLNKBKD_01158	gene	tyrS_2		
+IOLNKBKD_01159	CDS			hypothetical protein
+IOLNKBKD_01159	gene			
+IOLNKBKD_01160	CDS	ytrF		ABC transporter permease YtrF
+IOLNKBKD_01160	gene	ytrF		
+IOLNKBKD_01161	CDS			hypothetical protein
+IOLNKBKD_01161	gene			
+IOLNKBKD_01162	CDS	recJ	3.1.-.-	Single-stranded-DNA-specific exonuclease RecJ
+IOLNKBKD_01162	gene	recJ		
+IOLNKBKD_01163	CDS	rnhB_2	3.1.26.4	Ribonuclease HII
+IOLNKBKD_01163	gene	rnhB_2		
+IOLNKBKD_01164	CDS	bepA_5	3.4.-.-	Beta-barrel assembly-enhancing protease
+IOLNKBKD_01164	gene	bepA_5		
+IOLNKBKD_01165	CDS	csp		Cold shock-like protein
+IOLNKBKD_01165	gene	csp		
+IOLNKBKD_01166	CDS			hypothetical protein
+IOLNKBKD_01166	gene			
+IOLNKBKD_01167	CDS	loiP_2	3.4.24.-	Metalloprotease LoiP
+IOLNKBKD_01167	gene	loiP_2		
+IOLNKBKD_01168	CDS			hypothetical protein
+IOLNKBKD_01168	gene			
+IOLNKBKD_01169	CDS		5.3.1.29	Putative thiazole biosynthetic enzyme
+IOLNKBKD_01169	gene			
+IOLNKBKD_01170	CDS	fabG_3	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+IOLNKBKD_01170	gene	fabG_3		
+IOLNKBKD_01171	CDS	fabZ_3	4.2.1.59	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+IOLNKBKD_01171	gene	fabZ_3		
+IOLNKBKD_01172	CDS	fabI	1.3.1.39	Enoyl-[acyl-carrier-protein] reductase [NADPH] FabI
+IOLNKBKD_01172	gene	fabI		
+IOLNKBKD_01173	CDS			hypothetical protein
+IOLNKBKD_01173	gene			
+IOLNKBKD_01174	CDS	dinB	2.7.7.7	DNA polymerase IV
+IOLNKBKD_01174	gene	dinB		
+IOLNKBKD_01175	CDS	lexA_2	3.4.21.88	LexA repressor
+IOLNKBKD_01175	gene	lexA_2		
+IOLNKBKD_01176	CDS	arsC	1.20.4.1	Glutaredoxin arsenate reductase
+IOLNKBKD_01176	gene	arsC		
+IOLNKBKD_01177	CDS			hypothetical protein
+IOLNKBKD_01177	gene			
+IOLNKBKD_01178	CDS			hypothetical protein
+IOLNKBKD_01178	gene			
+IOLNKBKD_01179	CDS	ftsN_1		Cell division protein FtsN
+IOLNKBKD_01179	gene	ftsN_1		
+IOLNKBKD_01180	CDS	pyrDB	1.3.1.14	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+IOLNKBKD_01180	gene	pyrDB		
+IOLNKBKD_01181	CDS	truA	5.4.99.12	tRNA pseudouridine synthase A
+IOLNKBKD_01181	gene	truA		
+IOLNKBKD_01182	CDS			hypothetical protein
+IOLNKBKD_01182	gene			
+IOLNKBKD_01183	CDS	yxaF		putative HTH-type transcriptional regulator YxaF
+IOLNKBKD_01183	gene	yxaF		
+IOLNKBKD_01184	CDS			hypothetical protein
+IOLNKBKD_01184	gene			
+IOLNKBKD_01185	CDS			hypothetical protein
+IOLNKBKD_01185	gene			
+IOLNKBKD_01186	CDS			hypothetical protein
+IOLNKBKD_01186	gene			
+IOLNKBKD_01187	CDS			hypothetical protein
+IOLNKBKD_01187	gene			
+IOLNKBKD_01188	CDS			hypothetical protein
+IOLNKBKD_01188	gene			
+IOLNKBKD_01189	CDS	glyS_1	6.1.1.14	Glycine--tRNA ligase beta subunit
+IOLNKBKD_01189	gene	glyS_1		
+IOLNKBKD_01190	CDS	ppdK_2	2.7.9.1	Pyruvate, phosphate dikinase
+IOLNKBKD_01190	gene	ppdK_2		
+IOLNKBKD_01191	CDS	gnu_2	5.1.3.26	N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol 4-epimerase
+IOLNKBKD_01191	gene	gnu_2		
+IOLNKBKD_01192	CDS			hypothetical protein
+IOLNKBKD_01192	gene			
+IOLNKBKD_01193	CDS			hypothetical protein
+IOLNKBKD_01193	gene			
+IOLNKBKD_01194	CDS			hypothetical protein
+IOLNKBKD_01194	gene			
+IOLNKBKD_01195	CDS			hypothetical protein
+IOLNKBKD_01195	gene			
+IOLNKBKD_01196	CDS			hypothetical protein
+IOLNKBKD_01196	gene			
+IOLNKBKD_01197	CDS			hypothetical protein
+IOLNKBKD_01197	gene			
+IOLNKBKD_01198	CDS			hypothetical protein
+IOLNKBKD_01198	gene			
+IOLNKBKD_01199	CDS	ylxH_2		Flagellum site-determining protein YlxH
+IOLNKBKD_01199	gene	ylxH_2		
+IOLNKBKD_01200	CDS			hypothetical protein
+IOLNKBKD_01200	gene			
+IOLNKBKD_01201	CDS	ypeA	2.3.1.-	Acetyltransferase YpeA
+IOLNKBKD_01201	gene	ypeA		
+IOLNKBKD_01202	CDS			hypothetical protein
+IOLNKBKD_01202	gene			
+IOLNKBKD_01203	CDS			Cyclic AMP receptor protein
+IOLNKBKD_01203	gene			
+IOLNKBKD_01204	CDS			hypothetical protein
+IOLNKBKD_01204	gene			
+IOLNKBKD_01205	CDS			hypothetical protein
+IOLNKBKD_01205	gene			
+IOLNKBKD_01206	CDS	bacC_1	1.1.1.385	Dihydroanticapsin 7-dehydrogenase
+IOLNKBKD_01206	gene	bacC_1		
+IOLNKBKD_01207	CDS	gatB_1	6.3.5.-	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+IOLNKBKD_01207	gene	gatB_1		
+IOLNKBKD_01208	CDS	yybR		putative HTH-type transcriptional regulator YybR
+IOLNKBKD_01208	gene	yybR		
+IOLNKBKD_01209	CDS	vsr	3.1.-.-	Very short patch repair protein
+IOLNKBKD_01209	gene	vsr		
+IOLNKBKD_01210	CDS			hypothetical protein
+IOLNKBKD_01210	gene			
+IOLNKBKD_01211	CDS			hypothetical protein
+IOLNKBKD_01211	gene			
+IOLNKBKD_01212	CDS	murG_1	2.4.1.227	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+IOLNKBKD_01212	gene	murG_1		
+IOLNKBKD_01213	CDS	ftsW_1	2.4.1.129	putative peptidoglycan glycosyltransferase FtsW
+IOLNKBKD_01213	gene	ftsW_1		
+IOLNKBKD_01214	CDS	murD_1	6.3.2.9	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+IOLNKBKD_01214	gene	murD_1		
+IOLNKBKD_01215	CDS	mraY_1	2.7.8.13	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+IOLNKBKD_01215	gene	mraY_1		
+IOLNKBKD_01216	CDS	murF_1	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+IOLNKBKD_01216	gene	murF_1		
+IOLNKBKD_01217	CDS	murE_1	6.3.2.13	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+IOLNKBKD_01217	gene	murE_1		
+IOLNKBKD_01218	CDS	spoVD_1		Stage V sporulation protein D
+IOLNKBKD_01218	gene	spoVD_1		
+IOLNKBKD_01219	CDS			hypothetical protein
+IOLNKBKD_01219	gene			
+IOLNKBKD_01220	CDS			hypothetical protein
+IOLNKBKD_01220	gene			
+IOLNKBKD_01221	CDS	hcpC	3.5.2.6	Putative beta-lactamase HcpC
+IOLNKBKD_01221	gene	hcpC		
+IOLNKBKD_01222	CDS			hypothetical protein
+IOLNKBKD_01222	gene			
+IOLNKBKD_01223	CDS	trpE	4.1.3.27	Anthranilate synthase component 1
+IOLNKBKD_01223	gene	trpE		
+IOLNKBKD_01224	CDS	pabA	2.6.1.85	Aminodeoxychorismate/anthranilate synthase component 2
+IOLNKBKD_01224	gene	pabA		
+IOLNKBKD_01225	CDS	trpD_1	2.4.2.18	Anthranilate phosphoribosyltransferase
+IOLNKBKD_01225	gene	trpD_1		
+IOLNKBKD_01226	CDS	trpC	4.1.1.48	Indole-3-glycerol phosphate synthase
+IOLNKBKD_01226	gene	trpC		
+IOLNKBKD_01227	CDS	trpF	5.3.1.24	N-(5'-phosphoribosyl)anthranilate isomerase
+IOLNKBKD_01227	gene	trpF		
+IOLNKBKD_01228	CDS			hypothetical protein
+IOLNKBKD_01228	gene			
+IOLNKBKD_01229	CDS	nirC		Nitrite transporter NirC
+IOLNKBKD_01229	gene	nirC		
+IOLNKBKD_01230	CDS	sir	1.8.7.1	Sulfite reductase [ferredoxin]
+IOLNKBKD_01230	gene	sir		
+IOLNKBKD_01231	CDS	aniA_2	1.7.2.1	Copper-containing nitrite reductase
+IOLNKBKD_01231	gene	aniA_2		
+IOLNKBKD_01232	CDS	ppiA_1	5.2.1.8	Peptidyl-prolyl cis-trans isomerase A
+IOLNKBKD_01232	gene	ppiA_1		
+IOLNKBKD_01233	CDS			hypothetical protein
+IOLNKBKD_01233	gene			
+IOLNKBKD_01234	CDS			hypothetical protein
+IOLNKBKD_01234	gene			
+IOLNKBKD_01235	CDS			hypothetical protein
+IOLNKBKD_01235	gene			
+IOLNKBKD_01236	CDS	msrP_3	1.8.5.-	Protein-methionine-sulfoxide reductase catalytic subunit MsrP
+IOLNKBKD_01236	gene	msrP_3		
+IOLNKBKD_01237	CDS	cutA_2		Divalent-cation tolerance protein CutA
+IOLNKBKD_01237	gene	cutA_2		
+IOLNKBKD_01238	CDS			hypothetical protein
+IOLNKBKD_01238	gene			
+IOLNKBKD_01239	CDS	pkn1_12	2.7.11.1	Serine/threonine-protein kinase pkn1
+IOLNKBKD_01239	gene	pkn1_12		
+IOLNKBKD_01240	CDS	coaBC		Coenzyme A biosynthesis bifunctional protein CoaBC
+IOLNKBKD_01240	gene	coaBC		
+IOLNKBKD_01241	CDS			hypothetical protein
+IOLNKBKD_01241	gene			
+IOLNKBKD_01242	CDS	hspQ		Heat shock protein HspQ
+IOLNKBKD_01242	gene	hspQ		
+IOLNKBKD_01243	CDS	pipB2_3		Secreted effector protein PipB2
+IOLNKBKD_01243	gene	pipB2_3		
+IOLNKBKD_01244	CDS	fom3_4	2.1.1.308	2-hydroxyethylphosphonate methyltransferase
+IOLNKBKD_01244	gene	fom3_4		
+IOLNKBKD_01245	CDS			hypothetical protein
+IOLNKBKD_01245	gene			
+IOLNKBKD_01246	CDS	pgaC	2.4.1.-	Poly-beta-1,6-N-acetyl-D-glucosamine synthase
+IOLNKBKD_01246	gene	pgaC		
+IOLNKBKD_01247	CDS	oppA		Oligopeptide-binding protein OppA
+IOLNKBKD_01247	gene	oppA		
+IOLNKBKD_01248	CDS	hndC	1.12.1.3	NADP-reducing hydrogenase subunit HndC
+IOLNKBKD_01248	gene	hndC		
+IOLNKBKD_01249	CDS	rsxB_3		Electron transport complex subunit RsxB
+IOLNKBKD_01249	gene	rsxB_3		
+IOLNKBKD_01250	CDS			hypothetical protein
+IOLNKBKD_01250	gene			
+IOLNKBKD_01251	CDS			hypothetical protein
+IOLNKBKD_01251	gene			
+IOLNKBKD_01252	CDS			hypothetical protein
+IOLNKBKD_01252	gene			
+IOLNKBKD_01253	CDS			hypothetical protein
+IOLNKBKD_01253	gene			
+IOLNKBKD_01254	CDS	rsmA_1	2.1.1.182	Ribosomal RNA small subunit methyltransferase A
+IOLNKBKD_01254	gene	rsmA_1		
+IOLNKBKD_01255	CDS	pdxA2_1	1.1.1.262	4-hydroxythreonine-4-phosphate dehydrogenase 2
+IOLNKBKD_01255	gene	pdxA2_1		
+IOLNKBKD_01256	CDS	pckA_1	4.1.1.49	Phosphoenolpyruvate carboxykinase (ATP)
+IOLNKBKD_01256	gene	pckA_1		
+IOLNKBKD_01257	CDS	pyrF	4.1.1.23	Orotidine 5'-phosphate decarboxylase
+IOLNKBKD_01257	gene	pyrF		
+IOLNKBKD_01258	CDS			hypothetical protein
+IOLNKBKD_01258	gene			
+IOLNKBKD_01259	CDS	phnE_2		Phosphate-import permease protein PhnE
+IOLNKBKD_01259	gene	phnE_2		
+IOLNKBKD_01260	CDS			hypothetical protein
+IOLNKBKD_01260	gene			
+IOLNKBKD_01261	CDS			hypothetical protein
+IOLNKBKD_01261	gene			
+IOLNKBKD_01262	CDS	ftsE		Cell division ATP-binding protein FtsE
+IOLNKBKD_01262	gene	ftsE		
+IOLNKBKD_01263	CDS	ftsX		Cell division protein FtsX
+IOLNKBKD_01263	gene	ftsX		
+IOLNKBKD_01264	CDS	envC		Murein hydrolase activator EnvC
+IOLNKBKD_01264	gene	envC		
+IOLNKBKD_01265	CDS			hypothetical protein
+IOLNKBKD_01265	gene			
+IOLNKBKD_01266	CDS	zraR		Transcriptional regulatory protein ZraR
+IOLNKBKD_01266	gene	zraR		
+IOLNKBKD_01267	CDS			hypothetical protein
+IOLNKBKD_01267	gene			
+IOLNKBKD_01268	CDS			hypothetical protein
+IOLNKBKD_01268	gene			
+IOLNKBKD_01269	CDS			hypothetical protein
+IOLNKBKD_01269	gene			
+IOLNKBKD_01270	CDS			hypothetical protein
+IOLNKBKD_01270	gene			
+IOLNKBKD_01271	CDS	mauC		Amicyanin
+IOLNKBKD_01271	gene	mauC		
+IOLNKBKD_01272	CDS			hypothetical protein
+IOLNKBKD_01272	gene			
+IOLNKBKD_01273	CDS			hypothetical protein
+IOLNKBKD_01273	gene			
+IOLNKBKD_01274	CDS			hypothetical protein
+IOLNKBKD_01274	gene			
+IOLNKBKD_01275	CDS			hypothetical protein
+IOLNKBKD_01275	gene			
+IOLNKBKD_01276	CDS	ftsZ_2		Cell division protein FtsZ
+IOLNKBKD_01276	gene	ftsZ_2		
+IOLNKBKD_01277	CDS	ftsA		Cell division protein FtsA
+IOLNKBKD_01277	gene	ftsA		
+IOLNKBKD_01278	CDS	ftsQ		Cell division protein FtsQ
+IOLNKBKD_01278	gene	ftsQ		
+IOLNKBKD_01279	CDS	ddlB	6.3.2.4	D-alanine--D-alanine ligase B
+IOLNKBKD_01279	gene	ddlB		
+IOLNKBKD_01280	CDS	murB	1.3.1.98	UDP-N-acetylenolpyruvoylglucosamine reductase
+IOLNKBKD_01280	gene	murB		
+IOLNKBKD_01281	CDS	murC	6.3.2.8	UDP-N-acetylmuramate--L-alanine ligase
+IOLNKBKD_01281	gene	murC		
+IOLNKBKD_01282	CDS	murG_2	2.4.1.227	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+IOLNKBKD_01282	gene	murG_2		
+IOLNKBKD_01283	CDS	ftsW_2	2.4.1.129	putative peptidoglycan glycosyltransferase FtsW
+IOLNKBKD_01283	gene	ftsW_2		
+IOLNKBKD_01284	CDS	murD_2	6.3.2.9	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+IOLNKBKD_01284	gene	murD_2		
+IOLNKBKD_01285	CDS	mraY_2	2.7.8.13	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+IOLNKBKD_01285	gene	mraY_2		
+IOLNKBKD_01286	CDS	murF_2	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+IOLNKBKD_01286	gene	murF_2		
+IOLNKBKD_01287	CDS	murE_2	6.3.2.13	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+IOLNKBKD_01287	gene	murE_2		
+IOLNKBKD_01288	CDS	spoVD_2		Stage V sporulation protein D
+IOLNKBKD_01288	gene	spoVD_2		
+IOLNKBKD_01289	CDS	ftsL		Cell division protein FtsL
+IOLNKBKD_01289	gene	ftsL		
+IOLNKBKD_01290	CDS	rsmH	2.1.1.199	Ribosomal RNA small subunit methyltransferase H
+IOLNKBKD_01290	gene	rsmH		
+IOLNKBKD_01291	CDS	mraZ		Transcriptional regulator MraZ
+IOLNKBKD_01291	gene	mraZ		
+IOLNKBKD_01292	CDS			hypothetical protein
+IOLNKBKD_01292	gene			
+IOLNKBKD_01293	CDS	pth_2	3.1.1.29	Peptidyl-tRNA hydrolase
+IOLNKBKD_01293	gene	pth_2		
+IOLNKBKD_01294	CDS	ctc		General stress protein CTC
+IOLNKBKD_01294	gene	ctc		
+IOLNKBKD_01295	CDS	prs_2	2.7.6.1	Ribose-phosphate pyrophosphokinase
+IOLNKBKD_01295	gene	prs_2		
+IOLNKBKD_01296	tRNA			tRNA-Gln(ttg)
+IOLNKBKD_01296	gene			
+IOLNKBKD_01297	CDS	acsA_1	6.2.1.1	Acetyl-coenzyme A synthetase
+IOLNKBKD_01297	gene	acsA_1		
+IOLNKBKD_01298	CDS			hypothetical protein
+IOLNKBKD_01298	gene			
+IOLNKBKD_01299	CDS	glnE_2		Bifunctional glutamine synthetase adenylyltransferase/adenylyl-removing enzyme
+IOLNKBKD_01299	gene	glnE_2		
+IOLNKBKD_01300	CDS	cimA_2	2.3.1.182	(R)-citramalate synthase
+IOLNKBKD_01300	gene	cimA_2		
+IOLNKBKD_01301	CDS		2.7.2.4	Aspartate kinase
+IOLNKBKD_01301	gene			
+IOLNKBKD_01302	CDS			hypothetical protein
+IOLNKBKD_01302	gene			
+IOLNKBKD_01303	CDS	rbn_3	3.1.26.11	Ribonuclease BN
+IOLNKBKD_01303	gene	rbn_3		
+IOLNKBKD_01304	CDS			hypothetical protein
+IOLNKBKD_01304	gene			
+IOLNKBKD_01305	CDS			hypothetical protein
+IOLNKBKD_01305	gene			
+IOLNKBKD_01306	CDS			hypothetical protein
+IOLNKBKD_01306	gene			
+IOLNKBKD_01307	CDS			hypothetical protein
+IOLNKBKD_01307	gene			
+IOLNKBKD_01308	CDS	yciV_2	3.1.13.-	5'-3' exoribonuclease
+IOLNKBKD_01308	gene	yciV_2		
+IOLNKBKD_01309	CDS	yhdN_4	1.1.1.-	General stress protein 69
+IOLNKBKD_01309	gene	yhdN_4		
+IOLNKBKD_01310	CDS	yhaO_1		putative metallophosphoesterase YhaO
+IOLNKBKD_01310	gene	yhaO_1		
+IOLNKBKD_01311	CDS			hypothetical protein
+IOLNKBKD_01311	gene			
+IOLNKBKD_01312	CDS	nuoL_2	1.6.5.11	NADH-quinone oxidoreductase subunit L
+IOLNKBKD_01312	gene	nuoL_2		
+IOLNKBKD_01313	CDS	wbbL_3	2.4.1.289	N-acetylglucosaminyl-diphospho-decaprenol L-rhamnosyltransferase
+IOLNKBKD_01313	gene	wbbL_3		
+IOLNKBKD_01314	CDS	nadA	2.5.1.72	Quinolinate synthase A
+IOLNKBKD_01314	gene	nadA		
+IOLNKBKD_01315	CDS			hypothetical protein
+IOLNKBKD_01315	gene			
+IOLNKBKD_01316	CDS			hypothetical protein
+IOLNKBKD_01316	gene			
+IOLNKBKD_01317	CDS	fumC_2	4.2.1.2	Fumarate hydratase class II
+IOLNKBKD_01317	gene	fumC_2		
+IOLNKBKD_01318	CDS			hypothetical protein
+IOLNKBKD_01318	gene			
+IOLNKBKD_01319	CDS	ybjJ		Inner membrane protein YbjJ
+IOLNKBKD_01319	gene	ybjJ		
+IOLNKBKD_01320	CDS			hypothetical protein
+IOLNKBKD_01320	gene			
+IOLNKBKD_01321	CDS	dxs_1	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+IOLNKBKD_01321	gene	dxs_1		
+IOLNKBKD_01322	CDS	hisB_1	4.2.1.19	Imidazoleglycerol-phosphate dehydratase
+IOLNKBKD_01322	gene	hisB_1		
+IOLNKBKD_01323	CDS	hisH_1	2.4.2.-	Imidazole glycerol phosphate synthase subunit HisH
+IOLNKBKD_01323	gene	hisH_1		
+IOLNKBKD_01324	CDS			hypothetical protein
+IOLNKBKD_01324	gene			
+IOLNKBKD_01325	CDS	lcfB	6.2.1.3	Long-chain-fatty-acid--CoA ligase
+IOLNKBKD_01325	gene	lcfB		
+IOLNKBKD_01326	CDS	dnaA_2		Chromosomal replication initiator protein DnaA
+IOLNKBKD_01326	gene	dnaA_2		
+IOLNKBKD_01327	CDS			hypothetical protein
+IOLNKBKD_01327	gene			
+IOLNKBKD_01328	CDS	spsI_2		Bifunctional IPC transferase and DIPP synthase
+IOLNKBKD_01328	gene	spsI_2		
+IOLNKBKD_01329	CDS			hypothetical protein
+IOLNKBKD_01329	gene			
+IOLNKBKD_01330	CDS	nuoA_4	1.6.5.11	NADH-quinone oxidoreductase subunit A
+IOLNKBKD_01330	gene	nuoA_4		
+IOLNKBKD_01331	CDS	nqo6_2	1.6.5.11	NADH-quinone oxidoreductase subunit 6
+IOLNKBKD_01331	gene	nqo6_2		
+IOLNKBKD_01332	CDS			hypothetical protein
+IOLNKBKD_01332	gene			
+IOLNKBKD_01333	CDS	prmA_2	2.1.1.-	Ribosomal protein L11 methyltransferase
+IOLNKBKD_01333	gene	prmA_2		
+IOLNKBKD_01334	CDS	yheS_2		putative ABC transporter ATP-binding protein YheS
+IOLNKBKD_01334	gene	yheS_2		
+IOLNKBKD_01335	CDS	dppC_2		Dipeptide transport system permease protein DppC
+IOLNKBKD_01335	gene	dppC_2		
+IOLNKBKD_01336	CDS	gsiC		Glutathione transport system permease protein GsiC
+IOLNKBKD_01336	gene	gsiC		
+IOLNKBKD_01337	CDS			GTP cyclohydrolase 1 type 2 
+IOLNKBKD_01337	gene			
+IOLNKBKD_01338	CDS			hypothetical protein
+IOLNKBKD_01338	gene			
+IOLNKBKD_01339	CDS	cph2		Phytochrome-like protein cph2
+IOLNKBKD_01339	gene	cph2		
+IOLNKBKD_01340	CDS	purN_1	2.1.2.2	Phosphoribosylglycinamide formyltransferase
+IOLNKBKD_01340	gene	purN_1		
+IOLNKBKD_01341	CDS	lolA_1		Outer-membrane lipoprotein carrier protein
+IOLNKBKD_01341	gene	lolA_1		
+IOLNKBKD_01342	CDS		3.4.24.-	Putative zinc metalloprotease
+IOLNKBKD_01342	gene			
+IOLNKBKD_01343	CDS			hypothetical protein
+IOLNKBKD_01343	gene			
+IOLNKBKD_01344	CDS	pphA_1	3.11.1.3	Phosphonopyruvate hydrolase
+IOLNKBKD_01344	gene	pphA_1		
+IOLNKBKD_01345	CDS			hypothetical protein
+IOLNKBKD_01345	gene			
+IOLNKBKD_01346	CDS			hypothetical protein
+IOLNKBKD_01346	gene			
+IOLNKBKD_01347	CDS			hypothetical protein
+IOLNKBKD_01347	gene			
+IOLNKBKD_01348	CDS	hemA	1.2.1.70	Glutamyl-tRNA reductase
+IOLNKBKD_01348	gene	hemA		
+IOLNKBKD_01349	CDS	hemC	2.5.1.61	Porphobilinogen deaminase
+IOLNKBKD_01349	gene	hemC		
+IOLNKBKD_01350	CDS	rocG	1.4.1.2	Catabolic NAD-specific glutamate dehydrogenase RocG
+IOLNKBKD_01350	gene	rocG		
+IOLNKBKD_01351	CDS			hypothetical protein
+IOLNKBKD_01351	gene			
+IOLNKBKD_01352	CDS	albA_1	1.21.98.-	Antilisterial bacteriocin subtilosin biosynthesis protein AlbA
+IOLNKBKD_01352	gene	albA_1		
+IOLNKBKD_01353	CDS	arnC_3	2.4.2.53	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+IOLNKBKD_01353	gene	arnC_3		
+IOLNKBKD_01354	CDS			hypothetical protein
+IOLNKBKD_01354	gene			
+IOLNKBKD_01355	CDS			hypothetical protein
+IOLNKBKD_01355	gene			
+IOLNKBKD_01356	CDS			hypothetical protein
+IOLNKBKD_01356	gene			
+IOLNKBKD_01357	CDS			hypothetical protein
+IOLNKBKD_01357	gene			
+IOLNKBKD_01358	CDS			hypothetical protein
+IOLNKBKD_01358	gene			
+IOLNKBKD_01359	CDS			hypothetical protein
+IOLNKBKD_01359	gene			
+IOLNKBKD_01360	CDS			hypothetical protein
+IOLNKBKD_01360	gene			
+IOLNKBKD_01361	CDS			hypothetical protein
+IOLNKBKD_01361	gene			
+IOLNKBKD_01362	CDS			hypothetical protein
+IOLNKBKD_01362	gene			
+IOLNKBKD_01363	CDS	hxuB_2		Heme/hemopexin transporter protein HuxB
+IOLNKBKD_01363	gene	hxuB_2		
+IOLNKBKD_01364	CDS			Cyclic nucleotide-gated potassium channel
+IOLNKBKD_01364	gene			
+IOLNKBKD_01365	CDS	speE_4	2.5.1.-	Polyamine aminopropyltransferase
+IOLNKBKD_01365	gene	speE_4		
+IOLNKBKD_01366	CDS			hypothetical protein
+IOLNKBKD_01366	gene			
+IOLNKBKD_01367	CDS			hypothetical protein
+IOLNKBKD_01367	gene			
+IOLNKBKD_01368	CDS			hypothetical protein
+IOLNKBKD_01368	gene			
+IOLNKBKD_01369	CDS	trpD_2	2.4.2.18	Anthranilate phosphoribosyltransferase
+IOLNKBKD_01369	gene	trpD_2		
+IOLNKBKD_01370	CDS	tesA_1	3.1.1.1	Esterase TesA
+IOLNKBKD_01370	gene	tesA_1		
+IOLNKBKD_01371	CDS	ycf3_3		Photosystem I assembly protein Ycf3
+IOLNKBKD_01371	gene	ycf3_3		
+IOLNKBKD_01372	CDS			hypothetical protein
+IOLNKBKD_01372	gene			
+IOLNKBKD_01373	CDS			hypothetical protein
+IOLNKBKD_01373	gene			
+IOLNKBKD_01374	CDS	glmU_3	2.3.1.157	Bifunctional protein GlmU
+IOLNKBKD_01374	gene	glmU_3		
+IOLNKBKD_01375	CDS			hypothetical protein
+IOLNKBKD_01375	gene			
+IOLNKBKD_01376	CDS	sufS	2.8.1.7	Cysteine desulfurase
+IOLNKBKD_01376	gene	sufS		
+IOLNKBKD_01377	CDS			Putative lipoprotein/NMB1162
+IOLNKBKD_01377	gene			
+IOLNKBKD_01378	CDS			Putative lipoprotein/NMB1162
+IOLNKBKD_01378	gene			
+IOLNKBKD_01379	CDS			hypothetical protein
+IOLNKBKD_01379	gene			
+IOLNKBKD_01380	tRNA			tRNA-Met(cat)
+IOLNKBKD_01380	gene			
+IOLNKBKD_01381	CDS	fdx_2		Ferredoxin
+IOLNKBKD_01381	gene	fdx_2		
+IOLNKBKD_01382	CDS			hypothetical protein
+IOLNKBKD_01382	gene			
+IOLNKBKD_01383	CDS			hypothetical protein
+IOLNKBKD_01383	gene			
+IOLNKBKD_01384	CDS	dapb3	3.4.14.-	Dipeptidyl aminopeptidase BIII
+IOLNKBKD_01384	gene	dapb3		
+IOLNKBKD_01385	CDS			hypothetical protein
+IOLNKBKD_01385	gene			
+IOLNKBKD_01386	CDS			hypothetical protein
+IOLNKBKD_01386	gene			
+IOLNKBKD_01387	CDS	pkn1_13	2.7.11.1	Serine/threonine-protein kinase pkn1
+IOLNKBKD_01387	gene	pkn1_13		
+IOLNKBKD_01388	CDS	rne	3.1.26.12	Ribonuclease E
+IOLNKBKD_01388	gene	rne		
+IOLNKBKD_01389	CDS			hypothetical protein
+IOLNKBKD_01389	gene			
+IOLNKBKD_01390	CDS			hypothetical protein
+IOLNKBKD_01390	gene			
+IOLNKBKD_01391	CDS			hypothetical protein
+IOLNKBKD_01391	gene			
+IOLNKBKD_01392	CDS			hypothetical protein
+IOLNKBKD_01392	gene			
+IOLNKBKD_01393	CDS	alr1	5.1.1.1	Alanine racemase 1
+IOLNKBKD_01393	gene	alr1		
+IOLNKBKD_01394	CDS	pyrD	1.3.1.14	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+IOLNKBKD_01394	gene	pyrD		
+IOLNKBKD_01395	CDS			hypothetical protein
+IOLNKBKD_01395	gene			
+IOLNKBKD_01396	CDS			hypothetical protein
+IOLNKBKD_01396	gene			
+IOLNKBKD_01397	CDS	pheS_2	6.1.1.20	Phenylalanine--tRNA ligase alpha subunit
+IOLNKBKD_01397	gene	pheS_2		
+IOLNKBKD_01398	CDS	rplT		50S ribosomal protein L20
+IOLNKBKD_01398	gene	rplT		
+IOLNKBKD_01399	CDS	rpmI		50S ribosomal protein L35
+IOLNKBKD_01399	gene	rpmI		
+IOLNKBKD_01400	CDS	infC		Translation initiation factor IF-3
+IOLNKBKD_01400	gene	infC		
+IOLNKBKD_01401	CDS	thrS	6.1.1.3	Threonine--tRNA ligase
+IOLNKBKD_01401	gene	thrS		
+IOLNKBKD_01402	CDS	queD_2	4.1.2.50	6-carboxy-5,6,7,8-tetrahydropterin synthase
+IOLNKBKD_01402	gene	queD_2		
+IOLNKBKD_01403	CDS	bioA	2.6.1.62	Adenosylmethionine-8-amino-7-oxononanoate aminotransferase
+IOLNKBKD_01403	gene	bioA		
+IOLNKBKD_01404	CDS	hcnC	1.4.99.5	Hydrogen cyanide synthase subunit HcnC
+IOLNKBKD_01404	gene	hcnC		
+IOLNKBKD_01405	CDS			hypothetical protein
+IOLNKBKD_01405	gene			
+IOLNKBKD_01406	CDS	pyk_2	2.7.1.40	Pyruvate kinase
+IOLNKBKD_01406	gene	pyk_2		
+IOLNKBKD_01407	CDS			hypothetical protein
+IOLNKBKD_01407	gene			
+IOLNKBKD_01408	CDS			hypothetical protein
+IOLNKBKD_01408	gene			
+IOLNKBKD_01409	CDS			hypothetical protein
+IOLNKBKD_01409	gene			
+IOLNKBKD_01410	CDS	hspA		Spore protein SP21
+IOLNKBKD_01410	gene	hspA		
+IOLNKBKD_01411	CDS	ydgH		Putative membrane protein YdgH
+IOLNKBKD_01411	gene	ydgH		
+IOLNKBKD_01412	CDS			hypothetical protein
+IOLNKBKD_01412	gene			
+IOLNKBKD_01413	CDS	nucH	3.1.31.1	Thermonuclease
+IOLNKBKD_01413	gene	nucH		
+IOLNKBKD_01414	CDS			hypothetical protein
+IOLNKBKD_01414	gene			
+IOLNKBKD_01415	CDS			hypothetical protein
+IOLNKBKD_01415	gene			
+IOLNKBKD_01416	CDS	carB	6.3.5.5	Carbamoyl-phosphate synthase large chain
+IOLNKBKD_01416	gene	carB		
+IOLNKBKD_01417	CDS	gltA2	2.3.3.16	Citrate synthase 1
+IOLNKBKD_01417	gene	gltA2		
+IOLNKBKD_01418	CDS	clpS		ATP-dependent Clp protease adapter protein ClpS
+IOLNKBKD_01418	gene	clpS		
+IOLNKBKD_01419	CDS			hypothetical protein
+IOLNKBKD_01419	gene			
+IOLNKBKD_01420	CDS			hypothetical protein
+IOLNKBKD_01420	gene			
+IOLNKBKD_01421	CDS	actP_2	3.6.3.4	Copper-transporting P-type ATPase
+IOLNKBKD_01421	gene	actP_2		
+IOLNKBKD_01422	CDS	uvrC_2		UvrABC system protein C
+IOLNKBKD_01422	gene	uvrC_2		
+IOLNKBKD_01423	CDS			hypothetical protein
+IOLNKBKD_01423	gene			
+IOLNKBKD_01424	CDS			hypothetical protein
+IOLNKBKD_01424	gene			
+IOLNKBKD_01425	CDS			hypothetical protein
+IOLNKBKD_01425	gene			
+IOLNKBKD_01426	CDS	clpC_2		Negative regulator of genetic competence ClpC/MecB
+IOLNKBKD_01426	gene	clpC_2		
+IOLNKBKD_01427	CDS			hypothetical protein
+IOLNKBKD_01427	gene			
+IOLNKBKD_01428	CDS	metH	2.1.1.13	Methionine synthase
+IOLNKBKD_01428	gene	metH		
+IOLNKBKD_01429	CDS	nuoF_2	1.6.5.11	NADH-quinone oxidoreductase subunit F
+IOLNKBKD_01429	gene	nuoF_2		
+IOLNKBKD_01430	CDS			hypothetical protein
+IOLNKBKD_01430	gene			
+IOLNKBKD_01431	CDS	relA_2	2.7.6.5	GTP pyrophosphokinase
+IOLNKBKD_01431	gene	relA_2		
+IOLNKBKD_01432	CDS	rpmB		50S ribosomal protein L28
+IOLNKBKD_01432	gene	rpmB		
+IOLNKBKD_01433	CDS			hypothetical protein
+IOLNKBKD_01433	gene			
+IOLNKBKD_01434	CDS			hypothetical protein
+IOLNKBKD_01434	gene			
+IOLNKBKD_01435	CDS	rimP_2		Ribosome maturation factor RimP
+IOLNKBKD_01435	gene	rimP_2		
+IOLNKBKD_01436	CDS	proS	6.1.1.15	Proline--tRNA ligase
+IOLNKBKD_01436	gene	proS		
+IOLNKBKD_01437	CDS	pphA_2	3.11.1.3	Phosphonopyruvate hydrolase
+IOLNKBKD_01437	gene	pphA_2		
+IOLNKBKD_01438	CDS			hypothetical protein
+IOLNKBKD_01438	gene			
+IOLNKBKD_01439	CDS		3.4.24.-	Putative zinc metalloprotease
+IOLNKBKD_01439	gene			
+IOLNKBKD_01440	CDS	lolA_2		Outer-membrane lipoprotein carrier protein
+IOLNKBKD_01440	gene	lolA_2		
+IOLNKBKD_01441	CDS	purN_2	2.1.2.2	Phosphoribosylglycinamide formyltransferase
+IOLNKBKD_01441	gene	purN_2		
+IOLNKBKD_01442	CDS			hypothetical protein
+IOLNKBKD_01442	gene			
+IOLNKBKD_01443	CDS	yxeN		putative amino-acid permease protein YxeN
+IOLNKBKD_01443	gene	yxeN		
+IOLNKBKD_01444	CDS	glnH		Glutamine-binding periplasmic protein
+IOLNKBKD_01444	gene	glnH		
+IOLNKBKD_01445	CDS	potA_1	3.6.3.31	Spermidine/putrescine import ATP-binding protein PotA
+IOLNKBKD_01445	gene	potA_1		
+IOLNKBKD_01446	CDS	purD_2	6.3.4.13	Phosphoribosylamine--glycine ligase
+IOLNKBKD_01446	gene	purD_2		
+IOLNKBKD_01447	CDS			hypothetical protein
+IOLNKBKD_01447	gene			
+IOLNKBKD_01448	CDS			hypothetical protein
+IOLNKBKD_01448	gene			
+IOLNKBKD_01449	CDS			hypothetical protein
+IOLNKBKD_01449	gene			
+IOLNKBKD_01450	CDS	iscS	2.8.1.7	Cysteine desulfurase IscS
+IOLNKBKD_01450	gene	iscS		
+IOLNKBKD_01451	CDS	ubiX	2.5.1.129	Flavin prenyltransferase UbiX
+IOLNKBKD_01451	gene	ubiX		
+IOLNKBKD_01452	CDS	tmk	2.7.4.9	Thymidylate kinase
+IOLNKBKD_01452	gene	tmk		
+IOLNKBKD_01453	CDS	rpfG_1	3.1.4.52	Cyclic di-GMP phosphodiesterase response regulator RpfG
+IOLNKBKD_01453	gene	rpfG_1		
+IOLNKBKD_01454	CDS	mcpQ		Methyl-accepting chemotaxis protein McpQ
+IOLNKBKD_01454	gene	mcpQ		
+IOLNKBKD_01455	CDS			hypothetical protein
+IOLNKBKD_01455	gene			
+IOLNKBKD_01456	CDS			hypothetical protein
+IOLNKBKD_01456	gene			
+IOLNKBKD_01457	CDS	mpa		Proteasome-associated ATPase
+IOLNKBKD_01457	gene	mpa		
+IOLNKBKD_01458	CDS	dop	3.4.-.-	Depupylase
+IOLNKBKD_01458	gene	dop		
+IOLNKBKD_01459	CDS	ubiG_1	2.1.1.222	Ubiquinone biosynthesis O-methyltransferase
+IOLNKBKD_01459	gene	ubiG_1		
+IOLNKBKD_01460	CDS			hypothetical protein
+IOLNKBKD_01460	gene			
+IOLNKBKD_01461	CDS	pleD		Response regulator PleD
+IOLNKBKD_01461	gene	pleD		
+IOLNKBKD_01462	CDS			hypothetical protein
+IOLNKBKD_01462	gene			
+IOLNKBKD_01463	CDS			hypothetical protein
+IOLNKBKD_01463	gene			
+IOLNKBKD_01464	CDS			hypothetical protein
+IOLNKBKD_01464	gene			
+IOLNKBKD_01465	CDS	rsxB_4		Electron transport complex subunit RsxB
+IOLNKBKD_01465	gene	rsxB_4		
+IOLNKBKD_01466	CDS			hypothetical protein
+IOLNKBKD_01466	gene			
+IOLNKBKD_01467	CDS			hypothetical protein
+IOLNKBKD_01467	gene			
+IOLNKBKD_01468	CDS	xseA_2	3.1.11.6	Exodeoxyribonuclease 7 large subunit
+IOLNKBKD_01468	gene	xseA_2		
+IOLNKBKD_01469	CDS	folD_2		Bifunctional protein FolD protein
+IOLNKBKD_01469	gene	folD_2		
+IOLNKBKD_01470	CDS	glrR		Transcriptional regulatory protein GlrR
+IOLNKBKD_01470	gene	glrR		
+IOLNKBKD_01471	CDS	yrrB_3		TPR repeat-containing protein YrrB
+IOLNKBKD_01471	gene	yrrB_3		
+IOLNKBKD_01472	CDS	yrbG_2		Inner membrane protein YrbG
+IOLNKBKD_01472	gene	yrbG_2		
+IOLNKBKD_01473	CDS			hypothetical protein
+IOLNKBKD_01473	gene			
+IOLNKBKD_01474	CDS			hypothetical protein
+IOLNKBKD_01474	gene			
+IOLNKBKD_01475	CDS	glnB_1		Nitrogen regulatory protein P-II
+IOLNKBKD_01475	gene	glnB_1		
+IOLNKBKD_01476	CDS			hypothetical protein
+IOLNKBKD_01476	gene			
+IOLNKBKD_01477	CDS	proC_1	1.5.1.2	Pyrroline-5-carboxylate reductase
+IOLNKBKD_01477	gene	proC_1		
+IOLNKBKD_01478	CDS			hypothetical protein
+IOLNKBKD_01478	gene			
+IOLNKBKD_01479	CDS			hypothetical protein
+IOLNKBKD_01479	gene			
+IOLNKBKD_01480	CDS	mreC		Cell shape-determining protein MreC
+IOLNKBKD_01480	gene	mreC		
+IOLNKBKD_01481	CDS	mreB_2		Rod shape-determining protein MreB
+IOLNKBKD_01481	gene	mreB_2		
+IOLNKBKD_01482	CDS	ppiD	5.2.1.8	Peptidyl-prolyl cis-trans isomerase D
+IOLNKBKD_01482	gene	ppiD		
+IOLNKBKD_01483	CDS	thiDN		Bifunctional thiamine biosynthesis protein ThiDN
+IOLNKBKD_01483	gene	thiDN		
+IOLNKBKD_01484	CDS	elbB	4.2.1.-	Glyoxalase ElbB
+IOLNKBKD_01484	gene	elbB		
+IOLNKBKD_01485	CDS	rfbB	4.2.1.46	dTDP-glucose 4,6-dehydratase
+IOLNKBKD_01485	gene	rfbB		
+IOLNKBKD_01486	CDS			hypothetical protein
+IOLNKBKD_01486	gene			
+IOLNKBKD_01487	CDS	albA_2	1.21.98.-	Antilisterial bacteriocin subtilosin biosynthesis protein AlbA
+IOLNKBKD_01487	gene	albA_2		
+IOLNKBKD_01488	CDS	arnC_4	2.4.2.53	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+IOLNKBKD_01488	gene	arnC_4		
+IOLNKBKD_01489	CDS			hypothetical protein
+IOLNKBKD_01489	gene			
+IOLNKBKD_01490	CDS	sfrA_2	1.-.-.-	NADPH-Fe(3+) oxidoreductase subunit alpha
+IOLNKBKD_01490	gene	sfrA_2		
+IOLNKBKD_01491	CDS	nqo4_2	1.6.5.11	NADH-quinone oxidoreductase subunit 4
+IOLNKBKD_01491	gene	nqo4_2		
+IOLNKBKD_01492	CDS			hypothetical protein
+IOLNKBKD_01492	gene			
+IOLNKBKD_01493	CDS		1.1.1.119	Glucose 1-dehydrogenase
+IOLNKBKD_01493	gene			
+IOLNKBKD_01494	CDS	msrP_4	1.8.5.-	Protein-methionine-sulfoxide reductase catalytic subunit MsrP
+IOLNKBKD_01494	gene	msrP_4		
+IOLNKBKD_01495	CDS	pkn1_14	2.7.11.1	Serine/threonine-protein kinase pkn1
+IOLNKBKD_01495	gene	pkn1_14		
+IOLNKBKD_01496	CDS			hypothetical protein
+IOLNKBKD_01496	gene			
+IOLNKBKD_01497	CDS			hypothetical protein
+IOLNKBKD_01497	gene			
+IOLNKBKD_01498	CDS	divK		Polar-differentiation response regulator DivK
+IOLNKBKD_01498	gene	divK		
+IOLNKBKD_01499	CDS			hypothetical protein
+IOLNKBKD_01499	gene			
+IOLNKBKD_01500	CDS	rpsT		30S ribosomal protein S20
+IOLNKBKD_01500	gene	rpsT		
+IOLNKBKD_01501	CDS			hypothetical protein
+IOLNKBKD_01501	gene			
+IOLNKBKD_01502	CDS			hypothetical protein
+IOLNKBKD_01502	gene			
+IOLNKBKD_01503	CDS	leuS_1	6.1.1.4	Leucine--tRNA ligase
+IOLNKBKD_01503	gene	leuS_1		
+IOLNKBKD_01504	CDS	putP		High-affinity proline transporter PutP
+IOLNKBKD_01504	gene	putP		
+IOLNKBKD_01505	CDS	waaA_1	2.4.99.12	3-deoxy-D-manno-octulosonic acid transferase
+IOLNKBKD_01505	gene	waaA_1		
+IOLNKBKD_01506	CDS	waaA_2	2.4.99.12	3-deoxy-D-manno-octulosonic acid transferase
+IOLNKBKD_01506	gene	waaA_2		
+IOLNKBKD_01507	CDS	lpxK	2.7.1.130	Tetraacyldisaccharide 4'-kinase
+IOLNKBKD_01507	gene	lpxK		
+IOLNKBKD_01508	CDS			hypothetical protein
+IOLNKBKD_01508	gene			
+IOLNKBKD_01509	CDS			hypothetical protein
+IOLNKBKD_01509	gene			
+IOLNKBKD_01510	CDS	cysS	6.1.1.16	Cysteine--tRNA ligase
+IOLNKBKD_01510	gene	cysS		
+IOLNKBKD_01511	CDS	bepA_6	3.4.-.-	Beta-barrel assembly-enhancing protease
+IOLNKBKD_01511	gene	bepA_6		
+IOLNKBKD_01512	CDS	dcd_1	3.5.4.13	dCTP deaminase
+IOLNKBKD_01512	gene	dcd_1		
+IOLNKBKD_01513	CDS	scpB_1		Segregation and condensation protein B 
+IOLNKBKD_01513	gene	scpB_1		
+IOLNKBKD_01514	CDS	rluB_1	5.4.99.22	Ribosomal large subunit pseudouridine synthase B
+IOLNKBKD_01514	gene	rluB_1		
+IOLNKBKD_01515	CDS			hypothetical protein
+IOLNKBKD_01515	gene			
+IOLNKBKD_01516	CDS	tqsA_1		AI-2 transport protein TqsA
+IOLNKBKD_01516	gene	tqsA_1		
+IOLNKBKD_01517	CDS	rplE		50S ribosomal protein L5
+IOLNKBKD_01517	gene	rplE		
+IOLNKBKD_01518	CDS	rplX		50S ribosomal protein L24
+IOLNKBKD_01518	gene	rplX		
+IOLNKBKD_01519	CDS	rplN		50S ribosomal protein L14
+IOLNKBKD_01519	gene	rplN		
+IOLNKBKD_01520	CDS	rpsQ		30S ribosomal protein S17
+IOLNKBKD_01520	gene	rpsQ		
+IOLNKBKD_01521	CDS	rpmC		50S ribosomal protein L29
+IOLNKBKD_01521	gene	rpmC		
+IOLNKBKD_01522	CDS	rplP		50S ribosomal protein L16
+IOLNKBKD_01522	gene	rplP		
+IOLNKBKD_01523	CDS	rpsC		30S ribosomal protein S3
+IOLNKBKD_01523	gene	rpsC		
+IOLNKBKD_01524	CDS	rplV		50S ribosomal protein L22
+IOLNKBKD_01524	gene	rplV		
+IOLNKBKD_01525	CDS	modA_2		Molybdate-binding periplasmic protein
+IOLNKBKD_01525	gene	modA_2		
+IOLNKBKD_01526	CDS	cysT		Sulfate transport system permease protein CysT
+IOLNKBKD_01526	gene	cysT		
+IOLNKBKD_01527	CDS	cysA_2	3.6.3.25	Sulfate/thiosulfate import ATP-binding protein CysA
+IOLNKBKD_01527	gene	cysA_2		
+IOLNKBKD_01528	CDS			hypothetical protein
+IOLNKBKD_01528	gene			
+IOLNKBKD_01529	CDS			hypothetical protein
+IOLNKBKD_01529	gene			
+IOLNKBKD_01530	CDS	pcrA_2	3.6.4.12	ATP-dependent DNA helicase PcrA
+IOLNKBKD_01530	gene	pcrA_2		
+IOLNKBKD_01531	CDS			hypothetical protein
+IOLNKBKD_01531	gene			
+IOLNKBKD_01532	CDS	hflX_2		GTPase HflX
+IOLNKBKD_01532	gene	hflX_2		
+IOLNKBKD_01533	CDS			hypothetical protein
+IOLNKBKD_01533	gene			
+IOLNKBKD_01534	CDS			hypothetical protein
+IOLNKBKD_01534	gene			
+IOLNKBKD_01535	CDS			hypothetical protein
+IOLNKBKD_01535	gene			
+IOLNKBKD_01536	CDS			hypothetical protein
+IOLNKBKD_01536	gene			
+IOLNKBKD_01537	CDS	glyQ	6.1.1.14	Glycine--tRNA ligase alpha subunit
+IOLNKBKD_01537	gene	glyQ		
+IOLNKBKD_01538	CDS			hypothetical protein
+IOLNKBKD_01538	gene			
+IOLNKBKD_01539	CDS			hypothetical protein
+IOLNKBKD_01539	gene			
+IOLNKBKD_01540	CDS	trmFO_1	2.1.1.74	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO
+IOLNKBKD_01540	gene	trmFO_1		
+IOLNKBKD_01541	CDS	topA	5.99.1.2	DNA topoisomerase 1
+IOLNKBKD_01541	gene	topA		
+IOLNKBKD_01542	CDS	dprA		DNA processing protein DprA
+IOLNKBKD_01542	gene	dprA		
+IOLNKBKD_01543	CDS	cysO		Sulfur carrier protein CysO
+IOLNKBKD_01543	gene	cysO		
+IOLNKBKD_01544	CDS	thrC_2	4.2.3.1	Threonine synthase
+IOLNKBKD_01544	gene	thrC_2		
+IOLNKBKD_01545	CDS	cysK	2.5.1.47	Cysteine synthase
+IOLNKBKD_01545	gene	cysK		
+IOLNKBKD_01546	CDS	outD		Type II secretion system protein D
+IOLNKBKD_01546	gene	outD		
+IOLNKBKD_01547	CDS	spsI_3		Bifunctional IPC transferase and DIPP synthase
+IOLNKBKD_01547	gene	spsI_3		
+IOLNKBKD_01548	CDS	dinG	3.6.4.12	putative ATP-dependent helicase DinG 
+IOLNKBKD_01548	gene	dinG		
+IOLNKBKD_01549	CDS			hypothetical protein
+IOLNKBKD_01549	gene			
+IOLNKBKD_01550	CDS			hypothetical protein
+IOLNKBKD_01550	gene			
+IOLNKBKD_01551	CDS		2.6.1.1	Aspartate aminotransferase
+IOLNKBKD_01551	gene			
+IOLNKBKD_01552	CDS	lnt_1	2.3.1.-	Apolipoprotein N-acyltransferase
+IOLNKBKD_01552	gene	lnt_1		
+IOLNKBKD_01553	CDS			hypothetical protein
+IOLNKBKD_01553	gene			
+IOLNKBKD_01554	CDS			hypothetical protein
+IOLNKBKD_01554	gene			
+IOLNKBKD_01555	CDS			hypothetical protein
+IOLNKBKD_01555	gene			
+IOLNKBKD_01556	CDS	epsF_2		Type II secretion system protein F
+IOLNKBKD_01556	gene	epsF_2		
+IOLNKBKD_01557	CDS			hypothetical protein
+IOLNKBKD_01557	gene			
+IOLNKBKD_01558	CDS			hypothetical protein
+IOLNKBKD_01558	gene			
+IOLNKBKD_01559	CDS	pilT		Twitching mobility protein
+IOLNKBKD_01559	gene	pilT		
+IOLNKBKD_01560	CDS	yrrB_4		TPR repeat-containing protein YrrB
+IOLNKBKD_01560	gene	yrrB_4		
+IOLNKBKD_01561	CDS			hypothetical protein
+IOLNKBKD_01561	gene			
+IOLNKBKD_01562	CDS	proB_1	2.7.2.11	Glutamate 5-kinase
+IOLNKBKD_01562	gene	proB_1		
+IOLNKBKD_01563	CDS	rtxA	3.4.22.-	Multifunctional-autoprocessing repeats-in-toxin
+IOLNKBKD_01563	gene	rtxA		
+IOLNKBKD_01564	CDS			hypothetical protein
+IOLNKBKD_01564	gene			
+IOLNKBKD_01565	CDS			hypothetical protein
+IOLNKBKD_01565	gene			
+IOLNKBKD_01566	CDS	kdsA	2.5.1.55	2-dehydro-3-deoxyphosphooctonate aldolase
+IOLNKBKD_01566	gene	kdsA		
+IOLNKBKD_01567	CDS	parB_2		putative chromosome-partitioning protein ParB
+IOLNKBKD_01567	gene	parB_2		
+IOLNKBKD_01568	CDS			hypothetical protein
+IOLNKBKD_01568	gene			
+IOLNKBKD_01569	CDS	rsmI_2	2.1.1.198	Ribosomal RNA small subunit methyltransferase I
+IOLNKBKD_01569	gene	rsmI_2		
+IOLNKBKD_01570	CDS			hypothetical protein
+IOLNKBKD_01570	gene			
+IOLNKBKD_01571	CDS			hypothetical protein
+IOLNKBKD_01571	gene			
+IOLNKBKD_01572	CDS	ptrA_2	3.4.24.55	Protease 3
+IOLNKBKD_01572	gene	ptrA_2		
+IOLNKBKD_01573	CDS	dnaG_2	2.7.7.-	DNA primase
+IOLNKBKD_01573	gene	dnaG_2		
+IOLNKBKD_01574	CDS	rpoD_2		RNA polymerase sigma factor RpoD
+IOLNKBKD_01574	gene	rpoD_2		
+IOLNKBKD_01575	tRNA			tRNA-Met(cat)
+IOLNKBKD_01575	gene			
+IOLNKBKD_01576	CDS			hypothetical protein
+IOLNKBKD_01576	gene			
+IOLNKBKD_01577	CDS	glnB_2		Nitrogen regulatory protein P-II
+IOLNKBKD_01577	gene	glnB_2		
+IOLNKBKD_01578	CDS			hypothetical protein
+IOLNKBKD_01578	gene			
+IOLNKBKD_01579	CDS	proC_2	1.5.1.2	Pyrroline-5-carboxylate reductase
+IOLNKBKD_01579	gene	proC_2		
+IOLNKBKD_01580	CDS	rpsU_1		30S ribosomal protein S21
+IOLNKBKD_01580	gene	rpsU_1		
+IOLNKBKD_01581	CDS		2.1.1.-	Putative TrmH family tRNA/rRNA methyltransferase
+IOLNKBKD_01581	gene			
+IOLNKBKD_01582	CDS			hypothetical protein
+IOLNKBKD_01582	gene			
+IOLNKBKD_01583	CDS			hypothetical protein
+IOLNKBKD_01583	gene			
+IOLNKBKD_01584	CDS			hypothetical protein
+IOLNKBKD_01584	gene			
+IOLNKBKD_01585	CDS	mmpL2		putative transport protein MmpL2
+IOLNKBKD_01585	gene	mmpL2		
+IOLNKBKD_01586	CDS			hypothetical protein
+IOLNKBKD_01586	gene			
+IOLNKBKD_01587	CDS	hrp1		Hypoxic response protein 1
+IOLNKBKD_01587	gene	hrp1		
+IOLNKBKD_01588	CDS	btrV		Putative anti-sigma factor antagonist BtrV
+IOLNKBKD_01588	gene	btrV		
+IOLNKBKD_01589	tRNA			tRNA-Tyr(gta)
+IOLNKBKD_01589	gene			
+IOLNKBKD_01590	tRNA			tRNA-Gly(tcc)
+IOLNKBKD_01590	gene			
+IOLNKBKD_01591	tRNA			tRNA-Thr(ggt)
+IOLNKBKD_01591	gene			
+IOLNKBKD_01592	tRNA			tRNA-Trp(cca)
+IOLNKBKD_01592	gene			
+IOLNKBKD_01593	CDS	secE		Protein translocase subunit SecE
+IOLNKBKD_01593	gene	secE		
+IOLNKBKD_01594	CDS	nusG		Transcription termination/antitermination protein NusG
+IOLNKBKD_01594	gene	nusG		
+IOLNKBKD_01595	CDS	rplK		50S ribosomal protein L11
+IOLNKBKD_01595	gene	rplK		
+IOLNKBKD_01596	CDS	rplA_1		50S ribosomal protein L1
+IOLNKBKD_01596	gene	rplA_1		
+IOLNKBKD_01597	CDS	rplJ_1		50S ribosomal protein L10
+IOLNKBKD_01597	gene	rplJ_1		
+IOLNKBKD_01598	CDS	rplL_1		50S ribosomal protein L7/L12
+IOLNKBKD_01598	gene	rplL_1		
+IOLNKBKD_01599	CDS			hypothetical protein
+IOLNKBKD_01599	gene			
+IOLNKBKD_01600	CDS	acpS_2	2.7.8.7	Holo-[acyl-carrier-protein] synthase
+IOLNKBKD_01600	gene	acpS_2		
+IOLNKBKD_01601	CDS		2.7.7.87	Putative threonylcarbamoyl-AMP synthase
+IOLNKBKD_01601	gene			
+IOLNKBKD_01602	CDS	egtB_1	1.14.99.-	Hercynine oxygenase
+IOLNKBKD_01602	gene	egtB_1		
+IOLNKBKD_01603	CDS	hisC2_2	2.6.1.9	Histidinol-phosphate aminotransferase 2
+IOLNKBKD_01603	gene	hisC2_2		
+IOLNKBKD_01604	CDS	mltG	4.2.2.-	Endolytic murein transglycosylase
+IOLNKBKD_01604	gene	mltG		
+IOLNKBKD_01605	CDS			hypothetical protein
+IOLNKBKD_01605	gene			
+IOLNKBKD_01606	CDS	pipB2_4		Secreted effector protein PipB2
+IOLNKBKD_01606	gene	pipB2_4		
+IOLNKBKD_01607	CDS			hypothetical protein
+IOLNKBKD_01607	gene			
+IOLNKBKD_01608	CDS	frdB_1	1.3.5.1	Fumarate reductase iron-sulfur subunit
+IOLNKBKD_01608	gene	frdB_1		
+IOLNKBKD_01609	CDS	sdhA	1.3.5.-	8-methylmenaquinol:fumarate reductase flavoprotein subunit
+IOLNKBKD_01609	gene	sdhA		
+IOLNKBKD_01610	CDS	sdhC_1		Succinate dehydrogenase cytochrome b558 subunit
+IOLNKBKD_01610	gene	sdhC_1		
+IOLNKBKD_01611	CDS			hypothetical protein
+IOLNKBKD_01611	gene			
+IOLNKBKD_01612	CDS	leuS_2	6.1.1.4	Leucine--tRNA ligase
+IOLNKBKD_01612	gene	leuS_2		
+IOLNKBKD_01613	CDS	lptE		LPS-assembly lipoprotein LptE
+IOLNKBKD_01613	gene	lptE		
+IOLNKBKD_01614	CDS			hypothetical protein
+IOLNKBKD_01614	gene			
+IOLNKBKD_01615	tRNA			tRNA-Glu(ttc)
+IOLNKBKD_01615	gene			
+IOLNKBKD_01616	tRNA			tRNA-Lys(ttt)
+IOLNKBKD_01616	gene			
+IOLNKBKD_01617	CDS	ilvE	2.6.1.42	Branched-chain-amino-acid aminotransferase
+IOLNKBKD_01617	gene	ilvE		
+IOLNKBKD_01618	CDS			hypothetical protein
+IOLNKBKD_01618	gene			
+IOLNKBKD_01619	CDS	kinE	2.7.13.3	Sporulation kinase E
+IOLNKBKD_01619	gene	kinE		
+IOLNKBKD_01620	CDS	mdh_2	1.1.1.37	Malate dehydrogenase
+IOLNKBKD_01620	gene	mdh_2		
+IOLNKBKD_01621	CDS			hypothetical protein
+IOLNKBKD_01621	gene			
+IOLNKBKD_01622	CDS			hypothetical protein
+IOLNKBKD_01622	gene			
+IOLNKBKD_01623	CDS	bicA		Bicarbonate transporter BicA
+IOLNKBKD_01623	gene	bicA		
+IOLNKBKD_01624	CDS	guaB_2	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+IOLNKBKD_01624	gene	guaB_2		
+IOLNKBKD_01625	CDS			hypothetical protein
+IOLNKBKD_01625	gene			
+IOLNKBKD_01626	CDS			hypothetical protein
+IOLNKBKD_01626	gene			
+IOLNKBKD_01627	CDS	clpC_3		Negative regulator of genetic competence ClpC/MecB
+IOLNKBKD_01627	gene	clpC_3		
+IOLNKBKD_01628	CDS			hypothetical protein
+IOLNKBKD_01628	gene			
+IOLNKBKD_01629	CDS			hypothetical protein
+IOLNKBKD_01629	gene			
+IOLNKBKD_01630	CDS	ychF_2		Ribosome-binding ATPase YchF
+IOLNKBKD_01630	gene	ychF_2		
+IOLNKBKD_01631	CDS	vgb_3	4.2.99.-	Virginiamycin B lyase
+IOLNKBKD_01631	gene	vgb_3		
+IOLNKBKD_01632	CDS	pepA_1	3.4.11.1	Cytosol aminopeptidase
+IOLNKBKD_01632	gene	pepA_1		
+IOLNKBKD_01633	CDS			hypothetical protein
+IOLNKBKD_01633	gene			
+IOLNKBKD_01634	CDS			hypothetical protein
+IOLNKBKD_01634	gene			
+IOLNKBKD_01635	CDS			hypothetical protein
+IOLNKBKD_01635	gene			
+IOLNKBKD_01636	CDS	arnB_2	2.6.1.87	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+IOLNKBKD_01636	gene	arnB_2		
+IOLNKBKD_01637	CDS	bepA_7	3.4.-.-	Beta-barrel assembly-enhancing protease
+IOLNKBKD_01637	gene	bepA_7		
+IOLNKBKD_01638	CDS	parB_3		putative chromosome-partitioning protein ParB
+IOLNKBKD_01638	gene	parB_3		
+IOLNKBKD_01639	CDS	pkn1_15	2.7.11.1	Serine/threonine-protein kinase pkn1
+IOLNKBKD_01639	gene	pkn1_15		
+IOLNKBKD_01640	CDS			hypothetical protein
+IOLNKBKD_01640	gene			
+IOLNKBKD_01641	CDS			hypothetical protein
+IOLNKBKD_01641	gene			
+IOLNKBKD_01642	CDS	nudL_2	3.6.1.-	putative Nudix hydrolase NudL
+IOLNKBKD_01642	gene	nudL_2		
+IOLNKBKD_01643	CDS	mgsR_2		Regulatory protein MgsR
+IOLNKBKD_01643	gene	mgsR_2		
+IOLNKBKD_01644	CDS	smc		Chromosome partition protein Smc
+IOLNKBKD_01644	gene	smc		
+IOLNKBKD_01645	CDS			hypothetical protein
+IOLNKBKD_01645	gene			
+IOLNKBKD_01646	CDS	polA_2	2.7.7.7	DNA polymerase I
+IOLNKBKD_01646	gene	polA_2		
+IOLNKBKD_01647	CDS			hypothetical protein
+IOLNKBKD_01647	gene			
+IOLNKBKD_01648	CDS	dnaJ_2		Chaperone protein DnaJ
+IOLNKBKD_01648	gene	dnaJ_2		
+IOLNKBKD_01649	CDS			hypothetical protein
+IOLNKBKD_01649	gene			
+IOLNKBKD_01650	CDS			hypothetical protein
+IOLNKBKD_01650	gene			
+IOLNKBKD_01651	CDS	ccmF_2		Cytochrome c-type biogenesis protein CcmF
+IOLNKBKD_01651	gene	ccmF_2		
+IOLNKBKD_01652	CDS			hypothetical protein
+IOLNKBKD_01652	gene			
+IOLNKBKD_01653	CDS			hypothetical protein
+IOLNKBKD_01653	gene			
+IOLNKBKD_01654	CDS	natA_2		ABC transporter ATP-binding protein NatA
+IOLNKBKD_01654	gene	natA_2		
+IOLNKBKD_01655	CDS			hypothetical protein
+IOLNKBKD_01655	gene			
+IOLNKBKD_01656	CDS			hypothetical protein
+IOLNKBKD_01656	gene			
+IOLNKBKD_01657	CDS	ccmC_2		Heme exporter protein C
+IOLNKBKD_01657	gene	ccmC_2		
+IOLNKBKD_01658	CDS	resA_5		Thiol-disulfide oxidoreductase ResA
+IOLNKBKD_01658	gene	resA_5		
+IOLNKBKD_01659	CDS	apbC_2		Iron-sulfur cluster carrier protein
+IOLNKBKD_01659	gene	apbC_2		
+IOLNKBKD_01660	CDS			hypothetical protein
+IOLNKBKD_01660	gene			
+IOLNKBKD_01661	CDS			hypothetical protein
+IOLNKBKD_01661	gene			
+IOLNKBKD_01662	CDS			hypothetical protein
+IOLNKBKD_01662	gene			
+IOLNKBKD_01663	CDS	cobN	6.6.1.2	Aerobic cobaltochelatase subunit CobN
+IOLNKBKD_01663	gene	cobN		
+IOLNKBKD_01664	CDS			hypothetical protein
+IOLNKBKD_01664	gene			
+IOLNKBKD_01665	CDS	moaA	4.1.99.22	GTP 3',8-cyclase
+IOLNKBKD_01665	gene	moaA		
+IOLNKBKD_01666	CDS			hypothetical protein
+IOLNKBKD_01666	gene			
+IOLNKBKD_01667	CDS	pknD_2	2.7.11.1	Serine/threonine-protein kinase PknD
+IOLNKBKD_01667	gene	pknD_2		
+IOLNKBKD_01668	CDS			hypothetical protein
+IOLNKBKD_01668	gene			
+IOLNKBKD_01669	CDS			hypothetical protein
+IOLNKBKD_01669	gene			
+IOLNKBKD_01670	CDS			hypothetical protein
+IOLNKBKD_01670	gene			
+IOLNKBKD_01671	CDS			hypothetical protein
+IOLNKBKD_01671	gene			
+IOLNKBKD_01672	CDS			hypothetical protein
+IOLNKBKD_01672	gene			
+IOLNKBKD_01673	CDS			hypothetical protein
+IOLNKBKD_01673	gene			
+IOLNKBKD_01674	CDS			hypothetical protein
+IOLNKBKD_01674	gene			
+IOLNKBKD_01675	CDS			hypothetical protein
+IOLNKBKD_01675	gene			
+IOLNKBKD_01676	CDS	epsD	2.4.-.-	Putative glycosyltransferase EpsD
+IOLNKBKD_01676	gene	epsD		
+IOLNKBKD_01677	CDS			hypothetical protein
+IOLNKBKD_01677	gene			
+IOLNKBKD_01678	CDS			hypothetical protein
+IOLNKBKD_01678	gene			
+IOLNKBKD_01679	CDS	shc_2	4.2.1.129	Squalene--hopene cyclase
+IOLNKBKD_01679	gene	shc_2		
+IOLNKBKD_01680	CDS			hypothetical protein
+IOLNKBKD_01680	gene			
+IOLNKBKD_01681	CDS			hypothetical protein
+IOLNKBKD_01681	gene			
+IOLNKBKD_01682	CDS	prcB	3.4.25.1	Proteasome subunit beta
+IOLNKBKD_01682	gene	prcB		
+IOLNKBKD_01683	CDS	pafA	6.3.1.19	Pup--protein ligase
+IOLNKBKD_01683	gene	pafA		
+IOLNKBKD_01684	CDS			hypothetical protein
+IOLNKBKD_01684	gene			
+IOLNKBKD_01685	CDS			hypothetical protein
+IOLNKBKD_01685	gene			
+IOLNKBKD_01686	CDS			hypothetical protein
+IOLNKBKD_01686	gene			
+IOLNKBKD_01687	CDS	rplL_2		50S ribosomal protein L7/L12
+IOLNKBKD_01687	gene	rplL_2		
+IOLNKBKD_01688	CDS	rplJ_2		50S ribosomal protein L10
+IOLNKBKD_01688	gene	rplJ_2		
+IOLNKBKD_01689	CDS	rplA_2		50S ribosomal protein L1
+IOLNKBKD_01689	gene	rplA_2		
+IOLNKBKD_01690	CDS	def_2	3.5.1.88	Peptide deformylase
+IOLNKBKD_01690	gene	def_2		
+IOLNKBKD_01691	CDS			hypothetical protein
+IOLNKBKD_01691	gene			
+IOLNKBKD_01692	CDS	bacE		Putative bacilysin exporter BacE
+IOLNKBKD_01692	gene	bacE		
+IOLNKBKD_01693	CDS			hypothetical protein
+IOLNKBKD_01693	gene			
+IOLNKBKD_01694	CDS	rpsK_1		30S ribosomal protein S11
+IOLNKBKD_01694	gene	rpsK_1		
+IOLNKBKD_01695	CDS	rpsM_1		30S ribosomal protein S13
+IOLNKBKD_01695	gene	rpsM_1		
+IOLNKBKD_01696	CDS	infA_1		Translation initiation factor IF-1
+IOLNKBKD_01696	gene	infA_1		
+IOLNKBKD_01697	CDS	adk_1	2.7.4.3	Adenylate kinase
+IOLNKBKD_01697	gene	adk_1		
+IOLNKBKD_01698	CDS	secY_1		Protein translocase subunit SecY
+IOLNKBKD_01698	gene	secY_1		
+IOLNKBKD_01699	CDS	rplO_1		50S ribosomal protein L15
+IOLNKBKD_01699	gene	rplO_1		
+IOLNKBKD_01700	CDS			hypothetical protein
+IOLNKBKD_01700	gene			
+IOLNKBKD_01701	CDS	ppa_3	3.6.1.1	Inorganic pyrophosphatase
+IOLNKBKD_01701	gene	ppa_3		
+IOLNKBKD_01702	CDS	rkpK	1.1.1.22	UDP-glucose 6-dehydrogenase
+IOLNKBKD_01702	gene	rkpK		
+IOLNKBKD_01703	CDS	cycA1		Cytochrome c-554
+IOLNKBKD_01703	gene	cycA1		
+IOLNKBKD_01704	CDS	macB_3	3.6.3.-	Macrolide export ATP-binding/permease protein MacB
+IOLNKBKD_01704	gene	macB_3		
+IOLNKBKD_01705	CDS	yknY_2	3.6.3.-	putative ABC transporter ATP-binding protein YknY
+IOLNKBKD_01705	gene	yknY_2		
+IOLNKBKD_01706	CDS	macA_2		Macrolide export protein MacA
+IOLNKBKD_01706	gene	macA_2		
+IOLNKBKD_01707	CDS			hypothetical protein
+IOLNKBKD_01707	gene			
+IOLNKBKD_01708	CDS	nfuA_3		Fe/S biogenesis protein NfuA
+IOLNKBKD_01708	gene	nfuA_3		
+IOLNKBKD_01709	CDS	yjiY		Inner membrane protein YjiY
+IOLNKBKD_01709	gene	yjiY		
+IOLNKBKD_01710	CDS	purA	6.3.4.4	Adenylosuccinate synthetase
+IOLNKBKD_01710	gene	purA		
+IOLNKBKD_01711	CDS			hypothetical protein
+IOLNKBKD_01711	gene			
+IOLNKBKD_01712	CDS	hisG_2	2.4.2.17	ATP phosphoribosyltransferase
+IOLNKBKD_01712	gene	hisG_2		
+IOLNKBKD_01713	CDS	hisI_2	3.5.4.19	Phosphoribosyl-AMP cyclohydrolase
+IOLNKBKD_01713	gene	hisI_2		
+IOLNKBKD_01714	CDS			hypothetical protein
+IOLNKBKD_01714	gene			
+IOLNKBKD_01715	CDS			hypothetical protein
+IOLNKBKD_01715	gene			
+IOLNKBKD_01716	CDS			hypothetical protein
+IOLNKBKD_01716	gene			
+IOLNKBKD_01717	CDS		5.4.99.-	putative RNA pseudouridine synthase
+IOLNKBKD_01717	gene			
+IOLNKBKD_01718	CDS	rlmM	2.1.1.186	Ribosomal RNA large subunit methyltransferase M
+IOLNKBKD_01718	gene	rlmM		
+IOLNKBKD_01719	CDS			hypothetical protein
+IOLNKBKD_01719	gene			
+IOLNKBKD_01720	CDS	glpE_2	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+IOLNKBKD_01720	gene	glpE_2		
+IOLNKBKD_01721	CDS			hypothetical protein
+IOLNKBKD_01721	gene			
+IOLNKBKD_01722	CDS			hypothetical protein
+IOLNKBKD_01722	gene			
+IOLNKBKD_01723	CDS	mazF	3.1.27.-	Endoribonuclease MazF
+IOLNKBKD_01723	gene	mazF		
+IOLNKBKD_01724	CDS	mazE		Antitoxin MazE
+IOLNKBKD_01724	gene	mazE		
+IOLNKBKD_01725	CDS	tyrA_2	1.3.1.12	Prephenate dehydrogenase
+IOLNKBKD_01725	gene	tyrA_2		
+IOLNKBKD_01726	CDS	cmk_2	2.7.4.25	Cytidylate kinase
+IOLNKBKD_01726	gene	cmk_2		
+IOLNKBKD_01727	CDS	rpsA		30S ribosomal protein S1
+IOLNKBKD_01727	gene	rpsA		
+IOLNKBKD_01728	CDS	tpm	2.1.1.67	Thiopurine S-methyltransferase
+IOLNKBKD_01728	gene	tpm		
+IOLNKBKD_01729	CDS	yedK	3.4.-.-	Putative SOS response-associated peptidase YedK
+IOLNKBKD_01729	gene	yedK		
+IOLNKBKD_01730	CDS	pepP	3.4.11.9	Xaa-Pro aminopeptidase
+IOLNKBKD_01730	gene	pepP		
+IOLNKBKD_01731	CDS	bcp_1	1.11.1.15	Putative peroxiredoxin bcp
+IOLNKBKD_01731	gene	bcp_1		
+IOLNKBKD_01732	CDS			hypothetical protein
+IOLNKBKD_01732	gene			
+IOLNKBKD_01733	CDS	bepA_8	3.4.-.-	Beta-barrel assembly-enhancing protease
+IOLNKBKD_01733	gene	bepA_8		
+IOLNKBKD_01734	CDS			hypothetical protein
+IOLNKBKD_01734	gene			
+IOLNKBKD_01735	CDS	gatB_2	6.3.5.-	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+IOLNKBKD_01735	gene	gatB_2		
+IOLNKBKD_01736	CDS	bacC_2	1.1.1.385	Dihydroanticapsin 7-dehydrogenase
+IOLNKBKD_01736	gene	bacC_2		
+IOLNKBKD_01737	CDS			hypothetical protein
+IOLNKBKD_01737	gene			
+IOLNKBKD_01738	CDS			hypothetical protein
+IOLNKBKD_01738	gene			
+IOLNKBKD_01739	CDS	cusR		Transcriptional regulatory protein CusR
+IOLNKBKD_01739	gene	cusR		
+IOLNKBKD_01740	CDS	cusS	2.7.13.3	Sensor kinase CusS
+IOLNKBKD_01740	gene	cusS		
+IOLNKBKD_01741	CDS	rsmG_2	2.1.1.-	Ribosomal RNA small subunit methyltransferase G
+IOLNKBKD_01741	gene	rsmG_2		
+IOLNKBKD_01742	CDS	carE_2	1.3.1.108	Caffeyl-CoA reductase-Etf complex subunit CarE
+IOLNKBKD_01742	gene	carE_2		
+IOLNKBKD_01743	CDS			hypothetical protein
+IOLNKBKD_01743	gene			
+IOLNKBKD_01744	CDS	carD	1.3.1.108	Caffeyl-CoA reductase-Etf complex subunit CarD
+IOLNKBKD_01744	gene	carD		
+IOLNKBKD_01745	CDS			hypothetical protein
+IOLNKBKD_01745	gene			
+IOLNKBKD_01746	CDS			hypothetical protein
+IOLNKBKD_01746	gene			
+IOLNKBKD_01747	CDS	baeB	3.-.-.-	putative polyketide biosynthesis zinc-dependent hydrolase BaeB
+IOLNKBKD_01747	gene	baeB		
+IOLNKBKD_01748	CDS			hypothetical protein
+IOLNKBKD_01748	gene			
+IOLNKBKD_01749	CDS	plsC_2	2.3.1.-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+IOLNKBKD_01749	gene	plsC_2		
+IOLNKBKD_01750	CDS	bcp_2	1.11.1.15	Putative peroxiredoxin bcp
+IOLNKBKD_01750	gene	bcp_2		
+IOLNKBKD_01751	CDS	grxD		Glutaredoxin 4
+IOLNKBKD_01751	gene	grxD		
+IOLNKBKD_01752	CDS	rmd	1.1.1.281	GDP-6-deoxy-D-mannose reductase
+IOLNKBKD_01752	gene	rmd		
+IOLNKBKD_01753	CDS			hypothetical protein
+IOLNKBKD_01753	gene			
+IOLNKBKD_01754	CDS			hypothetical protein
+IOLNKBKD_01754	gene			
+IOLNKBKD_01755	CDS	yheS_3		putative ABC transporter ATP-binding protein YheS
+IOLNKBKD_01755	gene	yheS_3		
+IOLNKBKD_01756	CDS			hypothetical protein
+IOLNKBKD_01756	gene			
+IOLNKBKD_01757	CDS	tlyC		Hemolysin C
+IOLNKBKD_01757	gene	tlyC		
+IOLNKBKD_01758	CDS	djlA		DnaJ-like protein DjlA
+IOLNKBKD_01758	gene	djlA		
+IOLNKBKD_01759	CDS			hypothetical protein
+IOLNKBKD_01759	gene			
+IOLNKBKD_01760	CDS	dksA_2		RNA polymerase-binding transcription factor DksA
+IOLNKBKD_01760	gene	dksA_2		
+IOLNKBKD_01761	CDS	secA		Protein translocase subunit SecA
+IOLNKBKD_01761	gene	secA		
+IOLNKBKD_01762	CDS			hypothetical protein
+IOLNKBKD_01762	gene			
+IOLNKBKD_01763	CDS	trxA_1		Thioredoxin
+IOLNKBKD_01763	gene	trxA_1		
+IOLNKBKD_01764	CDS	yidC_3		Membrane protein insertase YidC
+IOLNKBKD_01764	gene	yidC_3		
+IOLNKBKD_01765	CDS	rnpA_2	3.1.26.5	Ribonuclease P protein component
+IOLNKBKD_01765	gene	rnpA_2		
+IOLNKBKD_01766	CDS	ispH_1	1.17.7.4	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+IOLNKBKD_01766	gene	ispH_1		
+IOLNKBKD_01767	CDS	crtB_1	2.5.1.32	All-trans-phytoene synthase/15-cis-phytoene synthase
+IOLNKBKD_01767	gene	crtB_1		
+IOLNKBKD_01768	CDS			hypothetical protein
+IOLNKBKD_01768	gene			
+IOLNKBKD_01769	CDS			hypothetical protein
+IOLNKBKD_01769	gene			
+IOLNKBKD_01770	CDS			hypothetical protein
+IOLNKBKD_01770	gene			
+IOLNKBKD_01771	CDS			hypothetical protein
+IOLNKBKD_01771	gene			
+IOLNKBKD_01772	CDS			hypothetical protein
+IOLNKBKD_01772	gene			
+IOLNKBKD_01773	CDS	pntA	1.6.1.2	NAD(P) transhydrogenase subunit alpha
+IOLNKBKD_01773	gene	pntA		
+IOLNKBKD_01774	CDS	pntB	1.6.1.2	NAD(P) transhydrogenase subunit beta
+IOLNKBKD_01774	gene	pntB		
+IOLNKBKD_01775	CDS			hypothetical protein
+IOLNKBKD_01775	gene			
+IOLNKBKD_01776	CDS			hypothetical protein
+IOLNKBKD_01776	gene			
+IOLNKBKD_01777	CDS			hypothetical protein
+IOLNKBKD_01777	gene			
+IOLNKBKD_01778	CDS			hypothetical protein
+IOLNKBKD_01778	gene			
+IOLNKBKD_01779	CDS			hypothetical protein
+IOLNKBKD_01779	gene			
+IOLNKBKD_01780	CDS			hypothetical protein
+IOLNKBKD_01780	gene			
+IOLNKBKD_01781	CDS			hypothetical protein
+IOLNKBKD_01781	gene			
+IOLNKBKD_01782	CDS			hypothetical protein
+IOLNKBKD_01782	gene			
+IOLNKBKD_01783	CDS			hypothetical protein
+IOLNKBKD_01783	gene			
+IOLNKBKD_01784	CDS			hypothetical protein
+IOLNKBKD_01784	gene			
+IOLNKBKD_01785	CDS			hypothetical protein
+IOLNKBKD_01785	gene			
+IOLNKBKD_01786	CDS			hypothetical protein
+IOLNKBKD_01786	gene			
+IOLNKBKD_01787	CDS	trkH		Trk system potassium uptake protein TrkH
+IOLNKBKD_01787	gene	trkH		
+IOLNKBKD_01788	CDS	trkA_2		Trk system potassium uptake protein TrkA
+IOLNKBKD_01788	gene	trkA_2		
+IOLNKBKD_01789	CDS	cbiX_1	4.99.1.3	Sirohydrochlorin cobaltochelatase
+IOLNKBKD_01789	gene	cbiX_1		
+IOLNKBKD_01790	CDS			hypothetical protein
+IOLNKBKD_01790	gene			
+IOLNKBKD_01791	CDS	ccoP2		Cbb3-type cytochrome c oxidase subunit CcoP2
+IOLNKBKD_01791	gene	ccoP2		
+IOLNKBKD_01792	CDS	cobT	2.4.2.21	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+IOLNKBKD_01792	gene	cobT		
+IOLNKBKD_01793	CDS	spoIIIE		DNA translocase SpoIIIE
+IOLNKBKD_01793	gene	spoIIIE		
+IOLNKBKD_01794	CDS			hypothetical protein
+IOLNKBKD_01794	gene			
+IOLNKBKD_01795	CDS			hypothetical protein
+IOLNKBKD_01795	gene			
+IOLNKBKD_01796	CDS	mtgA_2	2.4.1.129	Biosynthetic peptidoglycan transglycosylase
+IOLNKBKD_01796	gene	mtgA_2		
+IOLNKBKD_01797	CDS	mepM_2	3.4.24.-	Murein DD-endopeptidase MepM
+IOLNKBKD_01797	gene	mepM_2		
+IOLNKBKD_01798	CDS	splG_2	4.1.99.14	Spore photoproduct lyase
+IOLNKBKD_01798	gene	splG_2		
+IOLNKBKD_01799	CDS	dnaN_3	2.7.7.7	DNA polymerase III subunit beta
+IOLNKBKD_01799	gene	dnaN_3		
+IOLNKBKD_01800	CDS	yrrB_5		TPR repeat-containing protein YrrB
+IOLNKBKD_01800	gene	yrrB_5		
+IOLNKBKD_01801	CDS			hypothetical protein
+IOLNKBKD_01801	gene			
+IOLNKBKD_01802	CDS			hypothetical protein
+IOLNKBKD_01802	gene			
+IOLNKBKD_01803	CDS	lutA		Lactate utilization protein A
+IOLNKBKD_01803	gene	lutA		
+IOLNKBKD_01804	CDS			hypothetical protein
+IOLNKBKD_01804	gene			
+IOLNKBKD_01805	CDS			hypothetical protein
+IOLNKBKD_01805	gene			
+IOLNKBKD_01806	CDS			hypothetical protein
+IOLNKBKD_01806	gene			
+IOLNKBKD_01807	CDS			hypothetical protein
+IOLNKBKD_01807	gene			
+IOLNKBKD_01808	CDS			hypothetical protein
+IOLNKBKD_01808	gene			
+IOLNKBKD_01809	CDS			hypothetical protein
+IOLNKBKD_01809	gene			
+IOLNKBKD_01810	CDS		1.5.1.45	NAD(P)H-dependent FAD/FMN reductase
+IOLNKBKD_01810	gene			
+IOLNKBKD_01811	CDS			hypothetical protein
+IOLNKBKD_01811	gene			
+IOLNKBKD_01812	CDS			hypothetical protein
+IOLNKBKD_01812	gene			
+IOLNKBKD_01813	CDS			hypothetical protein
+IOLNKBKD_01813	gene			
+IOLNKBKD_01814	CDS			hypothetical protein
+IOLNKBKD_01814	gene			
+IOLNKBKD_01815	CDS	guaB_3	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+IOLNKBKD_01815	gene	guaB_3		
+IOLNKBKD_01816	CDS			hypothetical protein
+IOLNKBKD_01816	gene			
+IOLNKBKD_01817	CDS			hypothetical protein
+IOLNKBKD_01817	gene			
+IOLNKBKD_01818	CDS			hypothetical protein
+IOLNKBKD_01818	gene			
+IOLNKBKD_01819	CDS			hypothetical protein
+IOLNKBKD_01819	gene			
+IOLNKBKD_01820	CDS			hypothetical protein
+IOLNKBKD_01820	gene			
+IOLNKBKD_01821	CDS			hypothetical protein
+IOLNKBKD_01821	gene			
+IOLNKBKD_01822	CDS			hypothetical protein
+IOLNKBKD_01822	gene			
+IOLNKBKD_01823	CDS	pilQ_2		Type IV pilus biogenesis and competence protein PilQ
+IOLNKBKD_01823	gene	pilQ_2		
+IOLNKBKD_01824	CDS			hypothetical protein
+IOLNKBKD_01824	gene			
+IOLNKBKD_01825	CDS	crtB_2	2.5.1.32	All-trans-phytoene synthase/15-cis-phytoene synthase
+IOLNKBKD_01825	gene	crtB_2		
+IOLNKBKD_01826	CDS	ispH_2	1.17.7.4	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+IOLNKBKD_01826	gene	ispH_2		
+IOLNKBKD_01827	CDS	frdB_2	1.3.5.1	Fumarate reductase iron-sulfur subunit
+IOLNKBKD_01827	gene	frdB_2		
+IOLNKBKD_01828	CDS	frdA_2	1.3.5.4	Fumarate reductase flavoprotein subunit
+IOLNKBKD_01828	gene	frdA_2		
+IOLNKBKD_01829	CDS	sdhC_2		Succinate dehydrogenase cytochrome b558 subunit
+IOLNKBKD_01829	gene	sdhC_2		
+IOLNKBKD_01830	CDS	yejB_2		Inner membrane ABC transporter permease protein YejB
+IOLNKBKD_01830	gene	yejB_2		
+IOLNKBKD_01831	CDS	yejE		Inner membrane ABC transporter permease protein YejE
+IOLNKBKD_01831	gene	yejE		
+IOLNKBKD_01832	CDS			hypothetical protein
+IOLNKBKD_01832	gene			
+IOLNKBKD_01833	CDS	yacG		DNA gyrase inhibitor YacG
+IOLNKBKD_01833	gene	yacG		
+IOLNKBKD_01834	CDS			hypothetical protein
+IOLNKBKD_01834	gene			
+IOLNKBKD_01835	CDS	nlpD_2		Murein hydrolase activator NlpD
+IOLNKBKD_01835	gene	nlpD_2		
+IOLNKBKD_01836	CDS			hypothetical protein
+IOLNKBKD_01836	gene			
+IOLNKBKD_01837	CDS	gyrB_3	5.99.1.3	DNA gyrase subunit B
+IOLNKBKD_01837	gene	gyrB_3		
+IOLNKBKD_01838	CDS			hypothetical protein
+IOLNKBKD_01838	gene			
+IOLNKBKD_01839	CDS	trmFO_2	2.1.1.74	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO
+IOLNKBKD_01839	gene	trmFO_2		
+IOLNKBKD_01840	CDS			hypothetical protein
+IOLNKBKD_01840	gene			
+IOLNKBKD_01841	CDS	lgt	2.4.99.-	Prolipoprotein diacylglyceryl transferase
+IOLNKBKD_01841	gene	lgt		
+IOLNKBKD_01842	CDS	hemB	4.2.1.24	Delta-aminolevulinic acid dehydratase
+IOLNKBKD_01842	gene	hemB		
+IOLNKBKD_01843	tRNA			tRNA-Asn(gtt)
+IOLNKBKD_01843	gene			
+IOLNKBKD_01844	CDS	recR_1		Recombination protein RecR
+IOLNKBKD_01844	gene	recR_1		
+IOLNKBKD_01845	CDS			Nucleoid-associated protein
+IOLNKBKD_01845	gene			
+IOLNKBKD_01846	CDS	clpX		ATP-dependent Clp protease ATP-binding subunit ClpX
+IOLNKBKD_01846	gene	clpX		
+IOLNKBKD_01847	CDS	clpP	3.4.21.92	ATP-dependent Clp protease proteolytic subunit
+IOLNKBKD_01847	gene	clpP		
+IOLNKBKD_01848	tRNA			tRNA-Leu(tag)
+IOLNKBKD_01848	gene			
+IOLNKBKD_01849	CDS			hypothetical protein
+IOLNKBKD_01849	gene			
+IOLNKBKD_01850	CDS		3.6.3.-	Putative multidrug export ATP-binding/permease protein
+IOLNKBKD_01850	gene			
+IOLNKBKD_01851	CDS	yhdN_5	1.1.1.-	General stress protein 69
+IOLNKBKD_01851	gene	yhdN_5		
+IOLNKBKD_01852	CDS	purE	5.4.99.18	N5-carboxyaminoimidazole ribonucleotide mutase
+IOLNKBKD_01852	gene	purE		
+IOLNKBKD_01853	CDS	dacC_1	3.4.16.4	D-alanyl-D-alanine carboxypeptidase DacC
+IOLNKBKD_01853	gene	dacC_1		
+IOLNKBKD_01854	CDS			hypothetical protein
+IOLNKBKD_01854	gene			
+IOLNKBKD_01855	CDS	pepF1_1	3.4.24.-	Oligoendopeptidase F, plasmid
+IOLNKBKD_01855	gene	pepF1_1		
+IOLNKBKD_01856	CDS	valS_1	6.1.1.9	Valine--tRNA ligase
+IOLNKBKD_01856	gene	valS_1		
+IOLNKBKD_01857	CDS	mtrA		DNA-binding response regulator MtrA
+IOLNKBKD_01857	gene	mtrA		
+IOLNKBKD_01858	CDS			hypothetical protein
+IOLNKBKD_01858	gene			
+IOLNKBKD_01859	CDS			hypothetical protein
+IOLNKBKD_01859	gene			
+IOLNKBKD_01860	CDS			hypothetical protein
+IOLNKBKD_01860	gene			
+IOLNKBKD_01861	CDS	mrcA_2		Penicillin-binding protein 1A
+IOLNKBKD_01861	gene	mrcA_2		
+IOLNKBKD_01862	CDS			hypothetical protein
+IOLNKBKD_01862	gene			
+IOLNKBKD_01863	CDS			hypothetical protein
+IOLNKBKD_01863	gene			
+IOLNKBKD_01864	CDS	frdA_3	1.3.5.4	Fumarate reductase flavoprotein subunit
+IOLNKBKD_01864	gene	frdA_3		
+IOLNKBKD_01865	CDS	sdhB_2	1.3.5.-	8-methylmenaquinol:fumarate reductase iron-sulfur subunit
+IOLNKBKD_01865	gene	sdhB_2		
+IOLNKBKD_01866	CDS	sdhE_2	1.3.5.-	8-methylmenaquinol:fumarate reductase membrane anchor subunit
+IOLNKBKD_01866	gene	sdhE_2		
+IOLNKBKD_01867	CDS			hypothetical protein
+IOLNKBKD_01867	gene			
+IOLNKBKD_01868	CDS			hypothetical protein
+IOLNKBKD_01868	gene			
+IOLNKBKD_01869	CDS	pfkA2_1	2.7.1.11	ATP-dependent 6-phosphofructokinase 2
+IOLNKBKD_01869	gene	pfkA2_1		
+IOLNKBKD_01870	CDS	rimO_2	2.8.4.4	Ribosomal protein S12 methylthiotransferase RimO
+IOLNKBKD_01870	gene	rimO_2		
+IOLNKBKD_01871	CDS			hypothetical protein
+IOLNKBKD_01871	gene			
+IOLNKBKD_01872	CDS			hypothetical protein
+IOLNKBKD_01872	gene			
+IOLNKBKD_01873	CDS	speE_5	2.5.1.104	Polyamine aminopropyltransferase
+IOLNKBKD_01873	gene	speE_5		
+IOLNKBKD_01874	CDS	lolD_3	3.6.3.-	Lipoprotein-releasing system ATP-binding protein LolD
+IOLNKBKD_01874	gene	lolD_3		
+IOLNKBKD_01875	CDS	mutS2_3	3.1.-.-	Endonuclease MutS2
+IOLNKBKD_01875	gene	mutS2_3		
+IOLNKBKD_01876	CDS			hypothetical protein
+IOLNKBKD_01876	gene			
+IOLNKBKD_01877	CDS			hypothetical protein
+IOLNKBKD_01877	gene			
+IOLNKBKD_01878	CDS			hypothetical protein
+IOLNKBKD_01878	gene			
+IOLNKBKD_01879	CDS			hypothetical protein
+IOLNKBKD_01879	gene			
+IOLNKBKD_01880	CDS			hypothetical protein
+IOLNKBKD_01880	gene			
+IOLNKBKD_01881	CDS	argH	4.3.2.1	Argininosuccinate lyase
+IOLNKBKD_01881	gene	argH		
+IOLNKBKD_01882	CDS			hypothetical protein
+IOLNKBKD_01882	gene			
+IOLNKBKD_01883	CDS	argA	2.3.1.1	Amino-acid acetyltransferase
+IOLNKBKD_01883	gene	argA		
+IOLNKBKD_01884	CDS	flgG		Flagellar basal-body rod protein FlgG
+IOLNKBKD_01884	gene	flgG		
+IOLNKBKD_01885	CDS			hypothetical protein
+IOLNKBKD_01885	gene			
+IOLNKBKD_01886	CDS	dnaC_2		DNA replication protein DnaC
+IOLNKBKD_01886	gene	dnaC_2		
+IOLNKBKD_01887	CDS	lnt_2	2.3.1.-	Apolipoprotein N-acyltransferase
+IOLNKBKD_01887	gene	lnt_2		
+IOLNKBKD_01888	CDS			hypothetical protein
+IOLNKBKD_01888	gene			
+IOLNKBKD_01889	CDS		2.6.1.1	Aspartate aminotransferase
+IOLNKBKD_01889	gene			
+IOLNKBKD_01890	CDS	coaD	2.7.7.3	Phosphopantetheine adenylyltransferase
+IOLNKBKD_01890	gene	coaD		
+IOLNKBKD_01891	CDS	cdsA_2	2.7.7.41	Phosphatidate cytidylyltransferase
+IOLNKBKD_01891	gene	cdsA_2		
+IOLNKBKD_01892	CDS	uppS_2	2.5.1.31	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+IOLNKBKD_01892	gene	uppS_2		
+IOLNKBKD_01893	CDS	frr_2		Ribosome-recycling factor
+IOLNKBKD_01893	gene	frr_2		
+IOLNKBKD_01894	CDS	pyrH_2	2.7.4.22	Uridylate kinase
+IOLNKBKD_01894	gene	pyrH_2		
+IOLNKBKD_01895	CDS	tsf_2		Elongation factor Ts
+IOLNKBKD_01895	gene	tsf_2		
+IOLNKBKD_01896	CDS	rpsB_2		30S ribosomal protein S2
+IOLNKBKD_01896	gene	rpsB_2		
+IOLNKBKD_01897	CDS	pfkA2_2	2.7.1.11	ATP-dependent 6-phosphofructokinase 2
+IOLNKBKD_01897	gene	pfkA2_2		
+IOLNKBKD_01898	CDS			hypothetical protein
+IOLNKBKD_01898	gene			
+IOLNKBKD_01899	CDS			hypothetical protein
+IOLNKBKD_01899	gene			
+IOLNKBKD_01900	CDS	mdlC	4.1.1.7	Benzoylformate decarboxylase
+IOLNKBKD_01900	gene	mdlC		
+IOLNKBKD_01901	CDS			hypothetical protein
+IOLNKBKD_01901	gene			
+IOLNKBKD_01902	CDS	gnu_3	5.1.3.26	N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol 4-epimerase
+IOLNKBKD_01902	gene	gnu_3		
+IOLNKBKD_01903	CDS	ppdK_3	2.7.9.1	Pyruvate, phosphate dikinase
+IOLNKBKD_01903	gene	ppdK_3		
+IOLNKBKD_01904	CDS	glyS_2	6.1.1.14	Glycine--tRNA ligase beta subunit
+IOLNKBKD_01904	gene	glyS_2		
+IOLNKBKD_01905	CDS			hypothetical protein
+IOLNKBKD_01905	gene			
+IOLNKBKD_01906	CDS			hypothetical protein
+IOLNKBKD_01906	gene			
+IOLNKBKD_01907	CDS	kduD	1.1.1.127	2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase
+IOLNKBKD_01907	gene	kduD		
+IOLNKBKD_01908	CDS			hypothetical protein
+IOLNKBKD_01908	gene			
+IOLNKBKD_01909	CDS	queC_2	6.3.4.20	7-cyano-7-deazaguanine synthase
+IOLNKBKD_01909	gene	queC_2		
+IOLNKBKD_01910	CDS	ffh_2		Signal recognition particle protein
+IOLNKBKD_01910	gene	ffh_2		
+IOLNKBKD_01911	CDS	rpsP_2		30S ribosomal protein S16
+IOLNKBKD_01911	gene	rpsP_2		
+IOLNKBKD_01912	CDS	aldHT	1.2.1.5	Aldehyde dehydrogenase, thermostable
+IOLNKBKD_01912	gene	aldHT		
+IOLNKBKD_01913	CDS	yycJ	3.-.-.-	Putative metallo-hydrolase YycJ
+IOLNKBKD_01913	gene	yycJ		
+IOLNKBKD_01914	CDS			hypothetical protein
+IOLNKBKD_01914	gene			
+IOLNKBKD_01915	CDS			hypothetical protein
+IOLNKBKD_01915	gene			
+IOLNKBKD_01916	CDS	lapB_5		Lipopolysaccharide assembly protein B
+IOLNKBKD_01916	gene	lapB_5		
+IOLNKBKD_01917	CDS	dksA_3		RNA polymerase-binding transcription factor DksA
+IOLNKBKD_01917	gene	dksA_3		
+IOLNKBKD_01918	CDS	rsfS_2		Ribosomal silencing factor RsfS
+IOLNKBKD_01918	gene	rsfS_2		
+IOLNKBKD_01919	CDS	nadD_2	2.7.7.18	Nicotinate-nucleotide adenylyltransferase
+IOLNKBKD_01919	gene	nadD_2		
+IOLNKBKD_01920	CDS	rny	3.1.-.-	Ribonuclease Y
+IOLNKBKD_01920	gene	rny		
+IOLNKBKD_01921	CDS	lysS_2	6.1.1.6	Lysine--tRNA ligase
+IOLNKBKD_01921	gene	lysS_2		
+IOLNKBKD_01922	CDS	lolC		Lipoprotein-releasing system transmembrane protein LolC
+IOLNKBKD_01922	gene	lolC		
+IOLNKBKD_01923	CDS	lolD_4	3.6.3.-	Lipoprotein-releasing system ATP-binding protein LolD
+IOLNKBKD_01923	gene	lolD_4		
+IOLNKBKD_01924	CDS	lpxD	2.3.1.-	UDP-3-O-acylglucosamine N-acyltransferase
+IOLNKBKD_01924	gene	lpxD		
+IOLNKBKD_01925	CDS			hypothetical protein
+IOLNKBKD_01925	gene			
+IOLNKBKD_01926	CDS			hypothetical protein
+IOLNKBKD_01926	gene			
+IOLNKBKD_01927	CDS	vgb_4	4.2.99.-	Virginiamycin B lyase
+IOLNKBKD_01927	gene	vgb_4		
+IOLNKBKD_01928	CDS			hypothetical protein
+IOLNKBKD_01928	gene			
+IOLNKBKD_01929	CDS			hypothetical protein
+IOLNKBKD_01929	gene			
+IOLNKBKD_01930	CDS			hypothetical protein
+IOLNKBKD_01930	gene			
+IOLNKBKD_01931	CDS			hypothetical protein
+IOLNKBKD_01931	gene			
+IOLNKBKD_01932	CDS			hypothetical protein
+IOLNKBKD_01932	gene			
+IOLNKBKD_01933	CDS			hypothetical protein
+IOLNKBKD_01933	gene			
+IOLNKBKD_01934	CDS			hypothetical protein
+IOLNKBKD_01934	gene			
+IOLNKBKD_01935	CDS	engB_1		putative GTP-binding protein EngB
+IOLNKBKD_01935	gene	engB_1		
+IOLNKBKD_01936	CDS	fdx4_2		Ferredoxin, 2Fe-2S
+IOLNKBKD_01936	gene	fdx4_2		
+IOLNKBKD_01937	CDS	srkA_2	2.7.11.1	Stress response kinase A
+IOLNKBKD_01937	gene	srkA_2		
+IOLNKBKD_01938	CDS			hypothetical protein
+IOLNKBKD_01938	gene			
+IOLNKBKD_01939	CDS	ppm1	2.4.1.-	Polyprenol monophosphomannose synthase
+IOLNKBKD_01939	gene	ppm1		
+IOLNKBKD_01940	CDS			hypothetical protein
+IOLNKBKD_01940	gene			
+IOLNKBKD_01941	CDS			hypothetical protein
+IOLNKBKD_01941	gene			
+IOLNKBKD_01942	CDS	rfaF_2	2.-.-.-	ADP-heptose--LPS heptosyltransferase 2
+IOLNKBKD_01942	gene	rfaF_2		
+IOLNKBKD_01943	CDS	murA_2	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+IOLNKBKD_01943	gene	murA_2		
+IOLNKBKD_01944	CDS		3.4.11.10	Bacterial leucyl aminopeptidase
+IOLNKBKD_01944	gene			
+IOLNKBKD_01945	CDS			hypothetical protein
+IOLNKBKD_01945	gene			
+IOLNKBKD_01946	CDS			hypothetical protein
+IOLNKBKD_01946	gene			
+IOLNKBKD_01947	CDS	pcm_3	2.1.1.77	Protein-L-isoaspartate O-methyltransferase
+IOLNKBKD_01947	gene	pcm_3		
+IOLNKBKD_01948	CDS	pyrE_2	2.4.2.10	Orotate phosphoribosyltransferase
+IOLNKBKD_01948	gene	pyrE_2		
+IOLNKBKD_01949	CDS	lolD_5	3.6.3.-	Lipoprotein-releasing system ATP-binding protein LolD
+IOLNKBKD_01949	gene	lolD_5		
+IOLNKBKD_01950	CDS	tesA_2	3.1.1.1	Esterase TesA
+IOLNKBKD_01950	gene	tesA_2		
+IOLNKBKD_01951	CDS	trpD_3	2.4.2.18	Anthranilate phosphoribosyltransferase
+IOLNKBKD_01951	gene	trpD_3		
+IOLNKBKD_01952	CDS			hypothetical protein
+IOLNKBKD_01952	gene			
+IOLNKBKD_01953	CDS			hypothetical protein
+IOLNKBKD_01953	gene			
+IOLNKBKD_01954	CDS			hypothetical protein
+IOLNKBKD_01954	gene			
+IOLNKBKD_01955	CDS			hypothetical protein
+IOLNKBKD_01955	gene			
+IOLNKBKD_01956	CDS	nadB_2	1.4.3.16	L-aspartate oxidase
+IOLNKBKD_01956	gene	nadB_2		
+IOLNKBKD_01957	CDS	btuF		Vitamin B12-binding protein
+IOLNKBKD_01957	gene	btuF		
+IOLNKBKD_01958	CDS			hypothetical protein
+IOLNKBKD_01958	gene			
+IOLNKBKD_01959	CDS			hypothetical protein
+IOLNKBKD_01959	gene			
+IOLNKBKD_01960	CDS	algC_2	5.4.2.2	Phosphomannomutase/phosphoglucomutase
+IOLNKBKD_01960	gene	algC_2		
+IOLNKBKD_01961	CDS	htrA_4		Putative serine protease HtrA
+IOLNKBKD_01961	gene	htrA_4		
+IOLNKBKD_01962	CDS	ped_2	1.1.1.311	(S)-1-Phenylethanol dehydrogenase
+IOLNKBKD_01962	gene	ped_2		
+IOLNKBKD_01963	CDS			hypothetical protein
+IOLNKBKD_01963	gene			
+IOLNKBKD_01964	CDS			hypothetical protein
+IOLNKBKD_01964	gene			
+IOLNKBKD_01965	CDS	cysNC		Bifunctional enzyme CysN/CysC
+IOLNKBKD_01965	gene	cysNC		
+IOLNKBKD_01966	CDS	cysD	2.7.7.4	Sulfate adenylyltransferase subunit 2
+IOLNKBKD_01966	gene	cysD		
+IOLNKBKD_01967	CDS			hypothetical protein
+IOLNKBKD_01967	gene			
+IOLNKBKD_01968	CDS			hypothetical protein
+IOLNKBKD_01968	gene			
+IOLNKBKD_01969	CDS			hypothetical protein
+IOLNKBKD_01969	gene			
+IOLNKBKD_01970	CDS			hypothetical protein
+IOLNKBKD_01970	gene			
+IOLNKBKD_01971	CDS	kamA	5.4.3.2	L-lysine 2,3-aminomutase
+IOLNKBKD_01971	gene	kamA		
+IOLNKBKD_01972	CDS			hypothetical protein
+IOLNKBKD_01972	gene			
+IOLNKBKD_01973	tRNA			tRNA-Leu(tag)
+IOLNKBKD_01973	gene			
+IOLNKBKD_01974	CDS			hypothetical protein
+IOLNKBKD_01974	gene			
+IOLNKBKD_01975	CDS	resA_6		Thiol-disulfide oxidoreductase ResA
+IOLNKBKD_01975	gene	resA_6		
+IOLNKBKD_01976	CDS	ilvC_1	1.1.1.382	Ketol-acid reductoisomerase (NAD(+))
+IOLNKBKD_01976	gene	ilvC_1		
+IOLNKBKD_01977	CDS	psd	4.1.1.65	Phosphatidylserine decarboxylase proenzyme
+IOLNKBKD_01977	gene	psd		
+IOLNKBKD_01978	CDS	pcs	2.7.8.24	Phosphatidylcholine synthase
+IOLNKBKD_01978	gene	pcs		
+IOLNKBKD_01979	CDS	accD	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+IOLNKBKD_01979	gene	accD		
+IOLNKBKD_01980	CDS	phoU_2		Phosphate-specific transport system accessory protein PhoU 
+IOLNKBKD_01980	gene	phoU_2		
+IOLNKBKD_01981	CDS	pstB3_2	3.6.3.27	Phosphate import ATP-binding protein PstB 3
+IOLNKBKD_01981	gene	pstB3_2		
+IOLNKBKD_01982	CDS	pstA_2		Phosphate transport system permease protein PstA
+IOLNKBKD_01982	gene	pstA_2		
+IOLNKBKD_01983	CDS			hypothetical protein
+IOLNKBKD_01983	gene			
+IOLNKBKD_01984	CDS	fecA		Fe(3+) dicitrate transport protein FecA
+IOLNKBKD_01984	gene	fecA		
+IOLNKBKD_01985	CDS	rph	2.7.7.56	Ribonuclease PH
+IOLNKBKD_01985	gene	rph		
+IOLNKBKD_01986	CDS	nth	4.2.99.18	Endonuclease III
+IOLNKBKD_01986	gene	nth		
+IOLNKBKD_01987	CDS	ilvH	2.2.1.6	Putative acetolactate synthase small subunit
+IOLNKBKD_01987	gene	ilvH		
+IOLNKBKD_01988	CDS	ilvC_2	1.1.1.382	Ketol-acid reductoisomerase (NAD(+))
+IOLNKBKD_01988	gene	ilvC_2		
+IOLNKBKD_01989	CDS			hypothetical protein
+IOLNKBKD_01989	gene			
+IOLNKBKD_01990	CDS			hypothetical protein
+IOLNKBKD_01990	gene			
+IOLNKBKD_01991	CDS			hypothetical protein
+IOLNKBKD_01991	gene			
+IOLNKBKD_01992	CDS	dnaJ_3		Chaperone protein DnaJ
+IOLNKBKD_01992	gene	dnaJ_3		
+IOLNKBKD_01993	CDS	patA	2.3.1.-	Peptidoglycan O-acetyltransferase
+IOLNKBKD_01993	gene	patA		
+IOLNKBKD_01994	CDS			hypothetical protein
+IOLNKBKD_01994	gene			
+IOLNKBKD_01995	CDS	opuE		Osmoregulated proline transporter OpuE
+IOLNKBKD_01995	gene	opuE		
+IOLNKBKD_01996	CDS	purM_2	6.3.3.1	Phosphoribosylformylglycinamidine cyclo-ligase
+IOLNKBKD_01996	gene	purM_2		
+IOLNKBKD_01997	CDS			hypothetical protein
+IOLNKBKD_01997	gene			
+IOLNKBKD_01998	CDS			hypothetical protein
+IOLNKBKD_01998	gene			
+IOLNKBKD_01999	CDS	pepA_2	3.4.11.1	Cytosol aminopeptidase
+IOLNKBKD_01999	gene	pepA_2		
+IOLNKBKD_02000	CDS			hypothetical protein
+IOLNKBKD_02000	gene			
+IOLNKBKD_02001	CDS			hypothetical protein
+IOLNKBKD_02001	gene			
+IOLNKBKD_02002	CDS			hypothetical protein
+IOLNKBKD_02002	gene			
+IOLNKBKD_02003	CDS			hypothetical protein
+IOLNKBKD_02003	gene			
+IOLNKBKD_02004	CDS	dhmA2	3.8.1.5	Haloalkane dehalogenase 2
+IOLNKBKD_02004	gene	dhmA2		
+IOLNKBKD_02005	CDS	ahcY	3.3.1.1	Adenosylhomocysteinase
+IOLNKBKD_02005	gene	ahcY		
+IOLNKBKD_02006	CDS	ubiG_2	2.1.1.222	Ubiquinone biosynthesis O-methyltransferase
+IOLNKBKD_02006	gene	ubiG_2		
+IOLNKBKD_02007	CDS			hypothetical protein
+IOLNKBKD_02007	gene			
+IOLNKBKD_02008	CDS	nasE	1.7.1.4	Assimilatory nitrite reductase [NAD(P)H] small subunit
+IOLNKBKD_02008	gene	nasE		
+IOLNKBKD_02009	CDS	tig	5.2.1.8	Trigger factor
+IOLNKBKD_02009	gene	tig		
+IOLNKBKD_02010	CDS	rpfG_2	3.1.4.52	Cyclic di-GMP phosphodiesterase response regulator RpfG
+IOLNKBKD_02010	gene	rpfG_2		
+IOLNKBKD_02011	CDS			hypothetical protein
+IOLNKBKD_02011	gene			
+IOLNKBKD_02012	CDS	tlyA	2.1.1.226	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+IOLNKBKD_02012	gene	tlyA		
+IOLNKBKD_02013	CDS	xseB	3.1.11.6	Exodeoxyribonuclease 7 small subunit
+IOLNKBKD_02013	gene	xseB		
+IOLNKBKD_02014	CDS			hypothetical protein
+IOLNKBKD_02014	gene			
+IOLNKBKD_02015	CDS			hypothetical protein
+IOLNKBKD_02015	gene			
+IOLNKBKD_02016	CDS	ymdB	3.5.1.-	O-acetyl-ADP-ribose deacetylase
+IOLNKBKD_02016	gene	ymdB		
+IOLNKBKD_02017	CDS	dut	3.6.1.23	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+IOLNKBKD_02017	gene	dut		
+IOLNKBKD_02018	CDS			hypothetical protein
+IOLNKBKD_02018	gene			
+IOLNKBKD_02019	CDS			hypothetical protein
+IOLNKBKD_02019	gene			
+IOLNKBKD_02020	CDS	engB_2		putative GTP-binding protein EngB
+IOLNKBKD_02020	gene	engB_2		
+IOLNKBKD_02021	CDS			hypothetical protein
+IOLNKBKD_02021	gene			
+IOLNKBKD_02022	CDS			hypothetical protein
+IOLNKBKD_02022	gene			
+IOLNKBKD_02023	CDS			hypothetical protein
+IOLNKBKD_02023	gene			
+IOLNKBKD_02024	CDS	ycjP		Inner membrane ABC transporter permease protein YcjP
+IOLNKBKD_02024	gene	ycjP		
+IOLNKBKD_02025	CDS	ycjO		Inner membrane ABC transporter permease protein YcjO
+IOLNKBKD_02025	gene	ycjO		
+IOLNKBKD_02026	CDS			hypothetical protein
+IOLNKBKD_02026	gene			
+IOLNKBKD_02027	CDS			hypothetical protein
+IOLNKBKD_02027	gene			
+IOLNKBKD_02028	CDS	dnaJ1		Chaperone protein DnaJ 1
+IOLNKBKD_02028	gene	dnaJ1		
+IOLNKBKD_02029	CDS			hypothetical protein
+IOLNKBKD_02029	gene			
+IOLNKBKD_02030	CDS	znuA		High-affinity zinc uptake system binding-protein ZnuA
+IOLNKBKD_02030	gene	znuA		
+IOLNKBKD_02031	CDS	znuC	3.6.3.-	High-affinity zinc uptake system ATP-binding protein ZnuC
+IOLNKBKD_02031	gene	znuC		
+IOLNKBKD_02032	CDS			hypothetical protein
+IOLNKBKD_02032	gene			
+IOLNKBKD_02033	CDS			hypothetical protein
+IOLNKBKD_02033	gene			
+IOLNKBKD_02034	CDS	nfuA_4		Fe/S biogenesis protein NfuA
+IOLNKBKD_02034	gene	nfuA_4		
+IOLNKBKD_02035	CDS			hypothetical protein
+IOLNKBKD_02035	gene			
+IOLNKBKD_02036	CDS			hypothetical protein
+IOLNKBKD_02036	gene			
+IOLNKBKD_02037	CDS			hypothetical protein
+IOLNKBKD_02037	gene			
+IOLNKBKD_02038	CDS			hypothetical protein
+IOLNKBKD_02038	gene			
+IOLNKBKD_02039	CDS	uvrA		UvrABC system protein A
+IOLNKBKD_02039	gene	uvrA		
+IOLNKBKD_02040	CDS	ubiD	4.1.1.98	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+IOLNKBKD_02040	gene	ubiD		
+IOLNKBKD_02041	CDS			hypothetical protein
+IOLNKBKD_02041	gene			
+IOLNKBKD_02042	CDS			hypothetical protein
+IOLNKBKD_02042	gene			
+IOLNKBKD_02043	CDS			hypothetical protein
+IOLNKBKD_02043	gene			
+IOLNKBKD_02044	CDS			hypothetical protein
+IOLNKBKD_02044	gene			
+IOLNKBKD_02045	CDS			hypothetical protein
+IOLNKBKD_02045	gene			
+IOLNKBKD_02046	CDS	lapB_6		Lipopolysaccharide assembly protein B
+IOLNKBKD_02046	gene	lapB_6		
+IOLNKBKD_02047	CDS	tqsA_2		AI-2 transport protein TqsA
+IOLNKBKD_02047	gene	tqsA_2		
+IOLNKBKD_02048	CDS			hypothetical protein
+IOLNKBKD_02048	gene			
+IOLNKBKD_02049	CDS	rluB_2	5.4.99.22	Ribosomal large subunit pseudouridine synthase B
+IOLNKBKD_02049	gene	rluB_2		
+IOLNKBKD_02050	CDS	scpB_2		Segregation and condensation protein B 
+IOLNKBKD_02050	gene	scpB_2		
+IOLNKBKD_02051	CDS	dcd_2	3.5.4.13	Deoxycytidine triphosphate deaminase
+IOLNKBKD_02051	gene	dcd_2		
+IOLNKBKD_02052	CDS	carH		HTH-type transcriptional repressor CarH
+IOLNKBKD_02052	gene	carH		
+IOLNKBKD_02053	CDS	cbiX_2	4.99.1.3	Sirohydrochlorin cobaltochelatase
+IOLNKBKD_02053	gene	cbiX_2		
+IOLNKBKD_02054	CDS			hypothetical protein
+IOLNKBKD_02054	gene			
+IOLNKBKD_02055	CDS			hypothetical protein
+IOLNKBKD_02055	gene			
+IOLNKBKD_02056	CDS	purD_3	6.3.4.13	Phosphoribosylamine--glycine ligase
+IOLNKBKD_02056	gene	purD_3		
+IOLNKBKD_02057	CDS	potA_2	3.6.3.31	Spermidine/putrescine import ATP-binding protein PotA
+IOLNKBKD_02057	gene	potA_2		
+IOLNKBKD_02058	CDS			hypothetical protein
+IOLNKBKD_02058	gene			
+IOLNKBKD_02059	CDS	pkn1_16	2.7.11.1	Serine/threonine-protein kinase pkn1
+IOLNKBKD_02059	gene	pkn1_16		
+IOLNKBKD_02060	CDS	msrP_5	1.8.5.-	Protein-methionine-sulfoxide reductase catalytic subunit MsrP
+IOLNKBKD_02060	gene	msrP_5		
+IOLNKBKD_02061	CDS	dapB_1	1.17.1.8	4-hydroxy-tetrahydrodipicolinate reductase
+IOLNKBKD_02061	gene	dapB_1		
+IOLNKBKD_02062	CDS	dapA_1	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+IOLNKBKD_02062	gene	dapA_1		
+IOLNKBKD_02063	CDS	dapF_1	5.1.1.7	Diaminopimelate epimerase
+IOLNKBKD_02063	gene	dapF_1		
+IOLNKBKD_02064	CDS	hflK		Modulator of FtsH protease HflK
+IOLNKBKD_02064	gene	hflK		
+IOLNKBKD_02065	CDS			hypothetical protein
+IOLNKBKD_02065	gene			
+IOLNKBKD_02066	CDS	phnP	3.1.4.55	Phosphoribosyl 1,2-cyclic phosphate phosphodiesterase
+IOLNKBKD_02066	gene	phnP		
+IOLNKBKD_02067	CDS	tsaA	1.11.1.15	putative peroxiredoxin
+IOLNKBKD_02067	gene	tsaA		
+IOLNKBKD_02068	CDS	surE	3.1.3.5	5'-nucleotidase SurE
+IOLNKBKD_02068	gene	surE		
+IOLNKBKD_02069	CDS	pnp	2.7.7.8	Polyribonucleotide nucleotidyltransferase
+IOLNKBKD_02069	gene	pnp		
+IOLNKBKD_02070	CDS	ybhL		Inner membrane protein YbhL
+IOLNKBKD_02070	gene	ybhL		
+IOLNKBKD_02071	CDS	ycf3_4		Photosystem I assembly protein Ycf3
+IOLNKBKD_02071	gene	ycf3_4		
+IOLNKBKD_02072	CDS			hypothetical protein
+IOLNKBKD_02072	gene			
+IOLNKBKD_02073	tRNA			tRNA-Asn(gtt)
+IOLNKBKD_02073	gene			
+IOLNKBKD_02074	CDS	recR_2		Recombination protein RecR
+IOLNKBKD_02074	gene	recR_2		
+IOLNKBKD_02075	CDS			Nucleoid-associated protein
+IOLNKBKD_02075	gene			
+IOLNKBKD_02076	CDS	dnaX_2	2.7.7.7	DNA polymerase III subunit tau
+IOLNKBKD_02076	gene	dnaX_2		
+IOLNKBKD_02077	CDS			hypothetical protein
+IOLNKBKD_02077	gene			
+IOLNKBKD_02078	CDS			hypothetical protein
+IOLNKBKD_02078	gene			
+IOLNKBKD_02079	CDS	rplQ		50S ribosomal protein L17
+IOLNKBKD_02079	gene	rplQ		
+IOLNKBKD_02080	CDS	rpoA	2.7.7.6	DNA-directed RNA polymerase subunit alpha
+IOLNKBKD_02080	gene	rpoA		
+IOLNKBKD_02081	CDS	rpsD		30S ribosomal protein S4
+IOLNKBKD_02081	gene	rpsD		
+IOLNKBKD_02082	CDS	rpsK_2		30S ribosomal protein S11
+IOLNKBKD_02082	gene	rpsK_2		
+IOLNKBKD_02083	CDS	rpsM_2		30S ribosomal protein S13
+IOLNKBKD_02083	gene	rpsM_2		
+IOLNKBKD_02084	CDS	infA_2		Translation initiation factor IF-1
+IOLNKBKD_02084	gene	infA_2		
+IOLNKBKD_02085	CDS	adk_2	2.7.4.3	Adenylate kinase
+IOLNKBKD_02085	gene	adk_2		
+IOLNKBKD_02086	CDS	secY_2		Protein translocase subunit SecY
+IOLNKBKD_02086	gene	secY_2		
+IOLNKBKD_02087	CDS	rplO_2		50S ribosomal protein L15
+IOLNKBKD_02087	gene	rplO_2		
+IOLNKBKD_02088	CDS	rpsE		30S ribosomal protein S5
+IOLNKBKD_02088	gene	rpsE		
+IOLNKBKD_02089	CDS	rplR		50S ribosomal protein L18
+IOLNKBKD_02089	gene	rplR		
+IOLNKBKD_02090	CDS	rplF		50S ribosomal protein L6
+IOLNKBKD_02090	gene	rplF		
+IOLNKBKD_02091	CDS	rpsH		30S ribosomal protein S8
+IOLNKBKD_02091	gene	rpsH		
+IOLNKBKD_02092	CDS	proB_2	2.7.2.11	Glutamate 5-kinase
+IOLNKBKD_02092	gene	proB_2		
+IOLNKBKD_02093	CDS			hypothetical protein
+IOLNKBKD_02093	gene			
+IOLNKBKD_02094	CDS			hypothetical protein
+IOLNKBKD_02094	gene			
+IOLNKBKD_02095	CDS		1.1.1.-	Putative 2-hydroxyacid dehydrogenase
+IOLNKBKD_02095	gene			
+IOLNKBKD_02096	CDS	ychF_3		Ribosome-binding ATPase YchF
+IOLNKBKD_02096	gene	ychF_3		
+IOLNKBKD_02097	CDS	nlpI		Lipoprotein NlpI
+IOLNKBKD_02097	gene	nlpI		
+IOLNKBKD_02098	CDS	tgpA	2.3.2.13	Protein-glutamine gamma-glutamyltransferase
+IOLNKBKD_02098	gene	tgpA		
+IOLNKBKD_02099	CDS	ppiA_2	5.2.1.8	Peptidyl-prolyl cis-trans isomerase A
+IOLNKBKD_02099	gene	ppiA_2		
+IOLNKBKD_02100	CDS			hypothetical protein
+IOLNKBKD_02100	gene			
+IOLNKBKD_02101	CDS			hypothetical protein
+IOLNKBKD_02101	gene			
+IOLNKBKD_02102	CDS			hypothetical protein
+IOLNKBKD_02102	gene			
+IOLNKBKD_02103	CDS			hypothetical protein
+IOLNKBKD_02103	gene			
+IOLNKBKD_02104	CDS			hypothetical protein
+IOLNKBKD_02104	gene			
+IOLNKBKD_02105	CDS	tatB		Sec-independent protein translocase protein TatB
+IOLNKBKD_02105	gene	tatB		
+IOLNKBKD_02106	CDS	ribF		Riboflavin biosynthesis protein RibF
+IOLNKBKD_02106	gene	ribF		
+IOLNKBKD_02107	CDS	ftsN_2		Cell division protein FtsN
+IOLNKBKD_02107	gene	ftsN_2		
+IOLNKBKD_02108	CDS		2.5.1.10	Farnesyl diphosphate synthase
+IOLNKBKD_02108	gene			
+IOLNKBKD_02109	CDS	dxs_2	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+IOLNKBKD_02109	gene	dxs_2		
+IOLNKBKD_02110	CDS	hisB_2	4.2.1.19	Imidazoleglycerol-phosphate dehydratase
+IOLNKBKD_02110	gene	hisB_2		
+IOLNKBKD_02111	CDS	hisH_2	2.4.2.-	Imidazole glycerol phosphate synthase subunit HisH
+IOLNKBKD_02111	gene	hisH_2		
+IOLNKBKD_02112	CDS	phoR_2	2.7.13.3	Alkaline phosphatase synthesis sensor protein PhoR
+IOLNKBKD_02112	gene	phoR_2		
+IOLNKBKD_02113	CDS	phoB		Phosphate regulon transcriptional regulatory protein PhoB
+IOLNKBKD_02113	gene	phoB		
+IOLNKBKD_02114	CDS			hypothetical protein
+IOLNKBKD_02114	gene			
+IOLNKBKD_02115	CDS	ramA_2	3.5.1.100	(R)-stereoselective amidase
+IOLNKBKD_02115	gene	ramA_2		
+IOLNKBKD_02116	CDS			hypothetical protein
+IOLNKBKD_02116	gene			
+IOLNKBKD_02117	CDS	pckA_2	4.1.1.49	Phosphoenolpyruvate carboxykinase (ATP)
+IOLNKBKD_02117	gene	pckA_2		
+IOLNKBKD_02118	CDS	pdxA2_2	1.1.1.262	4-hydroxythreonine-4-phosphate dehydrogenase 2
+IOLNKBKD_02118	gene	pdxA2_2		
+IOLNKBKD_02119	CDS	rsmA_2	2.1.1.182	Ribosomal RNA small subunit methyltransferase A
+IOLNKBKD_02119	gene	rsmA_2		
+IOLNKBKD_02120	CDS			hypothetical protein
+IOLNKBKD_02120	gene			
+IOLNKBKD_02121	CDS	radA	3.6.4.-	DNA repair protein RadA
+IOLNKBKD_02121	gene	radA		
+IOLNKBKD_02122	CDS	ispD	2.7.7.60	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+IOLNKBKD_02122	gene	ispD		
+IOLNKBKD_02123	CDS	bcp_3	1.11.1.15	Putative peroxiredoxin
+IOLNKBKD_02123	gene	bcp_3		
+IOLNKBKD_02124	CDS			hypothetical protein
+IOLNKBKD_02124	gene			
+IOLNKBKD_02125	CDS	exbD_3		Biopolymer transport protein ExbD
+IOLNKBKD_02125	gene	exbD_3		
+IOLNKBKD_02126	CDS	exbB_3		Biopolymer transport protein ExbB
+IOLNKBKD_02126	gene	exbB_3		
+IOLNKBKD_02127	CDS	bamD_5		Outer membrane protein assembly factor BamD
+IOLNKBKD_02127	gene	bamD_5		
+IOLNKBKD_02128	CDS	sigA_2		RNA polymerase sigma factor SigA
+IOLNKBKD_02128	gene	sigA_2		
+IOLNKBKD_02129	CDS	plsY	2.3.1.-	Glycerol-3-phosphate acyltransferase
+IOLNKBKD_02129	gene	plsY		
+IOLNKBKD_02130	CDS			hypothetical protein
+IOLNKBKD_02130	gene			
+IOLNKBKD_02131	CDS	xpsE_2		Type II secretion system protein E
+IOLNKBKD_02131	gene	xpsE_2		
+IOLNKBKD_02132	CDS	epsF_3		Type II secretion system protein F
+IOLNKBKD_02132	gene	epsF_3		
+IOLNKBKD_02133	CDS	epsG		Type II secretion system protein G
+IOLNKBKD_02133	gene	epsG		
+IOLNKBKD_02134	CDS			hypothetical protein
+IOLNKBKD_02134	gene			
+IOLNKBKD_02135	CDS	smpB		SsrA-binding protein
+IOLNKBKD_02135	gene	smpB		
+IOLNKBKD_02136	CDS	aziB2	2.1.1.302	3-hydroxy-5-methyl-1-naphthoate 3-O-methyltransferase
+IOLNKBKD_02136	gene	aziB2		
+IOLNKBKD_02137	CDS	yhbE		putative inner membrane transporter YhbE
+IOLNKBKD_02137	gene	yhbE		
+IOLNKBKD_02138	CDS			hypothetical protein
+IOLNKBKD_02138	gene			
+IOLNKBKD_02139	CDS			hypothetical protein
+IOLNKBKD_02139	gene			
+IOLNKBKD_02140	CDS			hypothetical protein
+IOLNKBKD_02140	gene			
+IOLNKBKD_02141	CDS			hypothetical protein
+IOLNKBKD_02141	gene			
+IOLNKBKD_02142	CDS			hypothetical protein
+IOLNKBKD_02142	gene			
+IOLNKBKD_02143	CDS			hypothetical protein
+IOLNKBKD_02143	gene			
+IOLNKBKD_02144	CDS	crtQ	2.4.1.-	4,4'-diaponeurosporenoate glycosyltransferase
+IOLNKBKD_02144	gene	crtQ		
+IOLNKBKD_02145	CDS	yhaO_2		putative metallophosphoesterase YhaO
+IOLNKBKD_02145	gene	yhaO_2		
+IOLNKBKD_02146	CDS	recF_2		DNA replication and repair protein RecF
+IOLNKBKD_02146	gene	recF_2		
+IOLNKBKD_02147	CDS			hypothetical protein
+IOLNKBKD_02147	gene			
+IOLNKBKD_02148	tRNA			tRNA-Met(cat)
+IOLNKBKD_02148	gene			
+IOLNKBKD_02149	CDS			hypothetical protein
+IOLNKBKD_02149	gene			
+IOLNKBKD_02150	CDS			hypothetical protein
+IOLNKBKD_02150	gene			
+IOLNKBKD_02151	CDS			hypothetical protein
+IOLNKBKD_02151	gene			
+IOLNKBKD_02152	CDS			hypothetical protein
+IOLNKBKD_02152	gene			
+IOLNKBKD_02153	CDS	aroF_2	2.5.1.54	Phospho-2-dehydro-3-deoxyheptonate aldolase
+IOLNKBKD_02153	gene	aroF_2		
+IOLNKBKD_02154	CDS	glnD_3		Bifunctional uridylyltransferase/uridylyl-removing enzyme
+IOLNKBKD_02154	gene	glnD_3		
+IOLNKBKD_02155	CDS			hypothetical protein
+IOLNKBKD_02155	gene			
+IOLNKBKD_02156	CDS			hypothetical protein
+IOLNKBKD_02156	gene			
+IOLNKBKD_02157	CDS	bioB	2.8.1.6	Biotin synthase
+IOLNKBKD_02157	gene	bioB		
+IOLNKBKD_02158	CDS	trxA_2		Thioredoxin 1
+IOLNKBKD_02158	gene	trxA_2		
+IOLNKBKD_02159	CDS			hypothetical protein
+IOLNKBKD_02159	gene			
+IOLNKBKD_02160	CDS		3.5.3.18	N(G),N(G)-dimethylarginine dimethylaminohydrolase
+IOLNKBKD_02160	gene			
+IOLNKBKD_02161	CDS			hypothetical protein
+IOLNKBKD_02161	gene			
+IOLNKBKD_02162	CDS			hypothetical protein
+IOLNKBKD_02162	gene			
+IOLNKBKD_02163	CDS	dmdA_2	4.2.1.85	2,3-dimethylmalate dehydratase large subunit
+IOLNKBKD_02163	gene	dmdA_2		
+IOLNKBKD_02164	CDS	DmdB_2	4.2.1.85	2,3-dimethylmalate dehydratase small subunit
+IOLNKBKD_02164	gene	DmdB_2		
+IOLNKBKD_02165	CDS	glnA_2	6.3.1.2	Glutamine synthetase
+IOLNKBKD_02165	gene	glnA_2		
+IOLNKBKD_02166	CDS	fliS		Flagellar protein FliS
+IOLNKBKD_02166	gene	fliS		
+IOLNKBKD_02167	CDS	sucC	6.2.1.5	Succinate--CoA ligase [ADP-forming] subunit beta
+IOLNKBKD_02167	gene	sucC		
+IOLNKBKD_02168	CDS	sucD	6.2.1.5	Succinate--CoA ligase [ADP-forming] subunit alpha
+IOLNKBKD_02168	gene	sucD		
+IOLNKBKD_02169	CDS			hypothetical protein
+IOLNKBKD_02169	gene			
+IOLNKBKD_02170	CDS			hypothetical protein
+IOLNKBKD_02170	gene			
+IOLNKBKD_02171	CDS			hypothetical protein
+IOLNKBKD_02171	gene			
+IOLNKBKD_02172	CDS	dacC_2	3.4.16.4	D-alanyl-D-alanine carboxypeptidase DacC
+IOLNKBKD_02172	gene	dacC_2		
+IOLNKBKD_02173	CDS			hypothetical protein
+IOLNKBKD_02173	gene			
+IOLNKBKD_02174	CDS	pepF1_2	3.4.24.-	Oligoendopeptidase F, plasmid
+IOLNKBKD_02174	gene	pepF1_2		
+IOLNKBKD_02175	CDS	valS_2	6.1.1.9	Valine--tRNA ligase
+IOLNKBKD_02175	gene	valS_2		
+IOLNKBKD_02176	CDS			hypothetical protein
+IOLNKBKD_02176	gene			
+IOLNKBKD_02177	CDS	nqrF_2	1.6.5.8	Na(+)-translocating NADH-quinone reductase subunit F
+IOLNKBKD_02177	gene	nqrF_2		
+IOLNKBKD_02178	CDS	mec	3.4.17.-	CysO-cysteine peptidase
+IOLNKBKD_02178	gene	mec		
+IOLNKBKD_02179	CDS	fdx_3		Ferredoxin
+IOLNKBKD_02179	gene	fdx_3		
+IOLNKBKD_02180	CDS	nfuA_5		Fe/S biogenesis protein NfuA
+IOLNKBKD_02180	gene	nfuA_5		
+IOLNKBKD_02181	CDS	resA_7		Thiol-disulfide oxidoreductase ResA
+IOLNKBKD_02181	gene	resA_7		
+IOLNKBKD_02182	CDS	egtB_2	1.14.99.50	Hercynine oxygenase
+IOLNKBKD_02182	gene	egtB_2		
+IOLNKBKD_02183	CDS			hypothetical protein
+IOLNKBKD_02183	gene			
+IOLNKBKD_02184	CDS	pkn1_17	2.7.11.1	Serine/threonine-protein kinase pkn1
+IOLNKBKD_02184	gene	pkn1_17		
+IOLNKBKD_02185	CDS	msrP_6	1.8.5.-	Protein-methionine-sulfoxide reductase catalytic subunit MsrP
+IOLNKBKD_02185	gene	msrP_6		
+IOLNKBKD_02186	CDS	dapB_2	1.17.1.8	4-hydroxy-tetrahydrodipicolinate reductase
+IOLNKBKD_02186	gene	dapB_2		
+IOLNKBKD_02187	CDS	dapA_2	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+IOLNKBKD_02187	gene	dapA_2		
+IOLNKBKD_02188	CDS	dapF_2	5.1.1.7	Diaminopimelate epimerase
+IOLNKBKD_02188	gene	dapF_2		
+IOLNKBKD_02189	CDS	mmpL9		putative transport protein MmpL9
+IOLNKBKD_02189	gene	mmpL9		
+IOLNKBKD_02190	CDS			hypothetical protein
+IOLNKBKD_02190	gene			
+IOLNKBKD_02191	CDS	tatA		Sec-independent protein translocase protein TatA
+IOLNKBKD_02191	gene	tatA		
+IOLNKBKD_02192	CDS	rpoE		ECF RNA polymerase sigma-E factor
+IOLNKBKD_02192	gene	rpoE		
+IOLNKBKD_02193	CDS			hypothetical protein
+IOLNKBKD_02193	gene			
+IOLNKBKD_02194	CDS			hypothetical protein
+IOLNKBKD_02194	gene			
+IOLNKBKD_02195	CDS	nadK_3	2.7.1.23	NAD kinase
+IOLNKBKD_02195	gene	nadK_3		
+IOLNKBKD_02196	CDS			hypothetical protein
+IOLNKBKD_02196	gene			
+IOLNKBKD_02197	CDS			hypothetical protein
+IOLNKBKD_02197	gene			
+IOLNKBKD_02198	CDS	bepA_9	3.4.-.-	Beta-barrel assembly-enhancing protease
+IOLNKBKD_02198	gene	bepA_9		
+IOLNKBKD_02199	CDS			hypothetical protein
+IOLNKBKD_02199	gene			
+IOLNKBKD_02200	CDS			hypothetical protein
+IOLNKBKD_02200	gene			
+IOLNKBKD_02201	CDS			hypothetical protein
+IOLNKBKD_02201	gene			
+IOLNKBKD_02202	CDS	purH_2		Bifunctional purine biosynthesis protein PurH
+IOLNKBKD_02202	gene	purH_2		
+IOLNKBKD_02203	CDS			hypothetical protein
+IOLNKBKD_02203	gene			
+IOLNKBKD_02204	CDS			hypothetical protein
+IOLNKBKD_02204	gene			
+IOLNKBKD_02205	CDS			hypothetical protein
+IOLNKBKD_02205	gene			
+IOLNKBKD_02206	CDS	nupX		Putative nucleoside permease NupX
+IOLNKBKD_02206	gene	nupX		
+IOLNKBKD_02207	CDS	fliY		L-cystine-binding protein FliY
+IOLNKBKD_02207	gene	fliY		
+IOLNKBKD_02208	CDS	esiB_3		Secretory immunoglobulin A-binding protein EsiB
+IOLNKBKD_02208	gene	esiB_3		
+IOLNKBKD_02209	CDS			hypothetical protein
+IOLNKBKD_02209	gene			
+IOLNKBKD_02210	CDS		3.6.1.9	Non-canonical purine NTP pyrophosphatase
+IOLNKBKD_02210	gene			
+IOLNKBKD_02211	CDS			hypothetical protein
+IOLNKBKD_02211	gene			
+IOLNKBKD_02212	CDS			hypothetical protein
+IOLNKBKD_02212	gene			
+IOLNKBKD_02213	CDS	acsA_2	6.2.1.1	Acetyl-coenzyme A synthetase
+IOLNKBKD_02213	gene	acsA_2		
+IOLNKBKD_02214	CDS	bepA_10	3.4.-.-	Beta-barrel assembly-enhancing protease
+IOLNKBKD_02214	gene	bepA_10		
+IOLNKBKD_02215	CDS	torD		Chaperone protein TorD
+IOLNKBKD_02215	gene	torD		
+IOLNKBKD_02216	CDS			hypothetical protein
+IOLNKBKD_02216	gene			
+IOLNKBKD_02217	CDS			hypothetical protein
+IOLNKBKD_02217	gene			
+IOLNKBKD_02218	CDS	ureD		Urease accessory protein UreD
+IOLNKBKD_02218	gene	ureD		
+IOLNKBKD_02219	CDS	ureA	3.5.1.5	Urease subunit gamma
+IOLNKBKD_02219	gene	ureA		
+IOLNKBKD_02220	CDS	ureB	3.5.1.5	Urease subunit beta
+IOLNKBKD_02220	gene	ureB		
+IOLNKBKD_02221	CDS	ureC	3.5.1.5	Urease subunit alpha
+IOLNKBKD_02221	gene	ureC		
+IOLNKBKD_02222	CDS	ureE		Urease accessory protein UreE
+IOLNKBKD_02222	gene	ureE		
+IOLNKBKD_02223	CDS	ureF		Urease accessory protein UreF
+IOLNKBKD_02223	gene	ureF		
+IOLNKBKD_02224	CDS	ureG		Urease accessory protein UreG
+IOLNKBKD_02224	gene	ureG		
+IOLNKBKD_02225	CDS			hypothetical protein
+IOLNKBKD_02225	gene			
+IOLNKBKD_02226	CDS			hypothetical protein
+IOLNKBKD_02226	gene			
+IOLNKBKD_02227	CDS	amiC_2		Aliphatic amidase expression-regulating protein
+IOLNKBKD_02227	gene	amiC_2		
+IOLNKBKD_02228	CDS	livH_2		High-affinity branched-chain amino acid transport system permease protein LivH
+IOLNKBKD_02228	gene	livH_2		
+IOLNKBKD_02229	CDS			hypothetical protein
+IOLNKBKD_02229	gene			
+IOLNKBKD_02230	CDS	lptB	3.6.3.-	Lipopolysaccharide export system ATP-binding protein LptB
+IOLNKBKD_02230	gene	lptB		
+IOLNKBKD_02231	CDS	livF		High-affinity branched-chain amino acid transport ATP-binding protein LivF
+IOLNKBKD_02231	gene	livF		
+IOLNKBKD_02232	CDS			hypothetical protein
+IOLNKBKD_02232	gene			
+IOLNKBKD_02233	CDS	ald	1.4.1.1	Alanine dehydrogenase
+IOLNKBKD_02233	gene	ald		
+IOLNKBKD_02234	CDS			hypothetical protein
+IOLNKBKD_02234	gene			
+IOLNKBKD_02235	CDS	gcvT_3	2.1.2.10	Aminomethyltransferase
+IOLNKBKD_02235	gene	gcvT_3		
+IOLNKBKD_02236	CDS			hypothetical protein
+IOLNKBKD_02236	gene			
+IOLNKBKD_02237	CDS	folP	2.5.1.15	Dihydropteroate synthase
+IOLNKBKD_02237	gene	folP		
+IOLNKBKD_02238	CDS	ftsH	3.4.24.-	ATP-dependent zinc metalloprotease FtsH
+IOLNKBKD_02238	gene	ftsH		
+IOLNKBKD_02239	CDS			hypothetical protein
+IOLNKBKD_02239	gene			
+IOLNKBKD_02240	CDS			hypothetical protein
+IOLNKBKD_02240	gene			
+IOLNKBKD_02241	CDS	lysA	4.1.1.20	Diaminopimelate decarboxylase
+IOLNKBKD_02241	gene	lysA		
+IOLNKBKD_02242	CDS		4.2.1.96	Putative pterin-4-alpha-carbinolamine dehydratase
+IOLNKBKD_02242	gene			
+IOLNKBKD_02243	CDS			hypothetical protein
+IOLNKBKD_02243	gene			
+IOLNKBKD_02244	CDS	qcrB_2		Menaquinol-cytochrome c reductase cytochrome b subunit
+IOLNKBKD_02244	gene	qcrB_2		
+IOLNKBKD_02245	CDS			hypothetical protein
+IOLNKBKD_02245	gene			
+IOLNKBKD_02246	CDS	resA_8		Thiol-disulfide oxidoreductase ResA
+IOLNKBKD_02246	gene	resA_8		
+IOLNKBKD_02247	CDS			hypothetical protein
+IOLNKBKD_02247	gene			
+IOLNKBKD_02248	CDS	ate	2.3.2.8	Putative arginyl-tRNA--protein transferase
+IOLNKBKD_02248	gene	ate		
+IOLNKBKD_02249	CDS	asnB	6.3.5.4	Asparagine synthetase [glutamine-hydrolyzing] 1
+IOLNKBKD_02249	gene	asnB		
+IOLNKBKD_02250	CDS			hypothetical protein
+IOLNKBKD_02250	gene			
+IOLNKBKD_02251	CDS			hypothetical protein
+IOLNKBKD_02251	gene			
+IOLNKBKD_02252	CDS			hypothetical protein
+IOLNKBKD_02252	gene			
+IOLNKBKD_02253	CDS			hypothetical protein
+IOLNKBKD_02253	gene			
+IOLNKBKD_02254	tmRNA	ssrA		transfer-messenger RNA, SsrA
+IOLNKBKD_02254	gene	ssrA		
+IOLNKBKD_02255	CDS	pimB	2.4.1.57	GDP-mannose-dependent alpha-(1-6)-phosphatidylinositol monomannoside mannosyltransferase
+IOLNKBKD_02255	gene	pimB		
+IOLNKBKD_02256	CDS	yrrB_6		TPR repeat-containing protein YrrB
+IOLNKBKD_02256	gene	yrrB_6		
+IOLNKBKD_02257	CDS	pqqE		Coenzyme PQQ synthesis protein E
+IOLNKBKD_02257	gene	pqqE		
+IOLNKBKD_02258	CDS			hypothetical protein
+IOLNKBKD_02258	gene			
+IOLNKBKD_02259	CDS	gcdC	4.1.1.70	Glutaconyl-CoA decarboxylase subunit gamma
+IOLNKBKD_02259	gene	gcdC		
+IOLNKBKD_02260	CDS	gcdB_2	4.1.1.70	Glutaconyl-CoA decarboxylase subunit beta
+IOLNKBKD_02260	gene	gcdB_2		
+IOLNKBKD_02261	CDS	oadG_2	4.1.1.3	oxaloacetate decarboxylase gamma chain
+IOLNKBKD_02261	gene	oadG_2		
+IOLNKBKD_02262	CDS			hypothetical protein
+IOLNKBKD_02262	gene			
+IOLNKBKD_02263	CDS		2.1.1.-	Putative TrmH family tRNA/rRNA methyltransferase
+IOLNKBKD_02263	gene			
+IOLNKBKD_02264	CDS	rpsU_2		30S ribosomal protein S21
+IOLNKBKD_02264	gene	rpsU_2		
+IOLNKBKD_02265	CDS			hypothetical protein
+IOLNKBKD_02265	gene			
+IOLNKBKD_02266	CDS	guaB_4	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+IOLNKBKD_02266	gene	guaB_4		
+IOLNKBKD_02267	CDS	drrA_1	3.6.3.-	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+IOLNKBKD_02267	gene	drrA_1		
+IOLNKBKD_02268	CDS	drrA_2	3.6.3.-	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+IOLNKBKD_02268	gene	drrA_2		
+IOLNKBKD_02269	CDS	acyP	3.6.1.7	Acylphosphatase
+IOLNKBKD_02269	gene	acyP		
+IOLNKBKD_02270	CDS			hypothetical protein
+IOLNKBKD_02270	gene			

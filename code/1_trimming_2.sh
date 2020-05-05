@@ -4,7 +4,7 @@
 #SBATCH -p core
 #SBATCH -n 2
 #SBATCH -t 00:10:00
-#SBATCH -J Trimmomatic_Run_JE
+#SBATCH -J Trimmomatic
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user earthius@gmail.com
 
@@ -25,7 +25,7 @@ trimmomatic PE -threads 2 -phred33 \
 /home/joen8526/GenomeAnalysis/data/trimmed_data_2/SRR4342137_Unpaired_Forward.fastq.gz \
 /home/joen8526/GenomeAnalysis/data/trimmed_data_2/SRR4342137_Paired_Reversed.fastq.gz \
 /home/joen8526/GenomeAnalysis/data/trimmed_data_2/SRR4342137_Unpaired_Reversed.fastq.gz \
-ILLUMINACLIP:$TRIMMOMATIC_HOME/adapters/TruSeq3-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:30 MINLEN:50
+ILLUMINACLIP:$TRIMMOMATIC_HOME/adapters/TruSeq3-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
 
 trimmomatic PE -threads 2 -phred33 \
 /home/joen8526/GenomeAnalysis/data/raw_data/RNA_untrimmed/SRR4342139.1.fastq.gz \
@@ -34,5 +34,5 @@ trimmomatic PE -threads 2 -phred33 \
 /home/joen8526/GenomeAnalysis/data/trimmed_data_2/SRR4342139_Unpaired_Forward.fastq.gz \
 /home/joen8526/GenomeAnalysis/data/trimmed_data_2/SRR4342139_Paired_Reversed.fastq.gz \
 /home/joen8526/GenomeAnalysis/data/trimmed_data_2/SRR4342139_Unpaired_Reversed.fastq.gz \
-ILLUMINACLIP:$TRIMMOMATIC_HOME/adapters/TruSeq3-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:30 MINLEN:50
+ILLUMINACLIP:$TRIMMOMATIC_HOME/adapters/TruSeq3-PE.fa:2:30:10 LEADING:3 TRAILING:3 SLIDINGWINDOW:4:15 MINLEN:36
 

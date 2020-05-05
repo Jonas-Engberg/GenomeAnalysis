@@ -1,0 +1,2911 @@
+locus_tag	ftype	gene	EC_number	product
+MILJHNFP_00001	CDS	hflC		Modulator of FtsH protease HflC
+MILJHNFP_00001	gene	hflC		
+MILJHNFP_00002	CDS			hypothetical protein
+MILJHNFP_00002	gene			
+MILJHNFP_00003	CDS	prmA	2.1.1.-	Ribosomal protein L11 methyltransferase
+MILJHNFP_00003	gene	prmA		
+MILJHNFP_00004	CDS			hypothetical protein
+MILJHNFP_00004	gene			
+MILJHNFP_00005	CDS	hemE	4.1.1.37	Uroporphyrinogen decarboxylase
+MILJHNFP_00005	gene	hemE		
+MILJHNFP_00006	CDS			hypothetical protein
+MILJHNFP_00006	gene			
+MILJHNFP_00007	CDS	msrP	1.8.5.-	Protein-methionine-sulfoxide reductase catalytic subunit MsrP
+MILJHNFP_00007	gene	msrP		
+MILJHNFP_00008	CDS	macB	3.6.3.-	Macrolide export ATP-binding/permease protein MacB
+MILJHNFP_00008	gene	macB		
+MILJHNFP_00009	CDS			hypothetical protein
+MILJHNFP_00009	gene			
+MILJHNFP_00010	CDS			hypothetical protein
+MILJHNFP_00010	gene			
+MILJHNFP_00011	CDS	bepA_1	3.4.-.-	Beta-barrel assembly-enhancing protease
+MILJHNFP_00011	gene	bepA_1		
+MILJHNFP_00012	CDS			hypothetical protein
+MILJHNFP_00012	gene			
+MILJHNFP_00013	CDS			hypothetical protein
+MILJHNFP_00013	gene			
+MILJHNFP_00014	CDS			hypothetical protein
+MILJHNFP_00014	gene			
+MILJHNFP_00015	CDS		1.-.-.-	putative oxidoreductase
+MILJHNFP_00015	gene			
+MILJHNFP_00016	CDS			hypothetical protein
+MILJHNFP_00016	gene			
+MILJHNFP_00017	CDS			hypothetical protein
+MILJHNFP_00017	gene			
+MILJHNFP_00018	CDS			hypothetical protein
+MILJHNFP_00018	gene			
+MILJHNFP_00019	CDS	aruH	2.6.1.84	Arginine--pyruvate transaminase AruH
+MILJHNFP_00019	gene	aruH		
+MILJHNFP_00020	CDS			hypothetical protein
+MILJHNFP_00020	gene			
+MILJHNFP_00021	CDS	ctaA	1.3.-.-	Heme A synthase
+MILJHNFP_00021	gene	ctaA		
+MILJHNFP_00022	CDS			hypothetical protein
+MILJHNFP_00022	gene			
+MILJHNFP_00023	CDS			hypothetical protein
+MILJHNFP_00023	gene			
+MILJHNFP_00024	CDS	pimB	2.4.1.57	GDP-mannose-dependent monoacylated alpha-(1-6)-phosphatidylinositol monomannoside mannosyltransferase
+MILJHNFP_00024	gene	pimB		
+MILJHNFP_00025	CDS			hypothetical protein
+MILJHNFP_00025	gene			
+MILJHNFP_00026	CDS		2.7.1.-	Putative aminoglycoside phosphotransferase
+MILJHNFP_00026	gene			
+MILJHNFP_00027	CDS	ptsN	2.7.1.-	Nitrogen regulatory protein
+MILJHNFP_00027	gene	ptsN		
+MILJHNFP_00028	CDS	clcA		H(+)/Cl(-) exchange transporter ClcA
+MILJHNFP_00028	gene	clcA		
+MILJHNFP_00029	CDS	ihfB		Integration host factor subunit beta
+MILJHNFP_00029	gene	ihfB		
+MILJHNFP_00030	CDS	fliM_1		Flagellar motor switch protein FliM
+MILJHNFP_00030	gene	fliM_1		
+MILJHNFP_00031	CDS	mutX_1	3.6.1.55	8-oxo-dGTP diphosphatase
+MILJHNFP_00031	gene	mutX_1		
+MILJHNFP_00032	CDS			hypothetical protein
+MILJHNFP_00032	gene			
+MILJHNFP_00033	tRNA			tRNA-Asn(gtt)
+MILJHNFP_00033	gene			
+MILJHNFP_00034	CDS	rtxA	3.4.22.-	Multifunctional-autoprocessing repeats-in-toxin
+MILJHNFP_00034	gene	rtxA		
+MILJHNFP_00035	CDS	yncB	3.1.-.-	Endonuclease YncB
+MILJHNFP_00035	gene	yncB		
+MILJHNFP_00036	CDS	rbsC_1		Ribose import permease protein RbsC
+MILJHNFP_00036	gene	rbsC_1		
+MILJHNFP_00037	CDS	mglA_1	3.6.3.17	Galactose/methyl galactoside import ATP-binding protein MglA
+MILJHNFP_00037	gene	mglA_1		
+MILJHNFP_00038	CDS	afr_1	1.1.1.292	1,5-anhydro-D-fructose reductase
+MILJHNFP_00038	gene	afr_1		
+MILJHNFP_00039	CDS	dksA_1		RNA polymerase-binding transcription factor DksA
+MILJHNFP_00039	gene	dksA_1		
+MILJHNFP_00040	CDS	uctC	2.8.3.19	Acetyl-CoA:oxalate CoA-transferase
+MILJHNFP_00040	gene	uctC		
+MILJHNFP_00041	CDS	araD	4.2.1.43	L-2-keto-3-deoxyarabonate dehydratase
+MILJHNFP_00041	gene	araD		
+MILJHNFP_00042	CDS	gntR		putative D-xylose utilization operon transcriptional repressor
+MILJHNFP_00042	gene	gntR		
+MILJHNFP_00043	CDS			hypothetical protein
+MILJHNFP_00043	gene			
+MILJHNFP_00044	CDS	cyaB	4.6.1.1	Adenylate cyclase 2
+MILJHNFP_00044	gene	cyaB		
+MILJHNFP_00045	CDS			hypothetical protein
+MILJHNFP_00045	gene			
+MILJHNFP_00046	CDS	fdhC		Fructose dehydrogenase cytochrome subunit
+MILJHNFP_00046	gene	fdhC		
+MILJHNFP_00047	CDS			Cytochrome c'
+MILJHNFP_00047	gene			
+MILJHNFP_00048	CDS			hypothetical protein
+MILJHNFP_00048	gene			
+MILJHNFP_00049	CDS			hypothetical protein
+MILJHNFP_00049	gene			
+MILJHNFP_00050	CDS			hypothetical protein
+MILJHNFP_00050	gene			
+MILJHNFP_00051	CDS	fliC_1		B-type flagellin
+MILJHNFP_00051	gene	fliC_1		
+MILJHNFP_00052	CDS			hypothetical protein
+MILJHNFP_00052	gene			
+MILJHNFP_00053	CDS	gcvH		Glycine cleavage system H protein
+MILJHNFP_00053	gene	gcvH		
+MILJHNFP_00054	CDS	degQ	3.4.21.107	Periplasmic pH-dependent serine endoprotease DegQ
+MILJHNFP_00054	gene	degQ		
+MILJHNFP_00055	CDS			hypothetical protein
+MILJHNFP_00055	gene			
+MILJHNFP_00056	CDS			hypothetical protein
+MILJHNFP_00056	gene			
+MILJHNFP_00057	CDS	tarD	4.2.1.81	D(-)-tartrate dehydratase
+MILJHNFP_00057	gene	tarD		
+MILJHNFP_00058	CDS	fbpC	3.6.3.30	Fe(3+) ions import ATP-binding protein FbpC
+MILJHNFP_00058	gene	fbpC		
+MILJHNFP_00059	CDS			hypothetical protein
+MILJHNFP_00059	gene			
+MILJHNFP_00060	CDS			hypothetical protein
+MILJHNFP_00060	gene			
+MILJHNFP_00061	CDS			hypothetical protein
+MILJHNFP_00061	gene			
+MILJHNFP_00062	CDS	rhtB		Homoserine/homoserine lactone efflux protein
+MILJHNFP_00062	gene	rhtB		
+MILJHNFP_00063	CDS	braC		Leucine-, isoleucine-, valine-, threonine-, and alanine-binding protein
+MILJHNFP_00063	gene	braC		
+MILJHNFP_00064	CDS			hypothetical protein
+MILJHNFP_00064	gene			
+MILJHNFP_00065	CDS			hypothetical protein
+MILJHNFP_00065	gene			
+MILJHNFP_00066	CDS	yciC		Putative metal chaperone YciC
+MILJHNFP_00066	gene	yciC		
+MILJHNFP_00067	CDS			hypothetical protein
+MILJHNFP_00067	gene			
+MILJHNFP_00068	CDS			hypothetical protein
+MILJHNFP_00068	gene			
+MILJHNFP_00069	CDS	znuA		High-affinity zinc uptake system protein ZnuA
+MILJHNFP_00069	gene	znuA		
+MILJHNFP_00070	CDS			hypothetical protein
+MILJHNFP_00070	gene			
+MILJHNFP_00071	CDS			hypothetical protein
+MILJHNFP_00071	gene			
+MILJHNFP_00072	CDS	glnL	2.7.13.3	Nitrogen regulation protein NR(II)
+MILJHNFP_00072	gene	glnL		
+MILJHNFP_00073	CDS			hypothetical protein
+MILJHNFP_00073	gene			
+MILJHNFP_00074	CDS	kynU_1	3.7.1.3	Kynureninase
+MILJHNFP_00074	gene	kynU_1		
+MILJHNFP_00075	CDS	crnA	3.5.2.10	Creatinine amidohydrolase
+MILJHNFP_00075	gene	crnA		
+MILJHNFP_00076	CDS			hypothetical protein
+MILJHNFP_00076	gene			
+MILJHNFP_00077	CDS	bacC	1.1.1.385	Dihydroanticapsin 7-dehydrogenase
+MILJHNFP_00077	gene	bacC		
+MILJHNFP_00078	CDS			hypothetical protein
+MILJHNFP_00078	gene			
+MILJHNFP_00079	CDS	carB	6.3.5.5	Carbamoyl-phosphate synthase large chain
+MILJHNFP_00079	gene	carB		
+MILJHNFP_00080	CDS			hypothetical protein
+MILJHNFP_00080	gene			
+MILJHNFP_00081	CDS	mrnC	3.1.26.-	Mini-ribonuclease 3
+MILJHNFP_00081	gene	mrnC		
+MILJHNFP_00082	CDS	lpxH_1	3.6.1.54	UDP-2,3-diacylglucosamine hydrolase
+MILJHNFP_00082	gene	lpxH_1		
+MILJHNFP_00083	CDS	lolB		Outer-membrane lipoprotein LolB
+MILJHNFP_00083	gene	lolB		
+MILJHNFP_00084	CDS			hypothetical protein
+MILJHNFP_00084	gene			
+MILJHNFP_00085	CDS			hypothetical protein
+MILJHNFP_00085	gene			
+MILJHNFP_00086	CDS			hypothetical protein
+MILJHNFP_00086	gene			
+MILJHNFP_00087	CDS	pipB2		Secreted effector protein PipB2
+MILJHNFP_00087	gene	pipB2		
+MILJHNFP_00088	CDS			hypothetical protein
+MILJHNFP_00088	gene			
+MILJHNFP_00089	CDS			hypothetical protein
+MILJHNFP_00089	gene			
+MILJHNFP_00090	CDS	pdxH	1.4.3.5	Pyridoxine/pyridoxamine 5'-phosphate oxidase
+MILJHNFP_00090	gene	pdxH		
+MILJHNFP_00091	CDS			hypothetical protein
+MILJHNFP_00091	gene			
+MILJHNFP_00092	CDS			hypothetical protein
+MILJHNFP_00092	gene			
+MILJHNFP_00093	CDS			hypothetical protein
+MILJHNFP_00093	gene			
+MILJHNFP_00094	CDS			hypothetical protein
+MILJHNFP_00094	gene			
+MILJHNFP_00095	CDS			hypothetical protein
+MILJHNFP_00095	gene			
+MILJHNFP_00096	CDS			hypothetical protein
+MILJHNFP_00096	gene			
+MILJHNFP_00097	tRNA			tRNA-Met(cat)
+MILJHNFP_00097	gene			
+MILJHNFP_00098	CDS	gatA_1	6.3.5.7	Glutamyl-tRNA(Gln) amidotransferase subunit A
+MILJHNFP_00098	gene	gatA_1		
+MILJHNFP_00099	CDS	cph1	2.7.13.3	Phytochrome-like protein cph1
+MILJHNFP_00099	gene	cph1		
+MILJHNFP_00100	CDS			hypothetical protein
+MILJHNFP_00100	gene			
+MILJHNFP_00101	CDS	araQ_1		L-arabinose transport system permease protein AraQ
+MILJHNFP_00101	gene	araQ_1		
+MILJHNFP_00102	CDS	lacF_1		Lactose transport system permease protein LacF
+MILJHNFP_00102	gene	lacF_1		
+MILJHNFP_00103	CDS			hypothetical protein
+MILJHNFP_00103	gene			
+MILJHNFP_00104	CDS			hypothetical protein
+MILJHNFP_00104	gene			
+MILJHNFP_00105	CDS	apc3_1	6.4.1.8	Acetophenone carboxylase gamma subunit
+MILJHNFP_00105	gene	apc3_1		
+MILJHNFP_00106	CDS	apc4	6.4.1.8	Acetophenone carboxylase delta subunit
+MILJHNFP_00106	gene	apc4		
+MILJHNFP_00107	CDS			hypothetical protein
+MILJHNFP_00107	gene			
+MILJHNFP_00108	CDS		2.5.1.17	Cob(I)yrinic acid a,c-diamide adenosyltransferase
+MILJHNFP_00108	gene			
+MILJHNFP_00109	CDS	cobN	6.6.1.2	Aerobic cobaltochelatase subunit CobN
+MILJHNFP_00109	gene	cobN		
+MILJHNFP_00110	CDS	hutI	3.5.2.7	Imidazolonepropionase
+MILJHNFP_00110	gene	hutI		
+MILJHNFP_00111	CDS	rpsD		30S ribosomal protein S4
+MILJHNFP_00111	gene	rpsD		
+MILJHNFP_00112	CDS	ybeY	3.1.-.-	Endoribonuclease YbeY
+MILJHNFP_00112	gene	ybeY		
+MILJHNFP_00113	CDS	polC	2.7.7.7	DNA polymerase III PolC-type
+MILJHNFP_00113	gene	polC		
+MILJHNFP_00114	CDS			hypothetical protein
+MILJHNFP_00114	gene			
+MILJHNFP_00115	CDS			hypothetical protein
+MILJHNFP_00115	gene			
+MILJHNFP_00116	CDS			hypothetical protein
+MILJHNFP_00116	gene			
+MILJHNFP_00117	CDS			hypothetical protein
+MILJHNFP_00117	gene			
+MILJHNFP_00118	CDS			hypothetical protein
+MILJHNFP_00118	gene			
+MILJHNFP_00119	CDS	ptsI	2.7.3.9	Phosphoenolpyruvate-protein phosphotransferase
+MILJHNFP_00119	gene	ptsI		
+MILJHNFP_00120	CDS		1.3.1.103	2-haloacrylate reductase
+MILJHNFP_00120	gene			
+MILJHNFP_00121	CDS	uvrB		UvrABC system protein B
+MILJHNFP_00121	gene	uvrB		
+MILJHNFP_00122	CDS			hypothetical protein
+MILJHNFP_00122	gene			
+MILJHNFP_00123	CDS	metF	1.5.1.20	5,10-methylenetetrahydrofolate reductase
+MILJHNFP_00123	gene	metF		
+MILJHNFP_00124	CDS	metH_1	2.1.1.13	Methionine synthase
+MILJHNFP_00124	gene	metH_1		
+MILJHNFP_00125	CDS			hypothetical protein
+MILJHNFP_00125	gene			
+MILJHNFP_00126	CDS			hypothetical protein
+MILJHNFP_00126	gene			
+MILJHNFP_00127	CDS			putative cation efflux system protein
+MILJHNFP_00127	gene			
+MILJHNFP_00128	CDS	gloB_1	3.1.2.6	Hydroxyacylglutathione hydrolase
+MILJHNFP_00128	gene	gloB_1		
+MILJHNFP_00129	CDS			hypothetical protein
+MILJHNFP_00129	gene			
+MILJHNFP_00130	CDS			hypothetical protein
+MILJHNFP_00130	gene			
+MILJHNFP_00131	CDS			hypothetical protein
+MILJHNFP_00131	gene			
+MILJHNFP_00132	CDS			hypothetical protein
+MILJHNFP_00132	gene			
+MILJHNFP_00133	CDS	gabD	1.2.1.79	Succinate-semialdehyde dehydrogenase [NADP(+)] GabD
+MILJHNFP_00133	gene	gabD		
+MILJHNFP_00134	CDS			hypothetical protein
+MILJHNFP_00134	gene			
+MILJHNFP_00135	CDS	dmdA_1	2.1.1.269	Dimethylsulfonioproprionate demethylase DmdA
+MILJHNFP_00135	gene	dmdA_1		
+MILJHNFP_00136	CDS	miaA	2.5.1.75	tRNA dimethylallyltransferase
+MILJHNFP_00136	gene	miaA		
+MILJHNFP_00137	CDS			hypothetical protein
+MILJHNFP_00137	gene			
+MILJHNFP_00138	CDS	miaB	2.8.4.3	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+MILJHNFP_00138	gene	miaB		
+MILJHNFP_00139	CDS			hypothetical protein
+MILJHNFP_00139	gene			
+MILJHNFP_00140	CDS	ntdC	1.1.1.361	Glucose-6-phosphate 3-dehydrogenase
+MILJHNFP_00140	gene	ntdC		
+MILJHNFP_00141	CDS		4.2.1.162	6-deoxy-6-sulfo-D-gluconate dehydratase
+MILJHNFP_00141	gene			
+MILJHNFP_00142	CDS	pepQ	3.4.13.9	Xaa-Pro dipeptidase
+MILJHNFP_00142	gene	pepQ		
+MILJHNFP_00143	CDS	ispE	2.7.1.148	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+MILJHNFP_00143	gene	ispE		
+MILJHNFP_00144	CDS	mltD	4.2.2.-	Membrane-bound lytic murein transglycosylase D
+MILJHNFP_00144	gene	mltD		
+MILJHNFP_00145	CDS			hypothetical protein
+MILJHNFP_00145	gene			
+MILJHNFP_00146	CDS			hypothetical protein
+MILJHNFP_00146	gene			
+MILJHNFP_00147	CDS	fliN_1		Flagellar motor switch protein FliN
+MILJHNFP_00147	gene	fliN_1		
+MILJHNFP_00148	CDS			hypothetical protein
+MILJHNFP_00148	gene			
+MILJHNFP_00149	CDS			hypothetical protein
+MILJHNFP_00149	gene			
+MILJHNFP_00150	CDS	bioB	2.8.1.6	Biotin synthase
+MILJHNFP_00150	gene	bioB		
+MILJHNFP_00151	CDS			hypothetical protein
+MILJHNFP_00151	gene			
+MILJHNFP_00152	CDS			hypothetical protein
+MILJHNFP_00152	gene			
+MILJHNFP_00153	CDS			hypothetical protein
+MILJHNFP_00153	gene			
+MILJHNFP_00154	CDS			hypothetical protein
+MILJHNFP_00154	gene			
+MILJHNFP_00155	CDS	def_1	3.5.1.88	Peptide deformylase
+MILJHNFP_00155	gene	def_1		
+MILJHNFP_00156	CDS	phnX	3.11.1.1	Phosphonoacetaldehyde hydrolase
+MILJHNFP_00156	gene	phnX		
+MILJHNFP_00157	CDS			hypothetical protein
+MILJHNFP_00157	gene			
+MILJHNFP_00158	CDS			hypothetical protein
+MILJHNFP_00158	gene			
+MILJHNFP_00159	CDS			hypothetical protein
+MILJHNFP_00159	gene			
+MILJHNFP_00160	CDS		4.6.1.1	pH-sensitive adenylate cyclase
+MILJHNFP_00160	gene			
+MILJHNFP_00161	CDS	yhdN	1.1.1.-	General stress protein 69
+MILJHNFP_00161	gene	yhdN		
+MILJHNFP_00162	CDS	gsiA_1	3.6.3.-	Glutathione import ATP-binding protein GsiA
+MILJHNFP_00162	gene	gsiA_1		
+MILJHNFP_00163	CDS	oppD		Oligopeptide transport ATP-binding protein OppD
+MILJHNFP_00163	gene	oppD		
+MILJHNFP_00164	CDS	dppC_1		Dipeptide transport system permease protein DppC
+MILJHNFP_00164	gene	dppC_1		
+MILJHNFP_00165	CDS	recX		Regulatory protein RecX
+MILJHNFP_00165	gene	recX		
+MILJHNFP_00166	CDS	trmB	2.1.1.33	tRNA (guanine-N(7)-)-methyltransferase
+MILJHNFP_00166	gene	trmB		
+MILJHNFP_00167	CDS			hypothetical protein
+MILJHNFP_00167	gene			
+MILJHNFP_00168	CDS	atsA	3.1.6.1	Arylsulfatase
+MILJHNFP_00168	gene	atsA		
+MILJHNFP_00169	CDS			hypothetical protein
+MILJHNFP_00169	gene			
+MILJHNFP_00170	CDS			hypothetical protein
+MILJHNFP_00170	gene			
+MILJHNFP_00171	CDS	crt	4.2.1.150	Short-chain-enoyl-CoA hydratase
+MILJHNFP_00171	gene	crt		
+MILJHNFP_00172	CDS			hypothetical protein
+MILJHNFP_00172	gene			
+MILJHNFP_00173	CDS	rimO	2.8.4.4	Ribosomal protein S12 methylthiotransferase RimO
+MILJHNFP_00173	gene	rimO		
+MILJHNFP_00174	CDS			putative transcriptional regulatory protein
+MILJHNFP_00174	gene			
+MILJHNFP_00175	CDS	ruvC	3.1.22.4	Crossover junction endodeoxyribonuclease RuvC
+MILJHNFP_00175	gene	ruvC		
+MILJHNFP_00176	CDS	ruvA	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvA
+MILJHNFP_00176	gene	ruvA		
+MILJHNFP_00177	CDS	ssb		Single-stranded DNA-binding protein
+MILJHNFP_00177	gene	ssb		
+MILJHNFP_00178	CDS			hypothetical protein
+MILJHNFP_00178	gene			
+MILJHNFP_00179	CDS			hypothetical protein
+MILJHNFP_00179	gene			
+MILJHNFP_00180	CDS			hypothetical protein
+MILJHNFP_00180	gene			
+MILJHNFP_00181	CDS			hypothetical protein
+MILJHNFP_00181	gene			
+MILJHNFP_00182	CDS	pbpG		Penicillin-binding protein 2D
+MILJHNFP_00182	gene	pbpG		
+MILJHNFP_00183	CDS	ankX_1	2.7.1.-	Phosphocholine transferase AnkX
+MILJHNFP_00183	gene	ankX_1		
+MILJHNFP_00184	CDS	fbiB	6.3.2.31	Coenzyme F420:L-glutamate ligase
+MILJHNFP_00184	gene	fbiB		
+MILJHNFP_00185	CDS			hypothetical protein
+MILJHNFP_00185	gene			
+MILJHNFP_00186	CDS	livH_1		High-affinity branched-chain amino acid transport system permease protein LivH
+MILJHNFP_00186	gene	livH_1		
+MILJHNFP_00187	CDS	livK_1		Leucine-specific-binding protein
+MILJHNFP_00187	gene	livK_1		
+MILJHNFP_00188	CDS	ilvE	2.6.1.42	Branched-chain-amino-acid aminotransferase
+MILJHNFP_00188	gene	ilvE		
+MILJHNFP_00189	CDS			hypothetical protein
+MILJHNFP_00189	gene			
+MILJHNFP_00190	CDS	Hgd_1	1.1.1.291	2-(hydroxymethyl)glutarate dehydrogenase
+MILJHNFP_00190	gene	Hgd_1		
+MILJHNFP_00191	CDS			hypothetical protein
+MILJHNFP_00191	gene			
+MILJHNFP_00192	CDS	gatA_2	6.3.5.7	Glutamyl-tRNA(Gln) amidotransferase subunit A
+MILJHNFP_00192	gene	gatA_2		
+MILJHNFP_00193	CDS			hypothetical protein
+MILJHNFP_00193	gene			
+MILJHNFP_00194	CDS	dapA_1	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+MILJHNFP_00194	gene	dapA_1		
+MILJHNFP_00195	CDS	linB	3.8.1.5	Haloalkane dehalogenase
+MILJHNFP_00195	gene	linB		
+MILJHNFP_00196	CDS	bepA_2	3.4.-.-	Beta-barrel assembly-enhancing protease
+MILJHNFP_00196	gene	bepA_2		
+MILJHNFP_00197	CDS			hypothetical protein
+MILJHNFP_00197	gene			
+MILJHNFP_00198	CDS	oadB	4.1.1.3	Oxaloacetate decarboxylase beta chain
+MILJHNFP_00198	gene	oadB		
+MILJHNFP_00199	CDS			hypothetical protein
+MILJHNFP_00199	gene			
+MILJHNFP_00200	CDS	glcB	2.3.3.9	Malate synthase G
+MILJHNFP_00200	gene	glcB		
+MILJHNFP_00201	CDS			hypothetical protein
+MILJHNFP_00201	gene			
+MILJHNFP_00202	CDS			hypothetical protein
+MILJHNFP_00202	gene			
+MILJHNFP_00203	CDS			hypothetical protein
+MILJHNFP_00203	gene			
+MILJHNFP_00204	CDS			hypothetical protein
+MILJHNFP_00204	gene			
+MILJHNFP_00205	CDS			hypothetical protein
+MILJHNFP_00205	gene			
+MILJHNFP_00206	CDS			hypothetical protein
+MILJHNFP_00206	gene			
+MILJHNFP_00207	CDS			hypothetical protein
+MILJHNFP_00207	gene			
+MILJHNFP_00208	CDS			hypothetical protein
+MILJHNFP_00208	gene			
+MILJHNFP_00209	CDS	puuA	6.3.1.11	Gamma-glutamylputrescine synthetase PuuA
+MILJHNFP_00209	gene	puuA		
+MILJHNFP_00210	CDS	pepN	3.4.11.2	Aminopeptidase N
+MILJHNFP_00210	gene	pepN		
+MILJHNFP_00211	CDS	ribR	2.7.1.26	RNA-binding riboflavin kinase RibR
+MILJHNFP_00211	gene	ribR		
+MILJHNFP_00212	CDS	splG	4.1.99.14	Spore photoproduct lyase
+MILJHNFP_00212	gene	splG		
+MILJHNFP_00213	CDS	lon2_1	3.4.21.53	Lon protease 2
+MILJHNFP_00213	gene	lon2_1		
+MILJHNFP_00214	CDS	bdbD		Disulfide bond formation protein D
+MILJHNFP_00214	gene	bdbD		
+MILJHNFP_00215	CDS			hypothetical protein
+MILJHNFP_00215	gene			
+MILJHNFP_00216	CDS	mreB_1		Rod shape-determining protein MreB
+MILJHNFP_00216	gene	mreB_1		
+MILJHNFP_00217	CDS	dgoK1	2.7.1.58	putative 2-dehydro-3-deoxygalactonokinase DgoK1
+MILJHNFP_00217	gene	dgoK1		
+MILJHNFP_00218	CDS			hypothetical protein
+MILJHNFP_00218	gene			
+MILJHNFP_00219	CDS			hypothetical protein
+MILJHNFP_00219	gene			
+MILJHNFP_00220	CDS			hypothetical protein
+MILJHNFP_00220	gene			
+MILJHNFP_00221	CDS			hypothetical protein
+MILJHNFP_00221	gene			
+MILJHNFP_00222	CDS	fabG3	1.1.1.53	3-alpha-(or 20-beta)-hydroxysteroid dehydrogenase
+MILJHNFP_00222	gene	fabG3		
+MILJHNFP_00223	CDS	gsiA_2	3.6.3.-	Glutathione import ATP-binding protein GsiA
+MILJHNFP_00223	gene	gsiA_2		
+MILJHNFP_00224	CDS	oppF		Oligopeptide transport ATP-binding protein OppF
+MILJHNFP_00224	gene	oppF		
+MILJHNFP_00225	CDS	gsiC_1		Glutathione transport system permease protein GsiC
+MILJHNFP_00225	gene	gsiC_1		
+MILJHNFP_00226	CDS	dppA		Periplasmic dipeptide transport protein
+MILJHNFP_00226	gene	dppA		
+MILJHNFP_00227	CDS			hypothetical protein
+MILJHNFP_00227	gene			
+MILJHNFP_00228	CDS			hypothetical protein
+MILJHNFP_00228	gene			
+MILJHNFP_00229	CDS		2.1.1.-	putative S-adenosylmethionine-dependent methyltransferase/MSMEI_2290
+MILJHNFP_00229	gene			
+MILJHNFP_00230	CDS	comC_1		Type 4 prepilin-like proteins leader peptide-processing enzyme
+MILJHNFP_00230	gene	comC_1		
+MILJHNFP_00231	CDS			hypothetical protein
+MILJHNFP_00231	gene			
+MILJHNFP_00232	CDS	murI	5.1.1.3	Glutamate racemase
+MILJHNFP_00232	gene	murI		
+MILJHNFP_00233	CDS	pcm	2.1.1.77	Protein-L-isoaspartate O-methyltransferase
+MILJHNFP_00233	gene	pcm		
+MILJHNFP_00234	CDS	meh	4.2.1.153	Mesaconyl-C(4)-CoA hydratase
+MILJHNFP_00234	gene	meh		
+MILJHNFP_00235	CDS	menD	2.2.1.9	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+MILJHNFP_00235	gene	menD		
+MILJHNFP_00236	CDS	menB	4.1.3.36	1,4-dihydroxy-2-naphthoyl-CoA synthase
+MILJHNFP_00236	gene	menB		
+MILJHNFP_00237	CDS		1.13.12.-	Putative monooxygenase
+MILJHNFP_00237	gene			
+MILJHNFP_00238	CDS	gatA_3	6.3.5.7	Glutamyl-tRNA(Gln) amidotransferase subunit A
+MILJHNFP_00238	gene	gatA_3		
+MILJHNFP_00239	CDS			hypothetical protein
+MILJHNFP_00239	gene			
+MILJHNFP_00240	CDS	pkn1_1	2.7.11.1	Serine/threonine-protein kinase pkn1
+MILJHNFP_00240	gene	pkn1_1		
+MILJHNFP_00241	CDS	oxyR		Hydrogen peroxide-inducible genes activator
+MILJHNFP_00241	gene	oxyR		
+MILJHNFP_00242	CDS	apaG		Protein ApaG
+MILJHNFP_00242	gene	apaG		
+MILJHNFP_00243	CDS			hypothetical protein
+MILJHNFP_00243	gene			
+MILJHNFP_00244	CDS			hypothetical protein
+MILJHNFP_00244	gene			
+MILJHNFP_00245	CDS			hypothetical protein
+MILJHNFP_00245	gene			
+MILJHNFP_00246	CDS			hypothetical protein
+MILJHNFP_00246	gene			
+MILJHNFP_00247	CDS			hypothetical protein
+MILJHNFP_00247	gene			
+MILJHNFP_00248	CDS			hypothetical protein
+MILJHNFP_00248	gene			
+MILJHNFP_00249	CDS		3.1.1.99	6-deoxy-6-sulfogluconolactonase
+MILJHNFP_00249	gene			
+MILJHNFP_00250	CDS	ectD_1	1.14.11.-	Ectoine dioxygenase
+MILJHNFP_00250	gene	ectD_1		
+MILJHNFP_00251	CDS			hypothetical protein
+MILJHNFP_00251	gene			
+MILJHNFP_00252	CDS	yedA		putative inner membrane transporter YedA
+MILJHNFP_00252	gene	yedA		
+MILJHNFP_00253	CDS	yciB		putative intracellular septation protein A
+MILJHNFP_00253	gene	yciB		
+MILJHNFP_00254	CDS			hypothetical protein
+MILJHNFP_00254	gene			
+MILJHNFP_00255	CDS	boxC	4.1.2.44	Benzoyl-CoA-dihydrodiol lyase
+MILJHNFP_00255	gene	boxC		
+MILJHNFP_00256	CDS			hypothetical protein
+MILJHNFP_00256	gene			
+MILJHNFP_00257	CDS			hypothetical protein
+MILJHNFP_00257	gene			
+MILJHNFP_00258	CDS	lptD_1		LPS-assembly protein LptD
+MILJHNFP_00258	gene	lptD_1		
+MILJHNFP_00259	CDS	recC	3.1.11.5	RecBCD enzyme subunit RecC
+MILJHNFP_00259	gene	recC		
+MILJHNFP_00260	CDS	pta	2.3.1.8	Phosphate acetyltransferase
+MILJHNFP_00260	gene	pta		
+MILJHNFP_00261	CDS			hypothetical protein
+MILJHNFP_00261	gene			
+MILJHNFP_00262	CDS	gpr	1.1.1.-	L-glyceraldehyde 3-phosphate reductase
+MILJHNFP_00262	gene	gpr		
+MILJHNFP_00263	CDS	ribX_1		Riboflavin transport system permease protein RibX
+MILJHNFP_00263	gene	ribX_1		
+MILJHNFP_00264	CDS	ribX_2		Riboflavin transport system permease protein RibX
+MILJHNFP_00264	gene	ribX_2		
+MILJHNFP_00265	CDS	ribY		Riboflavin-binding protein RibY
+MILJHNFP_00265	gene	ribY		
+MILJHNFP_00266	CDS	lysA	4.1.1.20	Diaminopimelate decarboxylase
+MILJHNFP_00266	gene	lysA		
+MILJHNFP_00267	CDS	mmsB	1.1.1.31	3-hydroxyisobutyrate dehydrogenase
+MILJHNFP_00267	gene	mmsB		
+MILJHNFP_00268	CDS			hypothetical protein
+MILJHNFP_00268	gene			
+MILJHNFP_00269	CDS			hypothetical protein
+MILJHNFP_00269	gene			
+MILJHNFP_00270	CDS			hypothetical protein
+MILJHNFP_00270	gene			
+MILJHNFP_00271	CDS			hypothetical protein
+MILJHNFP_00271	gene			
+MILJHNFP_00272	CDS	recF		DNA replication and repair protein RecF
+MILJHNFP_00272	gene	recF		
+MILJHNFP_00273	CDS	dnaN	2.7.7.7	DNA polymerase III subunit beta
+MILJHNFP_00273	gene	dnaN		
+MILJHNFP_00274	CDS	npt	2.7.8.7	4'-phosphopantetheinyl transferase Npt
+MILJHNFP_00274	gene	npt		
+MILJHNFP_00275	CDS			hypothetical protein
+MILJHNFP_00275	gene			
+MILJHNFP_00276	CDS			hypothetical protein
+MILJHNFP_00276	gene			
+MILJHNFP_00277	CDS	mmpL4		Siderophore exporter MmpL4
+MILJHNFP_00277	gene	mmpL4		
+MILJHNFP_00278	CDS			hypothetical protein
+MILJHNFP_00278	gene			
+MILJHNFP_00279	CDS			hypothetical protein
+MILJHNFP_00279	gene			
+MILJHNFP_00280	CDS			hypothetical protein
+MILJHNFP_00280	gene			
+MILJHNFP_00281	CDS			hypothetical protein
+MILJHNFP_00281	gene			
+MILJHNFP_00282	CDS			hypothetical protein
+MILJHNFP_00282	gene			
+MILJHNFP_00283	CDS			Purine-binding protein
+MILJHNFP_00283	gene			
+MILJHNFP_00284	CDS	yfcG_1	1.8.4.-	Disulfide-bond oxidoreductase YfcG
+MILJHNFP_00284	gene	yfcG_1		
+MILJHNFP_00285	CDS		1.14.13.128	putative methylxanthine N7-demethylase NdmC
+MILJHNFP_00285	gene			
+MILJHNFP_00286	CDS	acoA	1.1.1.-	Acetoin:2,6-dichlorophenolindophenol oxidoreductase subunit alpha
+MILJHNFP_00286	gene	acoA		
+MILJHNFP_00287	CDS			hypothetical protein
+MILJHNFP_00287	gene			
+MILJHNFP_00288	CDS	fliG_1		Flagellar motor switch protein FliG
+MILJHNFP_00288	gene	fliG_1		
+MILJHNFP_00289	CDS			hypothetical protein
+MILJHNFP_00289	gene			
+MILJHNFP_00290	CDS	ydhV	1.-.-.-	putative oxidoreductase YdhV
+MILJHNFP_00290	gene	ydhV		
+MILJHNFP_00291	CDS			hypothetical protein
+MILJHNFP_00291	gene			
+MILJHNFP_00292	CDS			hypothetical protein
+MILJHNFP_00292	gene			
+MILJHNFP_00293	CDS	lpxH_2	3.6.1.54	UDP-2,3-diacylglucosamine hydrolase
+MILJHNFP_00293	gene	lpxH_2		
+MILJHNFP_00294	CDS	flhF		Flagellar biosynthesis protein FlhF
+MILJHNFP_00294	gene	flhF		
+MILJHNFP_00295	CDS	flhA		Flagellar biosynthesis protein FlhA
+MILJHNFP_00295	gene	flhA		
+MILJHNFP_00296	CDS			hypothetical protein
+MILJHNFP_00296	gene			
+MILJHNFP_00297	CDS			hypothetical protein
+MILJHNFP_00297	gene			
+MILJHNFP_00298	CDS	moeA	2.10.1.1	Molybdopterin molybdenumtransferase
+MILJHNFP_00298	gene	moeA		
+MILJHNFP_00299	CDS	atpD	3.6.3.14	ATP synthase subunit beta
+MILJHNFP_00299	gene	atpD		
+MILJHNFP_00300	CDS	atpC		ATP synthase epsilon chain
+MILJHNFP_00300	gene	atpC		
+MILJHNFP_00301	CDS			hypothetical protein
+MILJHNFP_00301	gene			
+MILJHNFP_00302	CDS			hypothetical protein
+MILJHNFP_00302	gene			
+MILJHNFP_00303	CDS			hypothetical protein
+MILJHNFP_00303	gene			
+MILJHNFP_00304	CDS	cymR_1		HTH-type transcriptional regulator CymR
+MILJHNFP_00304	gene	cymR_1		
+MILJHNFP_00305	CDS			hypothetical protein
+MILJHNFP_00305	gene			
+MILJHNFP_00306	CDS			hypothetical protein
+MILJHNFP_00306	gene			
+MILJHNFP_00307	CDS			hypothetical protein
+MILJHNFP_00307	gene			
+MILJHNFP_00308	CDS	ribH	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+MILJHNFP_00308	gene	ribH		
+MILJHNFP_00309	CDS		1.14.11.1	Gamma-butyrobetaine dioxygenase
+MILJHNFP_00309	gene			
+MILJHNFP_00310	CDS			hypothetical protein
+MILJHNFP_00310	gene			
+MILJHNFP_00311	CDS	tmk	2.7.4.9	Thymidylate kinase
+MILJHNFP_00311	gene	tmk		
+MILJHNFP_00312	CDS			hypothetical protein
+MILJHNFP_00312	gene			
+MILJHNFP_00313	CDS			hypothetical protein
+MILJHNFP_00313	gene			
+MILJHNFP_00314	CDS	livF_1		High-affinity branched-chain amino acid transport ATP-binding protein LivF
+MILJHNFP_00314	gene	livF_1		
+MILJHNFP_00315	CDS	livF_2		High-affinity branched-chain amino acid transport ATP-binding protein LivF
+MILJHNFP_00315	gene	livF_2		
+MILJHNFP_00316	CDS			hypothetical protein
+MILJHNFP_00316	gene			
+MILJHNFP_00317	CDS			hypothetical protein
+MILJHNFP_00317	gene			
+MILJHNFP_00318	CDS	resA_1		Thiol-disulfide oxidoreductase ResA
+MILJHNFP_00318	gene	resA_1		
+MILJHNFP_00319	CDS			hypothetical protein
+MILJHNFP_00319	gene			
+MILJHNFP_00320	CDS			hypothetical protein
+MILJHNFP_00320	gene			
+MILJHNFP_00321	CDS			hypothetical protein
+MILJHNFP_00321	gene			
+MILJHNFP_00322	CDS			hypothetical protein
+MILJHNFP_00322	gene			
+MILJHNFP_00323	CDS			hypothetical protein
+MILJHNFP_00323	gene			
+MILJHNFP_00324	CDS			hypothetical protein
+MILJHNFP_00324	gene			
+MILJHNFP_00325	CDS			hypothetical protein
+MILJHNFP_00325	gene			
+MILJHNFP_00326	CDS	selA	2.9.1.1	L-seryl-tRNA(Sec) selenium transferase
+MILJHNFP_00326	gene	selA		
+MILJHNFP_00327	CDS			hypothetical protein
+MILJHNFP_00327	gene			
+MILJHNFP_00328	CDS			hypothetical protein
+MILJHNFP_00328	gene			
+MILJHNFP_00329	CDS		1.1.1.382	Ketol-acid reductoisomerase (NAD(+))
+MILJHNFP_00329	gene			
+MILJHNFP_00330	CDS	glpC_1		Anaerobic glycerol-3-phosphate dehydrogenase subunit C
+MILJHNFP_00330	gene	glpC_1		
+MILJHNFP_00331	CDS	glpE_1	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+MILJHNFP_00331	gene	glpE_1		
+MILJHNFP_00332	CDS			hypothetical protein
+MILJHNFP_00332	gene			
+MILJHNFP_00333	CDS	bauB		Beta-alanine degradation protein BauB
+MILJHNFP_00333	gene	bauB		
+MILJHNFP_00334	CDS			hypothetical protein
+MILJHNFP_00334	gene			
+MILJHNFP_00335	CDS			putative ABC transporter ATP-binding protein
+MILJHNFP_00335	gene			
+MILJHNFP_00336	CDS	fusA_1		Elongation factor G
+MILJHNFP_00336	gene	fusA_1		
+MILJHNFP_00337	CDS	rpsG		30S ribosomal protein S7
+MILJHNFP_00337	gene	rpsG		
+MILJHNFP_00338	CDS	yxlF_1	3.6.3.-	putative ABC transporter ATP-binding protein YxlF
+MILJHNFP_00338	gene	yxlF_1		
+MILJHNFP_00339	CDS			hypothetical protein
+MILJHNFP_00339	gene			
+MILJHNFP_00340	CDS			hypothetical protein
+MILJHNFP_00340	gene			
+MILJHNFP_00341	CDS	cycA		Cytochrome c4
+MILJHNFP_00341	gene	cycA		
+MILJHNFP_00342	CDS			hypothetical protein
+MILJHNFP_00342	gene			
+MILJHNFP_00343	CDS			hypothetical protein
+MILJHNFP_00343	gene			
+MILJHNFP_00344	CDS	mdlY	3.5.1.86	Mandelamide hydrolase
+MILJHNFP_00344	gene	mdlY		
+MILJHNFP_00345	CDS	glnB		Nitrogen regulatory protein P-II
+MILJHNFP_00345	gene	glnB		
+MILJHNFP_00346	CDS	nrgA		Ammonium transporter NrgA
+MILJHNFP_00346	gene	nrgA		
+MILJHNFP_00347	CDS	ypeA	2.3.1.-	Acetyltransferase YpeA
+MILJHNFP_00347	gene	ypeA		
+MILJHNFP_00348	CDS	cymR_2		HTH-type transcriptional regulator CymR
+MILJHNFP_00348	gene	cymR_2		
+MILJHNFP_00349	CDS	mtaB	2.8.4.5	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+MILJHNFP_00349	gene	mtaB		
+MILJHNFP_00350	CDS	leuB	1.1.1.85	3-isopropylmalate dehydrogenase
+MILJHNFP_00350	gene	leuB		
+MILJHNFP_00351	CDS	asd	1.2.1.11	Aspartate-semialdehyde dehydrogenase
+MILJHNFP_00351	gene	asd		
+MILJHNFP_00352	CDS	tdk	2.7.1.21	Thymidine kinase
+MILJHNFP_00352	gene	tdk		
+MILJHNFP_00353	CDS	mreB_2		Rod shape-determining protein MreB
+MILJHNFP_00353	gene	mreB_2		
+MILJHNFP_00354	CDS	infA		Translation initiation factor IF-1
+MILJHNFP_00354	gene	infA		
+MILJHNFP_00355	CDS			hypothetical protein
+MILJHNFP_00355	gene			
+MILJHNFP_00356	CDS	dnaG	2.7.7.-	DNA primase
+MILJHNFP_00356	gene	dnaG		
+MILJHNFP_00357	CDS		6.2.1.3	Long-chain-fatty-acid--CoA ligase
+MILJHNFP_00357	gene			
+MILJHNFP_00358	CDS	salL	2.5.1.94	Adenosyl-chloride synthase
+MILJHNFP_00358	gene	salL		
+MILJHNFP_00359	CDS			hypothetical protein
+MILJHNFP_00359	gene			
+MILJHNFP_00360	CDS			hypothetical protein
+MILJHNFP_00360	gene			
+MILJHNFP_00361	CDS	pepE	3.4.13.-	putative dipeptidase PepE
+MILJHNFP_00361	gene	pepE		
+MILJHNFP_00362	CDS			hypothetical protein
+MILJHNFP_00362	gene			
+MILJHNFP_00363	CDS	rspA	4.2.1.-	D-galactonate dehydratase family member RspA
+MILJHNFP_00363	gene	rspA		
+MILJHNFP_00364	CDS			hypothetical protein
+MILJHNFP_00364	gene			
+MILJHNFP_00365	CDS			hypothetical protein
+MILJHNFP_00365	gene			
+MILJHNFP_00366	CDS	strB1	2.1.4.2	Inosamine-phosphate amidinotransferase 1
+MILJHNFP_00366	gene	strB1		
+MILJHNFP_00367	CDS			hypothetical protein
+MILJHNFP_00367	gene			
+MILJHNFP_00368	CDS			hypothetical protein
+MILJHNFP_00368	gene			
+MILJHNFP_00369	CDS			hypothetical protein
+MILJHNFP_00369	gene			
+MILJHNFP_00370	CDS	walR		Transcriptional regulatory protein WalR
+MILJHNFP_00370	gene	walR		
+MILJHNFP_00371	CDS	nagB	3.5.99.6	Glucosamine-6-phosphate deaminase 1
+MILJHNFP_00371	gene	nagB		
+MILJHNFP_00372	CDS			hypothetical protein
+MILJHNFP_00372	gene			
+MILJHNFP_00373	CDS		3.1.1.-	Deacetylase
+MILJHNFP_00373	gene			
+MILJHNFP_00374	CDS	ankX_2	2.7.1.-	Phosphocholine transferase AnkX
+MILJHNFP_00374	gene	ankX_2		
+MILJHNFP_00375	CDS			hypothetical protein
+MILJHNFP_00375	gene			
+MILJHNFP_00376	CDS			hypothetical protein
+MILJHNFP_00376	gene			
+MILJHNFP_00377	CDS			hypothetical protein
+MILJHNFP_00377	gene			
+MILJHNFP_00378	CDS			hypothetical protein
+MILJHNFP_00378	gene			
+MILJHNFP_00379	CDS	folK_1	2.7.6.3	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+MILJHNFP_00379	gene	folK_1		
+MILJHNFP_00380	CDS			hypothetical protein
+MILJHNFP_00380	gene			
+MILJHNFP_00381	CDS			hypothetical protein
+MILJHNFP_00381	gene			
+MILJHNFP_00382	CDS			hypothetical protein
+MILJHNFP_00382	gene			
+MILJHNFP_00383	CDS	rluB	5.4.99.22	Ribosomal large subunit pseudouridine synthase B
+MILJHNFP_00383	gene	rluB		
+MILJHNFP_00384	CDS	rnc	3.1.26.3	Ribonuclease 3
+MILJHNFP_00384	gene	rnc		
+MILJHNFP_00385	CDS			hypothetical protein
+MILJHNFP_00385	gene			
+MILJHNFP_00386	CDS	glpC_2		Anaerobic glycerol-3-phosphate dehydrogenase subunit C
+MILJHNFP_00386	gene	glpC_2		
+MILJHNFP_00387	CDS	rbr1	1.11.1.1	Rubrerythrin-1
+MILJHNFP_00387	gene	rbr1		
+MILJHNFP_00388	CDS		1.11.1.15	Putative peroxiredoxin
+MILJHNFP_00388	gene			
+MILJHNFP_00389	CDS		1.11.1.15	Putative peroxiredoxin
+MILJHNFP_00389	gene			
+MILJHNFP_00390	CDS	ilvH	2.2.1.6	Putative acetolactate synthase small subunit
+MILJHNFP_00390	gene	ilvH		
+MILJHNFP_00391	CDS	hpt	2.4.2.8	Hypoxanthine phosphoribosyltransferase
+MILJHNFP_00391	gene	hpt		
+MILJHNFP_00392	CDS	algA		Alginate biosynthesis protein AlgA
+MILJHNFP_00392	gene	algA		
+MILJHNFP_00393	CDS			hypothetical protein
+MILJHNFP_00393	gene			
+MILJHNFP_00394	CDS			hypothetical protein
+MILJHNFP_00394	gene			
+MILJHNFP_00395	CDS			hypothetical protein
+MILJHNFP_00395	gene			
+MILJHNFP_00396	CDS			hypothetical protein
+MILJHNFP_00396	gene			
+MILJHNFP_00397	CDS			hypothetical protein
+MILJHNFP_00397	gene			
+MILJHNFP_00398	CDS			hypothetical protein
+MILJHNFP_00398	gene			
+MILJHNFP_00399	CDS			hypothetical protein
+MILJHNFP_00399	gene			
+MILJHNFP_00400	CDS			putative sugar-binding periplasmic protein
+MILJHNFP_00400	gene			
+MILJHNFP_00401	CDS	ugpA		sn-glycerol-3-phosphate transport system permease protein UgpA
+MILJHNFP_00401	gene	ugpA		
+MILJHNFP_00402	CDS	araQ_2		L-arabinose transport system permease protein AraQ
+MILJHNFP_00402	gene	araQ_2		
+MILJHNFP_00403	CDS			hypothetical protein
+MILJHNFP_00403	gene			
+MILJHNFP_00404	CDS			hypothetical protein
+MILJHNFP_00404	gene			
+MILJHNFP_00405	CDS	metE	2.1.1.14	5-methyltetrahydropteroyltriglutamate--homocysteine methyltransferase
+MILJHNFP_00405	gene	metE		
+MILJHNFP_00406	CDS			hypothetical protein
+MILJHNFP_00406	gene			
+MILJHNFP_00407	CDS			hypothetical protein
+MILJHNFP_00407	gene			
+MILJHNFP_00408	CDS			hypothetical protein
+MILJHNFP_00408	gene			
+MILJHNFP_00409	CDS	lpxP_1	2.3.1.242	Lipid A biosynthesis palmitoleoyltransferase
+MILJHNFP_00409	gene	lpxP_1		
+MILJHNFP_00410	CDS			hypothetical protein
+MILJHNFP_00410	gene			
+MILJHNFP_00411	CDS			hypothetical protein
+MILJHNFP_00411	gene			
+MILJHNFP_00412	CDS	ugpB_1		sn-glycerol-3-phosphate-binding periplasmic protein UgpB
+MILJHNFP_00412	gene	ugpB_1		
+MILJHNFP_00413	CDS	phrB	4.1.99.13	(6-4) photolyase
+MILJHNFP_00413	gene	phrB		
+MILJHNFP_00414	CDS	ybaK	4.2.-.-	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+MILJHNFP_00414	gene	ybaK		
+MILJHNFP_00415	CDS			hypothetical protein
+MILJHNFP_00415	gene			
+MILJHNFP_00416	CDS	engB		putative GTP-binding protein EngB
+MILJHNFP_00416	gene	engB		
+MILJHNFP_00417	CDS	ndk	2.7.4.6	Nucleoside diphosphate kinase
+MILJHNFP_00417	gene	ndk		
+MILJHNFP_00418	CDS	hisH	2.4.2.-	Imidazole glycerol phosphate synthase subunit HisH
+MILJHNFP_00418	gene	hisH		
+MILJHNFP_00419	CDS	hisB		Histidine biosynthesis bifunctional protein HisB
+MILJHNFP_00419	gene	hisB		
+MILJHNFP_00420	CDS			hypothetical protein
+MILJHNFP_00420	gene			
+MILJHNFP_00421	CDS			hypothetical protein
+MILJHNFP_00421	gene			
+MILJHNFP_00422	CDS			hypothetical protein
+MILJHNFP_00422	gene			
+MILJHNFP_00423	CDS	fliN_2		Flagellar motor switch protein FliN
+MILJHNFP_00423	gene	fliN_2		
+MILJHNFP_00424	CDS	fliM_2		Flagellar motor switch protein FliM
+MILJHNFP_00424	gene	fliM_2		
+MILJHNFP_00425	CDS			hypothetical protein
+MILJHNFP_00425	gene			
+MILJHNFP_00426	CDS			hypothetical protein
+MILJHNFP_00426	gene			
+MILJHNFP_00427	CDS			hypothetical protein
+MILJHNFP_00427	gene			
+MILJHNFP_00428	CDS	fpgS	6.3.2.17	Folylpolyglutamate synthase
+MILJHNFP_00428	gene	fpgS		
+MILJHNFP_00429	CDS	resA_2		Thiol-disulfide oxidoreductase ResA
+MILJHNFP_00429	gene	resA_2		
+MILJHNFP_00430	CDS			hypothetical protein
+MILJHNFP_00430	gene			
+MILJHNFP_00431	CDS			hypothetical protein
+MILJHNFP_00431	gene			
+MILJHNFP_00432	CDS			hypothetical protein
+MILJHNFP_00432	gene			
+MILJHNFP_00433	CDS	fdx		2Fe-2S ferredoxin
+MILJHNFP_00433	gene	fdx		
+MILJHNFP_00434	CDS	iscA		Iron-binding protein IscA
+MILJHNFP_00434	gene	iscA		
+MILJHNFP_00435	CDS			hypothetical protein
+MILJHNFP_00435	gene			
+MILJHNFP_00436	CDS			hypothetical protein
+MILJHNFP_00436	gene			
+MILJHNFP_00437	CDS	ppiB	5.2.1.8	putative peptidyl-prolyl cis-trans isomerase
+MILJHNFP_00437	gene	ppiB		
+MILJHNFP_00438	CDS			hypothetical protein
+MILJHNFP_00438	gene			
+MILJHNFP_00439	CDS			hypothetical protein
+MILJHNFP_00439	gene			
+MILJHNFP_00440	CDS			hypothetical protein
+MILJHNFP_00440	gene			
+MILJHNFP_00441	CDS	hisC	2.6.1.9	Histidinol-phosphate aminotransferase
+MILJHNFP_00441	gene	hisC		
+MILJHNFP_00442	CDS			hypothetical protein
+MILJHNFP_00442	gene			
+MILJHNFP_00443	CDS	mfd	3.6.4.-	Transcription-repair-coupling factor
+MILJHNFP_00443	gene	mfd		
+MILJHNFP_00444	CDS	dgaE	4.3.1.29	D-glucosaminate-6-phosphate ammonia lyase
+MILJHNFP_00444	gene	dgaE		
+MILJHNFP_00445	CDS	axeA	3.1.1.41	Cephalosporin-C deacetylase
+MILJHNFP_00445	gene	axeA		
+MILJHNFP_00446	CDS	aphA		Acetylpolyamine aminohydrolase
+MILJHNFP_00446	gene	aphA		
+MILJHNFP_00447	CDS			hypothetical protein
+MILJHNFP_00447	gene			
+MILJHNFP_00448	CDS	icd	1.1.1.42	Isocitrate dehydrogenase [NADP]
+MILJHNFP_00448	gene	icd		
+MILJHNFP_00449	CDS			hypothetical protein
+MILJHNFP_00449	gene			
+MILJHNFP_00450	CDS	mltG	4.2.2.-	Endolytic murein transglycosylase
+MILJHNFP_00450	gene	mltG		
+MILJHNFP_00451	CDS			hypothetical protein
+MILJHNFP_00451	gene			
+MILJHNFP_00452	CDS	prsW	3.4.-.-	Protease PrsW
+MILJHNFP_00452	gene	prsW		
+MILJHNFP_00453	CDS			hypothetical protein
+MILJHNFP_00453	gene			
+MILJHNFP_00454	CDS			hypothetical protein
+MILJHNFP_00454	gene			
+MILJHNFP_00455	CDS	aroD	4.2.1.10	3-dehydroquinate dehydratase
+MILJHNFP_00455	gene	aroD		
+MILJHNFP_00456	CDS	outO		Type 4 prepilin-like proteins leader peptide-processing enzyme
+MILJHNFP_00456	gene	outO		
+MILJHNFP_00457	CDS			hypothetical protein
+MILJHNFP_00457	gene			
+MILJHNFP_00458	CDS	yvaM	3.-.-.-	AB hydrolase superfamily protein YvaM
+MILJHNFP_00458	gene	yvaM		
+MILJHNFP_00459	CDS	lpxP_2	2.3.1.242	Lipid A biosynthesis palmitoleoyltransferase
+MILJHNFP_00459	gene	lpxP_2		
+MILJHNFP_00460	CDS	gcvA		Glycine cleavage system transcriptional activator
+MILJHNFP_00460	gene	gcvA		
+MILJHNFP_00461	CDS	kce	2.3.1.247	3-keto-5-aminohexanoate cleavage enzyme
+MILJHNFP_00461	gene	kce		
+MILJHNFP_00462	CDS	livF_3		High-affinity branched-chain amino acid transport ATP-binding protein LivF
+MILJHNFP_00462	gene	livF_3		
+MILJHNFP_00463	CDS	livH_2		High-affinity branched-chain amino acid transport system permease protein LivH
+MILJHNFP_00463	gene	livH_2		
+MILJHNFP_00464	CDS			hypothetical protein
+MILJHNFP_00464	gene			
+MILJHNFP_00465	CDS	livK_2		Leucine-specific-binding protein
+MILJHNFP_00465	gene	livK_2		
+MILJHNFP_00466	CDS			hypothetical protein
+MILJHNFP_00466	gene			
+MILJHNFP_00467	CDS	siaT		Sialic acid TRAP transporter permease protein SiaT
+MILJHNFP_00467	gene	siaT		
+MILJHNFP_00468	CDS			hypothetical protein
+MILJHNFP_00468	gene			
+MILJHNFP_00469	CDS			hypothetical protein
+MILJHNFP_00469	gene			
+MILJHNFP_00470	CDS			hypothetical protein
+MILJHNFP_00470	gene			
+MILJHNFP_00471	CDS			hypothetical protein
+MILJHNFP_00471	gene			
+MILJHNFP_00472	CDS	apaH	3.6.1.41	Bis(5'-nucleosyl)-tetraphosphatase, symmetrical
+MILJHNFP_00472	gene	apaH		
+MILJHNFP_00473	CDS	ylxH		Flagellum site-determining protein YlxH
+MILJHNFP_00473	gene	ylxH		
+MILJHNFP_00474	CDS	dnaJ		Chaperone protein DnaJ
+MILJHNFP_00474	gene	dnaJ		
+MILJHNFP_00475	CDS	xcpT		Type II secretion system protein G
+MILJHNFP_00475	gene	xcpT		
+MILJHNFP_00476	CDS			hypothetical protein
+MILJHNFP_00476	gene			
+MILJHNFP_00477	CDS			hypothetical protein
+MILJHNFP_00477	gene			
+MILJHNFP_00478	CDS			hypothetical protein
+MILJHNFP_00478	gene			
+MILJHNFP_00479	CDS	tsr		Methyl-accepting chemotaxis protein I
+MILJHNFP_00479	gene	tsr		
+MILJHNFP_00480	CDS	cheW		Chemotaxis protein CheW
+MILJHNFP_00480	gene	cheW		
+MILJHNFP_00481	CDS	cheA	2.7.13.3	Chemotaxis protein CheA
+MILJHNFP_00481	gene	cheA		
+MILJHNFP_00482	CDS	rebM	2.1.1.164	Demethylrebeccamycin-D-glucose O-methyltransferase
+MILJHNFP_00482	gene	rebM		
+MILJHNFP_00483	CDS			hypothetical protein
+MILJHNFP_00483	gene			
+MILJHNFP_00484	CDS			hypothetical protein
+MILJHNFP_00484	gene			
+MILJHNFP_00485	CDS			hypothetical protein
+MILJHNFP_00485	gene			
+MILJHNFP_00486	CDS	prdB	1.21.4.1	D-proline reductase subunit gamma
+MILJHNFP_00486	gene	prdB		
+MILJHNFP_00487	CDS			hypothetical protein
+MILJHNFP_00487	gene			
+MILJHNFP_00488	CDS			hypothetical protein
+MILJHNFP_00488	gene			
+MILJHNFP_00489	CDS		4.4.1.11	L-methionine gamma-lyase
+MILJHNFP_00489	gene			
+MILJHNFP_00490	CDS			hypothetical protein
+MILJHNFP_00490	gene			
+MILJHNFP_00491	CDS			hypothetical protein
+MILJHNFP_00491	gene			
+MILJHNFP_00492	CDS			hypothetical protein
+MILJHNFP_00492	gene			
+MILJHNFP_00493	CDS	amiC		Aliphatic amidase expression-regulating protein
+MILJHNFP_00493	gene	amiC		
+MILJHNFP_00494	CDS			hypothetical protein
+MILJHNFP_00494	gene			
+MILJHNFP_00495	CDS	trpA	4.2.1.20	Tryptophan synthase alpha chain
+MILJHNFP_00495	gene	trpA		
+MILJHNFP_00496	CDS	blc		Outer membrane lipoprotein Blc
+MILJHNFP_00496	gene	blc		
+MILJHNFP_00497	CDS			hypothetical protein
+MILJHNFP_00497	gene			
+MILJHNFP_00498	CDS	scpA_1		Segregation and condensation protein A
+MILJHNFP_00498	gene	scpA_1		
+MILJHNFP_00499	CDS	polA	2.7.7.7	DNA polymerase I
+MILJHNFP_00499	gene	polA		
+MILJHNFP_00500	CDS			hypothetical protein
+MILJHNFP_00500	gene			
+MILJHNFP_00501	CDS	rplL		50S ribosomal protein L7/L12
+MILJHNFP_00501	gene	rplL		
+MILJHNFP_00502	CDS	rplJ		50S ribosomal protein L10
+MILJHNFP_00502	gene	rplJ		
+MILJHNFP_00503	CDS	rplA		50S ribosomal protein L1
+MILJHNFP_00503	gene	rplA		
+MILJHNFP_00504	CDS	rplK		50S ribosomal protein L11
+MILJHNFP_00504	gene	rplK		
+MILJHNFP_00505	CDS	nusG		Transcription termination/antitermination protein NusG
+MILJHNFP_00505	gene	nusG		
+MILJHNFP_00506	CDS	por	1.2.7.1	Pyruvate synthase
+MILJHNFP_00506	gene	por		
+MILJHNFP_00507	CDS	accB		Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+MILJHNFP_00507	gene	accB		
+MILJHNFP_00508	CDS	exuR		putative HTH-type transcriptional repressor ExuR
+MILJHNFP_00508	gene	exuR		
+MILJHNFP_00509	CDS			hypothetical protein
+MILJHNFP_00509	gene			
+MILJHNFP_00510	CDS			hypothetical protein
+MILJHNFP_00510	gene			
+MILJHNFP_00511	CDS	sutR		HTH-type transcriptional regulator SutR
+MILJHNFP_00511	gene	sutR		
+MILJHNFP_00512	CDS	cysO		Sulfur carrier protein CysO
+MILJHNFP_00512	gene	cysO		
+MILJHNFP_00513	CDS	moeZ_1		putative adenylyltransferase/sulfurtransferase MoeZ
+MILJHNFP_00513	gene	moeZ_1		
+MILJHNFP_00514	CDS	moeZ_2		putative adenylyltransferase/sulfurtransferase MoeZ
+MILJHNFP_00514	gene	moeZ_2		
+MILJHNFP_00515	CDS	mec	3.4.17.-	CysO-cysteine peptidase
+MILJHNFP_00515	gene	mec		
+MILJHNFP_00516	CDS			hypothetical protein
+MILJHNFP_00516	gene			
+MILJHNFP_00517	CDS	rluC	5.4.99.24	Ribosomal large subunit pseudouridine synthase C
+MILJHNFP_00517	gene	rluC		
+MILJHNFP_00518	CDS			hypothetical protein
+MILJHNFP_00518	gene			
+MILJHNFP_00519	CDS			hypothetical protein
+MILJHNFP_00519	gene			
+MILJHNFP_00520	CDS	gtaB	2.7.7.9	UTP--glucose-1-phosphate uridylyltransferase
+MILJHNFP_00520	gene	gtaB		
+MILJHNFP_00521	CDS	ligA_1	6.5.1.2	DNA ligase
+MILJHNFP_00521	gene	ligA_1		
+MILJHNFP_00522	CDS	gap1	1.2.1.12	Glyceraldehyde-3-phosphate dehydrogenase 1
+MILJHNFP_00522	gene	gap1		
+MILJHNFP_00523	CDS	rpe	5.1.3.1	Ribulose-phosphate 3-epimerase
+MILJHNFP_00523	gene	rpe		
+MILJHNFP_00524	CDS	rpiA	5.3.1.6	Ribose-5-phosphate isomerase A
+MILJHNFP_00524	gene	rpiA		
+MILJHNFP_00525	CDS	oat2	2.3.1.35	Glutamate N-acetyltransferase 2
+MILJHNFP_00525	gene	oat2		
+MILJHNFP_00526	CDS	hslO		33 kDa chaperonin
+MILJHNFP_00526	gene	hslO		
+MILJHNFP_00527	CDS	hemH	4.99.1.1	Ferrochelatase
+MILJHNFP_00527	gene	hemH		
+MILJHNFP_00528	CDS			Epimerase family protein
+MILJHNFP_00528	gene			
+MILJHNFP_00529	CDS	yfcG_2	1.8.4.-	Disulfide-bond oxidoreductase YfcG
+MILJHNFP_00529	gene	yfcG_2		
+MILJHNFP_00530	CDS			hypothetical protein
+MILJHNFP_00530	gene			
+MILJHNFP_00531	CDS	swrC		Swarming motility protein SwrC
+MILJHNFP_00531	gene	swrC		
+MILJHNFP_00532	CDS	dcd	3.5.4.13	dCTP deaminase
+MILJHNFP_00532	gene	dcd		
+MILJHNFP_00533	CDS	phaC	2.3.1.-	Poly(3-hydroxyalkanoate) polymerase subunit PhaC
+MILJHNFP_00533	gene	phaC		
+MILJHNFP_00534	CDS	dapA_2	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+MILJHNFP_00534	gene	dapA_2		
+MILJHNFP_00535	CDS	abo	1.5.3.19	4-methylaminobutanoate oxidase (formaldehyde-forming)
+MILJHNFP_00535	gene	abo		
+MILJHNFP_00536	CDS			hypothetical protein
+MILJHNFP_00536	gene			
+MILJHNFP_00537	CDS	teaD		TRAP-T-associated universal stress protein TeaD
+MILJHNFP_00537	gene	teaD		
+MILJHNFP_00538	CDS	davD	1.2.1.20	Glutarate-semialdehyde dehydrogenase DavD
+MILJHNFP_00538	gene	davD		
+MILJHNFP_00539	CDS			hypothetical protein
+MILJHNFP_00539	gene			
+MILJHNFP_00540	CDS	dksA_2		RNA polymerase-binding transcription factor DksA
+MILJHNFP_00540	gene	dksA_2		
+MILJHNFP_00541	CDS			hypothetical protein
+MILJHNFP_00541	gene			
+MILJHNFP_00542	CDS			hypothetical protein
+MILJHNFP_00542	gene			
+MILJHNFP_00543	CDS			hypothetical protein
+MILJHNFP_00543	gene			
+MILJHNFP_00544	CDS			hypothetical protein
+MILJHNFP_00544	gene			
+MILJHNFP_00545	CDS			hypothetical protein
+MILJHNFP_00545	gene			
+MILJHNFP_00546	CDS			hypothetical protein
+MILJHNFP_00546	gene			
+MILJHNFP_00547	CDS	tfdA	1.14.11.-	Alpha-ketoglutarate-dependent 2,4-dichlorophenoxyacetate dioxygenase
+MILJHNFP_00547	gene	tfdA		
+MILJHNFP_00548	CDS	alkJ	1.1.99.-	Alcohol dehydrogenase [acceptor]
+MILJHNFP_00548	gene	alkJ		
+MILJHNFP_00549	CDS		1.1.1.401	2-dehydro-3-deoxy-L-rhamnonate dehydrogenase (NAD(+))
+MILJHNFP_00549	gene			
+MILJHNFP_00550	CDS	gno_1	1.1.1.69	Gluconate 5-dehydrogenase
+MILJHNFP_00550	gene	gno_1		
+MILJHNFP_00551	CDS	hpsN	1.1.1.308	Sulfopropanediol 3-dehydrogenase
+MILJHNFP_00551	gene	hpsN		
+MILJHNFP_00552	CDS			hypothetical protein
+MILJHNFP_00552	gene			
+MILJHNFP_00553	CDS	mlaC		putative phospholipid-binding protein MlaC
+MILJHNFP_00553	gene	mlaC		
+MILJHNFP_00554	CDS	mlaA		putative phospholipid-binding lipoprotein MlaA
+MILJHNFP_00554	gene	mlaA		
+MILJHNFP_00555	CDS			hypothetical protein
+MILJHNFP_00555	gene			
+MILJHNFP_00556	CDS	hisE	3.6.1.31	Phosphoribosyl-ATP pyrophosphatase
+MILJHNFP_00556	gene	hisE		
+MILJHNFP_00557	CDS	glnG		Nitrogen regulation protein NR(I)
+MILJHNFP_00557	gene	glnG		
+MILJHNFP_00558	CDS	dhaL	2.7.-.-	PEP-dependent dihydroxyacetone kinase, ADP-binding subunit DhaL
+MILJHNFP_00558	gene	dhaL		
+MILJHNFP_00559	CDS	dhaK	2.7.-.-	PEP-dependent dihydroxyacetone kinase, dihydroxyacetone-binding subunit DhaK
+MILJHNFP_00559	gene	dhaK		
+MILJHNFP_00560	CDS			hypothetical protein
+MILJHNFP_00560	gene			
+MILJHNFP_00561	CDS	xylB	2.7.1.17	Xylulose kinase
+MILJHNFP_00561	gene	xylB		
+MILJHNFP_00562	CDS	mtnA	5.3.1.23	Methylthioribose-1-phosphate isomerase
+MILJHNFP_00562	gene	mtnA		
+MILJHNFP_00563	CDS	mtnK	2.7.1.100	Methylthioribose kinase
+MILJHNFP_00563	gene	mtnK		
+MILJHNFP_00564	CDS			hypothetical protein
+MILJHNFP_00564	gene			
+MILJHNFP_00565	CDS			hypothetical protein
+MILJHNFP_00565	gene			
+MILJHNFP_00566	CDS			hypothetical protein
+MILJHNFP_00566	gene			
+MILJHNFP_00567	CDS		5.1.1.-	L-Lys-D/L-Arg epimerase
+MILJHNFP_00567	gene			
+MILJHNFP_00568	CDS	aspC	2.6.1.1	Aspartate aminotransferase
+MILJHNFP_00568	gene	aspC		
+MILJHNFP_00569	CDS	tmpC_1		Membrane lipoprotein TmpC
+MILJHNFP_00569	gene	tmpC_1		
+MILJHNFP_00570	CDS	yjmB		putative symporter YjmB
+MILJHNFP_00570	gene	yjmB		
+MILJHNFP_00571	CDS			hypothetical protein
+MILJHNFP_00571	gene			
+MILJHNFP_00572	CDS			hypothetical protein
+MILJHNFP_00572	gene			
+MILJHNFP_00573	CDS			hypothetical protein
+MILJHNFP_00573	gene			
+MILJHNFP_00574	CDS	dapA_3	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+MILJHNFP_00574	gene	dapA_3		
+MILJHNFP_00575	CDS			hypothetical protein
+MILJHNFP_00575	gene			
+MILJHNFP_00576	CDS	mfpA		Pentapeptide repeat protein MfpA
+MILJHNFP_00576	gene	mfpA		
+MILJHNFP_00577	CDS			hypothetical protein
+MILJHNFP_00577	gene			
+MILJHNFP_00578	CDS	hcrB	1.3.7.9	4-hydroxybenzoyl-CoA reductase subunit beta
+MILJHNFP_00578	gene	hcrB		
+MILJHNFP_00579	CDS	hcrA	1.3.7.9	4-hydroxybenzoyl-CoA reductase subunit alpha
+MILJHNFP_00579	gene	hcrA		
+MILJHNFP_00580	CDS			hypothetical protein
+MILJHNFP_00580	gene			
+MILJHNFP_00581	CDS			hypothetical protein
+MILJHNFP_00581	gene			
+MILJHNFP_00582	CDS			hypothetical protein
+MILJHNFP_00582	gene			
+MILJHNFP_00583	CDS			hypothetical protein
+MILJHNFP_00583	gene			
+MILJHNFP_00584	CDS	lptD_2		LPS-assembly protein LptD
+MILJHNFP_00584	gene	lptD_2		
+MILJHNFP_00585	CDS	ugpC	3.6.3.20	sn-glycerol-3-phosphate import ATP-binding protein UgpC
+MILJHNFP_00585	gene	ugpC		
+MILJHNFP_00586	CDS	ugpB_2		sn-glycerol-3-phosphate-binding periplasmic protein UgpB
+MILJHNFP_00586	gene	ugpB_2		
+MILJHNFP_00587	CDS	lacF_2		Lactose transport system permease protein LacF
+MILJHNFP_00587	gene	lacF_2		
+MILJHNFP_00588	CDS	araQ_3		L-arabinose transport system permease protein AraQ
+MILJHNFP_00588	gene	araQ_3		
+MILJHNFP_00589	CDS	hbpA		Heme-binding protein A
+MILJHNFP_00589	gene	hbpA		
+MILJHNFP_00590	CDS	gsiC_2		Glutathione transport system permease protein GsiC
+MILJHNFP_00590	gene	gsiC_2		
+MILJHNFP_00591	CDS			hypothetical protein
+MILJHNFP_00591	gene			
+MILJHNFP_00592	CDS	motB_1		Motility protein B
+MILJHNFP_00592	gene	motB_1		
+MILJHNFP_00593	CDS	pomA_1		Chemotaxis protein PomA
+MILJHNFP_00593	gene	pomA_1		
+MILJHNFP_00594	CDS		2.1.3.1	Methylmalonyl-CoA carboxyltransferase 12S subunit
+MILJHNFP_00594	gene			
+MILJHNFP_00595	CDS			hypothetical protein
+MILJHNFP_00595	gene			
+MILJHNFP_00596	CDS	tdcB	4.3.1.19	L-threonine dehydratase catabolic TdcB
+MILJHNFP_00596	gene	tdcB		
+MILJHNFP_00597	CDS			hypothetical protein
+MILJHNFP_00597	gene			
+MILJHNFP_00598	CDS			hypothetical protein
+MILJHNFP_00598	gene			
+MILJHNFP_00599	CDS			hypothetical protein
+MILJHNFP_00599	gene			
+MILJHNFP_00600	CDS	pal_1		Outer membrane protein P6
+MILJHNFP_00600	gene	pal_1		
+MILJHNFP_00601	CDS			hypothetical protein
+MILJHNFP_00601	gene			
+MILJHNFP_00602	CDS			hypothetical protein
+MILJHNFP_00602	gene			
+MILJHNFP_00603	CDS	cdaA	2.7.7.85	Cyclic di-AMP synthase CdaA
+MILJHNFP_00603	gene	cdaA		
+MILJHNFP_00604	CDS	ftsH	3.4.24.-	ATP-dependent zinc metalloprotease FtsH
+MILJHNFP_00604	gene	ftsH		
+MILJHNFP_00605	CDS			hypothetical protein
+MILJHNFP_00605	gene			
+MILJHNFP_00606	CDS			hypothetical protein
+MILJHNFP_00606	gene			
+MILJHNFP_00607	CDS	pfp	2.7.1.90	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+MILJHNFP_00607	gene	pfp		
+MILJHNFP_00608	CDS	glgA	2.4.1.21	Glycogen synthase
+MILJHNFP_00608	gene	glgA		
+MILJHNFP_00609	CDS			hypothetical protein
+MILJHNFP_00609	gene			
+MILJHNFP_00610	CDS		1.18.1.2	Ferredoxin--NADP reductase
+MILJHNFP_00610	gene			
+MILJHNFP_00611	CDS			hypothetical protein
+MILJHNFP_00611	gene			
+MILJHNFP_00612	CDS			hypothetical protein
+MILJHNFP_00612	gene			
+MILJHNFP_00613	CDS	ltaS1		Lipoteichoic acid synthase 1
+MILJHNFP_00613	gene	ltaS1		
+MILJHNFP_00614	tRNA			tRNA-Arg(tct)
+MILJHNFP_00614	gene			
+MILJHNFP_00615	CDS			hypothetical protein
+MILJHNFP_00615	gene			
+MILJHNFP_00616	CDS	ilvB	2.2.1.6	Acetolactate synthase isozyme 1 large subunit
+MILJHNFP_00616	gene	ilvB		
+MILJHNFP_00617	CDS			hypothetical protein
+MILJHNFP_00617	gene			
+MILJHNFP_00618	CDS			hypothetical protein
+MILJHNFP_00618	gene			
+MILJHNFP_00619	CDS			hypothetical protein
+MILJHNFP_00619	gene			
+MILJHNFP_00620	CDS			hypothetical protein
+MILJHNFP_00620	gene			
+MILJHNFP_00621	CDS			hypothetical protein
+MILJHNFP_00621	gene			
+MILJHNFP_00622	CDS			hypothetical protein
+MILJHNFP_00622	gene			
+MILJHNFP_00623	CDS			hypothetical protein
+MILJHNFP_00623	gene			
+MILJHNFP_00624	CDS	lpxK	2.7.1.130	Tetraacyldisaccharide 4'-kinase
+MILJHNFP_00624	gene	lpxK		
+MILJHNFP_00625	CDS	def_2	3.5.1.88	Peptide deformylase
+MILJHNFP_00625	gene	def_2		
+MILJHNFP_00626	CDS			hypothetical protein
+MILJHNFP_00626	gene			
+MILJHNFP_00627	CDS	fliC_2		B-type flagellin
+MILJHNFP_00627	gene	fliC_2		
+MILJHNFP_00628	CDS			hypothetical protein
+MILJHNFP_00628	gene			
+MILJHNFP_00629	CDS			hypothetical protein
+MILJHNFP_00629	gene			
+MILJHNFP_00630	CDS	dac	3.4.16.4	D-alanyl-D-alanine carboxypeptidase
+MILJHNFP_00630	gene	dac		
+MILJHNFP_00631	CDS	tqsA		AI-2 transport protein TqsA
+MILJHNFP_00631	gene	tqsA		
+MILJHNFP_00632	CDS	yvoA		HTH-type transcriptional repressor YvoA
+MILJHNFP_00632	gene	yvoA		
+MILJHNFP_00633	CDS	suyA	4.4.1.24	(2R)-sulfolactate sulfo-lyase subunit alpha
+MILJHNFP_00633	gene	suyA		
+MILJHNFP_00634	CDS			hypothetical protein
+MILJHNFP_00634	gene			
+MILJHNFP_00635	CDS			hypothetical protein
+MILJHNFP_00635	gene			
+MILJHNFP_00636	CDS			hypothetical protein
+MILJHNFP_00636	gene			
+MILJHNFP_00637	CDS	folP	2.5.1.15	Dihydropteroate synthase
+MILJHNFP_00637	gene	folP		
+MILJHNFP_00638	CDS	gstB_1	2.5.1.18	Glutathione S-transferase GST-6.0
+MILJHNFP_00638	gene	gstB_1		
+MILJHNFP_00639	CDS	cspJ		Cold shock-like protein CspJ
+MILJHNFP_00639	gene	cspJ		
+MILJHNFP_00640	CDS	limB	1.14.13.107	Limonene 1,2-monooxygenase
+MILJHNFP_00640	gene	limB		
+MILJHNFP_00641	CDS			putative ABC transporter-binding protein
+MILJHNFP_00641	gene			
+MILJHNFP_00642	CDS	czcB		Cobalt-zinc-cadmium resistance protein CzcB
+MILJHNFP_00642	gene	czcB		
+MILJHNFP_00643	CDS			hypothetical protein
+MILJHNFP_00643	gene			
+MILJHNFP_00644	CDS			hypothetical protein
+MILJHNFP_00644	gene			
+MILJHNFP_00645	CDS			hypothetical protein
+MILJHNFP_00645	gene			
+MILJHNFP_00646	CDS			hypothetical protein
+MILJHNFP_00646	gene			
+MILJHNFP_00647	CDS			hypothetical protein
+MILJHNFP_00647	gene			
+MILJHNFP_00648	CDS	ybdG		Miniconductance mechanosensitive channel YbdG
+MILJHNFP_00648	gene	ybdG		
+MILJHNFP_00649	CDS			hypothetical protein
+MILJHNFP_00649	gene			
+MILJHNFP_00650	CDS			hypothetical protein
+MILJHNFP_00650	gene			
+MILJHNFP_00651	CDS	cheY		Chemotaxis protein CheY
+MILJHNFP_00651	gene	cheY		
+MILJHNFP_00652	CDS	rpsQ		30S ribosomal protein S17
+MILJHNFP_00652	gene	rpsQ		
+MILJHNFP_00653	CDS	rplN		50S ribosomal protein L14
+MILJHNFP_00653	gene	rplN		
+MILJHNFP_00654	CDS	rplX		50S ribosomal protein L24
+MILJHNFP_00654	gene	rplX		
+MILJHNFP_00655	CDS	rplE		50S ribosomal protein L5
+MILJHNFP_00655	gene	rplE		
+MILJHNFP_00656	CDS	rpsZ		30S ribosomal protein S14 type Z
+MILJHNFP_00656	gene	rpsZ		
+MILJHNFP_00657	CDS	rpsH		30S ribosomal protein S8
+MILJHNFP_00657	gene	rpsH		
+MILJHNFP_00658	CDS	rplF		50S ribosomal protein L6
+MILJHNFP_00658	gene	rplF		
+MILJHNFP_00659	CDS			hypothetical protein
+MILJHNFP_00659	gene			
+MILJHNFP_00660	CDS	rkpK	1.1.1.22	UDP-glucose 6-dehydrogenase
+MILJHNFP_00660	gene	rkpK		
+MILJHNFP_00661	CDS			hypothetical protein
+MILJHNFP_00661	gene			
+MILJHNFP_00662	CDS	bcp_1	1.11.1.15	Putative peroxiredoxin bcp
+MILJHNFP_00662	gene	bcp_1		
+MILJHNFP_00663	CDS	bcp_2	1.11.1.15	Putative peroxiredoxin bcp
+MILJHNFP_00663	gene	bcp_2		
+MILJHNFP_00664	CDS			hypothetical protein
+MILJHNFP_00664	gene			
+MILJHNFP_00665	CDS			hypothetical protein
+MILJHNFP_00665	gene			
+MILJHNFP_00666	CDS			hypothetical protein
+MILJHNFP_00666	gene			
+MILJHNFP_00667	CDS			hypothetical protein
+MILJHNFP_00667	gene			
+MILJHNFP_00668	CDS			hypothetical protein
+MILJHNFP_00668	gene			
+MILJHNFP_00669	CDS			hypothetical protein
+MILJHNFP_00669	gene			
+MILJHNFP_00670	CDS			hypothetical protein
+MILJHNFP_00670	gene			
+MILJHNFP_00671	CDS	ybiC_1	1.1.1.-	putative oxidoreductase YbiC
+MILJHNFP_00671	gene	ybiC_1		
+MILJHNFP_00672	CDS	mmgC	1.3.99.-	Acyl-CoA dehydrogenase
+MILJHNFP_00672	gene	mmgC		
+MILJHNFP_00673	CDS	ccmH		Cytochrome c-type biogenesis protein CcmH
+MILJHNFP_00673	gene	ccmH		
+MILJHNFP_00674	CDS			hypothetical protein
+MILJHNFP_00674	gene			
+MILJHNFP_00675	CDS			hypothetical protein
+MILJHNFP_00675	gene			
+MILJHNFP_00676	CDS	nuoF	1.6.5.11	NADH-quinone oxidoreductase subunit F
+MILJHNFP_00676	gene	nuoF		
+MILJHNFP_00677	CDS	ybiC_2	1.1.1.-	putative oxidoreductase YbiC
+MILJHNFP_00677	gene	ybiC_2		
+MILJHNFP_00678	CDS		3.5.4.2	Adenine deaminase
+MILJHNFP_00678	gene			
+MILJHNFP_00679	CDS	cdhR		HTH-type transcriptional regulator CdhR
+MILJHNFP_00679	gene	cdhR		
+MILJHNFP_00680	CDS	iorA	1.3.99.16	Isoquinoline 1-oxidoreductase subunit alpha
+MILJHNFP_00680	gene	iorA		
+MILJHNFP_00681	CDS			hypothetical protein
+MILJHNFP_00681	gene			
+MILJHNFP_00682	CDS			hypothetical protein
+MILJHNFP_00682	gene			
+MILJHNFP_00683	CDS	glpE_2	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+MILJHNFP_00683	gene	glpE_2		
+MILJHNFP_00684	CDS	fabG_1	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+MILJHNFP_00684	gene	fabG_1		
+MILJHNFP_00685	CDS	folX	5.1.99.-	Dihydroneopterin triphosphate 2'-epimerase
+MILJHNFP_00685	gene	folX		
+MILJHNFP_00686	CDS	folK_2	2.7.6.3	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+MILJHNFP_00686	gene	folK_2		
+MILJHNFP_00687	CDS			hypothetical protein
+MILJHNFP_00687	gene			
+MILJHNFP_00688	CDS			hypothetical protein
+MILJHNFP_00688	gene			
+MILJHNFP_00689	CDS			RNA-binding protein
+MILJHNFP_00689	gene			
+MILJHNFP_00690	CDS			hypothetical protein
+MILJHNFP_00690	gene			
+MILJHNFP_00691	CDS			hypothetical protein
+MILJHNFP_00691	gene			
+MILJHNFP_00692	CDS		3.6.3.8	Calcium-transporting ATPase 1
+MILJHNFP_00692	gene			
+MILJHNFP_00693	CDS	rho	3.6.4.-	Transcription termination factor Rho
+MILJHNFP_00693	gene	rho		
+MILJHNFP_00694	CDS			hypothetical protein
+MILJHNFP_00694	gene			
+MILJHNFP_00695	CDS			hypothetical protein
+MILJHNFP_00695	gene			
+MILJHNFP_00696	CDS	phoB		Phosphate regulon transcriptional regulatory protein PhoB
+MILJHNFP_00696	gene	phoB		
+MILJHNFP_00697	CDS	phoU		Phosphate-specific transport system accessory protein PhoU 
+MILJHNFP_00697	gene	phoU		
+MILJHNFP_00698	CDS	pstB	3.6.3.27	Phosphate import ATP-binding protein PstB
+MILJHNFP_00698	gene	pstB		
+MILJHNFP_00699	CDS	pstA		Phosphate transport system permease protein PstA
+MILJHNFP_00699	gene	pstA		
+MILJHNFP_00700	CDS	pstC1		Phosphate transport system permease protein PstC 1
+MILJHNFP_00700	gene	pstC1		
+MILJHNFP_00701	CDS	pheT	6.1.1.20	Phenylalanine--tRNA ligase beta subunit
+MILJHNFP_00701	gene	pheT		
+MILJHNFP_00702	CDS	dgkA	2.7.1.107	Diacylglycerol kinase
+MILJHNFP_00702	gene	dgkA		
+MILJHNFP_00703	CDS			hypothetical protein
+MILJHNFP_00703	gene			
+MILJHNFP_00704	CDS	rbn	3.1.26.11	Ribonuclease BN
+MILJHNFP_00704	gene	rbn		
+MILJHNFP_00705	CDS	bolA		DNA-binding transcriptional regulator BolA
+MILJHNFP_00705	gene	bolA		
+MILJHNFP_00706	CDS	acs_1	6.2.1.1	Acetyl-coenzyme A synthetase
+MILJHNFP_00706	gene	acs_1		
+MILJHNFP_00707	CDS	fadB_1		Fatty acid oxidation complex subunit alpha
+MILJHNFP_00707	gene	fadB_1		
+MILJHNFP_00708	CDS			hypothetical protein
+MILJHNFP_00708	gene			
+MILJHNFP_00709	CDS	guaB	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+MILJHNFP_00709	gene	guaB		
+MILJHNFP_00710	CDS	yitJ		Bifunctional homocysteine S-methyltransferase/5,10-methylenetetrahydrofolate reductase
+MILJHNFP_00710	gene	yitJ		
+MILJHNFP_00711	CDS			hypothetical protein
+MILJHNFP_00711	gene			
+MILJHNFP_00712	CDS	aroC	4.2.3.5	Chorismate synthase
+MILJHNFP_00712	gene	aroC		
+MILJHNFP_00713	CDS			hypothetical protein
+MILJHNFP_00713	gene			
+MILJHNFP_00714	CDS	wcaJ	2.7.8.31	UDP-glucose:undecaprenyl-phosphate glucose-1-phosphate transferase
+MILJHNFP_00714	gene	wcaJ		
+MILJHNFP_00715	CDS			hypothetical protein
+MILJHNFP_00715	gene			
+MILJHNFP_00716	CDS	thiK	2.7.1.89	Thiamine kinase
+MILJHNFP_00716	gene	thiK		
+MILJHNFP_00717	CDS	proW		Glycine betaine/proline betaine transport system permease protein ProW
+MILJHNFP_00717	gene	proW		
+MILJHNFP_00718	CDS	ndhI	1.6.5.11	NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+MILJHNFP_00718	gene	ndhI		
+MILJHNFP_00719	CDS	yccM_1		Putative electron transport protein YccM
+MILJHNFP_00719	gene	yccM_1		
+MILJHNFP_00720	CDS			hypothetical protein
+MILJHNFP_00720	gene			
+MILJHNFP_00721	CDS	ypmQ		SCO1 protein 
+MILJHNFP_00721	gene	ypmQ		
+MILJHNFP_00722	CDS	aroK	2.7.1.71	Shikimate kinase 1
+MILJHNFP_00722	gene	aroK		
+MILJHNFP_00723	CDS	mnmA	2.8.1.13	tRNA-specific 2-thiouridylase MnmA
+MILJHNFP_00723	gene	mnmA		
+MILJHNFP_00724	CDS			hypothetical protein
+MILJHNFP_00724	gene			
+MILJHNFP_00725	CDS			hypothetical protein
+MILJHNFP_00725	gene			
+MILJHNFP_00726	CDS			hypothetical protein
+MILJHNFP_00726	gene			
+MILJHNFP_00727	CDS			hypothetical protein
+MILJHNFP_00727	gene			
+MILJHNFP_00728	CDS	frlD	2.7.1.-	Fructoselysine 6-kinase
+MILJHNFP_00728	gene	frlD		
+MILJHNFP_00729	CDS	gstB_2	2.5.1.18	Glutathione S-transferase GST-6.0
+MILJHNFP_00729	gene	gstB_2		
+MILJHNFP_00730	CDS			hypothetical protein
+MILJHNFP_00730	gene			
+MILJHNFP_00731	CDS			hypothetical protein
+MILJHNFP_00731	gene			
+MILJHNFP_00732	CDS	livF_4		High-affinity branched-chain amino acid transport ATP-binding protein LivF
+MILJHNFP_00732	gene	livF_4		
+MILJHNFP_00733	CDS	lptB_1	3.6.3.-	Lipopolysaccharide export system ATP-binding protein LptB
+MILJHNFP_00733	gene	lptB_1		
+MILJHNFP_00734	CDS			hypothetical protein
+MILJHNFP_00734	gene			
+MILJHNFP_00735	CDS			hypothetical protein
+MILJHNFP_00735	gene			
+MILJHNFP_00736	CDS			hypothetical protein
+MILJHNFP_00736	gene			
+MILJHNFP_00737	CDS	ppk	2.7.4.1	Polyphosphate kinase
+MILJHNFP_00737	gene	ppk		
+MILJHNFP_00738	CDS	puuB_1	1.4.3.-	Gamma-glutamylputrescine oxidoreductase
+MILJHNFP_00738	gene	puuB_1		
+MILJHNFP_00739	CDS			hypothetical protein
+MILJHNFP_00739	gene			
+MILJHNFP_00740	CDS			hypothetical protein
+MILJHNFP_00740	gene			
+MILJHNFP_00741	CDS	mgl_1	4.4.1.11	L-methionine gamma-lyase
+MILJHNFP_00741	gene	mgl_1		
+MILJHNFP_00742	CDS			hypothetical protein
+MILJHNFP_00742	gene			
+MILJHNFP_00743	CDS			hypothetical protein
+MILJHNFP_00743	gene			
+MILJHNFP_00744	CDS			hypothetical protein
+MILJHNFP_00744	gene			
+MILJHNFP_00745	tRNA			tRNA-Ser(cga)
+MILJHNFP_00745	gene			
+MILJHNFP_00746	CDS			hypothetical protein
+MILJHNFP_00746	gene			
+MILJHNFP_00747	CDS	lipM	2.3.1.181	Octanoyltransferase LipM
+MILJHNFP_00747	gene	lipM		
+MILJHNFP_00748	CDS			Nucleoid-associated protein
+MILJHNFP_00748	gene			
+MILJHNFP_00749	CDS	dnaX	2.7.7.7	DNA polymerase III subunit tau
+MILJHNFP_00749	gene	dnaX		
+MILJHNFP_00750	CDS	xthA	3.1.11.2	Exodeoxyribonuclease III
+MILJHNFP_00750	gene	xthA		
+MILJHNFP_00751	CDS	fliN_3		Flagellar motor switch protein FliN
+MILJHNFP_00751	gene	fliN_3		
+MILJHNFP_00752	CDS			hypothetical protein
+MILJHNFP_00752	gene			
+MILJHNFP_00753	CDS			hypothetical protein
+MILJHNFP_00753	gene			
+MILJHNFP_00754	CDS			hypothetical protein
+MILJHNFP_00754	gene			
+MILJHNFP_00755	CDS	ribD_1		Riboflavin biosynthesis protein RibD
+MILJHNFP_00755	gene	ribD_1		
+MILJHNFP_00756	CDS	mutX_2	3.6.1.55	8-oxo-dGTP diphosphatase
+MILJHNFP_00756	gene	mutX_2		
+MILJHNFP_00757	CDS	ycjP_1		Inner membrane ABC transporter permease protein YcjP
+MILJHNFP_00757	gene	ycjP_1		
+MILJHNFP_00758	CDS	deoC	4.1.2.4	Deoxyribose-phosphate aldolase
+MILJHNFP_00758	gene	deoC		
+MILJHNFP_00759	CDS			hypothetical protein
+MILJHNFP_00759	gene			
+MILJHNFP_00760	CDS			hypothetical protein
+MILJHNFP_00760	gene			
+MILJHNFP_00761	CDS			hypothetical protein
+MILJHNFP_00761	gene			
+MILJHNFP_00762	CDS			hypothetical protein
+MILJHNFP_00762	gene			
+MILJHNFP_00763	CDS			hypothetical protein
+MILJHNFP_00763	gene			
+MILJHNFP_00764	CDS			hypothetical protein
+MILJHNFP_00764	gene			
+MILJHNFP_00765	CDS	mgl_2	4.4.1.11	L-methionine gamma-lyase
+MILJHNFP_00765	gene	mgl_2		
+MILJHNFP_00766	CDS			hypothetical protein
+MILJHNFP_00766	gene			
+MILJHNFP_00767	CDS	ycf3		Photosystem I assembly protein Ycf3
+MILJHNFP_00767	gene	ycf3		
+MILJHNFP_00768	CDS			hypothetical protein
+MILJHNFP_00768	gene			
+MILJHNFP_00769	CDS	bioD1	6.3.3.3	ATP-dependent dethiobiotin synthetase BioD 1
+MILJHNFP_00769	gene	bioD1		
+MILJHNFP_00770	CDS	trkG		Trk system potassium uptake protein TrkG
+MILJHNFP_00770	gene	trkG		
+MILJHNFP_00771	CDS	nsaD	5.99.1.4	2-hydroxychromene-2-carboxylate isomerase
+MILJHNFP_00771	gene	nsaD		
+MILJHNFP_00772	CDS	sucD	6.2.1.5	Succinate--CoA ligase [ADP-forming] subunit alpha
+MILJHNFP_00772	gene	sucD		
+MILJHNFP_00773	CDS			hypothetical protein
+MILJHNFP_00773	gene			
+MILJHNFP_00774	CDS			hypothetical protein
+MILJHNFP_00774	gene			
+MILJHNFP_00775	CDS	bepA_3	3.4.-.-	Beta-barrel assembly-enhancing protease
+MILJHNFP_00775	gene	bepA_3		
+MILJHNFP_00776	CDS			hypothetical protein
+MILJHNFP_00776	gene			
+MILJHNFP_00777	CDS			hypothetical protein
+MILJHNFP_00777	gene			
+MILJHNFP_00778	CDS	sohB	3.4.21.-	putative protease SohB
+MILJHNFP_00778	gene	sohB		
+MILJHNFP_00779	CDS			hypothetical protein
+MILJHNFP_00779	gene			
+MILJHNFP_00780	CDS			hypothetical protein
+MILJHNFP_00780	gene			
+MILJHNFP_00781	CDS			hypothetical protein
+MILJHNFP_00781	gene			
+MILJHNFP_00782	CDS			hypothetical protein
+MILJHNFP_00782	gene			
+MILJHNFP_00783	CDS			hypothetical protein
+MILJHNFP_00783	gene			
+MILJHNFP_00784	CDS	mutS		DNA mismatch repair protein MutS
+MILJHNFP_00784	gene	mutS		
+MILJHNFP_00785	CDS	coaD	2.7.7.3	Phosphopantetheine adenylyltransferase
+MILJHNFP_00785	gene	coaD		
+MILJHNFP_00786	CDS			Purine-binding protein
+MILJHNFP_00786	gene			
+MILJHNFP_00787	CDS	mglA_2	3.6.3.17	Galactose/methyl galactoside import ATP-binding protein MglA
+MILJHNFP_00787	gene	mglA_2		
+MILJHNFP_00788	CDS			hypothetical protein
+MILJHNFP_00788	gene			
+MILJHNFP_00789	CDS	aceE	1.2.4.1	Pyruvate dehydrogenase E1 component
+MILJHNFP_00789	gene	aceE		
+MILJHNFP_00790	CDS	sugB		Trehalose transport system permease protein SugB
+MILJHNFP_00790	gene	sugB		
+MILJHNFP_00791	CDS	ycjO_1		Inner membrane ABC transporter permease protein YcjO
+MILJHNFP_00791	gene	ycjO_1		
+MILJHNFP_00792	CDS			hypothetical protein
+MILJHNFP_00792	gene			
+MILJHNFP_00793	CDS			hypothetical protein
+MILJHNFP_00793	gene			
+MILJHNFP_00794	CDS			hypothetical protein
+MILJHNFP_00794	gene			
+MILJHNFP_00795	CDS			hypothetical protein
+MILJHNFP_00795	gene			
+MILJHNFP_00796	CDS			hypothetical protein
+MILJHNFP_00796	gene			
+MILJHNFP_00797	CDS	torC		Cytochrome c-type protein TorC
+MILJHNFP_00797	gene	torC		
+MILJHNFP_00798	CDS			hypothetical protein
+MILJHNFP_00798	gene			
+MILJHNFP_00799	CDS			hypothetical protein
+MILJHNFP_00799	gene			
+MILJHNFP_00800	CDS	fabG_2	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+MILJHNFP_00800	gene	fabG_2		
+MILJHNFP_00801	CDS	Dml	4.1.3.32	2,3-dimethylmalate lyase
+MILJHNFP_00801	gene	Dml		
+MILJHNFP_00802	CDS			hypothetical protein
+MILJHNFP_00802	gene			
+MILJHNFP_00803	CDS	yknY	3.6.3.-	putative ABC transporter ATP-binding protein YknY
+MILJHNFP_00803	gene	yknY		
+MILJHNFP_00804	CDS			hypothetical protein
+MILJHNFP_00804	gene			
+MILJHNFP_00805	CDS			hypothetical protein
+MILJHNFP_00805	gene			
+MILJHNFP_00806	CDS	pucA	1.17.1.4	putative xanthine dehydrogenase subunit A
+MILJHNFP_00806	gene	pucA		
+MILJHNFP_00807	CDS	sufS	2.8.1.7	Cysteine desulfurase SufS
+MILJHNFP_00807	gene	sufS		
+MILJHNFP_00808	CDS	sufU	2.-.-.-	Zinc-dependent sulfurtransferase SufU
+MILJHNFP_00808	gene	sufU		
+MILJHNFP_00809	CDS			hypothetical protein
+MILJHNFP_00809	gene			
+MILJHNFP_00810	CDS		2.8.1.1	Thiosulfate sulfurtransferase
+MILJHNFP_00810	gene			
+MILJHNFP_00811	CDS	fklB	5.2.1.8	FKBP-type 22 kDa peptidyl-prolyl cis-trans isomerase
+MILJHNFP_00811	gene	fklB		
+MILJHNFP_00812	CDS			hypothetical protein
+MILJHNFP_00812	gene			
+MILJHNFP_00813	CDS	tpiA	5.3.1.1	Triosephosphate isomerase
+MILJHNFP_00813	gene	tpiA		
+MILJHNFP_00814	CDS			hypothetical protein
+MILJHNFP_00814	gene			
+MILJHNFP_00815	CDS			hypothetical protein
+MILJHNFP_00815	gene			
+MILJHNFP_00816	CDS			hypothetical protein
+MILJHNFP_00816	gene			
+MILJHNFP_00817	CDS			hypothetical protein
+MILJHNFP_00817	gene			
+MILJHNFP_00818	CDS			hypothetical protein
+MILJHNFP_00818	gene			
+MILJHNFP_00819	CDS			hypothetical protein
+MILJHNFP_00819	gene			
+MILJHNFP_00820	CDS			hypothetical protein
+MILJHNFP_00820	gene			
+MILJHNFP_00821	CDS			hypothetical protein
+MILJHNFP_00821	gene			
+MILJHNFP_00822	CDS			hypothetical protein
+MILJHNFP_00822	gene			
+MILJHNFP_00823	CDS			hypothetical protein
+MILJHNFP_00823	gene			
+MILJHNFP_00824	CDS			hypothetical protein
+MILJHNFP_00824	gene			
+MILJHNFP_00825	CDS			hypothetical protein
+MILJHNFP_00825	gene			
+MILJHNFP_00826	CDS			hypothetical protein
+MILJHNFP_00826	gene			
+MILJHNFP_00827	CDS			hypothetical protein
+MILJHNFP_00827	gene			
+MILJHNFP_00828	CDS	betC	3.1.6.6	Choline-sulfatase
+MILJHNFP_00828	gene	betC		
+MILJHNFP_00829	CDS	yfdE	2.8.3.19	Acetyl-CoA:oxalate CoA-transferase
+MILJHNFP_00829	gene	yfdE		
+MILJHNFP_00830	CDS	tldD	3.4.-.-	Metalloprotease TldD
+MILJHNFP_00830	gene	tldD		
+MILJHNFP_00831	CDS			putative HTH-type transcriptional regulator
+MILJHNFP_00831	gene			
+MILJHNFP_00832	CDS			hypothetical protein
+MILJHNFP_00832	gene			
+MILJHNFP_00833	CDS	gpuA	3.5.3.17	Guanidinopropionase
+MILJHNFP_00833	gene	gpuA		
+MILJHNFP_00834	CDS	rbsA_1	3.6.3.17	Ribose import ATP-binding protein RbsA
+MILJHNFP_00834	gene	rbsA_1		
+MILJHNFP_00835	CDS	gno_2	1.1.1.69	Gluconate 5-dehydrogenase
+MILJHNFP_00835	gene	gno_2		
+MILJHNFP_00836	CDS		1.1.1.81	Hydroxypyruvate reductase
+MILJHNFP_00836	gene			
+MILJHNFP_00837	CDS	rhmA	4.1.2.53	2-keto-3-deoxy-L-rhamnonate aldolase
+MILJHNFP_00837	gene	rhmA		
+MILJHNFP_00838	CDS	lsrC		Autoinducer 2 import system permease protein LsrC
+MILJHNFP_00838	gene	lsrC		
+MILJHNFP_00839	CDS	mglA_3	3.6.3.17	Galactose/methyl galactoside import ATP-binding protein MglA
+MILJHNFP_00839	gene	mglA_3		
+MILJHNFP_00840	CDS			hypothetical protein
+MILJHNFP_00840	gene			
+MILJHNFP_00841	tRNA			tRNA-Gln(ttg)
+MILJHNFP_00841	gene			
+MILJHNFP_00842	CDS			hypothetical protein
+MILJHNFP_00842	gene			
+MILJHNFP_00843	CDS			hypothetical protein
+MILJHNFP_00843	gene			
+MILJHNFP_00844	CDS	lon2_2	3.4.21.53	Lon protease 2
+MILJHNFP_00844	gene	lon2_2		
+MILJHNFP_00845	CDS		2.1.1.272	Cobalt-factor III methyltransferase
+MILJHNFP_00845	gene			
+MILJHNFP_00846	CDS	cobM	2.1.1.133	Precorrin-4 C(11)-methyltransferase
+MILJHNFP_00846	gene	cobM		
+MILJHNFP_00847	CDS	cobK	1.3.1.54	Precorrin-6A reductase
+MILJHNFP_00847	gene	cobK		
+MILJHNFP_00848	CDS	cbiD	2.1.1.195	Cobalt-precorrin-5B C(1)-methyltransferase
+MILJHNFP_00848	gene	cbiD		
+MILJHNFP_00849	CDS	cobA	2.1.1.107	Uroporphyrinogen-III C-methyltransferase
+MILJHNFP_00849	gene	cobA		
+MILJHNFP_00850	CDS	paiB		Protease synthase and sporulation protein PAI 2
+MILJHNFP_00850	gene	paiB		
+MILJHNFP_00851	CDS			hypothetical protein
+MILJHNFP_00851	gene			
+MILJHNFP_00852	CDS	ymdB	3.5.1.-	O-acetyl-ADP-ribose deacetylase
+MILJHNFP_00852	gene	ymdB		
+MILJHNFP_00853	CDS			hypothetical protein
+MILJHNFP_00853	gene			
+MILJHNFP_00854	CDS			hypothetical protein
+MILJHNFP_00854	gene			
+MILJHNFP_00855	CDS	xerD		Tyrosine recombinase XerD
+MILJHNFP_00855	gene	xerD		
+MILJHNFP_00856	CDS			hypothetical protein
+MILJHNFP_00856	gene			
+MILJHNFP_00857	CDS			hypothetical protein
+MILJHNFP_00857	gene			
+MILJHNFP_00858	CDS			hypothetical protein
+MILJHNFP_00858	gene			
+MILJHNFP_00859	CDS			hypothetical protein
+MILJHNFP_00859	gene			
+MILJHNFP_00860	CDS	argC	1.2.1.38	N-acetyl-gamma-glutamyl-phosphate reductase
+MILJHNFP_00860	gene	argC		
+MILJHNFP_00861	CDS	guaD	3.5.4.3	Guanine deaminase
+MILJHNFP_00861	gene	guaD		
+MILJHNFP_00862	CDS	menE	6.2.1.26	2-succinylbenzoate--CoA ligase
+MILJHNFP_00862	gene	menE		
+MILJHNFP_00863	CDS			hypothetical protein
+MILJHNFP_00863	gene			
+MILJHNFP_00864	CDS	tsdA	1.8.2.2	Thiosulfate dehydrogenase
+MILJHNFP_00864	gene	tsdA		
+MILJHNFP_00865	CDS			hypothetical protein
+MILJHNFP_00865	gene			
+MILJHNFP_00866	CDS			hypothetical protein
+MILJHNFP_00866	gene			
+MILJHNFP_00867	CDS	rlmE	2.1.1.166	Ribosomal RNA large subunit methyltransferase E
+MILJHNFP_00867	gene	rlmE		
+MILJHNFP_00868	CDS	hag_1		Flagellin
+MILJHNFP_00868	gene	hag_1		
+MILJHNFP_00869	CDS			hypothetical protein
+MILJHNFP_00869	gene			
+MILJHNFP_00870	CDS	ymfD		Bacillibactin exporter
+MILJHNFP_00870	gene	ymfD		
+MILJHNFP_00871	CDS			hypothetical protein
+MILJHNFP_00871	gene			
+MILJHNFP_00872	CDS	glpT		Glycerol-3-phosphate transporter
+MILJHNFP_00872	gene	glpT		
+MILJHNFP_00873	CDS	cuyA_1	4.4.1.25	L-cysteate sulfo-lyase
+MILJHNFP_00873	gene	cuyA_1		
+MILJHNFP_00874	CDS	dmfA2	3.5.1.56	N,N-dimethylformamidase beta subunit
+MILJHNFP_00874	gene	dmfA2		
+MILJHNFP_00875	CDS	cutS	1.2.5.3	Carbon monoxide dehydrogenase small chain
+MILJHNFP_00875	gene	cutS		
+MILJHNFP_00876	CDS	fdhF	1.1.99.33	Formate dehydrogenase H
+MILJHNFP_00876	gene	fdhF		
+MILJHNFP_00877	CDS	nfuA		Fe/S biogenesis protein NfuA
+MILJHNFP_00877	gene	nfuA		
+MILJHNFP_00878	CDS			hypothetical protein
+MILJHNFP_00878	gene			
+MILJHNFP_00879	CDS	plsX	2.3.1.-	Phosphate acyltransferase
+MILJHNFP_00879	gene	plsX		
+MILJHNFP_00880	CDS	dmdC	1.3.8.-	3-methylmercaptopropionyl-CoA dehydrogenase
+MILJHNFP_00880	gene	dmdC		
+MILJHNFP_00881	CDS			hypothetical protein
+MILJHNFP_00881	gene			
+MILJHNFP_00882	CDS			hypothetical protein
+MILJHNFP_00882	gene			
+MILJHNFP_00883	CDS			hypothetical protein
+MILJHNFP_00883	gene			
+MILJHNFP_00884	CDS			hypothetical protein
+MILJHNFP_00884	gene			
+MILJHNFP_00885	CDS			hypothetical protein
+MILJHNFP_00885	gene			
+MILJHNFP_00886	CDS			hypothetical protein
+MILJHNFP_00886	gene			
+MILJHNFP_00887	CDS	flgJ	3.2.1.-	Peptidoglycan hydrolase FlgJ
+MILJHNFP_00887	gene	flgJ		
+MILJHNFP_00888	CDS			hypothetical protein
+MILJHNFP_00888	gene			
+MILJHNFP_00889	CDS	argF_1	2.1.3.3	Ornithine carbamoyltransferase
+MILJHNFP_00889	gene	argF_1		
+MILJHNFP_00890	CDS	gltA2	2.3.3.16	Citrate synthase 1
+MILJHNFP_00890	gene	gltA2		
+MILJHNFP_00891	CDS	fliM_3		Flagellar motor switch protein FliM
+MILJHNFP_00891	gene	fliM_3		
+MILJHNFP_00892	CDS			hypothetical protein
+MILJHNFP_00892	gene			
+MILJHNFP_00893	CDS	glgC	2.7.7.27	Glucose-1-phosphate adenylyltransferase
+MILJHNFP_00893	gene	glgC		
+MILJHNFP_00894	CDS			hypothetical protein
+MILJHNFP_00894	gene			
+MILJHNFP_00895	CDS	gloC	3.1.2.6	Hydroxyacylglutathione hydrolase GloC
+MILJHNFP_00895	gene	gloC		
+MILJHNFP_00896	CDS	ogt	2.1.1.63	Methylated-DNA--protein-cysteine methyltransferase, constitutive
+MILJHNFP_00896	gene	ogt		
+MILJHNFP_00897	CDS			hypothetical protein
+MILJHNFP_00897	gene			
+MILJHNFP_00898	CDS			hypothetical protein
+MILJHNFP_00898	gene			
+MILJHNFP_00899	CDS	ftsZ_1		Cell division protein FtsZ
+MILJHNFP_00899	gene	ftsZ_1		
+MILJHNFP_00900	CDS			hypothetical protein
+MILJHNFP_00900	gene			
+MILJHNFP_00901	CDS			hypothetical protein
+MILJHNFP_00901	gene			
+MILJHNFP_00902	CDS			hypothetical protein
+MILJHNFP_00902	gene			
+MILJHNFP_00903	CDS	hemN	1.3.98.3	Oxygen-independent coproporphyrinogen III oxidase
+MILJHNFP_00903	gene	hemN		
+MILJHNFP_00904	CDS	tadA	3.5.4.33	tRNA-specific adenosine deaminase
+MILJHNFP_00904	gene	tadA		
+MILJHNFP_00905	CDS	ribN		Riboflavin transporter
+MILJHNFP_00905	gene	ribN		
+MILJHNFP_00906	CDS			hypothetical protein
+MILJHNFP_00906	gene			
+MILJHNFP_00907	CDS			hypothetical protein
+MILJHNFP_00907	gene			
+MILJHNFP_00908	CDS			hypothetical protein
+MILJHNFP_00908	gene			
+MILJHNFP_00909	CDS			hypothetical protein
+MILJHNFP_00909	gene			
+MILJHNFP_00910	CDS			hypothetical protein
+MILJHNFP_00910	gene			
+MILJHNFP_00911	CDS			hypothetical protein
+MILJHNFP_00911	gene			
+MILJHNFP_00912	CDS			hypothetical protein
+MILJHNFP_00912	gene			
+MILJHNFP_00913	CDS	rbsC_2		Ribose import permease protein RbsC
+MILJHNFP_00913	gene	rbsC_2		
+MILJHNFP_00914	CDS			hypothetical protein
+MILJHNFP_00914	gene			
+MILJHNFP_00915	CDS	msmE_1		Multiple sugar-binding protein
+MILJHNFP_00915	gene	msmE_1		
+MILJHNFP_00916	CDS			hypothetical protein
+MILJHNFP_00916	gene			
+MILJHNFP_00917	CDS	murAB	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase 2
+MILJHNFP_00917	gene	murAB		
+MILJHNFP_00918	CDS	hflX		GTPase HflX
+MILJHNFP_00918	gene	hflX		
+MILJHNFP_00919	CDS	frdB	1.3.5.1	Fumarate reductase iron-sulfur subunit
+MILJHNFP_00919	gene	frdB		
+MILJHNFP_00920	CDS	sdhA	1.3.5.-	8-methylmenaquinol:fumarate reductase flavoprotein subunit
+MILJHNFP_00920	gene	sdhA		
+MILJHNFP_00921	CDS			hypothetical protein
+MILJHNFP_00921	gene			
+MILJHNFP_00922	CDS			hypothetical protein
+MILJHNFP_00922	gene			
+MILJHNFP_00923	CDS			hypothetical protein
+MILJHNFP_00923	gene			
+MILJHNFP_00924	CDS			hypothetical protein
+MILJHNFP_00924	gene			
+MILJHNFP_00925	CDS			hypothetical protein
+MILJHNFP_00925	gene			
+MILJHNFP_00926	CDS			hypothetical protein
+MILJHNFP_00926	gene			
+MILJHNFP_00927	CDS	sauT	6.2.1.-	putative sulfoacetate--CoA ligase
+MILJHNFP_00927	gene	sauT		
+MILJHNFP_00928	CDS			hypothetical protein
+MILJHNFP_00928	gene			
+MILJHNFP_00929	tRNA			tRNA-Pro(ggg)
+MILJHNFP_00929	gene			
+MILJHNFP_00930	CDS	rppH	3.6.1.-	RNA pyrophosphohydrolase
+MILJHNFP_00930	gene	rppH		
+MILJHNFP_00931	CDS	aroF	2.5.1.54	Phospho-2-dehydro-3-deoxyheptonate aldolase, Tyr-sensitive
+MILJHNFP_00931	gene	aroF		
+MILJHNFP_00932	CDS	ybiT		putative ABC transporter ATP-binding protein YbiT
+MILJHNFP_00932	gene	ybiT		
+MILJHNFP_00933	CDS			hypothetical protein
+MILJHNFP_00933	gene			
+MILJHNFP_00934	CDS	korA	1.2.7.3	2-oxoglutarate oxidoreductase subunit KorA
+MILJHNFP_00934	gene	korA		
+MILJHNFP_00935	CDS	korB	1.2.7.3	2-oxoglutarate oxidoreductase subunit KorB
+MILJHNFP_00935	gene	korB		
+MILJHNFP_00936	CDS			hypothetical protein
+MILJHNFP_00936	gene			
+MILJHNFP_00937	CDS	moaB		Molybdenum cofactor biosynthesis protein B
+MILJHNFP_00937	gene	moaB		
+MILJHNFP_00938	CDS	thrA		Bifunctional aspartokinase/homoserine dehydrogenase 1
+MILJHNFP_00938	gene	thrA		
+MILJHNFP_00939	CDS			hypothetical protein
+MILJHNFP_00939	gene			
+MILJHNFP_00940	CDS			hypothetical protein
+MILJHNFP_00940	gene			
+MILJHNFP_00941	CDS		3.5.3.3	Creatinase
+MILJHNFP_00941	gene			
+MILJHNFP_00942	CDS	comC_2	1.1.1.338	(2R)-3-sulfolactate dehydrogenase (NADP(+))
+MILJHNFP_00942	gene	comC_2		
+MILJHNFP_00943	CDS			hypothetical protein
+MILJHNFP_00943	gene			
+MILJHNFP_00944	CDS			hypothetical protein
+MILJHNFP_00944	gene			
+MILJHNFP_00945	CDS			hypothetical protein
+MILJHNFP_00945	gene			
+MILJHNFP_00946	CDS	pspA	3.1.3.3	Phosphoserine phosphatase 1
+MILJHNFP_00946	gene	pspA		
+MILJHNFP_00947	CDS	dddL	4.4.1.3	Putative dimethlysulfonioproprionate lyase DddL
+MILJHNFP_00947	gene	dddL		
+MILJHNFP_00948	CDS	puuB_2	1.4.3.-	Gamma-glutamylputrescine oxidoreductase
+MILJHNFP_00948	gene	puuB_2		
+MILJHNFP_00949	CDS	ydcV		Inner membrane ABC transporter permease protein YdcV
+MILJHNFP_00949	gene	ydcV		
+MILJHNFP_00950	CDS	potH		Putrescine transport system permease protein PotH
+MILJHNFP_00950	gene	potH		
+MILJHNFP_00951	CDS	potA_1	3.6.3.31	Spermidine/putrescine import ATP-binding protein PotA
+MILJHNFP_00951	gene	potA_1		
+MILJHNFP_00952	CDS			hypothetical protein
+MILJHNFP_00952	gene			
+MILJHNFP_00953	CDS	ribZ		Riboflavin transporter RibZ
+MILJHNFP_00953	gene	ribZ		
+MILJHNFP_00954	CDS			hypothetical protein
+MILJHNFP_00954	gene			
+MILJHNFP_00955	CDS			hypothetical protein
+MILJHNFP_00955	gene			
+MILJHNFP_00956	CDS			hypothetical protein
+MILJHNFP_00956	gene			
+MILJHNFP_00957	CDS	opuAA_1	3.6.3.32	Glycine betaine transport ATP-binding protein OpuAA
+MILJHNFP_00957	gene	opuAA_1		
+MILJHNFP_00958	CDS			hypothetical protein
+MILJHNFP_00958	gene			
+MILJHNFP_00959	CDS			hypothetical protein
+MILJHNFP_00959	gene			
+MILJHNFP_00960	CDS			hypothetical protein
+MILJHNFP_00960	gene			
+MILJHNFP_00961	CDS	gcvT_1	2.1.2.10	Aminomethyltransferase
+MILJHNFP_00961	gene	gcvT_1		
+MILJHNFP_00962	CDS	glnA	6.3.1.2	Glutamine synthetase
+MILJHNFP_00962	gene	glnA		
+MILJHNFP_00963	CDS			hypothetical protein
+MILJHNFP_00963	gene			
+MILJHNFP_00964	CDS			hypothetical protein
+MILJHNFP_00964	gene			
+MILJHNFP_00965	CDS			hypothetical protein
+MILJHNFP_00965	gene			
+MILJHNFP_00966	CDS	tolB		Protein TolB
+MILJHNFP_00966	gene	tolB		
+MILJHNFP_00967	CDS			hypothetical protein
+MILJHNFP_00967	gene			
+MILJHNFP_00968	CDS	yccM_2		Putative electron transport protein YccM
+MILJHNFP_00968	gene	yccM_2		
+MILJHNFP_00969	CDS	ccoP2		Cbb3-type cytochrome c oxidase subunit CcoP2
+MILJHNFP_00969	gene	ccoP2		
+MILJHNFP_00970	CDS			hypothetical protein
+MILJHNFP_00970	gene			
+MILJHNFP_00971	CDS	ccoN1	1.9.3.1	Cbb3-type cytochrome c oxidase subunit CcoN1
+MILJHNFP_00971	gene	ccoN1		
+MILJHNFP_00972	CDS			hypothetical protein
+MILJHNFP_00972	gene			
+MILJHNFP_00973	CDS			hypothetical protein
+MILJHNFP_00973	gene			
+MILJHNFP_00974	CDS			hypothetical protein
+MILJHNFP_00974	gene			
+MILJHNFP_00975	CDS			hypothetical protein
+MILJHNFP_00975	gene			
+MILJHNFP_00976	CDS	recD	3.1.11.5	RecBCD enzyme subunit RecD
+MILJHNFP_00976	gene	recD		
+MILJHNFP_00977	CDS	priA	3.6.4.-	primosomal protein N'
+MILJHNFP_00977	gene	priA		
+MILJHNFP_00978	CDS	dmg_1	1.5.3.10	Dimethylglycine oxidase
+MILJHNFP_00978	gene	dmg_1		
+MILJHNFP_00979	CDS			hypothetical protein
+MILJHNFP_00979	gene			
+MILJHNFP_00980	CDS			hypothetical protein
+MILJHNFP_00980	gene			
+MILJHNFP_00981	CDS	siaP		Sialic acid-binding periplasmic protein SiaP
+MILJHNFP_00981	gene	siaP		
+MILJHNFP_00982	CDS			hypothetical protein
+MILJHNFP_00982	gene			
+MILJHNFP_00983	CDS			hypothetical protein
+MILJHNFP_00983	gene			
+MILJHNFP_00984	CDS	ihfA		Integration host factor subunit alpha
+MILJHNFP_00984	gene	ihfA		
+MILJHNFP_00985	CDS			hypothetical protein
+MILJHNFP_00985	gene			
+MILJHNFP_00986	CDS			hypothetical protein
+MILJHNFP_00986	gene			
+MILJHNFP_00987	CDS			hypothetical protein
+MILJHNFP_00987	gene			
+MILJHNFP_00988	CDS	ywlC	2.7.7.87	Threonylcarbamoyl-AMP synthase
+MILJHNFP_00988	gene	ywlC		
+MILJHNFP_00989	CDS			hypothetical protein
+MILJHNFP_00989	gene			
+MILJHNFP_00990	CDS			hypothetical protein
+MILJHNFP_00990	gene			
+MILJHNFP_00991	CDS			hypothetical protein
+MILJHNFP_00991	gene			
+MILJHNFP_00992	CDS			hypothetical protein
+MILJHNFP_00992	gene			
+MILJHNFP_00993	CDS			hypothetical protein
+MILJHNFP_00993	gene			
+MILJHNFP_00994	CDS			hypothetical protein
+MILJHNFP_00994	gene			
+MILJHNFP_00995	CDS		1.-.-.-	putative FAD-linked oxidoreductase
+MILJHNFP_00995	gene			
+MILJHNFP_00996	CDS	hin		DNA-invertase hin
+MILJHNFP_00996	gene	hin		
+MILJHNFP_00997	CDS			hypothetical protein
+MILJHNFP_00997	gene			
+MILJHNFP_00998	CDS			hypothetical protein
+MILJHNFP_00998	gene			
+MILJHNFP_00999	CDS			hypothetical protein
+MILJHNFP_00999	gene			
+MILJHNFP_01000	CDS			hypothetical protein
+MILJHNFP_01000	gene			
+MILJHNFP_01001	CDS			hypothetical protein
+MILJHNFP_01001	gene			
+MILJHNFP_01002	CDS			Cytochrome c-555
+MILJHNFP_01002	gene			
+MILJHNFP_01003	CDS			hypothetical protein
+MILJHNFP_01003	gene			
+MILJHNFP_01004	CDS		3.1.-.-	Putative esterase
+MILJHNFP_01004	gene			
+MILJHNFP_01005	CDS	tdcG	4.3.1.17	L-serine dehydratase TdcG
+MILJHNFP_01005	gene	tdcG		
+MILJHNFP_01006	CDS			hypothetical protein
+MILJHNFP_01006	gene			
+MILJHNFP_01007	CDS	trkA		Trk system potassium uptake protein TrkA
+MILJHNFP_01007	gene	trkA		
+MILJHNFP_01008	CDS			hypothetical protein
+MILJHNFP_01008	gene			
+MILJHNFP_01009	CDS	ftsA		Cell division protein FtsA
+MILJHNFP_01009	gene	ftsA		
+MILJHNFP_01010	CDS	ftsZ_2		Cell division protein FtsZ
+MILJHNFP_01010	gene	ftsZ_2		
+MILJHNFP_01011	CDS			hypothetical protein
+MILJHNFP_01011	gene			
+MILJHNFP_01012	CDS			hypothetical protein
+MILJHNFP_01012	gene			
+MILJHNFP_01013	CDS			hypothetical protein
+MILJHNFP_01013	gene			
+MILJHNFP_01014	CDS	pgcA	5.4.2.2	Phosphoglucomutase
+MILJHNFP_01014	gene	pgcA		
+MILJHNFP_01015	CDS	xseA	3.1.11.6	Exodeoxyribonuclease 7 large subunit
+MILJHNFP_01015	gene	xseA		
+MILJHNFP_01016	CDS	aroE	1.1.1.25	Shikimate dehydrogenase (NADP(+))
+MILJHNFP_01016	gene	aroE		
+MILJHNFP_01017	CDS	ptsH	2.7.11.-	Phosphocarrier protein HPr
+MILJHNFP_01017	gene	ptsH		
+MILJHNFP_01018	CDS	fliG_2		Flagellar motor switch protein FliG
+MILJHNFP_01018	gene	fliG_2		
+MILJHNFP_01019	CDS	cspA		putative cold shock protein A
+MILJHNFP_01019	gene	cspA		
+MILJHNFP_01020	CDS			hypothetical protein
+MILJHNFP_01020	gene			
+MILJHNFP_01021	CDS			hypothetical protein
+MILJHNFP_01021	gene			
+MILJHNFP_01022	CDS			hypothetical protein
+MILJHNFP_01022	gene			
+MILJHNFP_01023	CDS	dauA	1.4.99.6	FAD-dependent catabolic D-arginine dehydrogenase DauA
+MILJHNFP_01023	gene	dauA		
+MILJHNFP_01024	CDS	opuAA_2	3.6.3.32	Glycine betaine transport ATP-binding protein OpuAA
+MILJHNFP_01024	gene	opuAA_2		
+MILJHNFP_01025	CDS			hypothetical protein
+MILJHNFP_01025	gene			
+MILJHNFP_01026	CDS			hypothetical protein
+MILJHNFP_01026	gene			
+MILJHNFP_01027	CDS			hypothetical protein
+MILJHNFP_01027	gene			
+MILJHNFP_01028	CDS	pdxJ	2.6.99.2	Pyridoxine 5'-phosphate synthase
+MILJHNFP_01028	gene	pdxJ		
+MILJHNFP_01029	CDS	rng	3.1.26.-	Ribonuclease G
+MILJHNFP_01029	gene	rng		
+MILJHNFP_01030	CDS			hypothetical protein
+MILJHNFP_01030	gene			
+MILJHNFP_01031	CDS			hypothetical protein
+MILJHNFP_01031	gene			
+MILJHNFP_01032	CDS	gloB_2	3.1.2.6	Hydroxyacylglutathione hydrolase
+MILJHNFP_01032	gene	gloB_2		
+MILJHNFP_01033	CDS			hypothetical protein
+MILJHNFP_01033	gene			
+MILJHNFP_01034	CDS			hypothetical protein
+MILJHNFP_01034	gene			
+MILJHNFP_01035	CDS	lpxD	2.3.1.-	UDP-3-O-acylglucosamine N-acyltransferase
+MILJHNFP_01035	gene	lpxD		
+MILJHNFP_01036	CDS	rlmN	2.1.1.192	putative dual-specificity RNA methyltransferase RlmN
+MILJHNFP_01036	gene	rlmN		
+MILJHNFP_01037	CDS			hypothetical protein
+MILJHNFP_01037	gene			
+MILJHNFP_01038	CDS	kynU_2	3.7.1.3	Kynureninase
+MILJHNFP_01038	gene	kynU_2		
+MILJHNFP_01039	CDS	paaZ		Bifunctional protein PaaZ
+MILJHNFP_01039	gene	paaZ		
+MILJHNFP_01040	CDS			hypothetical protein
+MILJHNFP_01040	gene			
+MILJHNFP_01041	CDS			hypothetical protein
+MILJHNFP_01041	gene			
+MILJHNFP_01042	CDS	queG	1.17.99.6	Epoxyqueuosine reductase
+MILJHNFP_01042	gene	queG		
+MILJHNFP_01043	CDS			hypothetical protein
+MILJHNFP_01043	gene			
+MILJHNFP_01044	CDS			hypothetical protein
+MILJHNFP_01044	gene			
+MILJHNFP_01045	CDS	greA		Transcription elongation factor GreA
+MILJHNFP_01045	gene	greA		
+MILJHNFP_01046	CDS			hypothetical protein
+MILJHNFP_01046	gene			
+MILJHNFP_01047	CDS	nagK	3.7.1.20	Fumarylpyruvate hydrolase
+MILJHNFP_01047	gene	nagK		
+MILJHNFP_01048	CDS	fadB_2		Fatty acid oxidation complex subunit alpha
+MILJHNFP_01048	gene	fadB_2		
+MILJHNFP_01049	CDS			hypothetical protein
+MILJHNFP_01049	gene			
+MILJHNFP_01050	CDS	lgoT		putative L-galactonate transporter
+MILJHNFP_01050	gene	lgoT		
+MILJHNFP_01051	CDS			hypothetical protein
+MILJHNFP_01051	gene			
+MILJHNFP_01052	CDS			hypothetical protein
+MILJHNFP_01052	gene			
+MILJHNFP_01053	CDS	ectD_2	1.14.11.-	Ectoine dioxygenase
+MILJHNFP_01053	gene	ectD_2		
+MILJHNFP_01054	CDS	cuyA_2	4.4.1.25	L-cysteate sulfo-lyase
+MILJHNFP_01054	gene	cuyA_2		
+MILJHNFP_01055	CDS	gstB_3	2.5.1.18	Glutathione S-transferase GstB
+MILJHNFP_01055	gene	gstB_3		
+MILJHNFP_01056	CDS	ffh		Signal recognition particle protein
+MILJHNFP_01056	gene	ffh		
+MILJHNFP_01057	CDS	rpsP		30S ribosomal protein S16
+MILJHNFP_01057	gene	rpsP		
+MILJHNFP_01058	CDS	rimM		Ribosome maturation factor RimM
+MILJHNFP_01058	gene	rimM		
+MILJHNFP_01059	CDS	trmD	2.1.1.228	tRNA (guanine-N(1)-)-methyltransferase
+MILJHNFP_01059	gene	trmD		
+MILJHNFP_01060	CDS	rplS		50S ribosomal protein L19
+MILJHNFP_01060	gene	rplS		
+MILJHNFP_01061	CDS			hypothetical protein
+MILJHNFP_01061	gene			
+MILJHNFP_01062	CDS	cdsA	2.7.7.41	Phosphatidate cytidylyltransferase
+MILJHNFP_01062	gene	cdsA		
+MILJHNFP_01063	CDS	uppS	2.5.1.31	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+MILJHNFP_01063	gene	uppS		
+MILJHNFP_01064	CDS	rsmD	2.1.1.171	Ribosomal RNA small subunit methyltransferase D
+MILJHNFP_01064	gene	rsmD		
+MILJHNFP_01065	CDS	ligA_2	6.5.1.1	DNA ligase
+MILJHNFP_01065	gene	ligA_2		
+MILJHNFP_01066	CDS	acoB	1.1.1.-	Acetoin:2,6-dichlorophenolindophenol oxidoreductase subunit beta
+MILJHNFP_01066	gene	acoB		
+MILJHNFP_01067	CDS	acoC	2.3.1.12	Dihydrolipoyllysine-residue acetyltransferase component of acetoin cleaving system
+MILJHNFP_01067	gene	acoC		
+MILJHNFP_01068	CDS			hypothetical protein
+MILJHNFP_01068	gene			
+MILJHNFP_01069	CDS			hypothetical protein
+MILJHNFP_01069	gene			
+MILJHNFP_01070	CDS	ubiB	2.7.-.-	putative protein kinase UbiB
+MILJHNFP_01070	gene	ubiB		
+MILJHNFP_01071	CDS			hypothetical protein
+MILJHNFP_01071	gene			
+MILJHNFP_01072	CDS			PhoH-like protein
+MILJHNFP_01072	gene			
+MILJHNFP_01073	CDS	zraR_1		Transcriptional regulatory protein ZraR
+MILJHNFP_01073	gene	zraR_1		
+MILJHNFP_01074	CDS	ispB	2.5.1.90	Octaprenyl diphosphate synthase
+MILJHNFP_01074	gene	ispB		
+MILJHNFP_01075	CDS	asnS	6.1.1.22	Asparagine--tRNA ligase
+MILJHNFP_01075	gene	asnS		
+MILJHNFP_01076	CDS	mshA	2.4.1.250	D-inositol 3-phosphate glycosyltransferase
+MILJHNFP_01076	gene	mshA		
+MILJHNFP_01077	tRNA			tRNA-Ser(tga)
+MILJHNFP_01077	gene			
+MILJHNFP_01078	CDS			hypothetical protein
+MILJHNFP_01078	gene			
+MILJHNFP_01079	CDS			hypothetical protein
+MILJHNFP_01079	gene			
+MILJHNFP_01080	CDS			hypothetical protein
+MILJHNFP_01080	gene			
+MILJHNFP_01081	CDS			hypothetical protein
+MILJHNFP_01081	gene			
+MILJHNFP_01082	CDS	hpcH	4.1.2.52	4-hydroxy-2-oxo-heptane-1,7-dioate aldolase
+MILJHNFP_01082	gene	hpcH		
+MILJHNFP_01083	CDS			hypothetical protein
+MILJHNFP_01083	gene			
+MILJHNFP_01084	CDS	fabG_3	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+MILJHNFP_01084	gene	fabG_3		
+MILJHNFP_01085	CDS	novR	4.1.-.-	Decarboxylase NovR
+MILJHNFP_01085	gene	novR		
+MILJHNFP_01086	CDS	Hgd_2	1.1.1.291	2-(hydroxymethyl)glutarate dehydrogenase
+MILJHNFP_01086	gene	Hgd_2		
+MILJHNFP_01087	CDS			hypothetical protein
+MILJHNFP_01087	gene			
+MILJHNFP_01088	CDS	hcaR		Hca operon transcriptional activator HcaR
+MILJHNFP_01088	gene	hcaR		
+MILJHNFP_01089	CDS	rplU		50S ribosomal protein L21
+MILJHNFP_01089	gene	rplU		
+MILJHNFP_01090	CDS			hypothetical protein
+MILJHNFP_01090	gene			
+MILJHNFP_01091	CDS			hypothetical protein
+MILJHNFP_01091	gene			
+MILJHNFP_01092	CDS	atpB		ATP synthase subunit a
+MILJHNFP_01092	gene	atpB		
+MILJHNFP_01093	CDS	atpE		ATP synthase subunit c
+MILJHNFP_01093	gene	atpE		
+MILJHNFP_01094	CDS			hypothetical protein
+MILJHNFP_01094	gene			
+MILJHNFP_01095	CDS	tatB		Sec-independent protein translocase protein TatB
+MILJHNFP_01095	gene	tatB		
+MILJHNFP_01096	CDS	mnmE	3.6.5.-	tRNA modification GTPase MnmE
+MILJHNFP_01096	gene	mnmE		
+MILJHNFP_01097	CDS			hypothetical protein
+MILJHNFP_01097	gene			
+MILJHNFP_01098	CDS			hypothetical protein
+MILJHNFP_01098	gene			
+MILJHNFP_01099	CDS	parA		Chromosome partitioning protein ParA
+MILJHNFP_01099	gene	parA		
+MILJHNFP_01100	CDS			hypothetical protein
+MILJHNFP_01100	gene			
+MILJHNFP_01101	CDS	malP	2.4.1.1	Maltodextrin phosphorylase
+MILJHNFP_01101	gene	malP		
+MILJHNFP_01102	CDS	glgB	2.4.1.18	1,4-alpha-glucan branching enzyme GlgB
+MILJHNFP_01102	gene	glgB		
+MILJHNFP_01103	CDS	pntA	1.6.1.2	NAD(P) transhydrogenase subunit alpha
+MILJHNFP_01103	gene	pntA		
+MILJHNFP_01104	CDS	malQ	2.4.1.25	4-alpha-glucanotransferase
+MILJHNFP_01104	gene	malQ		
+MILJHNFP_01105	CDS	ttrB		Tetrathionate reductase subunit B
+MILJHNFP_01105	gene	ttrB		
+MILJHNFP_01106	CDS	psrA		Polysulfide reductase chain A
+MILJHNFP_01106	gene	psrA		
+MILJHNFP_01107	CDS			hypothetical protein
+MILJHNFP_01107	gene			
+MILJHNFP_01108	CDS	nudF	3.6.1.13	ADP-ribose pyrophosphatase
+MILJHNFP_01108	gene	nudF		
+MILJHNFP_01109	CDS	relA		Bifunctional (p)ppGpp synthase/hydrolase RelA
+MILJHNFP_01109	gene	relA		
+MILJHNFP_01110	CDS			hypothetical protein
+MILJHNFP_01110	gene			
+MILJHNFP_01111	CDS	nrdJ	1.17.4.1	Vitamin B12-dependent ribonucleotide reductase
+MILJHNFP_01111	gene	nrdJ		
+MILJHNFP_01112	CDS			hypothetical protein
+MILJHNFP_01112	gene			
+MILJHNFP_01113	CDS	birA	6.3.4.15	Bifunctional ligase/repressor BirA
+MILJHNFP_01113	gene	birA		
+MILJHNFP_01114	CDS	coaX	2.7.1.33	Type III pantothenate kinase
+MILJHNFP_01114	gene	coaX		
+MILJHNFP_01115	CDS			hypothetical protein
+MILJHNFP_01115	gene			
+MILJHNFP_01116	CDS			hypothetical protein
+MILJHNFP_01116	gene			
+MILJHNFP_01117	CDS			hypothetical protein
+MILJHNFP_01117	gene			
+MILJHNFP_01118	CDS	ribD_2		Riboflavin biosynthesis protein RibD
+MILJHNFP_01118	gene	ribD_2		
+MILJHNFP_01119	CDS	ribBA		Riboflavin biosynthesis protein RibBA
+MILJHNFP_01119	gene	ribBA		
+MILJHNFP_01120	CDS			hypothetical protein
+MILJHNFP_01120	gene			
+MILJHNFP_01121	CDS	menG	2.1.1.163	Demethylmenaquinone methyltransferase
+MILJHNFP_01121	gene	menG		
+MILJHNFP_01122	CDS	menF	5.4.4.2	Isochorismate synthase MenF
+MILJHNFP_01122	gene	menF		
+MILJHNFP_01123	CDS			hypothetical protein
+MILJHNFP_01123	gene			
+MILJHNFP_01124	CDS	uvrC		UvrABC system protein C
+MILJHNFP_01124	gene	uvrC		
+MILJHNFP_01125	CDS		3.5.4.32	8-oxoguanine deaminase
+MILJHNFP_01125	gene			
+MILJHNFP_01126	CDS			Leu/Ile/Val-binding protein 
+MILJHNFP_01126	gene			
+MILJHNFP_01127	CDS	livH_3		High-affinity branched-chain amino acid transport system permease protein LivH
+MILJHNFP_01127	gene	livH_3		
+MILJHNFP_01128	CDS			hypothetical protein
+MILJHNFP_01128	gene			
+MILJHNFP_01129	CDS	lptB_2	3.6.3.-	Lipopolysaccharide export system ATP-binding protein LptB
+MILJHNFP_01129	gene	lptB_2		
+MILJHNFP_01130	CDS	dapb3	3.4.14.-	Dipeptidyl aminopeptidase BIII
+MILJHNFP_01130	gene	dapb3		
+MILJHNFP_01131	CDS	dnrC	2.1.1.288	Aklanonic acid methyltransferase DnrC
+MILJHNFP_01131	gene	dnrC		
+MILJHNFP_01132	CDS			hypothetical protein
+MILJHNFP_01132	gene			
+MILJHNFP_01133	CDS	hflK		Modulator of FtsH protease HflK
+MILJHNFP_01133	gene	hflK		
+MILJHNFP_01134	CDS	map	3.4.11.18	Methionine aminopeptidase
+MILJHNFP_01134	gene	map		
+MILJHNFP_01135	CDS	ddlA	6.3.2.4	D-alanine--D-alanine ligase A
+MILJHNFP_01135	gene	ddlA		
+MILJHNFP_01136	CDS	aspS	6.1.1.12	Aspartate--tRNA ligase
+MILJHNFP_01136	gene	aspS		
+MILJHNFP_01137	CDS		2.4.1.54	Undecaprenyl-phosphate mannosyltransferase
+MILJHNFP_01137	gene			
+MILJHNFP_01138	CDS	gno_3	1.1.1.69	Gluconate 5-dehydrogenase
+MILJHNFP_01138	gene	gno_3		
+MILJHNFP_01139	CDS	sauU		putative sulfoacetate transporter SauU
+MILJHNFP_01139	gene	sauU		
+MILJHNFP_01140	CDS			hypothetical protein
+MILJHNFP_01140	gene			
+MILJHNFP_01141	CDS	lon1	3.4.21.53	Lon protease 1
+MILJHNFP_01141	gene	lon1		
+MILJHNFP_01142	CDS	thrS	6.1.1.3	Threonine--tRNA ligase 1
+MILJHNFP_01142	gene	thrS		
+MILJHNFP_01143	CDS			hypothetical protein
+MILJHNFP_01143	gene			
+MILJHNFP_01144	CDS	tkt	2.2.1.1	Transketolase
+MILJHNFP_01144	gene	tkt		
+MILJHNFP_01145	CDS		3.1.-.-	Putative esterase
+MILJHNFP_01145	gene			
+MILJHNFP_01146	CDS	rpoC	2.7.7.6	DNA-directed RNA polymerase subunit beta'
+MILJHNFP_01146	gene	rpoC		
+MILJHNFP_01147	CDS			hypothetical protein
+MILJHNFP_01147	gene			
+MILJHNFP_01148	CDS	tmpC_2		Membrane lipoprotein TmpC
+MILJHNFP_01148	gene	tmpC_2		
+MILJHNFP_01149	CDS		2.4.2.44	S-methyl-5'-thioinosine phosphorylase
+MILJHNFP_01149	gene			
+MILJHNFP_01150	CDS			hypothetical protein
+MILJHNFP_01150	gene			
+MILJHNFP_01151	CDS	nnr		Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+MILJHNFP_01151	gene	nnr		
+MILJHNFP_01152	CDS	uspF		Universal stress protein F
+MILJHNFP_01152	gene	uspF		
+MILJHNFP_01153	CDS			hypothetical protein
+MILJHNFP_01153	gene			
+MILJHNFP_01154	CDS		2.6.1.-	putative aminotransferase
+MILJHNFP_01154	gene			
+MILJHNFP_01155	CDS	kdsB	2.7.7.90	8-amino-3,8-dideoxy-manno-octulosonate cytidylyltransferase
+MILJHNFP_01155	gene	kdsB		
+MILJHNFP_01156	CDS			hypothetical protein
+MILJHNFP_01156	gene			
+MILJHNFP_01157	CDS	kdsA	2.5.1.55	2-dehydro-3-deoxyphosphooctonate aldolase
+MILJHNFP_01157	gene	kdsA		
+MILJHNFP_01158	CDS			hypothetical protein
+MILJHNFP_01158	gene			
+MILJHNFP_01159	CDS			hypothetical protein
+MILJHNFP_01159	gene			
+MILJHNFP_01160	CDS			hypothetical protein
+MILJHNFP_01160	gene			
+MILJHNFP_01161	CDS			hypothetical protein
+MILJHNFP_01161	gene			
+MILJHNFP_01162	CDS	clpA		ATP-dependent Clp protease ATP-binding subunit ClpA
+MILJHNFP_01162	gene	clpA		
+MILJHNFP_01163	CDS			hypothetical protein
+MILJHNFP_01163	gene			
+MILJHNFP_01164	CDS	rbsA_2	3.6.3.17	Ribose import ATP-binding protein RbsA
+MILJHNFP_01164	gene	rbsA_2		
+MILJHNFP_01165	CDS			hypothetical protein
+MILJHNFP_01165	gene			
+MILJHNFP_01166	CDS		3.5.1.77	N-carbamoyl-D-amino acid hydrolase
+MILJHNFP_01166	gene			
+MILJHNFP_01167	CDS	aguA	3.5.3.12	Agmatine deiminase
+MILJHNFP_01167	gene	aguA		
+MILJHNFP_01168	CDS	gpt	2.4.2.22	Xanthine phosphoribosyltransferase
+MILJHNFP_01168	gene	gpt		
+MILJHNFP_01169	CDS	gsiC_3		Glutathione transport system permease protein GsiC
+MILJHNFP_01169	gene	gsiC_3		
+MILJHNFP_01170	CDS	cya	4.6.1.1	Adenylate cyclase
+MILJHNFP_01170	gene	cya		
+MILJHNFP_01171	CDS	nagX	1.14.13.24	3-hydroxybenzoate 6-hydroxylase
+MILJHNFP_01171	gene	nagX		
+MILJHNFP_01172	CDS	leuA	2.3.3.13	2-isopropylmalate synthase
+MILJHNFP_01172	gene	leuA		
+MILJHNFP_01173	CDS			hypothetical protein
+MILJHNFP_01173	gene			
+MILJHNFP_01174	CDS	yihX	3.1.3.10	Alpha-D-glucose 1-phosphate phosphatase YihX
+MILJHNFP_01174	gene	yihX		
+MILJHNFP_01175	CDS			hypothetical protein
+MILJHNFP_01175	gene			
+MILJHNFP_01176	CDS	glpE_3	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+MILJHNFP_01176	gene	glpE_3		
+MILJHNFP_01177	CDS			hypothetical protein
+MILJHNFP_01177	gene			
+MILJHNFP_01178	CDS			hypothetical protein
+MILJHNFP_01178	gene			
+MILJHNFP_01179	CDS			hypothetical protein
+MILJHNFP_01179	gene			
+MILJHNFP_01180	CDS			hypothetical protein
+MILJHNFP_01180	gene			
+MILJHNFP_01181	CDS	sauS	1.2.1.81	Sulfoacetaldehyde dehydrogenase (acylating)
+MILJHNFP_01181	gene	sauS		
+MILJHNFP_01182	CDS	ald	1.4.1.1	Alanine dehydrogenase
+MILJHNFP_01182	gene	ald		
+MILJHNFP_01183	CDS	tpa	2.6.1.77	Taurine--pyruvate aminotransferase
+MILJHNFP_01183	gene	tpa		
+MILJHNFP_01184	CDS			hypothetical protein
+MILJHNFP_01184	gene			
+MILJHNFP_01185	CDS		1.6.5.2	NAD(P)H dehydrogenase (quinone)
+MILJHNFP_01185	gene			
+MILJHNFP_01186	CDS			hypothetical protein
+MILJHNFP_01186	gene			
+MILJHNFP_01187	CDS	yhhW	1.13.11.24	Quercetin 2,3-dioxygenase
+MILJHNFP_01187	gene	yhhW		
+MILJHNFP_01188	CDS			hypothetical protein
+MILJHNFP_01188	gene			
+MILJHNFP_01189	CDS	era		GTPase Era
+MILJHNFP_01189	gene	era		
+MILJHNFP_01190	CDS			hypothetical protein
+MILJHNFP_01190	gene			
+MILJHNFP_01191	CDS	hag_2		Flagellin
+MILJHNFP_01191	gene	hag_2		
+MILJHNFP_01192	CDS	hag_3		Flagellin
+MILJHNFP_01192	gene	hag_3		
+MILJHNFP_01193	CDS			hypothetical protein
+MILJHNFP_01193	gene			
+MILJHNFP_01194	CDS	ftsY		Signal recognition particle receptor FtsY
+MILJHNFP_01194	gene	ftsY		
+MILJHNFP_01195	CDS			hypothetical protein
+MILJHNFP_01195	gene			
+MILJHNFP_01196	CDS			hypothetical protein
+MILJHNFP_01196	gene			
+MILJHNFP_01197	CDS	oppC		Oligopeptide transport system permease protein OppC
+MILJHNFP_01197	gene	oppC		
+MILJHNFP_01198	CDS	dppB		Dipeptide transport system permease protein DppB
+MILJHNFP_01198	gene	dppB		
+MILJHNFP_01199	CDS			putative ABC transporter-binding protein
+MILJHNFP_01199	gene			
+MILJHNFP_01200	CDS			hypothetical protein
+MILJHNFP_01200	gene			
+MILJHNFP_01201	CDS	fliS_1		Flagellar protein FliS
+MILJHNFP_01201	gene	fliS_1		
+MILJHNFP_01202	CDS	fliS_2		Flagellar protein FliS
+MILJHNFP_01202	gene	fliS_2		
+MILJHNFP_01203	CDS	fliD		Flagellar hook-associated protein 2
+MILJHNFP_01203	gene	fliD		
+MILJHNFP_01204	CDS	hag_4		Flagellin
+MILJHNFP_01204	gene	hag_4		
+MILJHNFP_01205	CDS			hypothetical protein
+MILJHNFP_01205	gene			
+MILJHNFP_01206	CDS			hypothetical protein
+MILJHNFP_01206	gene			
+MILJHNFP_01207	CDS	desV	2.6.1.106	dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase
+MILJHNFP_01207	gene	desV		
+MILJHNFP_01208	CDS			hypothetical protein
+MILJHNFP_01208	gene			
+MILJHNFP_01209	CDS	fusA_2		Elongation factor G
+MILJHNFP_01209	gene	fusA_2		
+MILJHNFP_01210	CDS	ispF	4.6.1.12	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+MILJHNFP_01210	gene	ispF		
+MILJHNFP_01211	CDS			hypothetical protein
+MILJHNFP_01211	gene			
+MILJHNFP_01212	CDS	pyrD_1	1.3.-.-	Dihydroorotate dehydrogenase
+MILJHNFP_01212	gene	pyrD_1		
+MILJHNFP_01213	tRNA			tRNA-Thr(tgt)
+MILJHNFP_01213	gene			
+MILJHNFP_01214	tRNA			tRNA-Tyr(gta)
+MILJHNFP_01214	gene			
+MILJHNFP_01215	tRNA			tRNA-Thr(ggt)
+MILJHNFP_01215	gene			
+MILJHNFP_01216	tRNA			tRNA-Trp(cca)
+MILJHNFP_01216	gene			
+MILJHNFP_01217	CDS	bamD		Outer membrane protein assembly factor BamD
+MILJHNFP_01217	gene	bamD		
+MILJHNFP_01218	CDS	cmk	2.7.4.25	Cytidylate kinase
+MILJHNFP_01218	gene	cmk		
+MILJHNFP_01219	CDS	cusB		Cation efflux system protein CusB
+MILJHNFP_01219	gene	cusB		
+MILJHNFP_01220	CDS		3.1.3.-	Phosphorylated carbohydrates phosphatase
+MILJHNFP_01220	gene			
+MILJHNFP_01221	CDS			hypothetical protein
+MILJHNFP_01221	gene			
+MILJHNFP_01222	CDS	zraS_1	2.7.13.3	Sensor protein ZraS
+MILJHNFP_01222	gene	zraS_1		
+MILJHNFP_01223	CDS			hypothetical protein
+MILJHNFP_01223	gene			
+MILJHNFP_01224	CDS	pyrG	6.3.4.2	CTP synthase
+MILJHNFP_01224	gene	pyrG		
+MILJHNFP_01225	CDS			hypothetical protein
+MILJHNFP_01225	gene			
+MILJHNFP_01226	CDS			hypothetical protein
+MILJHNFP_01226	gene			
+MILJHNFP_01227	CDS			hypothetical protein
+MILJHNFP_01227	gene			
+MILJHNFP_01228	CDS			hypothetical protein
+MILJHNFP_01228	gene			
+MILJHNFP_01229	CDS			hypothetical protein
+MILJHNFP_01229	gene			
+MILJHNFP_01230	CDS	afr_2	1.1.1.292	1,5-anhydro-D-fructose reductase
+MILJHNFP_01230	gene	afr_2		
+MILJHNFP_01231	CDS	ptlH	1.14.11.35	1-deoxypentalenic acid 11-beta-hydroxylase
+MILJHNFP_01231	gene	ptlH		
+MILJHNFP_01232	CDS			hypothetical protein
+MILJHNFP_01232	gene			
+MILJHNFP_01233	CDS			hypothetical protein
+MILJHNFP_01233	gene			
+MILJHNFP_01234	CDS	gpmA	5.4.2.11	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+MILJHNFP_01234	gene	gpmA		
+MILJHNFP_01235	CDS	aruC	2.6.1.11	Succinylornithine transaminase/acetylornithine aminotransferase
+MILJHNFP_01235	gene	aruC		
+MILJHNFP_01236	CDS			hypothetical protein
+MILJHNFP_01236	gene			
+MILJHNFP_01237	CDS	tesE	4.2.1.132	2-hydroxyhexa-2,4-dienoate hydratase
+MILJHNFP_01237	gene	tesE		
+MILJHNFP_01238	CDS	ppdK	2.7.9.1	Pyruvate, phosphate dikinase
+MILJHNFP_01238	gene	ppdK		
+MILJHNFP_01239	CDS			hypothetical protein
+MILJHNFP_01239	gene			
+MILJHNFP_01240	CDS	gsiA_3	3.6.3.-	Glutathione import ATP-binding protein GsiA
+MILJHNFP_01240	gene	gsiA_3		
+MILJHNFP_01241	CDS	dppC_2		Dipeptide transport system permease protein DppC
+MILJHNFP_01241	gene	dppC_2		
+MILJHNFP_01242	CDS			hypothetical protein
+MILJHNFP_01242	gene			
+MILJHNFP_01243	CDS	dadA	1.4.99.-	D-amino acid dehydrogenase
+MILJHNFP_01243	gene	dadA		
+MILJHNFP_01244	CDS			hypothetical protein
+MILJHNFP_01244	gene			
+MILJHNFP_01245	CDS			hypothetical protein
+MILJHNFP_01245	gene			
+MILJHNFP_01246	CDS			hypothetical protein
+MILJHNFP_01246	gene			
+MILJHNFP_01247	CDS			hypothetical protein
+MILJHNFP_01247	gene			
+MILJHNFP_01248	CDS			hypothetical protein
+MILJHNFP_01248	gene			
+MILJHNFP_01249	CDS	gatA_4	6.3.5.7	Glutamyl-tRNA(Gln) amidotransferase subunit A
+MILJHNFP_01249	gene	gatA_4		
+MILJHNFP_01250	CDS			hypothetical protein
+MILJHNFP_01250	gene			
+MILJHNFP_01251	CDS			hypothetical protein
+MILJHNFP_01251	gene			
+MILJHNFP_01252	CDS	sdcS		Sodium-dependent dicarboxylate transporter SdcS
+MILJHNFP_01252	gene	sdcS		
+MILJHNFP_01253	CDS	zraR_2		Transcriptional regulatory protein ZraR
+MILJHNFP_01253	gene	zraR_2		
+MILJHNFP_01254	CDS	luxO		Luminescence regulatory protein LuxO
+MILJHNFP_01254	gene	luxO		
+MILJHNFP_01255	CDS			hypothetical protein
+MILJHNFP_01255	gene			
+MILJHNFP_01256	CDS	spo0F	2.7.-.-	Sporulation initiation phosphotransferase F
+MILJHNFP_01256	gene	spo0F		
+MILJHNFP_01257	CDS	cckA		Sensor kinase CckA
+MILJHNFP_01257	gene	cckA		
+MILJHNFP_01258	CDS	exbB_1		Biopolymer transport protein ExbB
+MILJHNFP_01258	gene	exbB_1		
+MILJHNFP_01259	CDS	exbD_1		Biopolymer transport protein ExbD
+MILJHNFP_01259	gene	exbD_1		
+MILJHNFP_01260	CDS	tatA		Sec-independent protein translocase protein TatA
+MILJHNFP_01260	gene	tatA		
+MILJHNFP_01261	CDS	fliN_4		Flagellar motor switch protein FliN
+MILJHNFP_01261	gene	fliN_4		
+MILJHNFP_01262	CDS	hemL	5.4.3.8	Glutamate-1-semialdehyde 2,1-aminomutase
+MILJHNFP_01262	gene	hemL		
+MILJHNFP_01263	CDS	msmE_2		Multiple sugar-binding protein
+MILJHNFP_01263	gene	msmE_2		
+MILJHNFP_01264	CDS	araP		L-arabinose transport system permease protein AraP
+MILJHNFP_01264	gene	araP		
+MILJHNFP_01265	CDS	araQ_4		L-arabinose transport system permease protein AraQ
+MILJHNFP_01265	gene	araQ_4		
+MILJHNFP_01266	CDS			hypothetical protein
+MILJHNFP_01266	gene			
+MILJHNFP_01267	CDS			hypothetical protein
+MILJHNFP_01267	gene			
+MILJHNFP_01268	CDS	pkn1_2	2.7.11.1	Serine/threonine-protein kinase pkn1
+MILJHNFP_01268	gene	pkn1_2		
+MILJHNFP_01269	CDS			hypothetical protein
+MILJHNFP_01269	gene			
+MILJHNFP_01270	CDS			hypothetical protein
+MILJHNFP_01270	gene			
+MILJHNFP_01271	CDS			hypothetical protein
+MILJHNFP_01271	gene			
+MILJHNFP_01272	CDS	soxA	1.5.3.1	Sarcosine oxidase subunit alpha
+MILJHNFP_01272	gene	soxA		
+MILJHNFP_01273	CDS	gcvT_2	2.1.2.10	Aminomethyltransferase
+MILJHNFP_01273	gene	gcvT_2		
+MILJHNFP_01274	CDS	soxB	1.5.3.1	Sarcosine oxidase subunit beta
+MILJHNFP_01274	gene	soxB		
+MILJHNFP_01275	CDS	etfB		Electron transfer flavoprotein subunit beta
+MILJHNFP_01275	gene	etfB		
+MILJHNFP_01276	CDS	carE	1.3.1.108	Caffeyl-CoA reductase-Etf complex subunit CarE
+MILJHNFP_01276	gene	carE		
+MILJHNFP_01277	CDS			hypothetical protein
+MILJHNFP_01277	gene			
+MILJHNFP_01278	CDS	clcD	3.1.1.45	Carboxymethylenebutenolidase
+MILJHNFP_01278	gene	clcD		
+MILJHNFP_01279	CDS			hypothetical protein
+MILJHNFP_01279	gene			
+MILJHNFP_01280	CDS			hypothetical protein
+MILJHNFP_01280	gene			
+MILJHNFP_01281	CDS			hypothetical protein
+MILJHNFP_01281	gene			
+MILJHNFP_01282	CDS	gltB	1.4.7.1	Ferredoxin-dependent glutamate synthase 1
+MILJHNFP_01282	gene	gltB		
+MILJHNFP_01283	CDS			hypothetical protein
+MILJHNFP_01283	gene			
+MILJHNFP_01284	CDS			hypothetical protein
+MILJHNFP_01284	gene			
+MILJHNFP_01285	CDS			hypothetical protein
+MILJHNFP_01285	gene			
+MILJHNFP_01286	CDS			hypothetical protein
+MILJHNFP_01286	gene			
+MILJHNFP_01287	CDS			hypothetical protein
+MILJHNFP_01287	gene			
+MILJHNFP_01288	CDS			hypothetical protein
+MILJHNFP_01288	gene			
+MILJHNFP_01289	CDS			hypothetical protein
+MILJHNFP_01289	gene			
+MILJHNFP_01290	CDS			hypothetical protein
+MILJHNFP_01290	gene			
+MILJHNFP_01291	CDS	pth	3.1.1.29	Peptidyl-tRNA hydrolase
+MILJHNFP_01291	gene	pth		
+MILJHNFP_01292	CDS	rplY		50S ribosomal protein L25
+MILJHNFP_01292	gene	rplY		
+MILJHNFP_01293	CDS	sseB	2.8.1.1	Putative thiosulfate sulfurtransferase SseB
+MILJHNFP_01293	gene	sseB		
+MILJHNFP_01294	CDS	yejE		Inner membrane ABC transporter permease protein YejE
+MILJHNFP_01294	gene	yejE		
+MILJHNFP_01295	CDS	yejB		Inner membrane ABC transporter permease protein YejB
+MILJHNFP_01295	gene	yejB		
+MILJHNFP_01296	CDS	dmg_2	1.5.3.10	Dimethylglycine oxidase
+MILJHNFP_01296	gene	dmg_2		
+MILJHNFP_01297	CDS			hypothetical protein
+MILJHNFP_01297	gene			
+MILJHNFP_01298	CDS	hadL	3.8.1.2	(S)-2-haloacid dehalogenase
+MILJHNFP_01298	gene	hadL		
+MILJHNFP_01299	CDS			hypothetical protein
+MILJHNFP_01299	gene			
+MILJHNFP_01300	CDS	fmt	2.1.2.9	Methionyl-tRNA formyltransferase
+MILJHNFP_01300	gene	fmt		
+MILJHNFP_01301	CDS			hypothetical protein
+MILJHNFP_01301	gene			
+MILJHNFP_01302	CDS	obg	3.6.5.-	GTPase Obg
+MILJHNFP_01302	gene	obg		
+MILJHNFP_01303	CDS			hypothetical protein
+MILJHNFP_01303	gene			
+MILJHNFP_01304	CDS			hypothetical protein
+MILJHNFP_01304	gene			
+MILJHNFP_01305	CDS			hypothetical protein
+MILJHNFP_01305	gene			
+MILJHNFP_01306	CDS	ectD_3	1.14.11.-	Ectoine dioxygenase
+MILJHNFP_01306	gene	ectD_3		
+MILJHNFP_01307	CDS	pht4	1.-.-.-	Putative 4,5-dihydroxyphthalate dehydrogenase
+MILJHNFP_01307	gene	pht4		
+MILJHNFP_01308	CDS			hypothetical protein
+MILJHNFP_01308	gene			
+MILJHNFP_01309	CDS	pkn1_3	2.7.11.1	Serine/threonine-protein kinase pkn1
+MILJHNFP_01309	gene	pkn1_3		
+MILJHNFP_01310	CDS			hypothetical protein
+MILJHNFP_01310	gene			
+MILJHNFP_01311	CDS	folE	3.5.4.16	GTP cyclohydrolase 1
+MILJHNFP_01311	gene	folE		
+MILJHNFP_01312	CDS			hypothetical protein
+MILJHNFP_01312	gene			
+MILJHNFP_01313	CDS	gsk	2.7.1.73	Inosine-guanosine kinase
+MILJHNFP_01313	gene	gsk		
+MILJHNFP_01314	CDS	clpX		ATP-dependent Clp protease ATP-binding subunit ClpX
+MILJHNFP_01314	gene	clpX		
+MILJHNFP_01315	CDS			hypothetical protein
+MILJHNFP_01315	gene			
+MILJHNFP_01316	CDS	dmdA_2	2.1.1.269	Dimethylsulfonioproprionate demethylase DmdA
+MILJHNFP_01316	gene	dmdA_2		
+MILJHNFP_01317	CDS	ycjP_2		Inner membrane ABC transporter permease protein YcjP
+MILJHNFP_01317	gene	ycjP_2		
+MILJHNFP_01318	CDS	ycjO_2		Inner membrane ABC transporter permease protein YcjO
+MILJHNFP_01318	gene	ycjO_2		
+MILJHNFP_01319	CDS			hypothetical protein
+MILJHNFP_01319	gene			
+MILJHNFP_01320	CDS	cytR		HTH-type transcriptional repressor CytR
+MILJHNFP_01320	gene	cytR		
+MILJHNFP_01321	CDS	yphF		ABC transporter periplasmic-binding protein YphF
+MILJHNFP_01321	gene	yphF		
+MILJHNFP_01322	CDS	xylH		Xylose transport system permease protein XylH
+MILJHNFP_01322	gene	xylH		
+MILJHNFP_01323	CDS	ttuC'	1.1.1.93	putative tartrate dehydrogenase/decarboxylase TtuC'
+MILJHNFP_01323	gene	ttuC'		
+MILJHNFP_01324	CDS			hypothetical protein
+MILJHNFP_01324	gene			
+MILJHNFP_01325	CDS	glpQ	3.1.4.46	Glycerophosphodiester phosphodiesterase, periplasmic
+MILJHNFP_01325	gene	glpQ		
+MILJHNFP_01326	CDS	mraY	2.7.8.13	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+MILJHNFP_01326	gene	mraY		
+MILJHNFP_01327	CDS	frr		Ribosome-recycling factor
+MILJHNFP_01327	gene	frr		
+MILJHNFP_01328	CDS	pyrH	2.7.4.22	Uridylate kinase
+MILJHNFP_01328	gene	pyrH		
+MILJHNFP_01329	CDS	tsf		Elongation factor Ts
+MILJHNFP_01329	gene	tsf		
+MILJHNFP_01330	CDS	rpsB		30S ribosomal protein S2
+MILJHNFP_01330	gene	rpsB		
+MILJHNFP_01331	CDS	rimI	2.3.1.128	Ribosomal-protein-alanine acetyltransferase
+MILJHNFP_01331	gene	rimI		
+MILJHNFP_01332	CDS			hypothetical protein
+MILJHNFP_01332	gene			
+MILJHNFP_01333	CDS			hypothetical protein
+MILJHNFP_01333	gene			
+MILJHNFP_01334	CDS			hypothetical protein
+MILJHNFP_01334	gene			
+MILJHNFP_01335	CDS			hypothetical protein
+MILJHNFP_01335	gene			
+MILJHNFP_01336	CDS			hypothetical protein
+MILJHNFP_01336	gene			
+MILJHNFP_01337	CDS			hypothetical protein
+MILJHNFP_01337	gene			
+MILJHNFP_01338	CDS	blh	3.-.-.-	Beta-lactamase hydrolase-like protein
+MILJHNFP_01338	gene	blh		
+MILJHNFP_01339	CDS	bigR		Biofilm growth-associated repressor
+MILJHNFP_01339	gene	bigR		
+MILJHNFP_01340	CDS			hypothetical protein
+MILJHNFP_01340	gene			
+MILJHNFP_01341	CDS			hypothetical protein
+MILJHNFP_01341	gene			
+MILJHNFP_01342	CDS			hypothetical protein
+MILJHNFP_01342	gene			
+MILJHNFP_01343	CDS	kdhC	1.5.99.14	6-hydroxypseudooxynicotine dehydrogenase complex subunit gamma
+MILJHNFP_01343	gene	kdhC		
+MILJHNFP_01344	CDS			hypothetical protein
+MILJHNFP_01344	gene			
+MILJHNFP_01345	CDS			hypothetical protein
+MILJHNFP_01345	gene			
+MILJHNFP_01346	CDS	ccpA	1.11.1.5	Cytochrome c551 peroxidase
+MILJHNFP_01346	gene	ccpA		
+MILJHNFP_01347	CDS	esiB		Secretory immunoglobulin A-binding protein EsiB
+MILJHNFP_01347	gene	esiB		
+MILJHNFP_01348	CDS	dctM		C4-dicarboxylate TRAP transporter large permease protein DctM
+MILJHNFP_01348	gene	dctM		
+MILJHNFP_01349	CDS	valS	6.1.1.9	Valine--tRNA ligase
+MILJHNFP_01349	gene	valS		
+MILJHNFP_01350	CDS	dapB	1.17.1.8	4-hydroxy-tetrahydrodipicolinate reductase
+MILJHNFP_01350	gene	dapB		
+MILJHNFP_01351	CDS	cobT	2.4.2.21	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+MILJHNFP_01351	gene	cobT		
+MILJHNFP_01352	CDS	cobS	2.7.8.26	Adenosylcobinamide-GDP ribazoletransferase
+MILJHNFP_01352	gene	cobS		
+MILJHNFP_01353	CDS	gcvT_3	2.1.2.10	Aminomethyltransferase
+MILJHNFP_01353	gene	gcvT_3		
+MILJHNFP_01354	CDS	glnD	3.1.4.-	Bifunctional uridylyltransferase/uridylyl-removing enzyme
+MILJHNFP_01354	gene	glnD		
+MILJHNFP_01355	CDS			hypothetical protein
+MILJHNFP_01355	gene			
+MILJHNFP_01356	CDS		3.6.1.9	Non-canonical purine NTP pyrophosphatase
+MILJHNFP_01356	gene			
+MILJHNFP_01357	CDS	ispH1	1.17.7.4	4-hydroxy-3-methylbut-2-enyl diphosphate reductase 1
+MILJHNFP_01357	gene	ispH1		
+MILJHNFP_01358	CDS			hypothetical protein
+MILJHNFP_01358	gene			
+MILJHNFP_01359	CDS			hypothetical protein
+MILJHNFP_01359	gene			
+MILJHNFP_01360	CDS	ddpA		putative D,D-dipeptide-binding periplasmic protein DdpA
+MILJHNFP_01360	gene	ddpA		
+MILJHNFP_01361	CDS	dddP	4.4.1.3	Dimethlysulfonioproprionate lyase DddP
+MILJHNFP_01361	gene	dddP		
+MILJHNFP_01362	CDS			hypothetical protein
+MILJHNFP_01362	gene			
+MILJHNFP_01363	CDS	oadG	4.1.1.3	oxaloacetate decarboxylase gamma chain
+MILJHNFP_01363	gene	oadG		
+MILJHNFP_01364	CDS	cfiA	6.4.1.7	2-oxoglutarate carboxylase large subunit
+MILJHNFP_01364	gene	cfiA		
+MILJHNFP_01365	CDS	iscS	2.8.1.7	Cysteine desulfurase IscS
+MILJHNFP_01365	gene	iscS		
+MILJHNFP_01366	CDS			hypothetical protein
+MILJHNFP_01366	gene			
+MILJHNFP_01367	CDS	cc4		Cytochrome c4
+MILJHNFP_01367	gene	cc4		
+MILJHNFP_01368	CDS	thrC	4.2.3.1	Threonine synthase
+MILJHNFP_01368	gene	thrC		
+MILJHNFP_01369	CDS	dapE	3.5.1.18	putative succinyl-diaminopimelate desuccinylase
+MILJHNFP_01369	gene	dapE		
+MILJHNFP_01370	CDS	argF_2	2.1.3.3	Ornithine carbamoyltransferase
+MILJHNFP_01370	gene	argF_2		
+MILJHNFP_01371	CDS			hypothetical protein
+MILJHNFP_01371	gene			
+MILJHNFP_01372	CDS			hypothetical protein
+MILJHNFP_01372	gene			
+MILJHNFP_01373	CDS	acs_2	6.2.1.1	Acetyl-coenzyme A synthetase
+MILJHNFP_01373	gene	acs_2		
+MILJHNFP_01374	CDS	arcC1	2.7.2.2	Carbamate kinase 1
+MILJHNFP_01374	gene	arcC1		
+MILJHNFP_01375	CDS	ndhM	1.17.1.5	Nicotinate dehydrogenase medium molybdopterin subunit
+MILJHNFP_01375	gene	ndhM		
+MILJHNFP_01376	CDS	lutR		HTH-type transcriptional regulator LutR
+MILJHNFP_01376	gene	lutR		
+MILJHNFP_01377	CDS		3.1.6.1	Arylsulfatase
+MILJHNFP_01377	gene			
+MILJHNFP_01378	CDS			hypothetical protein
+MILJHNFP_01378	gene			
+MILJHNFP_01379	CDS			hypothetical protein
+MILJHNFP_01379	gene			
+MILJHNFP_01380	CDS	pal_2		Peptidoglycan-associated lipoprotein
+MILJHNFP_01380	gene	pal_2		
+MILJHNFP_01381	CDS	comEC		ComE operon protein 3
+MILJHNFP_01381	gene	comEC		
+MILJHNFP_01382	CDS		3.6.-.-	putative GTPase
+MILJHNFP_01382	gene			
+MILJHNFP_01383	CDS	scpA_2	5.4.99.2	Methylmalonyl-CoA mutase
+MILJHNFP_01383	gene	scpA_2		
+MILJHNFP_01384	CDS	gsiC_4		Glutathione transport system permease protein GsiC
+MILJHNFP_01384	gene	gsiC_4		
+MILJHNFP_01385	CDS	gsiB		Glutathione-binding protein GsiB
+MILJHNFP_01385	gene	gsiB		
+MILJHNFP_01386	CDS	acyI		Acylase ACY 1
+MILJHNFP_01386	gene	acyI		
+MILJHNFP_01387	CDS	pal_3		Peptidoglycan-associated lipoprotein
+MILJHNFP_01387	gene	pal_3		
+MILJHNFP_01388	CDS	exbB_2		Biopolymer transport protein ExbB
+MILJHNFP_01388	gene	exbB_2		
+MILJHNFP_01389	CDS	exbD_2		Biopolymer transport protein ExbD
+MILJHNFP_01389	gene	exbD_2		
+MILJHNFP_01390	CDS			hypothetical protein
+MILJHNFP_01390	gene			
+MILJHNFP_01391	CDS			hypothetical protein
+MILJHNFP_01391	gene			
+MILJHNFP_01392	CDS	fliN_5		Flagellar motor switch protein FliN
+MILJHNFP_01392	gene	fliN_5		
+MILJHNFP_01393	CDS	queA	2.4.99.17	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+MILJHNFP_01393	gene	queA		
+MILJHNFP_01394	CDS			hypothetical protein
+MILJHNFP_01394	gene			
+MILJHNFP_01395	CDS	lacF_3		Lactose transport system permease protein LacF
+MILJHNFP_01395	gene	lacF_3		
+MILJHNFP_01396	CDS	araQ_5		L-arabinose transport system permease protein AraQ
+MILJHNFP_01396	gene	araQ_5		
+MILJHNFP_01397	CDS	flgC		Flagellar basal-body rod protein FlgC
+MILJHNFP_01397	gene	flgC		
+MILJHNFP_01398	CDS	fliE		Flagellar hook-basal body complex protein FliE
+MILJHNFP_01398	gene	fliE		
+MILJHNFP_01399	CDS			hypothetical protein
+MILJHNFP_01399	gene			
+MILJHNFP_01400	CDS			hypothetical protein
+MILJHNFP_01400	gene			
+MILJHNFP_01401	CDS	mexR		Multidrug resistance operon repressor
+MILJHNFP_01401	gene	mexR		
+MILJHNFP_01402	CDS	trxA		Thioredoxin 1
+MILJHNFP_01402	gene	trxA		
+MILJHNFP_01403	CDS			hypothetical protein
+MILJHNFP_01403	gene			
+MILJHNFP_01404	CDS			hypothetical protein
+MILJHNFP_01404	gene			
+MILJHNFP_01405	CDS			hypothetical protein
+MILJHNFP_01405	gene			
+MILJHNFP_01406	CDS	livH_4		High-affinity branched-chain amino acid transport system permease protein LivH
+MILJHNFP_01406	gene	livH_4		
+MILJHNFP_01407	CDS	livF_5		High-affinity branched-chain amino acid transport ATP-binding protein LivF
+MILJHNFP_01407	gene	livF_5		
+MILJHNFP_01408	CDS	rnhB	3.1.26.4	Ribonuclease HII
+MILJHNFP_01408	gene	rnhB		
+MILJHNFP_01409	CDS			hypothetical protein
+MILJHNFP_01409	gene			
+MILJHNFP_01410	CDS	rpsT		30S ribosomal protein S20
+MILJHNFP_01410	gene	rpsT		
+MILJHNFP_01411	CDS	sdhC		Succinate dehydrogenase cytochrome b558 subunit
+MILJHNFP_01411	gene	sdhC		
+MILJHNFP_01412	CDS			hypothetical protein
+MILJHNFP_01412	gene			
+MILJHNFP_01413	CDS	Vejaci	5.5.1.25	3,6-anhydro-alpha-L-galactonate cycloisomerase
+MILJHNFP_01413	gene	Vejaci		
+MILJHNFP_01414	CDS			hypothetical protein
+MILJHNFP_01414	gene			
+MILJHNFP_01415	CDS			hypothetical protein
+MILJHNFP_01415	gene			
+MILJHNFP_01416	CDS			hypothetical protein
+MILJHNFP_01416	gene			
+MILJHNFP_01417	CDS	livF_6		High-affinity branched-chain amino acid transport ATP-binding protein LivF
+MILJHNFP_01417	gene	livF_6		
+MILJHNFP_01418	CDS			hypothetical protein
+MILJHNFP_01418	gene			
+MILJHNFP_01419	CDS	panE	1.1.1.169	2-dehydropantoate 2-reductase
+MILJHNFP_01419	gene	panE		
+MILJHNFP_01420	CDS	dmdA_3	2.1.1.269	Dimethylsulfonioproprionate demethylase DmdA
+MILJHNFP_01420	gene	dmdA_3		
+MILJHNFP_01421	CDS	pucM	3.5.2.17	5-hydroxyisourate hydrolase
+MILJHNFP_01421	gene	pucM		
+MILJHNFP_01422	CDS	ilvG	2.2.1.6	Acetolactate synthase large subunit IlvG
+MILJHNFP_01422	gene	ilvG		
+MILJHNFP_01423	CDS	pomA_2		Chemotaxis protein PomA
+MILJHNFP_01423	gene	pomA_2		
+MILJHNFP_01424	CDS	motB_2		Motility protein B
+MILJHNFP_01424	gene	motB_2		
+MILJHNFP_01425	CDS			hypothetical protein
+MILJHNFP_01425	gene			
+MILJHNFP_01426	CDS	scpB		Segregation and condensation protein B 
+MILJHNFP_01426	gene	scpB		
+MILJHNFP_01427	CDS			hypothetical protein
+MILJHNFP_01427	gene			
+MILJHNFP_01428	CDS			hypothetical protein
+MILJHNFP_01428	gene			
+MILJHNFP_01429	CDS			hypothetical protein
+MILJHNFP_01429	gene			
+MILJHNFP_01430	CDS	exoA	3.1.11.2	Exodeoxyribonuclease
+MILJHNFP_01430	gene	exoA		
+MILJHNFP_01431	CDS	moaA	4.1.99.22	GTP 3',8-cyclase
+MILJHNFP_01431	gene	moaA		
+MILJHNFP_01432	CDS	speE	2.5.1.16	Polyamine aminopropyltransferase
+MILJHNFP_01432	gene	speE		
+MILJHNFP_01433	CDS	zraS_2	2.7.13.3	Sensor protein ZraS
+MILJHNFP_01433	gene	zraS_2		
+MILJHNFP_01434	CDS			hypothetical protein
+MILJHNFP_01434	gene			
+MILJHNFP_01435	CDS	ifcA	1.3.5.4	Fumarate reductase flavoprotein subunit
+MILJHNFP_01435	gene	ifcA		
+MILJHNFP_01436	CDS	rutB	3.5.1.110	Peroxyureidoacrylate/ureidoacrylate amidohydrolase RutB
+MILJHNFP_01436	gene	rutB		
+MILJHNFP_01437	CDS	apc3_2	6.4.1.8	Acetophenone carboxylase gamma subunit
+MILJHNFP_01437	gene	apc3_2		
+MILJHNFP_01438	CDS			hypothetical protein
+MILJHNFP_01438	gene			
+MILJHNFP_01439	CDS			hypothetical protein
+MILJHNFP_01439	gene			
+MILJHNFP_01440	CDS			hypothetical protein
+MILJHNFP_01440	gene			
+MILJHNFP_01441	CDS	pyrD_2	1.3.5.2	Dihydroorotate dehydrogenase (quinone)
+MILJHNFP_01441	gene	pyrD_2		
+MILJHNFP_01442	CDS	fprA	1.18.1.2	NADPH-ferredoxin reductase FprA
+MILJHNFP_01442	gene	fprA		
+MILJHNFP_01443	CDS			hypothetical protein
+MILJHNFP_01443	gene			
+MILJHNFP_01444	CDS			hypothetical protein
+MILJHNFP_01444	gene			
+MILJHNFP_01445	CDS	livF_7		High-affinity branched-chain amino acid transport ATP-binding protein LivF
+MILJHNFP_01445	gene	livF_7		
+MILJHNFP_01446	CDS	yxlF_2	3.6.3.-	putative ABC transporter ATP-binding protein YxlF
+MILJHNFP_01446	gene	yxlF_2		
+MILJHNFP_01447	CDS			hypothetical protein
+MILJHNFP_01447	gene			
+MILJHNFP_01448	CDS	acsE	2.1.1.258	5-methyltetrahydrofolate:corrinoid/iron-sulfur protein co-methyltransferase
+MILJHNFP_01448	gene	acsE		
+MILJHNFP_01449	CDS			hypothetical protein
+MILJHNFP_01449	gene			
+MILJHNFP_01450	CDS			hypothetical protein
+MILJHNFP_01450	gene			
+MILJHNFP_01451	CDS	metH_2	2.1.1.13	Methionine synthase
+MILJHNFP_01451	gene	metH_2		
+MILJHNFP_01452	CDS			hypothetical protein
+MILJHNFP_01452	gene			
+MILJHNFP_01453	CDS			hypothetical protein
+MILJHNFP_01453	gene			
+MILJHNFP_01454	CDS	potA_2	3.6.3.31	Spermidine/putrescine import ATP-binding protein PotA
+MILJHNFP_01454	gene	potA_2		
+MILJHNFP_01455	CDS	pulD		Type II secretion system protein D
+MILJHNFP_01455	gene	pulD		

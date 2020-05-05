@@ -1,0 +1,783 @@
+locus_tag	ftype	gene	EC_number	product
+HNIILFLH_00001	CDS			hypothetical protein
+HNIILFLH_00001	gene			
+HNIILFLH_00002	CDS			hypothetical protein
+HNIILFLH_00002	gene			
+HNIILFLH_00003	CDS			hypothetical protein
+HNIILFLH_00003	gene			
+HNIILFLH_00004	CDS			hypothetical protein
+HNIILFLH_00004	gene			
+HNIILFLH_00005	CDS	wtpC	3.6.3.-	Molybdate/tungstate import ATP-binding protein WtpC
+HNIILFLH_00005	gene	wtpC		
+HNIILFLH_00006	CDS			hypothetical protein
+HNIILFLH_00006	gene			
+HNIILFLH_00007	CDS			hypothetical protein
+HNIILFLH_00007	gene			
+HNIILFLH_00008	CDS			hypothetical protein
+HNIILFLH_00008	gene			
+HNIILFLH_00009	CDS			hypothetical protein
+HNIILFLH_00009	gene			
+HNIILFLH_00010	CDS			hypothetical protein
+HNIILFLH_00010	gene			
+HNIILFLH_00011	CDS	pycA_1	6.4.1.1	Pyruvate carboxylase subunit A
+HNIILFLH_00011	gene	pycA_1		
+HNIILFLH_00012	CDS			hypothetical protein
+HNIILFLH_00012	gene			
+HNIILFLH_00013	CDS			hypothetical protein
+HNIILFLH_00013	gene			
+HNIILFLH_00014	CDS			hypothetical protein
+HNIILFLH_00014	gene			
+HNIILFLH_00015	CDS			hypothetical protein
+HNIILFLH_00015	gene			
+HNIILFLH_00016	CDS			hypothetical protein
+HNIILFLH_00016	gene			
+HNIILFLH_00017	CDS			hypothetical protein
+HNIILFLH_00017	gene			
+HNIILFLH_00018	CDS			putative KH and PIN-domain containing protein
+HNIILFLH_00018	gene			
+HNIILFLH_00019	CDS			hypothetical protein
+HNIILFLH_00019	gene			
+HNIILFLH_00020	CDS	hpt	2.4.2.8	Hypoxanthine/guanine phosphoribosyltransferase
+HNIILFLH_00020	gene	hpt		
+HNIILFLH_00021	CDS			50S ribosomal protein L10e
+HNIILFLH_00021	gene			
+HNIILFLH_00022	CDS			hypothetical protein
+HNIILFLH_00022	gene			
+HNIILFLH_00023	CDS			hypothetical protein
+HNIILFLH_00023	gene			
+HNIILFLH_00024	CDS			hypothetical protein
+HNIILFLH_00024	gene			
+HNIILFLH_00025	CDS			hypothetical protein
+HNIILFLH_00025	gene			
+HNIILFLH_00026	CDS			hypothetical protein
+HNIILFLH_00026	gene			
+HNIILFLH_00027	CDS		2.6.1.57	Aromatic-amino-acid aminotransferase 2
+HNIILFLH_00027	gene			
+HNIILFLH_00028	CDS			hypothetical protein
+HNIILFLH_00028	gene			
+HNIILFLH_00029	CDS			hypothetical protein
+HNIILFLH_00029	gene			
+HNIILFLH_00030	CDS			hypothetical protein
+HNIILFLH_00030	gene			
+HNIILFLH_00031	CDS			hypothetical protein
+HNIILFLH_00031	gene			
+HNIILFLH_00032	CDS	sufS	2.8.1.7	Cysteine desulfurase
+HNIILFLH_00032	gene	sufS		
+HNIILFLH_00033	CDS	sufE		Cysteine desulfuration protein SufE
+HNIILFLH_00033	gene	sufE		
+HNIILFLH_00034	CDS			hypothetical protein
+HNIILFLH_00034	gene			
+HNIILFLH_00035	CDS			hypothetical protein
+HNIILFLH_00035	gene			
+HNIILFLH_00036	CDS	folD		Bifunctional protein FolD protein
+HNIILFLH_00036	gene	folD		
+HNIILFLH_00037	CDS			hypothetical protein
+HNIILFLH_00037	gene			
+HNIILFLH_00038	CDS	purM	6.3.3.1	Phosphoribosylformylglycinamidine cyclo-ligase
+HNIILFLH_00038	gene	purM		
+HNIILFLH_00039	CDS			hypothetical protein
+HNIILFLH_00039	gene			
+HNIILFLH_00040	CDS			hypothetical protein
+HNIILFLH_00040	gene			
+HNIILFLH_00041	CDS			hypothetical protein
+HNIILFLH_00041	gene			
+HNIILFLH_00042	CDS			hypothetical protein
+HNIILFLH_00042	gene			
+HNIILFLH_00043	CDS			hypothetical protein
+HNIILFLH_00043	gene			
+HNIILFLH_00044	CDS			hypothetical protein
+HNIILFLH_00044	gene			
+HNIILFLH_00045	CDS	truD	5.4.99.27	putative tRNA pseudouridine synthase D
+HNIILFLH_00045	gene	truD		
+HNIILFLH_00046	CDS	fcl	1.1.1.271	GDP-L-fucose synthase
+HNIILFLH_00046	gene	fcl		
+HNIILFLH_00047	CDS			hypothetical protein
+HNIILFLH_00047	gene			
+HNIILFLH_00048	CDS			hypothetical protein
+HNIILFLH_00048	gene			
+HNIILFLH_00049	CDS			hypothetical protein
+HNIILFLH_00049	gene			
+HNIILFLH_00050	CDS	resA		Thiol-disulfide oxidoreductase ResA
+HNIILFLH_00050	gene	resA		
+HNIILFLH_00051	tRNA			tRNA-Ser(tga)
+HNIILFLH_00051	gene			
+HNIILFLH_00052	CDS			hypothetical protein
+HNIILFLH_00052	gene			
+HNIILFLH_00053	CDS			hypothetical protein
+HNIILFLH_00053	gene			
+HNIILFLH_00054	CDS			hypothetical protein
+HNIILFLH_00054	gene			
+HNIILFLH_00055	CDS			hypothetical protein
+HNIILFLH_00055	gene			
+HNIILFLH_00056	CDS			hypothetical protein
+HNIILFLH_00056	gene			
+HNIILFLH_00057	CDS		4.2.1.116	3-hydroxypropionyl-coenzyme A dehydratase
+HNIILFLH_00057	gene			
+HNIILFLH_00058	CDS			hypothetical protein
+HNIILFLH_00058	gene			
+HNIILFLH_00059	CDS	uvrA		UvrABC system protein A
+HNIILFLH_00059	gene	uvrA		
+HNIILFLH_00060	CDS	mshA_1	2.4.1.250	D-inositol-3-phosphate glycosyltransferase
+HNIILFLH_00060	gene	mshA_1		
+HNIILFLH_00061	CDS			50S ribosomal protein L18Ae
+HNIILFLH_00061	gene			
+HNIILFLH_00062	CDS			hypothetical protein
+HNIILFLH_00062	gene			
+HNIILFLH_00063	CDS			hypothetical protein
+HNIILFLH_00063	gene			
+HNIILFLH_00064	CDS			hypothetical protein
+HNIILFLH_00064	gene			
+HNIILFLH_00065	CDS	aglJ	2.4.1.-	Glycosyltransferase AglJ
+HNIILFLH_00065	gene	aglJ		
+HNIILFLH_00066	CDS	treT	2.4.1.245	Trehalose synthase
+HNIILFLH_00066	gene	treT		
+HNIILFLH_00067	CDS			hypothetical protein
+HNIILFLH_00067	gene			
+HNIILFLH_00068	CDS	rhaD	1.1.1.377	L-rhamnose 1-dehydrogenase (NADP(+))
+HNIILFLH_00068	gene	rhaD		
+HNIILFLH_00069	CDS	fmt	2.1.2.9	Methionyl-tRNA formyltransferase
+HNIILFLH_00069	gene	fmt		
+HNIILFLH_00070	CDS		1.3.1.101	Digeranylgeranylglycerophospholipid reductase
+HNIILFLH_00070	gene			
+HNIILFLH_00071	CDS	gph	3.1.3.18	Phosphoglycolate phosphatase
+HNIILFLH_00071	gene	gph		
+HNIILFLH_00072	CDS	pcm	2.1.1.77	Protein-L-isoaspartate O-methyltransferase
+HNIILFLH_00072	gene	pcm		
+HNIILFLH_00073	CDS			hypothetical protein
+HNIILFLH_00073	gene			
+HNIILFLH_00074	CDS			hypothetical protein
+HNIILFLH_00074	gene			
+HNIILFLH_00075	CDS	MCM	3.6.4.12	Minichromosome maintenance protein MCM
+HNIILFLH_00075	gene	MCM		
+HNIILFLH_00076	CDS			hypothetical protein
+HNIILFLH_00076	gene			
+HNIILFLH_00077	CDS			hypothetical protein
+HNIILFLH_00077	gene			
+HNIILFLH_00078	CDS			hypothetical protein
+HNIILFLH_00078	gene			
+HNIILFLH_00079	CDS			hypothetical protein
+HNIILFLH_00079	gene			
+HNIILFLH_00080	CDS			hypothetical protein
+HNIILFLH_00080	gene			
+HNIILFLH_00081	CDS			HEAT repeat-containing taxis proteinF
+HNIILFLH_00081	gene			
+HNIILFLH_00082	CDS			hypothetical protein
+HNIILFLH_00082	gene			
+HNIILFLH_00083	CDS			hypothetical protein
+HNIILFLH_00083	gene			
+HNIILFLH_00084	CDS			hypothetical protein
+HNIILFLH_00084	gene			
+HNIILFLH_00085	CDS			hypothetical protein
+HNIILFLH_00085	gene			
+HNIILFLH_00086	CDS			hypothetical protein
+HNIILFLH_00086	gene			
+HNIILFLH_00087	CDS			hypothetical protein
+HNIILFLH_00087	gene			
+HNIILFLH_00088	CDS			hypothetical protein
+HNIILFLH_00088	gene			
+HNIILFLH_00089	CDS	polC	2.7.7.7	DNA polymerase II large subunit
+HNIILFLH_00089	gene	polC		
+HNIILFLH_00090	CDS			hypothetical protein
+HNIILFLH_00090	gene			
+HNIILFLH_00091	CDS			hypothetical protein
+HNIILFLH_00091	gene			
+HNIILFLH_00092	CDS			hypothetical protein
+HNIILFLH_00092	gene			
+HNIILFLH_00093	CDS			hypothetical protein
+HNIILFLH_00093	gene			
+HNIILFLH_00094	CDS	clsB	2.7.8.-	Cardiolipin synthase B
+HNIILFLH_00094	gene	clsB		
+HNIILFLH_00095	CDS		1.17.4.1	Vitamin B12-dependent ribonucleoside-diphosphate reductase
+HNIILFLH_00095	gene			
+HNIILFLH_00096	CDS	top6B	5.99.1.3	Type 2 DNA topoisomerase 6 subunit B
+HNIILFLH_00096	gene	top6B		
+HNIILFLH_00097	CDS			hypothetical protein
+HNIILFLH_00097	gene			
+HNIILFLH_00098	CDS	hacA	4.2.1.114	Methanogen homoaconitase large subunit
+HNIILFLH_00098	gene	hacA		
+HNIILFLH_00099	CDS			hypothetical protein
+HNIILFLH_00099	gene			
+HNIILFLH_00100	CDS			hypothetical protein
+HNIILFLH_00100	gene			
+HNIILFLH_00101	CDS			hypothetical protein
+HNIILFLH_00101	gene			
+HNIILFLH_00102	CDS	tam	2.1.1.144	Trans-aconitate 2-methyltransferase
+HNIILFLH_00102	gene	tam		
+HNIILFLH_00103	CDS			hypothetical protein
+HNIILFLH_00103	gene			
+HNIILFLH_00104	CDS			hypothetical protein
+HNIILFLH_00104	gene			
+HNIILFLH_00105	CDS	asd	4.1.1.-	Putative archaetidylserine decarboxylase proenzyme
+HNIILFLH_00105	gene	asd		
+HNIILFLH_00106	CDS	dapH	2.3.1.89	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+HNIILFLH_00106	gene	dapH		
+HNIILFLH_00107	CDS			hypothetical protein
+HNIILFLH_00107	gene			
+HNIILFLH_00108	CDS			putative ABC transporter ATP-binding protein
+HNIILFLH_00108	gene			
+HNIILFLH_00109	CDS			hypothetical protein
+HNIILFLH_00109	gene			
+HNIILFLH_00110	CDS			hypothetical protein
+HNIILFLH_00110	gene			
+HNIILFLH_00111	CDS			hypothetical protein
+HNIILFLH_00111	gene			
+HNIILFLH_00112	CDS	serS	6.1.1.11	Serine--tRNA ligase
+HNIILFLH_00112	gene	serS		
+HNIILFLH_00113	CDS	pycB	6.4.1.1	Pyruvate carboxylase subunit B
+HNIILFLH_00113	gene	pycB		
+HNIILFLH_00114	CDS	pycA_2	6.4.1.1	Pyruvate carboxylase subunit A
+HNIILFLH_00114	gene	pycA_2		
+HNIILFLH_00115	CDS			hypothetical protein
+HNIILFLH_00115	gene			
+HNIILFLH_00116	tRNA			tRNA-Phe(gaa)
+HNIILFLH_00116	gene			
+HNIILFLH_00117	CDS		3.1.13.-	Exosome complex component Rrp41
+HNIILFLH_00117	gene			
+HNIILFLH_00118	CDS	moaB	2.7.7.75	Molybdopterin adenylyltransferase
+HNIILFLH_00118	gene	moaB		
+HNIILFLH_00119	CDS			Voltage-gated potassium channel
+HNIILFLH_00119	gene			
+HNIILFLH_00120	CDS	pqqB		Coenzyme PQQ synthesis protein B
+HNIILFLH_00120	gene	pqqB		
+HNIILFLH_00121	CDS	ribK	2.7.1.161	Riboflavin kinase
+HNIILFLH_00121	gene	ribK		
+HNIILFLH_00122	CDS	truA	5.4.99.12	tRNA pseudouridine synthase A
+HNIILFLH_00122	gene	truA		
+HNIILFLH_00123	tRNA			tRNA-Leu(gag)
+HNIILFLH_00123	gene			
+HNIILFLH_00124	CDS	arnB	2.6.1.87	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+HNIILFLH_00124	gene	arnB		
+HNIILFLH_00125	CDS			hypothetical protein
+HNIILFLH_00125	gene			
+HNIILFLH_00126	CDS	lpxD	2.3.1.-	UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase
+HNIILFLH_00126	gene	lpxD		
+HNIILFLH_00127	CDS			hypothetical protein
+HNIILFLH_00127	gene			
+HNIILFLH_00128	CDS			hypothetical protein
+HNIILFLH_00128	gene			
+HNIILFLH_00129	CDS			hypothetical protein
+HNIILFLH_00129	gene			
+HNIILFLH_00130	CDS	pyrH	2.7.4.22	Uridylate kinase
+HNIILFLH_00130	gene	pyrH		
+HNIILFLH_00131	CDS	fpoD	1.12.98.3	F(420)H(2) dehydrogenase subunit D
+HNIILFLH_00131	gene	fpoD		
+HNIILFLH_00132	CDS	fpoH	1.12.98.3	F(420)H(2) dehydrogenase subunit H
+HNIILFLH_00132	gene	fpoH		
+HNIILFLH_00133	CDS			hypothetical protein
+HNIILFLH_00133	gene			
+HNIILFLH_00134	CDS			hypothetical protein
+HNIILFLH_00134	gene			
+HNIILFLH_00135	CDS			hypothetical protein
+HNIILFLH_00135	gene			
+HNIILFLH_00136	CDS			hypothetical protein
+HNIILFLH_00136	gene			
+HNIILFLH_00137	CDS			hypothetical protein
+HNIILFLH_00137	gene			
+HNIILFLH_00138	CDS			hypothetical protein
+HNIILFLH_00138	gene			
+HNIILFLH_00139	CDS			hypothetical protein
+HNIILFLH_00139	gene			
+HNIILFLH_00140	CDS			hypothetical protein
+HNIILFLH_00140	gene			
+HNIILFLH_00141	CDS			hypothetical protein
+HNIILFLH_00141	gene			
+HNIILFLH_00142	CDS	rfcS_1		Replication factor C small subunit
+HNIILFLH_00142	gene	rfcS_1		
+HNIILFLH_00143	CDS			hypothetical protein
+HNIILFLH_00143	gene			
+HNIILFLH_00144	CDS			hypothetical protein
+HNIILFLH_00144	gene			
+HNIILFLH_00145	CDS			hypothetical protein
+HNIILFLH_00145	gene			
+HNIILFLH_00146	CDS	dadD	3.5.4.41	5'-deoxyadenosine deaminase
+HNIILFLH_00146	gene	dadD		
+HNIILFLH_00147	CDS			hypothetical protein
+HNIILFLH_00147	gene			
+HNIILFLH_00148	CDS			hypothetical protein
+HNIILFLH_00148	gene			
+HNIILFLH_00149	CDS	fadJ	1.1.1.35	Fatty acid oxidation complex subunit alpha
+HNIILFLH_00149	gene	fadJ		
+HNIILFLH_00150	CDS			hypothetical protein
+HNIILFLH_00150	gene			
+HNIILFLH_00151	CDS	hisS	6.1.1.21	Histidine--tRNA ligase
+HNIILFLH_00151	gene	hisS		
+HNIILFLH_00152	CDS			hypothetical protein
+HNIILFLH_00152	gene			
+HNIILFLH_00153	CDS	ftsZ1_1		Cell division protein FtsZ 1
+HNIILFLH_00153	gene	ftsZ1_1		
+HNIILFLH_00154	CDS			hypothetical protein
+HNIILFLH_00154	gene			
+HNIILFLH_00155	CDS	glmU		Bifunctional protein GlmU
+HNIILFLH_00155	gene	glmU		
+HNIILFLH_00156	CDS	glmM	5.4.2.10	Phosphoglucosamine mutase
+HNIILFLH_00156	gene	glmM		
+HNIILFLH_00157	tRNA			tRNA-Thr(cgt)
+HNIILFLH_00157	gene			
+HNIILFLH_00158	CDS			hypothetical protein
+HNIILFLH_00158	gene			
+HNIILFLH_00159	CDS	pgk	2.7.2.3	Phosphoglycerate kinase
+HNIILFLH_00159	gene	pgk		
+HNIILFLH_00160	CDS			hypothetical protein
+HNIILFLH_00160	gene			
+HNIILFLH_00161	CDS			hypothetical protein
+HNIILFLH_00161	gene			
+HNIILFLH_00162	CDS	yedY	1.8.-.-	Sulfoxide reductase catalytic subunit YedY
+HNIILFLH_00162	gene	yedY		
+HNIILFLH_00163	CDS	nadK	2.7.1.23	NAD kinase
+HNIILFLH_00163	gene	nadK		
+HNIILFLH_00164	CDS			hypothetical protein
+HNIILFLH_00164	gene			
+HNIILFLH_00165	CDS	fpoL	1.12.98.3	F(420)H(2) dehydrogenase subunit L
+HNIILFLH_00165	gene	fpoL		
+HNIILFLH_00166	CDS	fpoK	1.12.98.3	F(420)H(2) dehydrogenase subunit K
+HNIILFLH_00166	gene	fpoK		
+HNIILFLH_00167	CDS			hypothetical protein
+HNIILFLH_00167	gene			
+HNIILFLH_00168	CDS	fpoJ	1.12.98.3	F(420)H(2) dehydrogenase subunit J
+HNIILFLH_00168	gene	fpoJ		
+HNIILFLH_00169	CDS	ndhI	1.6.5.11	NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+HNIILFLH_00169	gene	ndhI		
+HNIILFLH_00170	CDS			hypothetical protein
+HNIILFLH_00170	gene			
+HNIILFLH_00171	CDS			hypothetical protein
+HNIILFLH_00171	gene			
+HNIILFLH_00172	CDS			hypothetical protein
+HNIILFLH_00172	gene			
+HNIILFLH_00173	CDS	pepQ	3.4.13.9	Xaa-Pro dipeptidase
+HNIILFLH_00173	gene	pepQ		
+HNIILFLH_00174	CDS	hldD	5.1.3.20	ADP-L-glycero-D-manno-heptose-6-epimerase
+HNIILFLH_00174	gene	hldD		
+HNIILFLH_00175	CDS	ths		Thermosome subunit
+HNIILFLH_00175	gene	ths		
+HNIILFLH_00176	CDS			hypothetical protein
+HNIILFLH_00176	gene			
+HNIILFLH_00177	CDS	sua5	2.7.7.87	Threonylcarbamoyl-AMP synthase
+HNIILFLH_00177	gene	sua5		
+HNIILFLH_00178	CDS	map	3.4.11.18	Methionine aminopeptidase
+HNIILFLH_00178	gene	map		
+HNIILFLH_00179	CDS			hypothetical protein
+HNIILFLH_00179	gene			
+HNIILFLH_00180	CDS			hypothetical protein
+HNIILFLH_00180	gene			
+HNIILFLH_00181	CDS			hypothetical protein
+HNIILFLH_00181	gene			
+HNIILFLH_00182	tRNA			tRNA-Leu(caa)
+HNIILFLH_00182	gene			
+HNIILFLH_00183	CDS		3.1.3.18	Phosphoglycolate phosphatase
+HNIILFLH_00183	gene			
+HNIILFLH_00184	CDS			hypothetical protein
+HNIILFLH_00184	gene			
+HNIILFLH_00185	CDS	ligN	6.5.1.2	DNA ligase
+HNIILFLH_00185	gene	ligN		
+HNIILFLH_00186	CDS			hypothetical protein
+HNIILFLH_00186	gene			
+HNIILFLH_00187	CDS			hypothetical protein
+HNIILFLH_00187	gene			
+HNIILFLH_00188	CDS	mdtH		Multidrug resistance protein MdtH
+HNIILFLH_00188	gene	mdtH		
+HNIILFLH_00189	CDS	orn	3.1.-.-	Oligoribonuclease
+HNIILFLH_00189	gene	orn		
+HNIILFLH_00190	CDS			hypothetical protein
+HNIILFLH_00190	gene			
+HNIILFLH_00191	CDS			hypothetical protein
+HNIILFLH_00191	gene			
+HNIILFLH_00192	CDS	gcvT	2.1.2.10	putative aminomethyltransferase
+HNIILFLH_00192	gene	gcvT		
+HNIILFLH_00193	CDS			hypothetical protein
+HNIILFLH_00193	gene			
+HNIILFLH_00194	CDS			hypothetical protein
+HNIILFLH_00194	gene			
+HNIILFLH_00195	CDS			hypothetical protein
+HNIILFLH_00195	gene			
+HNIILFLH_00196	CDS			hypothetical protein
+HNIILFLH_00196	gene			
+HNIILFLH_00197	CDS	radA		DNA repair and recombination protein RadA
+HNIILFLH_00197	gene	radA		
+HNIILFLH_00198	CDS			hypothetical protein
+HNIILFLH_00198	gene			
+HNIILFLH_00199	CDS			hypothetical protein
+HNIILFLH_00199	gene			
+HNIILFLH_00200	CDS			hypothetical protein
+HNIILFLH_00200	gene			
+HNIILFLH_00201	CDS	aglF	2.7.7.9	UTP--glucose-1-phosphate uridylyltransferase AglF
+HNIILFLH_00201	gene	aglF		
+HNIILFLH_00202	CDS			hypothetical protein
+HNIILFLH_00202	gene			
+HNIILFLH_00203	CDS			hypothetical protein
+HNIILFLH_00203	gene			
+HNIILFLH_00204	CDS			hypothetical protein
+HNIILFLH_00204	gene			
+HNIILFLH_00205	CDS	purH	3.5.4.10	Bifunctional purine biosynthesis protein PurH
+HNIILFLH_00205	gene	purH		
+HNIILFLH_00206	CDS			hypothetical protein
+HNIILFLH_00206	gene			
+HNIILFLH_00207	CDS			hypothetical protein
+HNIILFLH_00207	gene			
+HNIILFLH_00208	CDS			hypothetical protein
+HNIILFLH_00208	gene			
+HNIILFLH_00209	CDS			hypothetical protein
+HNIILFLH_00209	gene			
+HNIILFLH_00210	CDS			hypothetical protein
+HNIILFLH_00210	gene			
+HNIILFLH_00211	CDS			hypothetical protein
+HNIILFLH_00211	gene			
+HNIILFLH_00212	CDS	arfC	1.1.1.302	2,5-diamino-6-ribosylamino-4(3H)-pyrimidinone 5'-phosphate reductase
+HNIILFLH_00212	gene	arfC		
+HNIILFLH_00213	CDS			hypothetical protein
+HNIILFLH_00213	gene			
+HNIILFLH_00214	tRNA			tRNA-Arg(tcg)
+HNIILFLH_00214	gene			
+HNIILFLH_00215	CDS			hypothetical protein
+HNIILFLH_00215	gene			
+HNIILFLH_00216	CDS			hypothetical protein
+HNIILFLH_00216	gene			
+HNIILFLH_00217	CDS			hypothetical protein
+HNIILFLH_00217	gene			
+HNIILFLH_00218	CDS	rio1	2.7.11.1	RIO-type serine/threonine-protein kinase Rio1
+HNIILFLH_00218	gene	rio1		
+HNIILFLH_00219	CDS	eIF1A		Translation initiation factor 1A
+HNIILFLH_00219	gene	eIF1A		
+HNIILFLH_00220	CDS	fpoN	1.12.98.3	F(420)H(2) dehydrogenase subunit N
+HNIILFLH_00220	gene	fpoN		
+HNIILFLH_00221	CDS			Protein SprT-like protein
+HNIILFLH_00221	gene			
+HNIILFLH_00222	CDS			hypothetical protein
+HNIILFLH_00222	gene			
+HNIILFLH_00223	CDS			hypothetical protein
+HNIILFLH_00223	gene			
+HNIILFLH_00224	CDS			hypothetical protein
+HNIILFLH_00224	gene			
+HNIILFLH_00225	CDS			hypothetical protein
+HNIILFLH_00225	gene			
+HNIILFLH_00226	CDS			30S ribosomal protein S15
+HNIILFLH_00226	gene			
+HNIILFLH_00227	CDS			hypothetical protein
+HNIILFLH_00227	gene			
+HNIILFLH_00228	CDS			hypothetical protein
+HNIILFLH_00228	gene			
+HNIILFLH_00229	CDS			hypothetical protein
+HNIILFLH_00229	gene			
+HNIILFLH_00230	CDS	copA	3.6.3.54	putative copper-exporting P-type ATPase A
+HNIILFLH_00230	gene	copA		
+HNIILFLH_00231	CDS			hypothetical protein
+HNIILFLH_00231	gene			
+HNIILFLH_00232	CDS			hypothetical protein
+HNIILFLH_00232	gene			
+HNIILFLH_00233	CDS	cofH	2.5.1.77	FO synthase subunit 2
+HNIILFLH_00233	gene	cofH		
+HNIILFLH_00234	CDS	gpsA	1.1.1.94	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+HNIILFLH_00234	gene	gpsA		
+HNIILFLH_00235	CDS			hypothetical protein
+HNIILFLH_00235	gene			
+HNIILFLH_00236	CDS			hypothetical protein
+HNIILFLH_00236	gene			
+HNIILFLH_00237	CDS			hypothetical protein
+HNIILFLH_00237	gene			
+HNIILFLH_00238	CDS			hypothetical protein
+HNIILFLH_00238	gene			
+HNIILFLH_00239	CDS			hypothetical protein
+HNIILFLH_00239	gene			
+HNIILFLH_00240	CDS			hypothetical protein
+HNIILFLH_00240	gene			
+HNIILFLH_00241	CDS			hypothetical protein
+HNIILFLH_00241	gene			
+HNIILFLH_00242	CDS			hypothetical protein
+HNIILFLH_00242	gene			
+HNIILFLH_00243	CDS			hypothetical protein
+HNIILFLH_00243	gene			
+HNIILFLH_00244	CDS			hypothetical protein
+HNIILFLH_00244	gene			
+HNIILFLH_00245	CDS			hypothetical protein
+HNIILFLH_00245	gene			
+HNIILFLH_00246	tRNA			tRNA-Arg(cct)
+HNIILFLH_00246	gene			
+HNIILFLH_00247	CDS	rfcS_2		Replication factor C small subunit
+HNIILFLH_00247	gene	rfcS_2		
+HNIILFLH_00248	CDS			hypothetical protein
+HNIILFLH_00248	gene			
+HNIILFLH_00249	CDS	guaAA	6.3.5.2	GMP synthase [glutamine-hydrolyzing] subunit A
+HNIILFLH_00249	gene	guaAA		
+HNIILFLH_00250	CDS	fucA	4.1.2.17	L-fuculose phosphate aldolase
+HNIILFLH_00250	gene	fucA		
+HNIILFLH_00251	tRNA			tRNA-Asp(gtc)
+HNIILFLH_00251	gene			
+HNIILFLH_00252	CDS			hypothetical protein
+HNIILFLH_00252	gene			
+HNIILFLH_00253	CDS			hypothetical protein
+HNIILFLH_00253	gene			
+HNIILFLH_00254	CDS			hypothetical protein
+HNIILFLH_00254	gene			
+HNIILFLH_00255	CDS	malK	3.6.3.19	Trehalose/maltose import ATP-binding protein MalK
+HNIILFLH_00255	gene	malK		
+HNIILFLH_00256	CDS		4.2.1.116	3-hydroxypropionyl-coenzyme A dehydratase
+HNIILFLH_00256	gene			
+HNIILFLH_00257	CDS			hypothetical protein
+HNIILFLH_00257	gene			
+HNIILFLH_00258	CDS			hypothetical protein
+HNIILFLH_00258	gene			
+HNIILFLH_00259	CDS			hypothetical protein
+HNIILFLH_00259	gene			
+HNIILFLH_00260	CDS	pyrG	6.3.4.2	CTP synthase
+HNIILFLH_00260	gene	pyrG		
+HNIILFLH_00261	CDS			hypothetical protein
+HNIILFLH_00261	gene			
+HNIILFLH_00262	tRNA			tRNA-Gln(ttg)
+HNIILFLH_00262	gene			
+HNIILFLH_00263	CDS	caiA	1.3.99.-	Crotonobetainyl-CoA dehydrogenase
+HNIILFLH_00263	gene	caiA		
+HNIILFLH_00264	CDS			putative ABC transporter ATP-binding protein
+HNIILFLH_00264	gene			
+HNIILFLH_00265	CDS			hypothetical protein
+HNIILFLH_00265	gene			
+HNIILFLH_00266	CDS		1.2.1.26	Alpha-ketoglutarate semialdehyde dehydrogenase
+HNIILFLH_00266	gene			
+HNIILFLH_00267	CDS			hypothetical protein
+HNIILFLH_00267	gene			
+HNIILFLH_00268	CDS			hypothetical protein
+HNIILFLH_00268	gene			
+HNIILFLH_00269	CDS			hypothetical protein
+HNIILFLH_00269	gene			
+HNIILFLH_00270	CDS			hypothetical protein
+HNIILFLH_00270	gene			
+HNIILFLH_00271	CDS	kynA	1.13.11.11	Tryptophan 2,3-dioxygenase
+HNIILFLH_00271	gene	kynA		
+HNIILFLH_00272	CDS			hypothetical protein
+HNIILFLH_00272	gene			
+HNIILFLH_00273	CDS	purP	6.3.4.23	5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase
+HNIILFLH_00273	gene	purP		
+HNIILFLH_00274	CDS			hypothetical protein
+HNIILFLH_00274	gene			
+HNIILFLH_00275	CDS			hypothetical protein
+HNIILFLH_00275	gene			
+HNIILFLH_00276	CDS			hypothetical protein
+HNIILFLH_00276	gene			
+HNIILFLH_00277	CDS			hypothetical protein
+HNIILFLH_00277	gene			
+HNIILFLH_00278	CDS			hypothetical protein
+HNIILFLH_00278	gene			
+HNIILFLH_00279	CDS			hypothetical protein
+HNIILFLH_00279	gene			
+HNIILFLH_00280	CDS			hypothetical protein
+HNIILFLH_00280	gene			
+HNIILFLH_00281	CDS			putative HTH-type transcriptional regulator
+HNIILFLH_00281	gene			
+HNIILFLH_00282	CDS			hypothetical protein
+HNIILFLH_00282	gene			
+HNIILFLH_00283	CDS			hypothetical protein
+HNIILFLH_00283	gene			
+HNIILFLH_00284	CDS			hypothetical protein
+HNIILFLH_00284	gene			
+HNIILFLH_00285	CDS			hypothetical protein
+HNIILFLH_00285	gene			
+HNIILFLH_00286	CDS			hypothetical protein
+HNIILFLH_00286	gene			
+HNIILFLH_00287	CDS	nadE	6.3.1.5	putative NH(3)-dependent NAD(+) synthetase
+HNIILFLH_00287	gene	nadE		
+HNIILFLH_00288	CDS			hypothetical protein
+HNIILFLH_00288	gene			
+HNIILFLH_00289	tRNA			tRNA-Cys(gca)
+HNIILFLH_00289	gene			
+HNIILFLH_00290	CDS		2.6.1.57	Aromatic-amino-acid aminotransferase 2
+HNIILFLH_00290	gene			
+HNIILFLH_00291	CDS	eno	4.2.1.11	Enolase
+HNIILFLH_00291	gene	eno		
+HNIILFLH_00292	CDS			hypothetical protein
+HNIILFLH_00292	gene			
+HNIILFLH_00293	CDS	lrpA		HTH-type transcriptional regulator LrpA
+HNIILFLH_00293	gene	lrpA		
+HNIILFLH_00294	CDS			hypothetical protein
+HNIILFLH_00294	gene			
+HNIILFLH_00295	CDS	coaD	2.7.7.3	Phosphopantetheine adenylyltransferase
+HNIILFLH_00295	gene	coaD		
+HNIILFLH_00296	CDS	aglI	2.4.1.-	Glycosyltransferase AglI
+HNIILFLH_00296	gene	aglI		
+HNIILFLH_00297	CDS			hypothetical protein
+HNIILFLH_00297	gene			
+HNIILFLH_00298	CDS	cdc6-1		ORC1-type DNA replication protein 1
+HNIILFLH_00298	gene	cdc6-1		
+HNIILFLH_00299	CDS	purC	6.3.2.6	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+HNIILFLH_00299	gene	purC		
+HNIILFLH_00300	CDS			hypothetical protein
+HNIILFLH_00300	gene			
+HNIILFLH_00301	CDS			hypothetical protein
+HNIILFLH_00301	gene			
+HNIILFLH_00302	CDS			hypothetical protein
+HNIILFLH_00302	gene			
+HNIILFLH_00303	CDS			hypothetical protein
+HNIILFLH_00303	gene			
+HNIILFLH_00304	CDS		5.3.1.23	Putative methylthioribose-1-phosphate isomerase
+HNIILFLH_00304	gene			
+HNIILFLH_00305	CDS			hypothetical protein
+HNIILFLH_00305	gene			
+HNIILFLH_00306	CDS	bepA	3.4.-.-	Beta-barrel assembly-enhancing protease
+HNIILFLH_00306	gene	bepA		
+HNIILFLH_00307	CDS			hypothetical protein
+HNIILFLH_00307	gene			
+HNIILFLH_00308	CDS			hypothetical protein
+HNIILFLH_00308	gene			
+HNIILFLH_00309	CDS			hypothetical protein
+HNIILFLH_00309	gene			
+HNIILFLH_00310	CDS	fda	4.1.2.13	Fructose-bisphosphate aldolase class 1
+HNIILFLH_00310	gene	fda		
+HNIILFLH_00311	CDS			hypothetical protein
+HNIILFLH_00311	gene			
+HNIILFLH_00312	CDS		2.7.1.40	Pyruvate kinase
+HNIILFLH_00312	gene			
+HNIILFLH_00313	CDS			hypothetical protein
+HNIILFLH_00313	gene			
+HNIILFLH_00314	CDS			hypothetical protein
+HNIILFLH_00314	gene			
+HNIILFLH_00315	CDS			hypothetical protein
+HNIILFLH_00315	gene			
+HNIILFLH_00316	CDS			hypothetical protein
+HNIILFLH_00316	gene			
+HNIILFLH_00317	CDS			hypothetical protein
+HNIILFLH_00317	gene			
+HNIILFLH_00318	CDS			hypothetical protein
+HNIILFLH_00318	gene			
+HNIILFLH_00319	CDS			hypothetical protein
+HNIILFLH_00319	gene			
+HNIILFLH_00320	CDS			hypothetical protein
+HNIILFLH_00320	gene			
+HNIILFLH_00321	CDS			hypothetical protein
+HNIILFLH_00321	gene			
+HNIILFLH_00322	CDS			hypothetical protein
+HNIILFLH_00322	gene			
+HNIILFLH_00323	CDS			hypothetical protein
+HNIILFLH_00323	gene			
+HNIILFLH_00324	CDS	psmB	3.4.25.1	Proteasome subunit beta
+HNIILFLH_00324	gene	psmB		
+HNIILFLH_00325	CDS			hypothetical protein
+HNIILFLH_00325	gene			
+HNIILFLH_00326	CDS	yjgF	3.5.99.10	2-iminobutanoate/2-iminopropanoate deaminase
+HNIILFLH_00326	gene	yjgF		
+HNIILFLH_00327	CDS			hypothetical protein
+HNIILFLH_00327	gene			
+HNIILFLH_00328	CDS	manB	5.4.2.8	Phosphomannomutase
+HNIILFLH_00328	gene	manB		
+HNIILFLH_00329	CDS			hypothetical protein
+HNIILFLH_00329	gene			
+HNIILFLH_00330	CDS	cofF	6.3.2.32	Coenzyme gamma-F420-2:alpha-L-glutamate ligase
+HNIILFLH_00330	gene	cofF		
+HNIILFLH_00331	CDS	xerA		Tyrosine recombinase XerA
+HNIILFLH_00331	gene	xerA		
+HNIILFLH_00332	CDS			hypothetical protein
+HNIILFLH_00332	gene			
+HNIILFLH_00333	CDS			hypothetical protein
+HNIILFLH_00333	gene			
+HNIILFLH_00334	CDS			hypothetical protein
+HNIILFLH_00334	gene			
+HNIILFLH_00335	CDS			hypothetical protein
+HNIILFLH_00335	gene			
+HNIILFLH_00336	CDS			hypothetical protein
+HNIILFLH_00336	gene			
+HNIILFLH_00337	tRNA			tRNA-Val(tac)
+HNIILFLH_00337	gene			
+HNIILFLH_00338	CDS			hypothetical protein
+HNIILFLH_00338	gene			
+HNIILFLH_00339	CDS			hypothetical protein
+HNIILFLH_00339	gene			
+HNIILFLH_00340	CDS			hypothetical protein
+HNIILFLH_00340	gene			
+HNIILFLH_00341	CDS			hypothetical protein
+HNIILFLH_00341	gene			
+HNIILFLH_00342	CDS			hypothetical protein
+HNIILFLH_00342	gene			
+HNIILFLH_00343	CDS	tfrA	1.3.4.1	Fumarate reductase (CoM/CoB) subunit A
+HNIILFLH_00343	gene	tfrA		
+HNIILFLH_00344	CDS			hypothetical protein
+HNIILFLH_00344	gene			
+HNIILFLH_00345	CDS			hypothetical protein
+HNIILFLH_00345	gene			
+HNIILFLH_00346	CDS			hypothetical protein
+HNIILFLH_00346	gene			
+HNIILFLH_00347	CDS			hypothetical protein
+HNIILFLH_00347	gene			
+HNIILFLH_00348	CDS			hypothetical protein
+HNIILFLH_00348	gene			
+HNIILFLH_00349	CDS			hypothetical protein
+HNIILFLH_00349	gene			
+HNIILFLH_00350	CDS			hypothetical protein
+HNIILFLH_00350	gene			
+HNIILFLH_00351	CDS			hypothetical protein
+HNIILFLH_00351	gene			
+HNIILFLH_00352	CDS			hypothetical protein
+HNIILFLH_00352	gene			
+HNIILFLH_00353	CDS	mshD	2.3.1.189	Mycothiol acetyltransferase
+HNIILFLH_00353	gene	mshD		
+HNIILFLH_00354	CDS	eif5a		Translation initiation factor 5A
+HNIILFLH_00354	gene	eif5a		
+HNIILFLH_00355	CDS	fadB	1.1.1.35	Fatty acid oxidation complex subunit alpha
+HNIILFLH_00355	gene	fadB		
+HNIILFLH_00356	CDS			hypothetical protein
+HNIILFLH_00356	gene			
+HNIILFLH_00357	CDS	dnaG	2.7.7.-	DNA primase DnaG
+HNIILFLH_00357	gene	dnaG		
+HNIILFLH_00358	CDS			hypothetical protein
+HNIILFLH_00358	gene			
+HNIILFLH_00359	CDS			hypothetical protein
+HNIILFLH_00359	gene			
+HNIILFLH_00360	CDS			hypothetical protein
+HNIILFLH_00360	gene			
+HNIILFLH_00361	tRNA			tRNA-Leu(tag)
+HNIILFLH_00361	gene			
+HNIILFLH_00362	CDS			hypothetical protein
+HNIILFLH_00362	gene			
+HNIILFLH_00363	CDS			hypothetical protein
+HNIILFLH_00363	gene			
+HNIILFLH_00364	CDS			putative ABC transporter ATP-binding protein
+HNIILFLH_00364	gene			
+HNIILFLH_00365	CDS			hypothetical protein
+HNIILFLH_00365	gene			
+HNIILFLH_00366	CDS			hypothetical protein
+HNIILFLH_00366	gene			
+HNIILFLH_00367	CDS	recD	3.1.11.5	RecBCD enzyme subunit RecD
+HNIILFLH_00367	gene	recD		
+HNIILFLH_00368	CDS	pfdA		Prefoldin subunit alpha
+HNIILFLH_00368	gene	pfdA		
+HNIILFLH_00369	CDS	ftsY		Signal recognition particle receptor FtsY
+HNIILFLH_00369	gene	ftsY		
+HNIILFLH_00370	CDS			hypothetical protein
+HNIILFLH_00370	gene			
+HNIILFLH_00371	CDS	cheY		Chemotaxis protein CheY
+HNIILFLH_00371	gene	cheY		
+HNIILFLH_00372	CDS			hypothetical protein
+HNIILFLH_00372	gene			
+HNIILFLH_00373	CDS	pyrF	4.1.1.23	Orotidine 5'-phosphate decarboxylase
+HNIILFLH_00373	gene	pyrF		
+HNIILFLH_00374	CDS	mshA_2	2.4.1.250	D-inositol-3-phosphate glycosyltransferase
+HNIILFLH_00374	gene	mshA_2		
+HNIILFLH_00375	CDS			putative ABC transporter ATP-binding protein
+HNIILFLH_00375	gene			
+HNIILFLH_00376	CDS			hypothetical protein
+HNIILFLH_00376	gene			
+HNIILFLH_00377	CDS			hypothetical protein
+HNIILFLH_00377	gene			
+HNIILFLH_00378	CDS			hypothetical protein
+HNIILFLH_00378	gene			
+HNIILFLH_00379	CDS	ftsZ1_2		Cell division protein FtsZ 1
+HNIILFLH_00379	gene	ftsZ1_2		
+HNIILFLH_00380	CDS			hypothetical protein
+HNIILFLH_00380	gene			
+HNIILFLH_00381	CDS	spt5		Transcription elongation factor Spt5
+HNIILFLH_00381	gene	spt5		
+HNIILFLH_00382	CDS			50S ribosomal protein L11
+HNIILFLH_00382	gene			
+HNIILFLH_00383	CDS	rpl1		50S ribosomal protein L1
+HNIILFLH_00383	gene	rpl1		
+HNIILFLH_00384	CDS			50S ribosomal protein L10
+HNIILFLH_00384	gene			
+HNIILFLH_00385	CDS			50S ribosomal protein L12
+HNIILFLH_00385	gene			
+HNIILFLH_00386	CDS			hypothetical protein
+HNIILFLH_00386	gene			
+HNIILFLH_00387	CDS	leuB	1.1.1.85	3-isopropylmalate/3-methylmalate dehydrogenase
+HNIILFLH_00387	gene	leuB		
+HNIILFLH_00388	CDS			hypothetical protein
+HNIILFLH_00388	gene			
+HNIILFLH_00389	CDS			hypothetical protein
+HNIILFLH_00389	gene			
+HNIILFLH_00390	CDS			hypothetical protein
+HNIILFLH_00390	gene			
+HNIILFLH_00391	CDS			hypothetical protein
+HNIILFLH_00391	gene			

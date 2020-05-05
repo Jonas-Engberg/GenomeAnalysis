@@ -1,0 +1,4065 @@
+locus_tag	ftype	gene	EC_number	product
+PACEHLGO_00001	CDS			hypothetical protein
+PACEHLGO_00001	gene			
+PACEHLGO_00002	CDS			hypothetical protein
+PACEHLGO_00002	gene			
+PACEHLGO_00003	CDS			hypothetical protein
+PACEHLGO_00003	gene			
+PACEHLGO_00004	CDS	rpe	5.1.3.1	Ribulose-phosphate 3-epimerase
+PACEHLGO_00004	gene	rpe		
+PACEHLGO_00005	CDS		2.1.1.-	Putative methyltransferase
+PACEHLGO_00005	gene			
+PACEHLGO_00006	CDS	fmt	2.1.2.9	Methionyl-tRNA formyltransferase
+PACEHLGO_00006	gene	fmt		
+PACEHLGO_00007	CDS	zwf1	1.1.1.49	Glucose-6-phosphate 1-dehydrogenase 1
+PACEHLGO_00007	gene	zwf1		
+PACEHLGO_00008	CDS		3.2.1.28	Trehalase
+PACEHLGO_00008	gene			
+PACEHLGO_00009	CDS	trmB	2.1.1.33	tRNA (guanine-N(7)-)-methyltransferase
+PACEHLGO_00009	gene	trmB		
+PACEHLGO_00010	CDS			hypothetical protein
+PACEHLGO_00010	gene			
+PACEHLGO_00011	CDS	proS	6.1.1.15	Proline--tRNA ligase
+PACEHLGO_00011	gene	proS		
+PACEHLGO_00012	CDS	mshD_1	2.3.1.189	Mycothiol acetyltransferase
+PACEHLGO_00012	gene	mshD_1		
+PACEHLGO_00013	CDS	ispG	1.17.7.3	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+PACEHLGO_00013	gene	ispG		
+PACEHLGO_00014	CDS	rip1	3.4.24.-	Zinc metalloprotease Rip1
+PACEHLGO_00014	gene	rip1		
+PACEHLGO_00015	CDS	dxr	1.1.1.267	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+PACEHLGO_00015	gene	dxr		
+PACEHLGO_00016	CDS	rlmN	2.1.1.192	Dual-specificity RNA methyltransferase RlmN
+PACEHLGO_00016	gene	rlmN		
+PACEHLGO_00017	CDS	cdsA	2.7.7.41	Phosphatidate cytidylyltransferase
+PACEHLGO_00017	gene	cdsA		
+PACEHLGO_00018	CDS			hypothetical protein
+PACEHLGO_00018	gene			
+PACEHLGO_00019	CDS			hypothetical protein
+PACEHLGO_00019	gene			
+PACEHLGO_00020	CDS			hypothetical protein
+PACEHLGO_00020	gene			
+PACEHLGO_00021	CDS			hypothetical protein
+PACEHLGO_00021	gene			
+PACEHLGO_00022	CDS			hypothetical protein
+PACEHLGO_00022	gene			
+PACEHLGO_00023	CDS			hypothetical protein
+PACEHLGO_00023	gene			
+PACEHLGO_00024	CDS			hypothetical protein
+PACEHLGO_00024	gene			
+PACEHLGO_00025	CDS			hypothetical protein
+PACEHLGO_00025	gene			
+PACEHLGO_00026	CDS			hypothetical protein
+PACEHLGO_00026	gene			
+PACEHLGO_00027	CDS	rocA1	1.2.1.88	1-pyrroline-5-carboxylate dehydrogenase 1
+PACEHLGO_00027	gene	rocA1		
+PACEHLGO_00028	CDS			hypothetical protein
+PACEHLGO_00028	gene			
+PACEHLGO_00029	tRNA			tRNA-Thr(cgt)
+PACEHLGO_00029	gene			
+PACEHLGO_00030	CDS			hypothetical protein
+PACEHLGO_00030	gene			
+PACEHLGO_00031	CDS			hypothetical protein
+PACEHLGO_00031	gene			
+PACEHLGO_00032	CDS			hypothetical protein
+PACEHLGO_00032	gene			
+PACEHLGO_00033	CDS			hypothetical protein
+PACEHLGO_00033	gene			
+PACEHLGO_00034	CDS	pipB2_1		Secreted effector protein PipB2
+PACEHLGO_00034	gene	pipB2_1		
+PACEHLGO_00035	tRNA			tRNA-Leu(cag)
+PACEHLGO_00035	gene			
+PACEHLGO_00036	CDS	mraZ_1		Transcriptional regulator MraZ
+PACEHLGO_00036	gene	mraZ_1		
+PACEHLGO_00037	CDS	ycnJ_1		Copper transport protein YcnJ
+PACEHLGO_00037	gene	ycnJ_1		
+PACEHLGO_00038	CDS			hypothetical protein
+PACEHLGO_00038	gene			
+PACEHLGO_00039	CDS	mraZ_2		Transcriptional regulator MraZ
+PACEHLGO_00039	gene	mraZ_2		
+PACEHLGO_00040	CDS	ycnJ_2		Copper transport protein YcnJ
+PACEHLGO_00040	gene	ycnJ_2		
+PACEHLGO_00041	CDS			hypothetical protein
+PACEHLGO_00041	gene			
+PACEHLGO_00042	CDS			hypothetical protein
+PACEHLGO_00042	gene			
+PACEHLGO_00043	CDS			hypothetical protein
+PACEHLGO_00043	gene			
+PACEHLGO_00044	CDS			hypothetical protein
+PACEHLGO_00044	gene			
+PACEHLGO_00045	CDS	recN		DNA repair protein RecN
+PACEHLGO_00045	gene	recN		
+PACEHLGO_00046	CDS	ppnK	2.7.1.23	NAD kinase
+PACEHLGO_00046	gene	ppnK		
+PACEHLGO_00047	CDS	livH		High-affinity branched-chain amino acid transport system permease protein LivH
+PACEHLGO_00047	gene	livH		
+PACEHLGO_00048	CDS			hypothetical protein
+PACEHLGO_00048	gene			
+PACEHLGO_00049	CDS			hypothetical protein
+PACEHLGO_00049	gene			
+PACEHLGO_00050	CDS			hypothetical protein
+PACEHLGO_00050	gene			
+PACEHLGO_00051	CDS	rsgA	3.6.1.-	Small ribosomal subunit biogenesis GTPase RsgA
+PACEHLGO_00051	gene	rsgA		
+PACEHLGO_00052	CDS	aroA	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+PACEHLGO_00052	gene	aroA		
+PACEHLGO_00053	CDS			hypothetical protein
+PACEHLGO_00053	gene			
+PACEHLGO_00054	CDS	pckG	4.1.1.32	Phosphoenolpyruvate carboxykinase [GTP]
+PACEHLGO_00054	gene	pckG		
+PACEHLGO_00055	CDS			hypothetical protein
+PACEHLGO_00055	gene			
+PACEHLGO_00056	CDS			hypothetical protein
+PACEHLGO_00056	gene			
+PACEHLGO_00057	CDS			hypothetical protein
+PACEHLGO_00057	gene			
+PACEHLGO_00058	CDS			hypothetical protein
+PACEHLGO_00058	gene			
+PACEHLGO_00059	CDS			hypothetical protein
+PACEHLGO_00059	gene			
+PACEHLGO_00060	CDS			hypothetical protein
+PACEHLGO_00060	gene			
+PACEHLGO_00061	CDS	dac_1	3.4.16.4	D-alanyl-D-alanine carboxypeptidase
+PACEHLGO_00061	gene	dac_1		
+PACEHLGO_00062	CDS			hypothetical protein
+PACEHLGO_00062	gene			
+PACEHLGO_00063	CDS			hypothetical protein
+PACEHLGO_00063	gene			
+PACEHLGO_00064	CDS			hypothetical protein
+PACEHLGO_00064	gene			
+PACEHLGO_00065	CDS			hypothetical protein
+PACEHLGO_00065	gene			
+PACEHLGO_00066	CDS	cobS	2.7.8.26	Adenosylcobinamide-GDP ribazoletransferase
+PACEHLGO_00066	gene	cobS		
+PACEHLGO_00067	CDS	malF		Maltose transport system permease protein MalF
+PACEHLGO_00067	gene	malF		
+PACEHLGO_00068	CDS			hypothetical protein
+PACEHLGO_00068	gene			
+PACEHLGO_00069	CDS			hypothetical protein
+PACEHLGO_00069	gene			
+PACEHLGO_00070	CDS			hypothetical protein
+PACEHLGO_00070	gene			
+PACEHLGO_00071	CDS			hypothetical protein
+PACEHLGO_00071	gene			
+PACEHLGO_00072	CDS			hypothetical protein
+PACEHLGO_00072	gene			
+PACEHLGO_00073	CDS	resE	2.7.13.3	Sensor histidine kinase ResE
+PACEHLGO_00073	gene	resE		
+PACEHLGO_00074	CDS			hypothetical protein
+PACEHLGO_00074	gene			
+PACEHLGO_00075	CDS	pkn1	2.7.11.1	Serine/threonine-protein kinase pkn1
+PACEHLGO_00075	gene	pkn1		
+PACEHLGO_00076	CDS	atsA_1	3.1.6.1	Arylsulfatase
+PACEHLGO_00076	gene	atsA_1		
+PACEHLGO_00077	CDS	gloC_1	3.1.2.6	Hydroxyacylglutathione hydrolase GloC
+PACEHLGO_00077	gene	gloC_1		
+PACEHLGO_00078	CDS			hypothetical protein
+PACEHLGO_00078	gene			
+PACEHLGO_00079	CDS			hypothetical protein
+PACEHLGO_00079	gene			
+PACEHLGO_00080	CDS			hypothetical protein
+PACEHLGO_00080	gene			
+PACEHLGO_00081	CDS			hypothetical protein
+PACEHLGO_00081	gene			
+PACEHLGO_00082	CDS			hypothetical protein
+PACEHLGO_00082	gene			
+PACEHLGO_00083	CDS			hypothetical protein
+PACEHLGO_00083	gene			
+PACEHLGO_00084	CDS	potA	3.6.3.31	Spermidine/putrescine import ATP-binding protein PotA
+PACEHLGO_00084	gene	potA		
+PACEHLGO_00085	CDS	phnU		Putative 2-aminoethylphosphonate transport system permease protein PhnU
+PACEHLGO_00085	gene	phnU		
+PACEHLGO_00086	CDS	fbpA		Fe(3+)-binding periplasmic protein
+PACEHLGO_00086	gene	fbpA		
+PACEHLGO_00087	CDS	sir	1.8.7.1	Sulfite reductase [ferredoxin]
+PACEHLGO_00087	gene	sir		
+PACEHLGO_00088	CDS	murJ		putative lipid II flippase MurJ
+PACEHLGO_00088	gene	murJ		
+PACEHLGO_00089	CDS			hypothetical protein
+PACEHLGO_00089	gene			
+PACEHLGO_00090	CDS	mviN		putative peptidoglycan biosynthesis protein MviN
+PACEHLGO_00090	gene	mviN		
+PACEHLGO_00091	CDS	sigM		ECF RNA polymerase sigma factor SigM
+PACEHLGO_00091	gene	sigM		
+PACEHLGO_00092	CDS			hypothetical protein
+PACEHLGO_00092	gene			
+PACEHLGO_00093	CDS			hypothetical protein
+PACEHLGO_00093	gene			
+PACEHLGO_00094	CDS			hypothetical protein
+PACEHLGO_00094	gene			
+PACEHLGO_00095	CDS			hypothetical protein
+PACEHLGO_00095	gene			
+PACEHLGO_00096	CDS	yiaA		Inner membrane protein YiaA
+PACEHLGO_00096	gene	yiaA		
+PACEHLGO_00097	CDS			hypothetical protein
+PACEHLGO_00097	gene			
+PACEHLGO_00098	CDS		3.2.2.-	Putative 3-methyladenine DNA glycosylase
+PACEHLGO_00098	gene			
+PACEHLGO_00099	CDS			hypothetical protein
+PACEHLGO_00099	gene			
+PACEHLGO_00100	CDS			hypothetical protein
+PACEHLGO_00100	gene			
+PACEHLGO_00101	CDS	glbO		Group 2 truncated hemoglobin GlbO
+PACEHLGO_00101	gene	glbO		
+PACEHLGO_00102	CDS	ettA_1		Energy-dependent translational throttle protein EttA
+PACEHLGO_00102	gene	ettA_1		
+PACEHLGO_00103	CDS	ecfT		Energy-coupling factor transporter transmembrane protein EcfT
+PACEHLGO_00103	gene	ecfT		
+PACEHLGO_00104	CDS			hypothetical protein
+PACEHLGO_00104	gene			
+PACEHLGO_00105	CDS			hypothetical protein
+PACEHLGO_00105	gene			
+PACEHLGO_00106	CDS	ahcY_1	3.3.1.1	Adenosylhomocysteinase
+PACEHLGO_00106	gene	ahcY_1		
+PACEHLGO_00107	CDS			hypothetical protein
+PACEHLGO_00107	gene			
+PACEHLGO_00108	CDS	yhfK	4.-.-.-	putative sugar epimerase YhfK
+PACEHLGO_00108	gene	yhfK		
+PACEHLGO_00109	CDS			hypothetical protein
+PACEHLGO_00109	gene			
+PACEHLGO_00110	CDS			hypothetical protein
+PACEHLGO_00110	gene			
+PACEHLGO_00111	CDS			hypothetical protein
+PACEHLGO_00111	gene			
+PACEHLGO_00112	CDS			hypothetical protein
+PACEHLGO_00112	gene			
+PACEHLGO_00113	CDS			hypothetical protein
+PACEHLGO_00113	gene			
+PACEHLGO_00114	CDS			hypothetical protein
+PACEHLGO_00114	gene			
+PACEHLGO_00115	CDS			hypothetical protein
+PACEHLGO_00115	gene			
+PACEHLGO_00116	CDS			hypothetical protein
+PACEHLGO_00116	gene			
+PACEHLGO_00117	CDS			hypothetical protein
+PACEHLGO_00117	gene			
+PACEHLGO_00118	CDS			hypothetical protein
+PACEHLGO_00118	gene			
+PACEHLGO_00119	CDS			hypothetical protein
+PACEHLGO_00119	gene			
+PACEHLGO_00120	CDS	drrA_1	3.6.3.-	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+PACEHLGO_00120	gene	drrA_1		
+PACEHLGO_00121	CDS	drrB_1		Daunorubicin/doxorubicin resistance ABC transporter permease protein DrrB
+PACEHLGO_00121	gene	drrB_1		
+PACEHLGO_00122	CDS			hypothetical protein
+PACEHLGO_00122	gene			
+PACEHLGO_00123	CDS	ctaA	1.3.-.-	Heme A synthase
+PACEHLGO_00123	gene	ctaA		
+PACEHLGO_00124	CDS		3.6.3.8	Calcium-transporting ATPase 1
+PACEHLGO_00124	gene			
+PACEHLGO_00125	CDS		1.6.99.-	NADH dehydrogenase-like protein
+PACEHLGO_00125	gene			
+PACEHLGO_00126	CDS			hypothetical protein
+PACEHLGO_00126	gene			
+PACEHLGO_00127	CDS	ctaB	2.5.1.-	Protoheme IX farnesyltransferase
+PACEHLGO_00127	gene	ctaB		
+PACEHLGO_00128	CDS	tkt	2.2.1.1	Transketolase
+PACEHLGO_00128	gene	tkt		
+PACEHLGO_00129	CDS	tal	2.2.1.2	Transaldolase
+PACEHLGO_00129	gene	tal		
+PACEHLGO_00130	CDS	zwf2	1.1.1.49	Glucose-6-phosphate 1-dehydrogenase 2
+PACEHLGO_00130	gene	zwf2		
+PACEHLGO_00131	CDS			hypothetical protein
+PACEHLGO_00131	gene			
+PACEHLGO_00132	CDS	pgl	3.1.1.31	6-phosphogluconolactonase
+PACEHLGO_00132	gene	pgl		
+PACEHLGO_00133	CDS	rbpA_1		RNA polymerase-binding protein RbpA
+PACEHLGO_00133	gene	rbpA_1		
+PACEHLGO_00134	CDS	secG		putative protein-export membrane protein SecG
+PACEHLGO_00134	gene	secG		
+PACEHLGO_00135	CDS	tpiA	5.3.1.1	Triosephosphate isomerase
+PACEHLGO_00135	gene	tpiA		
+PACEHLGO_00136	CDS	pgk	2.7.2.3	Phosphoglycerate kinase
+PACEHLGO_00136	gene	pgk		
+PACEHLGO_00137	CDS	gap2	1.2.1.12	Glyceraldehyde-3-phosphate dehydrogenase 2
+PACEHLGO_00137	gene	gap2		
+PACEHLGO_00138	CDS	ribD2	1.1.1.302	2,5-diamino-6-ribosylamino-4(3H)-pyrimidinone 5'-phosphate reductase
+PACEHLGO_00138	gene	ribD2		
+PACEHLGO_00139	CDS	ligC	6.5.1.1	DNA ligase C
+PACEHLGO_00139	gene	ligC		
+PACEHLGO_00140	CDS	mshD_2	2.3.1.189	Mycothiol acetyltransferase
+PACEHLGO_00140	gene	mshD_2		
+PACEHLGO_00141	CDS			hypothetical protein
+PACEHLGO_00141	gene			
+PACEHLGO_00142	CDS			hypothetical protein
+PACEHLGO_00142	gene			
+PACEHLGO_00143	CDS			hypothetical protein
+PACEHLGO_00143	gene			
+PACEHLGO_00144	CDS			hypothetical protein
+PACEHLGO_00144	gene			
+PACEHLGO_00145	CDS	trpA	4.2.1.20	Tryptophan synthase alpha chain
+PACEHLGO_00145	gene	trpA		
+PACEHLGO_00146	CDS	trpB	4.2.1.20	Tryptophan synthase beta chain
+PACEHLGO_00146	gene	trpB		
+PACEHLGO_00147	CDS	trpC	4.1.1.48	Indole-3-glycerol phosphate synthase
+PACEHLGO_00147	gene	trpC		
+PACEHLGO_00148	CDS	mtrB_1	2.7.13.3	Sensor histidine kinase MtrB
+PACEHLGO_00148	gene	mtrB_1		
+PACEHLGO_00149	CDS	ppm1_1	2.4.1.-	Polyprenol monophosphomannose synthase
+PACEHLGO_00149	gene	ppm1_1		
+PACEHLGO_00150	CDS			hypothetical protein
+PACEHLGO_00150	gene			
+PACEHLGO_00151	CDS			hypothetical protein
+PACEHLGO_00151	gene			
+PACEHLGO_00152	CDS	lnt	2.3.1.-	Apolipoprotein N-acyltransferase
+PACEHLGO_00152	gene	lnt		
+PACEHLGO_00153	CDS			hypothetical protein
+PACEHLGO_00153	gene			
+PACEHLGO_00154	CDS			hypothetical protein
+PACEHLGO_00154	gene			
+PACEHLGO_00155	CDS			hypothetical protein
+PACEHLGO_00155	gene			
+PACEHLGO_00156	CDS			Putative conjugal transfer protein
+PACEHLGO_00156	gene			
+PACEHLGO_00157	CDS			hypothetical protein
+PACEHLGO_00157	gene			
+PACEHLGO_00158	CDS			hypothetical protein
+PACEHLGO_00158	gene			
+PACEHLGO_00159	CDS			hypothetical protein
+PACEHLGO_00159	gene			
+PACEHLGO_00160	CDS			hypothetical protein
+PACEHLGO_00160	gene			
+PACEHLGO_00161	CDS			hypothetical protein
+PACEHLGO_00161	gene			
+PACEHLGO_00162	CDS	acsA_1	6.2.1.1	Acetyl-coenzyme A synthetase
+PACEHLGO_00162	gene	acsA_1		
+PACEHLGO_00163	CDS			hypothetical protein
+PACEHLGO_00163	gene			
+PACEHLGO_00164	CDS			hypothetical protein
+PACEHLGO_00164	gene			
+PACEHLGO_00165	CDS			hypothetical protein
+PACEHLGO_00165	gene			
+PACEHLGO_00166	CDS			hypothetical protein
+PACEHLGO_00166	gene			
+PACEHLGO_00167	CDS	nreC		Oxygen regulatory protein NreC
+PACEHLGO_00167	gene	nreC		
+PACEHLGO_00168	CDS			hypothetical protein
+PACEHLGO_00168	gene			
+PACEHLGO_00169	CDS			hypothetical protein
+PACEHLGO_00169	gene			
+PACEHLGO_00170	CDS			hypothetical protein
+PACEHLGO_00170	gene			
+PACEHLGO_00171	tRNA			tRNA-Val(cac)
+PACEHLGO_00171	gene			
+PACEHLGO_00172	CDS	ssgB		Sporulation-specific cell division protein SsgB
+PACEHLGO_00172	gene	ssgB		
+PACEHLGO_00173	CDS	ilvE	2.6.1.42	Branched-chain-amino-acid aminotransferase
+PACEHLGO_00173	gene	ilvE		
+PACEHLGO_00174	CDS	pabB	2.6.1.85	Aminodeoxychorismate synthase component 1
+PACEHLGO_00174	gene	pabB		
+PACEHLGO_00175	CDS			hypothetical protein
+PACEHLGO_00175	gene			
+PACEHLGO_00176	CDS	dtxR		Diphtheria toxin repressor
+PACEHLGO_00176	gene	dtxR		
+PACEHLGO_00177	CDS	csoR		Copper-sensing transcriptional repressor CsoR
+PACEHLGO_00177	gene	csoR		
+PACEHLGO_00178	CDS			hypothetical protein
+PACEHLGO_00178	gene			
+PACEHLGO_00179	CDS			hypothetical protein
+PACEHLGO_00179	gene			
+PACEHLGO_00180	CDS	cspC		Cold shock protein CspC
+PACEHLGO_00180	gene	cspC		
+PACEHLGO_00181	CDS			hypothetical protein
+PACEHLGO_00181	gene			
+PACEHLGO_00182	CDS	gpmA_1	5.4.2.11	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+PACEHLGO_00182	gene	gpmA_1		
+PACEHLGO_00183	CDS			hypothetical protein
+PACEHLGO_00183	gene			
+PACEHLGO_00184	CDS	mshA_1	2.4.1.250	D-inositol 3-phosphate glycosyltransferase
+PACEHLGO_00184	gene	mshA_1		
+PACEHLGO_00185	CDS	phoU2		Phosphate-specific transport system accessory protein PhoU 
+PACEHLGO_00185	gene	phoU2		
+PACEHLGO_00186	CDS	senX3	2.7.13.3	Signal-transduction histidine kinase senX3
+PACEHLGO_00186	gene	senX3		
+PACEHLGO_00187	CDS	regX3		Sensory transduction protein regX3
+PACEHLGO_00187	gene	regX3		
+PACEHLGO_00188	CDS			hypothetical protein
+PACEHLGO_00188	gene			
+PACEHLGO_00189	CDS	carD		RNA polymerase-binding transcription factor CarD
+PACEHLGO_00189	gene	carD		
+PACEHLGO_00190	CDS	yacL	3.1.-.-	putative PIN and TRAM-domain containing protein YacL
+PACEHLGO_00190	gene	yacL		
+PACEHLGO_00191	CDS	ispD	2.7.7.60	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+PACEHLGO_00191	gene	ispD		
+PACEHLGO_00192	CDS			hypothetical protein
+PACEHLGO_00192	gene			
+PACEHLGO_00193	CDS			hypothetical protein
+PACEHLGO_00193	gene			
+PACEHLGO_00194	CDS	ubiG	2.1.1.222	Ubiquinone biosynthesis O-methyltransferase
+PACEHLGO_00194	gene	ubiG		
+PACEHLGO_00195	CDS	vioA	2.6.1.33	dTDP-4-amino-4,6-dideoxy-D-glucose transaminase
+PACEHLGO_00195	gene	vioA		
+PACEHLGO_00196	CDS			hypothetical protein
+PACEHLGO_00196	gene			
+PACEHLGO_00197	CDS			hypothetical protein
+PACEHLGO_00197	gene			
+PACEHLGO_00198	CDS	tuaC	2.4.-.-	Putative teichuronic acid biosynthesis glycosyltransferase TuaC
+PACEHLGO_00198	gene	tuaC		
+PACEHLGO_00199	CDS			hypothetical protein
+PACEHLGO_00199	gene			
+PACEHLGO_00200	CDS			hypothetical protein
+PACEHLGO_00200	gene			
+PACEHLGO_00201	CDS			hypothetical protein
+PACEHLGO_00201	gene			
+PACEHLGO_00202	CDS			putative HTH-type transcriptional regulator
+PACEHLGO_00202	gene			
+PACEHLGO_00203	tRNA			tRNA-Gly(ccc)
+PACEHLGO_00203	gene			
+PACEHLGO_00204	CDS			hypothetical protein
+PACEHLGO_00204	gene			
+PACEHLGO_00205	CDS			hypothetical protein
+PACEHLGO_00205	gene			
+PACEHLGO_00206	CDS			hypothetical protein
+PACEHLGO_00206	gene			
+PACEHLGO_00207	CDS			hypothetical protein
+PACEHLGO_00207	gene			
+PACEHLGO_00208	CDS	ubiE	2.1.1.163	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE
+PACEHLGO_00208	gene	ubiE		
+PACEHLGO_00209	CDS	nhaP		K(+)/H(+) antiporter NhaP
+PACEHLGO_00209	gene	nhaP		
+PACEHLGO_00210	CDS	dus	1.3.1.-	putative tRNA-dihydrouridine synthase
+PACEHLGO_00210	gene	dus		
+PACEHLGO_00211	CDS			hypothetical protein
+PACEHLGO_00211	gene			
+PACEHLGO_00212	CDS			hypothetical protein
+PACEHLGO_00212	gene			
+PACEHLGO_00213	CDS	malP	2.4.1.1	Maltodextrin phosphorylase
+PACEHLGO_00213	gene	malP		
+PACEHLGO_00214	CDS			hypothetical protein
+PACEHLGO_00214	gene			
+PACEHLGO_00215	CDS			hypothetical protein
+PACEHLGO_00215	gene			
+PACEHLGO_00216	CDS			hypothetical protein
+PACEHLGO_00216	gene			
+PACEHLGO_00217	CDS			hypothetical protein
+PACEHLGO_00217	gene			
+PACEHLGO_00218	CDS	nshR	2.1.1.230	23S rRNA (adenosine(1067)-2'-O)-methyltransferase
+PACEHLGO_00218	gene	nshR		
+PACEHLGO_00219	CDS	adiC		Arginine/agmatine antiporter
+PACEHLGO_00219	gene	adiC		
+PACEHLGO_00220	CDS			hypothetical protein
+PACEHLGO_00220	gene			
+PACEHLGO_00221	CDS	pta	2.3.1.8	Phosphate acetyltransferase
+PACEHLGO_00221	gene	pta		
+PACEHLGO_00222	CDS	ackA	2.7.2.1	Acetate kinase
+PACEHLGO_00222	gene	ackA		
+PACEHLGO_00223	CDS	miaB	2.8.4.3	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+PACEHLGO_00223	gene	miaB		
+PACEHLGO_00224	CDS			hypothetical protein
+PACEHLGO_00224	gene			
+PACEHLGO_00225	CDS	miaA	2.5.1.75	tRNA dimethylallyltransferase
+PACEHLGO_00225	gene	miaA		
+PACEHLGO_00226	CDS	mca	3.5.1.115	Mycothiol S-conjugate amidase
+PACEHLGO_00226	gene	mca		
+PACEHLGO_00227	CDS			hypothetical protein
+PACEHLGO_00227	gene			
+PACEHLGO_00228	CDS			hypothetical protein
+PACEHLGO_00228	gene			
+PACEHLGO_00229	CDS			hypothetical protein
+PACEHLGO_00229	gene			
+PACEHLGO_00230	CDS			hypothetical protein
+PACEHLGO_00230	gene			
+PACEHLGO_00231	CDS			hypothetical protein
+PACEHLGO_00231	gene			
+PACEHLGO_00232	CDS	trpS	6.1.1.2	Tryptophan--tRNA ligase
+PACEHLGO_00232	gene	trpS		
+PACEHLGO_00233	CDS			hypothetical protein
+PACEHLGO_00233	gene			
+PACEHLGO_00234	CDS	kdkA	2.7.1.166	3-deoxy-D-manno-octulosonic acid kinase
+PACEHLGO_00234	gene	kdkA		
+PACEHLGO_00235	CDS			hypothetical protein
+PACEHLGO_00235	gene			
+PACEHLGO_00236	CDS	moeZ		putative adenylyltransferase/sulfurtransferase MoeZ
+PACEHLGO_00236	gene	moeZ		
+PACEHLGO_00237	CDS	lip3	3.1.1.3	Lipase 3
+PACEHLGO_00237	gene	lip3		
+PACEHLGO_00238	CDS	arpA		A-factor receptor protein
+PACEHLGO_00238	gene	arpA		
+PACEHLGO_00239	CDS	hisB	4.2.1.19	Imidazoleglycerol-phosphate dehydratase
+PACEHLGO_00239	gene	hisB		
+PACEHLGO_00240	CDS	hisH	2.4.2.-	Imidazole glycerol phosphate synthase subunit HisH
+PACEHLGO_00240	gene	hisH		
+PACEHLGO_00241	CDS			hypothetical protein
+PACEHLGO_00241	gene			
+PACEHLGO_00242	CDS	priA_1	5.3.1.16	Phosphoribosyl isomerase A
+PACEHLGO_00242	gene	priA_1		
+PACEHLGO_00243	CDS			hypothetical protein
+PACEHLGO_00243	gene			
+PACEHLGO_00244	CDS			hypothetical protein
+PACEHLGO_00244	gene			
+PACEHLGO_00245	CDS	dut	3.6.1.23	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+PACEHLGO_00245	gene	dut		
+PACEHLGO_00246	CDS			hypothetical protein
+PACEHLGO_00246	gene			
+PACEHLGO_00247	CDS			hypothetical protein
+PACEHLGO_00247	gene			
+PACEHLGO_00248	CDS			hypothetical protein
+PACEHLGO_00248	gene			
+PACEHLGO_00249	CDS			hypothetical protein
+PACEHLGO_00249	gene			
+PACEHLGO_00250	CDS	trkA_1		Trk system potassium uptake protein TrkA
+PACEHLGO_00250	gene	trkA_1		
+PACEHLGO_00251	CDS	trkA_2		Trk system potassium uptake protein TrkA
+PACEHLGO_00251	gene	trkA_2		
+PACEHLGO_00252	CDS	emrB		Multidrug export protein EmrB
+PACEHLGO_00252	gene	emrB		
+PACEHLGO_00253	CDS			hypothetical protein
+PACEHLGO_00253	gene			
+PACEHLGO_00254	CDS			hypothetical protein
+PACEHLGO_00254	gene			
+PACEHLGO_00255	CDS			hypothetical protein
+PACEHLGO_00255	gene			
+PACEHLGO_00256	CDS	nrdJ	1.17.4.1	Vitamin B12-dependent ribonucleotide reductase
+PACEHLGO_00256	gene	nrdJ		
+PACEHLGO_00257	CDS			hypothetical protein
+PACEHLGO_00257	gene			
+PACEHLGO_00258	CDS	nrdR		Transcriptional repressor NrdR
+PACEHLGO_00258	gene	nrdR		
+PACEHLGO_00259	CDS			hypothetical protein
+PACEHLGO_00259	gene			
+PACEHLGO_00260	CDS	lexA	3.4.21.88	LexA repressor
+PACEHLGO_00260	gene	lexA		
+PACEHLGO_00261	CDS	dinG	3.6.4.12	putative ATP-dependent helicase DinG 
+PACEHLGO_00261	gene	dinG		
+PACEHLGO_00262	CDS	hflX		GTPase HflX
+PACEHLGO_00262	gene	hflX		
+PACEHLGO_00263	CDS	dapF	5.1.1.7	Diaminopimelate epimerase
+PACEHLGO_00263	gene	dapF		
+PACEHLGO_00264	CDS			hypothetical protein
+PACEHLGO_00264	gene			
+PACEHLGO_00265	CDS	degU		Transcriptional regulatory protein DegU
+PACEHLGO_00265	gene	degU		
+PACEHLGO_00266	CDS	rnd	3.1.13.5	Ribonuclease D
+PACEHLGO_00266	gene	rnd		
+PACEHLGO_00267	CDS	paaJ	2.3.1.174	3-oxoadipyl-CoA/3-oxo-5,6-dehydrosuberyl-CoA thiolase
+PACEHLGO_00267	gene	paaJ		
+PACEHLGO_00268	CDS			hypothetical protein
+PACEHLGO_00268	gene			
+PACEHLGO_00269	CDS	tatB_1		Sec-independent protein translocase protein TatB
+PACEHLGO_00269	gene	tatB_1		
+PACEHLGO_00270	CDS			hypothetical protein
+PACEHLGO_00270	gene			
+PACEHLGO_00271	CDS			hypothetical protein
+PACEHLGO_00271	gene			
+PACEHLGO_00272	CDS			hypothetical protein
+PACEHLGO_00272	gene			
+PACEHLGO_00273	CDS			hypothetical protein
+PACEHLGO_00273	gene			
+PACEHLGO_00274	CDS	map	3.4.11.18	Methionine aminopeptidase 2
+PACEHLGO_00274	gene	map		
+PACEHLGO_00275	CDS			hypothetical protein
+PACEHLGO_00275	gene			
+PACEHLGO_00276	CDS	smtA	2.8.3.22	Succinyl-CoA--L-malate CoA-transferase alpha subunit
+PACEHLGO_00276	gene	smtA		
+PACEHLGO_00277	CDS			hypothetical protein
+PACEHLGO_00277	gene			
+PACEHLGO_00278	CDS	panB	2.1.2.11	3-methyl-2-oxobutanoate hydroxymethyltransferase
+PACEHLGO_00278	gene	panB		
+PACEHLGO_00279	CDS	qacA_1		Antiseptic resistance protein
+PACEHLGO_00279	gene	qacA_1		
+PACEHLGO_00280	CDS	nadE	6.3.5.1	Glutamine-dependent NAD(+) synthetase
+PACEHLGO_00280	gene	nadE		
+PACEHLGO_00281	CDS	thrS	6.1.1.3	Threonine--tRNA ligase
+PACEHLGO_00281	gene	thrS		
+PACEHLGO_00282	CDS		2.7.7.53	AP-4-A phosphorylase
+PACEHLGO_00282	gene			
+PACEHLGO_00283	CDS	arlR		Response regulator ArlR
+PACEHLGO_00283	gene	arlR		
+PACEHLGO_00284	CDS			Elongation factor G-like protein
+PACEHLGO_00284	gene			
+PACEHLGO_00285	CDS	uxuB	1.-.-.-	putative oxidoreductase UxuB
+PACEHLGO_00285	gene	uxuB		
+PACEHLGO_00286	CDS	ltaE	4.1.2.48	Low specificity L-threonine aldolase
+PACEHLGO_00286	gene	ltaE		
+PACEHLGO_00287	CDS			hypothetical protein
+PACEHLGO_00287	gene			
+PACEHLGO_00288	CDS			hypothetical protein
+PACEHLGO_00288	gene			
+PACEHLGO_00289	CDS		4.1.2.27	putative sphingosine-1-phosphate lyase
+PACEHLGO_00289	gene			
+PACEHLGO_00290	CDS	xylB	2.7.1.17	Xylulose kinase
+PACEHLGO_00290	gene	xylB		
+PACEHLGO_00291	CDS			hypothetical protein
+PACEHLGO_00291	gene			
+PACEHLGO_00292	CDS			hypothetical protein
+PACEHLGO_00292	gene			
+PACEHLGO_00293	CDS	pah	3.5.3.22	Proclavaminate amidinohydrolase
+PACEHLGO_00293	gene	pah		
+PACEHLGO_00294	tRNA			tRNA-Arg(tct)
+PACEHLGO_00294	gene			
+PACEHLGO_00295	CDS			hypothetical protein
+PACEHLGO_00295	gene			
+PACEHLGO_00296	CDS			hypothetical protein
+PACEHLGO_00296	gene			
+PACEHLGO_00297	CDS			hypothetical protein
+PACEHLGO_00297	gene			
+PACEHLGO_00298	CDS			hypothetical protein
+PACEHLGO_00298	gene			
+PACEHLGO_00299	CDS	stp_1		Multidrug resistance protein Stp
+PACEHLGO_00299	gene	stp_1		
+PACEHLGO_00300	CDS			hypothetical protein
+PACEHLGO_00300	gene			
+PACEHLGO_00301	CDS			hypothetical protein
+PACEHLGO_00301	gene			
+PACEHLGO_00302	CDS			hypothetical protein
+PACEHLGO_00302	gene			
+PACEHLGO_00303	CDS			hypothetical protein
+PACEHLGO_00303	gene			
+PACEHLGO_00304	CDS			hypothetical protein
+PACEHLGO_00304	gene			
+PACEHLGO_00305	CDS			hypothetical protein
+PACEHLGO_00305	gene			
+PACEHLGO_00306	CDS	pleD		Response regulator PleD
+PACEHLGO_00306	gene	pleD		
+PACEHLGO_00307	CDS			hypothetical protein
+PACEHLGO_00307	gene			
+PACEHLGO_00308	CDS		2.6.1.-	putative aminotransferase
+PACEHLGO_00308	gene			
+PACEHLGO_00309	CDS	lrp		Leucine-responsive regulatory protein
+PACEHLGO_00309	gene	lrp		
+PACEHLGO_00310	CDS	prr_1	1.2.1.19	Gamma-aminobutyraldehyde dehydrogenase
+PACEHLGO_00310	gene	prr_1		
+PACEHLGO_00311	CDS	prr_2	1.2.1.19	Gamma-aminobutyraldehyde dehydrogenase
+PACEHLGO_00311	gene	prr_2		
+PACEHLGO_00312	CDS	spuE_1		Spermidine-binding periplasmic protein SpuE
+PACEHLGO_00312	gene	spuE_1		
+PACEHLGO_00313	CDS	fkbP_1	5.2.1.8	FK506-binding protein
+PACEHLGO_00313	gene	fkbP_1		
+PACEHLGO_00314	CDS	pafA	6.3.1.19	Pup--protein ligase
+PACEHLGO_00314	gene	pafA		
+PACEHLGO_00315	CDS	prcA1	3.4.25.1	Proteasome subunit alpha 1
+PACEHLGO_00315	gene	prcA1		
+PACEHLGO_00316	CDS	prcB	3.4.25.1	Proteasome subunit beta
+PACEHLGO_00316	gene	prcB		
+PACEHLGO_00317	CDS	pup		Prokaryotic ubiquitin-like protein Pup
+PACEHLGO_00317	gene	pup		
+PACEHLGO_00318	CDS			hypothetical protein
+PACEHLGO_00318	gene			
+PACEHLGO_00319	CDS	dop	3.4.-.-	Depupylase
+PACEHLGO_00319	gene	dop		
+PACEHLGO_00320	CDS			hypothetical protein
+PACEHLGO_00320	gene			
+PACEHLGO_00321	CDS			hypothetical protein
+PACEHLGO_00321	gene			
+PACEHLGO_00322	CDS	xylE		D-xylose-proton symporter
+PACEHLGO_00322	gene	xylE		
+PACEHLGO_00323	CDS			hypothetical protein
+PACEHLGO_00323	gene			
+PACEHLGO_00324	CDS	pigC	6.4.-.-	Prodigiosin synthesizing transferase PigC
+PACEHLGO_00324	gene	pigC		
+PACEHLGO_00325	CDS	fadH	1.3.1.34	putative 2,4-dienoyl-CoA reductase
+PACEHLGO_00325	gene	fadH		
+PACEHLGO_00326	CDS			hypothetical protein
+PACEHLGO_00326	gene			
+PACEHLGO_00327	CDS			hypothetical protein
+PACEHLGO_00327	gene			
+PACEHLGO_00328	CDS	serC	2.6.1.52	Phosphoserine aminotransferase
+PACEHLGO_00328	gene	serC		
+PACEHLGO_00329	CDS	citA	2.3.3.16	Putative citrate synthase 2
+PACEHLGO_00329	gene	citA		
+PACEHLGO_00330	CDS	pdxH	1.4.3.5	Pyridoxine/pyridoxamine 5'-phosphate oxidase
+PACEHLGO_00330	gene	pdxH		
+PACEHLGO_00331	CDS			hypothetical protein
+PACEHLGO_00331	gene			
+PACEHLGO_00332	CDS		2.1.1.-	putative S-adenosylmethionine-dependent methyltransferase/MSMEI_2290
+PACEHLGO_00332	gene			
+PACEHLGO_00333	CDS	etfB		Electron transfer flavoprotein subunit beta
+PACEHLGO_00333	gene	etfB		
+PACEHLGO_00334	CDS	etfA		Electron transfer flavoprotein subunit alpha
+PACEHLGO_00334	gene	etfA		
+PACEHLGO_00335	CDS			hypothetical protein
+PACEHLGO_00335	gene			
+PACEHLGO_00336	CDS	metH	2.1.1.13	Methionine synthase
+PACEHLGO_00336	gene	metH		
+PACEHLGO_00337	CDS			hypothetical protein
+PACEHLGO_00337	gene			
+PACEHLGO_00338	CDS	yqaB	3.1.3.-	Fructose-1-phosphate phosphatase YqaB
+PACEHLGO_00338	gene	yqaB		
+PACEHLGO_00339	CDS			Subtilisin inhibitor-like protein 1
+PACEHLGO_00339	gene			
+PACEHLGO_00340	CDS			hypothetical protein
+PACEHLGO_00340	gene			
+PACEHLGO_00341	CDS			hypothetical protein
+PACEHLGO_00341	gene			
+PACEHLGO_00342	CDS			hypothetical protein
+PACEHLGO_00342	gene			
+PACEHLGO_00343	CDS			hypothetical protein
+PACEHLGO_00343	gene			
+PACEHLGO_00344	CDS	acr1	1.2.1.-	Fatty acyl-CoA reductase
+PACEHLGO_00344	gene	acr1		
+PACEHLGO_00345	CDS			hypothetical protein
+PACEHLGO_00345	gene			
+PACEHLGO_00346	CDS			hypothetical protein
+PACEHLGO_00346	gene			
+PACEHLGO_00347	CDS			hypothetical protein
+PACEHLGO_00347	gene			
+PACEHLGO_00348	CDS			hypothetical protein
+PACEHLGO_00348	gene			
+PACEHLGO_00349	tRNA			tRNA-Glu(ttc)
+PACEHLGO_00349	gene			
+PACEHLGO_00350	tRNA			tRNA-Asp(gtc)
+PACEHLGO_00350	gene			
+PACEHLGO_00351	tRNA			tRNA-Phe(gaa)
+PACEHLGO_00351	gene			
+PACEHLGO_00352	CDS			hypothetical protein
+PACEHLGO_00352	gene			
+PACEHLGO_00353	CDS			hypothetical protein
+PACEHLGO_00353	gene			
+PACEHLGO_00354	CDS			hypothetical protein
+PACEHLGO_00354	gene			
+PACEHLGO_00355	CDS			hypothetical protein
+PACEHLGO_00355	gene			
+PACEHLGO_00356	CDS			hypothetical protein
+PACEHLGO_00356	gene			
+PACEHLGO_00357	CDS			hypothetical protein
+PACEHLGO_00357	gene			
+PACEHLGO_00358	CDS	rihA	3.2.-.-	Pyrimidine-specific ribonucleoside hydrolase RihA
+PACEHLGO_00358	gene	rihA		
+PACEHLGO_00359	CDS	speE	2.5.1.16	Polyamine aminopropyltransferase
+PACEHLGO_00359	gene	speE		
+PACEHLGO_00360	CDS	hemL	5.4.3.8	Glutamate-1-semialdehyde 2,1-aminomutase
+PACEHLGO_00360	gene	hemL		
+PACEHLGO_00361	CDS			hypothetical protein
+PACEHLGO_00361	gene			
+PACEHLGO_00362	CDS			hypothetical protein
+PACEHLGO_00362	gene			
+PACEHLGO_00363	CDS	puo	1.4.3.10	Putrescine oxidase
+PACEHLGO_00363	gene	puo		
+PACEHLGO_00364	CDS			hypothetical protein
+PACEHLGO_00364	gene			
+PACEHLGO_00365	CDS			hypothetical protein
+PACEHLGO_00365	gene			
+PACEHLGO_00366	CDS	yhhQ		Inner membrane protein YhhQ
+PACEHLGO_00366	gene	yhhQ		
+PACEHLGO_00367	CDS	tgt	2.4.2.29	Queuine tRNA-ribosyltransferase
+PACEHLGO_00367	gene	tgt		
+PACEHLGO_00368	CDS			hypothetical protein
+PACEHLGO_00368	gene			
+PACEHLGO_00369	CDS			hypothetical protein
+PACEHLGO_00369	gene			
+PACEHLGO_00370	CDS			hypothetical protein
+PACEHLGO_00370	gene			
+PACEHLGO_00371	tRNA			tRNA-Arg(cct)
+PACEHLGO_00371	gene			
+PACEHLGO_00372	CDS			hypothetical protein
+PACEHLGO_00372	gene			
+PACEHLGO_00373	CDS	spuE_2		Spermidine-binding periplasmic protein SpuE
+PACEHLGO_00373	gene	spuE_2		
+PACEHLGO_00374	CDS			hypothetical protein
+PACEHLGO_00374	gene			
+PACEHLGO_00375	CDS	msbA	3.6.3.-	Lipid A export ATP-binding/permease protein MsbA
+PACEHLGO_00375	gene	msbA		
+PACEHLGO_00376	CDS			hypothetical protein
+PACEHLGO_00376	gene			
+PACEHLGO_00377	CDS			hypothetical protein
+PACEHLGO_00377	gene			
+PACEHLGO_00378	CDS			hypothetical protein
+PACEHLGO_00378	gene			
+PACEHLGO_00379	CDS	ppdK	2.7.9.1	Pyruvate, phosphate dikinase
+PACEHLGO_00379	gene	ppdK		
+PACEHLGO_00380	CDS			hypothetical protein
+PACEHLGO_00380	gene			
+PACEHLGO_00381	CDS	dgt		Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+PACEHLGO_00381	gene	dgt		
+PACEHLGO_00382	CDS	topA	5.99.1.2	DNA topoisomerase 1
+PACEHLGO_00382	gene	topA		
+PACEHLGO_00383	CDS	cysK1	2.5.1.47	O-acetylserine sulfhydrylase
+PACEHLGO_00383	gene	cysK1		
+PACEHLGO_00384	CDS	cysE	2.3.1.30	Serine acetyltransferase
+PACEHLGO_00384	gene	cysE		
+PACEHLGO_00385	CDS	caeB	3.1.1.-	Carboxylesterase B
+PACEHLGO_00385	gene	caeB		
+PACEHLGO_00386	CDS	oatA_1	2.3.1.-	O-acetyltransferase OatA
+PACEHLGO_00386	gene	oatA_1		
+PACEHLGO_00387	CDS	bpoC_1	1.11.1.18	Putative non-heme bromoperoxidase BpoC
+PACEHLGO_00387	gene	bpoC_1		
+PACEHLGO_00388	CDS	fabG_1	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+PACEHLGO_00388	gene	fabG_1		
+PACEHLGO_00389	CDS	pknB	2.7.11.1	Serine/threonine-protein kinase PknB
+PACEHLGO_00389	gene	pknB		
+PACEHLGO_00390	CDS	trpG	4.1.3.27	Anthranilate synthase component 2
+PACEHLGO_00390	gene	trpG		
+PACEHLGO_00391	CDS			hypothetical protein
+PACEHLGO_00391	gene			
+PACEHLGO_00392	CDS			hypothetical protein
+PACEHLGO_00392	gene			
+PACEHLGO_00393	CDS	crgA		Cell division protein CrgA
+PACEHLGO_00393	gene	crgA		
+PACEHLGO_00394	CDS	rhtA		Threonine/homoserine exporter RhtA
+PACEHLGO_00394	gene	rhtA		
+PACEHLGO_00395	CDS	gluP	3.4.21.105	Rhomboid protease GluP
+PACEHLGO_00395	gene	gluP		
+PACEHLGO_00396	CDS	cypB	5.2.1.8	Peptidyl-prolyl cis-trans isomerase B
+PACEHLGO_00396	gene	cypB		
+PACEHLGO_00397	tRNA			tRNA-Ala(tgc)
+PACEHLGO_00397	gene			
+PACEHLGO_00398	CDS			hypothetical protein
+PACEHLGO_00398	gene			
+PACEHLGO_00399	tRNA			tRNA-Ile(gat)
+PACEHLGO_00399	gene			
+PACEHLGO_00400	CDS			hypothetical protein
+PACEHLGO_00400	gene			
+PACEHLGO_00401	CDS	srrA		Transcriptional regulatory protein SrrA
+PACEHLGO_00401	gene	srrA		
+PACEHLGO_00402	CDS			hypothetical protein
+PACEHLGO_00402	gene			
+PACEHLGO_00403	CDS			hypothetical protein
+PACEHLGO_00403	gene			
+PACEHLGO_00404	CDS			hypothetical protein
+PACEHLGO_00404	gene			
+PACEHLGO_00405	CDS		1.1.1.38	NAD-dependent malic enzyme
+PACEHLGO_00405	gene			
+PACEHLGO_00406	CDS	adhT	1.1.1.1	Alcohol dehydrogenase
+PACEHLGO_00406	gene	adhT		
+PACEHLGO_00407	CDS			hypothetical protein
+PACEHLGO_00407	gene			
+PACEHLGO_00408	CDS	cbpD		Chitin-binding protein CbpD
+PACEHLGO_00408	gene	cbpD		
+PACEHLGO_00409	CDS	chtA	3.2.1.14	Chitinase 63
+PACEHLGO_00409	gene	chtA		
+PACEHLGO_00410	CDS			hypothetical protein
+PACEHLGO_00410	gene			
+PACEHLGO_00411	CDS	ppc	4.1.1.31	Phosphoenolpyruvate carboxylase
+PACEHLGO_00411	gene	ppc		
+PACEHLGO_00412	CDS	tgs1	2.3.1.20	putative diacyglycerol O-acyltransferase tgs1
+PACEHLGO_00412	gene	tgs1		
+PACEHLGO_00413	CDS			hypothetical protein
+PACEHLGO_00413	gene			
+PACEHLGO_00414	CDS			putative ABC transporter ATP-binding protein
+PACEHLGO_00414	gene			
+PACEHLGO_00415	CDS			putative ABC transporter ATP-binding protein
+PACEHLGO_00415	gene			
+PACEHLGO_00416	CDS			hypothetical protein
+PACEHLGO_00416	gene			
+PACEHLGO_00417	CDS			hypothetical protein
+PACEHLGO_00417	gene			
+PACEHLGO_00418	CDS			hypothetical protein
+PACEHLGO_00418	gene			
+PACEHLGO_00419	CDS			hypothetical protein
+PACEHLGO_00419	gene			
+PACEHLGO_00420	CDS			hypothetical protein
+PACEHLGO_00420	gene			
+PACEHLGO_00421	CDS	pmt	2.4.1.109	putative dolichyl-phosphate-mannose--protein mannosyltransferase
+PACEHLGO_00421	gene	pmt		
+PACEHLGO_00422	CDS	hhoB		Putative serine protease HhoB
+PACEHLGO_00422	gene	hhoB		
+PACEHLGO_00423	CDS	tsaA	1.11.1.15	putative peroxiredoxin
+PACEHLGO_00423	gene	tsaA		
+PACEHLGO_00424	CDS	acyI		Acylase ACY 1
+PACEHLGO_00424	gene	acyI		
+PACEHLGO_00425	CDS			hypothetical protein
+PACEHLGO_00425	gene			
+PACEHLGO_00426	CDS	yxeP	3.-.-.-	putative hydrolase YxeP
+PACEHLGO_00426	gene	yxeP		
+PACEHLGO_00427	CDS	icmF		Fused isobutyryl-CoA mutase
+PACEHLGO_00427	gene	icmF		
+PACEHLGO_00428	CDS	yusO		putative HTH-type transcriptional regulator YusO
+PACEHLGO_00428	gene	yusO		
+PACEHLGO_00429	CDS			hypothetical protein
+PACEHLGO_00429	gene			
+PACEHLGO_00430	CDS			hypothetical protein
+PACEHLGO_00430	gene			
+PACEHLGO_00431	CDS			hypothetical protein
+PACEHLGO_00431	gene			
+PACEHLGO_00432	CDS	rplT		50S ribosomal protein L20
+PACEHLGO_00432	gene	rplT		
+PACEHLGO_00433	CDS	rpmI		50S ribosomal protein L35
+PACEHLGO_00433	gene	rpmI		
+PACEHLGO_00434	CDS	infC		Translation initiation factor IF-3
+PACEHLGO_00434	gene	infC		
+PACEHLGO_00435	CDS			hypothetical protein
+PACEHLGO_00435	gene			
+PACEHLGO_00436	CDS	accD3	6.4.1.2	Putative acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+PACEHLGO_00436	gene	accD3		
+PACEHLGO_00437	CDS	pimA	2.4.1.57	Phosphatidyl-myo-inositol mannosyltransferase
+PACEHLGO_00437	gene	pimA		
+PACEHLGO_00438	CDS			hypothetical protein
+PACEHLGO_00438	gene			
+PACEHLGO_00439	CDS	pdxS	4.3.3.6	Pyridoxal 5'-phosphate synthase subunit PdxS
+PACEHLGO_00439	gene	pdxS		
+PACEHLGO_00440	CDS	pdxT	4.3.3.6	Pyridoxal 5'-phosphate synthase subunit PdxT
+PACEHLGO_00440	gene	pdxT		
+PACEHLGO_00441	CDS			putative transcriptional regulatory protein
+PACEHLGO_00441	gene			
+PACEHLGO_00442	CDS			hypothetical protein
+PACEHLGO_00442	gene			
+PACEHLGO_00443	CDS			hypothetical protein
+PACEHLGO_00443	gene			
+PACEHLGO_00444	CDS			hypothetical protein
+PACEHLGO_00444	gene			
+PACEHLGO_00445	CDS	uppP	3.6.1.27	Undecaprenyl-diphosphatase
+PACEHLGO_00445	gene	uppP		
+PACEHLGO_00446	CDS	pspA	3.1.3.3	Phosphoserine phosphatase 1
+PACEHLGO_00446	gene	pspA		
+PACEHLGO_00447	CDS			hypothetical protein
+PACEHLGO_00447	gene			
+PACEHLGO_00448	CDS	mshC	6.3.1.13	L-cysteine:1D-myo-inositol 2-amino-2-deoxy-alpha-D-glucopyranoside ligase
+PACEHLGO_00448	gene	mshC		
+PACEHLGO_00449	CDS		3.5.4.32	8-oxoguanine deaminase
+PACEHLGO_00449	gene			
+PACEHLGO_00450	CDS		1.1.1.343	6-phosphogluconate dehydrogenase, NAD(+)-dependent, decarboxylating
+PACEHLGO_00450	gene			
+PACEHLGO_00451	CDS	cbiQ		Cobalt transport protein CbiQ
+PACEHLGO_00451	gene	cbiQ		
+PACEHLGO_00452	CDS			hypothetical protein
+PACEHLGO_00452	gene			
+PACEHLGO_00453	CDS	nikMN		Fused nickel transport protein NikMN
+PACEHLGO_00453	gene	nikMN		
+PACEHLGO_00454	CDS	bcp	1.11.1.15	Putative peroxiredoxin
+PACEHLGO_00454	gene	bcp		
+PACEHLGO_00455	CDS		1.5.3.6	6-hydroxy-D-nicotine oxidase
+PACEHLGO_00455	gene			
+PACEHLGO_00456	CDS	pipB2_2		Secreted effector protein PipB2
+PACEHLGO_00456	gene	pipB2_2		
+PACEHLGO_00457	tRNA			tRNA-Leu(tag)
+PACEHLGO_00457	gene			
+PACEHLGO_00458	CDS			hypothetical protein
+PACEHLGO_00458	gene			
+PACEHLGO_00459	CDS	xerC_1		Tyrosine recombinase XerC
+PACEHLGO_00459	gene	xerC_1		
+PACEHLGO_00460	CDS	xerC_2		Tyrosine recombinase XerC
+PACEHLGO_00460	gene	xerC_2		
+PACEHLGO_00461	CDS			hypothetical protein
+PACEHLGO_00461	gene			
+PACEHLGO_00462	CDS	tagG_1		Teichoic acid translocation permease protein TagG
+PACEHLGO_00462	gene	tagG_1		
+PACEHLGO_00463	CDS	tagH_1	3.6.3.40	Teichoic acids export ATP-binding protein TagH
+PACEHLGO_00463	gene	tagH_1		
+PACEHLGO_00464	CDS	spsI_1		Bifunctional IPC transferase and DIPP synthase
+PACEHLGO_00464	gene	spsI_1		
+PACEHLGO_00465	CDS			hypothetical protein
+PACEHLGO_00465	gene			
+PACEHLGO_00466	CDS			hypothetical protein
+PACEHLGO_00466	gene			
+PACEHLGO_00467	CDS	mnmC	1.5.-.-	tRNA 5-methylaminomethyl-2-thiouridine biosynthesis bifunctional protein MnmC
+PACEHLGO_00467	gene	mnmC		
+PACEHLGO_00468	CDS			hypothetical protein
+PACEHLGO_00468	gene			
+PACEHLGO_00469	CDS	cmk_1	2.7.4.25	Cytidylate kinase
+PACEHLGO_00469	gene	cmk_1		
+PACEHLGO_00470	CDS	pgm	5.4.2.2	Phosphoglucomutase
+PACEHLGO_00470	gene	pgm		
+PACEHLGO_00471	CDS			hypothetical protein
+PACEHLGO_00471	gene			
+PACEHLGO_00472	CDS			hypothetical protein
+PACEHLGO_00472	gene			
+PACEHLGO_00473	CDS			hypothetical protein
+PACEHLGO_00473	gene			
+PACEHLGO_00474	CDS			hypothetical protein
+PACEHLGO_00474	gene			
+PACEHLGO_00475	CDS			hypothetical protein
+PACEHLGO_00475	gene			
+PACEHLGO_00476	CDS			hypothetical protein
+PACEHLGO_00476	gene			
+PACEHLGO_00477	CDS			hypothetical protein
+PACEHLGO_00477	gene			
+PACEHLGO_00478	CDS			hypothetical protein
+PACEHLGO_00478	gene			
+PACEHLGO_00479	CDS			hypothetical protein
+PACEHLGO_00479	gene			
+PACEHLGO_00480	CDS	potH		Putrescine transport system permease protein PotH
+PACEHLGO_00480	gene	potH		
+PACEHLGO_00481	CDS	ydcV		Inner membrane ABC transporter permease protein YdcV
+PACEHLGO_00481	gene	ydcV		
+PACEHLGO_00482	CDS			hypothetical protein
+PACEHLGO_00482	gene			
+PACEHLGO_00483	CDS	opuCD		Glycine betaine/carnitine/choline transport system permease protein OpuCD
+PACEHLGO_00483	gene	opuCD		
+PACEHLGO_00484	CDS	opuCB		Carnitine transport permease protein OpuCB
+PACEHLGO_00484	gene	opuCB		
+PACEHLGO_00485	CDS	osmX		Osmoprotectant-binding protein OsmX
+PACEHLGO_00485	gene	osmX		
+PACEHLGO_00486	CDS			hypothetical protein
+PACEHLGO_00486	gene			
+PACEHLGO_00487	CDS			hypothetical protein
+PACEHLGO_00487	gene			
+PACEHLGO_00488	CDS			hypothetical protein
+PACEHLGO_00488	gene			
+PACEHLGO_00489	CDS			hypothetical protein
+PACEHLGO_00489	gene			
+PACEHLGO_00490	CDS			hypothetical protein
+PACEHLGO_00490	gene			
+PACEHLGO_00491	CDS			hypothetical protein
+PACEHLGO_00491	gene			
+PACEHLGO_00492	CDS			hypothetical protein
+PACEHLGO_00492	gene			
+PACEHLGO_00493	CDS	panC	6.3.2.1	Pantothenate synthetase
+PACEHLGO_00493	gene	panC		
+PACEHLGO_00494	CDS	nadB	1.4.3.16	L-aspartate oxidase
+PACEHLGO_00494	gene	nadB		
+PACEHLGO_00495	CDS	nadC	2.4.2.19	Nicotinate-nucleotide pyrophosphorylase [carboxylating]
+PACEHLGO_00495	gene	nadC		
+PACEHLGO_00496	CDS	coaX	2.7.1.33	Type III pantothenate kinase
+PACEHLGO_00496	gene	coaX		
+PACEHLGO_00497	CDS	lysS1	6.1.1.6	Lysine--tRNA ligase 1
+PACEHLGO_00497	gene	lysS1		
+PACEHLGO_00498	CDS	hisF	4.1.3.-	Imidazole glycerol phosphate synthase subunit HisF
+PACEHLGO_00498	gene	hisF		
+PACEHLGO_00499	CDS			hypothetical protein
+PACEHLGO_00499	gene			
+PACEHLGO_00500	CDS	hisI	3.5.4.19	Phosphoribosyl-AMP cyclohydrolase
+PACEHLGO_00500	gene	hisI		
+PACEHLGO_00501	CDS	trpE	4.1.3.27	Anthranilate synthase component 1
+PACEHLGO_00501	gene	trpE		
+PACEHLGO_00502	CDS			hypothetical protein
+PACEHLGO_00502	gene			
+PACEHLGO_00503	CDS	phoP_1		Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+PACEHLGO_00503	gene	phoP_1		
+PACEHLGO_00504	CDS			hypothetical protein
+PACEHLGO_00504	gene			
+PACEHLGO_00505	CDS	rpf2	3.-.-.-	Resuscitation-promoting factor Rpf2
+PACEHLGO_00505	gene	rpf2		
+PACEHLGO_00506	CDS	yliI	1.1.5.-	Aldose sugar dehydrogenase YliI
+PACEHLGO_00506	gene	yliI		
+PACEHLGO_00507	CDS			hypothetical protein
+PACEHLGO_00507	gene			
+PACEHLGO_00508	CDS			hypothetical protein
+PACEHLGO_00508	gene			
+PACEHLGO_00509	CDS	nylA_1	3.5.2.12	6-aminohexanoate-cyclic-dimer hydrolase
+PACEHLGO_00509	gene	nylA_1		
+PACEHLGO_00510	CDS			hypothetical protein
+PACEHLGO_00510	gene			
+PACEHLGO_00511	CDS			hypothetical protein
+PACEHLGO_00511	gene			
+PACEHLGO_00512	CDS	gyrB_1	5.99.1.3	DNA gyrase subunit B
+PACEHLGO_00512	gene	gyrB_1		
+PACEHLGO_00513	CDS	mtcA1	4.2.1.1	Beta-carbonic anhydrase 1
+PACEHLGO_00513	gene	mtcA1		
+PACEHLGO_00514	CDS	yumC	1.18.1.2	Ferredoxin--NADP reductase 2
+PACEHLGO_00514	gene	yumC		
+PACEHLGO_00515	CDS			hypothetical protein
+PACEHLGO_00515	gene			
+PACEHLGO_00516	CDS			hypothetical protein
+PACEHLGO_00516	gene			
+PACEHLGO_00517	CDS	glkA	2.7.1.2	Glucokinase
+PACEHLGO_00517	gene	glkA		
+PACEHLGO_00518	CDS			hypothetical protein
+PACEHLGO_00518	gene			
+PACEHLGO_00519	CDS	arsA_1	3.6.3.16	Arsenical pump-driving ATPase
+PACEHLGO_00519	gene	arsA_1		
+PACEHLGO_00520	CDS			hypothetical protein
+PACEHLGO_00520	gene			
+PACEHLGO_00521	CDS			hypothetical protein
+PACEHLGO_00521	gene			
+PACEHLGO_00522	CDS			hypothetical protein
+PACEHLGO_00522	gene			
+PACEHLGO_00523	CDS			hypothetical protein
+PACEHLGO_00523	gene			
+PACEHLGO_00524	CDS		6.2.1.3	Long-chain-fatty-acid--CoA ligase FadD15
+PACEHLGO_00524	gene			
+PACEHLGO_00525	CDS			hypothetical protein
+PACEHLGO_00525	gene			
+PACEHLGO_00526	CDS			hypothetical protein
+PACEHLGO_00526	gene			
+PACEHLGO_00527	CDS			hypothetical protein
+PACEHLGO_00527	gene			
+PACEHLGO_00528	CDS			hypothetical protein
+PACEHLGO_00528	gene			
+PACEHLGO_00529	CDS			hypothetical protein
+PACEHLGO_00529	gene			
+PACEHLGO_00530	CDS	coaBC		Coenzyme A biosynthesis bifunctional protein CoaBC
+PACEHLGO_00530	gene	coaBC		
+PACEHLGO_00531	CDS	rpoZ	2.7.7.6	DNA-directed RNA polymerase subunit omega
+PACEHLGO_00531	gene	rpoZ		
+PACEHLGO_00532	CDS	gmk	2.7.4.8	Guanylate kinase
+PACEHLGO_00532	gene	gmk		
+PACEHLGO_00533	CDS			hypothetical protein
+PACEHLGO_00533	gene			
+PACEHLGO_00534	CDS			hypothetical protein
+PACEHLGO_00534	gene			
+PACEHLGO_00535	CDS	galM	5.1.3.3	Aldose 1-epimerase
+PACEHLGO_00535	gene	galM		
+PACEHLGO_00536	CDS	thpR	3.1.4.-	RNA 2',3'-cyclic phosphodiesterase
+PACEHLGO_00536	gene	thpR		
+PACEHLGO_00537	CDS			hypothetical protein
+PACEHLGO_00537	gene			
+PACEHLGO_00538	CDS	ydhD_1	3.2.-.-	Putative sporulation-specific glycosylase YdhD
+PACEHLGO_00538	gene	ydhD_1		
+PACEHLGO_00539	CDS	f1pep1	3.4.21.26	Prolyl endopeptidase
+PACEHLGO_00539	gene	f1pep1		
+PACEHLGO_00540	CDS			hypothetical protein
+PACEHLGO_00540	gene			
+PACEHLGO_00541	CDS			hypothetical protein
+PACEHLGO_00541	gene			
+PACEHLGO_00542	CDS	luxA	1.14.14.3	Alkanal monooxygenase alpha chain
+PACEHLGO_00542	gene	luxA		
+PACEHLGO_00543	CDS			hypothetical protein
+PACEHLGO_00543	gene			
+PACEHLGO_00544	CDS			hypothetical protein
+PACEHLGO_00544	gene			
+PACEHLGO_00545	CDS	fadM	1.5.5.2	Proline dehydrogenase 1
+PACEHLGO_00545	gene	fadM		
+PACEHLGO_00546	CDS			hypothetical protein
+PACEHLGO_00546	gene			
+PACEHLGO_00547	CDS			hypothetical protein
+PACEHLGO_00547	gene			
+PACEHLGO_00548	CDS	ctpE	3.6.3.-	putative cation-transporting ATPase E
+PACEHLGO_00548	gene	ctpE		
+PACEHLGO_00549	CDS	ppx	3.6.1.11	Exopolyphosphatase
+PACEHLGO_00549	gene	ppx		
+PACEHLGO_00550	CDS			hypothetical protein
+PACEHLGO_00550	gene			
+PACEHLGO_00551	CDS			hypothetical protein
+PACEHLGO_00551	gene			
+PACEHLGO_00552	CDS	ydfJ_1		Membrane protein YdfJ
+PACEHLGO_00552	gene	ydfJ_1		
+PACEHLGO_00553	CDS			hypothetical protein
+PACEHLGO_00553	gene			
+PACEHLGO_00554	CDS			hypothetical protein
+PACEHLGO_00554	gene			
+PACEHLGO_00555	CDS			hypothetical protein
+PACEHLGO_00555	gene			
+PACEHLGO_00556	CDS	dnaK		Chaperone protein DnaK
+PACEHLGO_00556	gene	dnaK		
+PACEHLGO_00557	CDS	grpE		Protein GrpE
+PACEHLGO_00557	gene	grpE		
+PACEHLGO_00558	CDS	dnaJ1_1		Chaperone protein DnaJ 1
+PACEHLGO_00558	gene	dnaJ1_1		
+PACEHLGO_00559	CDS	hspR		Putative heat shock protein HspR
+PACEHLGO_00559	gene	hspR		
+PACEHLGO_00560	CDS	clpB		Chaperone protein ClpB
+PACEHLGO_00560	gene	clpB		
+PACEHLGO_00561	CDS	aqpZ		Aquaporin Z
+PACEHLGO_00561	gene	aqpZ		
+PACEHLGO_00562	CDS	arsC1	2.8.4.2	Arsenate-mycothiol transferase ArsC1
+PACEHLGO_00562	gene	arsC1		
+PACEHLGO_00563	CDS			hypothetical protein
+PACEHLGO_00563	gene			
+PACEHLGO_00564	CDS	dapC	2.6.1.17	putative N-succinyldiaminopimelate aminotransferase DapC
+PACEHLGO_00564	gene	dapC		
+PACEHLGO_00565	CDS	glpD	1.1.5.3	Aerobic glycerol-3-phosphate dehydrogenase
+PACEHLGO_00565	gene	glpD		
+PACEHLGO_00566	CDS	fabG_2	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase
+PACEHLGO_00566	gene	fabG_2		
+PACEHLGO_00567	CDS			hypothetical protein
+PACEHLGO_00567	gene			
+PACEHLGO_00568	CDS			hypothetical protein
+PACEHLGO_00568	gene			
+PACEHLGO_00569	tRNA			tRNA-Met(cat)
+PACEHLGO_00569	gene			
+PACEHLGO_00570	CDS			hypothetical protein
+PACEHLGO_00570	gene			
+PACEHLGO_00571	tRNA			tRNA-Asn(gtt)
+PACEHLGO_00571	gene			
+PACEHLGO_00572	CDS	cshA_1	3.6.4.13	DEAD-box ATP-dependent RNA helicase CshA
+PACEHLGO_00572	gene	cshA_1		
+PACEHLGO_00573	CDS			hypothetical protein
+PACEHLGO_00573	gene			
+PACEHLGO_00574	CDS	hrcA		Heat-inducible transcription repressor HrcA
+PACEHLGO_00574	gene	hrcA		
+PACEHLGO_00575	CDS	dnaJ2		Chaperone protein DnaJ 2
+PACEHLGO_00575	gene	dnaJ2		
+PACEHLGO_00576	CDS	rsmE	2.1.1.193	Ribosomal RNA small subunit methyltransferase E
+PACEHLGO_00576	gene	rsmE		
+PACEHLGO_00577	CDS	hinT	3.9.1.-	Purine nucleoside phosphoramidase
+PACEHLGO_00577	gene	hinT		
+PACEHLGO_00578	CDS			PhoH-like protein
+PACEHLGO_00578	gene			
+PACEHLGO_00579	CDS	ybeY	3.1.-.-	Endoribonuclease YbeY
+PACEHLGO_00579	gene	ybeY		
+PACEHLGO_00580	CDS			DegV domain-containing protein/cg2579
+PACEHLGO_00580	gene			
+PACEHLGO_00581	CDS	plsY	2.3.1.-	Glycerol-3-phosphate acyltransferase
+PACEHLGO_00581	gene	plsY		
+PACEHLGO_00582	CDS	pipB2_3		Secreted effector protein PipB2
+PACEHLGO_00582	gene	pipB2_3		
+PACEHLGO_00583	CDS			hypothetical protein
+PACEHLGO_00583	gene			
+PACEHLGO_00584	CDS			hypothetical protein
+PACEHLGO_00584	gene			
+PACEHLGO_00585	CDS	pipB2_4		Secreted effector protein PipB2
+PACEHLGO_00585	gene	pipB2_4		
+PACEHLGO_00586	CDS	comEA		ComE operon protein 1
+PACEHLGO_00586	gene	comEA		
+PACEHLGO_00587	CDS	comEC		ComE operon protein 3
+PACEHLGO_00587	gene	comEC		
+PACEHLGO_00588	CDS			hypothetical protein
+PACEHLGO_00588	gene			
+PACEHLGO_00589	CDS			hypothetical protein
+PACEHLGO_00589	gene			
+PACEHLGO_00590	CDS			hypothetical protein
+PACEHLGO_00590	gene			
+PACEHLGO_00591	CDS			hypothetical protein
+PACEHLGO_00591	gene			
+PACEHLGO_00592	CDS			hypothetical protein
+PACEHLGO_00592	gene			
+PACEHLGO_00593	CDS			hypothetical protein
+PACEHLGO_00593	gene			
+PACEHLGO_00594	CDS			hypothetical protein
+PACEHLGO_00594	gene			
+PACEHLGO_00595	CDS			hypothetical protein
+PACEHLGO_00595	gene			
+PACEHLGO_00596	CDS			hypothetical protein
+PACEHLGO_00596	gene			
+PACEHLGO_00597	CDS			hypothetical protein
+PACEHLGO_00597	gene			
+PACEHLGO_00598	CDS			hypothetical protein
+PACEHLGO_00598	gene			
+PACEHLGO_00599	CDS	ppiB	5.2.1.8	putative peptidyl-prolyl cis-trans isomerase B
+PACEHLGO_00599	gene	ppiB		
+PACEHLGO_00600	CDS			hypothetical protein
+PACEHLGO_00600	gene			
+PACEHLGO_00601	CDS			hypothetical protein
+PACEHLGO_00601	gene			
+PACEHLGO_00602	CDS	fadJ		Fatty acid oxidation complex subunit alpha
+PACEHLGO_00602	gene	fadJ		
+PACEHLGO_00603	CDS	aprX	3.4.21.-	Serine protease AprX
+PACEHLGO_00603	gene	aprX		
+PACEHLGO_00604	CDS	srrB	2.7.13.3	Sensor protein SrrB
+PACEHLGO_00604	gene	srrB		
+PACEHLGO_00605	CDS	phoP_2		Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+PACEHLGO_00605	gene	phoP_2		
+PACEHLGO_00606	CDS			hypothetical protein
+PACEHLGO_00606	gene			
+PACEHLGO_00607	CDS	nadA	2.5.1.72	Quinolinate synthase A
+PACEHLGO_00607	gene	nadA		
+PACEHLGO_00608	CDS	erpA		Iron-sulfur cluster insertion protein ErpA
+PACEHLGO_00608	gene	erpA		
+PACEHLGO_00609	CDS	adoK	2.7.1.20	Adenosine kinase
+PACEHLGO_00609	gene	adoK		
+PACEHLGO_00610	CDS	aat	2.3.2.6	Leucyl/phenylalanyl-tRNA--protein transferase
+PACEHLGO_00610	gene	aat		
+PACEHLGO_00611	CDS	tusA	2.8.1.-	Sulfurtransferase TusA
+PACEHLGO_00611	gene	tusA		
+PACEHLGO_00612	CDS	iscS	2.8.1.7	IscS-like cysteine desulfurase
+PACEHLGO_00612	gene	iscS		
+PACEHLGO_00613	CDS	ctaC	1.9.3.1	Cytochrome c oxidase subunit 2
+PACEHLGO_00613	gene	ctaC		
+PACEHLGO_00614	CDS	ctaD	1.9.3.1	putative cytochrome c oxidase subunit 1
+PACEHLGO_00614	gene	ctaD		
+PACEHLGO_00615	CDS	ctaF	1.9.3.1	Cytochrome c oxidase polypeptide 4
+PACEHLGO_00615	gene	ctaF		
+PACEHLGO_00616	CDS	ldtB	2.3.2.-	L,D-transpeptidase 2
+PACEHLGO_00616	gene	ldtB		
+PACEHLGO_00617	CDS			hypothetical protein
+PACEHLGO_00617	gene			
+PACEHLGO_00618	CDS			hypothetical protein
+PACEHLGO_00618	gene			
+PACEHLGO_00619	CDS			hypothetical protein
+PACEHLGO_00619	gene			
+PACEHLGO_00620	CDS			hypothetical protein
+PACEHLGO_00620	gene			
+PACEHLGO_00621	CDS	mrp		Iron-sulfur cluster carrier protein
+PACEHLGO_00621	gene	mrp		
+PACEHLGO_00622	CDS			hypothetical protein
+PACEHLGO_00622	gene			
+PACEHLGO_00623	CDS			Magnesium transporter MgtE
+PACEHLGO_00623	gene			
+PACEHLGO_00624	CDS			hypothetical protein
+PACEHLGO_00624	gene			
+PACEHLGO_00625	CDS			hypothetical protein
+PACEHLGO_00625	gene			
+PACEHLGO_00626	CDS	mcl1	4.1.3.24	L-malyl-CoA/beta-methylmalyl-CoA lyase
+PACEHLGO_00626	gene	mcl1		
+PACEHLGO_00627	CDS	yedK	3.4.-.-	Putative SOS response-associated peptidase YedK
+PACEHLGO_00627	gene	yedK		
+PACEHLGO_00628	CDS	bacC	1.1.1.385	Dihydroanticapsin 7-dehydrogenase
+PACEHLGO_00628	gene	bacC		
+PACEHLGO_00629	CDS			hypothetical protein
+PACEHLGO_00629	gene			
+PACEHLGO_00630	CDS	sigR		ECF RNA polymerase sigma factor SigR
+PACEHLGO_00630	gene	sigR		
+PACEHLGO_00631	CDS	rsrA		Anti-sigma factor RsrA
+PACEHLGO_00631	gene	rsrA		
+PACEHLGO_00632	CDS	pilT_1		Twitching mobility protein
+PACEHLGO_00632	gene	pilT_1		
+PACEHLGO_00633	CDS	flK	3.1.2.29	Fluoroacetyl-CoA thioesterase
+PACEHLGO_00633	gene	flK		
+PACEHLGO_00634	CDS	ilvG	2.2.1.6	Acetolactate synthase large subunit IlvG
+PACEHLGO_00634	gene	ilvG		
+PACEHLGO_00635	CDS	dcsG	6.3.3.5	Cycloserine biosynthesis protein DcsG
+PACEHLGO_00635	gene	dcsG		
+PACEHLGO_00636	CDS	pdtaS	2.7.13.3	putative sensor histidine kinase pdtaS
+PACEHLGO_00636	gene	pdtaS		
+PACEHLGO_00637	CDS	whiB1		Transcriptional regulator WhiB1
+PACEHLGO_00637	gene	whiB1		
+PACEHLGO_00638	CDS	tsf		Elongation factor Ts
+PACEHLGO_00638	gene	tsf		
+PACEHLGO_00639	CDS	rpsB		30S ribosomal protein S2
+PACEHLGO_00639	gene	rpsB		
+PACEHLGO_00640	CDS			hypothetical protein
+PACEHLGO_00640	gene			
+PACEHLGO_00641	CDS	fliA		RNA polymerase sigma factor FliA
+PACEHLGO_00641	gene	fliA		
+PACEHLGO_00642	CDS			hypothetical protein
+PACEHLGO_00642	gene			
+PACEHLGO_00643	CDS		4.2.1.96	Putative pterin-4-alpha-carbinolamine dehydratase
+PACEHLGO_00643	gene			
+PACEHLGO_00644	CDS		1.3.1.-	Putative trans-acting enoyl reductase
+PACEHLGO_00644	gene			
+PACEHLGO_00645	CDS	typA		GTP-binding protein TypA/BipA
+PACEHLGO_00645	gene	typA		
+PACEHLGO_00646	CDS			hypothetical protein
+PACEHLGO_00646	gene			
+PACEHLGO_00647	CDS	stp_2		Multidrug resistance protein Stp
+PACEHLGO_00647	gene	stp_2		
+PACEHLGO_00648	CDS			hypothetical protein
+PACEHLGO_00648	gene			
+PACEHLGO_00649	CDS			hypothetical protein
+PACEHLGO_00649	gene			
+PACEHLGO_00650	CDS			hypothetical protein
+PACEHLGO_00650	gene			
+PACEHLGO_00651	CDS			putative NTE family protein
+PACEHLGO_00651	gene			
+PACEHLGO_00652	CDS			hypothetical protein
+PACEHLGO_00652	gene			
+PACEHLGO_00653	CDS	yidH		Inner membrane protein YidH
+PACEHLGO_00653	gene	yidH		
+PACEHLGO_00654	CDS		2.7.1.-	Putative aminoglycoside phosphotransferase
+PACEHLGO_00654	gene			
+PACEHLGO_00655	CDS	acrC	1.3.1.95	Acryloyl-CoA reductase (NADH)
+PACEHLGO_00655	gene	acrC		
+PACEHLGO_00656	CDS	cydA	1.10.3.-	Cytochrome bd ubiquinol oxidase subunit 1
+PACEHLGO_00656	gene	cydA		
+PACEHLGO_00657	CDS	cydB	1.10.3.14	Cytochrome bd-I ubiquinol oxidase subunit 2
+PACEHLGO_00657	gene	cydB		
+PACEHLGO_00658	CDS	pspB	3.1.3.3	Putative phosphoserine phosphatase 2
+PACEHLGO_00658	gene	pspB		
+PACEHLGO_00659	CDS			hypothetical protein
+PACEHLGO_00659	gene			
+PACEHLGO_00660	CDS			hypothetical protein
+PACEHLGO_00660	gene			
+PACEHLGO_00661	CDS	recX		Regulatory protein RecX
+PACEHLGO_00661	gene	recX		
+PACEHLGO_00662	CDS	recA		Protein RecA
+PACEHLGO_00662	gene	recA		
+PACEHLGO_00663	CDS			hypothetical protein
+PACEHLGO_00663	gene			
+PACEHLGO_00664	CDS	helY	3.6.4.-	putative helicase HelY
+PACEHLGO_00664	gene	helY		
+PACEHLGO_00665	CDS			hypothetical protein
+PACEHLGO_00665	gene			
+PACEHLGO_00666	CDS	clgR		Transcriptional regulator ClgR
+PACEHLGO_00666	gene	clgR		
+PACEHLGO_00667	CDS	cinA		CinA-like protein
+PACEHLGO_00667	gene	cinA		
+PACEHLGO_00668	CDS	pgsA2	2.7.8.5	Putative CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyl-transferase 2
+PACEHLGO_00668	gene	pgsA2		
+PACEHLGO_00669	CDS	rimO	2.8.4.4	Ribosomal protein S12 methylthiotransferase RimO
+PACEHLGO_00669	gene	rimO		
+PACEHLGO_00670	CDS	ftsK		DNA translocase FtsK
+PACEHLGO_00670	gene	ftsK		
+PACEHLGO_00671	CDS	rnj	3.1.-.-	Ribonuclease J
+PACEHLGO_00671	gene	rnj		
+PACEHLGO_00672	CDS	dapA	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+PACEHLGO_00672	gene	dapA		
+PACEHLGO_00673	CDS			hypothetical protein
+PACEHLGO_00673	gene			
+PACEHLGO_00674	CDS	thyX	2.1.1.148	Flavin-dependent thymidylate synthase
+PACEHLGO_00674	gene	thyX		
+PACEHLGO_00675	CDS			hypothetical protein
+PACEHLGO_00675	gene			
+PACEHLGO_00676	CDS		1.-.-.-	putative FAD-linked oxidoreductase
+PACEHLGO_00676	gene			
+PACEHLGO_00677	CDS			hypothetical protein
+PACEHLGO_00677	gene			
+PACEHLGO_00678	CDS	oatA_2	2.3.1.-	O-acetyltransferase OatA
+PACEHLGO_00678	gene	oatA_2		
+PACEHLGO_00679	CDS			hypothetical protein
+PACEHLGO_00679	gene			
+PACEHLGO_00680	CDS	uvrB		UvrABC system protein B
+PACEHLGO_00680	gene	uvrB		
+PACEHLGO_00681	CDS	rplB		50S ribosomal protein L2
+PACEHLGO_00681	gene	rplB		
+PACEHLGO_00682	CDS	rplW		50S ribosomal protein L23
+PACEHLGO_00682	gene	rplW		
+PACEHLGO_00683	CDS	rplD		50S ribosomal protein L4
+PACEHLGO_00683	gene	rplD		
+PACEHLGO_00684	CDS	rplC		50S ribosomal protein L3
+PACEHLGO_00684	gene	rplC		
+PACEHLGO_00685	CDS	rpsJ		30S ribosomal protein S10
+PACEHLGO_00685	gene	rpsJ		
+PACEHLGO_00686	CDS	tuf		Elongation factor Tu
+PACEHLGO_00686	gene	tuf		
+PACEHLGO_00687	CDS	fusA		Elongation factor G
+PACEHLGO_00687	gene	fusA		
+PACEHLGO_00688	CDS	rpsG		30S ribosomal protein S7
+PACEHLGO_00688	gene	rpsG		
+PACEHLGO_00689	CDS	rpsL		30S ribosomal protein S12
+PACEHLGO_00689	gene	rpsL		
+PACEHLGO_00690	CDS	qorA	1.6.5.5	Quinone oxidoreductase 1
+PACEHLGO_00690	gene	qorA		
+PACEHLGO_00691	CDS	kch		Voltage-gated potassium channel Kch
+PACEHLGO_00691	gene	kch		
+PACEHLGO_00692	CDS	rpoC	2.7.7.6	DNA-directed RNA polymerase subunit beta'
+PACEHLGO_00692	gene	rpoC		
+PACEHLGO_00693	CDS			hypothetical protein
+PACEHLGO_00693	gene			
+PACEHLGO_00694	CDS			hypothetical protein
+PACEHLGO_00694	gene			
+PACEHLGO_00695	CDS			hypothetical protein
+PACEHLGO_00695	gene			
+PACEHLGO_00696	CDS			hypothetical protein
+PACEHLGO_00696	gene			
+PACEHLGO_00697	CDS		3.5.1.111	2-oxoglutaramate amidase
+PACEHLGO_00697	gene			
+PACEHLGO_00698	CDS	stp_3		Multidrug resistance protein Stp
+PACEHLGO_00698	gene	stp_3		
+PACEHLGO_00699	CDS	galE_1	5.1.3.2	UDP-glucose 4-epimerase
+PACEHLGO_00699	gene	galE_1		
+PACEHLGO_00700	CDS			hypothetical protein
+PACEHLGO_00700	gene			
+PACEHLGO_00701	CDS	ftsH_1	3.4.24.-	ATP-dependent zinc metalloprotease FtsH
+PACEHLGO_00701	gene	ftsH_1		
+PACEHLGO_00702	CDS	yrbG		Inner membrane protein YrbG
+PACEHLGO_00702	gene	yrbG		
+PACEHLGO_00703	CDS	purS	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurS
+PACEHLGO_00703	gene	purS		
+PACEHLGO_00704	CDS	purQ	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurQ
+PACEHLGO_00704	gene	purQ		
+PACEHLGO_00705	CDS			hypothetical protein
+PACEHLGO_00705	gene			
+PACEHLGO_00706	CDS	gyrA	5.99.1.3	DNA gyrase subunit A
+PACEHLGO_00706	gene	gyrA		
+PACEHLGO_00707	CDS	gltA2	2.3.3.16	Citrate synthase 1
+PACEHLGO_00707	gene	gltA2		
+PACEHLGO_00708	CDS			hypothetical protein
+PACEHLGO_00708	gene			
+PACEHLGO_00709	CDS	dapD	2.3.1.117	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+PACEHLGO_00709	gene	dapD		
+PACEHLGO_00710	CDS	dapE_1	3.5.1.18	Putative succinyl-diaminopimelate desuccinylase DapE
+PACEHLGO_00710	gene	dapE_1		
+PACEHLGO_00711	CDS	yvdD		LOG family protein YvdD
+PACEHLGO_00711	gene	yvdD		
+PACEHLGO_00712	CDS			hypothetical protein
+PACEHLGO_00712	gene			
+PACEHLGO_00713	CDS	pepA_1	3.4.11.1	Cytosol aminopeptidase
+PACEHLGO_00713	gene	pepA_1		
+PACEHLGO_00714	CDS			hypothetical protein
+PACEHLGO_00714	gene			
+PACEHLGO_00715	CDS		2.1.1.-	Putative O-methyltransferase
+PACEHLGO_00715	gene			
+PACEHLGO_00716	CDS	htrA		Putative serine protease HtrA
+PACEHLGO_00716	gene	htrA		
+PACEHLGO_00717	CDS	tatB_2		Sec-independent protein translocase protein TatB
+PACEHLGO_00717	gene	tatB_2		
+PACEHLGO_00718	CDS	plsB1		Putative acyltransferase plsB1
+PACEHLGO_00718	gene	plsB1		
+PACEHLGO_00719	CDS		3.1.3.-	putative phosphatase
+PACEHLGO_00719	gene			
+PACEHLGO_00720	CDS	priA_2	5.3.1.16	Phosphoribosyl isomerase A
+PACEHLGO_00720	gene	priA_2		
+PACEHLGO_00721	CDS			hypothetical protein
+PACEHLGO_00721	gene			
+PACEHLGO_00722	CDS			hypothetical protein
+PACEHLGO_00722	gene			
+PACEHLGO_00723	CDS		2.3.1.-	putative N-acetyltransferase
+PACEHLGO_00723	gene			
+PACEHLGO_00724	CDS			hypothetical protein
+PACEHLGO_00724	gene			
+PACEHLGO_00725	CDS	tqsA		AI-2 transport protein TqsA
+PACEHLGO_00725	gene	tqsA		
+PACEHLGO_00726	CDS	fda	4.1.2.13	Fructose-bisphosphate aldolase class 1
+PACEHLGO_00726	gene	fda		
+PACEHLGO_00727	tRNA			tRNA-Leu(cag)
+PACEHLGO_00727	gene			
+PACEHLGO_00728	CDS	fhaA		FHA domain-containing protein FhaA
+PACEHLGO_00728	gene	fhaA		
+PACEHLGO_00729	CDS	fhaB		FHA domain-containing protein FhaB
+PACEHLGO_00729	gene	fhaB		
+PACEHLGO_00730	CDS			hypothetical protein
+PACEHLGO_00730	gene			
+PACEHLGO_00731	CDS			hypothetical protein
+PACEHLGO_00731	gene			
+PACEHLGO_00732	CDS			hypothetical protein
+PACEHLGO_00732	gene			
+PACEHLGO_00733	CDS	liaS	2.7.13.3	Sensor histidine kinase LiaS
+PACEHLGO_00733	gene	liaS		
+PACEHLGO_00734	CDS	liaR_1		Transcriptional regulatory protein LiaR
+PACEHLGO_00734	gene	liaR_1		
+PACEHLGO_00735	CDS			putative multidrug-efflux transporter
+PACEHLGO_00735	gene			
+PACEHLGO_00736	CDS			hypothetical protein
+PACEHLGO_00736	gene			
+PACEHLGO_00737	CDS		2.3.1.20	Putative diacyglycerol O-acyltransferase
+PACEHLGO_00737	gene			
+PACEHLGO_00738	CDS			hypothetical protein
+PACEHLGO_00738	gene			
+PACEHLGO_00739	CDS	epsL	2.-.-.-	putative sugar transferase EpsL
+PACEHLGO_00739	gene	epsL		
+PACEHLGO_00740	CDS	rmlC_1	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+PACEHLGO_00740	gene	rmlC_1		
+PACEHLGO_00741	CDS	rmlA	2.7.7.24	Glucose-1-phosphate thymidylyltransferase
+PACEHLGO_00741	gene	rmlA		
+PACEHLGO_00742	CDS	pimB	2.4.1.57	GDP-mannose-dependent alpha-(1-6)-phosphatidylinositol monomannoside mannosyltransferase
+PACEHLGO_00742	gene	pimB		
+PACEHLGO_00743	CDS			hypothetical protein
+PACEHLGO_00743	gene			
+PACEHLGO_00744	CDS			hypothetical protein
+PACEHLGO_00744	gene			
+PACEHLGO_00745	CDS	wecG	2.4.1.180	UDP-N-acetyl-D-mannosaminuronic acid transferase
+PACEHLGO_00745	gene	wecG		
+PACEHLGO_00746	CDS	ecfA3	3.6.3.-	Energy-coupling factor transporter ATP-binding protein EcfA3
+PACEHLGO_00746	gene	ecfA3		
+PACEHLGO_00747	CDS			hypothetical protein
+PACEHLGO_00747	gene			
+PACEHLGO_00748	CDS	groS5		10 kDa chaperonin 5
+PACEHLGO_00748	gene	groS5		
+PACEHLGO_00749	CDS	acsA_2	6.2.1.1	Acetyl-coenzyme A synthetase
+PACEHLGO_00749	gene	acsA_2		
+PACEHLGO_00750	CDS			hypothetical protein
+PACEHLGO_00750	gene			
+PACEHLGO_00751	tRNA			tRNA-Lys(ctt)
+PACEHLGO_00751	gene			
+PACEHLGO_00752	CDS	kipA		KipI antagonist
+PACEHLGO_00752	gene	kipA		
+PACEHLGO_00753	CDS	kipI		Kinase A inhibitor
+PACEHLGO_00753	gene	kipI		
+PACEHLGO_00754	CDS			hypothetical protein
+PACEHLGO_00754	gene			
+PACEHLGO_00755	CDS			hypothetical protein
+PACEHLGO_00755	gene			
+PACEHLGO_00756	CDS	ung_1	3.2.2.27	Uracil-DNA glycosylase
+PACEHLGO_00756	gene	ung_1		
+PACEHLGO_00757	CDS		1.14.13.106	Epi-isozizaene 5-monooxygenase/(E)-beta-farnesene synthase
+PACEHLGO_00757	gene			
+PACEHLGO_00758	CDS	guaB_1	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+PACEHLGO_00758	gene	guaB_1		
+PACEHLGO_00759	CDS	hisN_1	3.1.3.15	Histidinol-phosphatase
+PACEHLGO_00759	gene	hisN_1		
+PACEHLGO_00760	CDS			hypothetical protein
+PACEHLGO_00760	gene			
+PACEHLGO_00761	CDS	gyrB_2	5.99.1.3	DNA gyrase subunit B
+PACEHLGO_00761	gene	gyrB_2		
+PACEHLGO_00762	CDS	uvrD	3.6.4.12	DNA helicase II
+PACEHLGO_00762	gene	uvrD		
+PACEHLGO_00763	CDS	pcrA	3.6.4.12	ATP-dependent DNA helicase PcrA
+PACEHLGO_00763	gene	pcrA		
+PACEHLGO_00764	CDS	nudC	3.6.1.22	NADH pyrophosphatase
+PACEHLGO_00764	gene	nudC		
+PACEHLGO_00765	CDS	uvrD2	3.6.4.12	ATP-dependent DNA helicase UvrD2
+PACEHLGO_00765	gene	uvrD2		
+PACEHLGO_00766	CDS	ubiB	2.7.-.-	putative protein kinase UbiB
+PACEHLGO_00766	gene	ubiB		
+PACEHLGO_00767	CDS	glpF		Glycerol uptake facilitator protein
+PACEHLGO_00767	gene	glpF		
+PACEHLGO_00768	CDS	yhdG		putative amino acid permease YhdG
+PACEHLGO_00768	gene	yhdG		
+PACEHLGO_00769	CDS			hypothetical protein
+PACEHLGO_00769	gene			
+PACEHLGO_00770	CDS	argA	2.3.1.1	Amino-acid acetyltransferase
+PACEHLGO_00770	gene	argA		
+PACEHLGO_00771	CDS	lsr2		Nucleoid-associated protein Lsr2
+PACEHLGO_00771	gene	lsr2		
+PACEHLGO_00772	CDS	glgM	2.4.1.-	Alpha-maltose-1-phosphate synthase
+PACEHLGO_00772	gene	glgM		
+PACEHLGO_00773	CDS			hypothetical protein
+PACEHLGO_00773	gene			
+PACEHLGO_00774	CDS	glgC	2.7.7.27	Glucose-1-phosphate adenylyltransferase
+PACEHLGO_00774	gene	glgC		
+PACEHLGO_00775	CDS	ephD	1.-.-.-	putative oxidoreductase EphD
+PACEHLGO_00775	gene	ephD		
+PACEHLGO_00776	CDS			hypothetical protein
+PACEHLGO_00776	gene			
+PACEHLGO_00777	CDS			hypothetical protein
+PACEHLGO_00777	gene			
+PACEHLGO_00778	CDS	ppgK_1	2.7.1.63	Polyphosphate glucokinase
+PACEHLGO_00778	gene	ppgK_1		
+PACEHLGO_00779	CDS			hypothetical protein
+PACEHLGO_00779	gene			
+PACEHLGO_00780	CDS	wbpD_1	2.3.1.201	UDP-2-acetamido-3-amino-2,3-dideoxy-D-glucuronate N-acetyltransferase
+PACEHLGO_00780	gene	wbpD_1		
+PACEHLGO_00781	CDS			hypothetical protein
+PACEHLGO_00781	gene			
+PACEHLGO_00782	CDS			hypothetical protein
+PACEHLGO_00782	gene			
+PACEHLGO_00783	CDS			hypothetical protein
+PACEHLGO_00783	gene			
+PACEHLGO_00784	CDS			hypothetical protein
+PACEHLGO_00784	gene			
+PACEHLGO_00785	CDS	dnaX	2.7.7.7	DNA polymerase III subunit gamma/tau
+PACEHLGO_00785	gene	dnaX		
+PACEHLGO_00786	CDS	tmk	2.7.4.9	Thymidylate kinase
+PACEHLGO_00786	gene	tmk		
+PACEHLGO_00787	CDS	pepE	3.4.13.-	putative dipeptidase PepE
+PACEHLGO_00787	gene	pepE		
+PACEHLGO_00788	CDS	mmgC_1	1.3.99.-	Acyl-CoA dehydrogenase
+PACEHLGO_00788	gene	mmgC_1		
+PACEHLGO_00789	CDS			hypothetical protein
+PACEHLGO_00789	gene			
+PACEHLGO_00790	CDS	tam	2.1.1.144	Trans-aconitate 2-methyltransferase
+PACEHLGO_00790	gene	tam		
+PACEHLGO_00791	CDS			hypothetical protein
+PACEHLGO_00791	gene			
+PACEHLGO_00792	CDS			hypothetical protein
+PACEHLGO_00792	gene			
+PACEHLGO_00793	CDS	zur		Zinc uptake regulation protein
+PACEHLGO_00793	gene	zur		
+PACEHLGO_00794	CDS	glnA_1	6.3.1.2	Glutamine synthetase
+PACEHLGO_00794	gene	glnA_1		
+PACEHLGO_00795	CDS			hypothetical protein
+PACEHLGO_00795	gene			
+PACEHLGO_00796	CDS	ribE	2.5.1.9	Riboflavin synthase
+PACEHLGO_00796	gene	ribE		
+PACEHLGO_00797	CDS	ribBA		Riboflavin biosynthesis protein RibBA
+PACEHLGO_00797	gene	ribBA		
+PACEHLGO_00798	CDS	ribH	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+PACEHLGO_00798	gene	ribH		
+PACEHLGO_00799	CDS	hisE	3.6.1.31	Phosphoribosyl-ATP pyrophosphatase
+PACEHLGO_00799	gene	hisE		
+PACEHLGO_00800	CDS	hisG	2.4.2.17	ATP phosphoribosyltransferase
+PACEHLGO_00800	gene	hisG		
+PACEHLGO_00801	CDS			hypothetical protein
+PACEHLGO_00801	gene			
+PACEHLGO_00802	CDS	caeA	3.1.1.-	Carboxylesterase A
+PACEHLGO_00802	gene	caeA		
+PACEHLGO_00803	CDS			hypothetical protein
+PACEHLGO_00803	gene			
+PACEHLGO_00804	CDS	hxcR		putative type II secretion system protein HxcR
+PACEHLGO_00804	gene	hxcR		
+PACEHLGO_00805	CDS	pilT_2		Twitching mobility protein
+PACEHLGO_00805	gene	pilT_2		
+PACEHLGO_00806	CDS	epsF		Type II secretion system protein F
+PACEHLGO_00806	gene	epsF		
+PACEHLGO_00807	CDS	clpP1	3.4.21.92	ATP-dependent Clp protease proteolytic subunit 1
+PACEHLGO_00807	gene	clpP1		
+PACEHLGO_00808	CDS	clpP2	3.4.21.92	ATP-dependent Clp protease proteolytic subunit 2
+PACEHLGO_00808	gene	clpP2		
+PACEHLGO_00809	CDS	clpX		ATP-dependent Clp protease ATP-binding subunit ClpX
+PACEHLGO_00809	gene	clpX		
+PACEHLGO_00810	CDS			hypothetical protein
+PACEHLGO_00810	gene			
+PACEHLGO_00811	CDS	valS	6.1.1.9	Valine--tRNA ligase
+PACEHLGO_00811	gene	valS		
+PACEHLGO_00812	CDS			hypothetical protein
+PACEHLGO_00812	gene			
+PACEHLGO_00813	CDS	sufU	2.-.-.-	Zinc-dependent sulfurtransferase SufU
+PACEHLGO_00813	gene	sufU		
+PACEHLGO_00814	CDS	csd_1	2.8.1.7	putative cysteine desulfurase
+PACEHLGO_00814	gene	csd_1		
+PACEHLGO_00815	CDS	bioY2		Biotin transporter BioY2
+PACEHLGO_00815	gene	bioY2		
+PACEHLGO_00816	CDS	rutD	3.5.1.-	Putative aminoacrylate hydrolase RutD
+PACEHLGO_00816	gene	rutD		
+PACEHLGO_00817	CDS			hypothetical protein
+PACEHLGO_00817	gene			
+PACEHLGO_00818	CDS			hypothetical protein
+PACEHLGO_00818	gene			
+PACEHLGO_00819	CDS	aceE	1.2.4.1	Pyruvate dehydrogenase E1 component
+PACEHLGO_00819	gene	aceE		
+PACEHLGO_00820	CDS			hypothetical protein
+PACEHLGO_00820	gene			
+PACEHLGO_00821	CDS		1.11.1.15	Putative peroxiredoxin
+PACEHLGO_00821	gene			
+PACEHLGO_00822	tRNA			tRNA-Val(tac)
+PACEHLGO_00822	gene			
+PACEHLGO_00823	CDS	pipB2_5		Secreted effector protein PipB2
+PACEHLGO_00823	gene	pipB2_5		
+PACEHLGO_00824	CDS			hypothetical protein
+PACEHLGO_00824	gene			
+PACEHLGO_00825	CDS	puuB_1	1.4.3.-	Gamma-glutamylputrescine oxidoreductase
+PACEHLGO_00825	gene	puuB_1		
+PACEHLGO_00826	CDS	pepN_1	3.4.11.2	Aminopeptidase N
+PACEHLGO_00826	gene	pepN_1		
+PACEHLGO_00827	CDS	malQ	2.4.1.25	4-alpha-glucanotransferase
+PACEHLGO_00827	gene	malQ		
+PACEHLGO_00828	CDS	nylA_2	3.5.2.12	6-aminohexanoate-cyclic-dimer hydrolase
+PACEHLGO_00828	gene	nylA_2		
+PACEHLGO_00829	CDS			hypothetical protein
+PACEHLGO_00829	gene			
+PACEHLGO_00830	CDS			hypothetical protein
+PACEHLGO_00830	gene			
+PACEHLGO_00831	CDS	mch	4.2.1.148	Mesaconyl-CoA hydratase
+PACEHLGO_00831	gene	mch		
+PACEHLGO_00832	CDS	echA8	4.2.1.17	putative enoyl-CoA hydratase echA8
+PACEHLGO_00832	gene	echA8		
+PACEHLGO_00833	CDS	rebM	2.1.1.164	Demethylrebeccamycin-D-glucose O-methyltransferase
+PACEHLGO_00833	gene	rebM		
+PACEHLGO_00834	CDS		2.3.1.-	Putative acetyltransferase
+PACEHLGO_00834	gene			
+PACEHLGO_00835	CDS			hypothetical protein
+PACEHLGO_00835	gene			
+PACEHLGO_00836	CDS			hypothetical protein
+PACEHLGO_00836	gene			
+PACEHLGO_00837	CDS		2.4.1.11	Glycogen synthase
+PACEHLGO_00837	gene			
+PACEHLGO_00838	CDS	chaA		Sodium-potassium/proton antiporter ChaA
+PACEHLGO_00838	gene	chaA		
+PACEHLGO_00839	CDS			hypothetical protein
+PACEHLGO_00839	gene			
+PACEHLGO_00840	CDS			hypothetical protein
+PACEHLGO_00840	gene			
+PACEHLGO_00841	CDS			hypothetical protein
+PACEHLGO_00841	gene			
+PACEHLGO_00842	CDS			hypothetical protein
+PACEHLGO_00842	gene			
+PACEHLGO_00843	CDS	nuoH	1.6.5.11	NADH-quinone oxidoreductase subunit H
+PACEHLGO_00843	gene	nuoH		
+PACEHLGO_00844	CDS	nuoI	1.6.5.11	NADH-quinone oxidoreductase subunit I
+PACEHLGO_00844	gene	nuoI		
+PACEHLGO_00845	CDS	nuoJ	1.6.5.11	NADH-quinone oxidoreductase subunit J
+PACEHLGO_00845	gene	nuoJ		
+PACEHLGO_00846	CDS		1.6.5.11	NADH-quinone oxidoreductase subunit 11
+PACEHLGO_00846	gene			
+PACEHLGO_00847	CDS	nuoL	1.6.5.11	NADH-quinone oxidoreductase subunit L
+PACEHLGO_00847	gene	nuoL		
+PACEHLGO_00848	CDS	nuoM	1.6.5.11	NADH-quinone oxidoreductase subunit M
+PACEHLGO_00848	gene	nuoM		
+PACEHLGO_00849	CDS			hypothetical protein
+PACEHLGO_00849	gene			
+PACEHLGO_00850	CDS			hypothetical protein
+PACEHLGO_00850	gene			
+PACEHLGO_00851	CDS			GTP cyclohydrolase 1 type 2 
+PACEHLGO_00851	gene			
+PACEHLGO_00852	CDS			hypothetical protein
+PACEHLGO_00852	gene			
+PACEHLGO_00853	CDS			hypothetical protein
+PACEHLGO_00853	gene			
+PACEHLGO_00854	CDS			hypothetical protein
+PACEHLGO_00854	gene			
+PACEHLGO_00855	CDS	icd	1.1.1.42	Isocitrate dehydrogenase [NADP]
+PACEHLGO_00855	gene	icd		
+PACEHLGO_00856	CDS	exoA	3.1.11.2	Exodeoxyribonuclease
+PACEHLGO_00856	gene	exoA		
+PACEHLGO_00857	CDS			hypothetical protein
+PACEHLGO_00857	gene			
+PACEHLGO_00858	CDS			hypothetical protein
+PACEHLGO_00858	gene			
+PACEHLGO_00859	CDS			hypothetical protein
+PACEHLGO_00859	gene			
+PACEHLGO_00860	CDS	galE_2	5.1.3.2	UDP-glucose 4-epimerase
+PACEHLGO_00860	gene	galE_2		
+PACEHLGO_00861	CDS			hypothetical protein
+PACEHLGO_00861	gene			
+PACEHLGO_00862	CDS	serB1_1	3.1.3.3	Phosphoserine phosphatase SerB1
+PACEHLGO_00862	gene	serB1_1		
+PACEHLGO_00863	CDS	sucD	6.2.1.5	Succinate--CoA ligase [ADP-forming] subunit alpha
+PACEHLGO_00863	gene	sucD		
+PACEHLGO_00864	CDS	sucC	6.2.1.5	Succinate--CoA ligase [ADP-forming] subunit beta
+PACEHLGO_00864	gene	sucC		
+PACEHLGO_00865	CDS	estB	3.1.1.3	Extracellular esterase EstB
+PACEHLGO_00865	gene	estB		
+PACEHLGO_00866	CDS	uvrD1	3.6.4.12	ATP-dependent DNA helicase UvrD1
+PACEHLGO_00866	gene	uvrD1		
+PACEHLGO_00867	CDS			hypothetical protein
+PACEHLGO_00867	gene			
+PACEHLGO_00868	CDS	guaA_1	6.3.5.2	GMP synthase [glutamine-hydrolyzing]
+PACEHLGO_00868	gene	guaA_1		
+PACEHLGO_00869	CDS			hypothetical protein
+PACEHLGO_00869	gene			
+PACEHLGO_00870	CDS	choD	1.1.3.6	Cholesterol oxidase
+PACEHLGO_00870	gene	choD		
+PACEHLGO_00871	CDS	gabD2_1	1.2.1.79	Putative succinate-semialdehyde dehydrogenase [NADP(+)] 2
+PACEHLGO_00871	gene	gabD2_1		
+PACEHLGO_00872	CDS	glpD2	1.1.5.3	Glycerol-3-phosphate dehydrogenase 2
+PACEHLGO_00872	gene	glpD2		
+PACEHLGO_00873	CDS		1.-.-.-	putative oxidoreductase/MSMEI_1564
+PACEHLGO_00873	gene			
+PACEHLGO_00874	CDS	guaB_2	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+PACEHLGO_00874	gene	guaB_2		
+PACEHLGO_00875	CDS	uvrY		Response regulator UvrY
+PACEHLGO_00875	gene	uvrY		
+PACEHLGO_00876	CDS			hypothetical protein
+PACEHLGO_00876	gene			
+PACEHLGO_00877	CDS	carH		HTH-type transcriptional repressor CarH
+PACEHLGO_00877	gene	carH		
+PACEHLGO_00878	CDS	whiD_1		Transcriptional regulator WhiD
+PACEHLGO_00878	gene	whiD_1		
+PACEHLGO_00879	CDS	groL1		60 kDa chaperonin 1
+PACEHLGO_00879	gene	groL1		
+PACEHLGO_00880	CDS	groS		10 kDa chaperonin
+PACEHLGO_00880	gene	groS		
+PACEHLGO_00881	CDS			hypothetical protein
+PACEHLGO_00881	gene			
+PACEHLGO_00882	CDS			hypothetical protein
+PACEHLGO_00882	gene			
+PACEHLGO_00883	CDS	ygaZ		Inner membrane protein YgaZ
+PACEHLGO_00883	gene	ygaZ		
+PACEHLGO_00884	CDS			hypothetical protein
+PACEHLGO_00884	gene			
+PACEHLGO_00885	CDS	tsaD	2.3.1.234	tRNA N6-adenosine threonylcarbamoyltransferase
+PACEHLGO_00885	gene	tsaD		
+PACEHLGO_00886	CDS	rimI_1	2.3.1.255	N-alpha-acetyltransferase RimI
+PACEHLGO_00886	gene	rimI_1		
+PACEHLGO_00887	CDS	tsaB		tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+PACEHLGO_00887	gene	tsaB		
+PACEHLGO_00888	CDS	tsaE		tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+PACEHLGO_00888	gene	tsaE		
+PACEHLGO_00889	CDS		3.1.1.2	Arylesterase
+PACEHLGO_00889	gene			
+PACEHLGO_00890	CDS	alr	5.1.1.1	Alanine racemase
+PACEHLGO_00890	gene	alr		
+PACEHLGO_00891	CDS	nnr		Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+PACEHLGO_00891	gene	nnr		
+PACEHLGO_00892	CDS	acpS	2.7.8.7	Holo-[acyl-carrier-protein] synthase
+PACEHLGO_00892	gene	acpS		
+PACEHLGO_00893	CDS	glmS	2.6.1.16	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+PACEHLGO_00893	gene	glmS		
+PACEHLGO_00894	CDS	glmM	5.4.2.10	Phosphoglucosamine mutase
+PACEHLGO_00894	gene	glmM		
+PACEHLGO_00895	CDS	rpsI		30S ribosomal protein S9
+PACEHLGO_00895	gene	rpsI		
+PACEHLGO_00896	CDS	rplM		50S ribosomal protein L13
+PACEHLGO_00896	gene	rplM		
+PACEHLGO_00897	CDS	arcC1	2.7.2.2	Carbamate kinase 1
+PACEHLGO_00897	gene	arcC1		
+PACEHLGO_00898	CDS	truA	5.4.99.12	tRNA pseudouridine synthase A
+PACEHLGO_00898	gene	truA		
+PACEHLGO_00899	CDS	rplQ		50S ribosomal protein L17
+PACEHLGO_00899	gene	rplQ		
+PACEHLGO_00900	CDS	rpoA	2.7.7.6	DNA-directed RNA polymerase subunit alpha
+PACEHLGO_00900	gene	rpoA		
+PACEHLGO_00901	CDS	malZ_1	3.2.1.20	Maltodextrin glucosidase
+PACEHLGO_00901	gene	malZ_1		
+PACEHLGO_00902	CDS			hypothetical protein
+PACEHLGO_00902	gene			
+PACEHLGO_00903	CDS			hypothetical protein
+PACEHLGO_00903	gene			
+PACEHLGO_00904	CDS			hypothetical protein
+PACEHLGO_00904	gene			
+PACEHLGO_00905	CDS			hypothetical protein
+PACEHLGO_00905	gene			
+PACEHLGO_00906	CDS	purF	2.4.2.14	Amidophosphoribosyltransferase
+PACEHLGO_00906	gene	purF		
+PACEHLGO_00907	CDS	purM	6.3.3.1	Phosphoribosylformylglycinamidine cyclo-ligase
+PACEHLGO_00907	gene	purM		
+PACEHLGO_00908	CDS			hypothetical protein
+PACEHLGO_00908	gene			
+PACEHLGO_00909	CDS	racA		Chromosome-anchoring protein RacA
+PACEHLGO_00909	gene	racA		
+PACEHLGO_00910	CDS			hypothetical protein
+PACEHLGO_00910	gene			
+PACEHLGO_00911	CDS			hypothetical protein
+PACEHLGO_00911	gene			
+PACEHLGO_00912	CDS			hypothetical protein
+PACEHLGO_00912	gene			
+PACEHLGO_00913	CDS	rlmCD	2.1.1.189	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+PACEHLGO_00913	gene	rlmCD		
+PACEHLGO_00914	CDS			hypothetical protein
+PACEHLGO_00914	gene			
+PACEHLGO_00915	CDS			hypothetical protein
+PACEHLGO_00915	gene			
+PACEHLGO_00916	CDS	treT	2.4.1.245	Trehalose synthase
+PACEHLGO_00916	gene	treT		
+PACEHLGO_00917	CDS	pcm	2.1.1.77	Protein-L-isoaspartate O-methyltransferase
+PACEHLGO_00917	gene	pcm		
+PACEHLGO_00918	CDS	lacB	5.3.1.26	Galactose-6-phosphate isomerase subunit LacB
+PACEHLGO_00918	gene	lacB		
+PACEHLGO_00919	CDS			hypothetical protein
+PACEHLGO_00919	gene			
+PACEHLGO_00920	CDS			hypothetical protein
+PACEHLGO_00920	gene			
+PACEHLGO_00921	CDS	mprA		Response regulator MprA
+PACEHLGO_00921	gene	mprA		
+PACEHLGO_00922	CDS			hypothetical protein
+PACEHLGO_00922	gene			
+PACEHLGO_00923	CDS	mmgC_2	1.3.99.-	Acyl-CoA dehydrogenase
+PACEHLGO_00923	gene	mmgC_2		
+PACEHLGO_00924	CDS	hepT	2.5.1.30	Heptaprenyl diphosphate synthase component 2
+PACEHLGO_00924	gene	hepT		
+PACEHLGO_00925	CDS	nuoN	1.6.5.11	NADH-quinone oxidoreductase subunit N
+PACEHLGO_00925	gene	nuoN		
+PACEHLGO_00926	CDS	menB	4.1.3.36	1,4-dihydroxy-2-naphthoyl-CoA synthase
+PACEHLGO_00926	gene	menB		
+PACEHLGO_00927	CDS	menC	4.2.1.113	o-succinylbenzoate synthase
+PACEHLGO_00927	gene	menC		
+PACEHLGO_00928	CDS	menD	2.2.1.9	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+PACEHLGO_00928	gene	menD		
+PACEHLGO_00929	CDS	gpx1	1.11.1.22	Hydroperoxy fatty acid reductase gpx1
+PACEHLGO_00929	gene	gpx1		
+PACEHLGO_00930	CDS	entC	5.4.4.2	Isochorismate synthase EntC
+PACEHLGO_00930	gene	entC		
+PACEHLGO_00931	CDS	menG	2.1.1.163	Demethylmenaquinone methyltransferase
+PACEHLGO_00931	gene	menG		
+PACEHLGO_00932	CDS	nuoA	1.6.5.11	NADH-quinone oxidoreductase subunit A
+PACEHLGO_00932	gene	nuoA		
+PACEHLGO_00933	CDS	nuoB	1.6.5.11	NADH-quinone oxidoreductase subunit B
+PACEHLGO_00933	gene	nuoB		
+PACEHLGO_00934	CDS	nuoC	1.6.5.11	NADH-quinone oxidoreductase subunit C
+PACEHLGO_00934	gene	nuoC		
+PACEHLGO_00935	CDS			hypothetical protein
+PACEHLGO_00935	gene			
+PACEHLGO_00936	CDS			hypothetical protein
+PACEHLGO_00936	gene			
+PACEHLGO_00937	CDS	minD		Septum site-determining protein MinD
+PACEHLGO_00937	gene	minD		
+PACEHLGO_00938	CDS			hypothetical protein
+PACEHLGO_00938	gene			
+PACEHLGO_00939	CDS			hypothetical protein
+PACEHLGO_00939	gene			
+PACEHLGO_00940	CDS			hypothetical protein
+PACEHLGO_00940	gene			
+PACEHLGO_00941	CDS			hypothetical protein
+PACEHLGO_00941	gene			
+PACEHLGO_00942	CDS			hypothetical protein
+PACEHLGO_00942	gene			
+PACEHLGO_00943	CDS			Dodecin
+PACEHLGO_00943	gene			
+PACEHLGO_00944	CDS			Universal stress protein
+PACEHLGO_00944	gene			
+PACEHLGO_00945	CDS			hypothetical protein
+PACEHLGO_00945	gene			
+PACEHLGO_00946	CDS			hypothetical protein
+PACEHLGO_00946	gene			
+PACEHLGO_00947	CDS			hypothetical protein
+PACEHLGO_00947	gene			
+PACEHLGO_00948	CDS			hypothetical protein
+PACEHLGO_00948	gene			
+PACEHLGO_00949	CDS		3.1.1.23	Monoacylglycerol lipase
+PACEHLGO_00949	gene			
+PACEHLGO_00950	CDS			hypothetical protein
+PACEHLGO_00950	gene			
+PACEHLGO_00951	CDS			hypothetical protein
+PACEHLGO_00951	gene			
+PACEHLGO_00952	CDS	kcsA		pH-gated potassium channel KcsA
+PACEHLGO_00952	gene	kcsA		
+PACEHLGO_00953	CDS			hypothetical protein
+PACEHLGO_00953	gene			
+PACEHLGO_00954	CDS	dnaJ1_2		Chaperone protein DnaJ 1
+PACEHLGO_00954	gene	dnaJ1_2		
+PACEHLGO_00955	CDS			hypothetical protein
+PACEHLGO_00955	gene			
+PACEHLGO_00956	CDS			hypothetical protein
+PACEHLGO_00956	gene			
+PACEHLGO_00957	CDS			hypothetical protein
+PACEHLGO_00957	gene			
+PACEHLGO_00958	CDS	ppa	3.6.1.1	Inorganic pyrophosphatase
+PACEHLGO_00958	gene	ppa		
+PACEHLGO_00959	CDS	dacC	3.4.16.4	D-alanyl-D-alanine carboxypeptidase DacC
+PACEHLGO_00959	gene	dacC		
+PACEHLGO_00960	CDS			hypothetical protein
+PACEHLGO_00960	gene			
+PACEHLGO_00961	CDS			hypothetical protein
+PACEHLGO_00961	gene			
+PACEHLGO_00962	CDS	furA		Transcriptional regulator FurA
+PACEHLGO_00962	gene	furA		
+PACEHLGO_00963	CDS			hypothetical protein
+PACEHLGO_00963	gene			
+PACEHLGO_00964	CDS	corA		Cobalt/magnesium transport protein CorA
+PACEHLGO_00964	gene	corA		
+PACEHLGO_00965	CDS	pepO	3.4.24.-	Neutral endopeptidase
+PACEHLGO_00965	gene	pepO		
+PACEHLGO_00966	CDS			hypothetical protein
+PACEHLGO_00966	gene			
+PACEHLGO_00967	CDS			hypothetical protein
+PACEHLGO_00967	gene			
+PACEHLGO_00968	CDS	dtpT		Di-/tripeptide transporter
+PACEHLGO_00968	gene	dtpT		
+PACEHLGO_00969	CDS			hypothetical protein
+PACEHLGO_00969	gene			
+PACEHLGO_00970	CDS			hypothetical protein
+PACEHLGO_00970	gene			
+PACEHLGO_00971	CDS			hypothetical protein
+PACEHLGO_00971	gene			
+PACEHLGO_00972	CDS	metF	1.5.1.20	5,10-methylenetetrahydrofolate reductase
+PACEHLGO_00972	gene	metF		
+PACEHLGO_00973	CDS	guaA_2	6.3.5.2	GMP synthase [glutamine-hydrolyzing]
+PACEHLGO_00973	gene	guaA_2		
+PACEHLGO_00974	CDS			hypothetical protein
+PACEHLGO_00974	gene			
+PACEHLGO_00975	CDS			hypothetical protein
+PACEHLGO_00975	gene			
+PACEHLGO_00976	CDS		3.2.1.4	Endoglucanase E1
+PACEHLGO_00976	gene			
+PACEHLGO_00977	CDS	otsA	2.4.1.15	Trehalose-6-phosphate synthase
+PACEHLGO_00977	gene	otsA		
+PACEHLGO_00978	CDS	otsB	3.1.3.12	Trehalose-phosphate phosphatase
+PACEHLGO_00978	gene	otsB		
+PACEHLGO_00979	CDS			hypothetical protein
+PACEHLGO_00979	gene			
+PACEHLGO_00980	CDS			hypothetical protein
+PACEHLGO_00980	gene			
+PACEHLGO_00981	CDS			hypothetical protein
+PACEHLGO_00981	gene			
+PACEHLGO_00982	CDS			hypothetical protein
+PACEHLGO_00982	gene			
+PACEHLGO_00983	CDS			hypothetical protein
+PACEHLGO_00983	gene			
+PACEHLGO_00984	CDS	crtB	2.5.1.99	All-trans-phytoene synthase
+PACEHLGO_00984	gene	crtB		
+PACEHLGO_00985	CDS		2.4.1.-	Alpha-(1->6)-mannopyranosyltransferase
+PACEHLGO_00985	gene			
+PACEHLGO_00986	CDS	carA2	1.3.99.29	zeta-carotene-forming phytoene desaturase
+PACEHLGO_00986	gene	carA2		
+PACEHLGO_00987	CDS	ispB	2.5.1.90	Octaprenyl diphosphate synthase
+PACEHLGO_00987	gene	ispB		
+PACEHLGO_00988	CDS	dnaE1	2.7.7.7	DNA polymerase III subunit alpha
+PACEHLGO_00988	gene	dnaE1		
+PACEHLGO_00989	CDS			hypothetical protein
+PACEHLGO_00989	gene			
+PACEHLGO_00990	CDS			hypothetical protein
+PACEHLGO_00990	gene			
+PACEHLGO_00991	CDS			hypothetical protein
+PACEHLGO_00991	gene			
+PACEHLGO_00992	tRNA			tRNA-Met(cat)
+PACEHLGO_00992	gene			
+PACEHLGO_00993	CDS			hypothetical protein
+PACEHLGO_00993	gene			
+PACEHLGO_00994	CDS			hypothetical protein
+PACEHLGO_00994	gene			
+PACEHLGO_00995	CDS	rpsS		30S ribosomal protein S19
+PACEHLGO_00995	gene	rpsS		
+PACEHLGO_00996	CDS	rplV		50S ribosomal protein L22
+PACEHLGO_00996	gene	rplV		
+PACEHLGO_00997	CDS	rpsC		30S ribosomal protein S3
+PACEHLGO_00997	gene	rpsC		
+PACEHLGO_00998	CDS	rplP		50S ribosomal protein L16
+PACEHLGO_00998	gene	rplP		
+PACEHLGO_00999	CDS	rpmC		50S ribosomal protein L29
+PACEHLGO_00999	gene	rpmC		
+PACEHLGO_01000	CDS	rpsQ		30S ribosomal protein S17
+PACEHLGO_01000	gene	rpsQ		
+PACEHLGO_01001	CDS	rplN		50S ribosomal protein L14
+PACEHLGO_01001	gene	rplN		
+PACEHLGO_01002	CDS	rplX		50S ribosomal protein L24
+PACEHLGO_01002	gene	rplX		
+PACEHLGO_01003	CDS	rplE		50S ribosomal protein L5
+PACEHLGO_01003	gene	rplE		
+PACEHLGO_01004	CDS	rpsZ		30S ribosomal protein S14 type Z
+PACEHLGO_01004	gene	rpsZ		
+PACEHLGO_01005	CDS	rpsH		30S ribosomal protein S8
+PACEHLGO_01005	gene	rpsH		
+PACEHLGO_01006	CDS	rplF		50S ribosomal protein L6
+PACEHLGO_01006	gene	rplF		
+PACEHLGO_01007	CDS	rplR		50S ribosomal protein L18
+PACEHLGO_01007	gene	rplR		
+PACEHLGO_01008	CDS	rpsE		30S ribosomal protein S5
+PACEHLGO_01008	gene	rpsE		
+PACEHLGO_01009	CDS	rpmD		50S ribosomal protein L30
+PACEHLGO_01009	gene	rpmD		
+PACEHLGO_01010	CDS	rplO		50S ribosomal protein L15
+PACEHLGO_01010	gene	rplO		
+PACEHLGO_01011	CDS	secY		Protein translocase subunit SecY
+PACEHLGO_01011	gene	secY		
+PACEHLGO_01012	CDS	adk	2.7.4.3	Adenylate kinase
+PACEHLGO_01012	gene	adk		
+PACEHLGO_01013	CDS	map-1	3.4.11.18	Methionine aminopeptidase 1
+PACEHLGO_01013	gene	map-1		
+PACEHLGO_01014	CDS	infA		Translation initiation factor IF-1
+PACEHLGO_01014	gene	infA		
+PACEHLGO_01015	CDS	rpmJ		50S ribosomal protein L36
+PACEHLGO_01015	gene	rpmJ		
+PACEHLGO_01016	CDS	rpsM		30S ribosomal protein S13
+PACEHLGO_01016	gene	rpsM		
+PACEHLGO_01017	CDS	rpsK		30S ribosomal protein S11
+PACEHLGO_01017	gene	rpsK		
+PACEHLGO_01018	CDS	rpsD		30S ribosomal protein S4
+PACEHLGO_01018	gene	rpsD		
+PACEHLGO_01019	CDS			hypothetical protein
+PACEHLGO_01019	gene			
+PACEHLGO_01020	CDS			hypothetical protein
+PACEHLGO_01020	gene			
+PACEHLGO_01021	CDS			hypothetical protein
+PACEHLGO_01021	gene			
+PACEHLGO_01022	CDS			hypothetical protein
+PACEHLGO_01022	gene			
+PACEHLGO_01023	CDS	ddc	4.1.1.86	L-2,4-diaminobutyrate decarboxylase
+PACEHLGO_01023	gene	ddc		
+PACEHLGO_01024	CDS	phoP_3		Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+PACEHLGO_01024	gene	phoP_3		
+PACEHLGO_01025	CDS			hypothetical protein
+PACEHLGO_01025	gene			
+PACEHLGO_01026	CDS	pspE	2.8.1.1	Thiosulfate sulfurtransferase PspE
+PACEHLGO_01026	gene	pspE		
+PACEHLGO_01027	CDS			Zinc-type alcohol dehydrogenase-like protein
+PACEHLGO_01027	gene			
+PACEHLGO_01028	CDS		1.5.3.6	6-hydroxy-D-nicotine oxidase
+PACEHLGO_01028	gene			
+PACEHLGO_01029	CDS			hypothetical protein
+PACEHLGO_01029	gene			
+PACEHLGO_01030	CDS			hypothetical protein
+PACEHLGO_01030	gene			
+PACEHLGO_01031	CDS			hypothetical protein
+PACEHLGO_01031	gene			
+PACEHLGO_01032	CDS			hypothetical protein
+PACEHLGO_01032	gene			
+PACEHLGO_01033	CDS	hin		DNA-invertase hin
+PACEHLGO_01033	gene	hin		
+PACEHLGO_01034	CDS			hypothetical protein
+PACEHLGO_01034	gene			
+PACEHLGO_01035	CDS	accD5	6.4.1.3	putative propionyl-CoA carboxylase beta chain 5
+PACEHLGO_01035	gene	accD5		
+PACEHLGO_01036	CDS			hypothetical protein
+PACEHLGO_01036	gene			
+PACEHLGO_01037	CDS			Maf-like protein
+PACEHLGO_01037	gene			
+PACEHLGO_01038	CDS	accC	6.3.4.14	Biotin carboxylase
+PACEHLGO_01038	gene	accC		
+PACEHLGO_01039	CDS	lpdA	1.6.5.2	NAD(P)H dehydrogenase (quinone)
+PACEHLGO_01039	gene	lpdA		
+PACEHLGO_01040	CDS			hypothetical protein
+PACEHLGO_01040	gene			
+PACEHLGO_01041	CDS	stp_4		Multidrug resistance protein Stp
+PACEHLGO_01041	gene	stp_4		
+PACEHLGO_01042	CDS	hisN_2	3.1.3.15	Histidinol-phosphatase
+PACEHLGO_01042	gene	hisN_2		
+PACEHLGO_01043	CDS	hrp1		Hypoxic response protein 1
+PACEHLGO_01043	gene	hrp1		
+PACEHLGO_01044	CDS		1.14.13.106	Epi-isozizaene 5-monooxygenase/(E)-beta-farnesene synthase
+PACEHLGO_01044	gene			
+PACEHLGO_01045	CDS	fccB	1.8.2.3	Sulfide dehydrogenase [flavocytochrome c] flavoprotein chain
+PACEHLGO_01045	gene	fccB		
+PACEHLGO_01046	CDS			hypothetical protein
+PACEHLGO_01046	gene			
+PACEHLGO_01047	CDS			hypothetical protein
+PACEHLGO_01047	gene			
+PACEHLGO_01048	CDS			hypothetical protein
+PACEHLGO_01048	gene			
+PACEHLGO_01049	CDS			hypothetical protein
+PACEHLGO_01049	gene			
+PACEHLGO_01050	CDS			hypothetical protein
+PACEHLGO_01050	gene			
+PACEHLGO_01051	CDS	aroK	2.7.1.71	Shikimate kinase
+PACEHLGO_01051	gene	aroK		
+PACEHLGO_01052	CDS	ddn	1.-.-.-	Deazaflavin-dependent nitroreductase
+PACEHLGO_01052	gene	ddn		
+PACEHLGO_01053	CDS	hpt	2.4.2.8	Hypoxanthine-guanine phosphoribosyltransferase
+PACEHLGO_01053	gene	hpt		
+PACEHLGO_01054	CDS	tilS	6.3.4.19	tRNA(Ile)-lysidine synthase
+PACEHLGO_01054	gene	tilS		
+PACEHLGO_01055	CDS			hypothetical protein
+PACEHLGO_01055	gene			
+PACEHLGO_01056	CDS			hypothetical protein
+PACEHLGO_01056	gene			
+PACEHLGO_01057	CDS	pbpX		Putative penicillin-binding protein PbpX
+PACEHLGO_01057	gene	pbpX		
+PACEHLGO_01058	CDS			hypothetical protein
+PACEHLGO_01058	gene			
+PACEHLGO_01059	CDS			hypothetical protein
+PACEHLGO_01059	gene			
+PACEHLGO_01060	CDS			hypothetical protein
+PACEHLGO_01060	gene			
+PACEHLGO_01061	CDS	azoB	1.7.-.-	NAD(P)H azoreductase
+PACEHLGO_01061	gene	azoB		
+PACEHLGO_01062	CDS			hypothetical protein
+PACEHLGO_01062	gene			
+PACEHLGO_01063	CDS	murF_1	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+PACEHLGO_01063	gene	murF_1		
+PACEHLGO_01064	CDS	mraY	2.7.8.13	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+PACEHLGO_01064	gene	mraY		
+PACEHLGO_01065	CDS	murD	6.3.2.9	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+PACEHLGO_01065	gene	murD		
+PACEHLGO_01066	CDS	ftsW	2.4.1.129	putative peptidoglycan glycosyltransferase FtsW
+PACEHLGO_01066	gene	ftsW		
+PACEHLGO_01067	CDS	gltD	1.4.1.13	Glutamate synthase [NADPH] small chain
+PACEHLGO_01067	gene	gltD		
+PACEHLGO_01068	CDS			hypothetical protein
+PACEHLGO_01068	gene			
+PACEHLGO_01069	CDS			hypothetical protein
+PACEHLGO_01069	gene			
+PACEHLGO_01070	CDS			hypothetical protein
+PACEHLGO_01070	gene			
+PACEHLGO_01071	CDS			hypothetical protein
+PACEHLGO_01071	gene			
+PACEHLGO_01072	CDS	pyk	2.7.1.40	Pyruvate kinase
+PACEHLGO_01072	gene	pyk		
+PACEHLGO_01073	CDS			hypothetical protein
+PACEHLGO_01073	gene			
+PACEHLGO_01074	CDS	pyrR		Bifunctional protein PyrR
+PACEHLGO_01074	gene	pyrR		
+PACEHLGO_01075	CDS			hypothetical protein
+PACEHLGO_01075	gene			
+PACEHLGO_01076	CDS		2.1.1.-	putative tRNA/rRNA methyltransferase
+PACEHLGO_01076	gene			
+PACEHLGO_01077	tRNA			tRNA-Thr(tgt)
+PACEHLGO_01077	gene			
+PACEHLGO_01078	CDS	spkB	2.7.11.1	Serine/threonine-protein kinase B
+PACEHLGO_01078	gene	spkB		
+PACEHLGO_01079	CDS			hypothetical protein
+PACEHLGO_01079	gene			
+PACEHLGO_01080	CDS			hypothetical protein
+PACEHLGO_01080	gene			
+PACEHLGO_01081	CDS			hypothetical protein
+PACEHLGO_01081	gene			
+PACEHLGO_01082	CDS	sbcC		Nuclease SbcCD subunit C
+PACEHLGO_01082	gene	sbcC		
+PACEHLGO_01083	CDS	pipB_1		Secreted effector protein PipB
+PACEHLGO_01083	gene	pipB_1		
+PACEHLGO_01084	CDS			hypothetical protein
+PACEHLGO_01084	gene			
+PACEHLGO_01085	CDS	sqr	1.8.5.4	Sulfide-quinone reductase
+PACEHLGO_01085	gene	sqr		
+PACEHLGO_01086	CDS	garA		Glycogen accumulation regulator GarA
+PACEHLGO_01086	gene	garA		
+PACEHLGO_01087	CDS	gcvH		Glycine cleavage system H protein
+PACEHLGO_01087	gene	gcvH		
+PACEHLGO_01088	CDS	pgsA1	2.7.8.5	Putative CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyl-transferase 1
+PACEHLGO_01088	gene	pgsA1		
+PACEHLGO_01089	CDS			hypothetical protein
+PACEHLGO_01089	gene			
+PACEHLGO_01090	CDS			hypothetical protein
+PACEHLGO_01090	gene			
+PACEHLGO_01091	tRNA			tRNA-Pro(ggg)
+PACEHLGO_01091	gene			
+PACEHLGO_01092	CDS			hypothetical protein
+PACEHLGO_01092	gene			
+PACEHLGO_01093	CDS			hypothetical protein
+PACEHLGO_01093	gene			
+PACEHLGO_01094	CDS			hypothetical protein
+PACEHLGO_01094	gene			
+PACEHLGO_01095	CDS	gbuA	3.5.3.7	Guanidinobutyrase
+PACEHLGO_01095	gene	gbuA		
+PACEHLGO_01096	CDS			hypothetical protein
+PACEHLGO_01096	gene			
+PACEHLGO_01097	CDS	tolB_1		Protein TolB
+PACEHLGO_01097	gene	tolB_1		
+PACEHLGO_01098	CDS	dpp5	3.4.14.-	Dipeptidyl-peptidase 5
+PACEHLGO_01098	gene	dpp5		
+PACEHLGO_01099	CDS	tolB_2		Protein TolB
+PACEHLGO_01099	gene	tolB_2		
+PACEHLGO_01100	CDS			hypothetical protein
+PACEHLGO_01100	gene			
+PACEHLGO_01101	CDS	ychF		Ribosome-binding ATPase YchF
+PACEHLGO_01101	gene	ychF		
+PACEHLGO_01102	CDS	bag		IgA FC receptor
+PACEHLGO_01102	gene	bag		
+PACEHLGO_01103	CDS			hypothetical protein
+PACEHLGO_01103	gene			
+PACEHLGO_01104	CDS	dppE		Dipeptide-binding protein DppE
+PACEHLGO_01104	gene	dppE		
+PACEHLGO_01105	CDS			hypothetical protein
+PACEHLGO_01105	gene			
+PACEHLGO_01106	CDS	dppB		Dipeptide transport system permease protein DppB
+PACEHLGO_01106	gene	dppB		
+PACEHLGO_01107	CDS	oppC		Oligopeptide transport system permease protein OppC
+PACEHLGO_01107	gene	oppC		
+PACEHLGO_01108	CDS	oppD		Oligopeptide transport ATP-binding protein OppD
+PACEHLGO_01108	gene	oppD		
+PACEHLGO_01109	CDS	oppF		Oligopeptide transport ATP-binding protein OppF
+PACEHLGO_01109	gene	oppF		
+PACEHLGO_01110	CDS	dap4	3.4.14.5	Dipeptidyl aminopeptidase 4
+PACEHLGO_01110	gene	dap4		
+PACEHLGO_01111	CDS	mshB	3.5.1.103	1D-myo-inositol 2-acetamido-2-deoxy-alpha-D-glucopyranoside deacetylase
+PACEHLGO_01111	gene	mshB		
+PACEHLGO_01112	CDS			hypothetical protein
+PACEHLGO_01112	gene			
+PACEHLGO_01113	CDS	hsaB	1.5.1.36	Flavin-dependent monooxygenase, reductase subunit HsaB
+PACEHLGO_01113	gene	hsaB		
+PACEHLGO_01114	CDS			hypothetical protein
+PACEHLGO_01114	gene			
+PACEHLGO_01115	CDS	fdxA		Ferredoxin
+PACEHLGO_01115	gene	fdxA		
+PACEHLGO_01116	CDS	pheA_1	4.2.1.51	Prephenate dehydratase
+PACEHLGO_01116	gene	pheA_1		
+PACEHLGO_01117	CDS	tyrA	1.3.1.12	Prephenate dehydrogenase
+PACEHLGO_01117	gene	tyrA		
+PACEHLGO_01118	CDS	dapL	2.6.1.83	LL-diaminopimelate aminotransferase
+PACEHLGO_01118	gene	dapL		
+PACEHLGO_01119	CDS	pepN_2	3.4.11.2	Aminopeptidase N
+PACEHLGO_01119	gene	pepN_2		
+PACEHLGO_01120	CDS			hypothetical protein
+PACEHLGO_01120	gene			
+PACEHLGO_01121	CDS			hypothetical protein
+PACEHLGO_01121	gene			
+PACEHLGO_01122	CDS	ycdG	3.2.1.10	putative oligo-1,6-glucosidase 2
+PACEHLGO_01122	gene	ycdG		
+PACEHLGO_01123	CDS			hypothetical protein
+PACEHLGO_01123	gene			
+PACEHLGO_01124	CDS			hypothetical protein
+PACEHLGO_01124	gene			
+PACEHLGO_01125	CDS	gltX	6.1.1.17	Glutamate--tRNA ligase
+PACEHLGO_01125	gene	gltX		
+PACEHLGO_01126	CDS			hypothetical protein
+PACEHLGO_01126	gene			
+PACEHLGO_01127	CDS			hypothetical protein
+PACEHLGO_01127	gene			
+PACEHLGO_01128	CDS		3.4.21.-	Extracellular serine proteinase
+PACEHLGO_01128	gene			
+PACEHLGO_01129	CDS	relA		Bifunctional (p)ppGpp synthase/hydrolase RelA
+PACEHLGO_01129	gene	relA		
+PACEHLGO_01130	CDS			hypothetical protein
+PACEHLGO_01130	gene			
+PACEHLGO_01131	CDS			hypothetical protein
+PACEHLGO_01131	gene			
+PACEHLGO_01132	CDS	gloC_2	3.1.2.6	Hydroxyacylglutathione hydrolase GloC
+PACEHLGO_01132	gene	gloC_2		
+PACEHLGO_01133	CDS	hisS	6.1.1.21	Histidine--tRNA ligase
+PACEHLGO_01133	gene	hisS		
+PACEHLGO_01134	CDS	aspS	6.1.1.23	Aspartate--tRNA(Asp/Asn) ligase
+PACEHLGO_01134	gene	aspS		
+PACEHLGO_01135	CDS			hypothetical protein
+PACEHLGO_01135	gene			
+PACEHLGO_01136	CDS			hypothetical protein
+PACEHLGO_01136	gene			
+PACEHLGO_01137	CDS		3.6.-.-	putative GTPase
+PACEHLGO_01137	gene			
+PACEHLGO_01138	CDS	mazG	3.6.1.8	Nucleoside triphosphate pyrophosphohydrolase
+PACEHLGO_01138	gene	mazG		
+PACEHLGO_01139	CDS			hypothetical protein
+PACEHLGO_01139	gene			
+PACEHLGO_01140	CDS			hypothetical protein
+PACEHLGO_01140	gene			
+PACEHLGO_01141	CDS			hypothetical protein
+PACEHLGO_01141	gene			
+PACEHLGO_01142	CDS			hypothetical protein
+PACEHLGO_01142	gene			
+PACEHLGO_01143	CDS			hypothetical protein
+PACEHLGO_01143	gene			
+PACEHLGO_01144	CDS			hypothetical protein
+PACEHLGO_01144	gene			
+PACEHLGO_01145	CDS	nhaP2		K(+)/H(+) antiporter NhaP2
+PACEHLGO_01145	gene	nhaP2		
+PACEHLGO_01146	CDS	bmr3		Multidrug resistance protein 3
+PACEHLGO_01146	gene	bmr3		
+PACEHLGO_01147	CDS			putative membrane protein
+PACEHLGO_01147	gene			
+PACEHLGO_01148	CDS			hypothetical protein
+PACEHLGO_01148	gene			
+PACEHLGO_01149	CDS	mutB_1	5.4.99.2	Methylmalonyl-CoA mutase large subunit
+PACEHLGO_01149	gene	mutB_1		
+PACEHLGO_01150	CDS	nucS	3.1.-.-	Endonuclease NucS
+PACEHLGO_01150	gene	nucS		
+PACEHLGO_01151	CDS			hypothetical protein
+PACEHLGO_01151	gene			
+PACEHLGO_01152	CDS			hypothetical protein
+PACEHLGO_01152	gene			
+PACEHLGO_01153	CDS	qcrA		Cytochrome bc1 complex Rieske iron-sulfur subunit
+PACEHLGO_01153	gene	qcrA		
+PACEHLGO_01154	CDS	qcrC	1.10.2.2	Cytochrome bc1 complex cytochrome c subunit
+PACEHLGO_01154	gene	qcrC		
+PACEHLGO_01155	CDS	ctaE	1.9.3.1	putative cytochrome c oxidase subunit 3
+PACEHLGO_01155	gene	ctaE		
+PACEHLGO_01156	CDS			putative response regulatory protein
+PACEHLGO_01156	gene			
+PACEHLGO_01157	CDS	trpD	2.4.2.18	Anthranilate phosphoribosyltransferase
+PACEHLGO_01157	gene	trpD		
+PACEHLGO_01158	CDS			hypothetical protein
+PACEHLGO_01158	gene			
+PACEHLGO_01159	CDS	yciC		Putative metal chaperone YciC
+PACEHLGO_01159	gene	yciC		
+PACEHLGO_01160	CDS			hypothetical protein
+PACEHLGO_01160	gene			
+PACEHLGO_01161	CDS			hypothetical protein
+PACEHLGO_01161	gene			
+PACEHLGO_01162	CDS	smtB_1		HTH-type transcriptional repressor SmtB
+PACEHLGO_01162	gene	smtB_1		
+PACEHLGO_01163	CDS			hypothetical protein
+PACEHLGO_01163	gene			
+PACEHLGO_01164	CDS	znuA		High-affinity zinc uptake system binding-protein ZnuA
+PACEHLGO_01164	gene	znuA		
+PACEHLGO_01165	CDS	cysA_1	3.6.3.25	Sulfate/thiosulfate import ATP-binding protein CysA
+PACEHLGO_01165	gene	cysA_1		
+PACEHLGO_01166	CDS	znuB		High-affinity zinc uptake system membrane protein ZnuB
+PACEHLGO_01166	gene	znuB		
+PACEHLGO_01167	CDS			hypothetical protein
+PACEHLGO_01167	gene			
+PACEHLGO_01168	CDS			hypothetical protein
+PACEHLGO_01168	gene			
+PACEHLGO_01169	CDS	pipB2_6		Secreted effector protein PipB2
+PACEHLGO_01169	gene	pipB2_6		
+PACEHLGO_01170	CDS			hypothetical protein
+PACEHLGO_01170	gene			
+PACEHLGO_01171	CDS			Putative two-component membrane permease complex subunit SMU_747c
+PACEHLGO_01171	gene			
+PACEHLGO_01172	CDS			hypothetical protein
+PACEHLGO_01172	gene			
+PACEHLGO_01173	CDS	bauC	1.2.1.-	Putative 3-oxopropanoate dehydrogenase
+PACEHLGO_01173	gene	bauC		
+PACEHLGO_01174	CDS	puuB_2	1.4.3.-	Gamma-glutamylputrescine oxidoreductase
+PACEHLGO_01174	gene	puuB_2		
+PACEHLGO_01175	CDS	secA		Protein translocase subunit SecA
+PACEHLGO_01175	gene	secA		
+PACEHLGO_01176	CDS	liaR_2		Transcriptional regulatory protein LiaR
+PACEHLGO_01176	gene	liaR_2		
+PACEHLGO_01177	CDS	hpf		Ribosome hibernation promotion factor
+PACEHLGO_01177	gene	hpf		
+PACEHLGO_01178	CDS			hypothetical protein
+PACEHLGO_01178	gene			
+PACEHLGO_01179	CDS	mtrB_2	2.7.13.3	Sensor histidine kinase MtrB
+PACEHLGO_01179	gene	mtrB_2		
+PACEHLGO_01180	CDS	mtrA		DNA-binding response regulator MtrA
+PACEHLGO_01180	gene	mtrA		
+PACEHLGO_01181	CDS	bamB_1		Outer membrane protein assembly factor BamB
+PACEHLGO_01181	gene	bamB_1		
+PACEHLGO_01182	CDS			hypothetical protein
+PACEHLGO_01182	gene			
+PACEHLGO_01183	CDS	ahcY_2	3.3.1.1	Adenosylhomocysteinase
+PACEHLGO_01183	gene	ahcY_2		
+PACEHLGO_01184	CDS	manA	5.3.1.8	Mannose-6-phosphate isomerase
+PACEHLGO_01184	gene	manA		
+PACEHLGO_01185	CDS			hypothetical protein
+PACEHLGO_01185	gene			
+PACEHLGO_01186	CDS	algC	5.4.2.2	Phosphomannomutase/phosphoglucomutase
+PACEHLGO_01186	gene	algC		
+PACEHLGO_01187	CDS			hypothetical protein
+PACEHLGO_01187	gene			
+PACEHLGO_01188	CDS	whiB		Transcriptional regulator WhiB
+PACEHLGO_01188	gene	whiB		
+PACEHLGO_01189	CDS	fbiC	2.5.1.77	FO synthase
+PACEHLGO_01189	gene	fbiC		
+PACEHLGO_01190	CDS	cofD	2.7.8.28	2-phospho-L-lactate transferase
+PACEHLGO_01190	gene	cofD		
+PACEHLGO_01191	CDS	fbiB	6.3.2.31	Coenzyme F420:L-glutamate ligase
+PACEHLGO_01191	gene	fbiB		
+PACEHLGO_01192	CDS	cugP	2.7.7.9	UTP--glucose-1-phosphate uridylyltransferase
+PACEHLGO_01192	gene	cugP		
+PACEHLGO_01193	CDS			hypothetical protein
+PACEHLGO_01193	gene			
+PACEHLGO_01194	CDS	ywtF		Putative transcriptional regulator YwtF
+PACEHLGO_01194	gene	ywtF		
+PACEHLGO_01195	CDS			hypothetical protein
+PACEHLGO_01195	gene			
+PACEHLGO_01196	CDS	bshA	2.4.1.-	N-acetyl-alpha-D-glucosaminyl L-malate synthase
+PACEHLGO_01196	gene	bshA		
+PACEHLGO_01197	CDS	yvhJ		Putative transcriptional regulator YvhJ
+PACEHLGO_01197	gene	yvhJ		
+PACEHLGO_01198	CDS		1.3.99.-	putative acyl-CoA dehydrogenase fadE25
+PACEHLGO_01198	gene			
+PACEHLGO_01199	CDS	tuaD	1.1.1.22	UDP-glucose 6-dehydrogenase TuaD
+PACEHLGO_01199	gene	tuaD		
+PACEHLGO_01200	CDS	purE	5.4.99.18	N5-carboxyaminoimidazole ribonucleotide mutase
+PACEHLGO_01200	gene	purE		
+PACEHLGO_01201	CDS	purK	6.3.4.18	N5-carboxyaminoimidazole ribonucleotide synthase
+PACEHLGO_01201	gene	purK		
+PACEHLGO_01202	CDS			hypothetical protein
+PACEHLGO_01202	gene			
+PACEHLGO_01203	CDS		4.6.1.1	pH-sensitive adenylate cyclase
+PACEHLGO_01203	gene			
+PACEHLGO_01204	CDS			hypothetical protein
+PACEHLGO_01204	gene			
+PACEHLGO_01205	CDS	pyrB	2.1.3.2	Aspartate carbamoyltransferase
+PACEHLGO_01205	gene	pyrB		
+PACEHLGO_01206	CDS	pyrC	3.5.2.3	Dihydroorotase
+PACEHLGO_01206	gene	pyrC		
+PACEHLGO_01207	CDS			hypothetical protein
+PACEHLGO_01207	gene			
+PACEHLGO_01208	CDS			hypothetical protein
+PACEHLGO_01208	gene			
+PACEHLGO_01209	CDS	rplL		50S ribosomal protein L7/L12
+PACEHLGO_01209	gene	rplL		
+PACEHLGO_01210	CDS	rplJ		50S ribosomal protein L10
+PACEHLGO_01210	gene	rplJ		
+PACEHLGO_01211	CDS	rplA		50S ribosomal protein L1
+PACEHLGO_01211	gene	rplA		
+PACEHLGO_01212	CDS	rplK		50S ribosomal protein L11
+PACEHLGO_01212	gene	rplK		
+PACEHLGO_01213	CDS	nusG		Transcription termination/antitermination protein NusG
+PACEHLGO_01213	gene	nusG		
+PACEHLGO_01214	CDS	secE		Protein translocase subunit SecE
+PACEHLGO_01214	gene	secE		
+PACEHLGO_01215	tRNA			tRNA-Trp(cca)
+PACEHLGO_01215	gene			
+PACEHLGO_01216	CDS		2.6.1.1	Aspartate aminotransferase
+PACEHLGO_01216	gene			
+PACEHLGO_01217	CDS	murB	1.3.1.98	UDP-N-acetylenolpyruvoylglucosamine reductase
+PACEHLGO_01217	gene	murB		
+PACEHLGO_01218	CDS	phaJ_1	4.2.1.119	(R)-specific enoyl-CoA hydratase
+PACEHLGO_01218	gene	phaJ_1		
+PACEHLGO_01219	CDS			hypothetical protein
+PACEHLGO_01219	gene			
+PACEHLGO_01220	CDS	fabG_3	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+PACEHLGO_01220	gene	fabG_3		
+PACEHLGO_01221	CDS	rpmG2		50S ribosomal protein L33 2
+PACEHLGO_01221	gene	rpmG2		
+PACEHLGO_01222	tRNA			tRNA-Met(cat)
+PACEHLGO_01222	gene			
+PACEHLGO_01223	tRNA			tRNA-Thr(ggt)
+PACEHLGO_01223	gene			
+PACEHLGO_01224	tRNA			tRNA-Tyr(gta)
+PACEHLGO_01224	gene			
+PACEHLGO_01225	CDS			hypothetical protein
+PACEHLGO_01225	gene			
+PACEHLGO_01226	CDS	korA	1.2.7.3	2-oxoglutarate oxidoreductase subunit KorA
+PACEHLGO_01226	gene	korA		
+PACEHLGO_01227	CDS			hypothetical protein
+PACEHLGO_01227	gene			
+PACEHLGO_01228	CDS			hypothetical protein
+PACEHLGO_01228	gene			
+PACEHLGO_01229	CDS			hypothetical protein
+PACEHLGO_01229	gene			
+PACEHLGO_01230	CDS			hypothetical protein
+PACEHLGO_01230	gene			
+PACEHLGO_01231	CDS	folK	2.7.6.3	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+PACEHLGO_01231	gene	folK		
+PACEHLGO_01232	CDS	folB	4.1.2.25	Dihydroneopterin aldolase
+PACEHLGO_01232	gene	folB		
+PACEHLGO_01233	CDS	folP1_1	2.5.1.15	Dihydropteroate synthase
+PACEHLGO_01233	gene	folP1_1		
+PACEHLGO_01234	CDS	folE_1	3.5.4.16	GTP cyclohydrolase 1
+PACEHLGO_01234	gene	folE_1		
+PACEHLGO_01235	CDS	ftsH_2	3.4.24.-	ATP-dependent zinc metalloprotease FtsH
+PACEHLGO_01235	gene	ftsH_2		
+PACEHLGO_01236	tRNA			tRNA-Thr(cgt)
+PACEHLGO_01236	gene			
+PACEHLGO_01237	CDS		3.5.1.11	Penicillin acylase
+PACEHLGO_01237	gene			
+PACEHLGO_01238	CDS	qacA_2		Antiseptic resistance protein
+PACEHLGO_01238	gene	qacA_2		
+PACEHLGO_01239	CDS			hypothetical protein
+PACEHLGO_01239	gene			
+PACEHLGO_01240	tRNA			tRNA-Thr(cgt)
+PACEHLGO_01240	gene			
+PACEHLGO_01241	CDS	nei	3.2.2.-	Endonuclease 8
+PACEHLGO_01241	gene	nei		
+PACEHLGO_01242	CDS			hypothetical protein
+PACEHLGO_01242	gene			
+PACEHLGO_01243	CDS			hypothetical protein
+PACEHLGO_01243	gene			
+PACEHLGO_01244	CDS			hypothetical protein
+PACEHLGO_01244	gene			
+PACEHLGO_01245	CDS			hypothetical protein
+PACEHLGO_01245	gene			
+PACEHLGO_01246	CDS			hypothetical protein
+PACEHLGO_01246	gene			
+PACEHLGO_01247	CDS	yveL	2.7.10.2	Putative tyrosine-protein kinase YveL
+PACEHLGO_01247	gene	yveL		
+PACEHLGO_01248	CDS			hypothetical protein
+PACEHLGO_01248	gene			
+PACEHLGO_01249	CDS	ephA_1	3.3.2.10	Epoxide hydrolase A
+PACEHLGO_01249	gene	ephA_1		
+PACEHLGO_01250	CDS			hypothetical protein
+PACEHLGO_01250	gene			
+PACEHLGO_01251	CDS			hypothetical protein
+PACEHLGO_01251	gene			
+PACEHLGO_01252	CDS	soj	3.6.-.-	Sporulation initiation inhibitor protein Soj
+PACEHLGO_01252	gene	soj		
+PACEHLGO_01253	CDS			hypothetical protein
+PACEHLGO_01253	gene			
+PACEHLGO_01254	CDS	cshA_2	3.6.4.13	ATP-dependent RNA helicase CshA
+PACEHLGO_01254	gene	cshA_2		
+PACEHLGO_01255	CDS		6.2.1.3	Long-chain-fatty-acid--CoA ligase FadD15
+PACEHLGO_01255	gene			
+PACEHLGO_01256	CDS	hemN	1.3.99.-	Oxygen-independent coproporphyrinogen-III oxidase-like protein
+PACEHLGO_01256	gene	hemN		
+PACEHLGO_01257	CDS			hypothetical protein
+PACEHLGO_01257	gene			
+PACEHLGO_01258	CDS			hypothetical protein
+PACEHLGO_01258	gene			
+PACEHLGO_01259	CDS	rsbW	2.7.11.1	Serine-protein kinase RsbW
+PACEHLGO_01259	gene	rsbW		
+PACEHLGO_01260	CDS	rsbV		Anti-sigma-B factor antagonist
+PACEHLGO_01260	gene	rsbV		
+PACEHLGO_01261	CDS	dbpA	3.6.4.13	ATP-dependent RNA helicase DbpA
+PACEHLGO_01261	gene	dbpA		
+PACEHLGO_01262	CDS			hypothetical protein
+PACEHLGO_01262	gene			
+PACEHLGO_01263	CDS	tlyA	2.1.1.226	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+PACEHLGO_01263	gene	tlyA		
+PACEHLGO_01264	CDS	braC		Leucine-, isoleucine-, valine-, threonine-, and alanine-binding protein
+PACEHLGO_01264	gene	braC		
+PACEHLGO_01265	CDS	smtB_2	2.8.3.22	Succinyl-CoA--L-malate CoA-transferase beta subunit
+PACEHLGO_01265	gene	smtB_2		
+PACEHLGO_01266	CDS			hypothetical protein
+PACEHLGO_01266	gene			
+PACEHLGO_01267	CDS			hypothetical protein
+PACEHLGO_01267	gene			
+PACEHLGO_01268	CDS			hypothetical protein
+PACEHLGO_01268	gene			
+PACEHLGO_01269	CDS			hypothetical protein
+PACEHLGO_01269	gene			
+PACEHLGO_01270	CDS	spsI_2		Bifunctional IPC transferase and DIPP synthase
+PACEHLGO_01270	gene	spsI_2		
+PACEHLGO_01271	CDS	tagH_2	3.6.3.40	Teichoic acids export ATP-binding protein TagH
+PACEHLGO_01271	gene	tagH_2		
+PACEHLGO_01272	CDS	tagG_2		Teichoic acid translocation permease protein TagG
+PACEHLGO_01272	gene	tagG_2		
+PACEHLGO_01273	CDS	menI	3.1.2.28	1,4-dihydroxy-2-naphthoyl-CoA hydrolase
+PACEHLGO_01273	gene	menI		
+PACEHLGO_01274	CDS			hypothetical protein
+PACEHLGO_01274	gene			
+PACEHLGO_01275	CDS			hypothetical protein
+PACEHLGO_01275	gene			
+PACEHLGO_01276	CDS		3.1.3.21	D,L-glycerol 3-phosphate phosphatase
+PACEHLGO_01276	gene			
+PACEHLGO_01277	CDS			hypothetical protein
+PACEHLGO_01277	gene			
+PACEHLGO_01278	CDS			hypothetical protein
+PACEHLGO_01278	gene			
+PACEHLGO_01279	CDS	gabT	2.6.1.19	4-aminobutyrate aminotransferase
+PACEHLGO_01279	gene	gabT		
+PACEHLGO_01280	CDS	safD	1.2.1.73	Sulfoacetaldehyde dehydrogenase
+PACEHLGO_01280	gene	safD		
+PACEHLGO_01281	CDS	yjcC	3.1.4.52	Putative cyclic-di-GMP phosphodiesterase YjcC
+PACEHLGO_01281	gene	yjcC		
+PACEHLGO_01282	CDS	whiA		Putative sporulation transcription regulator WhiA
+PACEHLGO_01282	gene	whiA		
+PACEHLGO_01283	CDS			Putative gluconeogenesis factor
+PACEHLGO_01283	gene			
+PACEHLGO_01284	CDS			Nucleotide-binding protein
+PACEHLGO_01284	gene			
+PACEHLGO_01285	CDS	uvrC		UvrABC system protein C
+PACEHLGO_01285	gene	uvrC		
+PACEHLGO_01286	CDS	oatA_3	2.3.1.-	O-acetyltransferase OatA
+PACEHLGO_01286	gene	oatA_3		
+PACEHLGO_01287	CDS	petC	1.10.9.1	Cytochrome b6-f complex iron-sulfur subunit
+PACEHLGO_01287	gene	petC		
+PACEHLGO_01288	CDS	uvrA		UvrABC system protein A
+PACEHLGO_01288	gene	uvrA		
+PACEHLGO_01289	CDS	ydfJ_2		Membrane protein YdfJ
+PACEHLGO_01289	gene	ydfJ_2		
+PACEHLGO_01290	CDS	xfp	4.1.2.22	Xylulose-5-phosphate/fructose-6-phosphate phosphoketolase
+PACEHLGO_01290	gene	xfp		
+PACEHLGO_01291	CDS	dapE_2	3.5.1.18	Succinyl-diaminopimelate desuccinylase
+PACEHLGO_01291	gene	dapE_2		
+PACEHLGO_01292	tRNA			tRNA-Leu(gag)
+PACEHLGO_01292	gene			
+PACEHLGO_01293	CDS	qacA_3		Antiseptic resistance protein
+PACEHLGO_01293	gene	qacA_3		
+PACEHLGO_01294	CDS			hypothetical protein
+PACEHLGO_01294	gene			
+PACEHLGO_01295	CDS			hypothetical protein
+PACEHLGO_01295	gene			
+PACEHLGO_01296	CDS	purL	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurL
+PACEHLGO_01296	gene	purL		
+PACEHLGO_01297	CDS			hypothetical protein
+PACEHLGO_01297	gene			
+PACEHLGO_01298	CDS	gtaB	2.7.7.9	UTP--glucose-1-phosphate uridylyltransferase
+PACEHLGO_01298	gene	gtaB		
+PACEHLGO_01299	CDS	moeA1	2.10.1.1	Molybdopterin molybdenumtransferase 1
+PACEHLGO_01299	gene	moeA1		
+PACEHLGO_01300	CDS			hypothetical protein
+PACEHLGO_01300	gene			
+PACEHLGO_01301	CDS			hypothetical protein
+PACEHLGO_01301	gene			
+PACEHLGO_01302	CDS			hypothetical protein
+PACEHLGO_01302	gene			
+PACEHLGO_01303	CDS			hypothetical protein
+PACEHLGO_01303	gene			
+PACEHLGO_01304	CDS	yhhW	1.13.11.24	Quercetin 2,3-dioxygenase
+PACEHLGO_01304	gene	yhhW		
+PACEHLGO_01305	CDS	folP1_2	2.5.1.15	Dihydropteroate synthase
+PACEHLGO_01305	gene	folP1_2		
+PACEHLGO_01306	CDS			hypothetical protein
+PACEHLGO_01306	gene			
+PACEHLGO_01307	CDS			hypothetical protein
+PACEHLGO_01307	gene			
+PACEHLGO_01308	CDS	trmL	2.1.1.207	tRNA (cytidine(34)-2'-O)-methyltransferase
+PACEHLGO_01308	gene	trmL		
+PACEHLGO_01309	CDS			hypothetical protein
+PACEHLGO_01309	gene			
+PACEHLGO_01310	CDS	mltF		Membrane-bound lytic murein transglycosylase F
+PACEHLGO_01310	gene	mltF		
+PACEHLGO_01311	CDS			hypothetical protein
+PACEHLGO_01311	gene			
+PACEHLGO_01312	CDS			hypothetical protein
+PACEHLGO_01312	gene			
+PACEHLGO_01313	CDS			hypothetical protein
+PACEHLGO_01313	gene			
+PACEHLGO_01314	CDS			hypothetical protein
+PACEHLGO_01314	gene			
+PACEHLGO_01315	CDS			hypothetical protein
+PACEHLGO_01315	gene			
+PACEHLGO_01316	CDS			putative Na(+)/H(+) exchanger
+PACEHLGO_01316	gene			
+PACEHLGO_01317	CDS			hypothetical protein
+PACEHLGO_01317	gene			
+PACEHLGO_01318	CDS			hypothetical protein
+PACEHLGO_01318	gene			
+PACEHLGO_01319	CDS	ogt	2.1.1.63	Methylated-DNA--protein-cysteine methyltransferase
+PACEHLGO_01319	gene	ogt		
+PACEHLGO_01320	CDS			hypothetical protein
+PACEHLGO_01320	gene			
+PACEHLGO_01321	CDS		3.4.21.-	Extracellular serine proteinase
+PACEHLGO_01321	gene			
+PACEHLGO_01322	CDS	pstB1	3.6.3.27	Phosphate import ATP-binding protein PstB 1
+PACEHLGO_01322	gene	pstB1		
+PACEHLGO_01323	CDS	pstA1		Phosphate transport system permease protein PstA 1
+PACEHLGO_01323	gene	pstA1		
+PACEHLGO_01324	CDS	pstC2		Phosphate transport system permease protein PstC 2
+PACEHLGO_01324	gene	pstC2		
+PACEHLGO_01325	CDS	pstS2		Phosphate-binding protein PstS2
+PACEHLGO_01325	gene	pstS2		
+PACEHLGO_01326	CDS			hypothetical protein
+PACEHLGO_01326	gene			
+PACEHLGO_01327	CDS			hypothetical protein
+PACEHLGO_01327	gene			
+PACEHLGO_01328	CDS			hypothetical protein
+PACEHLGO_01328	gene			
+PACEHLGO_01329	CDS			hypothetical protein
+PACEHLGO_01329	gene			
+PACEHLGO_01330	CDS			hypothetical protein
+PACEHLGO_01330	gene			
+PACEHLGO_01331	CDS	gpgS	2.4.1.266	Glucosyl-3-phosphoglycerate synthase
+PACEHLGO_01331	gene	gpgS		
+PACEHLGO_01332	CDS	thrC_1	4.2.3.1	Threonine synthase
+PACEHLGO_01332	gene	thrC_1		
+PACEHLGO_01333	CDS	cysO_1		Sulfur carrier protein CysO
+PACEHLGO_01333	gene	cysO_1		
+PACEHLGO_01334	CDS			hypothetical protein
+PACEHLGO_01334	gene			
+PACEHLGO_01335	CDS	groL2		60 kDa chaperonin 2
+PACEHLGO_01335	gene	groL2		
+PACEHLGO_01336	CDS			hypothetical protein
+PACEHLGO_01336	gene			
+PACEHLGO_01337	CDS			hypothetical protein
+PACEHLGO_01337	gene			
+PACEHLGO_01338	CDS			hypothetical protein
+PACEHLGO_01338	gene			
+PACEHLGO_01339	CDS			hypothetical protein
+PACEHLGO_01339	gene			
+PACEHLGO_01340	CDS			hypothetical protein
+PACEHLGO_01340	gene			
+PACEHLGO_01341	CDS			hypothetical protein
+PACEHLGO_01341	gene			
+PACEHLGO_01342	CDS			hypothetical protein
+PACEHLGO_01342	gene			
+PACEHLGO_01343	CDS			hypothetical protein
+PACEHLGO_01343	gene			
+PACEHLGO_01344	CDS			hypothetical protein
+PACEHLGO_01344	gene			
+PACEHLGO_01345	CDS	nuoF	1.6.5.11	NADH-quinone oxidoreductase subunit F
+PACEHLGO_01345	gene	nuoF		
+PACEHLGO_01346	CDS	nuoE	1.6.5.11	NADH-quinone oxidoreductase subunit E
+PACEHLGO_01346	gene	nuoE		
+PACEHLGO_01347	CDS	nuoD	1.6.5.11	NADH-quinone oxidoreductase subunit D
+PACEHLGO_01347	gene	nuoD		
+PACEHLGO_01348	CDS			hypothetical protein
+PACEHLGO_01348	gene			
+PACEHLGO_01349	CDS			hypothetical protein
+PACEHLGO_01349	gene			
+PACEHLGO_01350	CDS			hypothetical protein
+PACEHLGO_01350	gene			
+PACEHLGO_01351	CDS			Immunogenic protein MPB70
+PACEHLGO_01351	gene			
+PACEHLGO_01352	CDS	qacA_4		Antiseptic resistance protein
+PACEHLGO_01352	gene	qacA_4		
+PACEHLGO_01353	CDS			hypothetical protein
+PACEHLGO_01353	gene			
+PACEHLGO_01354	CDS			hypothetical protein
+PACEHLGO_01354	gene			
+PACEHLGO_01355	CDS			hypothetical protein
+PACEHLGO_01355	gene			
+PACEHLGO_01356	CDS			hypothetical protein
+PACEHLGO_01356	gene			
+PACEHLGO_01357	CDS			hypothetical protein
+PACEHLGO_01357	gene			
+PACEHLGO_01358	CDS	atsA_2	3.1.6.1	Arylsulfatase
+PACEHLGO_01358	gene	atsA_2		
+PACEHLGO_01359	CDS	betC	3.1.6.6	Choline-sulfatase
+PACEHLGO_01359	gene	betC		
+PACEHLGO_01360	CDS	fur		Ferric uptake regulation protein
+PACEHLGO_01360	gene	fur		
+PACEHLGO_01361	CDS			hypothetical protein
+PACEHLGO_01361	gene			
+PACEHLGO_01362	CDS			hypothetical protein
+PACEHLGO_01362	gene			
+PACEHLGO_01363	CDS			hypothetical protein
+PACEHLGO_01363	gene			
+PACEHLGO_01364	CDS			hypothetical protein
+PACEHLGO_01364	gene			
+PACEHLGO_01365	CDS			hypothetical protein
+PACEHLGO_01365	gene			
+PACEHLGO_01366	CDS			hypothetical protein
+PACEHLGO_01366	gene			
+PACEHLGO_01367	CDS	menH	4.2.99.20	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+PACEHLGO_01367	gene	menH		
+PACEHLGO_01368	CDS	walR		Transcriptional regulatory protein WalR
+PACEHLGO_01368	gene	walR		
+PACEHLGO_01369	CDS	mshD_3	2.3.1.189	Mycothiol acetyltransferase
+PACEHLGO_01369	gene	mshD_3		
+PACEHLGO_01370	CDS	ppk	2.7.4.1	Polyphosphate kinase
+PACEHLGO_01370	gene	ppk		
+PACEHLGO_01371	CDS			hypothetical protein
+PACEHLGO_01371	gene			
+PACEHLGO_01372	CDS	mutT1	3.6.1.55	putative 8-oxo-dGTP diphosphatase 1
+PACEHLGO_01372	gene	mutT1		
+PACEHLGO_01373	CDS			hypothetical protein
+PACEHLGO_01373	gene			
+PACEHLGO_01374	CDS			hypothetical protein
+PACEHLGO_01374	gene			
+PACEHLGO_01375	CDS			hypothetical protein
+PACEHLGO_01375	gene			
+PACEHLGO_01376	CDS			hypothetical protein
+PACEHLGO_01376	gene			
+PACEHLGO_01377	CDS			hypothetical protein
+PACEHLGO_01377	gene			
+PACEHLGO_01378	CDS			hypothetical protein
+PACEHLGO_01378	gene			
+PACEHLGO_01379	CDS			Green-light absorbing proteorhodopsin
+PACEHLGO_01379	gene			
+PACEHLGO_01380	CDS			hypothetical protein
+PACEHLGO_01380	gene			
+PACEHLGO_01381	CDS	der		GTPase Der
+PACEHLGO_01381	gene	der		
+PACEHLGO_01382	CDS	cmk_2	2.7.4.25	Cytidylate kinase
+PACEHLGO_01382	gene	cmk_2		
+PACEHLGO_01383	CDS	aroH	5.4.99.5	Chorismate mutase AroH
+PACEHLGO_01383	gene	aroH		
+PACEHLGO_01384	CDS		5.4.99.-	putative RNA pseudouridine synthase
+PACEHLGO_01384	gene			
+PACEHLGO_01385	CDS	scpB		Segregation and condensation protein B
+PACEHLGO_01385	gene	scpB		
+PACEHLGO_01386	CDS	scpA		Segregation and condensation protein A
+PACEHLGO_01386	gene	scpA		
+PACEHLGO_01387	CDS	xerD		Tyrosine recombinase XerD
+PACEHLGO_01387	gene	xerD		
+PACEHLGO_01388	CDS			hypothetical protein
+PACEHLGO_01388	gene			
+PACEHLGO_01389	CDS	act	3.-.-.-	Methanol dehydrogenase activator
+PACEHLGO_01389	gene	act		
+PACEHLGO_01390	CDS	pyrG	6.3.4.2	CTP synthase
+PACEHLGO_01390	gene	pyrG		
+PACEHLGO_01391	CDS	murC	6.3.2.8	UDP-N-acetylmuramate--L-alanine ligase
+PACEHLGO_01391	gene	murC		
+PACEHLGO_01392	CDS	ftsQ		Cell division protein FtsQ
+PACEHLGO_01392	gene	ftsQ		
+PACEHLGO_01393	CDS	ftsZ		Cell division protein FtsZ
+PACEHLGO_01393	gene	ftsZ		
+PACEHLGO_01394	CDS			Laccase domain protein
+PACEHLGO_01394	gene			
+PACEHLGO_01395	CDS	malG		Maltose transport system permease protein MalG
+PACEHLGO_01395	gene	malG		
+PACEHLGO_01396	CDS	malZ_2	3.2.1.20	Maltodextrin glucosidase
+PACEHLGO_01396	gene	malZ_2		
+PACEHLGO_01397	CDS			hypothetical protein
+PACEHLGO_01397	gene			
+PACEHLGO_01398	CDS		3.6.1.9	Non-canonical purine NTP pyrophosphatase
+PACEHLGO_01398	gene			
+PACEHLGO_01399	CDS	rph	2.7.7.56	Ribonuclease PH
+PACEHLGO_01399	gene	rph		
+PACEHLGO_01400	CDS	rnz	3.1.26.11	Ribonuclease Z
+PACEHLGO_01400	gene	rnz		
+PACEHLGO_01401	CDS	murI	5.1.1.3	Glutamate racemase
+PACEHLGO_01401	gene	murI		
+PACEHLGO_01402	CDS	cysM	2.5.1.113	O-phosphoserine sulfhydrylase
+PACEHLGO_01402	gene	cysM		
+PACEHLGO_01403	CDS	cysO_2		Sulfur carrier protein CysO
+PACEHLGO_01403	gene	cysO_2		
+PACEHLGO_01404	CDS	mec	3.4.17.-	CysO-cysteine peptidase
+PACEHLGO_01404	gene	mec		
+PACEHLGO_01405	CDS			hypothetical protein
+PACEHLGO_01405	gene			
+PACEHLGO_01406	CDS	clpS		ATP-dependent Clp protease adapter protein ClpS
+PACEHLGO_01406	gene	clpS		
+PACEHLGO_01407	CDS			hypothetical protein
+PACEHLGO_01407	gene			
+PACEHLGO_01408	CDS			hypothetical protein
+PACEHLGO_01408	gene			
+PACEHLGO_01409	CDS	ruvC	3.1.22.4	Crossover junction endodeoxyribonuclease RuvC
+PACEHLGO_01409	gene	ruvC		
+PACEHLGO_01410	CDS	ruvA	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvA
+PACEHLGO_01410	gene	ruvA		
+PACEHLGO_01411	CDS	ruvB	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvB
+PACEHLGO_01411	gene	ruvB		
+PACEHLGO_01412	CDS			hypothetical protein
+PACEHLGO_01412	gene			
+PACEHLGO_01413	CDS			hypothetical protein
+PACEHLGO_01413	gene			
+PACEHLGO_01414	CDS			hypothetical protein
+PACEHLGO_01414	gene			
+PACEHLGO_01415	CDS			hypothetical protein
+PACEHLGO_01415	gene			
+PACEHLGO_01416	CDS	pbpB		Penicillin-binding protein PbpB
+PACEHLGO_01416	gene	pbpB		
+PACEHLGO_01417	CDS	qacA_5		Antiseptic resistance protein
+PACEHLGO_01417	gene	qacA_5		
+PACEHLGO_01418	CDS			hypothetical protein
+PACEHLGO_01418	gene			
+PACEHLGO_01419	CDS			hypothetical protein
+PACEHLGO_01419	gene			
+PACEHLGO_01420	CDS	glnA_2	6.3.1.2	Glutamine synthetase 2
+PACEHLGO_01420	gene	glnA_2		
+PACEHLGO_01421	CDS	glnE		Bifunctional glutamine synthetase adenylyltransferase/adenylyl-removing enzyme
+PACEHLGO_01421	gene	glnE		
+PACEHLGO_01422	CDS			hypothetical protein
+PACEHLGO_01422	gene			
+PACEHLGO_01423	CDS	glnA_3	6.3.1.2	Glutamine synthetase
+PACEHLGO_01423	gene	glnA_3		
+PACEHLGO_01424	CDS			hypothetical protein
+PACEHLGO_01424	gene			
+PACEHLGO_01425	CDS			hypothetical protein
+PACEHLGO_01425	gene			
+PACEHLGO_01426	CDS			hypothetical protein
+PACEHLGO_01426	gene			
+PACEHLGO_01427	CDS			hypothetical protein
+PACEHLGO_01427	gene			
+PACEHLGO_01428	CDS	lipA	2.8.1.8	Lipoyl synthase
+PACEHLGO_01428	gene	lipA		
+PACEHLGO_01429	CDS	lipB	2.3.1.181	Octanoyltransferase
+PACEHLGO_01429	gene	lipB		
+PACEHLGO_01430	CDS			Epimerase family protein
+PACEHLGO_01430	gene			
+PACEHLGO_01431	CDS	dlaT	2.3.1.12	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+PACEHLGO_01431	gene	dlaT		
+PACEHLGO_01432	CDS			putative HTH-type transcriptional regulator
+PACEHLGO_01432	gene			
+PACEHLGO_01433	CDS			hypothetical protein
+PACEHLGO_01433	gene			
+PACEHLGO_01434	CDS			hypothetical protein
+PACEHLGO_01434	gene			
+PACEHLGO_01435	CDS			hypothetical protein
+PACEHLGO_01435	gene			
+PACEHLGO_01436	CDS	radA	3.6.4.-	DNA repair protein RadA
+PACEHLGO_01436	gene	radA		
+PACEHLGO_01437	CDS	mutY	3.2.2.-	Adenine DNA glycosylase
+PACEHLGO_01437	gene	mutY		
+PACEHLGO_01438	CDS	clpC1		ATP-dependent Clp protease ATP-binding subunit ClpC1
+PACEHLGO_01438	gene	clpC1		
+PACEHLGO_01439	CDS			hypothetical protein
+PACEHLGO_01439	gene			
+PACEHLGO_01440	CDS		1.3.1.-	Trans-acting enoyl reductase
+PACEHLGO_01440	gene			
+PACEHLGO_01441	CDS			hypothetical protein
+PACEHLGO_01441	gene			
+PACEHLGO_01442	CDS			hypothetical protein
+PACEHLGO_01442	gene			
+PACEHLGO_01443	CDS	crcB		Putative fluoride ion transporter CrcB
+PACEHLGO_01443	gene	crcB		
+PACEHLGO_01444	CDS			hypothetical protein
+PACEHLGO_01444	gene			
+PACEHLGO_01445	CDS	cimA	2.3.1.182	(R)-citramalate synthase
+PACEHLGO_01445	gene	cimA		
+PACEHLGO_01446	CDS			hypothetical protein
+PACEHLGO_01446	gene			
+PACEHLGO_01447	CDS		4.3.2.3	Ureidoglycolate lyase
+PACEHLGO_01447	gene			
+PACEHLGO_01448	CDS			hypothetical protein
+PACEHLGO_01448	gene			
+PACEHLGO_01449	CDS	menA_1	2.5.1.74	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+PACEHLGO_01449	gene	menA_1		
+PACEHLGO_01450	CDS			hypothetical protein
+PACEHLGO_01450	gene			
+PACEHLGO_01451	CDS			hypothetical protein
+PACEHLGO_01451	gene			
+PACEHLGO_01452	CDS	ccsA		Cytochrome c biogenesis protein CcsA
+PACEHLGO_01452	gene	ccsA		
+PACEHLGO_01453	CDS			hypothetical protein
+PACEHLGO_01453	gene			
+PACEHLGO_01454	CDS	nadD	2.7.7.18	putative nicotinate-nucleotide adenylyltransferase
+PACEHLGO_01454	gene	nadD		
+PACEHLGO_01455	CDS			hypothetical protein
+PACEHLGO_01455	gene			
+PACEHLGO_01456	CDS	proA	1.2.1.41	Gamma-glutamyl phosphate reductase
+PACEHLGO_01456	gene	proA		
+PACEHLGO_01457	CDS			hypothetical protein
+PACEHLGO_01457	gene			
+PACEHLGO_01458	CDS			Insertion sequence IS5376 putative ATP-binding protein
+PACEHLGO_01458	gene			
+PACEHLGO_01459	CDS	cbhB	3.2.1.91	Exoglucanase B
+PACEHLGO_01459	gene	cbhB		
+PACEHLGO_01460	CDS	carA	6.3.5.5	Carbamoyl-phosphate synthase small chain
+PACEHLGO_01460	gene	carA		
+PACEHLGO_01461	CDS	carB	6.3.5.5	Carbamoyl-phosphate synthase large chain
+PACEHLGO_01461	gene	carB		
+PACEHLGO_01462	CDS	pyrK		Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+PACEHLGO_01462	gene	pyrK		
+PACEHLGO_01463	CDS	bamB_2		Outer membrane protein assembly factor BamB
+PACEHLGO_01463	gene	bamB_2		
+PACEHLGO_01464	CDS			hypothetical protein
+PACEHLGO_01464	gene			
+PACEHLGO_01465	tRNA			tRNA-Ser(gga)
+PACEHLGO_01465	gene			
+PACEHLGO_01466	CDS			hypothetical protein
+PACEHLGO_01466	gene			
+PACEHLGO_01467	CDS	ppm1_2	2.4.1.-	Polyprenol monophosphomannose synthase
+PACEHLGO_01467	gene	ppm1_2		
+PACEHLGO_01468	CDS			hypothetical protein
+PACEHLGO_01468	gene			
+PACEHLGO_01469	CDS			hypothetical protein
+PACEHLGO_01469	gene			
+PACEHLGO_01470	CDS	ftsH_3	3.4.24.-	ATP-dependent zinc metalloprotease FtsH
+PACEHLGO_01470	gene	ftsH_3		
+PACEHLGO_01471	CDS	folE_2	3.5.4.16	GTP cyclohydrolase 1
+PACEHLGO_01471	gene	folE_2		
+PACEHLGO_01472	CDS			hypothetical protein
+PACEHLGO_01472	gene			
+PACEHLGO_01473	CDS			hypothetical protein
+PACEHLGO_01473	gene			
+PACEHLGO_01474	CDS			hypothetical protein
+PACEHLGO_01474	gene			
+PACEHLGO_01475	CDS			hypothetical protein
+PACEHLGO_01475	gene			
+PACEHLGO_01476	CDS	tap	3.4.14.-	Tripeptidyl aminopeptidase
+PACEHLGO_01476	gene	tap		
+PACEHLGO_01477	CDS			hypothetical protein
+PACEHLGO_01477	gene			
+PACEHLGO_01478	CDS			hypothetical protein
+PACEHLGO_01478	gene			
+PACEHLGO_01479	CDS	actP	3.6.3.4	Copper-transporting P-type ATPase
+PACEHLGO_01479	gene	actP		
+PACEHLGO_01480	CDS	cobB	3.5.1.-	NAD-dependent protein deacetylase
+PACEHLGO_01480	gene	cobB		
+PACEHLGO_01481	CDS	yhjD		Inner membrane protein YhjD
+PACEHLGO_01481	gene	yhjD		
+PACEHLGO_01482	CDS			hypothetical protein
+PACEHLGO_01482	gene			
+PACEHLGO_01483	CDS			putative sulfate transporter
+PACEHLGO_01483	gene			
+PACEHLGO_01484	CDS			hypothetical protein
+PACEHLGO_01484	gene			
+PACEHLGO_01485	CDS		3.4.21.4	Trypsin
+PACEHLGO_01485	gene			
+PACEHLGO_01486	CDS	ettA_2		Energy-dependent translational throttle protein EttA
+PACEHLGO_01486	gene	ettA_2		
+PACEHLGO_01487	CDS			hypothetical protein
+PACEHLGO_01487	gene			
+PACEHLGO_01488	CDS			hypothetical protein
+PACEHLGO_01488	gene			
+PACEHLGO_01489	CDS			hypothetical protein
+PACEHLGO_01489	gene			
+PACEHLGO_01490	CDS			hypothetical protein
+PACEHLGO_01490	gene			
+PACEHLGO_01491	CDS	iolX	1.1.1.370	scyllo-inositol 2-dehydrogenase (NAD(+))
+PACEHLGO_01491	gene	iolX		
+PACEHLGO_01492	CDS	desV	2.6.1.106	dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase
+PACEHLGO_01492	gene	desV		
+PACEHLGO_01493	CDS	wbpD_2	2.3.1.201	UDP-2-acetamido-3-amino-2,3-dideoxy-D-glucuronate N-acetyltransferase
+PACEHLGO_01493	gene	wbpD_2		
+PACEHLGO_01494	CDS			hypothetical protein
+PACEHLGO_01494	gene			
+PACEHLGO_01495	CDS	ppgK_2	2.7.1.63	Polyphosphate glucokinase
+PACEHLGO_01495	gene	ppgK_2		
+PACEHLGO_01496	CDS	pntAA	1.6.1.2	NAD(P) transhydrogenase subunit alpha part 1
+PACEHLGO_01496	gene	pntAA		
+PACEHLGO_01497	CDS	pntA	1.6.1.2	NAD(P) transhydrogenase subunit alpha
+PACEHLGO_01497	gene	pntA		
+PACEHLGO_01498	CDS	pntB_1	1.6.1.2	NAD(P) transhydrogenase subunit beta
+PACEHLGO_01498	gene	pntB_1		
+PACEHLGO_01499	CDS	tadA_1	3.5.4.33	tRNA-specific adenosine deaminase
+PACEHLGO_01499	gene	tadA_1		
+PACEHLGO_01500	tRNA			tRNA-Ser(cga)
+PACEHLGO_01500	gene			
+PACEHLGO_01501	CDS		2.4.1.11	Glycogen synthase
+PACEHLGO_01501	gene			
+PACEHLGO_01502	CDS			hypothetical protein
+PACEHLGO_01502	gene			
+PACEHLGO_01503	CDS	vanH_1	1.1.1.-	D-specific alpha-keto acid dehydrogenase
+PACEHLGO_01503	gene	vanH_1		
+PACEHLGO_01504	tRNA			tRNA-Ser(gga)
+PACEHLGO_01504	gene			
+PACEHLGO_01505	CDS			hypothetical protein
+PACEHLGO_01505	gene			
+PACEHLGO_01506	CDS			hypothetical protein
+PACEHLGO_01506	gene			
+PACEHLGO_01507	CDS			hypothetical protein
+PACEHLGO_01507	gene			
+PACEHLGO_01508	CDS			hypothetical protein
+PACEHLGO_01508	gene			
+PACEHLGO_01509	CDS	ligD		Multifunctional non-homologous end joining protein LigD
+PACEHLGO_01509	gene	ligD		
+PACEHLGO_01510	CDS	mscL		Large-conductance mechanosensitive channel
+PACEHLGO_01510	gene	mscL		
+PACEHLGO_01511	CDS			hypothetical protein
+PACEHLGO_01511	gene			
+PACEHLGO_01512	CDS			hypothetical protein
+PACEHLGO_01512	gene			
+PACEHLGO_01513	CDS	nanK	2.7.1.60	N-acetylmannosamine kinase
+PACEHLGO_01513	gene	nanK		
+PACEHLGO_01514	CDS			hypothetical protein
+PACEHLGO_01514	gene			
+PACEHLGO_01515	CDS	murF_2	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+PACEHLGO_01515	gene	murF_2		
+PACEHLGO_01516	CDS	cobQ		Cobyric acid synthase
+PACEHLGO_01516	gene	cobQ		
+PACEHLGO_01517	CDS	exuT		Hexuronate transporter
+PACEHLGO_01517	gene	exuT		
+PACEHLGO_01518	CDS			hypothetical protein
+PACEHLGO_01518	gene			
+PACEHLGO_01519	CDS			hypothetical protein
+PACEHLGO_01519	gene			
+PACEHLGO_01520	CDS			hypothetical protein
+PACEHLGO_01520	gene			
+PACEHLGO_01521	CDS	pdhD	1.8.1.4	Dihydrolipoyl dehydrogenase
+PACEHLGO_01521	gene	pdhD		
+PACEHLGO_01522	CDS	pepA_2	3.4.11.1	putative cytosol aminopeptidase
+PACEHLGO_01522	gene	pepA_2		
+PACEHLGO_01523	CDS	gcvT	2.1.2.10	Aminomethyltransferase
+PACEHLGO_01523	gene	gcvT		
+PACEHLGO_01524	CDS	kipR		HTH-type transcriptional regulator KipR
+PACEHLGO_01524	gene	kipR		
+PACEHLGO_01525	CDS	leuC	4.2.1.33	3-isopropylmalate dehydratase large subunit
+PACEHLGO_01525	gene	leuC		
+PACEHLGO_01526	CDS	leuD	4.2.1.33	3-isopropylmalate dehydratase small subunit
+PACEHLGO_01526	gene	leuD		
+PACEHLGO_01527	CDS			hypothetical protein
+PACEHLGO_01527	gene			
+PACEHLGO_01528	CDS			hypothetical protein
+PACEHLGO_01528	gene			
+PACEHLGO_01529	CDS	yfeO		Putative ion-transport protein YfeO
+PACEHLGO_01529	gene	yfeO		
+PACEHLGO_01530	CDS			hypothetical protein
+PACEHLGO_01530	gene			
+PACEHLGO_01531	CDS			hypothetical protein
+PACEHLGO_01531	gene			
+PACEHLGO_01532	CDS			hypothetical protein
+PACEHLGO_01532	gene			
+PACEHLGO_01533	CDS	kefC		Glutathione-regulated potassium-efflux system protein KefC
+PACEHLGO_01533	gene	kefC		
+PACEHLGO_01534	CDS			hypothetical protein
+PACEHLGO_01534	gene			
+PACEHLGO_01535	CDS			putative membrane protein
+PACEHLGO_01535	gene			
+PACEHLGO_01536	CDS			hypothetical protein
+PACEHLGO_01536	gene			
+PACEHLGO_01537	CDS			hypothetical protein
+PACEHLGO_01537	gene			
+PACEHLGO_01538	CDS	trmH	2.1.1.34	tRNA (guanosine(18)-2'-O)-methyltransferase
+PACEHLGO_01538	gene	trmH		
+PACEHLGO_01539	CDS		1.6.99.3	putative NADH oxidase
+PACEHLGO_01539	gene			
+PACEHLGO_01540	CDS			hypothetical protein
+PACEHLGO_01540	gene			
+PACEHLGO_01541	CDS	malI		Maltose regulon regulatory protein MalI
+PACEHLGO_01541	gene	malI		
+PACEHLGO_01542	CDS	gno	1.1.1.69	Gluconate 5-dehydrogenase
+PACEHLGO_01542	gene	gno		
+PACEHLGO_01543	CDS	nlhH	3.1.1.1	Carboxylesterase NlhH
+PACEHLGO_01543	gene	nlhH		
+PACEHLGO_01544	CDS	fba	4.1.2.13	Fructose-bisphosphate aldolase
+PACEHLGO_01544	gene	fba		
+PACEHLGO_01545	CDS	purA	6.3.4.4	Adenylosuccinate synthetase
+PACEHLGO_01545	gene	purA		
+PACEHLGO_01546	CDS			hypothetical protein
+PACEHLGO_01546	gene			
+PACEHLGO_01547	CDS	purD	6.3.4.13	Phosphoribosylamine--glycine ligase
+PACEHLGO_01547	gene	purD		
+PACEHLGO_01548	CDS	purB	4.3.2.2	Adenylosuccinate lyase
+PACEHLGO_01548	gene	purB		
+PACEHLGO_01549	CDS	dapH	2.3.1.89	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+PACEHLGO_01549	gene	dapH		
+PACEHLGO_01550	CDS	suhB	3.1.3.25	Inositol-1-monophosphatase SuhB
+PACEHLGO_01550	gene	suhB		
+PACEHLGO_01551	CDS	hemH	4.99.1.1	Ferrochelatase
+PACEHLGO_01551	gene	hemH		
+PACEHLGO_01552	CDS			hypothetical protein
+PACEHLGO_01552	gene			
+PACEHLGO_01553	CDS			hypothetical protein
+PACEHLGO_01553	gene			
+PACEHLGO_01554	CDS	pikAII	2.3.1.239	Narbonolide/10-deoxymethynolide synthase PikA2, modules 3 and 4
+PACEHLGO_01554	gene	pikAII		
+PACEHLGO_01555	CDS			hypothetical protein
+PACEHLGO_01555	gene			
+PACEHLGO_01556	CDS		2.4.1.-	Polyprenol-phosphate-mannose-dependent alpha-(1-2)-phosphatidylinositol mannoside mannosyltransferase
+PACEHLGO_01556	gene			
+PACEHLGO_01557	CDS		3.2.2.-	Putative 3-methyladenine DNA glycosylase
+PACEHLGO_01557	gene			
+PACEHLGO_01558	CDS			hypothetical protein
+PACEHLGO_01558	gene			
+PACEHLGO_01559	tRNA			tRNA-Arg(ccg)
+PACEHLGO_01559	gene			
+PACEHLGO_01560	CDS			hypothetical protein
+PACEHLGO_01560	gene			
+PACEHLGO_01561	CDS	ftsX		Cell division protein FtsX
+PACEHLGO_01561	gene	ftsX		
+PACEHLGO_01562	CDS	ftsE		Cell division ATP-binding protein FtsE
+PACEHLGO_01562	gene	ftsE		
+PACEHLGO_01563	CDS	prfB		Peptide chain release factor 2
+PACEHLGO_01563	gene	prfB		
+PACEHLGO_01564	CDS	gdh	1.4.1.2	NAD-specific glutamate dehydrogenase
+PACEHLGO_01564	gene	gdh		
+PACEHLGO_01565	CDS	ung_2	3.2.2.27	Uracil-DNA glycosylase
+PACEHLGO_01565	gene	ung_2		
+PACEHLGO_01566	CDS			hypothetical protein
+PACEHLGO_01566	gene			
+PACEHLGO_01567	CDS			hypothetical protein
+PACEHLGO_01567	gene			
+PACEHLGO_01568	CDS			hypothetical protein
+PACEHLGO_01568	gene			
+PACEHLGO_01569	CDS	glnB		Nitrogen regulatory protein P-II
+PACEHLGO_01569	gene	glnB		
+PACEHLGO_01570	CDS	amt		Ammonia channel
+PACEHLGO_01570	gene	amt		
+PACEHLGO_01571	CDS	ftsY		Signal recognition particle receptor FtsY
+PACEHLGO_01571	gene	ftsY		
+PACEHLGO_01572	CDS	smc		Chromosome partition protein Smc
+PACEHLGO_01572	gene	smc		
+PACEHLGO_01573	CDS			hypothetical protein
+PACEHLGO_01573	gene			
+PACEHLGO_01574	CDS	fpg1	3.2.2.23	Formamidopyrimidine-DNA glycosylase 1
+PACEHLGO_01574	gene	fpg1		
+PACEHLGO_01575	CDS	rnc	3.1.26.3	Ribonuclease 3
+PACEHLGO_01575	gene	rnc		
+PACEHLGO_01576	CDS	rpmF		50S ribosomal protein L32
+PACEHLGO_01576	gene	rpmF		
+PACEHLGO_01577	CDS			hypothetical protein
+PACEHLGO_01577	gene			
+PACEHLGO_01578	CDS			hypothetical protein
+PACEHLGO_01578	gene			
+PACEHLGO_01579	CDS	coaD	2.7.7.3	Phosphopantetheine adenylyltransferase
+PACEHLGO_01579	gene	coaD		
+PACEHLGO_01580	CDS	rsmD	2.1.1.171	Ribosomal RNA small subunit methyltransferase D
+PACEHLGO_01580	gene	rsmD		
+PACEHLGO_01581	CDS	recG	3.6.4.12	ATP-dependent DNA helicase RecG
+PACEHLGO_01581	gene	recG		
+PACEHLGO_01582	CDS	lhgO	1.1.3.15	L-2-hydroxyglutarate oxidase LhgO
+PACEHLGO_01582	gene	lhgO		
+PACEHLGO_01583	CDS	cydD		ATP-binding/permease protein CydD
+PACEHLGO_01583	gene	cydD		
+PACEHLGO_01584	CDS	strE	4.2.1.46	dTDP-glucose 4,6-dehydratase
+PACEHLGO_01584	gene	strE		
+PACEHLGO_01585	CDS	strL	1.1.1.133	dTDP-4-dehydrorhamnose reductase
+PACEHLGO_01585	gene	strL		
+PACEHLGO_01586	CDS		2.4.-.-	putative glycosyltransferase
+PACEHLGO_01586	gene			
+PACEHLGO_01587	CDS	wbbL	2.4.1.289	N-acetylglucosaminyl-diphospho-decaprenol L-rhamnosyltransferase
+PACEHLGO_01587	gene	wbbL		
+PACEHLGO_01588	CDS			hypothetical protein
+PACEHLGO_01588	gene			
+PACEHLGO_01589	CDS			hypothetical protein
+PACEHLGO_01589	gene			
+PACEHLGO_01590	CDS			hypothetical protein
+PACEHLGO_01590	gene			
+PACEHLGO_01591	CDS	atpG		ATP synthase gamma chain
+PACEHLGO_01591	gene	atpG		
+PACEHLGO_01592	CDS	atpA	3.6.3.14	ATP synthase subunit alpha
+PACEHLGO_01592	gene	atpA		
+PACEHLGO_01593	CDS	atpH		ATP synthase subunit delta
+PACEHLGO_01593	gene	atpH		
+PACEHLGO_01594	CDS	atpF		ATP synthase subunit b
+PACEHLGO_01594	gene	atpF		
+PACEHLGO_01595	CDS	atpE		ATP synthase subunit c
+PACEHLGO_01595	gene	atpE		
+PACEHLGO_01596	CDS	atpB		ATP synthase subunit a
+PACEHLGO_01596	gene	atpB		
+PACEHLGO_01597	CDS			hypothetical protein
+PACEHLGO_01597	gene			
+PACEHLGO_01598	CDS	ald	1.4.1.1	Alanine dehydrogenase
+PACEHLGO_01598	gene	ald		
+PACEHLGO_01599	CDS	rcsC	2.7.13.3	Sensor histidine kinase RcsC
+PACEHLGO_01599	gene	rcsC		
+PACEHLGO_01600	CDS			hypothetical protein
+PACEHLGO_01600	gene			
+PACEHLGO_01601	CDS	wecA	2.7.8.35	Decaprenyl-phosphate N-acetylglucosaminephosphotransferase
+PACEHLGO_01601	gene	wecA		
+PACEHLGO_01602	CDS	glyA	2.1.2.1	Serine hydroxymethyltransferase
+PACEHLGO_01602	gene	glyA		
+PACEHLGO_01603	CDS		2.7.7.87	Putative threonylcarbamoyl-AMP synthase
+PACEHLGO_01603	gene			
+PACEHLGO_01604	CDS	prmC	2.1.1.297	Release factor glutamine methyltransferase
+PACEHLGO_01604	gene	prmC		
+PACEHLGO_01605	CDS	prfA		Peptide chain release factor 1
+PACEHLGO_01605	gene	prfA		
+PACEHLGO_01606	CDS	rpmE		50S ribosomal protein L31
+PACEHLGO_01606	gene	rpmE		
+PACEHLGO_01607	CDS	rho	3.6.4.-	Transcription termination factor Rho
+PACEHLGO_01607	gene	rho		
+PACEHLGO_01608	CDS	thrB	2.7.1.39	Homoserine kinase
+PACEHLGO_01608	gene	thrB		
+PACEHLGO_01609	CDS	thrC_2	4.2.3.1	Threonine synthase
+PACEHLGO_01609	gene	thrC_2		
+PACEHLGO_01610	CDS	hom	1.1.1.3	Homoserine dehydrogenase
+PACEHLGO_01610	gene	hom		
+PACEHLGO_01611	CDS	lysA	4.1.1.20	Diaminopimelate decarboxylase
+PACEHLGO_01611	gene	lysA		
+PACEHLGO_01612	CDS	argS	6.1.1.19	Arginine--tRNA ligase
+PACEHLGO_01612	gene	argS		
+PACEHLGO_01613	CDS	ymdB	3.5.1.-	O-acetyl-ADP-ribose deacetylase
+PACEHLGO_01613	gene	ymdB		
+PACEHLGO_01614	CDS	yccF		Inner membrane protein YccF
+PACEHLGO_01614	gene	yccF		
+PACEHLGO_01615	CDS			hypothetical protein
+PACEHLGO_01615	gene			
+PACEHLGO_01616	CDS			hypothetical protein
+PACEHLGO_01616	gene			
+PACEHLGO_01617	CDS			hypothetical protein
+PACEHLGO_01617	gene			
+PACEHLGO_01618	CDS			hypothetical protein
+PACEHLGO_01618	gene			
+PACEHLGO_01619	CDS	fokIM	2.1.1.72	Modification methylase FokI
+PACEHLGO_01619	gene	fokIM		
+PACEHLGO_01620	CDS			hypothetical protein
+PACEHLGO_01620	gene			
+PACEHLGO_01621	CDS	plsC_1	2.3.1.-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+PACEHLGO_01621	gene	plsC_1		
+PACEHLGO_01622	CDS	fkbP_2	5.2.1.8	FK506-binding protein
+PACEHLGO_01622	gene	fkbP_2		
+PACEHLGO_01623	CDS			hypothetical protein
+PACEHLGO_01623	gene			
+PACEHLGO_01624	CDS			hypothetical protein
+PACEHLGO_01624	gene			
+PACEHLGO_01625	CDS			hypothetical protein
+PACEHLGO_01625	gene			
+PACEHLGO_01626	CDS			hypothetical protein
+PACEHLGO_01626	gene			
+PACEHLGO_01627	CDS	gppA	3.6.1.40	Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase
+PACEHLGO_01627	gene	gppA		
+PACEHLGO_01628	CDS			hypothetical protein
+PACEHLGO_01628	gene			
+PACEHLGO_01629	CDS	gcvR		Glycine cleavage system transcriptional repressor
+PACEHLGO_01629	gene	gcvR		
+PACEHLGO_01630	CDS	def2	3.5.1.88	Peptide deformylase 2
+PACEHLGO_01630	gene	def2		
+PACEHLGO_01631	tRNA			tRNA-Leu(taa)
+PACEHLGO_01631	gene			
+PACEHLGO_01632	CDS			hypothetical protein
+PACEHLGO_01632	gene			
+PACEHLGO_01633	CDS			hypothetical protein
+PACEHLGO_01633	gene			
+PACEHLGO_01634	CDS			hypothetical protein
+PACEHLGO_01634	gene			
+PACEHLGO_01635	CDS	dpgD_1	4.2.1.17	Enoyl-CoA-hydratase
+PACEHLGO_01635	gene	dpgD_1		
+PACEHLGO_01636	CDS			hypothetical protein
+PACEHLGO_01636	gene			
+PACEHLGO_01637	CDS			hypothetical protein
+PACEHLGO_01637	gene			
+PACEHLGO_01638	CDS			hypothetical protein
+PACEHLGO_01638	gene			
+PACEHLGO_01639	CDS	capA		Capsule biosynthesis protein CapA
+PACEHLGO_01639	gene	capA		
+PACEHLGO_01640	CDS			hypothetical protein
+PACEHLGO_01640	gene			
+PACEHLGO_01641	CDS			hypothetical protein
+PACEHLGO_01641	gene			
+PACEHLGO_01642	CDS			hypothetical protein
+PACEHLGO_01642	gene			
+PACEHLGO_01643	CDS			hypothetical protein
+PACEHLGO_01643	gene			
+PACEHLGO_01644	CDS	fabG_4	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+PACEHLGO_01644	gene	fabG_4		
+PACEHLGO_01645	CDS			hypothetical protein
+PACEHLGO_01645	gene			
+PACEHLGO_01646	CDS	adhA	1.1.1.1	putative alcohol dehydrogenase AdhA
+PACEHLGO_01646	gene	adhA		
+PACEHLGO_01647	CDS			hypothetical protein
+PACEHLGO_01647	gene			
+PACEHLGO_01648	CDS			hypothetical protein
+PACEHLGO_01648	gene			
+PACEHLGO_01649	CDS			hypothetical protein
+PACEHLGO_01649	gene			
+PACEHLGO_01650	CDS	vanX	3.4.13.22	D-alanyl-D-alanine dipeptidase
+PACEHLGO_01650	gene	vanX		
+PACEHLGO_01651	CDS	pipB_2		Secreted effector protein PipB
+PACEHLGO_01651	gene	pipB_2		
+PACEHLGO_01652	CDS			hypothetical protein
+PACEHLGO_01652	gene			
+PACEHLGO_01653	CDS			putative inactive lipase
+PACEHLGO_01653	gene			
+PACEHLGO_01654	CDS			hypothetical protein
+PACEHLGO_01654	gene			
+PACEHLGO_01655	CDS			hypothetical protein
+PACEHLGO_01655	gene			
+PACEHLGO_01656	CDS			hypothetical protein
+PACEHLGO_01656	gene			
+PACEHLGO_01657	CDS			hypothetical protein
+PACEHLGO_01657	gene			
+PACEHLGO_01658	CDS	pfp	2.7.1.90	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+PACEHLGO_01658	gene	pfp		
+PACEHLGO_01659	CDS			hypothetical protein
+PACEHLGO_01659	gene			
+PACEHLGO_01660	CDS			Dodecin
+PACEHLGO_01660	gene			
+PACEHLGO_01661	CDS			Universal stress protein
+PACEHLGO_01661	gene			
+PACEHLGO_01662	CDS			hypothetical protein
+PACEHLGO_01662	gene			
+PACEHLGO_01663	CDS			hypothetical protein
+PACEHLGO_01663	gene			
+PACEHLGO_01664	CDS	glpQ1	3.1.4.46	putative glycerophosphodiester phosphodiesterase 1
+PACEHLGO_01664	gene	glpQ1		
+PACEHLGO_01665	CDS			hypothetical protein
+PACEHLGO_01665	gene			
+PACEHLGO_01666	CDS	sufC		Vegetative protein 296
+PACEHLGO_01666	gene	sufC		
+PACEHLGO_01667	CDS	andAb		Anthranilate 1,2-dioxygenase ferredoxin subunit
+PACEHLGO_01667	gene	andAb		
+PACEHLGO_01668	CDS	sufD		FeS cluster assembly protein SufD
+PACEHLGO_01668	gene	sufD		
+PACEHLGO_01669	CDS			hypothetical protein
+PACEHLGO_01669	gene			
+PACEHLGO_01670	CDS			hypothetical protein
+PACEHLGO_01670	gene			
+PACEHLGO_01671	CDS	phaJ_2	4.2.1.119	(R)-specific enoyl-CoA hydratase
+PACEHLGO_01671	gene	phaJ_2		
+PACEHLGO_01672	CDS	lpxD	2.3.1.-	UDP-3-O-acylglucosamine N-acyltransferase
+PACEHLGO_01672	gene	lpxD		
+PACEHLGO_01673	CDS	fcl	1.1.1.271	GDP-L-fucose synthase
+PACEHLGO_01673	gene	fcl		
+PACEHLGO_01674	CDS	kanF	2.4.1.284	2-deoxystreptamine glucosyltransferase
+PACEHLGO_01674	gene	kanF		
+PACEHLGO_01675	CDS	gabD2_2	1.2.1.79	Putative succinate-semialdehyde dehydrogenase [NADP(+)] 2
+PACEHLGO_01675	gene	gabD2_2		
+PACEHLGO_01676	CDS		1.-.-.-	Putative Rieske 2Fe-2S iron-sulfur protein/MSMEI_6242
+PACEHLGO_01676	gene			
+PACEHLGO_01677	CDS	hbd	1.1.1.157	3-hydroxybutyryl-CoA dehydrogenase
+PACEHLGO_01677	gene	hbd		
+PACEHLGO_01678	CDS	rnhA	3.1.26.4	Ribonuclease HI
+PACEHLGO_01678	gene	rnhA		
+PACEHLGO_01679	CDS	ftsH1	3.4.24.-	ATP-dependent zinc metalloprotease FtsH 1
+PACEHLGO_01679	gene	ftsH1		
+PACEHLGO_01680	CDS			hypothetical protein
+PACEHLGO_01680	gene			
+PACEHLGO_01681	CDS	fabG_5	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+PACEHLGO_01681	gene	fabG_5		
+PACEHLGO_01682	CDS	bpoC_2	1.11.1.18	Putative non-heme bromoperoxidase BpoC
+PACEHLGO_01682	gene	bpoC_2		
+PACEHLGO_01683	CDS	oatA_4	2.3.1.-	O-acetyltransferase OatA
+PACEHLGO_01683	gene	oatA_4		
+PACEHLGO_01684	CDS	trxC		Putative thioredoxin 2
+PACEHLGO_01684	gene	trxC		
+PACEHLGO_01685	CDS	whiD_2		Transcriptional regulator WhiD
+PACEHLGO_01685	gene	whiD_2		
+PACEHLGO_01686	CDS			hypothetical protein
+PACEHLGO_01686	gene			
+PACEHLGO_01687	CDS	ydfJ_3		Membrane protein YdfJ
+PACEHLGO_01687	gene	ydfJ_3		
+PACEHLGO_01688	CDS	dhlA	3.8.1.5	Haloalkane dehalogenase
+PACEHLGO_01688	gene	dhlA		
+PACEHLGO_01689	CDS	glpC		Anaerobic glycerol-3-phosphate dehydrogenase subunit C
+PACEHLGO_01689	gene	glpC		
+PACEHLGO_01690	CDS			hypothetical protein
+PACEHLGO_01690	gene			
+PACEHLGO_01691	CDS			hypothetical protein
+PACEHLGO_01691	gene			
+PACEHLGO_01692	CDS			hypothetical protein
+PACEHLGO_01692	gene			
+PACEHLGO_01693	CDS			hypothetical protein
+PACEHLGO_01693	gene			
+PACEHLGO_01694	CDS			hypothetical protein
+PACEHLGO_01694	gene			
+PACEHLGO_01695	CDS			hypothetical protein
+PACEHLGO_01695	gene			
+PACEHLGO_01696	CDS	dcd	3.5.4.13	dCTP deaminase
+PACEHLGO_01696	gene	dcd		
+PACEHLGO_01697	CDS	lytR		Transcriptional regulator LytR
+PACEHLGO_01697	gene	lytR		
+PACEHLGO_01698	CDS			hypothetical protein
+PACEHLGO_01698	gene			
+PACEHLGO_01699	CDS	pat	2.6.1.-	Putative phenylalanine aminotransferase
+PACEHLGO_01699	gene	pat		
+PACEHLGO_01700	CDS			hypothetical protein
+PACEHLGO_01700	gene			
+PACEHLGO_01701	CDS			hypothetical protein
+PACEHLGO_01701	gene			
+PACEHLGO_01702	CDS			hypothetical protein
+PACEHLGO_01702	gene			
+PACEHLGO_01703	CDS	ydfJ_4		Membrane protein YdfJ
+PACEHLGO_01703	gene	ydfJ_4		
+PACEHLGO_01704	CDS			hypothetical protein
+PACEHLGO_01704	gene			
+PACEHLGO_01705	CDS			hypothetical protein
+PACEHLGO_01705	gene			
+PACEHLGO_01706	CDS	cysA_2	3.6.3.25	Sulfate/thiosulfate import ATP-binding protein CysA
+PACEHLGO_01706	gene	cysA_2		
+PACEHLGO_01707	CDS	modB		Molybdenum transport system permease protein ModB
+PACEHLGO_01707	gene	modB		
+PACEHLGO_01708	CDS	thiB		Thiamine-binding periplasmic protein
+PACEHLGO_01708	gene	thiB		
+PACEHLGO_01709	CDS	murA	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+PACEHLGO_01709	gene	murA		
+PACEHLGO_01710	CDS			hypothetical protein
+PACEHLGO_01710	gene			
+PACEHLGO_01711	CDS			hypothetical protein
+PACEHLGO_01711	gene			
+PACEHLGO_01712	CDS	amiC	3.5.1.4	Putative amidase AmiC
+PACEHLGO_01712	gene	amiC		
+PACEHLGO_01713	CDS	acn	4.2.1.3	Aconitate hydratase A
+PACEHLGO_01713	gene	acn		
+PACEHLGO_01714	CDS			hypothetical protein
+PACEHLGO_01714	gene			
+PACEHLGO_01715	CDS			hypothetical protein
+PACEHLGO_01715	gene			
+PACEHLGO_01716	CDS			hypothetical protein
+PACEHLGO_01716	gene			
+PACEHLGO_01717	CDS		2.1.3.1	Methylmalonyl-CoA carboxyltransferase 12S subunit
+PACEHLGO_01717	gene			
+PACEHLGO_01718	CDS			hypothetical protein
+PACEHLGO_01718	gene			
+PACEHLGO_01719	CDS	pntB_2	1.6.1.2	NAD(P) transhydrogenase subunit beta
+PACEHLGO_01719	gene	pntB_2		
+PACEHLGO_01720	CDS	tadA_2	3.5.4.33	tRNA-specific adenosine deaminase
+PACEHLGO_01720	gene	tadA_2		
+PACEHLGO_01721	tRNA			tRNA-Ser(cga)
+PACEHLGO_01721	gene			
+PACEHLGO_01722	CDS	mshA_2	2.4.1.250	D-inositol-3-phosphate glycosyltransferase
+PACEHLGO_01722	gene	mshA_2		
+PACEHLGO_01723	CDS			hypothetical protein
+PACEHLGO_01723	gene			
+PACEHLGO_01724	CDS	vanH_2	1.1.1.-	D-specific alpha-keto acid dehydrogenase
+PACEHLGO_01724	gene	vanH_2		
+PACEHLGO_01725	tRNA			tRNA-Ser(gga)
+PACEHLGO_01725	gene			
+PACEHLGO_01726	CDS			hypothetical protein
+PACEHLGO_01726	gene			
+PACEHLGO_01727	CDS			hypothetical protein
+PACEHLGO_01727	gene			
+PACEHLGO_01728	CDS			hypothetical protein
+PACEHLGO_01728	gene			
+PACEHLGO_01729	CDS	msrA	1.8.4.11	Peptide methionine sulfoxide reductase MsrA
+PACEHLGO_01729	gene	msrA		
+PACEHLGO_01730	CDS			hypothetical protein
+PACEHLGO_01730	gene			
+PACEHLGO_01731	CDS	purN	2.1.2.2	Phosphoribosylglycinamide formyltransferase
+PACEHLGO_01731	gene	purN		
+PACEHLGO_01732	CDS			hypothetical protein
+PACEHLGO_01732	gene			
+PACEHLGO_01733	CDS			hypothetical protein
+PACEHLGO_01733	gene			
+PACEHLGO_01734	CDS			hypothetical protein
+PACEHLGO_01734	gene			
+PACEHLGO_01735	CDS			hypothetical protein
+PACEHLGO_01735	gene			
+PACEHLGO_01736	CDS			hypothetical protein
+PACEHLGO_01736	gene			
+PACEHLGO_01737	CDS	glmU_1	2.3.1.157	Bifunctional protein GlmU
+PACEHLGO_01737	gene	glmU_1		
+PACEHLGO_01738	CDS	tarF	2.7.8.12	Teichoic acid poly(glycerol phosphate) polymerase
+PACEHLGO_01738	gene	tarF		
+PACEHLGO_01739	CDS			hypothetical protein
+PACEHLGO_01739	gene			
+PACEHLGO_01740	CDS		2.3.1.20	Putative diacyglycerol O-acyltransferase
+PACEHLGO_01740	gene			
+PACEHLGO_01741	CDS			PhoH-like protein
+PACEHLGO_01741	gene			
+PACEHLGO_01742	CDS	fumB	4.2.1.2	Fumarate hydratase class I, anaerobic
+PACEHLGO_01742	gene	fumB		
+PACEHLGO_01743	CDS	xseA	3.1.11.6	Exodeoxyribonuclease 7 large subunit
+PACEHLGO_01743	gene	xseA		
+PACEHLGO_01744	CDS	xseB	3.1.11.6	Exodeoxyribonuclease 7 small subunit
+PACEHLGO_01744	gene	xseB		
+PACEHLGO_01745	CDS			hypothetical protein
+PACEHLGO_01745	gene			
+PACEHLGO_01746	CDS			hypothetical protein
+PACEHLGO_01746	gene			
+PACEHLGO_01747	CDS	pnp	2.7.7.8	Polyribonucleotide nucleotidyltransferase
+PACEHLGO_01747	gene	pnp		
+PACEHLGO_01748	CDS		3.4.24.-	putative zinc protease
+PACEHLGO_01748	gene			
+PACEHLGO_01749	CDS	dapB	1.17.1.8	4-hydroxy-tetrahydrodipicolinate reductase
+PACEHLGO_01749	gene	dapB		
+PACEHLGO_01750	CDS			hypothetical protein
+PACEHLGO_01750	gene			
+PACEHLGO_01751	CDS	dtd	3.1.1.96	D-aminoacyl-tRNA deacylase
+PACEHLGO_01751	gene	dtd		
+PACEHLGO_01752	CDS			hypothetical protein
+PACEHLGO_01752	gene			
+PACEHLGO_01753	CDS			hypothetical protein
+PACEHLGO_01753	gene			
+PACEHLGO_01754	CDS			hypothetical protein
+PACEHLGO_01754	gene			
+PACEHLGO_01755	CDS	menE	6.2.1.26	putative 2-succinylbenzoate--CoA ligase
+PACEHLGO_01755	gene	menE		
+PACEHLGO_01756	CDS	menA_2	2.5.1.74	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+PACEHLGO_01756	gene	menA_2		
+PACEHLGO_01757	CDS			hypothetical protein
+PACEHLGO_01757	gene			
+PACEHLGO_01758	CDS			hypothetical protein
+PACEHLGO_01758	gene			
+PACEHLGO_01759	CDS	mreC		Cell shape-determining protein MreC
+PACEHLGO_01759	gene	mreC		
+PACEHLGO_01760	CDS	mreB		Rod shape-determining protein MreB
+PACEHLGO_01760	gene	mreB		
+PACEHLGO_01761	CDS	ndkA	2.7.4.6	Nucleoside diphosphate kinase
+PACEHLGO_01761	gene	ndkA		
+PACEHLGO_01762	CDS			hypothetical protein
+PACEHLGO_01762	gene			
+PACEHLGO_01763	CDS	folC	6.3.2.12	Dihydrofolate synthase/folylpolyglutamate synthase
+PACEHLGO_01763	gene	folC		
+PACEHLGO_01764	CDS	rplS		50S ribosomal protein L19
+PACEHLGO_01764	gene	rplS		
+PACEHLGO_01765	CDS	lepB	3.4.21.89	Signal peptidase I
+PACEHLGO_01765	gene	lepB		
+PACEHLGO_01766	CDS	rnhB	3.1.26.4	Ribonuclease HII
+PACEHLGO_01766	gene	rnhB		
+PACEHLGO_01767	CDS			hypothetical protein
+PACEHLGO_01767	gene			
+PACEHLGO_01768	CDS	comM		Competence protein ComM
+PACEHLGO_01768	gene	comM		
+PACEHLGO_01769	CDS	dprA		Putative DNA processing protein DprA
+PACEHLGO_01769	gene	dprA		
+PACEHLGO_01770	CDS			hypothetical protein
+PACEHLGO_01770	gene			
+PACEHLGO_01771	CDS	pdeB	3.1.4.52	Cyclic di-GMP phosphodiesterase PdeB
+PACEHLGO_01771	gene	pdeB		
+PACEHLGO_01772	CDS			putative AAA domain-containing protein
+PACEHLGO_01772	gene			
+PACEHLGO_01773	CDS			hypothetical protein
+PACEHLGO_01773	gene			
+PACEHLGO_01774	CDS	rsmI	2.1.1.198	Ribosomal RNA small subunit methyltransferase I
+PACEHLGO_01774	gene	rsmI		
+PACEHLGO_01775	CDS	metG	6.1.1.10	Methionine--tRNA ligase
+PACEHLGO_01775	gene	metG		
+PACEHLGO_01776	CDS	tatD	3.1.-.-	putative metal-dependent hydrolase TatD
+PACEHLGO_01776	gene	tatD		
+PACEHLGO_01777	CDS	ksgA	2.1.1.182	Ribosomal RNA small subunit methyltransferase A
+PACEHLGO_01777	gene	ksgA		
+PACEHLGO_01778	CDS	ispE	2.7.1.148	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+PACEHLGO_01778	gene	ispE		
+PACEHLGO_01779	CDS	bdcR		HTH-type transcriptional repressor BdcR
+PACEHLGO_01779	gene	bdcR		
+PACEHLGO_01780	CDS			hypothetical protein
+PACEHLGO_01780	gene			
+PACEHLGO_01781	tRNA			tRNA-Gln(ttg)
+PACEHLGO_01781	gene			
+PACEHLGO_01782	CDS	glmU_2		Bifunctional protein GlmU
+PACEHLGO_01782	gene	glmU_2		
+PACEHLGO_01783	CDS	prs	2.7.6.1	Ribose-phosphate pyrophosphokinase
+PACEHLGO_01783	gene	prs		
+PACEHLGO_01784	CDS	rplY		50S ribosomal protein L25
+PACEHLGO_01784	gene	rplY		
+PACEHLGO_01785	CDS	pth	3.1.1.29	Peptidyl-tRNA hydrolase
+PACEHLGO_01785	gene	pth		
+PACEHLGO_01786	CDS	cysQ	3.1.3.7	3'-phosphoadenosine 5'-phosphate phosphatase
+PACEHLGO_01786	gene	cysQ		
+PACEHLGO_01787	CDS	mfd	3.6.4.-	Transcription-repair-coupling factor
+PACEHLGO_01787	gene	mfd		
+PACEHLGO_01788	CDS			hypothetical protein
+PACEHLGO_01788	gene			
+PACEHLGO_01789	CDS	pheA_2	4.2.1.51	Prephenate dehydratase
+PACEHLGO_01789	gene	pheA_2		
+PACEHLGO_01790	CDS	iap	3.4.-.-	putative endopeptidase p60
+PACEHLGO_01790	gene	iap		
+PACEHLGO_01791	CDS			hypothetical protein
+PACEHLGO_01791	gene			
+PACEHLGO_01792	CDS			hypothetical protein
+PACEHLGO_01792	gene			
+PACEHLGO_01793	CDS			hypothetical protein
+PACEHLGO_01793	gene			
+PACEHLGO_01794	CDS	ptpA	3.1.3.48	putative low molecular weight protein-tyrosine-phosphatase
+PACEHLGO_01794	gene	ptpA		
+PACEHLGO_01795	CDS			hypothetical protein
+PACEHLGO_01795	gene			
+PACEHLGO_01796	CDS	rplI		50S ribosomal protein L9
+PACEHLGO_01796	gene	rplI		
+PACEHLGO_01797	CDS	rpsR1		30S ribosomal protein S18 1
+PACEHLGO_01797	gene	rpsR1		
+PACEHLGO_01798	CDS	ssb		Single-stranded DNA-binding protein
+PACEHLGO_01798	gene	ssb		
+PACEHLGO_01799	CDS	rpsF		30S ribosomal protein S6
+PACEHLGO_01799	gene	rpsF		
+PACEHLGO_01800	CDS	xthA	3.1.11.2	Exodeoxyribonuclease III
+PACEHLGO_01800	gene	xthA		
+PACEHLGO_01801	CDS			hypothetical protein
+PACEHLGO_01801	gene			
+PACEHLGO_01802	CDS			hypothetical protein
+PACEHLGO_01802	gene			
+PACEHLGO_01803	CDS	ponA1		Penicillin-binding protein 1A
+PACEHLGO_01803	gene	ponA1		
+PACEHLGO_01804	CDS			hypothetical protein
+PACEHLGO_01804	gene			
+PACEHLGO_01805	CDS			hypothetical protein
+PACEHLGO_01805	gene			
+PACEHLGO_01806	CDS	ino1	5.5.1.4	Inositol-3-phosphate synthase
+PACEHLGO_01806	gene	ino1		
+PACEHLGO_01807	CDS			hypothetical protein
+PACEHLGO_01807	gene			
+PACEHLGO_01808	CDS			putative MFS-type transporter
+PACEHLGO_01808	gene			
+PACEHLGO_01809	CDS	cca	2.7.7.72	CCA-adding enzyme
+PACEHLGO_01809	gene	cca		
+PACEHLGO_01810	CDS			hypothetical protein
+PACEHLGO_01810	gene			
+PACEHLGO_01811	CDS	mutT4	3.6.1.-	Putative mutator protein MutT4
+PACEHLGO_01811	gene	mutT4		
+PACEHLGO_01812	CDS			hypothetical protein
+PACEHLGO_01812	gene			
+PACEHLGO_01813	CDS			hypothetical protein
+PACEHLGO_01813	gene			
+PACEHLGO_01814	CDS	alsT		Amino-acid carrier protein AlsT
+PACEHLGO_01814	gene	alsT		
+PACEHLGO_01815	CDS			hypothetical protein
+PACEHLGO_01815	gene			
+PACEHLGO_01816	CDS			hypothetical protein
+PACEHLGO_01816	gene			
+PACEHLGO_01817	CDS			hypothetical protein
+PACEHLGO_01817	gene			
+PACEHLGO_01818	CDS	dprE1	1.1.98.3	Decaprenylphosphoryl-beta-D-ribose oxidase
+PACEHLGO_01818	gene	dprE1		
+PACEHLGO_01819	CDS		2.1.1.-	putative fatty acid methyltransferase
+PACEHLGO_01819	gene			
+PACEHLGO_01820	CDS			hypothetical protein
+PACEHLGO_01820	gene			
+PACEHLGO_01821	CDS			hypothetical protein
+PACEHLGO_01821	gene			
+PACEHLGO_01822	CDS			hypothetical protein
+PACEHLGO_01822	gene			
+PACEHLGO_01823	CDS	lgt	2.4.99.-	Prolipoprotein diacylglyceryl transferase
+PACEHLGO_01823	gene	lgt		
+PACEHLGO_01824	CDS			hypothetical protein
+PACEHLGO_01824	gene			
+PACEHLGO_01825	CDS	ribF		Riboflavin biosynthesis protein RibF
+PACEHLGO_01825	gene	ribF		
+PACEHLGO_01826	CDS			hypothetical protein
+PACEHLGO_01826	gene			
+PACEHLGO_01827	CDS	rpsO		30S ribosomal protein S15
+PACEHLGO_01827	gene	rpsO		
+PACEHLGO_01828	CDS			hypothetical protein
+PACEHLGO_01828	gene			
+PACEHLGO_01829	CDS			hypothetical protein
+PACEHLGO_01829	gene			
+PACEHLGO_01830	CDS			Putative conjugal transfer protein
+PACEHLGO_01830	gene			
+PACEHLGO_01831	CDS			hypothetical protein
+PACEHLGO_01831	gene			
+PACEHLGO_01832	CDS			hypothetical protein
+PACEHLGO_01832	gene			
+PACEHLGO_01833	CDS	rpsA		30S ribosomal protein S1
+PACEHLGO_01833	gene	rpsA		
+PACEHLGO_01834	CDS	coaE	2.7.1.24	Dephospho-CoA kinase
+PACEHLGO_01834	gene	coaE		
+PACEHLGO_01835	CDS			hypothetical protein
+PACEHLGO_01835	gene			
+PACEHLGO_01836	CDS	macB_1	3.6.3.-	Macrolide export ATP-binding/permease protein MacB
+PACEHLGO_01836	gene	macB_1		
+PACEHLGO_01837	CDS			hypothetical protein
+PACEHLGO_01837	gene			
+PACEHLGO_01838	CDS			hypothetical protein
+PACEHLGO_01838	gene			
+PACEHLGO_01839	CDS			hypothetical protein
+PACEHLGO_01839	gene			
+PACEHLGO_01840	CDS			hypothetical protein
+PACEHLGO_01840	gene			
+PACEHLGO_01841	CDS		2.3.1.-	Acetyltransferase Pat
+PACEHLGO_01841	gene			
+PACEHLGO_01842	CDS			hypothetical protein
+PACEHLGO_01842	gene			
+PACEHLGO_01843	CDS			hypothetical protein
+PACEHLGO_01843	gene			
+PACEHLGO_01844	CDS			Insertion sequence IS5376 putative ATP-binding protein
+PACEHLGO_01844	gene			
+PACEHLGO_01845	CDS		3.1.1.23	Thermostable monoacylglycerol lipase
+PACEHLGO_01845	gene			
+PACEHLGO_01846	CDS			hypothetical protein
+PACEHLGO_01846	gene			
+PACEHLGO_01847	CDS			hypothetical protein
+PACEHLGO_01847	gene			
+PACEHLGO_01848	CDS			hypothetical protein
+PACEHLGO_01848	gene			
+PACEHLGO_01849	CDS	rimP		Ribosome maturation factor RimP
+PACEHLGO_01849	gene	rimP		
+PACEHLGO_01850	CDS	nusA		Transcription termination/antitermination protein NusA
+PACEHLGO_01850	gene	nusA		
+PACEHLGO_01851	CDS	infB		Translation initiation factor IF-2
+PACEHLGO_01851	gene	infB		
+PACEHLGO_01852	CDS			hypothetical protein
+PACEHLGO_01852	gene			
+PACEHLGO_01853	CDS	rbfA		Ribosome-binding factor A
+PACEHLGO_01853	gene	rbfA		
+PACEHLGO_01854	CDS	truB	5.4.99.25	tRNA pseudouridine synthase B
+PACEHLGO_01854	gene	truB		
+PACEHLGO_01855	CDS		2.5.1.68	(2Z,6E)-farnesyl diphosphate synthase
+PACEHLGO_01855	gene			
+PACEHLGO_01856	CDS			hypothetical protein
+PACEHLGO_01856	gene			
+PACEHLGO_01857	CDS			hypothetical protein
+PACEHLGO_01857	gene			
+PACEHLGO_01858	CDS			hypothetical protein
+PACEHLGO_01858	gene			
+PACEHLGO_01859	CDS			hypothetical protein
+PACEHLGO_01859	gene			
+PACEHLGO_01860	CDS	ykfC	3.4.-.-	Gamma-D-glutamyl-L-lysine endopeptidase
+PACEHLGO_01860	gene	ykfC		
+PACEHLGO_01861	CDS	greA		Transcription elongation factor GreA
+PACEHLGO_01861	gene	greA		
+PACEHLGO_01862	CDS	drrA_2	3.6.3.-	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+PACEHLGO_01862	gene	drrA_2		
+PACEHLGO_01863	CDS	drrB_2		Daunorubicin/doxorubicin resistance ABC transporter permease protein DrrB
+PACEHLGO_01863	gene	drrB_2		
+PACEHLGO_01864	CDS			hypothetical protein
+PACEHLGO_01864	gene			
+PACEHLGO_01865	CDS	lcfB	6.2.1.3	Long-chain-fatty-acid--CoA ligase
+PACEHLGO_01865	gene	lcfB		
+PACEHLGO_01866	CDS	serB1_2	3.1.3.3	Phosphoserine phosphatase SerB1
+PACEHLGO_01866	gene	serB1_2		
+PACEHLGO_01867	CDS			hypothetical protein
+PACEHLGO_01867	gene			
+PACEHLGO_01868	CDS			hypothetical protein
+PACEHLGO_01868	gene			
+PACEHLGO_01869	CDS			hypothetical protein
+PACEHLGO_01869	gene			
+PACEHLGO_01870	CDS	dsbB		Disulfide bond formation protein B
+PACEHLGO_01870	gene	dsbB		
+PACEHLGO_01871	CDS			hypothetical protein
+PACEHLGO_01871	gene			
+PACEHLGO_01872	tRNA			tRNA-His(gtg)
+PACEHLGO_01872	gene			
+PACEHLGO_01873	CDS	orn	3.1.-.-	Oligoribonuclease
+PACEHLGO_01873	gene	orn		
+PACEHLGO_01874	CDS			Universal stress protein/MSMEI_3859
+PACEHLGO_01874	gene			
+PACEHLGO_01875	CDS			Universal stress protein
+PACEHLGO_01875	gene			
+PACEHLGO_01876	CDS			hypothetical protein
+PACEHLGO_01876	gene			
+PACEHLGO_01877	CDS	glpK	2.7.1.30	Glycerol kinase
+PACEHLGO_01877	gene	glpK		
+PACEHLGO_01878	CDS			hypothetical protein
+PACEHLGO_01878	gene			
+PACEHLGO_01879	CDS			hypothetical protein
+PACEHLGO_01879	gene			
+PACEHLGO_01880	CDS			hypothetical protein
+PACEHLGO_01880	gene			
+PACEHLGO_01881	rRNA			16S ribosomal RNA (partial)
+PACEHLGO_01881	gene			
+PACEHLGO_01882	CDS			hypothetical protein
+PACEHLGO_01882	gene			
+PACEHLGO_01883	CDS	tyrS	6.1.1.1	Tyrosine--tRNA ligase
+PACEHLGO_01883	gene	tyrS		
+PACEHLGO_01884	CDS			hypothetical protein
+PACEHLGO_01884	gene			
+PACEHLGO_01885	CDS	argH	4.3.2.1	Argininosuccinate lyase
+PACEHLGO_01885	gene	argH		
+PACEHLGO_01886	CDS	argG	6.3.4.5	Argininosuccinate synthase
+PACEHLGO_01886	gene	argG		
+PACEHLGO_01887	CDS	argR		Arginine repressor
+PACEHLGO_01887	gene	argR		
+PACEHLGO_01888	CDS	argD	2.6.1.11	Acetylornithine aminotransferase
+PACEHLGO_01888	gene	argD		
+PACEHLGO_01889	CDS	argB	2.7.2.8	Acetylglutamate kinase
+PACEHLGO_01889	gene	argB		
+PACEHLGO_01890	CDS	argJ		Arginine biosynthesis bifunctional protein ArgJ
+PACEHLGO_01890	gene	argJ		
+PACEHLGO_01891	CDS	argC	1.2.1.38	N-acetyl-gamma-glutamyl-phosphate reductase
+PACEHLGO_01891	gene	argC		
+PACEHLGO_01892	CDS			hypothetical protein
+PACEHLGO_01892	gene			
+PACEHLGO_01893	CDS			hypothetical protein
+PACEHLGO_01893	gene			
+PACEHLGO_01894	CDS			hypothetical protein
+PACEHLGO_01894	gene			
+PACEHLGO_01895	CDS	macB_2	3.6.3.-	Macrolide export ATP-binding/permease protein MacB
+PACEHLGO_01895	gene	macB_2		
+PACEHLGO_01896	CDS	bceA		Bacitracin export ATP-binding protein BceA
+PACEHLGO_01896	gene	bceA		
+PACEHLGO_01897	CDS	pheT	6.1.1.20	Phenylalanine--tRNA ligase beta subunit
+PACEHLGO_01897	gene	pheT		
+PACEHLGO_01898	CDS	pheS	6.1.1.20	Phenylalanine--tRNA ligase alpha subunit
+PACEHLGO_01898	gene	pheS		
+PACEHLGO_01899	CDS			hypothetical protein
+PACEHLGO_01899	gene			
+PACEHLGO_01900	CDS			hypothetical protein
+PACEHLGO_01900	gene			
+PACEHLGO_01901	CDS			hypothetical protein
+PACEHLGO_01901	gene			
+PACEHLGO_01902	CDS	vgb	4.2.99.-	Virginiamycin B lyase
+PACEHLGO_01902	gene	vgb		
+PACEHLGO_01903	CDS			hypothetical protein
+PACEHLGO_01903	gene			
+PACEHLGO_01904	CDS			hypothetical protein
+PACEHLGO_01904	gene			
+PACEHLGO_01905	CDS			hypothetical protein
+PACEHLGO_01905	gene			
+PACEHLGO_01906	CDS	ugpQ	3.1.4.46	Glycerophosphodiester phosphodiesterase, cytoplasmic
+PACEHLGO_01906	gene	ugpQ		
+PACEHLGO_01907	CDS			hypothetical protein
+PACEHLGO_01907	gene			
+PACEHLGO_01908	CDS			hypothetical protein
+PACEHLGO_01908	gene			
+PACEHLGO_01909	CDS			hypothetical protein
+PACEHLGO_01909	gene			
+PACEHLGO_01910	CDS	proB	2.7.2.11	Glutamate 5-kinase
+PACEHLGO_01910	gene	proB		
+PACEHLGO_01911	CDS	obg	3.6.5.-	GTPase Obg
+PACEHLGO_01911	gene	obg		
+PACEHLGO_01912	CDS			putative SURF1-like protein
+PACEHLGO_01912	gene			
+PACEHLGO_01913	CDS			hypothetical protein
+PACEHLGO_01913	gene			
+PACEHLGO_01914	CDS			hypothetical protein
+PACEHLGO_01914	gene			
+PACEHLGO_01915	CDS	tldD	3.4.-.-	Metalloprotease TldD
+PACEHLGO_01915	gene	tldD		
+PACEHLGO_01916	CDS	gpmA_2	5.4.2.11	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+PACEHLGO_01916	gene	gpmA_2		
+PACEHLGO_01917	CDS		3.1.3.3	Phosphoserine phosphatase
+PACEHLGO_01917	gene			
+PACEHLGO_01918	CDS			hypothetical protein
+PACEHLGO_01918	gene			
+PACEHLGO_01919	CDS			hypothetical protein
+PACEHLGO_01919	gene			
+PACEHLGO_01920	CDS	ylmA	3.6.3.-	putative ABC transporter ATP-binding protein YlmA
+PACEHLGO_01920	gene	ylmA		
+PACEHLGO_01921	CDS			hypothetical protein
+PACEHLGO_01921	gene			
+PACEHLGO_01922	CDS	hflK		Modulator of FtsH protease HflK
+PACEHLGO_01922	gene	hflK		
+PACEHLGO_01923	CDS	ccr	1.3.1.86	Crotonyl-CoA reductase
+PACEHLGO_01923	gene	ccr		
+PACEHLGO_01924	CDS			hypothetical protein
+PACEHLGO_01924	gene			
+PACEHLGO_01925	CDS			hypothetical protein
+PACEHLGO_01925	gene			
+PACEHLGO_01926	tRNA			tRNA-Ser(gct)
+PACEHLGO_01926	gene			
+PACEHLGO_01927	CDS			hypothetical protein
+PACEHLGO_01927	gene			
+PACEHLGO_01928	CDS			hypothetical protein
+PACEHLGO_01928	gene			
+PACEHLGO_01929	tRNA			tRNA-Arg(acg)
+PACEHLGO_01929	gene			
+PACEHLGO_01930	CDS			hypothetical protein
+PACEHLGO_01930	gene			
+PACEHLGO_01931	CDS			hypothetical protein
+PACEHLGO_01931	gene			
+PACEHLGO_01932	CDS	hupA		DNA-binding protein HU 1
+PACEHLGO_01932	gene	hupA		
+PACEHLGO_01933	CDS		3.4.21.-	Extracellular serine proteinase
+PACEHLGO_01933	gene			
+PACEHLGO_01934	CDS	mepM_1	3.4.24.-	Murein DD-endopeptidase MepM
+PACEHLGO_01934	gene	mepM_1		
+PACEHLGO_01935	CDS	epmB	5.4.3.-	L-lysine 2,3-aminomutase
+PACEHLGO_01935	gene	epmB		
+PACEHLGO_01936	CDS			hypothetical protein
+PACEHLGO_01936	gene			
+PACEHLGO_01937	CDS			hypothetical protein
+PACEHLGO_01937	gene			
+PACEHLGO_01938	CDS	mepM_2	3.4.24.-	Murein DD-endopeptidase MepM
+PACEHLGO_01938	gene	mepM_2		
+PACEHLGO_01939	CDS			hypothetical protein
+PACEHLGO_01939	gene			
+PACEHLGO_01940	CDS			hypothetical protein
+PACEHLGO_01940	gene			
+PACEHLGO_01941	CDS		1.3.1.103	2-haloacrylate reductase
+PACEHLGO_01941	gene			
+PACEHLGO_01942	CDS			hypothetical protein
+PACEHLGO_01942	gene			
+PACEHLGO_01943	CDS			hypothetical protein
+PACEHLGO_01943	gene			
+PACEHLGO_01944	CDS	plsC_2	2.3.1.-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+PACEHLGO_01944	gene	plsC_2		
+PACEHLGO_01945	CDS			hypothetical protein
+PACEHLGO_01945	gene			
+PACEHLGO_01946	CDS			hypothetical protein
+PACEHLGO_01946	gene			
+PACEHLGO_01947	CDS			hypothetical protein
+PACEHLGO_01947	gene			
+PACEHLGO_01948	CDS	rbpA_2		RNA polymerase-binding protein RbpA
+PACEHLGO_01948	gene	rbpA_2		
+PACEHLGO_01949	CDS	glpQ	3.1.4.46	Glycerophosphodiester phosphodiesterase
+PACEHLGO_01949	gene	glpQ		
+PACEHLGO_01950	CDS	pyrDB	1.3.1.14	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+PACEHLGO_01950	gene	pyrDB		
+PACEHLGO_01951	CDS			hypothetical protein
+PACEHLGO_01951	gene			
+PACEHLGO_01952	CDS			hypothetical protein
+PACEHLGO_01952	gene			
+PACEHLGO_01953	CDS			hypothetical protein
+PACEHLGO_01953	gene			
+PACEHLGO_01954	CDS	ethA	1.14.13.-	FAD-containing monooxygenase EthA
+PACEHLGO_01954	gene	ethA		
+PACEHLGO_01955	CDS			hypothetical protein
+PACEHLGO_01955	gene			
+PACEHLGO_01956	CDS			hypothetical protein
+PACEHLGO_01956	gene			
+PACEHLGO_01957	CDS			hypothetical protein
+PACEHLGO_01957	gene			
+PACEHLGO_01958	CDS			hypothetical protein
+PACEHLGO_01958	gene			
+PACEHLGO_01959	CDS	ttgV		HTH-type transcriptional regulator TtgV
+PACEHLGO_01959	gene	ttgV		
+PACEHLGO_01960	CDS	dac_2	3.4.16.4	D-alanyl-D-alanine carboxypeptidase
+PACEHLGO_01960	gene	dac_2		
+PACEHLGO_01961	CDS	ydhD_2	3.2.-.-	Putative sporulation-specific glycosylase YdhD
+PACEHLGO_01961	gene	ydhD_2		
+PACEHLGO_01962	CDS	csd_2	2.8.1.7	putative cysteine desulfurase
+PACEHLGO_01962	gene	csd_2		
+PACEHLGO_01963	CDS			hypothetical protein
+PACEHLGO_01963	gene			
+PACEHLGO_01964	CDS	ttgR		HTH-type transcriptional regulator TtgR
+PACEHLGO_01964	gene	ttgR		
+PACEHLGO_01965	CDS	carC	1.3.1.108	Caffeyl-CoA reductase-Etf complex subunit CarC
+PACEHLGO_01965	gene	carC		
+PACEHLGO_01966	CDS	dpgD_2	4.2.1.17	Enoyl-CoA-hydratase
+PACEHLGO_01966	gene	dpgD_2		
+PACEHLGO_01967	CDS	recF		DNA replication and repair protein RecF
+PACEHLGO_01967	gene	recF		
+PACEHLGO_01968	CDS	dnaN	2.7.7.7	DNA polymerase III subunit beta
+PACEHLGO_01968	gene	dnaN		
+PACEHLGO_01969	CDS	dnaA		Chromosomal replication initiator protein DnaA
+PACEHLGO_01969	gene	dnaA		
+PACEHLGO_01970	CDS	rpmH		50S ribosomal protein L34
+PACEHLGO_01970	gene	rpmH		
+PACEHLGO_01971	CDS			Putative membrane protein insertion efficiency factor
+PACEHLGO_01971	gene			
+PACEHLGO_01972	CDS	yidC		Membrane protein insertase YidC
+PACEHLGO_01972	gene	yidC		
+PACEHLGO_01973	CDS			hypothetical protein
+PACEHLGO_01973	gene			
+PACEHLGO_01974	CDS	rsmG	2.1.1.-	Ribosomal RNA small subunit methyltransferase G
+PACEHLGO_01974	gene	rsmG		
+PACEHLGO_01975	CDS			hypothetical protein
+PACEHLGO_01975	gene			
+PACEHLGO_01976	CDS	rimI_2	2.3.1.128	Ribosomal-protein-alanine acetyltransferase
+PACEHLGO_01976	gene	rimI_2		
+PACEHLGO_01977	CDS			hypothetical protein
+PACEHLGO_01977	gene			
+PACEHLGO_01978	CDS	gloC_3	3.1.2.6	Hydroxyacylglutathione hydrolase GloC
+PACEHLGO_01978	gene	gloC_3		
+PACEHLGO_01979	CDS	glpE	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+PACEHLGO_01979	gene	glpE		
+PACEHLGO_01980	CDS			hypothetical protein
+PACEHLGO_01980	gene			
+PACEHLGO_01981	CDS			hypothetical protein
+PACEHLGO_01981	gene			
+PACEHLGO_01982	CDS	nhaA		Na(+)/H(+) antiporter NhaA
+PACEHLGO_01982	gene	nhaA		
+PACEHLGO_01983	CDS			hypothetical protein
+PACEHLGO_01983	gene			
+PACEHLGO_01984	CDS	ephA_2	3.3.2.10	Epoxide hydrolase A
+PACEHLGO_01984	gene	ephA_2		
+PACEHLGO_01985	CDS	nudL	3.6.1.-	putative Nudix hydrolase NudL
+PACEHLGO_01985	gene	nudL		
+PACEHLGO_01986	CDS	dsbE		Thiol:disulfide interchange protein DsbE
+PACEHLGO_01986	gene	dsbE		
+PACEHLGO_01987	CDS	pdg		Ultraviolet N-glycosylase/AP lyase
+PACEHLGO_01987	gene	pdg		
+PACEHLGO_01988	CDS			hypothetical protein
+PACEHLGO_01988	gene			
+PACEHLGO_01989	CDS	crp		CRP-like cAMP-activated global transcriptional regulator
+PACEHLGO_01989	gene	crp		
+PACEHLGO_01990	CDS	pksB	3.-.-.-	putative polyketide biosynthesis zinc-dependent hydrolase PksB
+PACEHLGO_01990	gene	pksB		
+PACEHLGO_01991	CDS			hypothetical protein
+PACEHLGO_01991	gene			
+PACEHLGO_01992	CDS			hypothetical protein
+PACEHLGO_01992	gene			
+PACEHLGO_01993	CDS			hypothetical protein
+PACEHLGO_01993	gene			
+PACEHLGO_01994	CDS			Putative ATPase
+PACEHLGO_01994	gene			
+PACEHLGO_01995	CDS	arsA_2	3.6.3.16	Arsenical pump-driving ATPase
+PACEHLGO_01995	gene	arsA_2		
+PACEHLGO_01996	CDS	whiB4		Transcriptional regulator WhiB4
+PACEHLGO_01996	gene	whiB4		
+PACEHLGO_01997	CDS	katG	1.11.1.21	Catalase-peroxidase
+PACEHLGO_01997	gene	katG		
+PACEHLGO_01998	CDS			hypothetical protein
+PACEHLGO_01998	gene			
+PACEHLGO_01999	CDS	bioB	2.8.1.6	Biotin synthase
+PACEHLGO_01999	gene	bioB		
+PACEHLGO_02000	CDS	bioD	6.3.3.3	ATP-dependent dethiobiotin synthetase BioD
+PACEHLGO_02000	gene	bioD		
+PACEHLGO_02001	CDS	bioF1	2.3.1.47	8-amino-7-oxononanoate synthase 1
+PACEHLGO_02001	gene	bioF1		
+PACEHLGO_02002	CDS	arcA	3.5.3.6	Arginine deiminase
+PACEHLGO_02002	gene	arcA		
+PACEHLGO_02003	CDS			hypothetical protein
+PACEHLGO_02003	gene			
+PACEHLGO_02004	CDS			hypothetical protein
+PACEHLGO_02004	gene			
+PACEHLGO_02005	CDS			hypothetical protein
+PACEHLGO_02005	gene			
+PACEHLGO_02006	CDS	ywqD	2.7.10.2	Tyrosine-protein kinase YwqD
+PACEHLGO_02006	gene	ywqD		
+PACEHLGO_02007	CDS	gumI	2.4.1.251	GDP-mannose:glycolipid 4-beta-D-mannosyltransferase
+PACEHLGO_02007	gene	gumI		
+PACEHLGO_02008	CDS	polA	2.7.7.7	DNA polymerase I
+PACEHLGO_02008	gene	polA		
+PACEHLGO_02009	CDS			putative hemoglobin and hemoglobin-haptoglobin-binding protein 3
+PACEHLGO_02009	gene			
+PACEHLGO_02010	CDS		3.6.-.-	putative GTPase
+PACEHLGO_02010	gene			
+PACEHLGO_02011	CDS	mutB_2	5.4.99.2	putative methylmalonyl-CoA mutase large subunit
+PACEHLGO_02011	gene	mutB_2		
+PACEHLGO_02012	CDS	mutA	5.4.99.2	Methylmalonyl-CoA mutase small subunit
+PACEHLGO_02012	gene	mutA		
+PACEHLGO_02013	CDS	sdhC		Succinate dehydrogenase 2 membrane subunit SdhC
+PACEHLGO_02013	gene	sdhC		
+PACEHLGO_02014	CDS			hypothetical protein
+PACEHLGO_02014	gene			
+PACEHLGO_02015	CDS	sdhA	1.3.5.1	Succinate dehydrogenase flavoprotein subunit
+PACEHLGO_02015	gene	sdhA		
+PACEHLGO_02016	CDS	sdhB	1.3.5.1	Succinate dehydrogenase iron-sulfur subunit
+PACEHLGO_02016	gene	sdhB		
+PACEHLGO_02017	CDS			hypothetical protein
+PACEHLGO_02017	gene			
+PACEHLGO_02018	CDS			hypothetical protein
+PACEHLGO_02018	gene			
+PACEHLGO_02019	CDS	hemE	4.1.1.37	Uroporphyrinogen decarboxylase
+PACEHLGO_02019	gene	hemE		
+PACEHLGO_02020	CDS	cofC	2.7.7.68	2-phospho-L-lactate guanylyltransferase
+PACEHLGO_02020	gene	cofC		
+PACEHLGO_02021	CDS	plsC_3	2.3.1.-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+PACEHLGO_02021	gene	plsC_3		
+PACEHLGO_02022	CDS	gpsA	1.1.1.94	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+PACEHLGO_02022	gene	gpsA		
+PACEHLGO_02023	CDS	gpm2	3.1.3.2	Acid phosphatase
+PACEHLGO_02023	gene	gpm2		
+PACEHLGO_02024	CDS	ddl	6.3.2.4	D-alanine--D-alanine ligase
+PACEHLGO_02024	gene	ddl		
+PACEHLGO_02025	CDS			hypothetical protein
+PACEHLGO_02025	gene			
+PACEHLGO_02026	CDS	thiL	2.7.4.16	Thiamine-monophosphate kinase
+PACEHLGO_02026	gene	thiL		
+PACEHLGO_02027	CDS	rpmB		50S ribosomal protein L28
+PACEHLGO_02027	gene	rpmB		
+PACEHLGO_02028	CDS			hypothetical protein
+PACEHLGO_02028	gene			
+PACEHLGO_02029	CDS			hypothetical protein
+PACEHLGO_02029	gene			
+PACEHLGO_02030	CDS			hypothetical protein
+PACEHLGO_02030	gene			
+PACEHLGO_02031	CDS	rmlC_2	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+PACEHLGO_02031	gene	rmlC_2		
+PACEHLGO_02032	CDS	wcaJ	2.7.8.31	UDP-glucose:undecaprenyl-phosphate glucose-1-phosphate transferase
+PACEHLGO_02032	gene	wcaJ		

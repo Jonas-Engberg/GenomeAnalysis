@@ -1,0 +1,2879 @@
+locus_tag	ftype	gene	EC_number	product
+KOHBPAPH_00001	CDS			hypothetical protein
+KOHBPAPH_00001	gene			
+KOHBPAPH_00002	CDS			hypothetical protein
+KOHBPAPH_00002	gene			
+KOHBPAPH_00003	CDS	cobB	3.5.1.-	NAD-dependent protein deacylase
+KOHBPAPH_00003	gene	cobB		
+KOHBPAPH_00004	tRNA			tRNA-Lys(ttt)
+KOHBPAPH_00004	gene			
+KOHBPAPH_00005	CDS			hypothetical protein
+KOHBPAPH_00005	gene			
+KOHBPAPH_00006	CDS	tdh	1.1.1.103	L-threonine 3-dehydrogenase
+KOHBPAPH_00006	gene	tdh		
+KOHBPAPH_00007	CDS	kbl	2.3.1.29	2-amino-3-ketobutyrate coenzyme A ligase
+KOHBPAPH_00007	gene	kbl		
+KOHBPAPH_00008	CDS			hypothetical protein
+KOHBPAPH_00008	gene			
+KOHBPAPH_00009	CDS			hypothetical protein
+KOHBPAPH_00009	gene			
+KOHBPAPH_00010	CDS	natB		ABC transporter permease protein NatB
+KOHBPAPH_00010	gene	natB		
+KOHBPAPH_00011	CDS	natA_1		ABC transporter ATP-binding protein NatA
+KOHBPAPH_00011	gene	natA_1		
+KOHBPAPH_00012	CDS			S-adenosylmethionine/S-adenosylhomocysteine transporter
+KOHBPAPH_00012	gene			
+KOHBPAPH_00013	CDS	ogt	2.1.1.63	Methylated-DNA--protein-cysteine methyltransferase
+KOHBPAPH_00013	gene	ogt		
+KOHBPAPH_00014	CDS			hypothetical protein
+KOHBPAPH_00014	gene			
+KOHBPAPH_00015	CDS	plsY	2.3.1.-	Glycerol-3-phosphate acyltransferase
+KOHBPAPH_00015	gene	plsY		
+KOHBPAPH_00016	CDS	bamA_1		Outer membrane protein assembly factor BamA
+KOHBPAPH_00016	gene	bamA_1		
+KOHBPAPH_00017	CDS			hypothetical protein
+KOHBPAPH_00017	gene			
+KOHBPAPH_00018	CDS	puf2C		Cytochrome c-554
+KOHBPAPH_00018	gene	puf2C		
+KOHBPAPH_00019	CDS			hypothetical protein
+KOHBPAPH_00019	gene			
+KOHBPAPH_00020	CDS			hypothetical protein
+KOHBPAPH_00020	gene			
+KOHBPAPH_00021	CDS			hypothetical protein
+KOHBPAPH_00021	gene			
+KOHBPAPH_00022	tRNA			tRNA-Arg(tct)
+KOHBPAPH_00022	gene			
+KOHBPAPH_00023	CDS	hcf136_1		Ycf48-like protein
+KOHBPAPH_00023	gene	hcf136_1		
+KOHBPAPH_00024	CDS			hypothetical protein
+KOHBPAPH_00024	gene			
+KOHBPAPH_00025	CDS			hypothetical protein
+KOHBPAPH_00025	gene			
+KOHBPAPH_00026	CDS	baeB	3.-.-.-	putative polyketide biosynthesis zinc-dependent hydrolase BaeB
+KOHBPAPH_00026	gene	baeB		
+KOHBPAPH_00027	CDS			hypothetical protein
+KOHBPAPH_00027	gene			
+KOHBPAPH_00028	CDS			hypothetical protein
+KOHBPAPH_00028	gene			
+KOHBPAPH_00029	CDS	estB	3.1.1.1	Carboxylesterase 2
+KOHBPAPH_00029	gene	estB		
+KOHBPAPH_00030	CDS	csp		Cold shock protein 1
+KOHBPAPH_00030	gene	csp		
+KOHBPAPH_00031	CDS			hypothetical protein
+KOHBPAPH_00031	gene			
+KOHBPAPH_00032	CDS			hypothetical protein
+KOHBPAPH_00032	gene			
+KOHBPAPH_00033	CDS			hypothetical protein
+KOHBPAPH_00033	gene			
+KOHBPAPH_00034	CDS			hypothetical protein
+KOHBPAPH_00034	gene			
+KOHBPAPH_00035	CDS	dadA	1.4.99.-	D-amino acid dehydrogenase
+KOHBPAPH_00035	gene	dadA		
+KOHBPAPH_00036	tRNA			tRNA-Met(cat)
+KOHBPAPH_00036	gene			
+KOHBPAPH_00037	CDS			hypothetical protein
+KOHBPAPH_00037	gene			
+KOHBPAPH_00038	CDS	speB	3.5.3.11	Agmatinase
+KOHBPAPH_00038	gene	speB		
+KOHBPAPH_00039	CDS	galK_1	2.7.1.6	Galactokinase
+KOHBPAPH_00039	gene	galK_1		
+KOHBPAPH_00040	CDS	sglT_1		Sodium/glucose cotransporter
+KOHBPAPH_00040	gene	sglT_1		
+KOHBPAPH_00041	CDS	bcp	1.11.1.15	Putative peroxiredoxin bcp
+KOHBPAPH_00041	gene	bcp		
+KOHBPAPH_00042	CDS			hypothetical protein
+KOHBPAPH_00042	gene			
+KOHBPAPH_00043	CDS			hypothetical protein
+KOHBPAPH_00043	gene			
+KOHBPAPH_00044	CDS	gnu	5.1.3.26	N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol 4-epimerase
+KOHBPAPH_00044	gene	gnu		
+KOHBPAPH_00045	CDS			hypothetical protein
+KOHBPAPH_00045	gene			
+KOHBPAPH_00046	CDS	carH		HTH-type transcriptional repressor CarH
+KOHBPAPH_00046	gene	carH		
+KOHBPAPH_00047	CDS			hypothetical protein
+KOHBPAPH_00047	gene			
+KOHBPAPH_00048	CDS	dus	1.3.1.-	putative tRNA-dihydrouridine synthase
+KOHBPAPH_00048	gene	dus		
+KOHBPAPH_00049	CDS	rocA	1.2.1.88	1-pyrroline-5-carboxylate dehydrogenase
+KOHBPAPH_00049	gene	rocA		
+KOHBPAPH_00050	CDS	arcC1	2.7.2.2	Carbamate kinase 1
+KOHBPAPH_00050	gene	arcC1		
+KOHBPAPH_00051	CDS	sucC	6.2.1.5	Succinate--CoA ligase [ADP-forming] subunit beta
+KOHBPAPH_00051	gene	sucC		
+KOHBPAPH_00052	CDS	sucD	6.2.1.5	Succinate--CoA ligase [ADP-forming] subunit alpha
+KOHBPAPH_00052	gene	sucD		
+KOHBPAPH_00053	CDS	ndk	2.7.4.6	Nucleoside diphosphate kinase
+KOHBPAPH_00053	gene	ndk		
+KOHBPAPH_00054	CDS	ftsN		Cell division protein FtsN
+KOHBPAPH_00054	gene	ftsN		
+KOHBPAPH_00055	CDS			hypothetical protein
+KOHBPAPH_00055	gene			
+KOHBPAPH_00056	CDS	mutL		DNA mismatch repair protein MutL
+KOHBPAPH_00056	gene	mutL		
+KOHBPAPH_00057	CDS	miaA	2.5.1.75	tRNA dimethylallyltransferase
+KOHBPAPH_00057	gene	miaA		
+KOHBPAPH_00058	CDS			hypothetical protein
+KOHBPAPH_00058	gene			
+KOHBPAPH_00059	CDS	sigW_1		ECF RNA polymerase sigma factor SigW
+KOHBPAPH_00059	gene	sigW_1		
+KOHBPAPH_00060	CDS			hypothetical protein
+KOHBPAPH_00060	gene			
+KOHBPAPH_00061	CDS	uppP	3.6.1.27	Undecaprenyl-diphosphatase
+KOHBPAPH_00061	gene	uppP		
+KOHBPAPH_00062	CDS	yfiH		Laccase domain protein YfiH
+KOHBPAPH_00062	gene	yfiH		
+KOHBPAPH_00063	CDS			hypothetical protein
+KOHBPAPH_00063	gene			
+KOHBPAPH_00064	CDS			hypothetical protein
+KOHBPAPH_00064	gene			
+KOHBPAPH_00065	CDS			hypothetical protein
+KOHBPAPH_00065	gene			
+KOHBPAPH_00066	CDS	tqsA		AI-2 transport protein TqsA
+KOHBPAPH_00066	gene	tqsA		
+KOHBPAPH_00067	CDS			Cyclic AMP receptor protein
+KOHBPAPH_00067	gene			
+KOHBPAPH_00068	CDS	envC		Murein hydrolase activator EnvC
+KOHBPAPH_00068	gene	envC		
+KOHBPAPH_00069	CDS			hypothetical protein
+KOHBPAPH_00069	gene			
+KOHBPAPH_00070	CDS			hypothetical protein
+KOHBPAPH_00070	gene			
+KOHBPAPH_00071	CDS			hypothetical protein
+KOHBPAPH_00071	gene			
+KOHBPAPH_00072	tRNA			tRNA-Asp(gtc)
+KOHBPAPH_00072	gene			
+KOHBPAPH_00073	CDS			hypothetical protein
+KOHBPAPH_00073	gene			
+KOHBPAPH_00074	CDS	mltG	4.2.2.-	Endolytic murein transglycosylase
+KOHBPAPH_00074	gene	mltG		
+KOHBPAPH_00075	CDS	pcrA_1	3.6.4.12	ATP-dependent DNA helicase PcrA
+KOHBPAPH_00075	gene	pcrA_1		
+KOHBPAPH_00076	CDS	fur		Ferric uptake regulation protein
+KOHBPAPH_00076	gene	fur		
+KOHBPAPH_00077	CDS			hypothetical protein
+KOHBPAPH_00077	gene			
+KOHBPAPH_00078	CDS	feoB		Fe(2+) transporter FeoB
+KOHBPAPH_00078	gene	feoB		
+KOHBPAPH_00079	CDS			hypothetical protein
+KOHBPAPH_00079	gene			
+KOHBPAPH_00080	CDS	ypeA	2.3.1.-	Acetyltransferase YpeA
+KOHBPAPH_00080	gene	ypeA		
+KOHBPAPH_00081	CDS	yhaM	3.1.-.-	3'-5' exoribonuclease YhaM
+KOHBPAPH_00081	gene	yhaM		
+KOHBPAPH_00082	CDS			hypothetical protein
+KOHBPAPH_00082	gene			
+KOHBPAPH_00083	CDS			hypothetical protein
+KOHBPAPH_00083	gene			
+KOHBPAPH_00084	CDS			hypothetical protein
+KOHBPAPH_00084	gene			
+KOHBPAPH_00085	CDS	btuB		Vitamin B12 transporter BtuB
+KOHBPAPH_00085	gene	btuB		
+KOHBPAPH_00086	CDS			hypothetical protein
+KOHBPAPH_00086	gene			
+KOHBPAPH_00087	CDS	trpS	6.1.1.2	Tryptophan--tRNA ligase
+KOHBPAPH_00087	gene	trpS		
+KOHBPAPH_00088	CDS	scpA_1		Segregation and condensation protein A
+KOHBPAPH_00088	gene	scpA_1		
+KOHBPAPH_00089	CDS	scpB		Segregation and condensation protein B
+KOHBPAPH_00089	gene	scpB		
+KOHBPAPH_00090	CDS	rluB	5.4.99.22	Ribosomal large subunit pseudouridine synthase B
+KOHBPAPH_00090	gene	rluB		
+KOHBPAPH_00091	CDS	cmk	2.7.4.25	Cytidylate kinase
+KOHBPAPH_00091	gene	cmk		
+KOHBPAPH_00092	CDS	rpsA		30S ribosomal protein S1
+KOHBPAPH_00092	gene	rpsA		
+KOHBPAPH_00093	CDS			hypothetical protein
+KOHBPAPH_00093	gene			
+KOHBPAPH_00094	CDS	tsaD	2.3.1.234	tRNA N6-adenosine threonylcarbamoyltransferase
+KOHBPAPH_00094	gene	tsaD		
+KOHBPAPH_00095	CDS			hypothetical protein
+KOHBPAPH_00095	gene			
+KOHBPAPH_00096	CDS	rkpK	1.1.1.22	UDP-glucose 6-dehydrogenase
+KOHBPAPH_00096	gene	rkpK		
+KOHBPAPH_00097	CDS	rmlC	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+KOHBPAPH_00097	gene	rmlC		
+KOHBPAPH_00098	CDS			hypothetical protein
+KOHBPAPH_00098	gene			
+KOHBPAPH_00099	CDS	der_1		GTPase Der
+KOHBPAPH_00099	gene	der_1		
+KOHBPAPH_00100	CDS			hypothetical protein
+KOHBPAPH_00100	gene			
+KOHBPAPH_00101	tRNA			tRNA-Met(cat)
+KOHBPAPH_00101	gene			
+KOHBPAPH_00102	CDS			hypothetical protein
+KOHBPAPH_00102	gene			
+KOHBPAPH_00103	CDS	car	1.2.1.-	Carboxylic acid reductase
+KOHBPAPH_00103	gene	car		
+KOHBPAPH_00104	CDS			hypothetical protein
+KOHBPAPH_00104	gene			
+KOHBPAPH_00105	CDS	fabG_1	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+KOHBPAPH_00105	gene	fabG_1		
+KOHBPAPH_00106	CDS			hypothetical protein
+KOHBPAPH_00106	gene			
+KOHBPAPH_00107	CDS			hypothetical protein
+KOHBPAPH_00107	gene			
+KOHBPAPH_00108	CDS			hypothetical protein
+KOHBPAPH_00108	gene			
+KOHBPAPH_00109	CDS			hypothetical protein
+KOHBPAPH_00109	gene			
+KOHBPAPH_00110	CDS	lrp		Leucine-responsive regulatory protein
+KOHBPAPH_00110	gene	lrp		
+KOHBPAPH_00111	CDS	hisC	2.6.1.9	Histidinol-phosphate aminotransferase
+KOHBPAPH_00111	gene	hisC		
+KOHBPAPH_00112	CDS	hpd	1.13.11.27	4-hydroxyphenylpyruvate dioxygenase
+KOHBPAPH_00112	gene	hpd		
+KOHBPAPH_00113	CDS		4.3.2.3	Ureidoglycolate lyase
+KOHBPAPH_00113	gene			
+KOHBPAPH_00114	CDS			hypothetical protein
+KOHBPAPH_00114	gene			
+KOHBPAPH_00115	CDS			hypothetical protein
+KOHBPAPH_00115	gene			
+KOHBPAPH_00116	CDS			hypothetical protein
+KOHBPAPH_00116	gene			
+KOHBPAPH_00117	CDS	rnr	3.1.13.1	Ribonuclease R
+KOHBPAPH_00117	gene	rnr		
+KOHBPAPH_00118	CDS			hypothetical protein
+KOHBPAPH_00118	gene			
+KOHBPAPH_00119	CDS	nqrE	1.6.5.8	Na(+)-translocating NADH-quinone reductase subunit E
+KOHBPAPH_00119	gene	nqrE		
+KOHBPAPH_00120	CDS	nqrD	1.6.5.8	Na(+)-translocating NADH-quinone reductase subunit D
+KOHBPAPH_00120	gene	nqrD		
+KOHBPAPH_00121	CDS	nqrC	1.6.5.8	Na(+)-translocating NADH-quinone reductase subunit C
+KOHBPAPH_00121	gene	nqrC		
+KOHBPAPH_00122	CDS	nqrB	1.6.5.8	Na(+)-translocating NADH-quinone reductase subunit B
+KOHBPAPH_00122	gene	nqrB		
+KOHBPAPH_00123	CDS	nqrA	1.6.5.8	Na(+)-translocating NADH-quinone reductase subunit A
+KOHBPAPH_00123	gene	nqrA		
+KOHBPAPH_00124	CDS	nuoN	1.6.5.11	NADH-quinone oxidoreductase subunit N
+KOHBPAPH_00124	gene	nuoN		
+KOHBPAPH_00125	CDS	nuoM	1.6.5.11	NADH-quinone oxidoreductase subunit M
+KOHBPAPH_00125	gene	nuoM		
+KOHBPAPH_00126	CDS	lpxK	2.7.1.130	Tetraacyldisaccharide 4'-kinase
+KOHBPAPH_00126	gene	lpxK		
+KOHBPAPH_00127	CDS			hypothetical protein
+KOHBPAPH_00127	gene			
+KOHBPAPH_00128	CDS			hypothetical protein
+KOHBPAPH_00128	gene			
+KOHBPAPH_00129	CDS			hypothetical protein
+KOHBPAPH_00129	gene			
+KOHBPAPH_00130	CDS	sdcS_1		Sodium-dependent dicarboxylate transporter SdcS
+KOHBPAPH_00130	gene	sdcS_1		
+KOHBPAPH_00131	CDS			hypothetical protein
+KOHBPAPH_00131	gene			
+KOHBPAPH_00132	CDS		3.6.1.9	Non-canonical purine NTP pyrophosphatase
+KOHBPAPH_00132	gene			
+KOHBPAPH_00133	CDS			hypothetical protein
+KOHBPAPH_00133	gene			
+KOHBPAPH_00134	CDS	cysE	2.3.1.30	Serine acetyltransferase
+KOHBPAPH_00134	gene	cysE		
+KOHBPAPH_00135	CDS	lutA		Lactate utilization protein A
+KOHBPAPH_00135	gene	lutA		
+KOHBPAPH_00136	CDS			hypothetical protein
+KOHBPAPH_00136	gene			
+KOHBPAPH_00137	CDS			hypothetical protein
+KOHBPAPH_00137	gene			
+KOHBPAPH_00138	CDS			hypothetical protein
+KOHBPAPH_00138	gene			
+KOHBPAPH_00139	CDS			hypothetical protein
+KOHBPAPH_00139	gene			
+KOHBPAPH_00140	CDS			hypothetical protein
+KOHBPAPH_00140	gene			
+KOHBPAPH_00141	CDS			hypothetical protein
+KOHBPAPH_00141	gene			
+KOHBPAPH_00142	CDS	dnaX_1	2.7.7.7	DNA polymerase III subunit tau
+KOHBPAPH_00142	gene	dnaX_1		
+KOHBPAPH_00143	CDS	ybaB		Nucleoid-associated protein YbaB
+KOHBPAPH_00143	gene	ybaB		
+KOHBPAPH_00144	CDS	recR		Recombination protein RecR
+KOHBPAPH_00144	gene	recR		
+KOHBPAPH_00145	CDS	pgsA	2.7.8.5	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+KOHBPAPH_00145	gene	pgsA		
+KOHBPAPH_00146	CDS	pgpA	3.1.3.27	Phosphatidylglycerophosphatase A
+KOHBPAPH_00146	gene	pgpA		
+KOHBPAPH_00147	CDS	pncC	3.5.1.42	Nicotinamide-nucleotide amidohydrolase PncC
+KOHBPAPH_00147	gene	pncC		
+KOHBPAPH_00148	CDS	abgB	3.5.1.-	p-aminobenzoyl-glutamate hydrolase subunit B
+KOHBPAPH_00148	gene	abgB		
+KOHBPAPH_00149	CDS	cpt	3.4.17.18	Carboxypeptidase T
+KOHBPAPH_00149	gene	cpt		
+KOHBPAPH_00150	CDS			hypothetical protein
+KOHBPAPH_00150	gene			
+KOHBPAPH_00151	CDS			hypothetical protein
+KOHBPAPH_00151	gene			
+KOHBPAPH_00152	CDS			hypothetical protein
+KOHBPAPH_00152	gene			
+KOHBPAPH_00153	CDS			hypothetical protein
+KOHBPAPH_00153	gene			
+KOHBPAPH_00154	CDS			hypothetical protein
+KOHBPAPH_00154	gene			
+KOHBPAPH_00155	CDS	cyaA_1	4.6.1.1	Adenylate cyclase 1
+KOHBPAPH_00155	gene	cyaA_1		
+KOHBPAPH_00156	CDS			hypothetical protein
+KOHBPAPH_00156	gene			
+KOHBPAPH_00157	CDS			hypothetical protein
+KOHBPAPH_00157	gene			
+KOHBPAPH_00158	CDS	mutY	3.2.2.-	Adenine DNA glycosylase
+KOHBPAPH_00158	gene	mutY		
+KOHBPAPH_00159	CDS			hypothetical protein
+KOHBPAPH_00159	gene			
+KOHBPAPH_00160	CDS	csaA		putative chaperone CsaA
+KOHBPAPH_00160	gene	csaA		
+KOHBPAPH_00161	CDS		3.1.1.3	Lipase
+KOHBPAPH_00161	gene			
+KOHBPAPH_00162	CDS			hypothetical protein
+KOHBPAPH_00162	gene			
+KOHBPAPH_00163	CDS	rsfS		Ribosomal silencing factor RsfS
+KOHBPAPH_00163	gene	rsfS		
+KOHBPAPH_00164	CDS			hypothetical protein
+KOHBPAPH_00164	gene			
+KOHBPAPH_00165	CDS			hypothetical protein
+KOHBPAPH_00165	gene			
+KOHBPAPH_00166	CDS	mnmA	2.8.1.13	tRNA-specific 2-thiouridylase MnmA
+KOHBPAPH_00166	gene	mnmA		
+KOHBPAPH_00167	CDS	iscS	2.8.1.7	Cysteine desulfurase IscS
+KOHBPAPH_00167	gene	iscS		
+KOHBPAPH_00168	CDS			hypothetical protein
+KOHBPAPH_00168	gene			
+KOHBPAPH_00169	CDS	ydjH	2.7.1.-	putative sugar kinase YdjH
+KOHBPAPH_00169	gene	ydjH		
+KOHBPAPH_00170	CDS			hypothetical protein
+KOHBPAPH_00170	gene			
+KOHBPAPH_00171	CDS	rfaF	2.-.-.-	ADP-heptose--LPS heptosyltransferase 2
+KOHBPAPH_00171	gene	rfaF		
+KOHBPAPH_00172	CDS	yejM		Inner membrane protein YejM
+KOHBPAPH_00172	gene	yejM		
+KOHBPAPH_00173	CDS	spsI		Bifunctional IPC transferase and DIPP synthase
+KOHBPAPH_00173	gene	spsI		
+KOHBPAPH_00174	CDS	serB	3.1.3.3	Phosphoserine phosphatase
+KOHBPAPH_00174	gene	serB		
+KOHBPAPH_00175	CDS	citA	2.3.3.16	Citrate synthase 1
+KOHBPAPH_00175	gene	citA		
+KOHBPAPH_00176	CDS			hypothetical protein
+KOHBPAPH_00176	gene			
+KOHBPAPH_00177	CDS			hypothetical protein
+KOHBPAPH_00177	gene			
+KOHBPAPH_00178	CDS	soj	3.6.-.-	Sporulation initiation inhibitor protein Soj
+KOHBPAPH_00178	gene	soj		
+KOHBPAPH_00179	CDS	spo0C		Chromosome-partitioning protein Spo0J
+KOHBPAPH_00179	gene	spo0C		
+KOHBPAPH_00180	CDS			hypothetical protein
+KOHBPAPH_00180	gene			
+KOHBPAPH_00181	CDS			hypothetical protein
+KOHBPAPH_00181	gene			
+KOHBPAPH_00182	CDS	ffh		Signal recognition particle protein
+KOHBPAPH_00182	gene	ffh		
+KOHBPAPH_00183	CDS	prfA_1		Peptide chain release factor 1
+KOHBPAPH_00183	gene	prfA_1		
+KOHBPAPH_00184	CDS			hypothetical protein
+KOHBPAPH_00184	gene			
+KOHBPAPH_00185	CDS			hypothetical protein
+KOHBPAPH_00185	gene			
+KOHBPAPH_00186	CDS	pepN_1	3.4.11.2	Aminopeptidase N
+KOHBPAPH_00186	gene	pepN_1		
+KOHBPAPH_00187	CDS	lpoA		Penicillin-binding protein activator LpoA
+KOHBPAPH_00187	gene	lpoA		
+KOHBPAPH_00188	CDS	mgl	4.4.1.11	L-methionine gamma-lyase
+KOHBPAPH_00188	gene	mgl		
+KOHBPAPH_00189	CDS	dan_1	3.5.1.81	D-aminoacylase
+KOHBPAPH_00189	gene	dan_1		
+KOHBPAPH_00190	CDS			hypothetical protein
+KOHBPAPH_00190	gene			
+KOHBPAPH_00191	CDS			hypothetical protein
+KOHBPAPH_00191	gene			
+KOHBPAPH_00192	CDS			hypothetical protein
+KOHBPAPH_00192	gene			
+KOHBPAPH_00193	CDS			hypothetical protein
+KOHBPAPH_00193	gene			
+KOHBPAPH_00194	CDS	gapA	1.2.1.12	Glyceraldehyde-3-phosphate dehydrogenase 1
+KOHBPAPH_00194	gene	gapA		
+KOHBPAPH_00195	CDS	gap	1.2.1.12	Glyceraldehyde-3-phosphate dehydrogenase
+KOHBPAPH_00195	gene	gap		
+KOHBPAPH_00196	CDS			hypothetical protein
+KOHBPAPH_00196	gene			
+KOHBPAPH_00197	CDS			hypothetical protein
+KOHBPAPH_00197	gene			
+KOHBPAPH_00198	CDS	pyrK		Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+KOHBPAPH_00198	gene	pyrK		
+KOHBPAPH_00199	CDS	pyrD	1.3.1.14	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+KOHBPAPH_00199	gene	pyrD		
+KOHBPAPH_00200	CDS	rlpA	4.2.2.-	Endolytic peptidoglycan transglycosylase RlpA
+KOHBPAPH_00200	gene	rlpA		
+KOHBPAPH_00201	CDS	dagK	2.7.1.107	Diacylglycerol kinase
+KOHBPAPH_00201	gene	dagK		
+KOHBPAPH_00202	CDS			hypothetical protein
+KOHBPAPH_00202	gene			
+KOHBPAPH_00203	CDS			hypothetical protein
+KOHBPAPH_00203	gene			
+KOHBPAPH_00204	CDS	ytfJ		putative spore protein YtfJ
+KOHBPAPH_00204	gene	ytfJ		
+KOHBPAPH_00205	CDS	guaB_1	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+KOHBPAPH_00205	gene	guaB_1		
+KOHBPAPH_00206	CDS			hypothetical protein
+KOHBPAPH_00206	gene			
+KOHBPAPH_00207	CDS			hypothetical protein
+KOHBPAPH_00207	gene			
+KOHBPAPH_00208	CDS	sufE		Cysteine desulfuration protein SufE
+KOHBPAPH_00208	gene	sufE		
+KOHBPAPH_00209	CDS	sufD		FeS cluster assembly protein SufD
+KOHBPAPH_00209	gene	sufD		
+KOHBPAPH_00210	CDS	sufC		putative ATP-dependent transporter SufC
+KOHBPAPH_00210	gene	sufC		
+KOHBPAPH_00211	CDS	sufB		FeS cluster assembly protein SufB
+KOHBPAPH_00211	gene	sufB		
+KOHBPAPH_00212	CDS	iscA		Iron-binding protein IscA
+KOHBPAPH_00212	gene	iscA		
+KOHBPAPH_00213	CDS			hypothetical protein
+KOHBPAPH_00213	gene			
+KOHBPAPH_00214	CDS			Putative HTH-type transcriptional regulator
+KOHBPAPH_00214	gene			
+KOHBPAPH_00215	CDS	selD	2.7.9.3	Selenide, water dikinase
+KOHBPAPH_00215	gene	selD		
+KOHBPAPH_00216	CDS	korA	1.2.7.3	2-oxoglutarate oxidoreductase subunit KorA
+KOHBPAPH_00216	gene	korA		
+KOHBPAPH_00217	CDS	ftsW	2.4.1.129	putative peptidoglycan glycosyltransferase FtsW
+KOHBPAPH_00217	gene	ftsW		
+KOHBPAPH_00218	CDS	murG	2.4.1.227	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+KOHBPAPH_00218	gene	murG		
+KOHBPAPH_00219	CDS	murC	6.3.2.8	UDP-N-acetylmuramate--L-alanine ligase
+KOHBPAPH_00219	gene	murC		
+KOHBPAPH_00220	CDS	murB	1.3.1.98	UDP-N-acetylenolpyruvoylglucosamine reductase
+KOHBPAPH_00220	gene	murB		
+KOHBPAPH_00221	CDS	ftsQ		Cell division protein FtsQ
+KOHBPAPH_00221	gene	ftsQ		
+KOHBPAPH_00222	CDS			hypothetical protein
+KOHBPAPH_00222	gene			
+KOHBPAPH_00223	CDS			hypothetical protein
+KOHBPAPH_00223	gene			
+KOHBPAPH_00224	CDS			hypothetical protein
+KOHBPAPH_00224	gene			
+KOHBPAPH_00225	CDS	eno	4.2.1.11	Enolase
+KOHBPAPH_00225	gene	eno		
+KOHBPAPH_00226	CDS	ftsB		Cell division protein FtsB
+KOHBPAPH_00226	gene	ftsB		
+KOHBPAPH_00227	CDS			hypothetical protein
+KOHBPAPH_00227	gene			
+KOHBPAPH_00228	CDS	coxN_1	1.9.3.1	Alternative cytochrome c oxidase subunit 1
+KOHBPAPH_00228	gene	coxN_1		
+KOHBPAPH_00229	CDS	ctaE_1	1.9.3.1	putative cytochrome c oxidase subunit 3
+KOHBPAPH_00229	gene	ctaE_1		
+KOHBPAPH_00230	CDS	cyoC		Cytochrome bo(3) ubiquinol oxidase subunit 3
+KOHBPAPH_00230	gene	cyoC		
+KOHBPAPH_00231	CDS			hypothetical protein
+KOHBPAPH_00231	gene			
+KOHBPAPH_00232	CDS			Putative HTH-type transcriptional regulator
+KOHBPAPH_00232	gene			
+KOHBPAPH_00233	CDS			hypothetical protein
+KOHBPAPH_00233	gene			
+KOHBPAPH_00234	CDS			hypothetical protein
+KOHBPAPH_00234	gene			
+KOHBPAPH_00235	CDS	cphA	3.5.2.6	Metallo-beta-lactamase type 2
+KOHBPAPH_00235	gene	cphA		
+KOHBPAPH_00236	CDS			hypothetical protein
+KOHBPAPH_00236	gene			
+KOHBPAPH_00237	CDS			hypothetical protein
+KOHBPAPH_00237	gene			
+KOHBPAPH_00238	CDS			hypothetical protein
+KOHBPAPH_00238	gene			
+KOHBPAPH_00239	CDS	dapE_1	3.5.1.18	Succinyl-diaminopimelate desuccinylase
+KOHBPAPH_00239	gene	dapE_1		
+KOHBPAPH_00240	CDS			hypothetical protein
+KOHBPAPH_00240	gene			
+KOHBPAPH_00241	CDS			hypothetical protein
+KOHBPAPH_00241	gene			
+KOHBPAPH_00242	CDS			hypothetical protein
+KOHBPAPH_00242	gene			
+KOHBPAPH_00243	tRNA			tRNA-Met(cat)
+KOHBPAPH_00243	gene			
+KOHBPAPH_00244	CDS	gdhA	1.4.1.2	NAD(P)-specific glutamate dehydrogenase
+KOHBPAPH_00244	gene	gdhA		
+KOHBPAPH_00245	CDS			hypothetical protein
+KOHBPAPH_00245	gene			
+KOHBPAPH_00246	CDS			hypothetical protein
+KOHBPAPH_00246	gene			
+KOHBPAPH_00247	CDS	ycgJ	2.1.1.-	putative methyltransferase YcgJ
+KOHBPAPH_00247	gene	ycgJ		
+KOHBPAPH_00248	CDS	wbbL_1	2.4.1.289	N-acetylglucosaminyl-diphospho-decaprenol L-rhamnosyltransferase
+KOHBPAPH_00248	gene	wbbL_1		
+KOHBPAPH_00249	CDS	mshA	2.4.1.250	D-inositol 3-phosphate glycosyltransferase
+KOHBPAPH_00249	gene	mshA		
+KOHBPAPH_00250	CDS	rgtE	2.4.1.-	Dodecaprenyl-phosphate galacturonate synthase
+KOHBPAPH_00250	gene	rgtE		
+KOHBPAPH_00251	CDS			hypothetical protein
+KOHBPAPH_00251	gene			
+KOHBPAPH_00252	CDS	bepA_1	3.4.-.-	Beta-barrel assembly-enhancing protease
+KOHBPAPH_00252	gene	bepA_1		
+KOHBPAPH_00253	CDS	dosC	2.7.7.65	Diguanylate cyclase DosC
+KOHBPAPH_00253	gene	dosC		
+KOHBPAPH_00254	CDS			hypothetical protein
+KOHBPAPH_00254	gene			
+KOHBPAPH_00255	CDS	tsnR	2.1.1.230	23S rRNA (adenosine(1067)-2'-O)-methyltransferase
+KOHBPAPH_00255	gene	tsnR		
+KOHBPAPH_00256	CDS	nfdA	3.5.1.91	N-substituted formamide deformylase
+KOHBPAPH_00256	gene	nfdA		
+KOHBPAPH_00257	CDS			hypothetical protein
+KOHBPAPH_00257	gene			
+KOHBPAPH_00258	CDS	glpE	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+KOHBPAPH_00258	gene	glpE		
+KOHBPAPH_00259	CDS			hypothetical protein
+KOHBPAPH_00259	gene			
+KOHBPAPH_00260	CDS		3.4.11.24	Aminopeptidase S
+KOHBPAPH_00260	gene			
+KOHBPAPH_00261	CDS	dapE_2	3.5.1.18	Succinyl-diaminopimelate desuccinylase
+KOHBPAPH_00261	gene	dapE_2		
+KOHBPAPH_00262	CDS			Ycf48-like protein
+KOHBPAPH_00262	gene			
+KOHBPAPH_00263	CDS	kdsC	3.1.3.45	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+KOHBPAPH_00263	gene	kdsC		
+KOHBPAPH_00264	CDS			hypothetical protein
+KOHBPAPH_00264	gene			
+KOHBPAPH_00265	CDS	lptB	3.6.3.-	Lipopolysaccharide export system ATP-binding protein LptB
+KOHBPAPH_00265	gene	lptB		
+KOHBPAPH_00266	CDS	dnaE	2.7.7.7	DNA polymerase III subunit alpha
+KOHBPAPH_00266	gene	dnaE		
+KOHBPAPH_00267	CDS	dtd	3.1.1.96	D-aminoacyl-tRNA deacylase
+KOHBPAPH_00267	gene	dtd		
+KOHBPAPH_00268	CDS	scpA_2	5.4.99.2	Methylmalonyl-CoA mutase
+KOHBPAPH_00268	gene	scpA_2		
+KOHBPAPH_00269	CDS	bepA_2	3.4.-.-	Beta-barrel assembly-enhancing protease
+KOHBPAPH_00269	gene	bepA_2		
+KOHBPAPH_00270	CDS	desVI	2.1.1.234	dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucopyranose
+KOHBPAPH_00270	gene	desVI		
+KOHBPAPH_00271	CDS	alkA	3.2.2.21	DNA-3-methyladenine glycosylase
+KOHBPAPH_00271	gene	alkA		
+KOHBPAPH_00272	CDS			hypothetical protein
+KOHBPAPH_00272	gene			
+KOHBPAPH_00273	CDS			hypothetical protein
+KOHBPAPH_00273	gene			
+KOHBPAPH_00274	CDS	proS	6.1.1.15	Proline--tRNA ligase
+KOHBPAPH_00274	gene	proS		
+KOHBPAPH_00275	CDS	recO		DNA repair protein RecO
+KOHBPAPH_00275	gene	recO		
+KOHBPAPH_00276	CDS			hypothetical protein
+KOHBPAPH_00276	gene			
+KOHBPAPH_00277	CDS	metF	1.5.1.20	5,10-methylenetetrahydrofolate reductase
+KOHBPAPH_00277	gene	metF		
+KOHBPAPH_00278	CDS	gloC	3.1.2.6	Hydroxyacylglutathione hydrolase GloC
+KOHBPAPH_00278	gene	gloC		
+KOHBPAPH_00279	CDS			hypothetical protein
+KOHBPAPH_00279	gene			
+KOHBPAPH_00280	CDS			hypothetical protein
+KOHBPAPH_00280	gene			
+KOHBPAPH_00281	CDS	ccmC		Heme exporter protein C
+KOHBPAPH_00281	gene	ccmC		
+KOHBPAPH_00282	CDS			hypothetical protein
+KOHBPAPH_00282	gene			
+KOHBPAPH_00283	CDS	yxlF_1	3.6.3.-	putative ABC transporter ATP-binding protein YxlF
+KOHBPAPH_00283	gene	yxlF_1		
+KOHBPAPH_00284	CDS			hypothetical protein
+KOHBPAPH_00284	gene			
+KOHBPAPH_00285	CDS	ccmF		Cytochrome c-type biogenesis protein CcmF
+KOHBPAPH_00285	gene	ccmF		
+KOHBPAPH_00286	CDS	ccmE		Cytochrome c-type biogenesis protein CcmE
+KOHBPAPH_00286	gene	ccmE		
+KOHBPAPH_00287	CDS	scpA_3	5.4.99.2	Methylmalonyl-CoA mutase
+KOHBPAPH_00287	gene	scpA_3		
+KOHBPAPH_00288	CDS	cstA		Carbon starvation protein A
+KOHBPAPH_00288	gene	cstA		
+KOHBPAPH_00289	CDS			hypothetical protein
+KOHBPAPH_00289	gene			
+KOHBPAPH_00290	CDS	atsA_1	3.1.6.1	Arylsulfatase
+KOHBPAPH_00290	gene	atsA_1		
+KOHBPAPH_00291	CDS	atsA_2	3.1.6.1	Arylsulfatase
+KOHBPAPH_00291	gene	atsA_2		
+KOHBPAPH_00292	CDS			hypothetical protein
+KOHBPAPH_00292	gene			
+KOHBPAPH_00293	CDS			hypothetical protein
+KOHBPAPH_00293	gene			
+KOHBPAPH_00294	CDS	ctpA	3.4.21.102	Carboxy-terminal processing protease CtpA
+KOHBPAPH_00294	gene	ctpA		
+KOHBPAPH_00295	CDS	exbB_1		Biopolymer transport protein ExbB
+KOHBPAPH_00295	gene	exbB_1		
+KOHBPAPH_00296	CDS			hypothetical protein
+KOHBPAPH_00296	gene			
+KOHBPAPH_00297	CDS			hypothetical protein
+KOHBPAPH_00297	gene			
+KOHBPAPH_00298	CDS			hypothetical protein
+KOHBPAPH_00298	gene			
+KOHBPAPH_00299	CDS	frdB_1	1.3.5.1	Fumarate reductase iron-sulfur subunit
+KOHBPAPH_00299	gene	frdB_1		
+KOHBPAPH_00300	CDS	frdA	1.3.5.4	Fumarate reductase flavoprotein subunit
+KOHBPAPH_00300	gene	frdA		
+KOHBPAPH_00301	CDS			hypothetical protein
+KOHBPAPH_00301	gene			
+KOHBPAPH_00302	CDS			hypothetical protein
+KOHBPAPH_00302	gene			
+KOHBPAPH_00303	CDS			hypothetical protein
+KOHBPAPH_00303	gene			
+KOHBPAPH_00304	CDS	purA	6.3.4.4	Adenylosuccinate synthetase
+KOHBPAPH_00304	gene	purA		
+KOHBPAPH_00305	CDS			hypothetical protein
+KOHBPAPH_00305	gene			
+KOHBPAPH_00306	CDS			hypothetical protein
+KOHBPAPH_00306	gene			
+KOHBPAPH_00307	CDS	nagA_1	3.2.1.49	Alpha-N-acetylgalactosaminidase
+KOHBPAPH_00307	gene	nagA_1		
+KOHBPAPH_00308	CDS	sglT_2		Sodium/glucose cotransporter
+KOHBPAPH_00308	gene	sglT_2		
+KOHBPAPH_00309	CDS	galK_2	2.7.1.6	Galactokinase
+KOHBPAPH_00309	gene	galK_2		
+KOHBPAPH_00310	CDS			hypothetical protein
+KOHBPAPH_00310	gene			
+KOHBPAPH_00311	CDS			hypothetical protein
+KOHBPAPH_00311	gene			
+KOHBPAPH_00312	CDS	wfgD	2.4.1.305	UDP-Glc:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-glucosyltransferase WfgD
+KOHBPAPH_00312	gene	wfgD		
+KOHBPAPH_00313	CDS	nusB		N utilization substance protein B 
+KOHBPAPH_00313	gene	nusB		
+KOHBPAPH_00314	CDS	ilvK	2.6.1.42	Branched-chain-amino-acid aminotransferase 2
+KOHBPAPH_00314	gene	ilvK		
+KOHBPAPH_00315	CDS	bcd	1.3.8.1	Acyl-CoA dehydrogenase, short-chain specific
+KOHBPAPH_00315	gene	bcd		
+KOHBPAPH_00316	CDS	phaA	2.3.1.9	Acetyl-CoA acetyltransferase
+KOHBPAPH_00316	gene	phaA		
+KOHBPAPH_00317	CDS	ychF		Ribosome-binding ATPase YchF
+KOHBPAPH_00317	gene	ychF		
+KOHBPAPH_00318	CDS			hypothetical protein
+KOHBPAPH_00318	gene			
+KOHBPAPH_00319	CDS			hypothetical protein
+KOHBPAPH_00319	gene			
+KOHBPAPH_00320	CDS			hypothetical protein
+KOHBPAPH_00320	gene			
+KOHBPAPH_00321	CDS	frdB_2	1.3.5.1	Fumarate reductase iron-sulfur subunit
+KOHBPAPH_00321	gene	frdB_2		
+KOHBPAPH_00322	CDS			hypothetical protein
+KOHBPAPH_00322	gene			
+KOHBPAPH_00323	CDS			hypothetical protein
+KOHBPAPH_00323	gene			
+KOHBPAPH_00324	CDS			hypothetical protein
+KOHBPAPH_00324	gene			
+KOHBPAPH_00325	CDS	exbB_2		Biopolymer transport protein ExbB
+KOHBPAPH_00325	gene	exbB_2		
+KOHBPAPH_00326	CDS			hypothetical protein
+KOHBPAPH_00326	gene			
+KOHBPAPH_00327	CDS			hypothetical protein
+KOHBPAPH_00327	gene			
+KOHBPAPH_00328	CDS	rimI	2.3.1.128	Ribosomal-protein-alanine acetyltransferase
+KOHBPAPH_00328	gene	rimI		
+KOHBPAPH_00329	CDS	accD_1	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+KOHBPAPH_00329	gene	accD_1		
+KOHBPAPH_00330	CDS	surE	3.1.3.5	5'-nucleotidase SurE
+KOHBPAPH_00330	gene	surE		
+KOHBPAPH_00331	CDS	guaA	6.3.5.2	GMP synthase [glutamine-hydrolyzing]
+KOHBPAPH_00331	gene	guaA		
+KOHBPAPH_00332	CDS	mepA		Multidrug export protein MepA
+KOHBPAPH_00332	gene	mepA		
+KOHBPAPH_00333	CDS		4.2.1.96	Putative pterin-4-alpha-carbinolamine dehydratase
+KOHBPAPH_00333	gene			
+KOHBPAPH_00334	CDS			hypothetical protein
+KOHBPAPH_00334	gene			
+KOHBPAPH_00335	CDS			hypothetical protein
+KOHBPAPH_00335	gene			
+KOHBPAPH_00336	CDS			hypothetical protein
+KOHBPAPH_00336	gene			
+KOHBPAPH_00337	CDS			hypothetical protein
+KOHBPAPH_00337	gene			
+KOHBPAPH_00338	CDS	lytB		Amidase enhancer
+KOHBPAPH_00338	gene	lytB		
+KOHBPAPH_00339	CDS			hypothetical protein
+KOHBPAPH_00339	gene			
+KOHBPAPH_00340	CDS	plsX_1	2.3.1.-	Phosphate acyltransferase
+KOHBPAPH_00340	gene	plsX_1		
+KOHBPAPH_00341	CDS	fabH	2.3.1.180	3-oxoacyl-[acyl-carrier-protein] synthase 3
+KOHBPAPH_00341	gene	fabH		
+KOHBPAPH_00342	CDS	rpoN		RNA polymerase sigma-54 factor
+KOHBPAPH_00342	gene	rpoN		
+KOHBPAPH_00343	CDS	hflK		Modulator of FtsH protease HflK
+KOHBPAPH_00343	gene	hflK		
+KOHBPAPH_00344	CDS	hflC		Modulator of FtsH protease HflC
+KOHBPAPH_00344	gene	hflC		
+KOHBPAPH_00345	CDS	hslV	3.4.25.2	ATP-dependent protease subunit HslV
+KOHBPAPH_00345	gene	hslV		
+KOHBPAPH_00346	CDS	hslU		ATP-dependent protease ATPase subunit HslU
+KOHBPAPH_00346	gene	hslU		
+KOHBPAPH_00347	CDS	argF	2.1.3.3	Ornithine carbamoyltransferase
+KOHBPAPH_00347	gene	argF		
+KOHBPAPH_00348	CDS	kdsD	5.3.1.13	Arabinose 5-phosphate isomerase KdsD
+KOHBPAPH_00348	gene	kdsD		
+KOHBPAPH_00349	CDS			hypothetical protein
+KOHBPAPH_00349	gene			
+KOHBPAPH_00350	CDS			hypothetical protein
+KOHBPAPH_00350	gene			
+KOHBPAPH_00351	CDS	lpxH	3.6.1.54	UDP-2,3-diacylglucosamine hydrolase
+KOHBPAPH_00351	gene	lpxH		
+KOHBPAPH_00352	CDS	dpp5_1	3.4.14.-	Dipeptidyl-peptidase 5
+KOHBPAPH_00352	gene	dpp5_1		
+KOHBPAPH_00353	CDS	radA	3.6.4.-	DNA repair protein RadA
+KOHBPAPH_00353	gene	radA		
+KOHBPAPH_00354	CDS	tgt	2.4.2.29	Queuine tRNA-ribosyltransferase
+KOHBPAPH_00354	gene	tgt		
+KOHBPAPH_00355	CDS			hypothetical protein
+KOHBPAPH_00355	gene			
+KOHBPAPH_00356	CDS	ahcY	3.3.1.1	Adenosylhomocysteinase
+KOHBPAPH_00356	gene	ahcY		
+KOHBPAPH_00357	CDS	metK	2.5.1.6	S-adenosylmethionine synthase
+KOHBPAPH_00357	gene	metK		
+KOHBPAPH_00358	CDS	hpf		Ribosome hibernation promoting factor
+KOHBPAPH_00358	gene	hpf		
+KOHBPAPH_00359	CDS	pckA	4.1.1.49	Phosphoenolpyruvate carboxykinase (ATP)
+KOHBPAPH_00359	gene	pckA		
+KOHBPAPH_00360	CDS	xerD_1		Tyrosine recombinase XerD
+KOHBPAPH_00360	gene	xerD_1		
+KOHBPAPH_00361	CDS	rluD	5.4.99.23	Ribosomal large subunit pseudouridine synthase D
+KOHBPAPH_00361	gene	rluD		
+KOHBPAPH_00362	CDS			hypothetical protein
+KOHBPAPH_00362	gene			
+KOHBPAPH_00363	CDS			hypothetical protein
+KOHBPAPH_00363	gene			
+KOHBPAPH_00364	CDS			hypothetical protein
+KOHBPAPH_00364	gene			
+KOHBPAPH_00365	CDS	spoIIIE		DNA translocase SpoIIIE
+KOHBPAPH_00365	gene	spoIIIE		
+KOHBPAPH_00366	CDS			hypothetical protein
+KOHBPAPH_00366	gene			
+KOHBPAPH_00367	CDS			hypothetical protein
+KOHBPAPH_00367	gene			
+KOHBPAPH_00368	CDS	gmhB	3.1.3.82	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase
+KOHBPAPH_00368	gene	gmhB		
+KOHBPAPH_00369	CDS	ddlB	6.3.2.4	D-alanine--D-alanine ligase B
+KOHBPAPH_00369	gene	ddlB		
+KOHBPAPH_00370	CDS	fda	4.1.2.13	Fructose-bisphosphate aldolase class 1
+KOHBPAPH_00370	gene	fda		
+KOHBPAPH_00371	CDS	fba	4.1.2.13	Fructose-bisphosphate aldolase
+KOHBPAPH_00371	gene	fba		
+KOHBPAPH_00372	CDS	pfp	2.7.1.90	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+KOHBPAPH_00372	gene	pfp		
+KOHBPAPH_00373	CDS	iolG	1.1.1.18	Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+KOHBPAPH_00373	gene	iolG		
+KOHBPAPH_00374	CDS	hyi	5.3.1.22	Hydroxypyruvate isomerase
+KOHBPAPH_00374	gene	hyi		
+KOHBPAPH_00375	CDS			hypothetical protein
+KOHBPAPH_00375	gene			
+KOHBPAPH_00376	CDS			hypothetical protein
+KOHBPAPH_00376	gene			
+KOHBPAPH_00377	CDS			hypothetical protein
+KOHBPAPH_00377	gene			
+KOHBPAPH_00378	CDS			hypothetical protein
+KOHBPAPH_00378	gene			
+KOHBPAPH_00379	CDS			hypothetical protein
+KOHBPAPH_00379	gene			
+KOHBPAPH_00380	CDS	pgsA1	2.7.8.5	Putative CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyl-transferase 1
+KOHBPAPH_00380	gene	pgsA1		
+KOHBPAPH_00381	CDS		3.1.1.3	Lipase
+KOHBPAPH_00381	gene			
+KOHBPAPH_00382	CDS	alkB1	1.14.15.3	Alkane 1-monooxygenase 1
+KOHBPAPH_00382	gene	alkB1		
+KOHBPAPH_00383	CDS		2.6.1.1	Aspartate aminotransferase
+KOHBPAPH_00383	gene			
+KOHBPAPH_00384	CDS	ruvA	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvA
+KOHBPAPH_00384	gene	ruvA		
+KOHBPAPH_00385	CDS	ruvC	3.1.22.4	Crossover junction endodeoxyribonuclease RuvC
+KOHBPAPH_00385	gene	ruvC		
+KOHBPAPH_00386	CDS	yebC		putative transcriptional regulatory protein YebC
+KOHBPAPH_00386	gene	yebC		
+KOHBPAPH_00387	CDS	putP_1		High-affinity proline transporter PutP
+KOHBPAPH_00387	gene	putP_1		
+KOHBPAPH_00388	CDS	mscS_1		Small-conductance mechanosensitive channel
+KOHBPAPH_00388	gene	mscS_1		
+KOHBPAPH_00389	CDS			hypothetical protein
+KOHBPAPH_00389	gene			
+KOHBPAPH_00390	CDS	hcf136_2		Ycf48-like protein
+KOHBPAPH_00390	gene	hcf136_2		
+KOHBPAPH_00391	CDS			hypothetical protein
+KOHBPAPH_00391	gene			
+KOHBPAPH_00392	CDS			hypothetical protein
+KOHBPAPH_00392	gene			
+KOHBPAPH_00393	CDS			hypothetical protein
+KOHBPAPH_00393	gene			
+KOHBPAPH_00394	CDS	nudF	3.6.1.13	ADP-ribose pyrophosphatase
+KOHBPAPH_00394	gene	nudF		
+KOHBPAPH_00395	CDS	queG	1.17.99.6	Epoxyqueuosine reductase
+KOHBPAPH_00395	gene	queG		
+KOHBPAPH_00396	CDS	nrnA	3.1.-.-	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+KOHBPAPH_00396	gene	nrnA		
+KOHBPAPH_00397	CDS	yvqK	2.5.1.17	Cob(I)yrinic acid a,c-diamide adenosyltransferase
+KOHBPAPH_00397	gene	yvqK		
+KOHBPAPH_00398	CDS			hypothetical protein
+KOHBPAPH_00398	gene			
+KOHBPAPH_00399	CDS			hypothetical protein
+KOHBPAPH_00399	gene			
+KOHBPAPH_00400	CDS	apbE	2.7.1.180	FAD:protein FMN transferase
+KOHBPAPH_00400	gene	apbE		
+KOHBPAPH_00401	CDS	nqrF	1.6.5.8	Na(+)-translocating NADH-quinone reductase subunit F
+KOHBPAPH_00401	gene	nqrF		
+KOHBPAPH_00402	CDS	recX		Regulatory protein RecX
+KOHBPAPH_00402	gene	recX		
+KOHBPAPH_00403	CDS	recA		Protein RecA
+KOHBPAPH_00403	gene	recA		
+KOHBPAPH_00404	CDS		3.1.4.-	RNA 2',3'-cyclic phosphodiesterase
+KOHBPAPH_00404	gene			
+KOHBPAPH_00405	CDS	algC	5.4.2.2	Phosphomannomutase/phosphoglucomutase
+KOHBPAPH_00405	gene	algC		
+KOHBPAPH_00406	CDS	rpsU		30S ribosomal protein S21
+KOHBPAPH_00406	gene	rpsU		
+KOHBPAPH_00407	CDS	sigA_1		RNA polymerase sigma factor SigA
+KOHBPAPH_00407	gene	sigA_1		
+KOHBPAPH_00408	CDS	rsmA	2.1.1.182	Ribosomal RNA small subunit methyltransferase A
+KOHBPAPH_00408	gene	rsmA		
+KOHBPAPH_00409	CDS			hypothetical protein
+KOHBPAPH_00409	gene			
+KOHBPAPH_00410	CDS			hypothetical protein
+KOHBPAPH_00410	gene			
+KOHBPAPH_00411	CDS	hppA1	3.6.1.1	Putative K(+)-stimulated pyrophosphate-energized sodium pump
+KOHBPAPH_00411	gene	hppA1		
+KOHBPAPH_00412	CDS	rpsF		30S ribosomal protein S6
+KOHBPAPH_00412	gene	rpsF		
+KOHBPAPH_00413	CDS	rpsR		30S ribosomal protein S18
+KOHBPAPH_00413	gene	rpsR		
+KOHBPAPH_00414	CDS	rplI		50S ribosomal protein L9
+KOHBPAPH_00414	gene	rplI		
+KOHBPAPH_00415	CDS	priA	3.6.4.-	Primosomal protein N'
+KOHBPAPH_00415	gene	priA		
+KOHBPAPH_00416	CDS			hypothetical protein
+KOHBPAPH_00416	gene			
+KOHBPAPH_00417	CDS			hypothetical protein
+KOHBPAPH_00417	gene			
+KOHBPAPH_00418	CDS	maeA	1.1.1.38	NAD-dependent malic enzyme
+KOHBPAPH_00418	gene	maeA		
+KOHBPAPH_00419	CDS	por_1	1.2.7.1	Pyruvate synthase
+KOHBPAPH_00419	gene	por_1		
+KOHBPAPH_00420	CDS	por_2	1.2.7.1	Pyruvate synthase
+KOHBPAPH_00420	gene	por_2		
+KOHBPAPH_00421	CDS			hypothetical protein
+KOHBPAPH_00421	gene			
+KOHBPAPH_00422	CDS	tolB_1		Protein TolB
+KOHBPAPH_00422	gene	tolB_1		
+KOHBPAPH_00423	CDS			hypothetical protein
+KOHBPAPH_00423	gene			
+KOHBPAPH_00424	CDS	bamD_1		Outer membrane protein assembly factor BamD
+KOHBPAPH_00424	gene	bamD_1		
+KOHBPAPH_00425	CDS	nadD	2.7.7.18	Nicotinate-nucleotide adenylyltransferase
+KOHBPAPH_00425	gene	nadD		
+KOHBPAPH_00426	CDS	yrbG		Inner membrane protein YrbG
+KOHBPAPH_00426	gene	yrbG		
+KOHBPAPH_00427	CDS	ftsE		Cell division ATP-binding protein FtsE
+KOHBPAPH_00427	gene	ftsE		
+KOHBPAPH_00428	CDS	ftsX		Cell division protein FtsX
+KOHBPAPH_00428	gene	ftsX		
+KOHBPAPH_00429	CDS	hrcA		Heat-inducible transcription repressor HrcA
+KOHBPAPH_00429	gene	hrcA		
+KOHBPAPH_00430	CDS	grpE		Protein GrpE
+KOHBPAPH_00430	gene	grpE		
+KOHBPAPH_00431	CDS	dnaJ		Chaperone protein DnaJ
+KOHBPAPH_00431	gene	dnaJ		
+KOHBPAPH_00432	CDS	comEA		ComE operon protein 1
+KOHBPAPH_00432	gene	comEA		
+KOHBPAPH_00433	CDS			hypothetical protein
+KOHBPAPH_00433	gene			
+KOHBPAPH_00434	CDS	cusA		Cation efflux system protein CusA
+KOHBPAPH_00434	gene	cusA		
+KOHBPAPH_00435	CDS			hypothetical protein
+KOHBPAPH_00435	gene			
+KOHBPAPH_00436	CDS			hypothetical protein
+KOHBPAPH_00436	gene			
+KOHBPAPH_00437	CDS	gltX	6.1.1.17	Glutamate--tRNA ligase
+KOHBPAPH_00437	gene	gltX		
+KOHBPAPH_00438	CDS	glnS	6.1.1.18	Glutamine--tRNA ligase
+KOHBPAPH_00438	gene	glnS		
+KOHBPAPH_00439	CDS			hypothetical protein
+KOHBPAPH_00439	gene			
+KOHBPAPH_00440	CDS	resA_1		Thiol-disulfide oxidoreductase ResA
+KOHBPAPH_00440	gene	resA_1		
+KOHBPAPH_00441	CDS			hypothetical protein
+KOHBPAPH_00441	gene			
+KOHBPAPH_00442	CDS			hypothetical protein
+KOHBPAPH_00442	gene			
+KOHBPAPH_00443	CDS			hypothetical protein
+KOHBPAPH_00443	gene			
+KOHBPAPH_00444	tRNA			tRNA-Gln(ctg)
+KOHBPAPH_00444	gene			
+KOHBPAPH_00445	tRNA			tRNA-Arg(acg)
+KOHBPAPH_00445	gene			
+KOHBPAPH_00446	CDS	atpG		ATP synthase gamma chain
+KOHBPAPH_00446	gene	atpG		
+KOHBPAPH_00447	CDS	atpA	3.6.3.14	ATP synthase subunit alpha
+KOHBPAPH_00447	gene	atpA		
+KOHBPAPH_00448	CDS	atpH_1		ATP synthase subunit delta
+KOHBPAPH_00448	gene	atpH_1		
+KOHBPAPH_00449	CDS	atpF		ATP synthase subunit b
+KOHBPAPH_00449	gene	atpF		
+KOHBPAPH_00450	CDS	atpH_2		ATP synthase subunit c
+KOHBPAPH_00450	gene	atpH_2		
+KOHBPAPH_00451	CDS	atpB		ATP synthase subunit a
+KOHBPAPH_00451	gene	atpB		
+KOHBPAPH_00452	CDS			hypothetical protein
+KOHBPAPH_00452	gene			
+KOHBPAPH_00453	CDS			hypothetical protein
+KOHBPAPH_00453	gene			
+KOHBPAPH_00454	CDS			hypothetical protein
+KOHBPAPH_00454	gene			
+KOHBPAPH_00455	CDS	mepM	3.4.24.-	Murein DD-endopeptidase MepM
+KOHBPAPH_00455	gene	mepM		
+KOHBPAPH_00456	CDS	rpoC	2.7.7.6	DNA-directed RNA polymerase subunit beta'
+KOHBPAPH_00456	gene	rpoC		
+KOHBPAPH_00457	CDS	rpsL		30S ribosomal protein S12
+KOHBPAPH_00457	gene	rpsL		
+KOHBPAPH_00458	CDS	rpsG		30S ribosomal protein S7
+KOHBPAPH_00458	gene	rpsG		
+KOHBPAPH_00459	CDS	atpD	3.6.3.14	ATP synthase subunit beta
+KOHBPAPH_00459	gene	atpD		
+KOHBPAPH_00460	CDS	atpC		ATP synthase epsilon chain
+KOHBPAPH_00460	gene	atpC		
+KOHBPAPH_00461	CDS	aspS	6.1.1.12	Aspartate--tRNA ligase
+KOHBPAPH_00461	gene	aspS		
+KOHBPAPH_00462	CDS			hypothetical protein
+KOHBPAPH_00462	gene			
+KOHBPAPH_00463	CDS			hypothetical protein
+KOHBPAPH_00463	gene			
+KOHBPAPH_00464	CDS			hypothetical protein
+KOHBPAPH_00464	gene			
+KOHBPAPH_00465	CDS	kinD	2.7.13.3	Sporulation kinase D
+KOHBPAPH_00465	gene	kinD		
+KOHBPAPH_00466	CDS			hypothetical protein
+KOHBPAPH_00466	gene			
+KOHBPAPH_00467	CDS	def	3.5.1.88	Peptide deformylase
+KOHBPAPH_00467	gene	def		
+KOHBPAPH_00468	CDS	fmt	2.1.2.9	Methionyl-tRNA formyltransferase
+KOHBPAPH_00468	gene	fmt		
+KOHBPAPH_00469	CDS	rsmB	2.1.1.176	Ribosomal RNA small subunit methyltransferase B
+KOHBPAPH_00469	gene	rsmB		
+KOHBPAPH_00470	CDS	spk1	2.7.11.1	Serine/threonine-protein kinase PK-1
+KOHBPAPH_00470	gene	spk1		
+KOHBPAPH_00471	CDS			hypothetical protein
+KOHBPAPH_00471	gene			
+KOHBPAPH_00472	CDS			hypothetical protein
+KOHBPAPH_00472	gene			
+KOHBPAPH_00473	CDS	hflX		GTPase HflX
+KOHBPAPH_00473	gene	hflX		
+KOHBPAPH_00474	CDS	gltT		Proton/sodium-glutamate symport protein
+KOHBPAPH_00474	gene	gltT		
+KOHBPAPH_00475	CDS	gcvP	1.4.4.2	Glycine dehydrogenase (decarboxylating)
+KOHBPAPH_00475	gene	gcvP		
+KOHBPAPH_00476	CDS			hypothetical protein
+KOHBPAPH_00476	gene			
+KOHBPAPH_00477	CDS	yheS		putative ABC transporter ATP-binding protein YheS
+KOHBPAPH_00477	gene	yheS		
+KOHBPAPH_00478	CDS			hypothetical protein
+KOHBPAPH_00478	gene			
+KOHBPAPH_00479	CDS			hypothetical protein
+KOHBPAPH_00479	gene			
+KOHBPAPH_00480	CDS			hypothetical protein
+KOHBPAPH_00480	gene			
+KOHBPAPH_00481	CDS	rmlB	4.2.1.46	dTDP-glucose 4,6-dehydratase
+KOHBPAPH_00481	gene	rmlB		
+KOHBPAPH_00482	CDS			hypothetical protein
+KOHBPAPH_00482	gene			
+KOHBPAPH_00483	CDS	ssb		Single-stranded DNA-binding protein
+KOHBPAPH_00483	gene	ssb		
+KOHBPAPH_00484	CDS			hypothetical protein
+KOHBPAPH_00484	gene			
+KOHBPAPH_00485	CDS	plsC_1	2.3.1.-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+KOHBPAPH_00485	gene	plsC_1		
+KOHBPAPH_00486	CDS			hypothetical protein
+KOHBPAPH_00486	gene			
+KOHBPAPH_00487	CDS	rplL		50S ribosomal protein L7/L12
+KOHBPAPH_00487	gene	rplL		
+KOHBPAPH_00488	CDS	rplJ		50S ribosomal protein L10
+KOHBPAPH_00488	gene	rplJ		
+KOHBPAPH_00489	CDS	rplA		50S ribosomal protein L1
+KOHBPAPH_00489	gene	rplA		
+KOHBPAPH_00490	CDS	rplK		50S ribosomal protein L11
+KOHBPAPH_00490	gene	rplK		
+KOHBPAPH_00491	CDS	nusG		Transcription termination/antitermination protein NusG
+KOHBPAPH_00491	gene	nusG		
+KOHBPAPH_00492	CDS	secE		Protein translocase subunit SecE
+KOHBPAPH_00492	gene	secE		
+KOHBPAPH_00493	tRNA			tRNA-Trp(cca)
+KOHBPAPH_00493	gene			
+KOHBPAPH_00494	CDS	rpmG		50S ribosomal protein L33
+KOHBPAPH_00494	gene	rpmG		
+KOHBPAPH_00495	CDS	tufA		Elongation factor Tu
+KOHBPAPH_00495	gene	tufA		
+KOHBPAPH_00496	tRNA			tRNA-Pro(tgg)
+KOHBPAPH_00496	gene			
+KOHBPAPH_00497	tRNA			tRNA-His(gtg)
+KOHBPAPH_00497	gene			
+KOHBPAPH_00498	CDS			hypothetical protein
+KOHBPAPH_00498	gene			
+KOHBPAPH_00499	CDS	mrcA		Penicillin-binding protein 1A
+KOHBPAPH_00499	gene	mrcA		
+KOHBPAPH_00500	CDS	fumC	4.2.1.2	Fumarate hydratase class II
+KOHBPAPH_00500	gene	fumC		
+KOHBPAPH_00501	CDS	korB	1.2.7.3	2-oxoglutarate oxidoreductase subunit KorB
+KOHBPAPH_00501	gene	korB		
+KOHBPAPH_00502	CDS			hypothetical protein
+KOHBPAPH_00502	gene			
+KOHBPAPH_00503	CDS			hypothetical protein
+KOHBPAPH_00503	gene			
+KOHBPAPH_00504	CDS			hypothetical protein
+KOHBPAPH_00504	gene			
+KOHBPAPH_00505	CDS			hypothetical protein
+KOHBPAPH_00505	gene			
+KOHBPAPH_00506	CDS			hypothetical protein
+KOHBPAPH_00506	gene			
+KOHBPAPH_00507	CDS			hypothetical protein
+KOHBPAPH_00507	gene			
+KOHBPAPH_00508	CDS			hypothetical protein
+KOHBPAPH_00508	gene			
+KOHBPAPH_00509	CDS	bolA		DNA-binding transcriptional regulator BolA
+KOHBPAPH_00509	gene	bolA		
+KOHBPAPH_00510	CDS			hypothetical protein
+KOHBPAPH_00510	gene			
+KOHBPAPH_00511	CDS			hypothetical protein
+KOHBPAPH_00511	gene			
+KOHBPAPH_00512	tRNA			tRNA-Gly(ccc)
+KOHBPAPH_00512	gene			
+KOHBPAPH_00513	CDS			hypothetical protein
+KOHBPAPH_00513	gene			
+KOHBPAPH_00514	CDS			hypothetical protein
+KOHBPAPH_00514	gene			
+KOHBPAPH_00515	CDS	der_2		GTPase Der
+KOHBPAPH_00515	gene	der_2		
+KOHBPAPH_00516	CDS			hypothetical protein
+KOHBPAPH_00516	gene			
+KOHBPAPH_00517	CDS			hypothetical protein
+KOHBPAPH_00517	gene			
+KOHBPAPH_00518	CDS			hypothetical protein
+KOHBPAPH_00518	gene			
+KOHBPAPH_00519	tRNA			tRNA-Met(cat)
+KOHBPAPH_00519	gene			
+KOHBPAPH_00520	CDS			hypothetical protein
+KOHBPAPH_00520	gene			
+KOHBPAPH_00521	CDS			hypothetical protein
+KOHBPAPH_00521	gene			
+KOHBPAPH_00522	CDS			hypothetical protein
+KOHBPAPH_00522	gene			
+KOHBPAPH_00523	CDS	panF		Sodium/pantothenate symporter
+KOHBPAPH_00523	gene	panF		
+KOHBPAPH_00524	CDS			hypothetical protein
+KOHBPAPH_00524	gene			
+KOHBPAPH_00525	CDS	putP_2		Sodium/proline symporter
+KOHBPAPH_00525	gene	putP_2		
+KOHBPAPH_00526	CDS			hypothetical protein
+KOHBPAPH_00526	gene			
+KOHBPAPH_00527	CDS	nox	1.6.99.3	NADH dehydrogenase
+KOHBPAPH_00527	gene	nox		
+KOHBPAPH_00528	CDS	pkn1_1	2.7.11.1	Serine/threonine-protein kinase pkn1
+KOHBPAPH_00528	gene	pkn1_1		
+KOHBPAPH_00529	CDS			hypothetical protein
+KOHBPAPH_00529	gene			
+KOHBPAPH_00530	CDS	relA	2.7.6.5	GTP pyrophosphokinase
+KOHBPAPH_00530	gene	relA		
+KOHBPAPH_00531	CDS	dnaC	3.6.4.12	Replicative DNA helicase
+KOHBPAPH_00531	gene	dnaC		
+KOHBPAPH_00532	CDS			hypothetical protein
+KOHBPAPH_00532	gene			
+KOHBPAPH_00533	CDS			hypothetical protein
+KOHBPAPH_00533	gene			
+KOHBPAPH_00534	CDS	gmk	2.7.4.8	Guanylate kinase
+KOHBPAPH_00534	gene	gmk		
+KOHBPAPH_00535	CDS			hypothetical protein
+KOHBPAPH_00535	gene			
+KOHBPAPH_00536	CDS			hypothetical protein
+KOHBPAPH_00536	gene			
+KOHBPAPH_00537	CDS			hypothetical protein
+KOHBPAPH_00537	gene			
+KOHBPAPH_00538	CDS	yxlF_2	3.6.3.-	putative ABC transporter ATP-binding protein YxlF
+KOHBPAPH_00538	gene	yxlF_2		
+KOHBPAPH_00539	CDS			hypothetical protein
+KOHBPAPH_00539	gene			
+KOHBPAPH_00540	CDS			hypothetical protein
+KOHBPAPH_00540	gene			
+KOHBPAPH_00541	CDS			hypothetical protein
+KOHBPAPH_00541	gene			
+KOHBPAPH_00542	CDS			hypothetical protein
+KOHBPAPH_00542	gene			
+KOHBPAPH_00543	CDS			hypothetical protein
+KOHBPAPH_00543	gene			
+KOHBPAPH_00544	CDS		3.1.2.-	putative acyl-CoA thioester hydrolase
+KOHBPAPH_00544	gene			
+KOHBPAPH_00545	CDS	folE	3.5.4.16	GTP cyclohydrolase 1
+KOHBPAPH_00545	gene	folE		
+KOHBPAPH_00546	CDS			hypothetical protein
+KOHBPAPH_00546	gene			
+KOHBPAPH_00547	CDS	queD	4.1.2.50	6-carboxy-5,6,7,8-tetrahydropterin synthase
+KOHBPAPH_00547	gene	queD		
+KOHBPAPH_00548	CDS	nth	4.2.99.18	Endonuclease III
+KOHBPAPH_00548	gene	nth		
+KOHBPAPH_00549	CDS			hypothetical protein
+KOHBPAPH_00549	gene			
+KOHBPAPH_00550	CDS			hypothetical protein
+KOHBPAPH_00550	gene			
+KOHBPAPH_00551	CDS	ytnP	3.1.1.-	putative quorum-quenching lactonase YtnP
+KOHBPAPH_00551	gene	ytnP		
+KOHBPAPH_00552	CDS			hypothetical protein
+KOHBPAPH_00552	gene			
+KOHBPAPH_00553	CDS			hypothetical protein
+KOHBPAPH_00553	gene			
+KOHBPAPH_00554	CDS	sufS_1	2.8.1.7	Cysteine desulfurase SufS
+KOHBPAPH_00554	gene	sufS_1		
+KOHBPAPH_00555	CDS			hypothetical protein
+KOHBPAPH_00555	gene			
+KOHBPAPH_00556	CDS			hypothetical protein
+KOHBPAPH_00556	gene			
+KOHBPAPH_00557	CDS	tadA_1	3.5.4.33	tRNA-specific adenosine deaminase
+KOHBPAPH_00557	gene	tadA_1		
+KOHBPAPH_00558	CDS			hypothetical protein
+KOHBPAPH_00558	gene			
+KOHBPAPH_00559	CDS	accD_2	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+KOHBPAPH_00559	gene	accD_2		
+KOHBPAPH_00560	CDS	frdB_3	1.3.5.1	Fumarate reductase iron-sulfur subunit
+KOHBPAPH_00560	gene	frdB_3		
+KOHBPAPH_00561	CDS	carE	1.3.1.108	Caffeyl-CoA reductase-Etf complex subunit CarE
+KOHBPAPH_00561	gene	carE		
+KOHBPAPH_00562	CDS	etfB		Electron transfer flavoprotein subunit beta
+KOHBPAPH_00562	gene	etfB		
+KOHBPAPH_00563	tRNA			tRNA-Val(gac)
+KOHBPAPH_00563	gene			
+KOHBPAPH_00564	CDS		3.4.21.-	putative CtpA-like serine protease
+KOHBPAPH_00564	gene			
+KOHBPAPH_00565	CDS	tmk	2.7.4.9	Thymidylate kinase
+KOHBPAPH_00565	gene	tmk		
+KOHBPAPH_00566	CDS	rsmI	2.1.1.198	Ribosomal RNA small subunit methyltransferase I
+KOHBPAPH_00566	gene	rsmI		
+KOHBPAPH_00567	CDS	argD	2.6.1.11	Acetylornithine/succinyldiaminopimelate aminotransferase
+KOHBPAPH_00567	gene	argD		
+KOHBPAPH_00568	CDS		1.-.-.-	putative oxidoreductase
+KOHBPAPH_00568	gene			
+KOHBPAPH_00569	CDS	csd_1	2.8.1.7	putative cysteine desulfurase
+KOHBPAPH_00569	gene	csd_1		
+KOHBPAPH_00570	CDS	hcf136_3		Ycf48-like protein
+KOHBPAPH_00570	gene	hcf136_3		
+KOHBPAPH_00571	CDS		4.2.1.-	Cis-3-hydroxy-L-proline dehydratase
+KOHBPAPH_00571	gene			
+KOHBPAPH_00572	CDS	kmo	1.14.13.9	Kynurenine 3-monooxygenase
+KOHBPAPH_00572	gene	kmo		
+KOHBPAPH_00573	tRNA			tRNA-Arg(ccg)
+KOHBPAPH_00573	gene			
+KOHBPAPH_00574	CDS	cutA		Divalent-cation tolerance protein CutA
+KOHBPAPH_00574	gene	cutA		
+KOHBPAPH_00575	CDS	kch		Voltage-gated potassium channel Kch
+KOHBPAPH_00575	gene	kch		
+KOHBPAPH_00576	CDS	leuS	6.1.1.4	Leucine--tRNA ligase
+KOHBPAPH_00576	gene	leuS		
+KOHBPAPH_00577	tRNA			tRNA-Pro(cgg)
+KOHBPAPH_00577	gene			
+KOHBPAPH_00578	CDS			hypothetical protein
+KOHBPAPH_00578	gene			
+KOHBPAPH_00579	CDS			hypothetical protein
+KOHBPAPH_00579	gene			
+KOHBPAPH_00580	CDS	mip	5.2.1.8	Outer membrane protein MIP
+KOHBPAPH_00580	gene	mip		
+KOHBPAPH_00581	tRNA			tRNA-Pro(ggg)
+KOHBPAPH_00581	gene			
+KOHBPAPH_00582	CDS	bluR		HTH-type transcriptional repressor BluR
+KOHBPAPH_00582	gene	bluR		
+KOHBPAPH_00583	CDS	ald	1.4.1.1	Alanine dehydrogenase
+KOHBPAPH_00583	gene	ald		
+KOHBPAPH_00584	CDS	pnp	2.7.7.8	Polyribonucleotide nucleotidyltransferase
+KOHBPAPH_00584	gene	pnp		
+KOHBPAPH_00585	CDS	rpsO		30S ribosomal protein S15
+KOHBPAPH_00585	gene	rpsO		
+KOHBPAPH_00586	CDS	ribF		Riboflavin biosynthesis protein RibF
+KOHBPAPH_00586	gene	ribF		
+KOHBPAPH_00587	tRNA			tRNA-Ala(ggc)
+KOHBPAPH_00587	gene			
+KOHBPAPH_00588	CDS	dap4	3.4.14.5	Dipeptidyl aminopeptidase 4
+KOHBPAPH_00588	gene	dap4		
+KOHBPAPH_00589	CDS			hypothetical protein
+KOHBPAPH_00589	gene			
+KOHBPAPH_00590	CDS	ppiC	5.2.1.8	Peptidyl-prolyl cis-trans isomerase C
+KOHBPAPH_00590	gene	ppiC		
+KOHBPAPH_00591	CDS			hypothetical protein
+KOHBPAPH_00591	gene			
+KOHBPAPH_00592	CDS			hypothetical protein
+KOHBPAPH_00592	gene			
+KOHBPAPH_00593	CDS			hypothetical protein
+KOHBPAPH_00593	gene			
+KOHBPAPH_00594	CDS			hypothetical protein
+KOHBPAPH_00594	gene			
+KOHBPAPH_00595	CDS			hypothetical protein
+KOHBPAPH_00595	gene			
+KOHBPAPH_00596	CDS			hypothetical protein
+KOHBPAPH_00596	gene			
+KOHBPAPH_00597	CDS			hypothetical protein
+KOHBPAPH_00597	gene			
+KOHBPAPH_00598	CDS	tatA		Sec-independent protein translocase protein TatA
+KOHBPAPH_00598	gene	tatA		
+KOHBPAPH_00599	CDS			hypothetical protein
+KOHBPAPH_00599	gene			
+KOHBPAPH_00600	CDS			hypothetical protein
+KOHBPAPH_00600	gene			
+KOHBPAPH_00601	CDS	psd	4.1.1.65	Phosphatidylserine decarboxylase proenzyme
+KOHBPAPH_00601	gene	psd		
+KOHBPAPH_00602	CDS	htrA		Putative serine protease HtrA
+KOHBPAPH_00602	gene	htrA		
+KOHBPAPH_00603	CDS	rsxG		Electron transport complex subunit RsxG
+KOHBPAPH_00603	gene	rsxG		
+KOHBPAPH_00604	CDS			hypothetical protein
+KOHBPAPH_00604	gene			
+KOHBPAPH_00605	CDS	yfiR		putative HTH-type transcriptional regulator YfiR
+KOHBPAPH_00605	gene	yfiR		
+KOHBPAPH_00606	CDS	fadE	1.3.99.-	putative acyl-CoA dehydrogenase
+KOHBPAPH_00606	gene	fadE		
+KOHBPAPH_00607	CDS	fadA	2.3.1.16	3-ketoacyl-CoA thiolase
+KOHBPAPH_00607	gene	fadA		
+KOHBPAPH_00608	CDS			hypothetical protein
+KOHBPAPH_00608	gene			
+KOHBPAPH_00609	CDS			hypothetical protein
+KOHBPAPH_00609	gene			
+KOHBPAPH_00610	rRNA			5S ribosomal RNA
+KOHBPAPH_00610	gene			
+KOHBPAPH_00611	CDS			hypothetical protein
+KOHBPAPH_00611	gene			
+KOHBPAPH_00612	CDS	nhaX		Stress response protein NhaX
+KOHBPAPH_00612	gene	nhaX		
+KOHBPAPH_00613	CDS	hypE		Hydrogenase expression/formation protein HypE
+KOHBPAPH_00613	gene	hypE		
+KOHBPAPH_00614	CDS			hypothetical protein
+KOHBPAPH_00614	gene			
+KOHBPAPH_00615	CDS	hypD		Hydrogenase expression/formation protein HypD
+KOHBPAPH_00615	gene	hypD		
+KOHBPAPH_00616	CDS			hypothetical protein
+KOHBPAPH_00616	gene			
+KOHBPAPH_00617	CDS			hypothetical protein
+KOHBPAPH_00617	gene			
+KOHBPAPH_00618	CDS	hcf136_4		Ycf48-like protein
+KOHBPAPH_00618	gene	hcf136_4		
+KOHBPAPH_00619	CDS			hypothetical protein
+KOHBPAPH_00619	gene			
+KOHBPAPH_00620	CDS	pepN_2	3.4.11.2	Aminopeptidase N
+KOHBPAPH_00620	gene	pepN_2		
+KOHBPAPH_00621	CDS	sdcS_2		Sodium-dependent dicarboxylate transporter SdcS
+KOHBPAPH_00621	gene	sdcS_2		
+KOHBPAPH_00622	CDS	trxA_1		Thioredoxin
+KOHBPAPH_00622	gene	trxA_1		
+KOHBPAPH_00623	CDS	sigE		ECF RNA polymerase sigma factor SigE
+KOHBPAPH_00623	gene	sigE		
+KOHBPAPH_00624	CDS			hypothetical protein
+KOHBPAPH_00624	gene			
+KOHBPAPH_00625	CDS	pspE	2.8.1.1	Thiosulfate sulfurtransferase PspE
+KOHBPAPH_00625	gene	pspE		
+KOHBPAPH_00626	CDS			hypothetical protein
+KOHBPAPH_00626	gene			
+KOHBPAPH_00627	CDS			hypothetical protein
+KOHBPAPH_00627	gene			
+KOHBPAPH_00628	CDS			hypothetical protein
+KOHBPAPH_00628	gene			
+KOHBPAPH_00629	CDS			hypothetical protein
+KOHBPAPH_00629	gene			
+KOHBPAPH_00630	CDS			hypothetical protein
+KOHBPAPH_00630	gene			
+KOHBPAPH_00631	CDS			hypothetical protein
+KOHBPAPH_00631	gene			
+KOHBPAPH_00632	CDS	recG	3.6.4.12	ATP-dependent DNA helicase RecG
+KOHBPAPH_00632	gene	recG		
+KOHBPAPH_00633	CDS	appA		Oligopeptide-binding protein AppA
+KOHBPAPH_00633	gene	appA		
+KOHBPAPH_00634	CDS	dppB		Dipeptide transport system permease protein DppB
+KOHBPAPH_00634	gene	dppB		
+KOHBPAPH_00635	CDS			hypothetical protein
+KOHBPAPH_00635	gene			
+KOHBPAPH_00636	CDS			hypothetical protein
+KOHBPAPH_00636	gene			
+KOHBPAPH_00637	CDS	cpg2	3.4.17.11	Carboxypeptidase G2
+KOHBPAPH_00637	gene	cpg2		
+KOHBPAPH_00638	CDS	dan_2	3.5.1.81	D-aminoacylase
+KOHBPAPH_00638	gene	dan_2		
+KOHBPAPH_00639	CDS	ggt_1	2.3.2.2	Gamma-glutamyltranspeptidase
+KOHBPAPH_00639	gene	ggt_1		
+KOHBPAPH_00640	CDS	ggt_2	2.3.2.2	Gamma-glutamyltranspeptidase
+KOHBPAPH_00640	gene	ggt_2		
+KOHBPAPH_00641	CDS	rlmN	2.1.1.192	putative dual-specificity RNA methyltransferase RlmN
+KOHBPAPH_00641	gene	rlmN		
+KOHBPAPH_00642	CDS			hypothetical protein
+KOHBPAPH_00642	gene			
+KOHBPAPH_00643	CDS			hypothetical protein
+KOHBPAPH_00643	gene			
+KOHBPAPH_00644	CDS	ycf3		Photosystem I assembly protein Ycf3
+KOHBPAPH_00644	gene	ycf3		
+KOHBPAPH_00645	CDS			hypothetical protein
+KOHBPAPH_00645	gene			
+KOHBPAPH_00646	CDS			hypothetical protein
+KOHBPAPH_00646	gene			
+KOHBPAPH_00647	CDS			hypothetical protein
+KOHBPAPH_00647	gene			
+KOHBPAPH_00648	CDS	sigA_2		RNA polymerase sigma factor SigA
+KOHBPAPH_00648	gene	sigA_2		
+KOHBPAPH_00649	CDS			hypothetical protein
+KOHBPAPH_00649	gene			
+KOHBPAPH_00650	CDS			hypothetical protein
+KOHBPAPH_00650	gene			
+KOHBPAPH_00651	tmRNA	ssrA		transfer-messenger RNA, SsrA
+KOHBPAPH_00651	gene	ssrA		
+KOHBPAPH_00652	CDS			hypothetical protein
+KOHBPAPH_00652	gene			
+KOHBPAPH_00653	CDS			hypothetical protein
+KOHBPAPH_00653	gene			
+KOHBPAPH_00654	CDS	impX		Riboflavin transporter ImpX
+KOHBPAPH_00654	gene	impX		
+KOHBPAPH_00655	CDS			hypothetical protein
+KOHBPAPH_00655	gene			
+KOHBPAPH_00656	CDS			hypothetical protein
+KOHBPAPH_00656	gene			
+KOHBPAPH_00657	CDS	fabL	1.3.1.104	Enoyl-[acyl-carrier-protein] reductase [NADPH] FabL
+KOHBPAPH_00657	gene	fabL		
+KOHBPAPH_00658	CDS	fabA	4.2.1.59	3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase
+KOHBPAPH_00658	gene	fabA		
+KOHBPAPH_00659	CDS			hypothetical protein
+KOHBPAPH_00659	gene			
+KOHBPAPH_00660	CDS	nagZ	3.2.1.52	Beta-hexosaminidase
+KOHBPAPH_00660	gene	nagZ		
+KOHBPAPH_00661	CDS			hypothetical protein
+KOHBPAPH_00661	gene			
+KOHBPAPH_00662	CDS		3.5.1.93	Glutaryl-7-aminocephalosporanic-acid acylase
+KOHBPAPH_00662	gene			
+KOHBPAPH_00663	CDS			hypothetical protein
+KOHBPAPH_00663	gene			
+KOHBPAPH_00664	CDS	pcrA_2	3.6.4.12	ATP-dependent DNA helicase PcrA
+KOHBPAPH_00664	gene	pcrA_2		
+KOHBPAPH_00665	CDS	pkn1_2	2.7.11.1	Serine/threonine-protein kinase pkn1
+KOHBPAPH_00665	gene	pkn1_2		
+KOHBPAPH_00666	CDS			hypothetical protein
+KOHBPAPH_00666	gene			
+KOHBPAPH_00667	CDS	lpxA_1	2.3.1.129	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+KOHBPAPH_00667	gene	lpxA_1		
+KOHBPAPH_00668	CDS	lpxC	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+KOHBPAPH_00668	gene	lpxC		
+KOHBPAPH_00669	CDS	lpxD	2.3.1.191	UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase
+KOHBPAPH_00669	gene	lpxD		
+KOHBPAPH_00670	CDS			hypothetical protein
+KOHBPAPH_00670	gene			
+KOHBPAPH_00671	CDS			hypothetical protein
+KOHBPAPH_00671	gene			
+KOHBPAPH_00672	CDS			hypothetical protein
+KOHBPAPH_00672	gene			
+KOHBPAPH_00673	CDS			hypothetical protein
+KOHBPAPH_00673	gene			
+KOHBPAPH_00674	CDS			hypothetical protein
+KOHBPAPH_00674	gene			
+KOHBPAPH_00675	CDS			hypothetical protein
+KOHBPAPH_00675	gene			
+KOHBPAPH_00676	CDS			hypothetical protein
+KOHBPAPH_00676	gene			
+KOHBPAPH_00677	CDS			hypothetical protein
+KOHBPAPH_00677	gene			
+KOHBPAPH_00678	CDS	add	3.5.4.4	Adenosine deaminase
+KOHBPAPH_00678	gene	add		
+KOHBPAPH_00679	CDS			hypothetical protein
+KOHBPAPH_00679	gene			
+KOHBPAPH_00680	CDS	susC_1		TonB-dependent receptor SusC
+KOHBPAPH_00680	gene	susC_1		
+KOHBPAPH_00681	CDS	pbpE_1		Penicillin-binding protein 4*
+KOHBPAPH_00681	gene	pbpE_1		
+KOHBPAPH_00682	CDS			hypothetical protein
+KOHBPAPH_00682	gene			
+KOHBPAPH_00683	CDS	polA	2.7.7.7	DNA polymerase I
+KOHBPAPH_00683	gene	polA		
+KOHBPAPH_00684	CDS	natA_2		ABC transporter ATP-binding protein NatA
+KOHBPAPH_00684	gene	natA_2		
+KOHBPAPH_00685	CDS			hypothetical protein
+KOHBPAPH_00685	gene			
+KOHBPAPH_00686	CDS			hypothetical protein
+KOHBPAPH_00686	gene			
+KOHBPAPH_00687	CDS	alr1	5.1.1.1	Alanine racemase 1
+KOHBPAPH_00687	gene	alr1		
+KOHBPAPH_00688	CDS			hypothetical protein
+KOHBPAPH_00688	gene			
+KOHBPAPH_00689	CDS			hypothetical protein
+KOHBPAPH_00689	gene			
+KOHBPAPH_00690	CDS			hypothetical protein
+KOHBPAPH_00690	gene			
+KOHBPAPH_00691	CDS	lat	2.6.1.36	putative L-lysine-epsilon aminotransferase
+KOHBPAPH_00691	gene	lat		
+KOHBPAPH_00692	CDS	aldHT	1.2.1.5	Aldehyde dehydrogenase, thermostable
+KOHBPAPH_00692	gene	aldHT		
+KOHBPAPH_00693	CDS	rocD	2.6.1.13	Ornithine aminotransferase
+KOHBPAPH_00693	gene	rocD		
+KOHBPAPH_00694	CDS	cdsA	2.7.7.41	Phosphatidate cytidylyltransferase
+KOHBPAPH_00694	gene	cdsA		
+KOHBPAPH_00695	CDS	nagA_2	3.2.1.49	Alpha-N-acetylgalactosaminidase
+KOHBPAPH_00695	gene	nagA_2		
+KOHBPAPH_00696	CDS			hypothetical protein
+KOHBPAPH_00696	gene			
+KOHBPAPH_00697	CDS	lhpH	4.2.1.77	Trans-3-hydroxy-L-proline dehydratase
+KOHBPAPH_00697	gene	lhpH		
+KOHBPAPH_00698	CDS	yidK		putative symporter YidK
+KOHBPAPH_00698	gene	yidK		
+KOHBPAPH_00699	CDS	lacZ	3.2.1.23	Beta-galactosidase
+KOHBPAPH_00699	gene	lacZ		
+KOHBPAPH_00700	CDS	menB	4.1.3.36	1,4-dihydroxy-2-naphthoyl-CoA synthase
+KOHBPAPH_00700	gene	menB		
+KOHBPAPH_00701	CDS	liuE	4.1.3.26	3-hydroxy-3-isohexenylglutaryl-CoA/hydroxy-methylglutaryl-CoA lyase
+KOHBPAPH_00701	gene	liuE		
+KOHBPAPH_00702	CDS		2.1.3.1	Methylmalonyl-CoA carboxyltransferase 12S subunit
+KOHBPAPH_00702	gene			
+KOHBPAPH_00703	CDS	sttH	3.5.2.19	Streptothricin hydrolase
+KOHBPAPH_00703	gene	sttH		
+KOHBPAPH_00704	CDS			hypothetical protein
+KOHBPAPH_00704	gene			
+KOHBPAPH_00705	CDS			hypothetical protein
+KOHBPAPH_00705	gene			
+KOHBPAPH_00706	CDS			hypothetical protein
+KOHBPAPH_00706	gene			
+KOHBPAPH_00707	CDS	ybgC	3.1.2.-	Acyl-CoA thioesterase YbgC
+KOHBPAPH_00707	gene	ybgC		
+KOHBPAPH_00708	CDS	accA	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+KOHBPAPH_00708	gene	accA		
+KOHBPAPH_00709	CDS	ppm1	2.4.1.-	Polyprenol monophosphomannose synthase
+KOHBPAPH_00709	gene	ppm1		
+KOHBPAPH_00710	CDS	rmlD	1.1.1.133	dTDP-4-dehydrorhamnose reductase
+KOHBPAPH_00710	gene	rmlD		
+KOHBPAPH_00711	CDS			hypothetical protein
+KOHBPAPH_00711	gene			
+KOHBPAPH_00712	CDS			hypothetical protein
+KOHBPAPH_00712	gene			
+KOHBPAPH_00713	CDS		6.2.1.3	Long-chain-fatty-acid--CoA ligase FadD15
+KOHBPAPH_00713	gene			
+KOHBPAPH_00714	CDS			hypothetical protein
+KOHBPAPH_00714	gene			
+KOHBPAPH_00715	CDS	ypmQ		SCO1 protein 
+KOHBPAPH_00715	gene	ypmQ		
+KOHBPAPH_00716	CDS	ctaB2	2.5.1.-	Protoheme IX farnesyltransferase 2
+KOHBPAPH_00716	gene	ctaB2		
+KOHBPAPH_00717	CDS	ctaA	1.3.-.-	Heme A synthase
+KOHBPAPH_00717	gene	ctaA		
+KOHBPAPH_00718	CDS	coxM	1.9.3.1	Alternative cytochrome c oxidase subunit 2
+KOHBPAPH_00718	gene	coxM		
+KOHBPAPH_00719	CDS			hypothetical protein
+KOHBPAPH_00719	gene			
+KOHBPAPH_00720	CDS			hypothetical protein
+KOHBPAPH_00720	gene			
+KOHBPAPH_00721	CDS			hypothetical protein
+KOHBPAPH_00721	gene			
+KOHBPAPH_00722	CDS	ctaE_2	1.9.3.1	Cytochrome c oxidase subunit 3
+KOHBPAPH_00722	gene	ctaE_2		
+KOHBPAPH_00723	CDS	coxN_2	1.9.3.1	Alternative cytochrome c oxidase subunit 1
+KOHBPAPH_00723	gene	coxN_2		
+KOHBPAPH_00724	CDS	tdcB_1	4.3.1.19	L-threonine dehydratase catabolic TdcB
+KOHBPAPH_00724	gene	tdcB_1		
+KOHBPAPH_00725	CDS	vioD	4.2.1.145	Capreomycidine synthase
+KOHBPAPH_00725	gene	vioD		
+KOHBPAPH_00726	CDS	resA_2		Thiol-disulfide oxidoreductase ResA
+KOHBPAPH_00726	gene	resA_2		
+KOHBPAPH_00727	CDS			hypothetical protein
+KOHBPAPH_00727	gene			
+KOHBPAPH_00728	tRNA			tRNA-Val(tac)
+KOHBPAPH_00728	gene			
+KOHBPAPH_00729	CDS	lon2	3.4.21.53	Lon protease 2
+KOHBPAPH_00729	gene	lon2		
+KOHBPAPH_00730	CDS			PhoH-like protein
+KOHBPAPH_00730	gene			
+KOHBPAPH_00731	CDS			hypothetical protein
+KOHBPAPH_00731	gene			
+KOHBPAPH_00732	CDS			hypothetical protein
+KOHBPAPH_00732	gene			
+KOHBPAPH_00733	CDS	citT		Citrate carrier
+KOHBPAPH_00733	gene	citT		
+KOHBPAPH_00734	CDS			hypothetical protein
+KOHBPAPH_00734	gene			
+KOHBPAPH_00735	CDS	gltA	1.4.1.13	Glutamate synthase [NADPH] large chain
+KOHBPAPH_00735	gene	gltA		
+KOHBPAPH_00736	CDS			hypothetical protein
+KOHBPAPH_00736	gene			
+KOHBPAPH_00737	CDS			hypothetical protein
+KOHBPAPH_00737	gene			
+KOHBPAPH_00738	CDS			hypothetical protein
+KOHBPAPH_00738	gene			
+KOHBPAPH_00739	CDS			hypothetical protein
+KOHBPAPH_00739	gene			
+KOHBPAPH_00740	CDS	tig	5.2.1.8	Trigger factor
+KOHBPAPH_00740	gene	tig		
+KOHBPAPH_00741	CDS	clpP	3.4.21.92	ATP-dependent Clp protease proteolytic subunit
+KOHBPAPH_00741	gene	clpP		
+KOHBPAPH_00742	CDS	clpX		ATP-dependent Clp protease ATP-binding subunit ClpX
+KOHBPAPH_00742	gene	clpX		
+KOHBPAPH_00743	CDS			hypothetical protein
+KOHBPAPH_00743	gene			
+KOHBPAPH_00744	CDS			hypothetical protein
+KOHBPAPH_00744	gene			
+KOHBPAPH_00745	CDS			hypothetical protein
+KOHBPAPH_00745	gene			
+KOHBPAPH_00746	CDS	dcp	3.4.15.5	Dipeptidyl carboxypeptidase
+KOHBPAPH_00746	gene	dcp		
+KOHBPAPH_00747	CDS			hypothetical protein
+KOHBPAPH_00747	gene			
+KOHBPAPH_00748	CDS		3.5.3.24	N(1)-aminopropylagmatine ureohydrolase
+KOHBPAPH_00748	gene			
+KOHBPAPH_00749	CDS			hypothetical protein
+KOHBPAPH_00749	gene			
+KOHBPAPH_00750	CDS	dinG	3.6.4.12	putative ATP-dependent helicase DinG 
+KOHBPAPH_00750	gene	dinG		
+KOHBPAPH_00751	CDS			hypothetical protein
+KOHBPAPH_00751	gene			
+KOHBPAPH_00752	CDS			hypothetical protein
+KOHBPAPH_00752	gene			
+KOHBPAPH_00753	CDS			hypothetical protein
+KOHBPAPH_00753	gene			
+KOHBPAPH_00754	CDS			hypothetical protein
+KOHBPAPH_00754	gene			
+KOHBPAPH_00755	CDS	phhA	1.14.16.1	Phenylalanine-4-hydroxylase
+KOHBPAPH_00755	gene	phhA		
+KOHBPAPH_00756	CDS	mutS2	3.1.-.-	Endonuclease MutS2
+KOHBPAPH_00756	gene	mutS2		
+KOHBPAPH_00757	CDS	fus		Elongation factor G
+KOHBPAPH_00757	gene	fus		
+KOHBPAPH_00758	CDS			hypothetical protein
+KOHBPAPH_00758	gene			
+KOHBPAPH_00759	CDS	rfbM	2.7.7.13	Mannose-1-phosphate guanylyltransferase RfbM
+KOHBPAPH_00759	gene	rfbM		
+KOHBPAPH_00760	CDS			hypothetical protein
+KOHBPAPH_00760	gene			
+KOHBPAPH_00761	CDS	sfsA		Sugar fermentation stimulation protein A
+KOHBPAPH_00761	gene	sfsA		
+KOHBPAPH_00762	CDS			hypothetical protein
+KOHBPAPH_00762	gene			
+KOHBPAPH_00763	CDS			hypothetical protein
+KOHBPAPH_00763	gene			
+KOHBPAPH_00764	CDS	lpxA_2	2.3.1.129	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+KOHBPAPH_00764	gene	lpxA_2		
+KOHBPAPH_00765	CDS			hypothetical protein
+KOHBPAPH_00765	gene			
+KOHBPAPH_00766	CDS	dxr	1.1.1.267	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+KOHBPAPH_00766	gene	dxr		
+KOHBPAPH_00767	CDS	amiD	3.5.1.4	Putative amidase AmiD
+KOHBPAPH_00767	gene	amiD		
+KOHBPAPH_00768	CDS		2.7.7.53	AP-4-A phosphorylase
+KOHBPAPH_00768	gene			
+KOHBPAPH_00769	CDS			hypothetical protein
+KOHBPAPH_00769	gene			
+KOHBPAPH_00770	CDS	sglT_3		Sodium/glucose cotransporter
+KOHBPAPH_00770	gene	sglT_3		
+KOHBPAPH_00771	tRNA			tRNA-Asn(gtt)
+KOHBPAPH_00771	gene			
+KOHBPAPH_00772	CDS	tolB_2		Protein TolB
+KOHBPAPH_00772	gene	tolB_2		
+KOHBPAPH_00773	CDS			hypothetical protein
+KOHBPAPH_00773	gene			
+KOHBPAPH_00774	CDS	msrB	1.8.4.12	Peptide methionine sulfoxide reductase MsrB
+KOHBPAPH_00774	gene	msrB		
+KOHBPAPH_00775	CDS	apbC		Iron-sulfur cluster carrier protein
+KOHBPAPH_00775	gene	apbC		
+KOHBPAPH_00776	CDS	fdxA		Ferredoxin 7Fe
+KOHBPAPH_00776	gene	fdxA		
+KOHBPAPH_00777	CDS	rsxB		Electron transport complex subunit RsxB
+KOHBPAPH_00777	gene	rsxB		
+KOHBPAPH_00778	CDS	glpK	2.7.1.30	Glycerol kinase
+KOHBPAPH_00778	gene	glpK		
+KOHBPAPH_00779	CDS	resA_3		Thiol-disulfide oxidoreductase ResA
+KOHBPAPH_00779	gene	resA_3		
+KOHBPAPH_00780	CDS			hypothetical protein
+KOHBPAPH_00780	gene			
+KOHBPAPH_00781	tRNA			tRNA-Ile(gat)
+KOHBPAPH_00781	gene			
+KOHBPAPH_00782	CDS	ileS	6.1.1.5	Isoleucine--tRNA ligase
+KOHBPAPH_00782	gene	ileS		
+KOHBPAPH_00783	CDS	dksA		RNA polymerase-binding transcription factor DksA
+KOHBPAPH_00783	gene	dksA		
+KOHBPAPH_00784	CDS	lspA	3.4.23.36	Lipoprotein signal peptidase
+KOHBPAPH_00784	gene	lspA		
+KOHBPAPH_00785	CDS			putative NTE family protein
+KOHBPAPH_00785	gene			
+KOHBPAPH_00786	CDS		5.2.1.8	Putative peptidyl-prolyl cis-trans isomerase
+KOHBPAPH_00786	gene			
+KOHBPAPH_00787	CDS	pyrE	2.4.2.10	Orotate phosphoribosyltransferase
+KOHBPAPH_00787	gene	pyrE		
+KOHBPAPH_00788	CDS	pyrF	4.1.1.23	Orotidine 5'-phosphate decarboxylase
+KOHBPAPH_00788	gene	pyrF		
+KOHBPAPH_00789	CDS	yhdG		putative amino acid permease YhdG
+KOHBPAPH_00789	gene	yhdG		
+KOHBPAPH_00790	CDS			hypothetical protein
+KOHBPAPH_00790	gene			
+KOHBPAPH_00791	CDS			hypothetical protein
+KOHBPAPH_00791	gene			
+KOHBPAPH_00792	tRNA			tRNA-Phe(gaa)
+KOHBPAPH_00792	gene			
+KOHBPAPH_00793	CDS			hypothetical protein
+KOHBPAPH_00793	gene			
+KOHBPAPH_00794	CDS			hypothetical protein
+KOHBPAPH_00794	gene			
+KOHBPAPH_00795	CDS	dapb1	3.4.14.-	Dipeptidyl aminopeptidase BI
+KOHBPAPH_00795	gene	dapb1		
+KOHBPAPH_00796	CDS			hypothetical protein
+KOHBPAPH_00796	gene			
+KOHBPAPH_00797	CDS			hypothetical protein
+KOHBPAPH_00797	gene			
+KOHBPAPH_00798	CDS	ggt_3	2.3.2.2	Gamma-glutamyltranspeptidase
+KOHBPAPH_00798	gene	ggt_3		
+KOHBPAPH_00799	CDS		1.5.1.49	Delta(1)-pyrroline-2-carboxylate reductase
+KOHBPAPH_00799	gene			
+KOHBPAPH_00800	CDS	resA_4		Thiol-disulfide oxidoreductase ResA
+KOHBPAPH_00800	gene	resA_4		
+KOHBPAPH_00801	CDS	ispD	2.7.7.60	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+KOHBPAPH_00801	gene	ispD		
+KOHBPAPH_00802	CDS	ispF	4.6.1.12	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+KOHBPAPH_00802	gene	ispF		
+KOHBPAPH_00803	CDS	ispE	2.7.1.148	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+KOHBPAPH_00803	gene	ispE		
+KOHBPAPH_00804	tRNA			tRNA-Gln(ttg)
+KOHBPAPH_00804	gene			
+KOHBPAPH_00805	CDS	prs	2.7.6.1	Ribose-phosphate pyrophosphokinase
+KOHBPAPH_00805	gene	prs		
+KOHBPAPH_00806	CDS	rplY		50S ribosomal protein L25
+KOHBPAPH_00806	gene	rplY		
+KOHBPAPH_00807	CDS	pth	3.1.1.29	Peptidyl-tRNA hydrolase
+KOHBPAPH_00807	gene	pth		
+KOHBPAPH_00808	CDS			hypothetical protein
+KOHBPAPH_00808	gene			
+KOHBPAPH_00809	CDS	menG_1	2.1.1.163	Demethylmenaquinone methyltransferase
+KOHBPAPH_00809	gene	menG_1		
+KOHBPAPH_00810	CDS		3.1.2.-	Putative esterase
+KOHBPAPH_00810	gene			
+KOHBPAPH_00811	CDS			hypothetical protein
+KOHBPAPH_00811	gene			
+KOHBPAPH_00812	CDS	fabG_2	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+KOHBPAPH_00812	gene	fabG_2		
+KOHBPAPH_00813	CDS			hypothetical protein
+KOHBPAPH_00813	gene			
+KOHBPAPH_00814	CDS	dctP		C4-dicarboxylate-binding periplasmic protein DctP
+KOHBPAPH_00814	gene	dctP		
+KOHBPAPH_00815	CDS	dctM		C4-dicarboxylate TRAP transporter large permease protein DctM
+KOHBPAPH_00815	gene	dctM		
+KOHBPAPH_00816	CDS			hypothetical protein
+KOHBPAPH_00816	gene			
+KOHBPAPH_00817	CDS	rpoB	2.7.7.6	DNA-directed RNA polymerase subunit beta
+KOHBPAPH_00817	gene	rpoB		
+KOHBPAPH_00818	CDS			hypothetical protein
+KOHBPAPH_00818	gene			
+KOHBPAPH_00819	CDS			hypothetical protein
+KOHBPAPH_00819	gene			
+KOHBPAPH_00820	CDS			hypothetical protein
+KOHBPAPH_00820	gene			
+KOHBPAPH_00821	CDS			hypothetical protein
+KOHBPAPH_00821	gene			
+KOHBPAPH_00822	CDS	thrC	4.2.3.1	Threonine synthase
+KOHBPAPH_00822	gene	thrC		
+KOHBPAPH_00823	CDS			hypothetical protein
+KOHBPAPH_00823	gene			
+KOHBPAPH_00824	CDS		1.8.99.-	Dissimilatory sulfite reductase
+KOHBPAPH_00824	gene			
+KOHBPAPH_00825	CDS			hypothetical protein
+KOHBPAPH_00825	gene			
+KOHBPAPH_00826	CDS	metH	2.1.1.13	Methionine synthase
+KOHBPAPH_00826	gene	metH		
+KOHBPAPH_00827	CDS			hypothetical protein
+KOHBPAPH_00827	gene			
+KOHBPAPH_00828	CDS			hypothetical protein
+KOHBPAPH_00828	gene			
+KOHBPAPH_00829	CDS			hypothetical protein
+KOHBPAPH_00829	gene			
+KOHBPAPH_00830	CDS	suhB	3.1.3.25	Inositol-1-monophosphatase
+KOHBPAPH_00830	gene	suhB		
+KOHBPAPH_00831	CDS		2.1.1.-	Putative O-methyltransferase
+KOHBPAPH_00831	gene			
+KOHBPAPH_00832	CDS			hypothetical protein
+KOHBPAPH_00832	gene			
+KOHBPAPH_00833	CDS	icaR		Biofilm operon icaADBC HTH-type negative transcriptional regulator IcaR
+KOHBPAPH_00833	gene	icaR		
+KOHBPAPH_00834	CDS	ybaN		Inner membrane protein YbaN
+KOHBPAPH_00834	gene	ybaN		
+KOHBPAPH_00835	CDS	cirA_1		Colicin I receptor
+KOHBPAPH_00835	gene	cirA_1		
+KOHBPAPH_00836	CDS			hypothetical protein
+KOHBPAPH_00836	gene			
+KOHBPAPH_00837	CDS	hutI_1	3.5.2.7	Imidazolonepropionase
+KOHBPAPH_00837	gene	hutI_1		
+KOHBPAPH_00838	CDS	serS	6.1.1.11	Serine--tRNA ligase
+KOHBPAPH_00838	gene	serS		
+KOHBPAPH_00839	CDS	plsC_2	2.3.1.51	1-acyl-sn-glycerol-3-phosphate acyltransferase
+KOHBPAPH_00839	gene	plsC_2		
+KOHBPAPH_00840	CDS			hypothetical protein
+KOHBPAPH_00840	gene			
+KOHBPAPH_00841	CDS	hldE_1		Bifunctional protein HldE
+KOHBPAPH_00841	gene	hldE_1		
+KOHBPAPH_00842	CDS	mltD	4.2.2.-	Membrane-bound lytic murein transglycosylase D
+KOHBPAPH_00842	gene	mltD		
+KOHBPAPH_00843	CDS	sppA	3.4.21.-	Putative signal peptide peptidase SppA
+KOHBPAPH_00843	gene	sppA		
+KOHBPAPH_00844	CDS	hup		DNA-binding protein HU
+KOHBPAPH_00844	gene	hup		
+KOHBPAPH_00845	CDS			hypothetical protein
+KOHBPAPH_00845	gene			
+KOHBPAPH_00846	CDS	xseA	3.1.11.6	Exodeoxyribonuclease 7 large subunit
+KOHBPAPH_00846	gene	xseA		
+KOHBPAPH_00847	CDS	xseB	3.1.11.6	Exodeoxyribonuclease 7 small subunit
+KOHBPAPH_00847	gene	xseB		
+KOHBPAPH_00848	CDS	nadK	2.7.1.23	NAD kinase
+KOHBPAPH_00848	gene	nadK		
+KOHBPAPH_00849	CDS	nylB	3.5.1.46	6-aminohexanoate-dimer hydrolase
+KOHBPAPH_00849	gene	nylB		
+KOHBPAPH_00850	CDS			hypothetical protein
+KOHBPAPH_00850	gene			
+KOHBPAPH_00851	CDS	fadM	1.5.5.2	Proline dehydrogenase 1
+KOHBPAPH_00851	gene	fadM		
+KOHBPAPH_00852	CDS			hypothetical protein
+KOHBPAPH_00852	gene			
+KOHBPAPH_00853	CDS	ndhC	1.6.5.-	NAD(P)H-quinone oxidoreductase subunit 3
+KOHBPAPH_00853	gene	ndhC		
+KOHBPAPH_00854	CDS	nuoB	1.6.5.11	NADH-quinone oxidoreductase subunit B
+KOHBPAPH_00854	gene	nuoB		
+KOHBPAPH_00855	CDS	ndhJ	1.6.5.-	NAD(P)H-quinone oxidoreductase subunit J
+KOHBPAPH_00855	gene	ndhJ		
+KOHBPAPH_00856	CDS	nqo4	1.6.5.11	NADH-quinone oxidoreductase subunit 4
+KOHBPAPH_00856	gene	nqo4		
+KOHBPAPH_00857	CDS	nuoH	1.6.5.11	NADH-quinone oxidoreductase subunit H
+KOHBPAPH_00857	gene	nuoH		
+KOHBPAPH_00858	CDS	ndhI	1.6.5.-	NAD(P)H-quinone oxidoreductase subunit I
+KOHBPAPH_00858	gene	ndhI		
+KOHBPAPH_00859	CDS			hypothetical protein
+KOHBPAPH_00859	gene			
+KOHBPAPH_00860	CDS		1.6.5.11	NADH-quinone oxidoreductase subunit 11
+KOHBPAPH_00860	gene			
+KOHBPAPH_00861	CDS	nuoL	1.6.5.11	NADH-quinone oxidoreductase subunit L
+KOHBPAPH_00861	gene	nuoL		
+KOHBPAPH_00862	CDS			hypothetical protein
+KOHBPAPH_00862	gene			
+KOHBPAPH_00863	CDS			hypothetical protein
+KOHBPAPH_00863	gene			
+KOHBPAPH_00864	CDS			hypothetical protein
+KOHBPAPH_00864	gene			
+KOHBPAPH_00865	CDS			hypothetical protein
+KOHBPAPH_00865	gene			
+KOHBPAPH_00866	CDS			hypothetical protein
+KOHBPAPH_00866	gene			
+KOHBPAPH_00867	CDS			hypothetical protein
+KOHBPAPH_00867	gene			
+KOHBPAPH_00868	CDS	yxeP	3.-.-.-	putative hydrolase YxeP
+KOHBPAPH_00868	gene	yxeP		
+KOHBPAPH_00869	CDS			hypothetical protein
+KOHBPAPH_00869	gene			
+KOHBPAPH_00870	CDS	fieF		Ferrous-iron efflux pump FieF
+KOHBPAPH_00870	gene	fieF		
+KOHBPAPH_00871	CDS	birA	6.3.4.15	Bifunctional ligase/repressor BirA
+KOHBPAPH_00871	gene	birA		
+KOHBPAPH_00872	CDS			hypothetical protein
+KOHBPAPH_00872	gene			
+KOHBPAPH_00873	CDS	scpA_4	5.4.99.2	Methylmalonyl-CoA mutase
+KOHBPAPH_00873	gene	scpA_4		
+KOHBPAPH_00874	CDS	djlA		Co-chaperone protein DjlA
+KOHBPAPH_00874	gene	djlA		
+KOHBPAPH_00875	CDS			hypothetical protein
+KOHBPAPH_00875	gene			
+KOHBPAPH_00876	CDS	glmU	2.3.1.157	Bifunctional protein GlmU
+KOHBPAPH_00876	gene	glmU		
+KOHBPAPH_00877	CDS			hypothetical protein
+KOHBPAPH_00877	gene			
+KOHBPAPH_00878	CDS			hypothetical protein
+KOHBPAPH_00878	gene			
+KOHBPAPH_00879	CDS			hypothetical protein
+KOHBPAPH_00879	gene			
+KOHBPAPH_00880	CDS	cirA_2		Colicin I receptor
+KOHBPAPH_00880	gene	cirA_2		
+KOHBPAPH_00881	CDS	prfA_2		Peptide chain release factor 1
+KOHBPAPH_00881	gene	prfA_2		
+KOHBPAPH_00882	CDS	murQ	4.2.1.126	N-acetylmuramic acid 6-phosphate etherase
+KOHBPAPH_00882	gene	murQ		
+KOHBPAPH_00883	CDS	prmA	2.1.1.-	Ribosomal protein L11 methyltransferase
+KOHBPAPH_00883	gene	prmA		
+KOHBPAPH_00884	CDS	alsT		Amino-acid carrier protein AlsT
+KOHBPAPH_00884	gene	alsT		
+KOHBPAPH_00885	CDS			hypothetical protein
+KOHBPAPH_00885	gene			
+KOHBPAPH_00886	CDS	glyA	2.1.2.1	Serine hydroxymethyltransferase
+KOHBPAPH_00886	gene	glyA		
+KOHBPAPH_00887	CDS	bepA_3	3.4.-.-	Beta-barrel assembly-enhancing protease
+KOHBPAPH_00887	gene	bepA_3		
+KOHBPAPH_00888	CDS			hypothetical protein
+KOHBPAPH_00888	gene			
+KOHBPAPH_00889	CDS			hypothetical protein
+KOHBPAPH_00889	gene			
+KOHBPAPH_00890	CDS	glgA	2.4.1.21	Glycogen synthase
+KOHBPAPH_00890	gene	glgA		
+KOHBPAPH_00891	CDS	cpoB		Cell division coordinator CpoB
+KOHBPAPH_00891	gene	cpoB		
+KOHBPAPH_00892	CDS	mrdB	2.4.1.129	Peptidoglycan glycosyltransferase MrdB
+KOHBPAPH_00892	gene	mrdB		
+KOHBPAPH_00893	CDS	mrdA	3.4.16.4	Peptidoglycan D,D-transpeptidase MrdA
+KOHBPAPH_00893	gene	mrdA		
+KOHBPAPH_00894	CDS			hypothetical protein
+KOHBPAPH_00894	gene			
+KOHBPAPH_00895	CDS	mreC		Cell shape-determining protein MreC
+KOHBPAPH_00895	gene	mreC		
+KOHBPAPH_00896	CDS	mreB		Rod shape-determining protein MreB
+KOHBPAPH_00896	gene	mreB		
+KOHBPAPH_00897	CDS	rnhA		14.7 kDa ribonuclease H-like protein
+KOHBPAPH_00897	gene	rnhA		
+KOHBPAPH_00898	CDS			hypothetical protein
+KOHBPAPH_00898	gene			
+KOHBPAPH_00899	CDS			hypothetical protein
+KOHBPAPH_00899	gene			
+KOHBPAPH_00900	CDS			hypothetical protein
+KOHBPAPH_00900	gene			
+KOHBPAPH_00901	CDS	hldE_2		Bifunctional protein HldE
+KOHBPAPH_00901	gene	hldE_2		
+KOHBPAPH_00902	CDS			hypothetical protein
+KOHBPAPH_00902	gene			
+KOHBPAPH_00903	CDS			hypothetical protein
+KOHBPAPH_00903	gene			
+KOHBPAPH_00904	CDS	susC_2		TonB-dependent receptor SusC
+KOHBPAPH_00904	gene	susC_2		
+KOHBPAPH_00905	CDS			hypothetical protein
+KOHBPAPH_00905	gene			
+KOHBPAPH_00906	CDS			hypothetical protein
+KOHBPAPH_00906	gene			
+KOHBPAPH_00907	CDS			hypothetical protein
+KOHBPAPH_00907	gene			
+KOHBPAPH_00908	CDS			hypothetical protein
+KOHBPAPH_00908	gene			
+KOHBPAPH_00909	CDS			hypothetical protein
+KOHBPAPH_00909	gene			
+KOHBPAPH_00910	CDS			hypothetical protein
+KOHBPAPH_00910	gene			
+KOHBPAPH_00911	CDS	yabJ	3.5.99.10	2-iminobutanoate/2-iminopropanoate deaminase
+KOHBPAPH_00911	gene	yabJ		
+KOHBPAPH_00912	CDS			hypothetical protein
+KOHBPAPH_00912	gene			
+KOHBPAPH_00913	CDS	alaS	6.1.1.7	Alanine--tRNA ligase
+KOHBPAPH_00913	gene	alaS		
+KOHBPAPH_00914	CDS			hypothetical protein
+KOHBPAPH_00914	gene			
+KOHBPAPH_00915	CDS			hypothetical protein
+KOHBPAPH_00915	gene			
+KOHBPAPH_00916	CDS			hypothetical protein
+KOHBPAPH_00916	gene			
+KOHBPAPH_00917	CDS			hypothetical protein
+KOHBPAPH_00917	gene			
+KOHBPAPH_00918	CDS			hypothetical protein
+KOHBPAPH_00918	gene			
+KOHBPAPH_00919	CDS			hypothetical protein
+KOHBPAPH_00919	gene			
+KOHBPAPH_00920	CDS	rfaH		Transcription antitermination protein RfaH
+KOHBPAPH_00920	gene	rfaH		
+KOHBPAPH_00921	CDS	cysS	6.1.1.16	Cysteine--tRNA ligase
+KOHBPAPH_00921	gene	cysS		
+KOHBPAPH_00922	tRNA			tRNA-Thr(tgt)
+KOHBPAPH_00922	gene			
+KOHBPAPH_00923	tRNA			tRNA-Tyr(gta)
+KOHBPAPH_00923	gene			
+KOHBPAPH_00924	tRNA			tRNA-Gly(tcc)
+KOHBPAPH_00924	gene			
+KOHBPAPH_00925	tRNA			tRNA-Thr(ggt)
+KOHBPAPH_00925	gene			
+KOHBPAPH_00926	CDS	truB	5.4.99.25	tRNA pseudouridine synthase B
+KOHBPAPH_00926	gene	truB		
+KOHBPAPH_00927	CDS	rbfA		Ribosome-binding factor A
+KOHBPAPH_00927	gene	rbfA		
+KOHBPAPH_00928	CDS	infB		Translation initiation factor IF-2
+KOHBPAPH_00928	gene	infB		
+KOHBPAPH_00929	CDS	nusA		Transcription termination/antitermination protein NusA
+KOHBPAPH_00929	gene	nusA		
+KOHBPAPH_00930	CDS	rimP		Ribosome maturation factor RimP
+KOHBPAPH_00930	gene	rimP		
+KOHBPAPH_00931	CDS			hypothetical protein
+KOHBPAPH_00931	gene			
+KOHBPAPH_00932	tRNA			tRNA-Arg(cct)
+KOHBPAPH_00932	gene			
+KOHBPAPH_00933	CDS	gpsA	1.1.1.94	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+KOHBPAPH_00933	gene	gpsA		
+KOHBPAPH_00934	CDS		6.2.1.3	Long-chain-fatty-acid--CoA ligase FadD15
+KOHBPAPH_00934	gene			
+KOHBPAPH_00935	tRNA			tRNA-Leu(caa)
+KOHBPAPH_00935	gene			
+KOHBPAPH_00936	CDS			hypothetical protein
+KOHBPAPH_00936	gene			
+KOHBPAPH_00937	CDS			hypothetical protein
+KOHBPAPH_00937	gene			
+KOHBPAPH_00938	CDS			hypothetical protein
+KOHBPAPH_00938	gene			
+KOHBPAPH_00939	CDS			hypothetical protein
+KOHBPAPH_00939	gene			
+KOHBPAPH_00940	CDS			hypothetical protein
+KOHBPAPH_00940	gene			
+KOHBPAPH_00941	CDS	lepB	3.4.21.89	Signal peptidase I
+KOHBPAPH_00941	gene	lepB		
+KOHBPAPH_00942	CDS	tkt_1	2.2.1.1	Transketolase
+KOHBPAPH_00942	gene	tkt_1		
+KOHBPAPH_00943	CDS	ruvB	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvB
+KOHBPAPH_00943	gene	ruvB		
+KOHBPAPH_00944	CDS	queA	2.4.99.17	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+KOHBPAPH_00944	gene	queA		
+KOHBPAPH_00945	CDS			hypothetical protein
+KOHBPAPH_00945	gene			
+KOHBPAPH_00946	CDS			hypothetical protein
+KOHBPAPH_00946	gene			
+KOHBPAPH_00947	CDS	putP_3		High-affinity proline transporter PutP
+KOHBPAPH_00947	gene	putP_3		
+KOHBPAPH_00948	CDS			hypothetical protein
+KOHBPAPH_00948	gene			
+KOHBPAPH_00949	CDS	treA	3.2.1.28	Periplasmic trehalase
+KOHBPAPH_00949	gene	treA		
+KOHBPAPH_00950	CDS			hypothetical protein
+KOHBPAPH_00950	gene			
+KOHBPAPH_00951	CDS	dut	3.6.1.23	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+KOHBPAPH_00951	gene	dut		
+KOHBPAPH_00952	CDS			hypothetical protein
+KOHBPAPH_00952	gene			
+KOHBPAPH_00953	CDS			hypothetical protein
+KOHBPAPH_00953	gene			
+KOHBPAPH_00954	CDS	btrR	2.6.1.100	L-glutamine:2-deoxy-scyllo-inosose aminotransferase
+KOHBPAPH_00954	gene	btrR		
+KOHBPAPH_00955	CDS	hspA		Spore protein SP21
+KOHBPAPH_00955	gene	hspA		
+KOHBPAPH_00956	CDS			hypothetical protein
+KOHBPAPH_00956	gene			
+KOHBPAPH_00957	CDS	lptG		Lipopolysaccharide export system permease protein LptG
+KOHBPAPH_00957	gene	lptG		
+KOHBPAPH_00958	CDS			hypothetical protein
+KOHBPAPH_00958	gene			
+KOHBPAPH_00959	CDS			hypothetical protein
+KOHBPAPH_00959	gene			
+KOHBPAPH_00960	CDS			hypothetical protein
+KOHBPAPH_00960	gene			
+KOHBPAPH_00961	CDS		2.1.1.-	Phthiotriol/phenolphthiotriol dimycocerosates methyltransferase
+KOHBPAPH_00961	gene			
+KOHBPAPH_00962	CDS	secA		Protein translocase subunit SecA
+KOHBPAPH_00962	gene	secA		
+KOHBPAPH_00963	CDS	mccB	4.4.1.1	Cystathionine gamma-lyase
+KOHBPAPH_00963	gene	mccB		
+KOHBPAPH_00964	tRNA			tRNA-Leu(tag)
+KOHBPAPH_00964	gene			
+KOHBPAPH_00965	CDS	petC_1	1.10.9.1	Cytochrome b6-f complex iron-sulfur subunit
+KOHBPAPH_00965	gene	petC_1		
+KOHBPAPH_00966	CDS	petB_1		Cytochrome b6
+KOHBPAPH_00966	gene	petB_1		
+KOHBPAPH_00967	CDS			hypothetical protein
+KOHBPAPH_00967	gene			
+KOHBPAPH_00968	CDS			hypothetical protein
+KOHBPAPH_00968	gene			
+KOHBPAPH_00969	CDS	rpsZ		30S ribosomal protein S14 type Z
+KOHBPAPH_00969	gene	rpsZ		
+KOHBPAPH_00970	CDS	rplE		50S ribosomal protein L5
+KOHBPAPH_00970	gene	rplE		
+KOHBPAPH_00971	CDS	rplX		50S ribosomal protein L24
+KOHBPAPH_00971	gene	rplX		
+KOHBPAPH_00972	CDS	rplN		50S ribosomal protein L14
+KOHBPAPH_00972	gene	rplN		
+KOHBPAPH_00973	CDS	rpsQ		30S ribosomal protein S17
+KOHBPAPH_00973	gene	rpsQ		
+KOHBPAPH_00974	CDS	rpmC		50S ribosomal protein L29
+KOHBPAPH_00974	gene	rpmC		
+KOHBPAPH_00975	CDS	rplP		50S ribosomal protein L16
+KOHBPAPH_00975	gene	rplP		
+KOHBPAPH_00976	CDS	rpsC		30S ribosomal protein S3
+KOHBPAPH_00976	gene	rpsC		
+KOHBPAPH_00977	CDS	rplV		50S ribosomal protein L22
+KOHBPAPH_00977	gene	rplV		
+KOHBPAPH_00978	CDS	rpsS		30S ribosomal protein S19
+KOHBPAPH_00978	gene	rpsS		
+KOHBPAPH_00979	CDS	rplB		50S ribosomal protein L2
+KOHBPAPH_00979	gene	rplB		
+KOHBPAPH_00980	CDS	rplW		50S ribosomal protein L23
+KOHBPAPH_00980	gene	rplW		
+KOHBPAPH_00981	CDS	rplD		50S ribosomal protein L4
+KOHBPAPH_00981	gene	rplD		
+KOHBPAPH_00982	CDS		3.4.24.75	Glycyl-glycine endopeptidase ALE-1
+KOHBPAPH_00982	gene			
+KOHBPAPH_00983	CDS	degQ	3.4.21.107	Periplasmic pH-dependent serine endoprotease DegQ
+KOHBPAPH_00983	gene	degQ		
+KOHBPAPH_00984	CDS			hypothetical protein
+KOHBPAPH_00984	gene			
+KOHBPAPH_00985	CDS			hypothetical protein
+KOHBPAPH_00985	gene			
+KOHBPAPH_00986	CDS		1.-.-.-	putative FAD-linked oxidoreductase
+KOHBPAPH_00986	gene			
+KOHBPAPH_00987	CDS	acr1	1.2.1.-	Fatty acyl-CoA reductase
+KOHBPAPH_00987	gene	acr1		
+KOHBPAPH_00988	CDS			hypothetical protein
+KOHBPAPH_00988	gene			
+KOHBPAPH_00989	CDS			hypothetical protein
+KOHBPAPH_00989	gene			
+KOHBPAPH_00990	CDS	dpp5_2	3.4.14.-	Dipeptidyl-peptidase 5
+KOHBPAPH_00990	gene	dpp5_2		
+KOHBPAPH_00991	CDS	pyk	2.7.1.40	Pyruvate kinase
+KOHBPAPH_00991	gene	pyk		
+KOHBPAPH_00992	CDS	apaG		Protein ApaG
+KOHBPAPH_00992	gene	apaG		
+KOHBPAPH_00993	CDS		3.4.11.10	Bacterial leucyl aminopeptidase
+KOHBPAPH_00993	gene			
+KOHBPAPH_00994	CDS	mltB	4.2.2.-	Membrane-bound lytic murein transglycosylase B
+KOHBPAPH_00994	gene	mltB		
+KOHBPAPH_00995	CDS	dpp5_3	3.4.14.-	Dipeptidyl-peptidase 5
+KOHBPAPH_00995	gene	dpp5_3		
+KOHBPAPH_00996	CDS			hypothetical protein
+KOHBPAPH_00996	gene			
+KOHBPAPH_00997	CDS	cyaA_2	4.6.1.1	Adenylate cyclase 1
+KOHBPAPH_00997	gene	cyaA_2		
+KOHBPAPH_00998	CDS	zraR_1		Transcriptional regulatory protein ZraR
+KOHBPAPH_00998	gene	zraR_1		
+KOHBPAPH_00999	CDS	tsaE		tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+KOHBPAPH_00999	gene	tsaE		
+KOHBPAPH_01000	CDS	tsaB		tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+KOHBPAPH_01000	gene	tsaB		
+KOHBPAPH_01001	CDS			hypothetical protein
+KOHBPAPH_01001	gene			
+KOHBPAPH_01002	CDS			hypothetical protein
+KOHBPAPH_01002	gene			
+KOHBPAPH_01003	CDS			hypothetical protein
+KOHBPAPH_01003	gene			
+KOHBPAPH_01004	CDS			hypothetical protein
+KOHBPAPH_01004	gene			
+KOHBPAPH_01005	CDS			hypothetical protein
+KOHBPAPH_01005	gene			
+KOHBPAPH_01006	CDS		3.5.1.77	N-carbamoyl-D-amino acid hydrolase
+KOHBPAPH_01006	gene			
+KOHBPAPH_01007	CDS			hypothetical protein
+KOHBPAPH_01007	gene			
+KOHBPAPH_01008	CDS		1.3.1.-	Trans-acting enoyl reductase
+KOHBPAPH_01008	gene			
+KOHBPAPH_01009	CDS			hypothetical protein
+KOHBPAPH_01009	gene			
+KOHBPAPH_01010	CDS			hypothetical protein
+KOHBPAPH_01010	gene			
+KOHBPAPH_01011	CDS			hypothetical protein
+KOHBPAPH_01011	gene			
+KOHBPAPH_01012	CDS		2.1.1.-	Putative TrmH family tRNA/rRNA methyltransferase
+KOHBPAPH_01012	gene			
+KOHBPAPH_01013	CDS			hypothetical protein
+KOHBPAPH_01013	gene			
+KOHBPAPH_01014	CDS			hypothetical protein
+KOHBPAPH_01014	gene			
+KOHBPAPH_01015	CDS			hypothetical protein
+KOHBPAPH_01015	gene			
+KOHBPAPH_01016	CDS			hypothetical protein
+KOHBPAPH_01016	gene			
+KOHBPAPH_01017	CDS			hypothetical protein
+KOHBPAPH_01017	gene			
+KOHBPAPH_01018	CDS	mazG	3.6.1.8	Nucleoside triphosphate pyrophosphohydrolase
+KOHBPAPH_01018	gene	mazG		
+KOHBPAPH_01019	CDS	cysK	2.5.1.47	Cysteine synthase
+KOHBPAPH_01019	gene	cysK		
+KOHBPAPH_01020	CDS			hypothetical protein
+KOHBPAPH_01020	gene			
+KOHBPAPH_01021	CDS			hypothetical protein
+KOHBPAPH_01021	gene			
+KOHBPAPH_01022	CDS			hypothetical protein
+KOHBPAPH_01022	gene			
+KOHBPAPH_01023	CDS	bepA_4	3.4.-.-	Beta-barrel assembly-enhancing protease
+KOHBPAPH_01023	gene	bepA_4		
+KOHBPAPH_01024	CDS			hypothetical protein
+KOHBPAPH_01024	gene			
+KOHBPAPH_01025	CDS			hypothetical protein
+KOHBPAPH_01025	gene			
+KOHBPAPH_01026	CDS	mmgC	1.3.99.-	Acyl-CoA dehydrogenase
+KOHBPAPH_01026	gene	mmgC		
+KOHBPAPH_01027	CDS			hypothetical protein
+KOHBPAPH_01027	gene			
+KOHBPAPH_01028	CDS	dgk	2.7.1.113	Deoxyguanosine kinase
+KOHBPAPH_01028	gene	dgk		
+KOHBPAPH_01029	CDS	folK	2.7.6.3	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+KOHBPAPH_01029	gene	folK		
+KOHBPAPH_01030	CDS	folB	4.1.2.25	Dihydroneopterin aldolase
+KOHBPAPH_01030	gene	folB		
+KOHBPAPH_01031	CDS			hypothetical protein
+KOHBPAPH_01031	gene			
+KOHBPAPH_01032	CDS	groL		60 kDa chaperonin
+KOHBPAPH_01032	gene	groL		
+KOHBPAPH_01033	CDS	groS		10 kDa chaperonin
+KOHBPAPH_01033	gene	groS		
+KOHBPAPH_01034	CDS			hypothetical protein
+KOHBPAPH_01034	gene			
+KOHBPAPH_01035	CDS			hypothetical protein
+KOHBPAPH_01035	gene			
+KOHBPAPH_01036	CDS	sirA	1.8.99.-	Dissimilatory sulfite reductase SirA
+KOHBPAPH_01036	gene	sirA		
+KOHBPAPH_01037	CDS			hypothetical protein
+KOHBPAPH_01037	gene			
+KOHBPAPH_01038	CDS	zupT		Zinc transporter ZupT
+KOHBPAPH_01038	gene	zupT		
+KOHBPAPH_01039	CDS	prfB		Peptide chain release factor 2
+KOHBPAPH_01039	gene	prfB		
+KOHBPAPH_01040	CDS	lysS	6.1.1.6	Lysine--tRNA ligase
+KOHBPAPH_01040	gene	lysS		
+KOHBPAPH_01041	CDS	lolE_1		Lipoprotein-releasing system transmembrane protein LolE
+KOHBPAPH_01041	gene	lolE_1		
+KOHBPAPH_01042	CDS	lolE_2		Lipoprotein-releasing system transmembrane protein LolE
+KOHBPAPH_01042	gene	lolE_2		
+KOHBPAPH_01043	CDS	lolD	3.6.3.-	Lipoprotein-releasing system ATP-binding protein LolD
+KOHBPAPH_01043	gene	lolD		
+KOHBPAPH_01044	CDS	clpC		ATP-dependent Clp protease ATP-binding subunit ClpC
+KOHBPAPH_01044	gene	clpC		
+KOHBPAPH_01045	CDS	dnaK		Chaperone protein DnaK
+KOHBPAPH_01045	gene	dnaK		
+KOHBPAPH_01046	CDS			hypothetical protein
+KOHBPAPH_01046	gene			
+KOHBPAPH_01047	CDS	bamA_2		Outer membrane protein assembly factor BamA
+KOHBPAPH_01047	gene	bamA_2		
+KOHBPAPH_01048	CDS	bamD_2		Outer membrane protein assembly factor BamD
+KOHBPAPH_01048	gene	bamD_2		
+KOHBPAPH_01049	CDS			hypothetical protein
+KOHBPAPH_01049	gene			
+KOHBPAPH_01050	CDS			hypothetical protein
+KOHBPAPH_01050	gene			
+KOHBPAPH_01051	CDS	pat	2.6.1.-	Putative phenylalanine aminotransferase
+KOHBPAPH_01051	gene	pat		
+KOHBPAPH_01052	CDS			hypothetical protein
+KOHBPAPH_01052	gene			
+KOHBPAPH_01053	CDS		3.4.11.24	Aminopeptidase S
+KOHBPAPH_01053	gene			
+KOHBPAPH_01054	CDS	lexA	3.4.21.88	LexA repressor
+KOHBPAPH_01054	gene	lexA		
+KOHBPAPH_01055	CDS	dinB	2.7.7.7	DNA polymerase IV
+KOHBPAPH_01055	gene	dinB		
+KOHBPAPH_01056	CDS	trmL	2.1.1.207	tRNA (cytidine(34)-2'-O)-methyltransferase
+KOHBPAPH_01056	gene	trmL		
+KOHBPAPH_01057	CDS	lhgO	1.1.3.15	L-2-hydroxyglutarate oxidase LhgO
+KOHBPAPH_01057	gene	lhgO		
+KOHBPAPH_01058	CDS			hypothetical protein
+KOHBPAPH_01058	gene			
+KOHBPAPH_01059	CDS			hypothetical protein
+KOHBPAPH_01059	gene			
+KOHBPAPH_01060	CDS			hypothetical protein
+KOHBPAPH_01060	gene			
+KOHBPAPH_01061	CDS	tdcB_2	4.3.1.19	L-threonine dehydratase catabolic TdcB
+KOHBPAPH_01061	gene	tdcB_2		
+KOHBPAPH_01062	CDS	ddc	4.1.1.86	L-2,4-diaminobutyrate decarboxylase
+KOHBPAPH_01062	gene	ddc		
+KOHBPAPH_01063	CDS			hypothetical protein
+KOHBPAPH_01063	gene			
+KOHBPAPH_01064	CDS		5.1.1.20	L-Ala-D/L-Glu epimerase
+KOHBPAPH_01064	gene			
+KOHBPAPH_01065	CDS	ggt_4	2.3.2.2	Gamma-glutamyltranspeptidase
+KOHBPAPH_01065	gene	ggt_4		
+KOHBPAPH_01066	CDS	dadD	3.5.4.31	5'-deoxyadenosine deaminase
+KOHBPAPH_01066	gene	dadD		
+KOHBPAPH_01067	CDS			hypothetical protein
+KOHBPAPH_01067	gene			
+KOHBPAPH_01068	CDS	cirA_3		Colicin I receptor
+KOHBPAPH_01068	gene	cirA_3		
+KOHBPAPH_01069	CDS	cca		Multifunctional CCA protein
+KOHBPAPH_01069	gene	cca		
+KOHBPAPH_01070	CDS			hypothetical protein
+KOHBPAPH_01070	gene			
+KOHBPAPH_01071	CDS	wbbL_2	2.4.1.289	N-acetylglucosaminyl-diphospho-decaprenol L-rhamnosyltransferase
+KOHBPAPH_01071	gene	wbbL_2		
+KOHBPAPH_01072	CDS			hypothetical protein
+KOHBPAPH_01072	gene			
+KOHBPAPH_01073	CDS			hypothetical protein
+KOHBPAPH_01073	gene			
+KOHBPAPH_01074	CDS	atsA_3	3.1.6.1	Arylsulfatase
+KOHBPAPH_01074	gene	atsA_3		
+KOHBPAPH_01075	CDS	rimO	2.8.4.4	Ribosomal protein S12 methylthiotransferase RimO
+KOHBPAPH_01075	gene	rimO		
+KOHBPAPH_01076	tRNA			tRNA-Ser(gct)
+KOHBPAPH_01076	gene			
+KOHBPAPH_01077	CDS	dprA		DNA processing protein DprA
+KOHBPAPH_01077	gene	dprA		
+KOHBPAPH_01078	CDS	obg	3.6.5.-	GTPase Obg
+KOHBPAPH_01078	gene	obg		
+KOHBPAPH_01079	CDS	icd	1.1.1.42	Isocitrate dehydrogenase [NADP]
+KOHBPAPH_01079	gene	icd		
+KOHBPAPH_01080	CDS			hypothetical protein
+KOHBPAPH_01080	gene			
+KOHBPAPH_01081	CDS	coaD	2.7.7.3	Phosphopantetheine adenylyltransferase
+KOHBPAPH_01081	gene	coaD		
+KOHBPAPH_01082	CDS	rsmD	2.1.1.171	Ribosomal RNA small subunit methyltransferase D
+KOHBPAPH_01082	gene	rsmD		
+KOHBPAPH_01083	CDS			hypothetical protein
+KOHBPAPH_01083	gene			
+KOHBPAPH_01084	CDS	wbgU	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+KOHBPAPH_01084	gene	wbgU		
+KOHBPAPH_01085	CDS	gcvT	2.1.2.10	Aminomethyltransferase
+KOHBPAPH_01085	gene	gcvT		
+KOHBPAPH_01086	CDS			hypothetical protein
+KOHBPAPH_01086	gene			
+KOHBPAPH_01087	CDS	acn	4.2.1.3	Aconitate hydratase A
+KOHBPAPH_01087	gene	acn		
+KOHBPAPH_01088	CDS	kgp	3.4.22.47	Lys-gingipain W83
+KOHBPAPH_01088	gene	kgp		
+KOHBPAPH_01089	CDS	maf		Septum formation protein Maf
+KOHBPAPH_01089	gene	maf		
+KOHBPAPH_01090	CDS			hypothetical protein
+KOHBPAPH_01090	gene			
+KOHBPAPH_01091	CDS	mraZ		Transcriptional regulator MraZ
+KOHBPAPH_01091	gene	mraZ		
+KOHBPAPH_01092	CDS	rsmH	2.1.1.199	Ribosomal RNA small subunit methyltransferase H
+KOHBPAPH_01092	gene	rsmH		
+KOHBPAPH_01093	CDS	ftsL		Cell division protein FtsL
+KOHBPAPH_01093	gene	ftsL		
+KOHBPAPH_01094	CDS	ftsI	3.4.16.4	Peptidoglycan D,D-transpeptidase FtsI
+KOHBPAPH_01094	gene	ftsI		
+KOHBPAPH_01095	CDS	murE	6.3.2.13	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+KOHBPAPH_01095	gene	murE		
+KOHBPAPH_01096	CDS	murF	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+KOHBPAPH_01096	gene	murF		
+KOHBPAPH_01097	CDS			hypothetical protein
+KOHBPAPH_01097	gene			
+KOHBPAPH_01098	CDS			hypothetical protein
+KOHBPAPH_01098	gene			
+KOHBPAPH_01099	CDS			hypothetical protein
+KOHBPAPH_01099	gene			
+KOHBPAPH_01100	CDS	nrgA		Ammonium transporter NrgA
+KOHBPAPH_01100	gene	nrgA		
+KOHBPAPH_01101	CDS	glnB		Nitrogen regulatory protein P-II
+KOHBPAPH_01101	gene	glnB		
+KOHBPAPH_01102	CDS	smpB		SsrA-binding protein
+KOHBPAPH_01102	gene	smpB		
+KOHBPAPH_01103	tRNA			tRNA-Leu(cag)
+KOHBPAPH_01103	gene			
+KOHBPAPH_01104	CDS			hypothetical protein
+KOHBPAPH_01104	gene			
+KOHBPAPH_01105	CDS	hutU	4.2.1.49	Urocanate hydratase
+KOHBPAPH_01105	gene	hutU		
+KOHBPAPH_01106	CDS	hutI_2	3.5.2.7	Imidazolonepropionase
+KOHBPAPH_01106	gene	hutI_2		
+KOHBPAPH_01107	CDS			hypothetical protein
+KOHBPAPH_01107	gene			
+KOHBPAPH_01108	CDS			hypothetical protein
+KOHBPAPH_01108	gene			
+KOHBPAPH_01109	CDS	msrC	1.8.4.14	Free methionine-R-sulfoxide reductase
+KOHBPAPH_01109	gene	msrC		
+KOHBPAPH_01110	CDS	vte5	2.7.1.182	Phytol kinase
+KOHBPAPH_01110	gene	vte5		
+KOHBPAPH_01111	CDS		3.4.24.-	putative zinc protease
+KOHBPAPH_01111	gene			
+KOHBPAPH_01112	CDS			hypothetical protein
+KOHBPAPH_01112	gene			
+KOHBPAPH_01113	CDS			hypothetical protein
+KOHBPAPH_01113	gene			
+KOHBPAPH_01114	CDS			hypothetical protein
+KOHBPAPH_01114	gene			
+KOHBPAPH_01115	CDS	acsA	6.2.1.1	Acetyl-coenzyme A synthetase
+KOHBPAPH_01115	gene	acsA		
+KOHBPAPH_01116	CDS			hypothetical protein
+KOHBPAPH_01116	gene			
+KOHBPAPH_01117	CDS	sucB	2.3.1.61	Dihydrolipoyllysine-residue succinyltransferase component of 2-oxoglutarate dehydrogenase complex
+KOHBPAPH_01117	gene	sucB		
+KOHBPAPH_01118	CDS	bfmBAB	1.2.4.4	2-oxoisovalerate dehydrogenase subunit beta
+KOHBPAPH_01118	gene	bfmBAB		
+KOHBPAPH_01119	CDS	lipB	2.3.1.181	Octanoyltransferase
+KOHBPAPH_01119	gene	lipB		
+KOHBPAPH_01120	CDS	lpd	1.8.1.4	Dihydrolipoyl dehydrogenase
+KOHBPAPH_01120	gene	lpd		
+KOHBPAPH_01121	tRNA			tRNA-Thr(cgt)
+KOHBPAPH_01121	gene			
+KOHBPAPH_01122	CDS	menG_2	2.1.1.163	Demethylmenaquinone methyltransferase
+KOHBPAPH_01122	gene	menG_2		
+KOHBPAPH_01123	CDS	yidD		Putative membrane protein insertion efficiency factor
+KOHBPAPH_01123	gene	yidD		
+KOHBPAPH_01124	CDS	mggB	3.1.3.-	Mannosylglucosyl-3-phosphoglycerate phosphatase
+KOHBPAPH_01124	gene	mggB		
+KOHBPAPH_01125	CDS			hypothetical protein
+KOHBPAPH_01125	gene			
+KOHBPAPH_01126	CDS			Cyclic AMP receptor protein
+KOHBPAPH_01126	gene			
+KOHBPAPH_01127	CDS	selB		Selenocysteine-specific elongation factor
+KOHBPAPH_01127	gene	selB		
+KOHBPAPH_01128	CDS	selA	2.9.1.1	L-seryl-tRNA(Sec) selenium transferase
+KOHBPAPH_01128	gene	selA		
+KOHBPAPH_01129	CDS			hypothetical protein
+KOHBPAPH_01129	gene			
+KOHBPAPH_01130	CDS			hypothetical protein
+KOHBPAPH_01130	gene			
+KOHBPAPH_01131	CDS	frr		Ribosome-recycling factor
+KOHBPAPH_01131	gene	frr		
+KOHBPAPH_01132	CDS	pyrH	2.7.4.22	Uridylate kinase
+KOHBPAPH_01132	gene	pyrH		
+KOHBPAPH_01133	CDS	tsf		Elongation factor Ts
+KOHBPAPH_01133	gene	tsf		
+KOHBPAPH_01134	CDS	rpsB		30S ribosomal protein S2
+KOHBPAPH_01134	gene	rpsB		
+KOHBPAPH_01135	CDS	rpsI		30S ribosomal protein S9
+KOHBPAPH_01135	gene	rpsI		
+KOHBPAPH_01136	CDS	rplM		50S ribosomal protein L13
+KOHBPAPH_01136	gene	rplM		
+KOHBPAPH_01137	CDS	pyrC	3.5.2.3	Dihydroorotase
+KOHBPAPH_01137	gene	pyrC		
+KOHBPAPH_01138	CDS	pyrB	2.1.3.2	Aspartate carbamoyltransferase
+KOHBPAPH_01138	gene	pyrB		
+KOHBPAPH_01139	CDS	pyrR		Bifunctional protein PyrR
+KOHBPAPH_01139	gene	pyrR		
+KOHBPAPH_01140	CDS	asrA		Anaerobic sulfite reductase subunit A
+KOHBPAPH_01140	gene	asrA		
+KOHBPAPH_01141	CDS	glxR		CRP-like cAMP-activated global transcriptional regulator
+KOHBPAPH_01141	gene	glxR		
+KOHBPAPH_01142	CDS	asrB		Anaerobic sulfite reductase subunit B
+KOHBPAPH_01142	gene	asrB		
+KOHBPAPH_01143	CDS	hoxY	1.12.1.2	NAD-reducing hydrogenase HoxS subunit delta
+KOHBPAPH_01143	gene	hoxY		
+KOHBPAPH_01144	CDS	hoxH	1.12.1.2	NAD-reducing hydrogenase HoxS subunit beta
+KOHBPAPH_01144	gene	hoxH		
+KOHBPAPH_01145	CDS	hybD	3.4.23.-	Hydrogenase 2 maturation protease
+KOHBPAPH_01145	gene	hybD		
+KOHBPAPH_01146	CDS	hypA		hydrogenase nickel incorporation protein HypA
+KOHBPAPH_01146	gene	hypA		
+KOHBPAPH_01147	CDS	pepP	3.4.11.9	Xaa-Pro aminopeptidase
+KOHBPAPH_01147	gene	pepP		
+KOHBPAPH_01148	CDS		3.4.24.-	Putative zinc metalloprotease
+KOHBPAPH_01148	gene			
+KOHBPAPH_01149	CDS			hypothetical protein
+KOHBPAPH_01149	gene			
+KOHBPAPH_01150	CDS	ywlC	2.7.7.87	Threonylcarbamoyl-AMP synthase
+KOHBPAPH_01150	gene	ywlC		
+KOHBPAPH_01151	CDS		2.3.1.-	Phosphatidylinositol mannoside acyltransferase
+KOHBPAPH_01151	gene			
+KOHBPAPH_01152	CDS			hypothetical protein
+KOHBPAPH_01152	gene			
+KOHBPAPH_01153	CDS			hypothetical protein
+KOHBPAPH_01153	gene			
+KOHBPAPH_01154	CDS			hypothetical protein
+KOHBPAPH_01154	gene			
+KOHBPAPH_01155	CDS	cusB		Cation efflux system protein CusB
+KOHBPAPH_01155	gene	cusB		
+KOHBPAPH_01156	CDS			hypothetical protein
+KOHBPAPH_01156	gene			
+KOHBPAPH_01157	CDS			hypothetical protein
+KOHBPAPH_01157	gene			
+KOHBPAPH_01158	CDS	tupC	3.6.3.55	Tungstate uptake system ATP-binding protein TupC
+KOHBPAPH_01158	gene	tupC		
+KOHBPAPH_01159	CDS	trxB	1.8.1.9	Thioredoxin reductase
+KOHBPAPH_01159	gene	trxB		
+KOHBPAPH_01160	CDS	trxA_2		Thioredoxin 1
+KOHBPAPH_01160	gene	trxA_2		
+KOHBPAPH_01161	CDS	pafA	3.1.3.1	Alkaline phosphatase PafA
+KOHBPAPH_01161	gene	pafA		
+KOHBPAPH_01162	CDS	tyrS	6.1.1.1	Tyrosine--tRNA ligase
+KOHBPAPH_01162	gene	tyrS		
+KOHBPAPH_01163	CDS			hypothetical protein
+KOHBPAPH_01163	gene			
+KOHBPAPH_01164	CDS			hypothetical protein
+KOHBPAPH_01164	gene			
+KOHBPAPH_01165	CDS			hypothetical protein
+KOHBPAPH_01165	gene			
+KOHBPAPH_01166	CDS	pepA	3.4.11.1	Cytosol aminopeptidase
+KOHBPAPH_01166	gene	pepA		
+KOHBPAPH_01167	CDS	rplF		50S ribosomal protein L6
+KOHBPAPH_01167	gene	rplF		
+KOHBPAPH_01168	CDS	rplR		50S ribosomal protein L18
+KOHBPAPH_01168	gene	rplR		
+KOHBPAPH_01169	CDS	rpsE		30S ribosomal protein S5
+KOHBPAPH_01169	gene	rpsE		
+KOHBPAPH_01170	CDS	rpmD		50S ribosomal protein L30
+KOHBPAPH_01170	gene	rpmD		
+KOHBPAPH_01171	CDS	rplO		50S ribosomal protein L15
+KOHBPAPH_01171	gene	rplO		
+KOHBPAPH_01172	CDS	secY		Protein translocase subunit SecY
+KOHBPAPH_01172	gene	secY		
+KOHBPAPH_01173	CDS	map	3.4.11.18	Methionine aminopeptidase 1
+KOHBPAPH_01173	gene	map		
+KOHBPAPH_01174	CDS	infA		Translation initiation factor IF-1
+KOHBPAPH_01174	gene	infA		
+KOHBPAPH_01175	CDS	rpsM		30S ribosomal protein S13
+KOHBPAPH_01175	gene	rpsM		
+KOHBPAPH_01176	CDS	rpsK		30S ribosomal protein S11
+KOHBPAPH_01176	gene	rpsK		
+KOHBPAPH_01177	CDS	rpsD		30S ribosomal protein S4
+KOHBPAPH_01177	gene	rpsD		
+KOHBPAPH_01178	CDS	rpoA	2.7.7.6	DNA-directed RNA polymerase subunit alpha
+KOHBPAPH_01178	gene	rpoA		
+KOHBPAPH_01179	CDS	rplQ		50S ribosomal protein L17
+KOHBPAPH_01179	gene	rplQ		
+KOHBPAPH_01180	CDS			hypothetical protein
+KOHBPAPH_01180	gene			
+KOHBPAPH_01181	CDS	petB_2		Cytochrome b6
+KOHBPAPH_01181	gene	petB_2		
+KOHBPAPH_01182	CDS	hao1	1.7.2.6	Hydroxylamine oxidoreductase
+KOHBPAPH_01182	gene	hao1		
+KOHBPAPH_01183	CDS	sqr	1.8.5.4	Sulfide-quinone reductase
+KOHBPAPH_01183	gene	sqr		
+KOHBPAPH_01184	CDS	dsvC	1.8.99.5	Sulfite reductase, dissimilatory-type subunit gamma
+KOHBPAPH_01184	gene	dsvC		
+KOHBPAPH_01185	CDS			hypothetical protein
+KOHBPAPH_01185	gene			
+KOHBPAPH_01186	CDS			hypothetical protein
+KOHBPAPH_01186	gene			
+KOHBPAPH_01187	CDS			Putative HTH-type transcriptional regulator
+KOHBPAPH_01187	gene			
+KOHBPAPH_01188	CDS			hypothetical protein
+KOHBPAPH_01188	gene			
+KOHBPAPH_01189	CDS			hypothetical protein
+KOHBPAPH_01189	gene			
+KOHBPAPH_01190	CDS	lgt	2.4.99.-	Prolipoprotein diacylglyceryl transferase
+KOHBPAPH_01190	gene	lgt		
+KOHBPAPH_01191	CDS			hypothetical protein
+KOHBPAPH_01191	gene			
+KOHBPAPH_01192	CDS			hypothetical protein
+KOHBPAPH_01192	gene			
+KOHBPAPH_01193	CDS	lepA	3.6.5.-	Elongation factor 4
+KOHBPAPH_01193	gene	lepA		
+KOHBPAPH_01194	CDS			hypothetical protein
+KOHBPAPH_01194	gene			
+KOHBPAPH_01195	CDS			hypothetical protein
+KOHBPAPH_01195	gene			
+KOHBPAPH_01196	CDS	smc		Chromosome partition protein Smc
+KOHBPAPH_01196	gene	smc		
+KOHBPAPH_01197	CDS		3.9.1.-	Purine nucleoside phosphoramidase
+KOHBPAPH_01197	gene			
+KOHBPAPH_01198	CDS	rsmE	2.1.1.193	Ribosomal RNA small subunit methyltransferase E
+KOHBPAPH_01198	gene	rsmE		
+KOHBPAPH_01199	CDS			hypothetical protein
+KOHBPAPH_01199	gene			
+KOHBPAPH_01200	CDS	fdx4		Ferredoxin, 2Fe-2S
+KOHBPAPH_01200	gene	fdx4		
+KOHBPAPH_01201	CDS	ccr	1.3.1.86	Crotonyl-CoA reductase
+KOHBPAPH_01201	gene	ccr		
+KOHBPAPH_01202	CDS	lapB_1		Lipopolysaccharide assembly protein B
+KOHBPAPH_01202	gene	lapB_1		
+KOHBPAPH_01203	CDS	bamD_3		Outer membrane protein assembly factor BamD
+KOHBPAPH_01203	gene	bamD_3		
+KOHBPAPH_01204	tRNA			tRNA-SeC(tca)
+KOHBPAPH_01204	gene			
+KOHBPAPH_01205	CDS			hypothetical protein
+KOHBPAPH_01205	gene			
+KOHBPAPH_01206	CDS			hypothetical protein
+KOHBPAPH_01206	gene			
+KOHBPAPH_01207	CDS			hypothetical protein
+KOHBPAPH_01207	gene			
+KOHBPAPH_01208	CDS	sad	1.2.1.16	Succinate semialdehyde dehydrogenase [NAD(P)+] Sad
+KOHBPAPH_01208	gene	sad		
+KOHBPAPH_01209	CDS			hypothetical protein
+KOHBPAPH_01209	gene			
+KOHBPAPH_01210	CDS		1.1.99.36	NDMA-dependent alcohol dehydrogenase
+KOHBPAPH_01210	gene			
+KOHBPAPH_01211	CDS			hypothetical protein
+KOHBPAPH_01211	gene			
+KOHBPAPH_01212	CDS			hypothetical protein
+KOHBPAPH_01212	gene			
+KOHBPAPH_01213	CDS			hypothetical protein
+KOHBPAPH_01213	gene			
+KOHBPAPH_01214	CDS			hypothetical protein
+KOHBPAPH_01214	gene			
+KOHBPAPH_01215	CDS			hypothetical protein
+KOHBPAPH_01215	gene			
+KOHBPAPH_01216	CDS			hypothetical protein
+KOHBPAPH_01216	gene			
+KOHBPAPH_01217	CDS			hypothetical protein
+KOHBPAPH_01217	gene			
+KOHBPAPH_01218	CDS	nadC	2.4.2.19	Nicotinate-nucleotide pyrophosphorylase [carboxylating]
+KOHBPAPH_01218	gene	nadC		
+KOHBPAPH_01219	CDS	dxs	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+KOHBPAPH_01219	gene	dxs		
+KOHBPAPH_01220	CDS	pdxT	4.3.3.6	Pyridoxal 5'-phosphate synthase subunit PdxT
+KOHBPAPH_01220	gene	pdxT		
+KOHBPAPH_01221	CDS	pdxS	4.3.3.6	Pyridoxal 5'-phosphate synthase subunit PdxS
+KOHBPAPH_01221	gene	pdxS		
+KOHBPAPH_01222	CDS	ispH	1.17.7.4	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+KOHBPAPH_01222	gene	ispH		
+KOHBPAPH_01223	CDS	ftsY		Signal recognition particle receptor FtsY
+KOHBPAPH_01223	gene	ftsY		
+KOHBPAPH_01224	CDS	pgsA2	2.7.8.5	Putative CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyl-transferase 2
+KOHBPAPH_01224	gene	pgsA2		
+KOHBPAPH_01225	CDS	ykoD	3.6.3.-	Putative HMP/thiamine import ATP-binding protein YkoD
+KOHBPAPH_01225	gene	ykoD		
+KOHBPAPH_01226	CDS	waaA	2.4.99.12	3-deoxy-D-manno-octulosonic acid transferase
+KOHBPAPH_01226	gene	waaA		
+KOHBPAPH_01227	CDS	rfaQ	2.-.-.-	Lipopolysaccharide core heptosyltransferase RfaQ
+KOHBPAPH_01227	gene	rfaQ		
+KOHBPAPH_01228	CDS	sdsA	2.5.1.84	All-trans-nonaprenyl-diphosphate synthase (geranyl-diphosphate specific)
+KOHBPAPH_01228	gene	sdsA		
+KOHBPAPH_01229	CDS	tatC		Sec-independent protein translocase protein TatC
+KOHBPAPH_01229	gene	tatC		
+KOHBPAPH_01230	CDS	argK	3.6.5.-	GTPase ArgK
+KOHBPAPH_01230	gene	argK		
+KOHBPAPH_01231	CDS	crp_1		CRP-like cAMP-activated global transcriptional regulator
+KOHBPAPH_01231	gene	crp_1		
+KOHBPAPH_01232	CDS	rpsT		30S ribosomal protein S20
+KOHBPAPH_01232	gene	rpsT		
+KOHBPAPH_01233	CDS	guaB_2	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+KOHBPAPH_01233	gene	guaB_2		
+KOHBPAPH_01234	CDS	hutH	4.3.1.3	Histidine ammonia-lyase
+KOHBPAPH_01234	gene	hutH		
+KOHBPAPH_01235	CDS			hypothetical protein
+KOHBPAPH_01235	gene			
+KOHBPAPH_01236	CDS			hypothetical protein
+KOHBPAPH_01236	gene			
+KOHBPAPH_01237	CDS	sigW_2		ECF RNA polymerase sigma factor SigW
+KOHBPAPH_01237	gene	sigW_2		
+KOHBPAPH_01238	CDS	mdh	1.1.1.37	Malate dehydrogenase
+KOHBPAPH_01238	gene	mdh		
+KOHBPAPH_01239	CDS	rpmA		50S ribosomal protein L27
+KOHBPAPH_01239	gene	rpmA		
+KOHBPAPH_01240	CDS	rplU		50S ribosomal protein L21
+KOHBPAPH_01240	gene	rplU		
+KOHBPAPH_01241	CDS	rng	3.1.26.-	Ribonuclease G
+KOHBPAPH_01241	gene	rng		
+KOHBPAPH_01242	CDS		1.-.-.-	putative oxidoreductase
+KOHBPAPH_01242	gene			
+KOHBPAPH_01243	CDS			hypothetical protein
+KOHBPAPH_01243	gene			
+KOHBPAPH_01244	CDS	mutS		DNA mismatch repair protein MutS
+KOHBPAPH_01244	gene	mutS		
+KOHBPAPH_01245	CDS	thrS	6.1.1.3	Threonine--tRNA ligase
+KOHBPAPH_01245	gene	thrS		
+KOHBPAPH_01246	CDS	infC		Translation initiation factor IF-3
+KOHBPAPH_01246	gene	infC		
+KOHBPAPH_01247	CDS	rpmI		50S ribosomal protein L35
+KOHBPAPH_01247	gene	rpmI		
+KOHBPAPH_01248	CDS	rplT		50S ribosomal protein L20
+KOHBPAPH_01248	gene	rplT		
+KOHBPAPH_01249	CDS	pheS	6.1.1.20	Phenylalanine--tRNA ligase alpha subunit
+KOHBPAPH_01249	gene	pheS		
+KOHBPAPH_01250	CDS			hypothetical protein
+KOHBPAPH_01250	gene			
+KOHBPAPH_01251	CDS	uvrC		UvrABC system protein C
+KOHBPAPH_01251	gene	uvrC		
+KOHBPAPH_01252	CDS	susC_3		TonB-dependent receptor SusC
+KOHBPAPH_01252	gene	susC_3		
+KOHBPAPH_01253	CDS			hypothetical protein
+KOHBPAPH_01253	gene			
+KOHBPAPH_01254	CDS	fmdA	3.5.1.49	Formamidase
+KOHBPAPH_01254	gene	fmdA		
+KOHBPAPH_01255	CDS	cysM	2.5.1.47	Cysteine synthase
+KOHBPAPH_01255	gene	cysM		
+KOHBPAPH_01256	CDS	fabG_3	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+KOHBPAPH_01256	gene	fabG_3		
+KOHBPAPH_01257	CDS	nfr2	1.5.1.36	NADH-dependent flavin reductase subunit 2
+KOHBPAPH_01257	gene	nfr2		
+KOHBPAPH_01258	CDS			hypothetical protein
+KOHBPAPH_01258	gene			
+KOHBPAPH_01259	CDS		3.4.24.-	putative zinc protease
+KOHBPAPH_01259	gene			
+KOHBPAPH_01260	CDS			hypothetical protein
+KOHBPAPH_01260	gene			
+KOHBPAPH_01261	CDS			hypothetical protein
+KOHBPAPH_01261	gene			
+KOHBPAPH_01262	CDS			hypothetical protein
+KOHBPAPH_01262	gene			
+KOHBPAPH_01263	CDS	lysA	4.1.1.20	Diaminopimelate decarboxylase
+KOHBPAPH_01263	gene	lysA		
+KOHBPAPH_01264	CDS	ydhD	3.2.-.-	Putative sporulation-specific glycosylase YdhD
+KOHBPAPH_01264	gene	ydhD		
+KOHBPAPH_01265	CDS			hypothetical protein
+KOHBPAPH_01265	gene			
+KOHBPAPH_01266	CDS	dac	3.4.16.4	D-alanyl-D-alanine carboxypeptidase
+KOHBPAPH_01266	gene	dac		
+KOHBPAPH_01267	CDS	pqqB		Coenzyme PQQ synthesis protein B
+KOHBPAPH_01267	gene	pqqB		
+KOHBPAPH_01268	CDS	exo I	3.2.1.52	Beta-hexosaminidase
+KOHBPAPH_01268	gene	exo I		
+KOHBPAPH_01269	CDS	sglT_4		Sodium/glucose cotransporter
+KOHBPAPH_01269	gene	sglT_4		
+KOHBPAPH_01270	CDS			hypothetical protein
+KOHBPAPH_01270	gene			
+KOHBPAPH_01271	CDS	pbpE_2		Penicillin-binding protein 4*
+KOHBPAPH_01271	gene	pbpE_2		
+KOHBPAPH_01272	CDS	pgpH	3.1.4.-	Cyclic-di-AMP phosphodiesterase PgpH
+KOHBPAPH_01272	gene	pgpH		
+KOHBPAPH_01273	CDS	acdA	1.3.99.-	Acyl-CoA dehydrogenase
+KOHBPAPH_01273	gene	acdA		
+KOHBPAPH_01274	CDS			hypothetical protein
+KOHBPAPH_01274	gene			
+KOHBPAPH_01275	CDS	phoU		Phosphate-specific transport system accessory protein PhoU 
+KOHBPAPH_01275	gene	phoU		
+KOHBPAPH_01276	CDS	pstB3	3.6.3.27	Phosphate import ATP-binding protein PstB 3
+KOHBPAPH_01276	gene	pstB3		
+KOHBPAPH_01277	CDS	pstA		Phosphate transport system permease protein PstA
+KOHBPAPH_01277	gene	pstA		
+KOHBPAPH_01278	CDS	pstC1		Phosphate transport system permease protein PstC 1
+KOHBPAPH_01278	gene	pstC1		
+KOHBPAPH_01279	CDS	pstS		Phosphate-binding protein PstS
+KOHBPAPH_01279	gene	pstS		
+KOHBPAPH_01280	CDS			hypothetical protein
+KOHBPAPH_01280	gene			
+KOHBPAPH_01281	CDS	resE	2.7.13.3	Sensor histidine kinase ResE
+KOHBPAPH_01281	gene	resE		
+KOHBPAPH_01282	CDS	phoB		Phosphate regulon transcriptional regulatory protein PhoB
+KOHBPAPH_01282	gene	phoB		
+KOHBPAPH_01283	CDS			hypothetical protein
+KOHBPAPH_01283	gene			
+KOHBPAPH_01284	CDS			hypothetical protein
+KOHBPAPH_01284	gene			
+KOHBPAPH_01285	CDS			hypothetical protein
+KOHBPAPH_01285	gene			
+KOHBPAPH_01286	CDS		3.5.1.93	Glutaryl-7-aminocephalosporanic-acid acylase
+KOHBPAPH_01286	gene			
+KOHBPAPH_01287	CDS			hypothetical protein
+KOHBPAPH_01287	gene			
+KOHBPAPH_01288	CDS	crp_2		CRP-like cAMP-activated global transcriptional regulator
+KOHBPAPH_01288	gene	crp_2		
+KOHBPAPH_01289	CDS			hypothetical protein
+KOHBPAPH_01289	gene			
+KOHBPAPH_01290	CDS			hypothetical protein
+KOHBPAPH_01290	gene			
+KOHBPAPH_01291	CDS			hypothetical protein
+KOHBPAPH_01291	gene			
+KOHBPAPH_01292	CDS	efp		Elongation factor P
+KOHBPAPH_01292	gene	efp		
+KOHBPAPH_01293	CDS	accB		Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+KOHBPAPH_01293	gene	accB		
+KOHBPAPH_01294	CDS	accC	6.3.4.14	Biotin carboxylase
+KOHBPAPH_01294	gene	accC		
+KOHBPAPH_01295	CDS	gcvH		Glycine cleavage system H protein
+KOHBPAPH_01295	gene	gcvH		
+KOHBPAPH_01296	CDS	gmhA	5.3.1.28	Phosphoheptose isomerase
+KOHBPAPH_01296	gene	gmhA		
+KOHBPAPH_01297	CDS	xerD_2		Tyrosine recombinase XerD
+KOHBPAPH_01297	gene	xerD_2		
+KOHBPAPH_01298	CDS			hypothetical protein
+KOHBPAPH_01298	gene			
+KOHBPAPH_01299	CDS			hypothetical protein
+KOHBPAPH_01299	gene			
+KOHBPAPH_01300	CDS		2.1.2.5	Glutamate formimidoyltransferase
+KOHBPAPH_01300	gene			
+KOHBPAPH_01301	CDS			hypothetical protein
+KOHBPAPH_01301	gene			
+KOHBPAPH_01302	CDS			hypothetical protein
+KOHBPAPH_01302	gene			
+KOHBPAPH_01303	CDS	lapB_2		Lipopolysaccharide assembly protein B
+KOHBPAPH_01303	gene	lapB_2		
+KOHBPAPH_01304	CDS	narI	1.7.99.4	Respiratory nitrate reductase 1 gamma chain
+KOHBPAPH_01304	gene	narI		
+KOHBPAPH_01305	CDS	nasA		Nitrate transporter
+KOHBPAPH_01305	gene	nasA		
+KOHBPAPH_01306	CDS	narU		Nitrate/nitrite transporter NarU
+KOHBPAPH_01306	gene	narU		
+KOHBPAPH_01307	CDS	ytfE		Iron-sulfur cluster repair protein YtfE
+KOHBPAPH_01307	gene	ytfE		
+KOHBPAPH_01308	CDS	rbsR		Ribose operon repressor
+KOHBPAPH_01308	gene	rbsR		
+KOHBPAPH_01309	CDS		3.2.1.21	Beta-glucosidase BoGH3B
+KOHBPAPH_01309	gene			
+KOHBPAPH_01310	CDS		3.2.1.73	Beta-glucanase
+KOHBPAPH_01310	gene			
+KOHBPAPH_01311	CDS			hypothetical protein
+KOHBPAPH_01311	gene			
+KOHBPAPH_01312	CDS			hypothetical protein
+KOHBPAPH_01312	gene			
+KOHBPAPH_01313	CDS			hypothetical protein
+KOHBPAPH_01313	gene			
+KOHBPAPH_01314	CDS			hypothetical protein
+KOHBPAPH_01314	gene			
+KOHBPAPH_01315	CDS			hypothetical protein
+KOHBPAPH_01315	gene			
+KOHBPAPH_01316	CDS	rpe	5.1.3.1	Ribulose-phosphate 3-epimerase
+KOHBPAPH_01316	gene	rpe		
+KOHBPAPH_01317	CDS	tkt_2	2.2.1.1	Transketolase
+KOHBPAPH_01317	gene	tkt_2		
+KOHBPAPH_01318	CDS	tolB_3		Protein TolB
+KOHBPAPH_01318	gene	tolB_3		
+KOHBPAPH_01319	CDS	pyrG	6.3.4.2	CTP synthase
+KOHBPAPH_01319	gene	pyrG		
+KOHBPAPH_01320	CDS	kdsB	2.7.7.90	8-amino-3,8-dideoxy-manno-octulosonate cytidylyltransferase
+KOHBPAPH_01320	gene	kdsB		
+KOHBPAPH_01321	CDS	macB_1	3.6.3.-	Macrolide export ATP-binding/permease protein MacB
+KOHBPAPH_01321	gene	macB_1		
+KOHBPAPH_01322	CDS	macB_2	3.6.3.-	Macrolide export ATP-binding/permease protein MacB
+KOHBPAPH_01322	gene	macB_2		
+KOHBPAPH_01323	CDS	yknY	3.6.3.-	putative ABC transporter ATP-binding protein YknY
+KOHBPAPH_01323	gene	yknY		
+KOHBPAPH_01324	CDS	macA		Macrolide export protein MacA
+KOHBPAPH_01324	gene	macA		
+KOHBPAPH_01325	CDS	oprM		Outer membrane protein OprM
+KOHBPAPH_01325	gene	oprM		
+KOHBPAPH_01326	CDS			hypothetical protein
+KOHBPAPH_01326	gene			
+KOHBPAPH_01327	CDS	eptA	2.7.-.-	Phosphoethanolamine transferase EptA
+KOHBPAPH_01327	gene	eptA		
+KOHBPAPH_01328	CDS	uvrB		UvrABC system protein B
+KOHBPAPH_01328	gene	uvrB		
+KOHBPAPH_01329	CDS	zraR_2		Transcriptional regulatory protein ZraR
+KOHBPAPH_01329	gene	zraR_2		
+KOHBPAPH_01330	CDS			hypothetical protein
+KOHBPAPH_01330	gene			
+KOHBPAPH_01331	CDS	asnS	6.1.1.22	Asparagine--tRNA ligase
+KOHBPAPH_01331	gene	asnS		
+KOHBPAPH_01332	CDS			hypothetical protein
+KOHBPAPH_01332	gene			
+KOHBPAPH_01333	CDS	acyP	3.6.1.7	Acylphosphatase
+KOHBPAPH_01333	gene	acyP		
+KOHBPAPH_01334	CDS	nadE	6.3.5.1	Glutamine-dependent NAD(+) synthetase
+KOHBPAPH_01334	gene	nadE		
+KOHBPAPH_01335	CDS			hypothetical protein
+KOHBPAPH_01335	gene			
+KOHBPAPH_01336	CDS			hypothetical protein
+KOHBPAPH_01336	gene			
+KOHBPAPH_01337	CDS			hypothetical protein
+KOHBPAPH_01337	gene			
+KOHBPAPH_01338	CDS	deoA	2.4.2.4	Thymidine phosphorylase
+KOHBPAPH_01338	gene	deoA		
+KOHBPAPH_01339	CDS	rlmCD	2.1.1.189	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+KOHBPAPH_01339	gene	rlmCD		
+KOHBPAPH_01340	CDS			hypothetical protein
+KOHBPAPH_01340	gene			
+KOHBPAPH_01341	CDS			hypothetical protein
+KOHBPAPH_01341	gene			
+KOHBPAPH_01342	CDS	tilS	6.3.4.19	tRNA(Ile)-lysidine synthase
+KOHBPAPH_01342	gene	tilS		
+KOHBPAPH_01343	CDS	hpt	2.4.2.8	Hypoxanthine phosphoribosyltransferase
+KOHBPAPH_01343	gene	hpt		
+KOHBPAPH_01344	CDS	ftsH	3.4.24.-	ATP-dependent zinc metalloprotease FtsH
+KOHBPAPH_01344	gene	ftsH		
+KOHBPAPH_01345	CDS	folP	2.5.1.15	Dihydropteroate synthase
+KOHBPAPH_01345	gene	folP		
+KOHBPAPH_01346	CDS			hypothetical protein
+KOHBPAPH_01346	gene			
+KOHBPAPH_01347	CDS			hypothetical protein
+KOHBPAPH_01347	gene			
+KOHBPAPH_01348	CDS	dag	3.5.1.82	N-acyl-D-glutamate deacylase
+KOHBPAPH_01348	gene	dag		
+KOHBPAPH_01349	CDS	cutC		Copper homeostasis protein CutC
+KOHBPAPH_01349	gene	cutC		
+KOHBPAPH_01350	CDS	metG	6.1.1.10	Methionine--tRNA ligase
+KOHBPAPH_01350	gene	metG		
+KOHBPAPH_01351	CDS	dnaX_2	2.7.7.7	DNA polymerase III subunit tau
+KOHBPAPH_01351	gene	dnaX_2		
+KOHBPAPH_01352	CDS	nlpD		Murein hydrolase activator NlpD
+KOHBPAPH_01352	gene	nlpD		
+KOHBPAPH_01353	CDS	carA	6.3.5.5	Carbamoyl-phosphate synthase small chain
+KOHBPAPH_01353	gene	carA		
+KOHBPAPH_01354	CDS	drrA	3.6.3.-	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+KOHBPAPH_01354	gene	drrA		
+KOHBPAPH_01355	CDS			hypothetical protein
+KOHBPAPH_01355	gene			
+KOHBPAPH_01356	CDS			hypothetical protein
+KOHBPAPH_01356	gene			
+KOHBPAPH_01357	CDS	carB	6.3.5.5	Carbamoyl-phosphate synthase large chain
+KOHBPAPH_01357	gene	carB		
+KOHBPAPH_01358	CDS	menA	2.5.1.74	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+KOHBPAPH_01358	gene	menA		
+KOHBPAPH_01359	CDS			hypothetical protein
+KOHBPAPH_01359	gene			
+KOHBPAPH_01360	CDS	susC_4		TonB-dependent receptor SusC
+KOHBPAPH_01360	gene	susC_4		
+KOHBPAPH_01361	CDS			hypothetical protein
+KOHBPAPH_01361	gene			
+KOHBPAPH_01362	CDS			hypothetical protein
+KOHBPAPH_01362	gene			
+KOHBPAPH_01363	CDS			hypothetical protein
+KOHBPAPH_01363	gene			
+KOHBPAPH_01364	CDS	bglA_1	3.2.1.73	Beta-glucanase
+KOHBPAPH_01364	gene	bglA_1		
+KOHBPAPH_01365	CDS			hypothetical protein
+KOHBPAPH_01365	gene			
+KOHBPAPH_01366	CDS	tusA	2.8.1.-	Sulfurtransferase TusA
+KOHBPAPH_01366	gene	tusA		
+KOHBPAPH_01367	CDS	bigR		Biofilm growth-associated repressor
+KOHBPAPH_01367	gene	bigR		
+KOHBPAPH_01368	CDS	mobA	2.7.7.77	putative molybdenum cofactor guanylyltransferase
+KOHBPAPH_01368	gene	mobA		
+KOHBPAPH_01369	CDS	sufS_2	2.8.1.7	Cysteine desulfurase SufS
+KOHBPAPH_01369	gene	sufS_2		
+KOHBPAPH_01370	CDS			hypothetical protein
+KOHBPAPH_01370	gene			
+KOHBPAPH_01371	CDS			hypothetical protein
+KOHBPAPH_01371	gene			
+KOHBPAPH_01372	CDS		3.2.1.73	Beta-glucanase
+KOHBPAPH_01372	gene			
+KOHBPAPH_01373	CDS	bglA_2	3.2.1.73	Beta-glucanase
+KOHBPAPH_01373	gene	bglA_2		
+KOHBPAPH_01374	CDS		3.2.1.4	Endoglucanase C307
+KOHBPAPH_01374	gene			
+KOHBPAPH_01375	CDS	celZ	3.2.1.4	Endoglucanase Z
+KOHBPAPH_01375	gene	celZ		
+KOHBPAPH_01376	CDS			hypothetical protein
+KOHBPAPH_01376	gene			
+KOHBPAPH_01377	CDS			hypothetical protein
+KOHBPAPH_01377	gene			
+KOHBPAPH_01378	CDS			hypothetical protein
+KOHBPAPH_01378	gene			
+KOHBPAPH_01379	tRNA			tRNA-Ser(cga)
+KOHBPAPH_01379	gene			
+KOHBPAPH_01380	CDS	tadA_2	3.5.4.33	tRNA-specific adenosine deaminase
+KOHBPAPH_01380	gene	tadA_2		
+KOHBPAPH_01381	CDS	trkH		Trk system potassium uptake protein TrkH
+KOHBPAPH_01381	gene	trkH		
+KOHBPAPH_01382	CDS	trkA		Trk system potassium uptake protein TrkA
+KOHBPAPH_01382	gene	trkA		
+KOHBPAPH_01383	CDS	murA	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+KOHBPAPH_01383	gene	murA		
+KOHBPAPH_01384	CDS	recN		DNA repair protein RecN
+KOHBPAPH_01384	gene	recN		
+KOHBPAPH_01385	CDS			hypothetical protein
+KOHBPAPH_01385	gene			
+KOHBPAPH_01386	CDS	nnr		Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+KOHBPAPH_01386	gene	nnr		
+KOHBPAPH_01387	CDS	acpS	2.7.8.7	Holo-[acyl-carrier-protein] synthase
+KOHBPAPH_01387	gene	acpS		
+KOHBPAPH_01388	CDS	gph	3.1.3.18	Phosphoglycolate phosphatase
+KOHBPAPH_01388	gene	gph		
+KOHBPAPH_01389	CDS	lapB_3		Lipopolysaccharide assembly protein B
+KOHBPAPH_01389	gene	lapB_3		
+KOHBPAPH_01390	tRNA			tRNA-Leu(gag)
+KOHBPAPH_01390	gene			
+KOHBPAPH_01391	CDS			hypothetical protein
+KOHBPAPH_01391	gene			
+KOHBPAPH_01392	CDS	pgk/tpi_1		Bifunctional PGK/TIM
+KOHBPAPH_01392	gene	pgk/tpi_1		
+KOHBPAPH_01393	CDS	pgk/tpi_2		Bifunctional PGK/TIM
+KOHBPAPH_01393	gene	pgk/tpi_2		
+KOHBPAPH_01394	CDS			hypothetical protein
+KOHBPAPH_01394	gene			
+KOHBPAPH_01395	CDS			hypothetical protein
+KOHBPAPH_01395	gene			
+KOHBPAPH_01396	CDS	rnt	3.1.13.-	Ribonuclease T
+KOHBPAPH_01396	gene	rnt		
+KOHBPAPH_01397	CDS		2.7.7.53	AP-4-A phosphorylase
+KOHBPAPH_01397	gene			
+KOHBPAPH_01398	CDS			hypothetical protein
+KOHBPAPH_01398	gene			
+KOHBPAPH_01399	CDS	plsX_2	2.3.1.-	Phosphate acyltransferase
+KOHBPAPH_01399	gene	plsX_2		
+KOHBPAPH_01400	CDS			hypothetical protein
+KOHBPAPH_01400	gene			
+KOHBPAPH_01401	CDS			hypothetical protein
+KOHBPAPH_01401	gene			
+KOHBPAPH_01402	CDS			hypothetical protein
+KOHBPAPH_01402	gene			
+KOHBPAPH_01403	CDS	sdcS_3		Sodium-dependent dicarboxylate transporter SdcS
+KOHBPAPH_01403	gene	sdcS_3		
+KOHBPAPH_01404	CDS	mutM	3.2.2.23	Formamidopyrimidine-DNA glycosylase
+KOHBPAPH_01404	gene	mutM		
+KOHBPAPH_01405	CDS			hypothetical protein
+KOHBPAPH_01405	gene			
+KOHBPAPH_01406	CDS			hypothetical protein
+KOHBPAPH_01406	gene			
+KOHBPAPH_01407	CDS	csd_2	2.8.1.7	putative cysteine desulfurase
+KOHBPAPH_01407	gene	csd_2		
+KOHBPAPH_01408	CDS			hypothetical protein
+KOHBPAPH_01408	gene			
+KOHBPAPH_01409	CDS			hypothetical protein
+KOHBPAPH_01409	gene			
+KOHBPAPH_01410	CDS			hypothetical protein
+KOHBPAPH_01410	gene			
+KOHBPAPH_01411	CDS	petC_2	1.10.9.1	Cytochrome b6-f complex iron-sulfur subunit
+KOHBPAPH_01411	gene	petC_2		
+KOHBPAPH_01412	CDS			hypothetical protein
+KOHBPAPH_01412	gene			
+KOHBPAPH_01413	CDS			hypothetical protein
+KOHBPAPH_01413	gene			
+KOHBPAPH_01414	CDS	soxA	1.5.3.1	Monomeric sarcosine oxidase
+KOHBPAPH_01414	gene	soxA		
+KOHBPAPH_01415	CDS			hypothetical protein
+KOHBPAPH_01415	gene			
+KOHBPAPH_01416	CDS			hypothetical protein
+KOHBPAPH_01416	gene			
+KOHBPAPH_01417	CDS			hypothetical protein
+KOHBPAPH_01417	gene			
+KOHBPAPH_01418	CDS	typA		GTP-binding protein TypA/BipA
+KOHBPAPH_01418	gene	typA		
+KOHBPAPH_01419	CDS	atsA_4	3.1.6.1	Arylsulfatase
+KOHBPAPH_01419	gene	atsA_4		
+KOHBPAPH_01420	CDS	atsA_5	3.1.6.1	Arylsulfatase
+KOHBPAPH_01420	gene	atsA_5		
+KOHBPAPH_01421	CDS			hypothetical protein
+KOHBPAPH_01421	gene			
+KOHBPAPH_01422	CDS			hypothetical protein
+KOHBPAPH_01422	gene			
+KOHBPAPH_01423	CDS			hypothetical protein
+KOHBPAPH_01423	gene			
+KOHBPAPH_01424	CDS	carQ		RNA polymerase sigma factor CarQ
+KOHBPAPH_01424	gene	carQ		
+KOHBPAPH_01425	CDS			hypothetical protein
+KOHBPAPH_01425	gene			
+KOHBPAPH_01426	CDS			hypothetical protein
+KOHBPAPH_01426	gene			
+KOHBPAPH_01427	CDS	serC	2.6.1.52	Phosphoserine aminotransferase
+KOHBPAPH_01427	gene	serC		
+KOHBPAPH_01428	CDS			hypothetical protein
+KOHBPAPH_01428	gene			
+KOHBPAPH_01429	CDS	msrAB		Peptide methionine sulfoxide reductase MsrA/MsrB
+KOHBPAPH_01429	gene	msrAB		
+KOHBPAPH_01430	CDS	pntB	1.6.1.2	NAD(P) transhydrogenase subunit beta
+KOHBPAPH_01430	gene	pntB		
+KOHBPAPH_01431	CDS	pntA	1.6.1.2	NAD(P) transhydrogenase subunit alpha
+KOHBPAPH_01431	gene	pntA		
+KOHBPAPH_01432	CDS	pntAA	1.6.1.2	NAD(P) transhydrogenase subunit alpha part 1
+KOHBPAPH_01432	gene	pntAA		
+KOHBPAPH_01433	CDS			hypothetical protein
+KOHBPAPH_01433	gene			
+KOHBPAPH_01434	CDS	mscS_2		Small-conductance mechanosensitive channel
+KOHBPAPH_01434	gene	mscS_2		
+KOHBPAPH_01435	CDS			hypothetical protein
+KOHBPAPH_01435	gene			
+KOHBPAPH_01436	CDS	steT		Serine/threonine exchanger SteT
+KOHBPAPH_01436	gene	steT		
+KOHBPAPH_01437	CDS			hypothetical protein
+KOHBPAPH_01437	gene			
+KOHBPAPH_01438	CDS			hypothetical protein
+KOHBPAPH_01438	gene			
+KOHBPAPH_01439	CDS	uppS	2.5.1.31	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+KOHBPAPH_01439	gene	uppS		

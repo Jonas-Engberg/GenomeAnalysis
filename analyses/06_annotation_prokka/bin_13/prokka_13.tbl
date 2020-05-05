@@ -1,0 +1,5946 @@
+>Feature k105_1215
+20	172	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00001
+			product	hypothetical protein
+20	172	gene
+			locus_tag	OIGPGILK_00001
+1610	165	CDS
+			EC_number	3.1.6.1
+			gene	atsA_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9X759
+			locus_tag	OIGPGILK_00002
+			product	Arylsulfatase
+1610	165	gene
+			gene	atsA_1
+			locus_tag	OIGPGILK_00002
+1724	2158	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00003
+			product	hypothetical protein
+1724	2158	gene
+			locus_tag	OIGPGILK_00003
+>Feature k105_1651
+415	1392	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00004
+			product	hypothetical protein
+415	1392	gene
+			locus_tag	OIGPGILK_00004
+1512	2132	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00005
+			product	hypothetical protein
+1512	2132	gene
+			locus_tag	OIGPGILK_00005
+2193	3143	CDS
+			gene	sdpB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O34616
+			locus_tag	OIGPGILK_00006
+			product	Sporulation-delaying protein SdpB
+2193	3143	gene
+			gene	sdpB
+			locus_tag	OIGPGILK_00006
+3688	3212	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00007
+			product	hypothetical protein
+3688	3212	gene
+			locus_tag	OIGPGILK_00007
+>Feature k105_4110
+45	1184	CDS
+			EC_number	5.1.1.21
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:M1GRN3
+			locus_tag	OIGPGILK_00008
+			product	Isoleucine 2-epimerase
+45	1184	gene
+			locus_tag	OIGPGILK_00008
+1557	1195	CDS
+			EC_number	1.7.1.13
+			gene	queF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q5L1B7
+			locus_tag	OIGPGILK_00009
+			product	NADPH-dependent 7-cyano-7-deazaguanine reductase
+1557	1195	gene
+			gene	queF
+			locus_tag	OIGPGILK_00009
+1670	2356	CDS
+			EC_number	4.3.99.3
+			gene	queE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O31677
+			locus_tag	OIGPGILK_00010
+			product	7-carboxy-7-deazaguanine synthase
+1670	2356	gene
+			gene	queE
+			locus_tag	OIGPGILK_00010
+2595	2353	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00011
+			product	hypothetical protein
+2595	2353	gene
+			locus_tag	OIGPGILK_00011
+>Feature k105_6643
+12	470	CDS
+			EC_number	3.5.1.94
+			gene	puuD_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P76038
+			locus_tag	OIGPGILK_00012
+			product	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD
+12	470	gene
+			gene	puuD_1
+			locus_tag	OIGPGILK_00012
+2051	561	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00013
+			product	hypothetical protein
+2051	561	gene
+			locus_tag	OIGPGILK_00013
+2606	2061	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00014
+			product	hypothetical protein
+2606	2061	gene
+			locus_tag	OIGPGILK_00014
+>Feature k105_6866
+3	671	CDS
+			gene	fhaA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P71590
+			locus_tag	OIGPGILK_00015
+			product	FHA domain-containing protein FhaA
+3	671	gene
+			gene	fhaA
+			locus_tag	OIGPGILK_00015
+2842	2369	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00016
+			product	hypothetical protein
+2842	2369	gene
+			locus_tag	OIGPGILK_00016
+>Feature k105_8030
+847	2931	CDS
+			EC_number	3.4.21.102
+			gene	prc
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P23865
+			locus_tag	OIGPGILK_00017
+			product	Tail-specific protease
+847	2931	gene
+			gene	prc
+			locus_tag	OIGPGILK_00017
+3190	2963	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00018
+			product	hypothetical protein
+3190	2963	gene
+			locus_tag	OIGPGILK_00018
+>Feature k105_10878
+3246	2578	CDS
+			EC_number	3.6.3.-
+			gene	lolD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P75957
+			locus_tag	OIGPGILK_00019
+			product	Lipoprotein-releasing system ATP-binding protein LolD
+3246	2578	gene
+			gene	lolD
+			locus_tag	OIGPGILK_00019
+4030	3269	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00020
+			product	hypothetical protein
+4030	3269	gene
+			locus_tag	OIGPGILK_00020
+>Feature k105_12321
+201	422	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00021
+			product	hypothetical protein
+201	422	gene
+			locus_tag	OIGPGILK_00021
+1479	424	CDS
+			EC_number	2.7.11.1
+			gene	pknD_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WI78
+			locus_tag	OIGPGILK_00022
+			product	Serine/threonine-protein kinase PknD
+1479	424	gene
+			gene	pknD_1
+			locus_tag	OIGPGILK_00022
+2538	1534	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00023
+			product	hypothetical protein
+2538	1534	gene
+			locus_tag	OIGPGILK_00023
+>Feature k105_12720
+686	324	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00024
+			product	hypothetical protein
+686	324	gene
+			locus_tag	OIGPGILK_00024
+2821	734	CDS
+			gene	pbpE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P32959
+			locus_tag	OIGPGILK_00025
+			product	Penicillin-binding protein 4*
+2821	734	gene
+			gene	pbpE
+			locus_tag	OIGPGILK_00025
+3035	4015	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00026
+			product	hypothetical protein
+3035	4015	gene
+			locus_tag	OIGPGILK_00026
+>Feature k105_16214
+539	1090	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00027
+			product	hypothetical protein
+539	1090	gene
+			locus_tag	OIGPGILK_00027
+1546	1917	CDS
+			gene	crcB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P37002
+			locus_tag	OIGPGILK_00028
+			product	Putative fluoride ion transporter CrcB
+1546	1917	gene
+			gene	crcB
+			locus_tag	OIGPGILK_00028
+3301	1955	CDS
+			gene	uvrA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P63383
+			locus_tag	OIGPGILK_00029
+			product	UvrABC system protein A
+3301	1955	gene
+			gene	uvrA
+			locus_tag	OIGPGILK_00029
+>Feature k105_17156
+96	1622	CDS
+			gene	bamB_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00923
+			locus_tag	OIGPGILK_00030
+			product	Outer membrane protein assembly factor BamB
+96	1622	gene
+			gene	bamB_1
+			locus_tag	OIGPGILK_00030
+3207	1660	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00031
+			product	hypothetical protein
+3207	1660	gene
+			locus_tag	OIGPGILK_00031
+>Feature k105_17574
+447	629	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00032
+			product	hypothetical protein
+447	629	gene
+			locus_tag	OIGPGILK_00032
+2473	1436	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00033
+			product	hypothetical protein
+2473	1436	gene
+			locus_tag	OIGPGILK_00033
+3355	2753	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00034
+			product	hypothetical protein
+3355	2753	gene
+			locus_tag	OIGPGILK_00034
+>Feature k105_18128
+>Feature k105_19004
+1010	1489	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00035
+			product	hypothetical protein
+1010	1489	gene
+			locus_tag	OIGPGILK_00035
+2433	1531	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00036
+			product	hypothetical protein
+2433	1531	gene
+			locus_tag	OIGPGILK_00036
+>Feature k105_19091
+858	1301	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00037
+			product	hypothetical protein
+858	1301	gene
+			locus_tag	OIGPGILK_00037
+2836	1895	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00038
+			product	hypothetical protein
+2836	1895	gene
+			locus_tag	OIGPGILK_00038
+>Feature k105_19519
+1377	247	CDS
+			EC_number	3.4.11.4
+			gene	pepT_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P29745
+			locus_tag	OIGPGILK_00039
+			product	Peptidase T
+1377	247	gene
+			gene	pepT_1
+			locus_tag	OIGPGILK_00039
+1478	3163	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00040
+			product	hypothetical protein
+1478	3163	gene
+			locus_tag	OIGPGILK_00040
+>Feature k105_19716
+2296	1904	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00041
+			product	hypothetical protein
+2296	1904	gene
+			locus_tag	OIGPGILK_00041
+2879	2310	CDS
+			EC_number	2.3.1.209
+			gene	vioB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9XCW3
+			locus_tag	OIGPGILK_00042
+			product	dTDP-4-amino-4,6-dideoxy-D-glucose acyltransferase
+2879	2310	gene
+			gene	vioB
+			locus_tag	OIGPGILK_00042
+3204	2947	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00043
+			product	hypothetical protein
+3204	2947	gene
+			locus_tag	OIGPGILK_00043
+>Feature k105_19809
+2353	1184	CDS
+			EC_number	2.7.11.1
+			gene	pkn1_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O84147
+			locus_tag	OIGPGILK_00044
+			product	Serine/threonine-protein kinase pkn1
+2353	1184	gene
+			gene	pkn1_1
+			locus_tag	OIGPGILK_00044
+>Feature k105_21001
+36	602	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00045
+			product	hypothetical protein
+36	602	gene
+			locus_tag	OIGPGILK_00045
+2094	610	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00046
+			product	hypothetical protein
+2094	610	gene
+			locus_tag	OIGPGILK_00046
+5038	2123	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00047
+			product	hypothetical protein
+5038	2123	gene
+			locus_tag	OIGPGILK_00047
+>Feature k105_21484
+32	1030	CDS
+			EC_number	6.3.2.4
+			gene	ddl
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:B2I1J3
+			locus_tag	OIGPGILK_00048
+			product	D-alanine--D-alanine ligase
+32	1030	gene
+			gene	ddl
+			locus_tag	OIGPGILK_00048
+2319	1027	CDS
+			gene	pqqE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00660
+			locus_tag	OIGPGILK_00049
+			product	Coenzyme PQQ synthesis protein E
+2319	1027	gene
+			gene	pqqE
+			locus_tag	OIGPGILK_00049
+>Feature k105_22098
+453	64	CDS
+			EC_number	2.4.-.-
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q55487
+			locus_tag	OIGPGILK_00050
+			product	putative glycosyltransferase
+453	64	gene
+			locus_tag	OIGPGILK_00050
+817	1215	CDS
+			EC_number	3.5.4.19
+			gene	hisI
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WMM7
+			locus_tag	OIGPGILK_00051
+			product	Phosphoribosyl-AMP cyclohydrolase
+817	1215	gene
+			gene	hisI
+			locus_tag	OIGPGILK_00051
+1339	1800	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00052
+			product	hypothetical protein
+1339	1800	gene
+			locus_tag	OIGPGILK_00052
+2724	1840	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00053
+			product	hypothetical protein
+2724	1840	gene
+			locus_tag	OIGPGILK_00053
+>Feature k105_29320
+1620	292	CDS
+			EC_number	3.6.1.41
+			gene	apaH
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00199
+			locus_tag	OIGPGILK_00054
+			product	Bis(5'-nucleosyl)-tetraphosphatase, symmetrical
+1620	292	gene
+			gene	apaH
+			locus_tag	OIGPGILK_00054
+>Feature k105_30406
+142	564	CDS
+			gene	hspA_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q06823
+			locus_tag	OIGPGILK_00055
+			product	Spore protein SP21
+142	564	gene
+			gene	hspA_1
+			locus_tag	OIGPGILK_00055
+620	1027	CDS
+			gene	hspA_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q06823
+			locus_tag	OIGPGILK_00056
+			product	Spore protein SP21
+620	1027	gene
+			gene	hspA_2
+			locus_tag	OIGPGILK_00056
+1262	1987	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00057
+			product	hypothetical protein
+1262	1987	gene
+			locus_tag	OIGPGILK_00057
+2009	2584	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00058
+			product	hypothetical protein
+2009	2584	gene
+			locus_tag	OIGPGILK_00058
+>Feature k105_32254
+5	1756	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00059
+			product	hypothetical protein
+5	1756	gene
+			locus_tag	OIGPGILK_00059
+>Feature k105_34154
+1537	428	CDS
+			EC_number	3.4.24.-
+			gene	ftsH_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P71408
+			locus_tag	OIGPGILK_00060
+			product	ATP-dependent zinc metalloprotease FtsH
+1537	428	gene
+			gene	ftsH_1
+			locus_tag	OIGPGILK_00060
+2139	1537	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00061
+			product	hypothetical protein
+2139	1537	gene
+			locus_tag	OIGPGILK_00061
+>Feature k105_34251
+71	1141	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00062
+			product	hypothetical protein
+71	1141	gene
+			locus_tag	OIGPGILK_00062
+1160	2665	CDS
+			gene	yhdG
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O07576
+			locus_tag	OIGPGILK_00063
+			product	putative amino acid permease YhdG
+1160	2665	gene
+			gene	yhdG
+			locus_tag	OIGPGILK_00063
+2698	4074	CDS
+			EC_number	6.3.2.-
+			gene	ipuC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q936T0
+			locus_tag	OIGPGILK_00064
+			product	Glutamate--isopropylamine ligase
+2698	4074	gene
+			gene	ipuC
+			locus_tag	OIGPGILK_00064
+4074	4802	CDS
+			EC_number	3.5.1.94
+			gene	puuD_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P76038
+			locus_tag	OIGPGILK_00065
+			product	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD
+4074	4802	gene
+			gene	puuD_2
+			locus_tag	OIGPGILK_00065
+>Feature k105_35980
+577	377	CDS
+			gene	thiS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O32583
+			locus_tag	OIGPGILK_00066
+			product	Sulfur carrier protein ThiS
+577	377	gene
+			gene	thiS
+			locus_tag	OIGPGILK_00066
+1214	648	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00067
+			product	hypothetical protein
+1214	648	gene
+			locus_tag	OIGPGILK_00067
+1635	2750	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00068
+			product	hypothetical protein
+1635	2750	gene
+			locus_tag	OIGPGILK_00068
+3313	2747	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00069
+			product	hypothetical protein
+3313	2747	gene
+			locus_tag	OIGPGILK_00069
+4232	3366	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00070
+			product	hypothetical protein
+4232	3366	gene
+			locus_tag	OIGPGILK_00070
+4540	5172	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00071
+			product	hypothetical protein
+4540	5172	gene
+			locus_tag	OIGPGILK_00071
+5876	5208	CDS
+			EC_number	4.1.3.16
+			gene	proA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9AQI0
+			locus_tag	OIGPGILK_00072
+			product	4-hydroxy-4-methyl-2-oxoglutarate aldolase/4-carboxy-4-hydroxy-2-oxoadipate aldolase
+5876	5208	gene
+			gene	proA
+			locus_tag	OIGPGILK_00072
+6044	7564	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00073
+			product	hypothetical protein
+6044	7564	gene
+			locus_tag	OIGPGILK_00073
+>Feature k105_37756
+31	846	CDS
+			EC_number	4.2.3.4
+			gene	aroB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9KNV2
+			locus_tag	OIGPGILK_00074
+			product	3-dehydroquinate synthase
+31	846	gene
+			gene	aroB
+			locus_tag	OIGPGILK_00074
+1004	843	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00075
+			product	hypothetical protein
+1004	843	gene
+			locus_tag	OIGPGILK_00075
+1283	4003	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00076
+			product	hypothetical protein
+1283	4003	gene
+			locus_tag	OIGPGILK_00076
+4358	4008	CDS
+			EC_number	3.5.2.-
+			gene	hyuA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q46806
+			locus_tag	OIGPGILK_00077
+			product	D-phenylhydantoinase
+4358	4008	gene
+			gene	hyuA
+			locus_tag	OIGPGILK_00077
+>Feature k105_39146
+24	587	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00078
+			product	hypothetical protein
+24	587	gene
+			locus_tag	OIGPGILK_00078
+644	1906	CDS
+			gene	bamB_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00923
+			locus_tag	OIGPGILK_00079
+			product	Outer membrane protein assembly factor BamB
+644	1906	gene
+			gene	bamB_2
+			locus_tag	OIGPGILK_00079
+2818	1898	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00080
+			product	hypothetical protein
+2818	1898	gene
+			locus_tag	OIGPGILK_00080
+>Feature k105_40584
+1193	555	CDS
+			gene	sigW
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q45585
+			locus_tag	OIGPGILK_00081
+			product	ECF RNA polymerase sigma factor SigW
+1193	555	gene
+			gene	sigW
+			locus_tag	OIGPGILK_00081
+1361	2980	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00082
+			product	hypothetical protein
+1361	2980	gene
+			locus_tag	OIGPGILK_00082
+2996	3658	CDS
+			EC_number	2.1.1.315
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:G0FUS0
+			locus_tag	OIGPGILK_00083
+			product	27-O-demethylrifamycin SV methyltransferase
+2996	3658	gene
+			locus_tag	OIGPGILK_00083
+3677	4471	CDS
+			EC_number	2.1.1.45
+			gene	thyA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P67042
+			locus_tag	OIGPGILK_00084
+			product	Thymidylate synthase
+3677	4471	gene
+			gene	thyA
+			locus_tag	OIGPGILK_00084
+4520	5014	CDS
+			EC_number	1.5.1.3
+			gene	dhfrIII
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P12833
+			locus_tag	OIGPGILK_00085
+			product	Dihydrofolate reductase type 3
+4520	5014	gene
+			gene	dhfrIII
+			locus_tag	OIGPGILK_00085
+6003	5035	CDS
+			EC_number	6.3.1.-
+			gene	epmA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9ZJ12
+			locus_tag	OIGPGILK_00086
+			product	Elongation factor P--(R)-beta-lysine ligase
+6003	5035	gene
+			gene	epmA
+			locus_tag	OIGPGILK_00086
+>Feature k105_40650
+2366	1470	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00087
+			product	hypothetical protein
+2366	1470	gene
+			locus_tag	OIGPGILK_00087
+2601	2395	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00088
+			product	hypothetical protein
+2601	2395	gene
+			locus_tag	OIGPGILK_00088
+>Feature k105_41496
+10	585	CDS
+			EC_number	3.4.-.-
+			gene	bepA_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00997
+			locus_tag	OIGPGILK_00089
+			product	Beta-barrel assembly-enhancing protease
+10	585	gene
+			gene	bepA_1
+			locus_tag	OIGPGILK_00089
+578	1678	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00090
+			product	hypothetical protein
+578	1678	gene
+			locus_tag	OIGPGILK_00090
+1729	2421	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00091
+			product	hypothetical protein
+1729	2421	gene
+			locus_tag	OIGPGILK_00091
+2479	3717	CDS
+			gene	bamB_3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00923
+			locus_tag	OIGPGILK_00092
+			product	Outer membrane protein assembly factor BamB
+2479	3717	gene
+			gene	bamB_3
+			locus_tag	OIGPGILK_00092
+4144	3719	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00093
+			product	hypothetical protein
+4144	3719	gene
+			locus_tag	OIGPGILK_00093
+4873	4172	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00094
+			product	hypothetical protein
+4873	4172	gene
+			locus_tag	OIGPGILK_00094
+5575	4892	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00095
+			product	hypothetical protein
+5575	4892	gene
+			locus_tag	OIGPGILK_00095
+5808	5605	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00096
+			product	hypothetical protein
+5808	5605	gene
+			locus_tag	OIGPGILK_00096
+>Feature k105_41990
+10	1218	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00097
+			product	hypothetical protein
+10	1218	gene
+			locus_tag	OIGPGILK_00097
+1234	3018	CDS
+			EC_number	2.7.2.4
+			gene	lysC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:A4VJB4
+			locus_tag	OIGPGILK_00098
+			product	Aspartate kinase Ask_LysC
+1234	3018	gene
+			gene	lysC
+			locus_tag	OIGPGILK_00098
+3424	3032	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00099
+			product	hypothetical protein
+3424	3032	gene
+			locus_tag	OIGPGILK_00099
+3790	3566	CDS
+			EC_number	6.1.1.9
+			gene	valS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q99TJ8
+			locus_tag	OIGPGILK_00100
+			product	Valine--tRNA ligase
+3790	3566	gene
+			gene	valS
+			locus_tag	OIGPGILK_00100
+>Feature k105_42459
+7	1023	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00101
+			product	hypothetical protein
+7	1023	gene
+			locus_tag	OIGPGILK_00101
+1053	2072	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00102
+			product	hypothetical protein
+1053	2072	gene
+			locus_tag	OIGPGILK_00102
+2398	2081	CDS
+			gene	csrA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O69078
+			locus_tag	OIGPGILK_00103
+			product	Carbon storage regulator 
+2398	2081	gene
+			gene	csrA
+			locus_tag	OIGPGILK_00103
+2695	2552	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00104
+			product	hypothetical protein
+2695	2552	gene
+			locus_tag	OIGPGILK_00104
+>Feature k105_42847
+2027	315	CDS
+			EC_number	3.1.6.6
+			gene	betC_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O69787
+			locus_tag	OIGPGILK_00105
+			product	Choline-sulfatase
+2027	315	gene
+			gene	betC_1
+			locus_tag	OIGPGILK_00105
+>Feature k105_43118
+1696	911	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00106
+			product	hypothetical protein
+1696	911	gene
+			locus_tag	OIGPGILK_00106
+2496	1726	CDS
+			EC_number	2.1.1.-
+			gene	ufaA1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O53732
+			locus_tag	OIGPGILK_00107
+			product	Tuberculostearic acid methyltransferase UfaA1
+2496	1726	gene
+			gene	ufaA1
+			locus_tag	OIGPGILK_00107
+>Feature k105_44717
+2650	503	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00108
+			product	hypothetical protein
+2650	503	gene
+			locus_tag	OIGPGILK_00108
+>Feature k105_50405
+21	1037	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00109
+			product	hypothetical protein
+21	1037	gene
+			locus_tag	OIGPGILK_00109
+1059	1688	CDS
+			gene	ycdY
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P75915
+			locus_tag	OIGPGILK_00110
+			product	Chaperone protein YcdY
+1059	1688	gene
+			gene	ycdY
+			locus_tag	OIGPGILK_00110
+1796	2302	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P24908
+			locus_tag	OIGPGILK_00111
+			product	Putative transcriptional regulator
+1796	2302	gene
+			locus_tag	OIGPGILK_00111
+2443	3909	CDS
+			EC_number	1.1.1.370
+			gene	iolX_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P40332
+			locus_tag	OIGPGILK_00112
+			product	scyllo-inositol 2-dehydrogenase (NAD(+))
+2443	3909	gene
+			gene	iolX_1
+			locus_tag	OIGPGILK_00112
+>Feature k105_51832
+1849	893	CDS
+			EC_number	2.7.1.15
+			gene	rbsK
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A9J6
+			locus_tag	OIGPGILK_00113
+			product	Ribokinase
+1849	893	gene
+			gene	rbsK
+			locus_tag	OIGPGILK_00113
+2269	1874	CDS
+			EC_number	2.7.-.-
+			gene	spo0F
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P06628
+			locus_tag	OIGPGILK_00114
+			product	Sporulation initiation phosphotransferase F
+2269	1874	gene
+			gene	spo0F
+			locus_tag	OIGPGILK_00114
+>Feature k105_52813
+257	682	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00115
+			product	hypothetical protein
+257	682	gene
+			locus_tag	OIGPGILK_00115
+1325	1927	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00116
+			product	hypothetical protein
+1325	1927	gene
+			locus_tag	OIGPGILK_00116
+>Feature k105_52883
+1298	144	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00117
+			product	hypothetical protein
+1298	144	gene
+			locus_tag	OIGPGILK_00117
+2506	1304	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00118
+			product	hypothetical protein
+2506	1304	gene
+			locus_tag	OIGPGILK_00118
+2843	2520	CDS
+			gene	ycf3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00439
+			locus_tag	OIGPGILK_00119
+			product	Photosystem I assembly protein Ycf3
+2843	2520	gene
+			gene	ycf3
+			locus_tag	OIGPGILK_00119
+>Feature k105_53667
+1198	1689	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00120
+			product	hypothetical protein
+1198	1689	gene
+			locus_tag	OIGPGILK_00120
+3231	2230	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00121
+			product	hypothetical protein
+3231	2230	gene
+			locus_tag	OIGPGILK_00121
+3456	4091	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00122
+			product	hypothetical protein
+3456	4091	gene
+			locus_tag	OIGPGILK_00122
+4127	5419	CDS
+			EC_number	3.1.4.4
+			gene	pld
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8KRU5
+			locus_tag	OIGPGILK_00123
+			product	Phospholipase D
+4127	5419	gene
+			gene	pld
+			locus_tag	OIGPGILK_00123
+6162	5416	CDS
+			gene	uup
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P43672
+			locus_tag	OIGPGILK_00124
+			product	ABC transporter ATP-binding protein uup
+6162	5416	gene
+			gene	uup
+			locus_tag	OIGPGILK_00124
+>Feature k105_55861
+321	659	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00125
+			product	hypothetical protein
+321	659	gene
+			locus_tag	OIGPGILK_00125
+1593	1348	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00126
+			product	hypothetical protein
+1593	1348	gene
+			locus_tag	OIGPGILK_00126
+1930	2946	CDS
+			EC_number	6.3.4.19
+			gene	tilS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P37563
+			locus_tag	OIGPGILK_00127
+			product	tRNA(Ile)-lysidine synthase
+1930	2946	gene
+			gene	tilS
+			locus_tag	OIGPGILK_00127
+>Feature k105_56807
+133	513	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00128
+			product	hypothetical protein
+133	513	gene
+			locus_tag	OIGPGILK_00128
+575	3619	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00129
+			product	hypothetical protein
+575	3619	gene
+			locus_tag	OIGPGILK_00129
+4072	3851	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00130
+			product	hypothetical protein
+4072	3851	gene
+			locus_tag	OIGPGILK_00130
+>Feature k105_58449
+226	756	CDS
+			EC_number	2.4.2.8
+			gene	hpt
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P99085
+			locus_tag	OIGPGILK_00131
+			product	Hypoxanthine-guanine phosphoribosyltransferase
+226	756	gene
+			gene	hpt
+			locus_tag	OIGPGILK_00131
+753	1919	CDS
+			EC_number	2.4.1.-
+			gene	bshA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P42982
+			locus_tag	OIGPGILK_00132
+			product	N-acetyl-alpha-D-glucosaminyl L-malate synthase
+753	1919	gene
+			gene	bshA
+			locus_tag	OIGPGILK_00132
+>Feature k105_60200
+241	537	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00133
+			product	hypothetical protein
+241	537	gene
+			locus_tag	OIGPGILK_00133
+1724	672	CDS
+			EC_number	2.7.1.100
+			gene	mtnK
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9F0P1
+			locus_tag	OIGPGILK_00134
+			product	Methylthioribose kinase
+1724	672	gene
+			gene	mtnK
+			locus_tag	OIGPGILK_00134
+2900	1818	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00135
+			product	hypothetical protein
+2900	1818	gene
+			locus_tag	OIGPGILK_00135
+>Feature k105_61404
+21	209	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00136
+			product	hypothetical protein
+21	209	gene
+			locus_tag	OIGPGILK_00136
+856	206	CDS
+			EC_number	2.7.7.77
+			gene	mobA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WJQ9
+			locus_tag	OIGPGILK_00137
+			product	putative molybdenum cofactor guanylyltransferase
+856	206	gene
+			gene	mobA
+			locus_tag	OIGPGILK_00137
+972	1793	CDS
+			gene	fhcC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:C5B135
+			locus_tag	OIGPGILK_00138
+			product	Formyltransferase/hydrolase complex Fhc subunit C
+972	1793	gene
+			gene	fhcC
+			locus_tag	OIGPGILK_00138
+3759	1807	CDS
+			EC_number	2.10.1.1
+			gene	moeA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P12281
+			locus_tag	OIGPGILK_00139
+			product	Molybdopterin molybdenumtransferase
+3759	1807	gene
+			gene	moeA
+			locus_tag	OIGPGILK_00139
+>Feature k105_64123
+124	1071	CDS
+			EC_number	3.1.6.1
+			gene	atsA_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P51691
+			locus_tag	OIGPGILK_00140
+			product	Arylsulfatase
+124	1071	gene
+			gene	atsA_2
+			locus_tag	OIGPGILK_00140
+1470	1117	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00141
+			product	hypothetical protein
+1470	1117	gene
+			locus_tag	OIGPGILK_00141
+>Feature k105_64178
+1296	31	CDS
+			EC_number	2.3.1.179
+			gene	fabF_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q83E37
+			locus_tag	OIGPGILK_00142
+			product	3-oxoacyl-[acyl-carrier-protein] synthase 2
+1296	31	gene
+			gene	fabF_1
+			locus_tag	OIGPGILK_00142
+2598	1585	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00143
+			product	hypothetical protein
+2598	1585	gene
+			locus_tag	OIGPGILK_00143
+>Feature k105_64388
+471	683	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00144
+			product	hypothetical protein
+471	683	gene
+			locus_tag	OIGPGILK_00144
+2199	1039	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00145
+			product	hypothetical protein
+2199	1039	gene
+			locus_tag	OIGPGILK_00145
+>Feature k105_65462
+4	342	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00146
+			product	hypothetical protein
+4	342	gene
+			locus_tag	OIGPGILK_00146
+647	2008	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00147
+			product	hypothetical protein
+647	2008	gene
+			locus_tag	OIGPGILK_00147
+>Feature k105_71394
+162	413	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00148
+			product	hypothetical protein
+162	413	gene
+			locus_tag	OIGPGILK_00148
+2209	884	CDS
+			EC_number	3.4.-.-
+			gene	bepA_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00997
+			locus_tag	OIGPGILK_00149
+			product	Beta-barrel assembly-enhancing protease
+2209	884	gene
+			gene	bepA_2
+			locus_tag	OIGPGILK_00149
+>Feature k105_72577
+71	1075	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00150
+			product	hypothetical protein
+71	1075	gene
+			locus_tag	OIGPGILK_00150
+1465	1097	CDS
+			gene	glbN
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A593
+			locus_tag	OIGPGILK_00151
+			product	Group 1 truncated hemoglobin GlbN
+1465	1097	gene
+			gene	glbN
+			locus_tag	OIGPGILK_00151
+2719	1529	CDS
+			EC_number	1.1.1.292
+			gene	afr_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q2I8V6
+			locus_tag	OIGPGILK_00152
+			product	1,5-anhydro-D-fructose reductase
+2719	1529	gene
+			gene	afr_1
+			locus_tag	OIGPGILK_00152
+3178	2768	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00153
+			product	hypothetical protein
+3178	2768	gene
+			locus_tag	OIGPGILK_00153
+>Feature k105_73246
+13	1032	CDS
+			gene	bamB_4
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00923
+			locus_tag	OIGPGILK_00154
+			product	Outer membrane protein assembly factor BamB
+13	1032	gene
+			gene	bamB_4
+			locus_tag	OIGPGILK_00154
+1068	1859	CDS
+			EC_number	1.1.1.69
+			gene	gno_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P50199
+			locus_tag	OIGPGILK_00155
+			product	Gluconate 5-dehydrogenase
+1068	1859	gene
+			gene	gno_1
+			locus_tag	OIGPGILK_00155
+2555	1881	CDS
+			EC_number	3.5.1.59
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P32400
+			locus_tag	OIGPGILK_00156
+			product	N-carbamoylsarcosine amidase
+2555	1881	gene
+			locus_tag	OIGPGILK_00156
+3663	2578	CDS
+			EC_number	1.5.1.28
+			gene	odh
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q44297
+			locus_tag	OIGPGILK_00157
+			product	Opine dehydrogenase
+3663	2578	gene
+			gene	odh
+			locus_tag	OIGPGILK_00157
+4676	3663	CDS
+			EC_number	2.7.11.1
+			gene	pknD_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WI78
+			locus_tag	OIGPGILK_00158
+			product	Serine/threonine-protein kinase PknD
+4676	3663	gene
+			gene	pknD_2
+			locus_tag	OIGPGILK_00158
+5754	4669	CDS
+			gene	gudP
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q46916
+			locus_tag	OIGPGILK_00159
+			product	putative glucarate transporter
+5754	4669	gene
+			gene	gudP
+			locus_tag	OIGPGILK_00159
+>Feature k105_73478
+846	124	CDS
+			EC_number	5.3.1.16
+			gene	hisA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:A1R562
+			locus_tag	OIGPGILK_00160
+			product	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+846	124	gene
+			gene	hisA
+			locus_tag	OIGPGILK_00160
+1608	1000	CDS
+			EC_number	2.4.2.-
+			gene	hisH
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9KSX0
+			locus_tag	OIGPGILK_00161
+			product	Imidazole glycerol phosphate synthase subunit HisH
+1608	1000	gene
+			gene	hisH
+			locus_tag	OIGPGILK_00161
+3005	1752	CDS
+			gene	gspO
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P25960
+			locus_tag	OIGPGILK_00162
+			product	Type 4 prepilin-like proteins leader peptide-processing enzyme
+3005	1752	gene
+			gene	gspO
+			locus_tag	OIGPGILK_00162
+3607	3065	CDS
+			EC_number	2.7.1.71
+			gene	aroK
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A6D7
+			locus_tag	OIGPGILK_00163
+			product	Shikimate kinase 1
+3607	3065	gene
+			gene	aroK
+			locus_tag	OIGPGILK_00163
+>Feature k105_73988
+5	454	CDS
+			EC_number	5.4.99.62
+			gene	rbsD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01661
+			locus_tag	OIGPGILK_00164
+			product	D-ribose pyranase
+5	454	gene
+			gene	rbsD
+			locus_tag	OIGPGILK_00164
+484	1428	CDS
+			EC_number	1.1.1.122
+			gene	fdh
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q52472
+			locus_tag	OIGPGILK_00165
+			product	D-threo-aldose 1-dehydrogenase
+484	1428	gene
+			gene	fdh
+			locus_tag	OIGPGILK_00165
+1470	2312	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00166
+			product	hypothetical protein
+1470	2312	gene
+			locus_tag	OIGPGILK_00166
+2846	2325	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00167
+			product	hypothetical protein
+2846	2325	gene
+			locus_tag	OIGPGILK_00167
+>Feature k105_76011
+23	601	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00168
+			product	hypothetical protein
+23	601	gene
+			locus_tag	OIGPGILK_00168
+3293	1872	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00169
+			product	hypothetical protein
+3293	1872	gene
+			locus_tag	OIGPGILK_00169
+3811	3290	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00170
+			product	hypothetical protein
+3811	3290	gene
+			locus_tag	OIGPGILK_00170
+4136	3852	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00171
+			product	hypothetical protein
+4136	3852	gene
+			locus_tag	OIGPGILK_00171
+>Feature k105_77531
+69	1433	CDS
+			gene	gltP
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P21345
+			locus_tag	OIGPGILK_00172
+			product	Proton/glutamate-aspartate symporter
+69	1433	gene
+			gene	gltP
+			locus_tag	OIGPGILK_00172
+1443	2498	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00173
+			product	hypothetical protein
+1443	2498	gene
+			locus_tag	OIGPGILK_00173
+2956	2516	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00174
+			product	hypothetical protein
+2956	2516	gene
+			locus_tag	OIGPGILK_00174
+4044	3061	CDS
+			EC_number	1.1.1.292
+			gene	afr_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q2I8V6
+			locus_tag	OIGPGILK_00175
+			product	1,5-anhydro-D-fructose reductase
+4044	3061	gene
+			gene	afr_2
+			locus_tag	OIGPGILK_00175
+>Feature k105_78526
+10	579	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00176
+			product	hypothetical protein
+10	579	gene
+			locus_tag	OIGPGILK_00176
+1938	601	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00177
+			product	hypothetical protein
+1938	601	gene
+			locus_tag	OIGPGILK_00177
+2980	1994	CDS
+			EC_number	2.5.1.-
+			gene	cyoE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00154
+			locus_tag	OIGPGILK_00178
+			product	Protoheme IX farnesyltransferase
+2980	1994	gene
+			gene	cyoE
+			locus_tag	OIGPGILK_00178
+3388	3002	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00179
+			product	hypothetical protein
+3388	3002	gene
+			locus_tag	OIGPGILK_00179
+>Feature k105_79107
+587	805	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00180
+			product	hypothetical protein
+587	805	gene
+			locus_tag	OIGPGILK_00180
+4402	1388	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00181
+			product	hypothetical protein
+4402	1388	gene
+			locus_tag	OIGPGILK_00181
+>Feature k105_81445
+125	1867	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00182
+			product	hypothetical protein
+125	1867	gene
+			locus_tag	OIGPGILK_00182
+>Feature k105_82260
+335	532	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00183
+			product	hypothetical protein
+335	532	gene
+			locus_tag	OIGPGILK_00183
+1457	1014	CDS
+			EC_number	1.6.5.11
+			gene	nuoK
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:C5W716
+			locus_tag	OIGPGILK_00184
+			product	NADH-quinone oxidoreductase subunit K
+1457	1014	gene
+			gene	nuoK
+			locus_tag	OIGPGILK_00184
+2205	1450	CDS
+			EC_number	1.6.5.11
+			gene	nuoJ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AFE0
+			locus_tag	OIGPGILK_00185
+			product	NADH-quinone oxidoreductase subunit J
+2205	1450	gene
+			gene	nuoJ
+			locus_tag	OIGPGILK_00185
+2375	2205	CDS
+			EC_number	1.6.5.11
+			gene	ndhI
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01351
+			locus_tag	OIGPGILK_00186
+			product	NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+2375	2205	gene
+			gene	ndhI
+			locus_tag	OIGPGILK_00186
+>Feature k105_82382
+197	898	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00187
+			product	hypothetical protein
+197	898	gene
+			locus_tag	OIGPGILK_00187
+947	1294	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00188
+			product	hypothetical protein
+947	1294	gene
+			locus_tag	OIGPGILK_00188
+1486	1770	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00189
+			product	hypothetical protein
+1486	1770	gene
+			locus_tag	OIGPGILK_00189
+1807	2829	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00190
+			product	hypothetical protein
+1807	2829	gene
+			locus_tag	OIGPGILK_00190
+3206	2862	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00191
+			product	hypothetical protein
+3206	2862	gene
+			locus_tag	OIGPGILK_00191
+>Feature k105_82967
+17	1279	CDS
+			gene	secA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01382
+			locus_tag	OIGPGILK_00192
+			product	Protein translocase subunit SecA
+17	1279	gene
+			gene	secA
+			locus_tag	OIGPGILK_00192
+1293	2573	CDS
+			EC_number	2.4.99.12
+			gene	waaA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AC75
+			locus_tag	OIGPGILK_00193
+			product	3-deoxy-D-manno-octulosonic acid transferase
+1293	2573	gene
+			gene	waaA
+			locus_tag	OIGPGILK_00193
+2756	3937	CDS
+			EC_number	2.5.1.6
+			gene	metK
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A817
+			locus_tag	OIGPGILK_00194
+			product	S-adenosylmethionine synthase
+2756	3937	gene
+			gene	metK
+			locus_tag	OIGPGILK_00194
+>Feature k105_84575
+189	1613	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00195
+			product	hypothetical protein
+189	1613	gene
+			locus_tag	OIGPGILK_00195
+1630	3036	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00196
+			product	hypothetical protein
+1630	3036	gene
+			locus_tag	OIGPGILK_00196
+3311	3502	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00197
+			product	hypothetical protein
+3311	3502	gene
+			locus_tag	OIGPGILK_00197
+4240	3521	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00198
+			product	hypothetical protein
+4240	3521	gene
+			locus_tag	OIGPGILK_00198
+5781	4363	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00199
+			product	hypothetical protein
+5781	4363	gene
+			locus_tag	OIGPGILK_00199
+6958	5936	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00200
+			product	hypothetical protein
+6958	5936	gene
+			locus_tag	OIGPGILK_00200
+7560	6997	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00201
+			product	hypothetical protein
+7560	6997	gene
+			locus_tag	OIGPGILK_00201
+>Feature k105_84937
+42	1724	CDS
+			EC_number	5.99.1.3
+			gene	gyrB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O67137
+			locus_tag	OIGPGILK_00202
+			product	Type 2 topoisomerase subunit B
+42	1724	gene
+			gene	gyrB
+			locus_tag	OIGPGILK_00202
+1872	3317	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00203
+			product	hypothetical protein
+1872	3317	gene
+			locus_tag	OIGPGILK_00203
+>Feature k105_86270
+968	2311	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00204
+			product	hypothetical protein
+968	2311	gene
+			locus_tag	OIGPGILK_00204
+2415	3434	CDS
+			gene	livH
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AEX7
+			locus_tag	OIGPGILK_00205
+			product	High-affinity branched-chain amino acid transport system permease protein LivH
+2415	3434	gene
+			gene	livH
+			locus_tag	OIGPGILK_00205
+>Feature k105_87691
+2959	23	CDS
+			EC_number	3.4.-.-
+			gene	bepA_3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00997
+			locus_tag	OIGPGILK_00206
+			product	Beta-barrel assembly-enhancing protease
+2959	23	gene
+			gene	bepA_3
+			locus_tag	OIGPGILK_00206
+>Feature k105_89730
+42	1703	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00207
+			product	hypothetical protein
+42	1703	gene
+			locus_tag	OIGPGILK_00207
+1708	3120	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00208
+			product	hypothetical protein
+1708	3120	gene
+			locus_tag	OIGPGILK_00208
+>Feature k105_92029
+1161	754	CDS
+			gene	phoP
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P13792
+			locus_tag	OIGPGILK_00209
+			product	Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+1161	754	gene
+			gene	phoP
+			locus_tag	OIGPGILK_00209
+2747	1338	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00210
+			product	hypothetical protein
+2747	1338	gene
+			locus_tag	OIGPGILK_00210
+>Feature k105_93301
+3	635	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00211
+			product	hypothetical protein
+3	635	gene
+			locus_tag	OIGPGILK_00211
+722	1219	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00212
+			product	hypothetical protein
+722	1219	gene
+			locus_tag	OIGPGILK_00212
+2479	1235	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00213
+			product	hypothetical protein
+2479	1235	gene
+			locus_tag	OIGPGILK_00213
+>Feature k105_93966
+>Feature k105_95344
+1372	86	CDS
+			EC_number	2.4.99.-
+			gene	lgt
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P60962
+			locus_tag	OIGPGILK_00214
+			product	Prolipoprotein diacylglyceryl transferase
+1372	86	gene
+			gene	lgt
+			locus_tag	OIGPGILK_00214
+2267	1395	CDS
+			EC_number	6.3.2.1
+			gene	panC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9X0G6
+			locus_tag	OIGPGILK_00215
+			product	Pantothenate synthetase
+2267	1395	gene
+			gene	panC
+			locus_tag	OIGPGILK_00215
+3264	2299	CDS
+			EC_number	2.7.6.3
+			gene	folK
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P43777
+			locus_tag	OIGPGILK_00216
+			product	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+3264	2299	gene
+			gene	folK
+			locus_tag	OIGPGILK_00216
+4151	5038	CDS
+			EC_number	2.4.1.54
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:C5CBV8
+			locus_tag	OIGPGILK_00217
+			product	Undecaprenyl-phosphate mannosyltransferase
+4151	5038	gene
+			locus_tag	OIGPGILK_00217
+5087	6649	CDS
+			gene	tuaB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O32273
+			locus_tag	OIGPGILK_00218
+			product	Teichuronic acid biosynthesis protein TuaB
+5087	6649	gene
+			gene	tuaB
+			locus_tag	OIGPGILK_00218
+>Feature k105_100647
+29	376	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00219
+			product	hypothetical protein
+29	376	gene
+			locus_tag	OIGPGILK_00219
+392	1144	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00220
+			product	hypothetical protein
+392	1144	gene
+			locus_tag	OIGPGILK_00220
+2151	1153	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00221
+			product	hypothetical protein
+2151	1153	gene
+			locus_tag	OIGPGILK_00221
+>Feature k105_101080
+27	995	CDS
+			EC_number	3.1.6.1
+			gene	atsA_3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P51691
+			locus_tag	OIGPGILK_00222
+			product	Arylsulfatase
+27	995	gene
+			gene	atsA_3
+			locus_tag	OIGPGILK_00222
+1254	2762	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00223
+			product	hypothetical protein
+1254	2762	gene
+			locus_tag	OIGPGILK_00223
+2722	2865	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00224
+			product	hypothetical protein
+2722	2865	gene
+			locus_tag	OIGPGILK_00224
+3009	2851	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00225
+			product	hypothetical protein
+3009	2851	gene
+			locus_tag	OIGPGILK_00225
+3457	3065	CDS
+			gene	nhaR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A9G2
+			locus_tag	OIGPGILK_00226
+			product	Transcriptional activator protein NhaR
+3457	3065	gene
+			gene	nhaR
+			locus_tag	OIGPGILK_00226
+>Feature k105_103856
+98	185	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	OIGPGILK_00227
+			product	tRNA-Ser(tga)
+98	185	gene
+			locus_tag	OIGPGILK_00227
+418	678	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00228
+			product	hypothetical protein
+418	678	gene
+			locus_tag	OIGPGILK_00228
+1153	737	CDS
+			EC_number	2.5.1.-
+			gene	fosB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01512
+			locus_tag	OIGPGILK_00229
+			product	Metallothiol transferase FosB
+1153	737	gene
+			gene	fosB
+			locus_tag	OIGPGILK_00229
+1368	2471	CDS
+			gene	srp54
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00306
+			locus_tag	OIGPGILK_00230
+			product	Signal recognition particle 54 kDa protein
+1368	2471	gene
+			gene	srp54
+			locus_tag	OIGPGILK_00230
+2566	2775	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00231
+			product	hypothetical protein
+2566	2775	gene
+			locus_tag	OIGPGILK_00231
+>Feature k105_104043
+305	1453	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00232
+			product	hypothetical protein
+305	1453	gene
+			locus_tag	OIGPGILK_00232
+>Feature k105_104153
+2207	2638	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00233
+			product	hypothetical protein
+2207	2638	gene
+			locus_tag	OIGPGILK_00233
+3630	2767	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00234
+			product	hypothetical protein
+3630	2767	gene
+			locus_tag	OIGPGILK_00234
+>Feature k105_105255
+257	4063	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00235
+			product	hypothetical protein
+257	4063	gene
+			locus_tag	OIGPGILK_00235
+4262	4756	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00236
+			product	hypothetical protein
+4262	4756	gene
+			locus_tag	OIGPGILK_00236
+4777	5961	CDS
+			EC_number	2.3.1.47
+			gene	bioF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P22806
+			locus_tag	OIGPGILK_00237
+			product	8-amino-7-oxononanoate synthase
+4777	5961	gene
+			gene	bioF
+			locus_tag	OIGPGILK_00237
+7292	5967	CDS
+			EC_number	3.6.3.-
+			gene	macB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q5MK06
+			locus_tag	OIGPGILK_00238
+			product	Macrolide export ATP-binding/permease protein MacB
+7292	5967	gene
+			gene	macB
+			locus_tag	OIGPGILK_00238
+8028	7318	CDS
+			EC_number	3.6.3.-
+			gene	yknY_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O31711
+			locus_tag	OIGPGILK_00239
+			product	putative ABC transporter ATP-binding protein YknY
+8028	7318	gene
+			gene	yknY_1
+			locus_tag	OIGPGILK_00239
+8648	8025	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00240
+			product	hypothetical protein
+8648	8025	gene
+			locus_tag	OIGPGILK_00240
+>Feature k105_105718
+107	1315	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00241
+			product	hypothetical protein
+107	1315	gene
+			locus_tag	OIGPGILK_00241
+>Feature k105_111413
+21	611	CDS
+			EC_number	1.14.20.3
+			gene	carC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9XB59
+			locus_tag	OIGPGILK_00242
+			product	(5R)-carbapenem-3-carboxylate synthase
+21	611	gene
+			gene	carC
+			locus_tag	OIGPGILK_00242
+595	1566	CDS
+			EC_number	2.5.1.74
+			gene	menA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01937
+			locus_tag	OIGPGILK_00243
+			product	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+595	1566	gene
+			gene	menA
+			locus_tag	OIGPGILK_00243
+1766	2554	CDS
+			EC_number	4.2.1.80
+			gene	mhpD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P77608
+			locus_tag	OIGPGILK_00244
+			product	2-keto-4-pentenoate hydratase
+1766	2554	gene
+			gene	mhpD
+			locus_tag	OIGPGILK_00244
+2575	2970	CDS
+			EC_number	3.1.2.29
+			gene	flK
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q1EMV2
+			locus_tag	OIGPGILK_00245
+			product	Fluoroacetyl-CoA thioesterase
+2575	2970	gene
+			gene	flK
+			locus_tag	OIGPGILK_00245
+3354	2998	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00246
+			product	hypothetical protein
+3354	2998	gene
+			locus_tag	OIGPGILK_00246
+>Feature k105_112505
+81	1103	CDS
+			EC_number	3.5.4.2
+			gene	ade
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01518
+			locus_tag	OIGPGILK_00247
+			product	Adenine deaminase
+81	1103	gene
+			gene	ade
+			locus_tag	OIGPGILK_00247
+1152	2504	CDS
+			EC_number	3.5.2.7
+			gene	hutI
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00372
+			locus_tag	OIGPGILK_00248
+			product	Imidazolonepropionase
+1152	2504	gene
+			gene	hutI
+			locus_tag	OIGPGILK_00248
+2967	2515	CDS
+			EC_number	1.6.1.2
+			gene	pntB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q2RSB4
+			locus_tag	OIGPGILK_00249
+			product	NAD(P) transhydrogenase subunit beta
+2967	2515	gene
+			gene	pntB
+			locus_tag	OIGPGILK_00249
+>Feature k105_116161
+5	727	CDS
+			EC_number	4.3.1.29
+			gene	dgaE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:D0ZLR3
+			locus_tag	OIGPGILK_00250
+			product	D-glucosaminate-6-phosphate ammonia lyase
+5	727	gene
+			gene	dgaE
+			locus_tag	OIGPGILK_00250
+760	2022	CDS
+			EC_number	5.1.1.-
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q81IL5
+			locus_tag	OIGPGILK_00251
+			product	N-succinyl-L-Arg/Lys racemase
+760	2022	gene
+			locus_tag	OIGPGILK_00251
+2913	2035	CDS
+			EC_number	2.7.11.1
+			gene	pknD_3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WI78
+			locus_tag	OIGPGILK_00252
+			product	Serine/threonine-protein kinase PknD
+2913	2035	gene
+			gene	pknD_3
+			locus_tag	OIGPGILK_00252
+>Feature k105_117036
+71	373	CDS
+			EC_number	1.1.1.304
+			gene	budC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q48436
+			locus_tag	OIGPGILK_00253
+			product	Diacetyl reductase [(S)-acetoin forming]
+71	373	gene
+			gene	budC
+			locus_tag	OIGPGILK_00253
+2070	382	CDS
+			EC_number	3.4.21.-
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9RYM8
+			locus_tag	OIGPGILK_00254
+			product	putative subtilase-type serine protease
+2070	382	gene
+			locus_tag	OIGPGILK_00254
+3149	2067	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00255
+			product	hypothetical protein
+3149	2067	gene
+			locus_tag	OIGPGILK_00255
+>Feature k105_122700
+742	1320	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00256
+			product	hypothetical protein
+742	1320	gene
+			locus_tag	OIGPGILK_00256
+1344	2006	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00257
+			product	hypothetical protein
+1344	2006	gene
+			locus_tag	OIGPGILK_00257
+3481	1916	CDS
+			EC_number	1.3.99.29
+			gene	carA2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P54979
+			locus_tag	OIGPGILK_00258
+			product	zeta-carotene-forming phytoene desaturase
+3481	1916	gene
+			gene	carA2
+			locus_tag	OIGPGILK_00258
+3625	4674	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00259
+			product	hypothetical protein
+3625	4674	gene
+			locus_tag	OIGPGILK_00259
+>Feature k105_123125
+1886	885	CDS
+			EC_number	4.2.1.44
+			gene	iolE_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01672
+			locus_tag	OIGPGILK_00260
+			product	Inosose dehydratase
+1886	885	gene
+			gene	iolE_1
+			locus_tag	OIGPGILK_00260
+2282	3322	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00261
+			product	hypothetical protein
+2282	3322	gene
+			locus_tag	OIGPGILK_00261
+>Feature k105_125227
+1366	593	CDS
+			EC_number	1.1.1.69
+			gene	gno_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P50199
+			locus_tag	OIGPGILK_00262
+			product	Gluconate 5-dehydrogenase
+1366	593	gene
+			gene	gno_2
+			locus_tag	OIGPGILK_00262
+3113	1392	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00263
+			product	hypothetical protein
+3113	1392	gene
+			locus_tag	OIGPGILK_00263
+>Feature k105_125999
+482	114	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00264
+			product	hypothetical protein
+482	114	gene
+			locus_tag	OIGPGILK_00264
+1943	486	CDS
+			EC_number	3.1.6.6
+			gene	betC_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O69787
+			locus_tag	OIGPGILK_00265
+			product	Choline-sulfatase
+1943	486	gene
+			gene	betC_2
+			locus_tag	OIGPGILK_00265
+>Feature k105_126709
+1708	1091	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00266
+			product	hypothetical protein
+1708	1091	gene
+			locus_tag	OIGPGILK_00266
+>Feature k105_128721
+5371	518	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00267
+			product	hypothetical protein
+5371	518	gene
+			locus_tag	OIGPGILK_00267
+>Feature k105_128840
+12	203	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00268
+			product	hypothetical protein
+12	203	gene
+			locus_tag	OIGPGILK_00268
+209	1231	CDS
+			EC_number	2.7.1.-
+			gene	murK
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q97ML3
+			locus_tag	OIGPGILK_00269
+			product	N-acetylmuramic acid/N-acetylglucosamine kinase
+209	1231	gene
+			gene	murK
+			locus_tag	OIGPGILK_00269
+1300	1812	CDS
+			EC_number	2.3.1.1
+			gene	argA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01105
+			locus_tag	OIGPGILK_00270
+			product	Amino-acid acetyltransferase
+1300	1812	gene
+			gene	argA
+			locus_tag	OIGPGILK_00270
+>Feature k105_129199
+30	1247	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00271
+			product	hypothetical protein
+30	1247	gene
+			locus_tag	OIGPGILK_00271
+1269	2054	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00272
+			product	hypothetical protein
+1269	2054	gene
+			locus_tag	OIGPGILK_00272
+2261	1911	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00273
+			product	hypothetical protein
+2261	1911	gene
+			locus_tag	OIGPGILK_00273
+>Feature k105_129556
+127	534	CDS
+			EC_number	3.4.-.-
+			gene	bepA_4
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00997
+			locus_tag	OIGPGILK_00274
+			product	Beta-barrel assembly-enhancing protease
+127	534	gene
+			gene	bepA_4
+			locus_tag	OIGPGILK_00274
+646	1041	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00275
+			product	hypothetical protein
+646	1041	gene
+			locus_tag	OIGPGILK_00275
+2374	1058	CDS
+			EC_number	3.1.6.1
+			gene	atsA_4
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P51691
+			locus_tag	OIGPGILK_00276
+			product	Arylsulfatase
+2374	1058	gene
+			gene	atsA_4
+			locus_tag	OIGPGILK_00276
+2786	2376	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00277
+			product	hypothetical protein
+2786	2376	gene
+			locus_tag	OIGPGILK_00277
+>Feature k105_129719
+165	638	CDS
+			gene	fliG
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9WY63
+			locus_tag	OIGPGILK_00278
+			product	Flagellar motor switch protein FliG
+165	638	gene
+			gene	fliG
+			locus_tag	OIGPGILK_00278
+921	1325	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00279
+			product	hypothetical protein
+921	1325	gene
+			locus_tag	OIGPGILK_00279
+1363	2094	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00280
+			product	hypothetical protein
+1363	2094	gene
+			locus_tag	OIGPGILK_00280
+>Feature k105_132214
+17	277	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00281
+			product	hypothetical protein
+17	277	gene
+			locus_tag	OIGPGILK_00281
+279	1136	CDS
+			gene	mkl
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WQL5
+			locus_tag	OIGPGILK_00282
+			product	putative ribonucleotide transport ATP-binding protein mkl
+279	1136	gene
+			gene	mkl
+			locus_tag	OIGPGILK_00282
+1160	2365	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00283
+			product	hypothetical protein
+1160	2365	gene
+			locus_tag	OIGPGILK_00283
+2715	2380	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00284
+			product	hypothetical protein
+2715	2380	gene
+			locus_tag	OIGPGILK_00284
+>Feature k105_134232
+701	1783	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00285
+			product	hypothetical protein
+701	1783	gene
+			locus_tag	OIGPGILK_00285
+>Feature k105_135582
+7	321	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00286
+			product	hypothetical protein
+7	321	gene
+			locus_tag	OIGPGILK_00286
+476	1288	CDS
+			EC_number	1.1.1.25
+			gene	aroE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q5KWX7
+			locus_tag	OIGPGILK_00287
+			product	Shikimate dehydrogenase (NADP(+))
+476	1288	gene
+			gene	aroE
+			locus_tag	OIGPGILK_00287
+2384	1296	CDS
+			EC_number	3.5.3.12
+			gene	aguA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9I6J9
+			locus_tag	OIGPGILK_00288
+			product	Agmatine deiminase
+2384	1296	gene
+			gene	aguA
+			locus_tag	OIGPGILK_00288
+2539	2381	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00289
+			product	hypothetical protein
+2539	2381	gene
+			locus_tag	OIGPGILK_00289
+>Feature k105_139229
+80	484	CDS
+			EC_number	5.99.1.3
+			gene	top6A
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00132
+			locus_tag	OIGPGILK_00290
+			product	Type 2 DNA topoisomerase 6 subunit A
+80	484	gene
+			gene	top6A
+			locus_tag	OIGPGILK_00290
+515	958	CDS
+			EC_number	2.3.1.-
+			gene	ypeA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P63422
+			locus_tag	OIGPGILK_00291
+			product	Acetyltransferase YpeA
+515	958	gene
+			gene	ypeA
+			locus_tag	OIGPGILK_00291
+951	1406	CDS
+			EC_number	3.1.-.-
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O67466
+			locus_tag	OIGPGILK_00292
+			product	Putative esterase
+951	1406	gene
+			locus_tag	OIGPGILK_00292
+1466	2251	CDS
+			EC_number	2.1.1.234
+			gene	desVI
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9ZGH6
+			locus_tag	OIGPGILK_00293
+			product	dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucopyranose
+1466	2251	gene
+			gene	desVI
+			locus_tag	OIGPGILK_00293
+2462	2758	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00294
+			product	hypothetical protein
+2462	2758	gene
+			locus_tag	OIGPGILK_00294
+>Feature k105_140941
+372	980	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00295
+			product	hypothetical protein
+372	980	gene
+			locus_tag	OIGPGILK_00295
+2339	1155	CDS
+			gene	inlA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0DJM0
+			locus_tag	OIGPGILK_00296
+			product	Internalin-A
+2339	1155	gene
+			gene	inlA
+			locus_tag	OIGPGILK_00296
+3584	2448	CDS
+			EC_number	1.1.1.18
+			gene	iolG
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01671
+			locus_tag	OIGPGILK_00297
+			product	Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+3584	2448	gene
+			gene	iolG
+			locus_tag	OIGPGILK_00297
+>Feature k105_142950
+878	132	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00298
+			product	hypothetical protein
+878	132	gene
+			locus_tag	OIGPGILK_00298
+1100	1011	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00299
+			product	hypothetical protein
+1100	1011	gene
+			locus_tag	OIGPGILK_00299
+2344	1100	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00300
+			product	hypothetical protein
+2344	1100	gene
+			locus_tag	OIGPGILK_00300
+2736	2380	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00301
+			product	hypothetical protein
+2736	2380	gene
+			locus_tag	OIGPGILK_00301
+>Feature k105_146767
+2979	1471	CDS
+			EC_number	3.1.6.6
+			gene	betC_3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O69787
+			locus_tag	OIGPGILK_00302
+			product	Choline-sulfatase
+2979	1471	gene
+			gene	betC_3
+			locus_tag	OIGPGILK_00302
+3836	2976	CDS
+			EC_number	3.1.6.1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q0TUK6
+			locus_tag	OIGPGILK_00303
+			product	Arylsulfatase
+3836	2976	gene
+			locus_tag	OIGPGILK_00303
+>Feature k105_148999
+45	290	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00304
+			product	hypothetical protein
+45	290	gene
+			locus_tag	OIGPGILK_00304
+801	313	CDS
+			EC_number	1.1.1.108
+			gene	lcdH
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:D7UNT2
+			locus_tag	OIGPGILK_00305
+			product	L-carnitine dehydrogenase
+801	313	gene
+			gene	lcdH
+			locus_tag	OIGPGILK_00305
+2037	847	CDS
+			EC_number	2.3.1.16
+			gene	fadA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O32177
+			locus_tag	OIGPGILK_00306
+			product	3-ketoacyl-CoA thiolase
+2037	847	gene
+			gene	fadA
+			locus_tag	OIGPGILK_00306
+2191	2643	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00307
+			product	hypothetical protein
+2191	2643	gene
+			locus_tag	OIGPGILK_00307
+>Feature k105_149128
+26	1621	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00308
+			product	hypothetical protein
+26	1621	gene
+			locus_tag	OIGPGILK_00308
+1969	1643	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00309
+			product	hypothetical protein
+1969	1643	gene
+			locus_tag	OIGPGILK_00309
+3257	1995	CDS
+			EC_number	2.8.1.7
+			gene	csd
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q55793
+			locus_tag	OIGPGILK_00310
+			product	putative cysteine desulfurase
+3257	1995	gene
+			gene	csd
+			locus_tag	OIGPGILK_00310
+3726	3295	CDS
+			EC_number	6.2.1.30
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q72K16
+			locus_tag	OIGPGILK_00311
+			product	Phenylacetate-coenzyme A ligase
+3726	3295	gene
+			locus_tag	OIGPGILK_00311
+>Feature k105_149910
+1645	2766	CDS
+			EC_number	5.5.1.27
+			gene	gci
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:A9CEQ8
+			locus_tag	OIGPGILK_00312
+			product	D-galactarolactone cycloisomerase
+1645	2766	gene
+			gene	gci
+			locus_tag	OIGPGILK_00312
+3146	2784	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00313
+			product	hypothetical protein
+3146	2784	gene
+			locus_tag	OIGPGILK_00313
+>Feature k105_150534
+635	1198	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9X1F5
+			locus_tag	OIGPGILK_00314
+			product	Putative anti-sigma factor antagonist
+635	1198	gene
+			locus_tag	OIGPGILK_00314
+1323	2558	CDS
+			gene	epsE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P37093
+			locus_tag	OIGPGILK_00315
+			product	Type II secretion system protein E
+1323	2558	gene
+			gene	epsE
+			locus_tag	OIGPGILK_00315
+2787	2578	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00316
+			product	hypothetical protein
+2787	2578	gene
+			locus_tag	OIGPGILK_00316
+>Feature k105_150886
+17	2140	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00317
+			product	hypothetical protein
+17	2140	gene
+			locus_tag	OIGPGILK_00317
+3430	2147	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00318
+			product	hypothetical protein
+3430	2147	gene
+			locus_tag	OIGPGILK_00318
+>Feature k105_151021
+2269	2475	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00319
+			product	hypothetical protein
+2269	2475	gene
+			locus_tag	OIGPGILK_00319
+>Feature k105_152258
+977	1441	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00320
+			product	hypothetical protein
+977	1441	gene
+			locus_tag	OIGPGILK_00320
+1491	2366	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00321
+			product	hypothetical protein
+1491	2366	gene
+			locus_tag	OIGPGILK_00321
+>Feature k105_153634
+1818	2291	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00322
+			product	hypothetical protein
+1818	2291	gene
+			locus_tag	OIGPGILK_00322
+2392	3027	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00323
+			product	hypothetical protein
+2392	3027	gene
+			locus_tag	OIGPGILK_00323
+4276	3083	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00324
+			product	hypothetical protein
+4276	3083	gene
+			locus_tag	OIGPGILK_00324
+>Feature k105_156224
+58	360	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00325
+			product	hypothetical protein
+58	360	gene
+			locus_tag	OIGPGILK_00325
+1472	357	CDS
+			EC_number	3.2.2.-
+			gene	mutY
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P83847
+			locus_tag	OIGPGILK_00326
+			product	Adenine DNA glycosylase
+1472	357	gene
+			gene	mutY
+			locus_tag	OIGPGILK_00326
+2534	1488	CDS
+			EC_number	5.2.1.8
+			gene	prsA1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q81U45
+			locus_tag	OIGPGILK_00327
+			product	Foldase protein PrsA 1
+2534	1488	gene
+			gene	prsA1
+			locus_tag	OIGPGILK_00327
+2828	2550	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00328
+			product	hypothetical protein
+2828	2550	gene
+			locus_tag	OIGPGILK_00328
+>Feature k105_157064
+129	1178	CDS
+			gene	yegT
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P76417
+			locus_tag	OIGPGILK_00329
+			product	Putative nucleoside transporter YegT
+129	1178	gene
+			gene	yegT
+			locus_tag	OIGPGILK_00329
+2225	1194	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00330
+			product	hypothetical protein
+2225	1194	gene
+			locus_tag	OIGPGILK_00330
+2503	2419	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	OIGPGILK_00331
+			product	tRNA-Leu(cag)
+2503	2419	gene
+			locus_tag	OIGPGILK_00331
+2876	2586	CDS
+			gene	moeZ_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WMN7
+			locus_tag	OIGPGILK_00332
+			product	putative adenylyltransferase/sulfurtransferase MoeZ
+2876	2586	gene
+			gene	moeZ_1
+			locus_tag	OIGPGILK_00332
+>Feature k105_162149
+7	3363	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00333
+			product	hypothetical protein
+7	3363	gene
+			locus_tag	OIGPGILK_00333
+3394	4866	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00334
+			product	hypothetical protein
+3394	4866	gene
+			locus_tag	OIGPGILK_00334
+5633	4863	CDS
+			EC_number	3.1.4.53
+			gene	cpdA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AEW4
+			locus_tag	OIGPGILK_00335
+			product	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+5633	4863	gene
+			gene	cpdA
+			locus_tag	OIGPGILK_00335
+>Feature k105_162517
+1209	46	CDS
+			EC_number	2.4.1.-
+			gene	pgaC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P75905
+			locus_tag	OIGPGILK_00336
+			product	Poly-beta-1,6-N-acetyl-D-glucosamine synthase
+1209	46	gene
+			gene	pgaC
+			locus_tag	OIGPGILK_00336
+2174	1206	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00337
+			product	hypothetical protein
+2174	1206	gene
+			locus_tag	OIGPGILK_00337
+2236	3315	CDS
+			EC_number	2.1.1.72
+			gene	yhdJ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P28638
+			locus_tag	OIGPGILK_00338
+			product	DNA adenine methyltransferase YhdJ
+2236	3315	gene
+			gene	yhdJ
+			locus_tag	OIGPGILK_00338
+3312	4121	CDS
+			EC_number	5.1.3.31
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O50580
+			locus_tag	OIGPGILK_00339
+			product	D-tagatose 3-epimerase
+3312	4121	gene
+			locus_tag	OIGPGILK_00339
+4520	4134	CDS
+			gene	rsxB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00463
+			locus_tag	OIGPGILK_00340
+			product	Electron transport complex subunit RsxB
+4520	4134	gene
+			gene	rsxB
+			locus_tag	OIGPGILK_00340
+5941	4670	CDS
+			EC_number	4.1.1.20
+			gene	lysA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P00861
+			locus_tag	OIGPGILK_00341
+			product	Diaminopimelate decarboxylase
+5941	4670	gene
+			gene	lysA
+			locus_tag	OIGPGILK_00341
+7061	6069	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00342
+			product	hypothetical protein
+7061	6069	gene
+			locus_tag	OIGPGILK_00342
+>Feature k105_163497
+65	1135	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00343
+			product	hypothetical protein
+65	1135	gene
+			locus_tag	OIGPGILK_00343
+1142	1990	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00344
+			product	hypothetical protein
+1142	1990	gene
+			locus_tag	OIGPGILK_00344
+2058	3632	CDS
+			EC_number	1.2.1.4
+			gene	aldH
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q56694
+			locus_tag	OIGPGILK_00345
+			product	NADP-dependent fatty aldehyde dehydrogenase
+2058	3632	gene
+			gene	aldH
+			locus_tag	OIGPGILK_00345
+>Feature k105_164017
+4	399	CDS
+			EC_number	3.4.21.-
+			gene	sppA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P08395
+			locus_tag	OIGPGILK_00346
+			product	Protease 4
+4	399	gene
+			gene	sppA
+			locus_tag	OIGPGILK_00346
+1623	442	CDS
+			EC_number	5.1.3.3
+			gene	mro
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P05149
+			locus_tag	OIGPGILK_00347
+			product	Aldose 1-epimerase
+1623	442	gene
+			gene	mro
+			locus_tag	OIGPGILK_00347
+2591	1842	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00348
+			product	hypothetical protein
+2591	1842	gene
+			locus_tag	OIGPGILK_00348
+>Feature k105_166893
+2939	264	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00349
+			product	hypothetical protein
+2939	264	gene
+			locus_tag	OIGPGILK_00349
+>Feature k105_167175
+242	496	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00350
+			product	hypothetical protein
+242	496	gene
+			locus_tag	OIGPGILK_00350
+4174	605	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8RMH6
+			locus_tag	OIGPGILK_00351
+			product	Auracyanin-A
+4174	605	gene
+			locus_tag	OIGPGILK_00351
+>Feature k105_167413
+17	373	CDS
+			EC_number	2.1.1.230
+			gene	nshR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P52391
+			locus_tag	OIGPGILK_00352
+			product	23S rRNA (adenosine(1067)-2'-O)-methyltransferase
+17	373	gene
+			gene	nshR
+			locus_tag	OIGPGILK_00352
+1330	389	CDS
+			gene	folD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P51696
+			locus_tag	OIGPGILK_00353
+			product	Bifunctional protein FolD protein
+1330	389	gene
+			gene	folD
+			locus_tag	OIGPGILK_00353
+>Feature k105_172218
+185	1405	CDS
+			gene	ribBA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:A5U2B7
+			locus_tag	OIGPGILK_00354
+			product	Riboflavin biosynthesis protein RibBA
+185	1405	gene
+			gene	ribBA
+			locus_tag	OIGPGILK_00354
+3602	1422	CDS
+			gene	resA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q81SZ9
+			locus_tag	OIGPGILK_00355
+			product	Thiol-disulfide oxidoreductase ResA
+3602	1422	gene
+			gene	resA
+			locus_tag	OIGPGILK_00355
+>Feature k105_174630
+1533	778	CDS
+			EC_number	1.1.1.100
+			gene	fabG
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A0H9
+			locus_tag	OIGPGILK_00356
+			product	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+1533	778	gene
+			gene	fabG
+			locus_tag	OIGPGILK_00356
+1842	1612	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00357
+			product	hypothetical protein
+1842	1612	gene
+			locus_tag	OIGPGILK_00357
+2308	1982	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00358
+			product	hypothetical protein
+2308	1982	gene
+			locus_tag	OIGPGILK_00358
+>Feature k105_178351
+20	1927	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00359
+			product	hypothetical protein
+20	1927	gene
+			locus_tag	OIGPGILK_00359
+>Feature k105_179741
+150	1211	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00360
+			product	hypothetical protein
+150	1211	gene
+			locus_tag	OIGPGILK_00360
+2124	1900	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00361
+			product	hypothetical protein
+2124	1900	gene
+			locus_tag	OIGPGILK_00361
+>Feature k105_179746
+575	796	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00362
+			product	hypothetical protein
+575	796	gene
+			locus_tag	OIGPGILK_00362
+780	1898	CDS
+			EC_number	3.1.1.-
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q7CS13
+			locus_tag	OIGPGILK_00363
+			product	Deacetylase
+780	1898	gene
+			locus_tag	OIGPGILK_00363
+2694	1903	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00364
+			product	hypothetical protein
+2694	1903	gene
+			locus_tag	OIGPGILK_00364
+>Feature k105_180502
+485	288	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00365
+			product	hypothetical protein
+485	288	gene
+			locus_tag	OIGPGILK_00365
+510	1952	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00366
+			product	hypothetical protein
+510	1952	gene
+			locus_tag	OIGPGILK_00366
+>Feature k105_182271
+65	817	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00367
+			product	hypothetical protein
+65	817	gene
+			locus_tag	OIGPGILK_00367
+3224	852	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00368
+			product	hypothetical protein
+3224	852	gene
+			locus_tag	OIGPGILK_00368
+>Feature k105_183297
+416	144	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00369
+			product	hypothetical protein
+416	144	gene
+			locus_tag	OIGPGILK_00369
+1397	432	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00370
+			product	hypothetical protein
+1397	432	gene
+			locus_tag	OIGPGILK_00370
+1690	1418	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00371
+			product	hypothetical protein
+1690	1418	gene
+			locus_tag	OIGPGILK_00371
+2748	1744	CDS
+			EC_number	1.1.1.382
+			gene	ilvC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:K4LVZ1
+			locus_tag	OIGPGILK_00372
+			product	Ketol-acid reductoisomerase (NAD(+))
+2748	1744	gene
+			gene	ilvC
+			locus_tag	OIGPGILK_00372
+3358	2843	CDS
+			EC_number	2.2.1.6
+			gene	ilvH
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P00894
+			locus_tag	OIGPGILK_00373
+			product	Acetolactate synthase isozyme 3 small subunit
+3358	2843	gene
+			gene	ilvH
+			locus_tag	OIGPGILK_00373
+3749	3441	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00374
+			product	hypothetical protein
+3749	3441	gene
+			locus_tag	OIGPGILK_00374
+>Feature k105_186567
+1560	1630	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	OIGPGILK_00375
+			product	tRNA-Gly(ccc)
+1560	1630	gene
+			locus_tag	OIGPGILK_00375
+1662	2561	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00376
+			product	hypothetical protein
+1662	2561	gene
+			locus_tag	OIGPGILK_00376
+3156	2614	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00377
+			product	hypothetical protein
+3156	2614	gene
+			locus_tag	OIGPGILK_00377
+>Feature k105_187150
+11	442	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00378
+			product	hypothetical protein
+11	442	gene
+			locus_tag	OIGPGILK_00378
+2493	439	CDS
+			EC_number	6.1.1.10
+			gene	metG
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P00959
+			locus_tag	OIGPGILK_00379
+			product	Methionine--tRNA ligase
+2493	439	gene
+			gene	metG
+			locus_tag	OIGPGILK_00379
+>Feature k105_187702
+4	1206	CDS
+			EC_number	2.3.1.179
+			gene	fabF_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O34340
+			locus_tag	OIGPGILK_00380
+			product	3-oxoacyl-[acyl-carrier-protein] synthase 2
+4	1206	gene
+			gene	fabF_2
+			locus_tag	OIGPGILK_00380
+1483	1247	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00381
+			product	hypothetical protein
+1483	1247	gene
+			locus_tag	OIGPGILK_00381
+1717	1968	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00382
+			product	hypothetical protein
+1717	1968	gene
+			locus_tag	OIGPGILK_00382
+2710	2504	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00383
+			product	hypothetical protein
+2710	2504	gene
+			locus_tag	OIGPGILK_00383
+>Feature k105_188183
+2782	464	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00384
+			product	hypothetical protein
+2782	464	gene
+			locus_tag	OIGPGILK_00384
+>Feature k105_188221
+815	1873	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00385
+			product	hypothetical protein
+815	1873	gene
+			locus_tag	OIGPGILK_00385
+2934	1933	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00386
+			product	hypothetical protein
+2934	1933	gene
+			locus_tag	OIGPGILK_00386
+4060	3089	CDS
+			gene	btuF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01000
+			locus_tag	OIGPGILK_00387
+			product	Vitamin B12-binding protein
+4060	3089	gene
+			gene	btuF
+			locus_tag	OIGPGILK_00387
+4270	4097	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00388
+			product	hypothetical protein
+4270	4097	gene
+			locus_tag	OIGPGILK_00388
+>Feature k105_189503
+405	719	CDS
+			gene	phoB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AFJ5
+			locus_tag	OIGPGILK_00389
+			product	Phosphate regulon transcriptional regulatory protein PhoB
+405	719	gene
+			gene	phoB
+			locus_tag	OIGPGILK_00389
+829	1950	CDS
+			EC_number	1.1.1.371
+			gene	iolW
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O32223
+			locus_tag	OIGPGILK_00390
+			product	scyllo-inositol 2-dehydrogenase (NADP(+))
+829	1950	gene
+			gene	iolW
+			locus_tag	OIGPGILK_00390
+3078	1966	CDS
+			EC_number	1.1.1.370
+			gene	iolX_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P40332
+			locus_tag	OIGPGILK_00391
+			product	scyllo-inositol 2-dehydrogenase (NAD(+))
+3078	1966	gene
+			gene	iolX_2
+			locus_tag	OIGPGILK_00391
+3917	3075	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00392
+			product	hypothetical protein
+3917	3075	gene
+			locus_tag	OIGPGILK_00392
+>Feature k105_190470
+379	1005	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00393
+			product	hypothetical protein
+379	1005	gene
+			locus_tag	OIGPGILK_00393
+1063	1353	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00394
+			product	hypothetical protein
+1063	1353	gene
+			locus_tag	OIGPGILK_00394
+2783	1476	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00395
+			product	hypothetical protein
+2783	1476	gene
+			locus_tag	OIGPGILK_00395
+3047	2796	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00396
+			product	hypothetical protein
+3047	2796	gene
+			locus_tag	OIGPGILK_00396
+>Feature k105_190583
+103	1713	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00397
+			product	hypothetical protein
+103	1713	gene
+			locus_tag	OIGPGILK_00397
+1779	3185	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00398
+			product	hypothetical protein
+1779	3185	gene
+			locus_tag	OIGPGILK_00398
+>Feature k105_190661
+247	1878	CDS
+			EC_number	1.-.-.-
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WIT1
+			locus_tag	OIGPGILK_00399
+			product	putative FAD-linked oxidoreductase
+247	1878	gene
+			locus_tag	OIGPGILK_00399
+1980	2942	CDS
+			EC_number	5.3.99.11
+			gene	iolI
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P42419
+			locus_tag	OIGPGILK_00400
+			product	Inosose isomerase
+1980	2942	gene
+			gene	iolI
+			locus_tag	OIGPGILK_00400
+4541	2997	CDS
+			EC_number	3.1.6.1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q0TUK6
+			locus_tag	OIGPGILK_00401
+			product	Arylsulfatase
+4541	2997	gene
+			locus_tag	OIGPGILK_00401
+>Feature k105_194935
+239	661	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00402
+			product	hypothetical protein
+239	661	gene
+			locus_tag	OIGPGILK_00402
+2914	1469	CDS
+			gene	emrA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P27303
+			locus_tag	OIGPGILK_00403
+			product	Multidrug export protein EmrA
+2914	1469	gene
+			gene	emrA
+			locus_tag	OIGPGILK_00403
+3638	2955	CDS
+			gene	ybiH
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0ACU0
+			locus_tag	OIGPGILK_00404
+			product	putative HTH-type transcriptional regulator YbiH
+3638	2955	gene
+			gene	ybiH
+			locus_tag	OIGPGILK_00404
+4887	3835	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00405
+			product	hypothetical protein
+4887	3835	gene
+			locus_tag	OIGPGILK_00405
+>Feature k105_197299
+1303	62	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00406
+			product	hypothetical protein
+1303	62	gene
+			locus_tag	OIGPGILK_00406
+2367	1348	CDS
+			EC_number	2.4.2.18
+			gene	trpD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8PD71
+			locus_tag	OIGPGILK_00407
+			product	Anthranilate phosphoribosyltransferase
+2367	1348	gene
+			gene	trpD
+			locus_tag	OIGPGILK_00407
+2689	3648	CDS
+			EC_number	3.2.-.-
+			gene	rihA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P41409
+			locus_tag	OIGPGILK_00408
+			product	Pyrimidine-specific ribonucleoside hydrolase RihA
+2689	3648	gene
+			gene	rihA
+			locus_tag	OIGPGILK_00408
+4800	3661	CDS
+			EC_number	3.4.21.107
+			gene	degP
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0C0V0
+			locus_tag	OIGPGILK_00409
+			product	Periplasmic serine endoprotease DegP
+4800	3661	gene
+			gene	degP
+			locus_tag	OIGPGILK_00409
+5317	4868	CDS
+			gene	yocK
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P80872
+			locus_tag	OIGPGILK_00410
+			product	General stress protein 16O
+5317	4868	gene
+			gene	yocK
+			locus_tag	OIGPGILK_00410
+>Feature k105_198067
+225	842	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00411
+			product	hypothetical protein
+225	842	gene
+			locus_tag	OIGPGILK_00411
+880	1560	CDS
+			EC_number	3.6.3.-
+			gene	yknY_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O31711
+			locus_tag	OIGPGILK_00412
+			product	putative ABC transporter ATP-binding protein YknY
+880	1560	gene
+			gene	yknY_2
+			locus_tag	OIGPGILK_00412
+1817	1557	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00413
+			product	hypothetical protein
+1817	1557	gene
+			locus_tag	OIGPGILK_00413
+2610	1855	CDS
+			EC_number	2.7.7.73
+			gene	thiF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P30138
+			locus_tag	OIGPGILK_00414
+			product	Sulfur carrier protein ThiS adenylyltransferase
+2610	1855	gene
+			gene	thiF
+			locus_tag	OIGPGILK_00414
+>Feature k105_202301
+606	1901	CDS
+			EC_number	3.1.3.16
+			gene	stp
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8Y678
+			locus_tag	OIGPGILK_00415
+			product	Serine/threonine phosphatase stp
+606	1901	gene
+			gene	stp
+			locus_tag	OIGPGILK_00415
+3105	1945	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00416
+			product	hypothetical protein
+3105	1945	gene
+			locus_tag	OIGPGILK_00416
+>Feature k105_203278
+163	771	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00417
+			product	hypothetical protein
+163	771	gene
+			locus_tag	OIGPGILK_00417
+974	1285	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00418
+			product	hypothetical protein
+974	1285	gene
+			locus_tag	OIGPGILK_00418
+>Feature k105_204059
+16	1278	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00419
+			product	hypothetical protein
+16	1278	gene
+			locus_tag	OIGPGILK_00419
+1358	2269	CDS
+			EC_number	5.3.1.22
+			gene	hyi_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P30147
+			locus_tag	OIGPGILK_00420
+			product	Hydroxypyruvate isomerase
+1358	2269	gene
+			gene	hyi_1
+			locus_tag	OIGPGILK_00420
+3693	2266	CDS
+			EC_number	3.1.6.1
+			gene	atsA_5
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P51691
+			locus_tag	OIGPGILK_00421
+			product	Arylsulfatase
+3693	2266	gene
+			gene	atsA_5
+			locus_tag	OIGPGILK_00421
+4203	3709	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00422
+			product	hypothetical protein
+4203	3709	gene
+			locus_tag	OIGPGILK_00422
+>Feature k105_210339
+19	579	CDS
+			EC_number	1.1.1.385
+			gene	bacC_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P39640
+			locus_tag	OIGPGILK_00423
+			product	Dihydroanticapsin 7-dehydrogenase
+19	579	gene
+			gene	bacC_1
+			locus_tag	OIGPGILK_00423
+694	1620	CDS
+			EC_number	5.3.1.22
+			gene	hyi_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P30147
+			locus_tag	OIGPGILK_00424
+			product	Hydroxypyruvate isomerase
+694	1620	gene
+			gene	hyi_2
+			locus_tag	OIGPGILK_00424
+3872	1644	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00425
+			product	hypothetical protein
+3872	1644	gene
+			locus_tag	OIGPGILK_00425
+4215	4015	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00426
+			product	hypothetical protein
+4215	4015	gene
+			locus_tag	OIGPGILK_00426
+>Feature k105_210488
+1599	1210	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00427
+			product	hypothetical protein
+1599	1210	gene
+			locus_tag	OIGPGILK_00427
+2550	1687	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00428
+			product	hypothetical protein
+2550	1687	gene
+			locus_tag	OIGPGILK_00428
+>Feature k105_210907
+1748	945	CDS
+			EC_number	3.1.3.11
+			gene	suhB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O67791
+			locus_tag	OIGPGILK_00429
+			product	Fructose-1,6-bisphosphatase/inositol-1-monophosphatase
+1748	945	gene
+			gene	suhB
+			locus_tag	OIGPGILK_00429
+2194	2937	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00430
+			product	hypothetical protein
+2194	2937	gene
+			locus_tag	OIGPGILK_00430
+3414	2947	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00431
+			product	hypothetical protein
+3414	2947	gene
+			locus_tag	OIGPGILK_00431
+>Feature k105_212386
+148	687	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00432
+			product	hypothetical protein
+148	687	gene
+			locus_tag	OIGPGILK_00432
+2012	876	CDS
+			EC_number	1.1.1.1
+			gene	adhB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0DJA2
+			locus_tag	OIGPGILK_00433
+			product	Alcohol dehydrogenase 2
+2012	876	gene
+			gene	adhB
+			locus_tag	OIGPGILK_00433
+2920	2075	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00434
+			product	hypothetical protein
+2920	2075	gene
+			locus_tag	OIGPGILK_00434
+>Feature k105_213004
+560	970	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00435
+			product	hypothetical protein
+560	970	gene
+			locus_tag	OIGPGILK_00435
+1079	1450	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00436
+			product	hypothetical protein
+1079	1450	gene
+			locus_tag	OIGPGILK_00436
+3161	1548	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00437
+			product	hypothetical protein
+3161	1548	gene
+			locus_tag	OIGPGILK_00437
+>Feature k105_215584
+1035	1412	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00438
+			product	hypothetical protein
+1035	1412	gene
+			locus_tag	OIGPGILK_00438
+2569	2369	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00439
+			product	hypothetical protein
+2569	2369	gene
+			locus_tag	OIGPGILK_00439
+>Feature k105_217363
+25	303	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00440
+			product	hypothetical protein
+25	303	gene
+			locus_tag	OIGPGILK_00440
+2554	2345	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00441
+			product	hypothetical protein
+2554	2345	gene
+			locus_tag	OIGPGILK_00441
+>Feature k105_219149
+1206	916	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00442
+			product	hypothetical protein
+1206	916	gene
+			locus_tag	OIGPGILK_00442
+2218	1370	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00443
+			product	hypothetical protein
+2218	1370	gene
+			locus_tag	OIGPGILK_00443
+2505	2281	CDS
+			gene	sigR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q7AKG9
+			locus_tag	OIGPGILK_00444
+			product	ECF RNA polymerase sigma factor SigR
+2505	2281	gene
+			gene	sigR
+			locus_tag	OIGPGILK_00444
+>Feature k105_220123
+1646	255	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00445
+			product	hypothetical protein
+1646	255	gene
+			locus_tag	OIGPGILK_00445
+4019	1683	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00446
+			product	hypothetical protein
+4019	1683	gene
+			locus_tag	OIGPGILK_00446
+4309	5397	CDS
+			EC_number	1.1.1.370
+			gene	iolX_3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P40332
+			locus_tag	OIGPGILK_00447
+			product	scyllo-inositol 2-dehydrogenase (NAD(+))
+4309	5397	gene
+			gene	iolX_3
+			locus_tag	OIGPGILK_00447
+>Feature k105_221126
+2167	1847	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00448
+			product	hypothetical protein
+2167	1847	gene
+			locus_tag	OIGPGILK_00448
+>Feature k105_222120
+147	500	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00449
+			product	hypothetical protein
+147	500	gene
+			locus_tag	OIGPGILK_00449
+640	2007	CDS
+			gene	fhcB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:C5B138
+			locus_tag	OIGPGILK_00450
+			product	Formyltransferase/hydrolase complex Fhc subunit B
+640	2007	gene
+			gene	fhcB
+			locus_tag	OIGPGILK_00450
+2536	2027	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00451
+			product	hypothetical protein
+2536	2027	gene
+			locus_tag	OIGPGILK_00451
+>Feature k105_224454
+313	525	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00452
+			product	hypothetical protein
+313	525	gene
+			locus_tag	OIGPGILK_00452
+3715	818	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00453
+			product	hypothetical protein
+3715	818	gene
+			locus_tag	OIGPGILK_00453
+5272	3833	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00454
+			product	hypothetical protein
+5272	3833	gene
+			locus_tag	OIGPGILK_00454
+>Feature k105_226433
+51	1154	CDS
+			EC_number	1.1.1.18
+			gene	idhA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O68965
+			locus_tag	OIGPGILK_00455
+			product	Inositol 2-dehydrogenase
+51	1154	gene
+			gene	idhA
+			locus_tag	OIGPGILK_00455
+1264	1989	CDS
+			EC_number	3.5.1.-
+			gene	bshB1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q81ST8
+			locus_tag	OIGPGILK_00456
+			product	N-acetyl-alpha-D-glucosaminyl L-malate deacetylase 1
+1264	1989	gene
+			gene	bshB1
+			locus_tag	OIGPGILK_00456
+2708	2013	CDS
+			gene	mscS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0C0S1
+			locus_tag	OIGPGILK_00457
+			product	Small-conductance mechanosensitive channel
+2708	2013	gene
+			gene	mscS
+			locus_tag	OIGPGILK_00457
+3234	2827	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00458
+			product	hypothetical protein
+3234	2827	gene
+			locus_tag	OIGPGILK_00458
+>Feature k105_227171
+1929	148	CDS
+			EC_number	2.7.13.3
+			gene	phoR
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P23545
+			locus_tag	OIGPGILK_00459
+			product	Alkaline phosphatase synthesis sensor protein PhoR
+1929	148	gene
+			gene	phoR
+			locus_tag	OIGPGILK_00459
+>Feature k105_227306
+147	989	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00460
+			product	hypothetical protein
+147	989	gene
+			locus_tag	OIGPGILK_00460
+2267	1650	CDS
+			EC_number	2.7.7.65
+			gene	ydeH
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P31129
+			locus_tag	OIGPGILK_00461
+			product	Diguanylate cyclase YdeH
+2267	1650	gene
+			gene	ydeH
+			locus_tag	OIGPGILK_00461
+2452	3447	CDS
+			gene	fieF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01425
+			locus_tag	OIGPGILK_00462
+			product	Ferrous-iron efflux pump FieF
+2452	3447	gene
+			gene	fieF
+			locus_tag	OIGPGILK_00462
+3798	3364	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00463
+			product	hypothetical protein
+3798	3364	gene
+			locus_tag	OIGPGILK_00463
+>Feature k105_228780
+215	1102	CDS
+			EC_number	4.3.3.7
+			gene	dapA_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O67216
+			locus_tag	OIGPGILK_00464
+			product	4-hydroxy-tetrahydrodipicolinate synthase
+215	1102	gene
+			gene	dapA_1
+			locus_tag	OIGPGILK_00464
+1135	2283	CDS
+			EC_number	2.4.-.-
+			gene	cotSA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P46915
+			locus_tag	OIGPGILK_00465
+			product	Spore coat protein SA
+1135	2283	gene
+			gene	cotSA
+			locus_tag	OIGPGILK_00465
+3319	2303	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q5SMG8
+			locus_tag	OIGPGILK_00466
+			product	Magnesium transporter MgtE
+3319	2303	gene
+			locus_tag	OIGPGILK_00466
+>Feature k105_229839
+55	279	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00467
+			product	hypothetical protein
+55	279	gene
+			locus_tag	OIGPGILK_00467
+1229	2134	CDS
+			EC_number	3.5.1.49
+			gene	fmdA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q50228
+			locus_tag	OIGPGILK_00468
+			product	Formamidase
+1229	2134	gene
+			gene	fmdA
+			locus_tag	OIGPGILK_00468
+3099	2149	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00469
+			product	hypothetical protein
+3099	2149	gene
+			locus_tag	OIGPGILK_00469
+3290	4042	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00470
+			product	hypothetical protein
+3290	4042	gene
+			locus_tag	OIGPGILK_00470
+4090	4335	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00471
+			product	hypothetical protein
+4090	4335	gene
+			locus_tag	OIGPGILK_00471
+4332	4559	CDS
+			gene	feoA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AEL3
+			locus_tag	OIGPGILK_00472
+			product	Fe(2+) transport protein A
+4332	4559	gene
+			gene	feoA
+			locus_tag	OIGPGILK_00472
+5000	4509	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00473
+			product	hypothetical protein
+5000	4509	gene
+			locus_tag	OIGPGILK_00473
+>Feature k105_230634
+24	401	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00474
+			product	hypothetical protein
+24	401	gene
+			locus_tag	OIGPGILK_00474
+421	954	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00475
+			product	hypothetical protein
+421	954	gene
+			locus_tag	OIGPGILK_00475
+917	1603	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00476
+			product	hypothetical protein
+917	1603	gene
+			locus_tag	OIGPGILK_00476
+2367	1639	CDS
+			EC_number	2.1.1.193
+			gene	rsmE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P54461
+			locus_tag	OIGPGILK_00477
+			product	Ribosomal RNA small subunit methyltransferase E
+2367	1639	gene
+			gene	rsmE
+			locus_tag	OIGPGILK_00477
+3649	2396	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00478
+			product	hypothetical protein
+3649	2396	gene
+			locus_tag	OIGPGILK_00478
+4292	3762	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00479
+			product	hypothetical protein
+4292	3762	gene
+			locus_tag	OIGPGILK_00479
+>Feature k105_232775
+127	801	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00480
+			product	hypothetical protein
+127	801	gene
+			locus_tag	OIGPGILK_00480
+1212	943	CDS
+			gene	eutM_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0ABF4
+			locus_tag	OIGPGILK_00481
+			product	Ethanolamine utilization protein EutM
+1212	943	gene
+			gene	eutM_1
+			locus_tag	OIGPGILK_00481
+1604	1302	CDS
+			gene	eutM_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0ABF4
+			locus_tag	OIGPGILK_00482
+			product	Ethanolamine utilization protein EutM
+1604	1302	gene
+			gene	eutM_2
+			locus_tag	OIGPGILK_00482
+2478	1750	CDS
+			EC_number	2.3.1.222
+			gene	pduL
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9XDN5
+			locus_tag	OIGPGILK_00483
+			product	Phosphate propanoyltransferase
+2478	1750	gene
+			gene	pduL
+			locus_tag	OIGPGILK_00483
+>Feature k105_233223
+13	708	CDS
+			EC_number	3.4.21.107
+			gene	degQ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P39099
+			locus_tag	OIGPGILK_00484
+			product	Periplasmic pH-dependent serine endoprotease DegQ
+13	708	gene
+			gene	degQ
+			locus_tag	OIGPGILK_00484
+1200	733	CDS
+			EC_number	3.1.-.-
+			gene	yrrK
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O34634
+			locus_tag	OIGPGILK_00485
+			product	Putative pre-16S rRNA nuclease
+1200	733	gene
+			gene	yrrK
+			locus_tag	OIGPGILK_00485
+2237	1197	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00486
+			product	hypothetical protein
+2237	1197	gene
+			locus_tag	OIGPGILK_00486
+3344	2259	CDS
+			EC_number	2.7.7.13
+			gene	rfbM
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P26404
+			locus_tag	OIGPGILK_00487
+			product	Mannose-1-phosphate guanylyltransferase RfbM
+3344	2259	gene
+			gene	rfbM
+			locus_tag	OIGPGILK_00487
+>Feature k105_233851
+430	1272	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00488
+			product	hypothetical protein
+430	1272	gene
+			locus_tag	OIGPGILK_00488
+1272	2354	CDS
+			EC_number	2.7.11.1
+			gene	pkn1_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O84147
+			locus_tag	OIGPGILK_00489
+			product	Serine/threonine-protein kinase pkn1
+1272	2354	gene
+			gene	pkn1_2
+			locus_tag	OIGPGILK_00489
+2814	2650	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00490
+			product	hypothetical protein
+2814	2650	gene
+			locus_tag	OIGPGILK_00490
+>Feature k105_235046
+759	466	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00491
+			product	hypothetical protein
+759	466	gene
+			locus_tag	OIGPGILK_00491
+1958	765	CDS
+			EC_number	3.4.11.4
+			gene	pepT_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P29745
+			locus_tag	OIGPGILK_00492
+			product	Peptidase T
+1958	765	gene
+			gene	pepT_2
+			locus_tag	OIGPGILK_00492
+2075	2509	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00493
+			product	hypothetical protein
+2075	2509	gene
+			locus_tag	OIGPGILK_00493
+2506	3561	CDS
+			EC_number	2.1.1.192
+			gene	rlmN
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:A6QGB8
+			locus_tag	OIGPGILK_00494
+			product	putative dual-specificity RNA methyltransferase RlmN
+2506	3561	gene
+			gene	rlmN
+			locus_tag	OIGPGILK_00494
+>Feature k105_235593
+1906	119	CDS
+			gene	pulD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P15644
+			locus_tag	OIGPGILK_00495
+			product	Type II secretion system protein D
+1906	119	gene
+			gene	pulD
+			locus_tag	OIGPGILK_00495
+3732	2071	CDS
+			EC_number	2.7.11.1
+			gene	pkn1_3
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O84147
+			locus_tag	OIGPGILK_00496
+			product	Serine/threonine-protein kinase pkn1
+3732	2071	gene
+			gene	pkn1_3
+			locus_tag	OIGPGILK_00496
+>Feature k105_236044
+1903	3276	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00497
+			product	hypothetical protein
+1903	3276	gene
+			locus_tag	OIGPGILK_00497
+3469	6624	CDS
+			gene	lptD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01411
+			locus_tag	OIGPGILK_00498
+			product	LPS-assembly protein LptD
+3469	6624	gene
+			gene	lptD
+			locus_tag	OIGPGILK_00498
+6659	7045	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00499
+			product	hypothetical protein
+6659	7045	gene
+			locus_tag	OIGPGILK_00499
+>Feature k105_236117
+24	566	CDS
+			EC_number	5.5.1.25
+			gene	Vejaci
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:H2IFX0
+			locus_tag	OIGPGILK_00500
+			product	3,6-anhydro-alpha-L-galactonate cycloisomerase
+24	566	gene
+			gene	Vejaci
+			locus_tag	OIGPGILK_00500
+2513	609	CDS
+			EC_number	3.1.-.-
+			gene	addA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P23478
+			locus_tag	OIGPGILK_00501
+			product	ATP-dependent helicase/nuclease subunit A
+2513	609	gene
+			gene	addA
+			locus_tag	OIGPGILK_00501
+>Feature k105_236134
+1593	1231	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00502
+			product	hypothetical protein
+1593	1231	gene
+			locus_tag	OIGPGILK_00502
+1968	1636	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00503
+			product	hypothetical protein
+1968	1636	gene
+			locus_tag	OIGPGILK_00503
+2357	2746	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00504
+			product	hypothetical protein
+2357	2746	gene
+			locus_tag	OIGPGILK_00504
+>Feature k105_238183
+14	2587	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00505
+			product	hypothetical protein
+14	2587	gene
+			locus_tag	OIGPGILK_00505
+>Feature k105_240100
+141	1439	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00506
+			product	hypothetical protein
+141	1439	gene
+			locus_tag	OIGPGILK_00506
+1548	2924	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00507
+			product	hypothetical protein
+1548	2924	gene
+			locus_tag	OIGPGILK_00507
+>Feature k105_241137
+543	2117	CDS
+			EC_number	3.1.6.1
+			gene	atsA_6
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P51691
+			locus_tag	OIGPGILK_00508
+			product	Arylsulfatase
+543	2117	gene
+			gene	atsA_6
+			locus_tag	OIGPGILK_00508
+2639	2136	CDS
+			EC_number	2.7.1.180
+			gene	apbE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O83774
+			locus_tag	OIGPGILK_00509
+			product	FAD:protein FMN transferase
+2639	2136	gene
+			gene	apbE
+			locus_tag	OIGPGILK_00509
+>Feature k105_242632
+104	1639	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00510
+			product	hypothetical protein
+104	1639	gene
+			locus_tag	OIGPGILK_00510
+>Feature k105_243363
+872	1015	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00511
+			product	hypothetical protein
+872	1015	gene
+			locus_tag	OIGPGILK_00511
+1100	1819	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00512
+			product	hypothetical protein
+1100	1819	gene
+			locus_tag	OIGPGILK_00512
+>Feature k105_243492
+38	883	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00513
+			product	hypothetical protein
+38	883	gene
+			locus_tag	OIGPGILK_00513
+997	924	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	OIGPGILK_00514
+			product	tRNA-Val(gac)
+997	924	gene
+			locus_tag	OIGPGILK_00514
+1157	2572	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00515
+			product	hypothetical protein
+1157	2572	gene
+			locus_tag	OIGPGILK_00515
+>Feature k105_243518
+636	316	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00516
+			product	hypothetical protein
+636	316	gene
+			locus_tag	OIGPGILK_00516
+>Feature k105_244101
+48	314	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00517
+			product	hypothetical protein
+48	314	gene
+			locus_tag	OIGPGILK_00517
+2285	345	CDS
+			EC_number	4.1.1.37
+			gene	hemE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q83PB7
+			locus_tag	OIGPGILK_00518
+			product	Uroporphyrinogen decarboxylase
+2285	345	gene
+			gene	hemE
+			locus_tag	OIGPGILK_00518
+2477	3634	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00519
+			product	hypothetical protein
+2477	3634	gene
+			locus_tag	OIGPGILK_00519
+4213	3746	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00520
+			product	hypothetical protein
+4213	3746	gene
+			locus_tag	OIGPGILK_00520
+>Feature k105_244837
+1873	584	CDS
+			gene	bamB_5
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00923
+			locus_tag	OIGPGILK_00521
+			product	Outer membrane protein assembly factor BamB
+1873	584	gene
+			gene	bamB_5
+			locus_tag	OIGPGILK_00521
+2164	2973	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00522
+			product	hypothetical protein
+2164	2973	gene
+			locus_tag	OIGPGILK_00522
+>Feature k105_245995
+190	1428	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00523
+			product	hypothetical protein
+190	1428	gene
+			locus_tag	OIGPGILK_00523
+2451	2005	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00524
+			product	hypothetical protein
+2451	2005	gene
+			locus_tag	OIGPGILK_00524
+>Feature k105_247411
+1752	775	CDS
+			EC_number	3.6.5.-
+			gene	obg
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P20964
+			locus_tag	OIGPGILK_00525
+			product	GTPase Obg
+1752	775	gene
+			gene	obg
+			locus_tag	OIGPGILK_00525
+2135	1887	CDS
+			gene	rpmA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9HVL7
+			locus_tag	OIGPGILK_00526
+			product	50S ribosomal protein L27
+2135	1887	gene
+			gene	rpmA
+			locus_tag	OIGPGILK_00526
+2991	2194	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00527
+			product	hypothetical protein
+2991	2194	gene
+			locus_tag	OIGPGILK_00527
+>Feature k105_249715
+880	1626	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00528
+			product	hypothetical protein
+880	1626	gene
+			locus_tag	OIGPGILK_00528
+3081	1687	CDS
+			gene	bamB_6
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00923
+			locus_tag	OIGPGILK_00529
+			product	Outer membrane protein assembly factor BamB
+3081	1687	gene
+			gene	bamB_6
+			locus_tag	OIGPGILK_00529
+>Feature k105_249743
+492	641	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00530
+			product	hypothetical protein
+492	641	gene
+			locus_tag	OIGPGILK_00530
+3689	1188	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00531
+			product	hypothetical protein
+3689	1188	gene
+			locus_tag	OIGPGILK_00531
+>Feature k105_254406
+1977	1636	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00532
+			product	hypothetical protein
+1977	1636	gene
+			locus_tag	OIGPGILK_00532
+3201	2902	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00533
+			product	hypothetical protein
+3201	2902	gene
+			locus_tag	OIGPGILK_00533
+>Feature k105_254803
+1056	1298	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00534
+			product	hypothetical protein
+1056	1298	gene
+			locus_tag	OIGPGILK_00534
+2446	1343	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00535
+			product	hypothetical protein
+2446	1343	gene
+			locus_tag	OIGPGILK_00535
+3251	2622	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00536
+			product	hypothetical protein
+3251	2622	gene
+			locus_tag	OIGPGILK_00536
+>Feature k105_254909
+1145	2770	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00537
+			product	hypothetical protein
+1145	2770	gene
+			locus_tag	OIGPGILK_00537
+>Feature k105_255899
+172	585	CDS
+			gene	rpsQ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AG63
+			locus_tag	OIGPGILK_00538
+			product	30S ribosomal protein S17
+172	585	gene
+			gene	rpsQ
+			locus_tag	OIGPGILK_00538
+588	956	CDS
+			gene	rplN
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P12875
+			locus_tag	OIGPGILK_00539
+			product	50S ribosomal protein L14
+588	956	gene
+			gene	rplN
+			locus_tag	OIGPGILK_00539
+957	1289	CDS
+			gene	rplX
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P04455
+			locus_tag	OIGPGILK_00540
+			product	50S ribosomal protein L24
+957	1289	gene
+			gene	rplX
+			locus_tag	OIGPGILK_00540
+1349	1915	CDS
+			gene	rplE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P12877
+			locus_tag	OIGPGILK_00541
+			product	50S ribosomal protein L5
+1349	1915	gene
+			gene	rplE
+			locus_tag	OIGPGILK_00541
+2159	2554	CDS
+			gene	rpsH
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P12879
+			locus_tag	OIGPGILK_00542
+			product	30S ribosomal protein S8
+2159	2554	gene
+			gene	rpsH
+			locus_tag	OIGPGILK_00542
+2809	2612	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00543
+			product	hypothetical protein
+2809	2612	gene
+			locus_tag	OIGPGILK_00543
+>Feature k105_256144
+1128	124	CDS
+			EC_number	1.1.99.28
+			gene	gfo
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q07982
+			locus_tag	OIGPGILK_00544
+			product	Glucose--fructose oxidoreductase
+1128	124	gene
+			gene	gfo
+			locus_tag	OIGPGILK_00544
+1364	2326	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00545
+			product	hypothetical protein
+1364	2326	gene
+			locus_tag	OIGPGILK_00545
+2985	2344	CDS
+			EC_number	1.1.1.79
+			gene	ghrB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P37666
+			locus_tag	OIGPGILK_00546
+			product	Glyoxylate/hydroxypyruvate reductase B
+2985	2344	gene
+			gene	ghrB
+			locus_tag	OIGPGILK_00546
+>Feature k105_256246
+1398	1129	CDS
+			gene	rpsO
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P05766
+			locus_tag	OIGPGILK_00547
+			product	30S ribosomal protein S15
+1398	1129	gene
+			gene	rpsO
+			locus_tag	OIGPGILK_00547
+2696	1608	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00548
+			product	hypothetical protein
+2696	1608	gene
+			locus_tag	OIGPGILK_00548
+>Feature k105_256338
+1361	933	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00549
+			product	hypothetical protein
+1361	933	gene
+			locus_tag	OIGPGILK_00549
+2408	1383	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00550
+			product	hypothetical protein
+2408	1383	gene
+			locus_tag	OIGPGILK_00550
+3156	2554	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00551
+			product	hypothetical protein
+3156	2554	gene
+			locus_tag	OIGPGILK_00551
+3451	3215	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00552
+			product	hypothetical protein
+3451	3215	gene
+			locus_tag	OIGPGILK_00552
+>Feature k105_257035
+>Feature k105_261586
+1478	486	CDS
+			EC_number	3.4.21.107
+			gene	degS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AEE3
+			locus_tag	OIGPGILK_00553
+			product	Serine endoprotease DegS
+1478	486	gene
+			gene	degS
+			locus_tag	OIGPGILK_00553
+4094	1617	CDS
+			EC_number	1.11.1.15
+			gene	bcp
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WIE1
+			locus_tag	OIGPGILK_00554
+			product	Putative peroxiredoxin
+4094	1617	gene
+			gene	bcp
+			locus_tag	OIGPGILK_00554
+>Feature k105_262036
+1199	60	CDS
+			EC_number	4.2.3.5
+			gene	aroC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P31104
+			locus_tag	OIGPGILK_00555
+			product	Chorismate synthase
+1199	60	gene
+			gene	aroC
+			locus_tag	OIGPGILK_00555
+1433	2440	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00556
+			product	hypothetical protein
+1433	2440	gene
+			locus_tag	OIGPGILK_00556
+>Feature k105_262223
+>Feature k105_262354
+73	210	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00557
+			product	hypothetical protein
+73	210	gene
+			locus_tag	OIGPGILK_00557
+766	1161	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00558
+			product	hypothetical protein
+766	1161	gene
+			locus_tag	OIGPGILK_00558
+>Feature k105_265808
+34	660	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00559
+			product	hypothetical protein
+34	660	gene
+			locus_tag	OIGPGILK_00559
+785	1765	CDS
+			EC_number	2.4.2.-
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O33341
+			locus_tag	OIGPGILK_00560
+			product	Putative glutamine amidotransferase
+785	1765	gene
+			locus_tag	OIGPGILK_00560
+>Feature k105_265897
+374	580	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00561
+			product	hypothetical protein
+374	580	gene
+			locus_tag	OIGPGILK_00561
+1637	1759	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00562
+			product	hypothetical protein
+1637	1759	gene
+			locus_tag	OIGPGILK_00562
+2066	2326	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00563
+			product	hypothetical protein
+2066	2326	gene
+			locus_tag	OIGPGILK_00563
+>Feature k105_266868
+1049	1219	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00564
+			product	hypothetical protein
+1049	1219	gene
+			locus_tag	OIGPGILK_00564
+1481	1615	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00565
+			product	hypothetical protein
+1481	1615	gene
+			locus_tag	OIGPGILK_00565
+1913	2365	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00566
+			product	hypothetical protein
+1913	2365	gene
+			locus_tag	OIGPGILK_00566
+3138	3305	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00567
+			product	hypothetical protein
+3138	3305	gene
+			locus_tag	OIGPGILK_00567
+3324	3692	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00568
+			product	hypothetical protein
+3324	3692	gene
+			locus_tag	OIGPGILK_00568
+>Feature k105_267893
+2667	1273	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00569
+			product	hypothetical protein
+2667	1273	gene
+			locus_tag	OIGPGILK_00569
+>Feature k105_268771
+5	322	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00570
+			product	hypothetical protein
+5	322	gene
+			locus_tag	OIGPGILK_00570
+363	2735	CDS
+			EC_number	3.4.21.-
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9RYM8
+			locus_tag	OIGPGILK_00571
+			product	putative subtilase-type serine protease
+363	2735	gene
+			locus_tag	OIGPGILK_00571
+>Feature k105_268873
+68	1201	CDS
+			gene	rbsC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AGI1
+			locus_tag	OIGPGILK_00572
+			product	Ribose import permease protein RbsC
+68	1201	gene
+			gene	rbsC
+			locus_tag	OIGPGILK_00572
+2264	1218	CDS
+			gene	moeZ_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WMN7
+			locus_tag	OIGPGILK_00573
+			product	putative adenylyltransferase/sulfurtransferase MoeZ
+2264	1218	gene
+			gene	moeZ_2
+			locus_tag	OIGPGILK_00573
+>Feature k105_270214
+478	1275	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00574
+			product	hypothetical protein
+478	1275	gene
+			locus_tag	OIGPGILK_00574
+2620	1235	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00575
+			product	hypothetical protein
+2620	1235	gene
+			locus_tag	OIGPGILK_00575
+>Feature k105_270664
+1089	139	CDS
+			EC_number	4.3.3.7
+			gene	dapA_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8UGL3
+			locus_tag	OIGPGILK_00576
+			product	4-hydroxy-tetrahydrodipicolinate synthase
+1089	139	gene
+			gene	dapA_2
+			locus_tag	OIGPGILK_00576
+1385	2794	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00577
+			product	hypothetical protein
+1385	2794	gene
+			locus_tag	OIGPGILK_00577
+3076	2810	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00578
+			product	hypothetical protein
+3076	2810	gene
+			locus_tag	OIGPGILK_00578
+>Feature k105_270678
+137	766	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00579
+			product	hypothetical protein
+137	766	gene
+			locus_tag	OIGPGILK_00579
+1337	786	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00580
+			product	hypothetical protein
+1337	786	gene
+			locus_tag	OIGPGILK_00580
+1527	2918	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00581
+			product	hypothetical protein
+1527	2918	gene
+			locus_tag	OIGPGILK_00581
+3863	2952	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00582
+			product	hypothetical protein
+3863	2952	gene
+			locus_tag	OIGPGILK_00582
+>Feature k105_270692
+>Feature k105_271156
+103	735	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00583
+			product	hypothetical protein
+103	735	gene
+			locus_tag	OIGPGILK_00583
+746	1849	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00584
+			product	hypothetical protein
+746	1849	gene
+			locus_tag	OIGPGILK_00584
+2775	1915	CDS
+			EC_number	4.2.1.109
+			gene	mtnB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O67788
+			locus_tag	OIGPGILK_00585
+			product	Methylthioribulose-1-phosphate dehydratase
+2775	1915	gene
+			gene	mtnB
+			locus_tag	OIGPGILK_00585
+>Feature k105_274870
+212	994	CDS
+			EC_number	2.8.3.12
+			gene	gctB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q59112
+			locus_tag	OIGPGILK_00586
+			product	Glutaconate CoA-transferase subunit B
+212	994	gene
+			gene	gctB
+			locus_tag	OIGPGILK_00586
+1116	2402	CDS
+			gene	bamB_7
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00923
+			locus_tag	OIGPGILK_00587
+			product	Outer membrane protein assembly factor BamB
+1116	2402	gene
+			gene	bamB_7
+			locus_tag	OIGPGILK_00587
+3673	2399	CDS
+			EC_number	2.1.1.186
+			gene	rlmM
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01551
+			locus_tag	OIGPGILK_00588
+			product	Ribosomal RNA large subunit methyltransferase M
+3673	2399	gene
+			gene	rlmM
+			locus_tag	OIGPGILK_00588
+>Feature k105_274898
+1628	921	CDS
+			EC_number	3.1.3.5
+			gene	yjjG
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A8Y1
+			locus_tag	OIGPGILK_00589
+			product	Pyrimidine 5'-nucleotidase YjjG
+1628	921	gene
+			gene	yjjG
+			locus_tag	OIGPGILK_00589
+4093	1667	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00590
+			product	hypothetical protein
+4093	1667	gene
+			locus_tag	OIGPGILK_00590
+4978	4148	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00591
+			product	hypothetical protein
+4978	4148	gene
+			locus_tag	OIGPGILK_00591
+>Feature k105_275621
+99	434	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00592
+			product	hypothetical protein
+99	434	gene
+			locus_tag	OIGPGILK_00592
+438	1859	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00593
+			product	hypothetical protein
+438	1859	gene
+			locus_tag	OIGPGILK_00593
+2234	1884	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00594
+			product	hypothetical protein
+2234	1884	gene
+			locus_tag	OIGPGILK_00594
+3335	2259	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00595
+			product	hypothetical protein
+3335	2259	gene
+			locus_tag	OIGPGILK_00595
+3510	3370	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00596
+			product	hypothetical protein
+3510	3370	gene
+			locus_tag	OIGPGILK_00596
+>Feature k105_275674
+100	675	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00597
+			product	hypothetical protein
+100	675	gene
+			locus_tag	OIGPGILK_00597
+697	2196	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00598
+			product	hypothetical protein
+697	2196	gene
+			locus_tag	OIGPGILK_00598
+3275	2193	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00599
+			product	hypothetical protein
+3275	2193	gene
+			locus_tag	OIGPGILK_00599
+>Feature k105_276279
+1388	267	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00600
+			product	hypothetical protein
+1388	267	gene
+			locus_tag	OIGPGILK_00600
+2486	1989	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00601
+			product	hypothetical protein
+2486	1989	gene
+			locus_tag	OIGPGILK_00601
+>Feature k105_276792
+131	349	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00602
+			product	hypothetical protein
+131	349	gene
+			locus_tag	OIGPGILK_00602
+1309	824	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00603
+			product	hypothetical protein
+1309	824	gene
+			locus_tag	OIGPGILK_00603
+2546	1404	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00604
+			product	hypothetical protein
+2546	1404	gene
+			locus_tag	OIGPGILK_00604
+>Feature k105_277486
+1234	1160	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	OIGPGILK_00605
+			product	tRNA-Arg(ccg)
+1234	1160	gene
+			locus_tag	OIGPGILK_00605
+1788	1402	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00606
+			product	hypothetical protein
+1788	1402	gene
+			locus_tag	OIGPGILK_00606
+2190	1816	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00607
+			product	hypothetical protein
+2190	1816	gene
+			locus_tag	OIGPGILK_00607
+2655	2272	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00608
+			product	hypothetical protein
+2655	2272	gene
+			locus_tag	OIGPGILK_00608
+>Feature k105_278870
+1715	228	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00609
+			product	hypothetical protein
+1715	228	gene
+			locus_tag	OIGPGILK_00609
+2206	1730	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00610
+			product	hypothetical protein
+2206	1730	gene
+			locus_tag	OIGPGILK_00610
+2614	2210	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00611
+			product	hypothetical protein
+2614	2210	gene
+			locus_tag	OIGPGILK_00611
+3072	2632	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00612
+			product	hypothetical protein
+3072	2632	gene
+			locus_tag	OIGPGILK_00612
+3341	3069	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00613
+			product	hypothetical protein
+3341	3069	gene
+			locus_tag	OIGPGILK_00613
+>Feature k105_279633
+3	566	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00614
+			product	hypothetical protein
+3	566	gene
+			locus_tag	OIGPGILK_00614
+563	1615	CDS
+			EC_number	5.1.1.20
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8A861
+			locus_tag	OIGPGILK_00615
+			product	L-Ala-D/L-Glu epimerase
+563	1615	gene
+			locus_tag	OIGPGILK_00615
+1829	2905	CDS
+			gene	dprA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P39813
+			locus_tag	OIGPGILK_00616
+			product	DNA processing protein DprA
+1829	2905	gene
+			gene	dprA
+			locus_tag	OIGPGILK_00616
+4127	2922	CDS
+			EC_number	1.1.1.192
+			gene	adh1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:A4IP64
+			locus_tag	OIGPGILK_00617
+			product	Long-chain-alcohol dehydrogenase 1
+4127	2922	gene
+			gene	adh1
+			locus_tag	OIGPGILK_00617
+4394	4131	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00618
+			product	hypothetical protein
+4394	4131	gene
+			locus_tag	OIGPGILK_00618
+>Feature k105_280043
+9	185	CDS
+			gene	dppB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P26903
+			locus_tag	OIGPGILK_00619
+			product	Dipeptide transport system permease protein DppB
+9	185	gene
+			gene	dppB
+			locus_tag	OIGPGILK_00619
+186	1409	CDS
+			gene	oppC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P08006
+			locus_tag	OIGPGILK_00620
+			product	Oligopeptide transport system permease protein OppC
+186	1409	gene
+			gene	oppC
+			locus_tag	OIGPGILK_00620
+1418	2434	CDS
+			gene	oppD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P24136
+			locus_tag	OIGPGILK_00621
+			product	Oligopeptide transport ATP-binding protein OppD
+1418	2434	gene
+			gene	oppD
+			locus_tag	OIGPGILK_00621
+>Feature k105_281647
+57	2144	CDS
+			EC_number	1.1.5.-
+			gene	yliI_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P75804
+			locus_tag	OIGPGILK_00622
+			product	Aldose sugar dehydrogenase YliI
+57	2144	gene
+			gene	yliI_1
+			locus_tag	OIGPGILK_00622
+2569	2384	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00623
+			product	hypothetical protein
+2569	2384	gene
+			locus_tag	OIGPGILK_00623
+>Feature k105_282926
+113	1849	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00624
+			product	hypothetical protein
+113	1849	gene
+			locus_tag	OIGPGILK_00624
+2612	1860	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00625
+			product	hypothetical protein
+2612	1860	gene
+			locus_tag	OIGPGILK_00625
+2817	3968	CDS
+			EC_number	1.14.14.5
+			gene	msuD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9I1C2
+			locus_tag	OIGPGILK_00626
+			product	Methanesulfonate monooxygenase
+2817	3968	gene
+			gene	msuD
+			locus_tag	OIGPGILK_00626
+>Feature k105_283423
+54	620	CDS
+			gene	bamB_8
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00923
+			locus_tag	OIGPGILK_00627
+			product	Outer membrane protein assembly factor BamB
+54	620	gene
+			gene	bamB_8
+			locus_tag	OIGPGILK_00627
+1529	633	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00628
+			product	hypothetical protein
+1529	633	gene
+			locus_tag	OIGPGILK_00628
+2699	1563	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00629
+			product	hypothetical protein
+2699	1563	gene
+			locus_tag	OIGPGILK_00629
+>Feature k105_284134
+21	1037	CDS
+			gene	ynaI
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AEB5
+			locus_tag	OIGPGILK_00630
+			product	Low conductance mechanosensitive channel YnaI
+21	1037	gene
+			gene	ynaI
+			locus_tag	OIGPGILK_00630
+1193	2215	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00631
+			product	hypothetical protein
+1193	2215	gene
+			locus_tag	OIGPGILK_00631
+2294	3103	CDS
+			EC_number	2.7.11.1
+			gene	pkn1_4
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O84147
+			locus_tag	OIGPGILK_00632
+			product	Serine/threonine-protein kinase pkn1
+2294	3103	gene
+			gene	pkn1_4
+			locus_tag	OIGPGILK_00632
+3821	3111	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00633
+			product	hypothetical protein
+3821	3111	gene
+			locus_tag	OIGPGILK_00633
+4569	3865	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00634
+			product	hypothetical protein
+4569	3865	gene
+			locus_tag	OIGPGILK_00634
+>Feature k105_284944
+2166	235	CDS
+			EC_number	1.1.5.-
+			gene	yliI_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P75804
+			locus_tag	OIGPGILK_00635
+			product	Aldose sugar dehydrogenase YliI
+2166	235	gene
+			gene	yliI_2
+			locus_tag	OIGPGILK_00635
+3106	2342	CDS
+			EC_number	1.1.1.385
+			gene	bacC_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8KWT4
+			locus_tag	OIGPGILK_00636
+			product	Dihydroanticapsin 7-dehydrogenase
+3106	2342	gene
+			gene	bacC_2
+			locus_tag	OIGPGILK_00636
+>Feature k105_287048
+528	121	CDS
+			gene	rplL
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P02397
+			locus_tag	OIGPGILK_00637
+			product	50S ribosomal protein L7/L12
+528	121	gene
+			gene	rplL
+			locus_tag	OIGPGILK_00637
+1246	725	CDS
+			gene	rplJ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P42923
+			locus_tag	OIGPGILK_00638
+			product	50S ribosomal protein L10
+1246	725	gene
+			gene	rplJ
+			locus_tag	OIGPGILK_00638
+1982	1302	CDS
+			gene	rplA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q5SLP7
+			locus_tag	OIGPGILK_00639
+			product	50S ribosomal protein L1
+1982	1302	gene
+			gene	rplA
+			locus_tag	OIGPGILK_00639
+2468	2043	CDS
+			gene	rplK
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0A0F2
+			locus_tag	OIGPGILK_00640
+			product	50S ribosomal protein L11
+2468	2043	gene
+			gene	rplK
+			locus_tag	OIGPGILK_00640
+3387	2491	CDS
+			gene	nusG
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P35872
+			locus_tag	OIGPGILK_00641
+			product	Transcription termination/antitermination protein NusG
+3387	2491	gene
+			gene	nusG
+			locus_tag	OIGPGILK_00641
+3854	3423	CDS
+			gene	secE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00422
+			locus_tag	OIGPGILK_00642
+			product	Protein translocase subunit SecE
+3854	3423	gene
+			gene	secE
+			locus_tag	OIGPGILK_00642
+4064	3989	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	OIGPGILK_00643
+			product	tRNA-Trp(cca)
+4064	3989	gene
+			locus_tag	OIGPGILK_00643
+5268	4075	CDS
+			gene	tufA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q5SHN6
+			locus_tag	OIGPGILK_00644
+			product	Elongation factor Tu-A
+5268	4075	gene
+			gene	tufA
+			locus_tag	OIGPGILK_00644
+5556	5482	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	OIGPGILK_00645
+			product	tRNA-Thr(ggt)
+5556	5482	gene
+			locus_tag	OIGPGILK_00645
+5717	5647	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	OIGPGILK_00646
+			product	tRNA-Gly(tcc)
+5717	5647	gene
+			locus_tag	OIGPGILK_00646
+>Feature k105_287261
+52	855	CDS
+			EC_number	3.5.-.-
+			gene	mftE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WP59
+			locus_tag	OIGPGILK_00647
+			product	Putative mycofactocin system creatinine amidohydrolase family protein MftE
+52	855	gene
+			gene	mftE
+			locus_tag	OIGPGILK_00647
+1993	857	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00648
+			product	hypothetical protein
+1993	857	gene
+			locus_tag	OIGPGILK_00648
+3241	2021	CDS
+			EC_number	2.6.1.39
+			gene	lysN
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q72LL6
+			locus_tag	OIGPGILK_00649
+			product	2-aminoadipate transaminase
+3241	2021	gene
+			gene	lysN
+			locus_tag	OIGPGILK_00649
+>Feature k105_289472
+1251	244	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00650
+			product	hypothetical protein
+1251	244	gene
+			locus_tag	OIGPGILK_00650
+2258	2488	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00651
+			product	hypothetical protein
+2258	2488	gene
+			locus_tag	OIGPGILK_00651
+>Feature k105_289895
+1727	240	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00652
+			product	hypothetical protein
+1727	240	gene
+			locus_tag	OIGPGILK_00652
+>Feature k105_291495
+304	615	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00653
+			product	hypothetical protein
+304	615	gene
+			locus_tag	OIGPGILK_00653
+953	759	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00654
+			product	hypothetical protein
+953	759	gene
+			locus_tag	OIGPGILK_00654
+1245	2756	CDS
+			gene	amt
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O66515
+			locus_tag	OIGPGILK_00655
+			product	Ammonia channel
+1245	2756	gene
+			gene	amt
+			locus_tag	OIGPGILK_00655
+3486	3004	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00656
+			product	hypothetical protein
+3486	3004	gene
+			locus_tag	OIGPGILK_00656
+>Feature k105_292020
+2577	847	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00657
+			product	hypothetical protein
+2577	847	gene
+			locus_tag	OIGPGILK_00657
+>Feature k105_292425
+873	1646	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00658
+			product	hypothetical protein
+873	1646	gene
+			locus_tag	OIGPGILK_00658
+2410	1643	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00659
+			product	hypothetical protein
+2410	1643	gene
+			locus_tag	OIGPGILK_00659
+2946	2533	CDS
+			EC_number	2.4.2.10
+			gene	pyrE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WHK9
+			locus_tag	OIGPGILK_00660
+			product	Orotate phosphoribosyltransferase
+2946	2533	gene
+			gene	pyrE
+			locus_tag	OIGPGILK_00660
+>Feature k105_293102
+118	921	CDS
+			EC_number	3.1.6.6
+			gene	betC_4
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O69787
+			locus_tag	OIGPGILK_00661
+			product	Choline-sulfatase
+118	921	gene
+			gene	betC_4
+			locus_tag	OIGPGILK_00661
+1857	1096	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00662
+			product	hypothetical protein
+1857	1096	gene
+			locus_tag	OIGPGILK_00662
+2514	1963	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00663
+			product	hypothetical protein
+2514	1963	gene
+			locus_tag	OIGPGILK_00663
+>Feature k105_295989
+362	607	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00664
+			product	hypothetical protein
+362	607	gene
+			locus_tag	OIGPGILK_00664
+1402	2658	CDS
+			EC_number	3.6.4.13
+			gene	cshA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P96614
+			locus_tag	OIGPGILK_00665
+			product	DEAD-box ATP-dependent RNA helicase CshA
+1402	2658	gene
+			gene	cshA
+			locus_tag	OIGPGILK_00665
+2765	4306	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00666
+			product	hypothetical protein
+2765	4306	gene
+			locus_tag	OIGPGILK_00666
+4466	5728	CDS
+			EC_number	2.1.2.1
+			gene	glyA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P39148
+			locus_tag	OIGPGILK_00667
+			product	Serine hydroxymethyltransferase
+4466	5728	gene
+			gene	glyA
+			locus_tag	OIGPGILK_00667
+5738	6193	CDS
+			gene	pleD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:B8GZM2
+			locus_tag	OIGPGILK_00668
+			product	Response regulator PleD
+5738	6193	gene
+			gene	pleD
+			locus_tag	OIGPGILK_00668
+6327	8204	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00669
+			product	hypothetical protein
+6327	8204	gene
+			locus_tag	OIGPGILK_00669
+8853	8251	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00670
+			product	hypothetical protein
+8853	8251	gene
+			locus_tag	OIGPGILK_00670
+9422	8985	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00671
+			product	hypothetical protein
+9422	8985	gene
+			locus_tag	OIGPGILK_00671
+>Feature k105_296889
+260	523	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00672
+			product	hypothetical protein
+260	523	gene
+			locus_tag	OIGPGILK_00672
+945	1517	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00673
+			product	hypothetical protein
+945	1517	gene
+			locus_tag	OIGPGILK_00673
+>Feature k105_297952
+66	1364	CDS
+			EC_number	6.1.1.3
+			gene	thrS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P56881
+			locus_tag	OIGPGILK_00674
+			product	Threonine--tRNA ligase
+66	1364	gene
+			gene	thrS
+			locus_tag	OIGPGILK_00674
+1667	2128	CDS
+			gene	infC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P03000
+			locus_tag	OIGPGILK_00675
+			product	Translation initiation factor IF-3
+1667	2128	gene
+			gene	infC
+			locus_tag	OIGPGILK_00675
+2750	2148	CDS
+			EC_number	2.4.1.57
+			gene	pimB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WMZ3
+			locus_tag	OIGPGILK_00676
+			product	GDP-mannose-dependent alpha-(1-6)-phosphatidylinositol monomannoside mannosyltransferase
+2750	2148	gene
+			gene	pimB
+			locus_tag	OIGPGILK_00676
+>Feature k105_298373
+75	680	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00677
+			product	hypothetical protein
+75	680	gene
+			locus_tag	OIGPGILK_00677
+717	1634	CDS
+			EC_number	4.2.1.44
+			gene	iolE_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01672
+			locus_tag	OIGPGILK_00678
+			product	Inosose dehydratase
+717	1634	gene
+			gene	iolE_2
+			locus_tag	OIGPGILK_00678
+1658	2341	CDS
+			EC_number	4.1.2.4
+			gene	deoC2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P99174
+			locus_tag	OIGPGILK_00679
+			product	Deoxyribose-phosphate aldolase 2
+1658	2341	gene
+			gene	deoC2
+			locus_tag	OIGPGILK_00679
+2693	2502	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00680
+			product	hypothetical protein
+2693	2502	gene
+			locus_tag	OIGPGILK_00680
+>Feature k105_300012
+1906	791	CDS
+			EC_number	1.4.99.5
+			gene	hcnC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:G3XD12
+			locus_tag	OIGPGILK_00681
+			product	Hydrogen cyanide synthase subunit HcnC
+1906	791	gene
+			gene	hcnC
+			locus_tag	OIGPGILK_00681
+2358	1921	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00682
+			product	hypothetical protein
+2358	1921	gene
+			locus_tag	OIGPGILK_00682
+>Feature k105_300898
+2613	2125	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00683
+			product	hypothetical protein
+2613	2125	gene
+			locus_tag	OIGPGILK_00683
+>Feature k105_300902
+930	1487	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00684
+			product	hypothetical protein
+930	1487	gene
+			locus_tag	OIGPGILK_00684
+2573	1497	CDS
+			EC_number	1.1.1.136
+			gene	wbpA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:G3XD94
+			locus_tag	OIGPGILK_00685
+			product	UDP-N-acetyl-D-glucosamine 6-dehydrogenase
+2573	1497	gene
+			gene	wbpA
+			locus_tag	OIGPGILK_00685
+>Feature k105_301823
+29	259	CDS
+			gene	pstS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q02DZ3
+			locus_tag	OIGPGILK_00686
+			product	Phosphate-binding protein PstS
+29	259	gene
+			gene	pstS
+			locus_tag	OIGPGILK_00686
+285	1220	CDS
+			gene	pstC1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WG07
+			locus_tag	OIGPGILK_00687
+			product	Phosphate transport system permease protein PstC 1
+285	1220	gene
+			gene	pstC1
+			locus_tag	OIGPGILK_00687
+1213	2160	CDS
+			gene	pstA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P07654
+			locus_tag	OIGPGILK_00688
+			product	Phosphate transport system permease protein PstA
+1213	2160	gene
+			gene	pstA
+			locus_tag	OIGPGILK_00688
+>Feature k105_302287
+>Feature k105_302325
+15	749	CDS
+			EC_number	6.3.5.4
+			gene	asnB_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P54420
+			locus_tag	OIGPGILK_00689
+			product	Asparagine synthetase [glutamine-hydrolyzing] 1
+15	749	gene
+			gene	asnB_1
+			locus_tag	OIGPGILK_00689
+907	2484	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00690
+			product	hypothetical protein
+907	2484	gene
+			locus_tag	OIGPGILK_00690
+2711	2496	CDS
+			EC_number	4.2.1.41
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00694
+			locus_tag	OIGPGILK_00691
+			product	5-dehydro-4-deoxyglucarate dehydratase
+2711	2496	gene
+			locus_tag	OIGPGILK_00691
+>Feature k105_307335
+40	1320	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00692
+			product	hypothetical protein
+40	1320	gene
+			locus_tag	OIGPGILK_00692
+3027	1594	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00693
+			product	hypothetical protein
+3027	1594	gene
+			locus_tag	OIGPGILK_00693
+3609	3037	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00694
+			product	hypothetical protein
+3609	3037	gene
+			locus_tag	OIGPGILK_00694
+>Feature k105_308224
+62	1153	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00695
+			product	hypothetical protein
+62	1153	gene
+			locus_tag	OIGPGILK_00695
+2261	1197	CDS
+			gene	flhB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O67813
+			locus_tag	OIGPGILK_00696
+			product	Flagellar biosynthetic protein FlhB
+2261	1197	gene
+			gene	flhB
+			locus_tag	OIGPGILK_00696
+3059	2283	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00697
+			product	hypothetical protein
+3059	2283	gene
+			locus_tag	OIGPGILK_00697
+3345	3109	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00698
+			product	hypothetical protein
+3345	3109	gene
+			locus_tag	OIGPGILK_00698
+>Feature k105_313027
+31	1059	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00699
+			product	hypothetical protein
+31	1059	gene
+			locus_tag	OIGPGILK_00699
+>Feature k105_314420
+1610	1251	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00700
+			product	hypothetical protein
+1610	1251	gene
+			locus_tag	OIGPGILK_00700
+2832	1603	CDS
+			EC_number	2.7.7.7
+			gene	dinB1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WNT3
+			locus_tag	OIGPGILK_00701
+			product	DNA polymerase IV 1
+2832	1603	gene
+			gene	dinB1
+			locus_tag	OIGPGILK_00701
+>Feature k105_315106
+1282	1734	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00702
+			product	hypothetical protein
+1282	1734	gene
+			locus_tag	OIGPGILK_00702
+3040	2225	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00703
+			product	hypothetical protein
+3040	2225	gene
+			locus_tag	OIGPGILK_00703
+>Feature k105_315432
+14	289	CDS
+			EC_number	2.7.1.2
+			gene	glcK
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P54495
+			locus_tag	OIGPGILK_00704
+			product	Glucokinase
+14	289	gene
+			gene	glcK
+			locus_tag	OIGPGILK_00704
+424	2238	CDS
+			EC_number	3.6.5.-
+			gene	lepA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O67618
+			locus_tag	OIGPGILK_00705
+			product	Elongation factor 4
+424	2238	gene
+			gene	lepA
+			locus_tag	OIGPGILK_00705
+>Feature k105_315449
+274	2013	CDS
+			EC_number	1.6.5.11
+			gene	nuoN
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P0AFF0
+			locus_tag	OIGPGILK_00706
+			product	NADH-quinone oxidoreductase subunit N
+274	2013	gene
+			gene	nuoN
+			locus_tag	OIGPGILK_00706
+2060	2482	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00707
+			product	hypothetical protein
+2060	2482	gene
+			locus_tag	OIGPGILK_00707
+>Feature k105_316061
+1088	45	CDS
+			EC_number	6.1.1.20
+			gene	pheS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P08312
+			locus_tag	OIGPGILK_00708
+			product	Phenylalanine--tRNA ligase alpha subunit
+1088	45	gene
+			gene	pheS
+			locus_tag	OIGPGILK_00708
+1578	1219	CDS
+			gene	rplT
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O67086
+			locus_tag	OIGPGILK_00709
+			product	50S ribosomal protein L20
+1578	1219	gene
+			gene	rplT
+			locus_tag	OIGPGILK_00709
+1982	1779	CDS
+			gene	rpmI
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P55874
+			locus_tag	OIGPGILK_00710
+			product	50S ribosomal protein L35
+1982	1779	gene
+			gene	rpmI
+			locus_tag	OIGPGILK_00710
+2161	2691	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00711
+			product	hypothetical protein
+2161	2691	gene
+			locus_tag	OIGPGILK_00711
+3398	3210	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00712
+			product	hypothetical protein
+3398	3210	gene
+			locus_tag	OIGPGILK_00712
+>Feature k105_320670
+506	931	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00713
+			product	hypothetical protein
+506	931	gene
+			locus_tag	OIGPGILK_00713
+2041	944	CDS
+			EC_number	2.7.7.7
+			gene	dnaX
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P06710
+			locus_tag	OIGPGILK_00714
+			product	DNA polymerase III subunit tau
+2041	944	gene
+			gene	dnaX
+			locus_tag	OIGPGILK_00714
+2684	2094	CDS
+			EC_number	2.7.4.9
+			gene	tmk
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O67099
+			locus_tag	OIGPGILK_00715
+			product	Thymidylate kinase
+2684	2094	gene
+			gene	tmk
+			locus_tag	OIGPGILK_00715
+>Feature k105_321039
+587	2155	CDS
+			gene	sigA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P06224
+			locus_tag	OIGPGILK_00716
+			product	RNA polymerase sigma factor SigA
+587	2155	gene
+			gene	sigA
+			locus_tag	OIGPGILK_00716
+2318	5437	CDS
+			gene	glnE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P30870
+			locus_tag	OIGPGILK_00717
+			product	Bifunctional glutamine synthetase adenylyltransferase/adenylyl-removing enzyme
+2318	5437	gene
+			gene	glnE
+			locus_tag	OIGPGILK_00717
+5445	6953	CDS
+			EC_number	1.3.5.4
+			gene	ifcA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9Z4P0
+			locus_tag	OIGPGILK_00718
+			product	Fumarate reductase flavoprotein subunit
+5445	6953	gene
+			gene	ifcA
+			locus_tag	OIGPGILK_00718
+7666	6965	CDS
+			EC_number	6.3.3.3
+			gene	bioD1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P13000
+			locus_tag	OIGPGILK_00719
+			product	ATP-dependent dethiobiotin synthetase BioD 1
+7666	6965	gene
+			gene	bioD1
+			locus_tag	OIGPGILK_00719
+>Feature k105_321747
+104	1192	CDS
+			EC_number	6.3.5.4
+			gene	asnB_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P54420
+			locus_tag	OIGPGILK_00720
+			product	Asparagine synthetase [glutamine-hydrolyzing] 1
+104	1192	gene
+			gene	asnB_2
+			locus_tag	OIGPGILK_00720
+1195	1980	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00721
+			product	hypothetical protein
+1195	1980	gene
+			locus_tag	OIGPGILK_00721
+2013	2438	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00722
+			product	hypothetical protein
+2013	2438	gene
+			locus_tag	OIGPGILK_00722
+>Feature k105_324659
+46	534	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00723
+			product	hypothetical protein
+46	534	gene
+			locus_tag	OIGPGILK_00723
+1557	571	CDS
+			gene	ribY
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:A9WGD2
+			locus_tag	OIGPGILK_00724
+			product	Riboflavin-binding protein RibY
+1557	571	gene
+			gene	ribY
+			locus_tag	OIGPGILK_00724
+2423	1632	CDS
+			gene	ribX
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:A9WGD1
+			locus_tag	OIGPGILK_00725
+			product	Riboflavin transport system permease protein RibX
+2423	1632	gene
+			gene	ribX
+			locus_tag	OIGPGILK_00725
+3196	2420	CDS
+			EC_number	3.6.3.-
+			gene	ssuB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P97027
+			locus_tag	OIGPGILK_00726
+			product	Aliphatic sulfonates import ATP-binding protein SsuB
+3196	2420	gene
+			gene	ssuB
+			locus_tag	OIGPGILK_00726
+3341	3772	CDS
+			EC_number	4.99.1.4
+			gene	sirB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O34632
+			locus_tag	OIGPGILK_00727
+			product	Sirohydrochlorin ferrochelatase
+3341	3772	gene
+			gene	sirB
+			locus_tag	OIGPGILK_00727
+3783	5279	CDS
+			EC_number	3.1.6.1
+			gene	atsA_7
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P51691
+			locus_tag	OIGPGILK_00728
+			product	Arylsulfatase
+3783	5279	gene
+			gene	atsA_7
+			locus_tag	OIGPGILK_00728
+6133	5300	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00729
+			product	hypothetical protein
+6133	5300	gene
+			locus_tag	OIGPGILK_00729
+6629	6171	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00730
+			product	hypothetical protein
+6629	6171	gene
+			locus_tag	OIGPGILK_00730
+>Feature k105_326647
+350	868	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00731
+			product	hypothetical protein
+350	868	gene
+			locus_tag	OIGPGILK_00731
+2003	2620	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00732
+			product	hypothetical protein
+2003	2620	gene
+			locus_tag	OIGPGILK_00732
+3403	2639	CDS
+			gene	bamB_9
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00923
+			locus_tag	OIGPGILK_00733
+			product	Outer membrane protein assembly factor BamB
+3403	2639	gene
+			gene	bamB_9
+			locus_tag	OIGPGILK_00733
+>Feature k105_327039
+122	595	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00734
+			product	hypothetical protein
+122	595	gene
+			locus_tag	OIGPGILK_00734
+623	2185	CDS
+			EC_number	3.1.3.1
+			gene	phoD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P42251
+			locus_tag	OIGPGILK_00735
+			product	Alkaline phosphatase D
+623	2185	gene
+			gene	phoD
+			locus_tag	OIGPGILK_00735
+2226	3143	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00736
+			product	hypothetical protein
+2226	3143	gene
+			locus_tag	OIGPGILK_00736
+>Feature k105_328909
+1593	148	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00737
+			product	hypothetical protein
+1593	148	gene
+			locus_tag	OIGPGILK_00737
+2627	1800	CDS
+			EC_number	3.6.-.-
+			gene	soj
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P37522
+			locus_tag	OIGPGILK_00738
+			product	Sporulation initiation inhibitor protein Soj
+2627	1800	gene
+			gene	soj
+			locus_tag	OIGPGILK_00738
+2820	3833	CDS
+			EC_number	3.4.21.105
+			gene	glpG
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P09391
+			locus_tag	OIGPGILK_00739
+			product	Rhomboid protease GlpG
+2820	3833	gene
+			gene	glpG
+			locus_tag	OIGPGILK_00739
+4219	3836	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00740
+			product	hypothetical protein
+4219	3836	gene
+			locus_tag	OIGPGILK_00740
+>Feature k105_328933
+933	421	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00741
+			product	hypothetical protein
+933	421	gene
+			locus_tag	OIGPGILK_00741
+1179	1961	CDS
+			EC_number	1.1.1.127
+			gene	kduD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q05528
+			locus_tag	OIGPGILK_00742
+			product	2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase
+1179	1961	gene
+			gene	kduD
+			locus_tag	OIGPGILK_00742
+2482	1994	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00743
+			product	hypothetical protein
+2482	1994	gene
+			locus_tag	OIGPGILK_00743
+2997	2662	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00744
+			product	hypothetical protein
+2997	2662	gene
+			locus_tag	OIGPGILK_00744
+>Feature k105_331526
+18	1223	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00745
+			product	hypothetical protein
+18	1223	gene
+			locus_tag	OIGPGILK_00745
+1216	2124	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00746
+			product	hypothetical protein
+1216	2124	gene
+			locus_tag	OIGPGILK_00746
+2684	2466	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00747
+			product	hypothetical protein
+2684	2466	gene
+			locus_tag	OIGPGILK_00747
+>Feature k105_331928
+332	886	CDS
+			EC_number	2.3.1.189
+			gene	mshD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01698
+			locus_tag	OIGPGILK_00748
+			product	Mycothiol acetyltransferase
+332	886	gene
+			gene	mshD
+			locus_tag	OIGPGILK_00748
+1004	2236	CDS
+			EC_number	3.4.24.-
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P9WHT5
+			locus_tag	OIGPGILK_00749
+			product	putative zinc protease
+1004	2236	gene
+			locus_tag	OIGPGILK_00749
+>Feature k105_333087
+49	1005	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00750
+			product	hypothetical protein
+49	1005	gene
+			locus_tag	OIGPGILK_00750
+2473	1016	CDS
+			EC_number	3.4.11.1
+			gene	pepA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O86436
+			locus_tag	OIGPGILK_00751
+			product	Cytosol aminopeptidase
+2473	1016	gene
+			gene	pepA
+			locus_tag	OIGPGILK_00751
+>Feature k105_333523
+2687	2562	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00752
+			product	hypothetical protein
+2687	2562	gene
+			locus_tag	OIGPGILK_00752
+>Feature k105_334787
+150	296	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00753
+			product	hypothetical protein
+150	296	gene
+			locus_tag	OIGPGILK_00753
+1634	1413	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00754
+			product	hypothetical protein
+1634	1413	gene
+			locus_tag	OIGPGILK_00754
+2558	1659	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00755
+			product	hypothetical protein
+2558	1659	gene
+			locus_tag	OIGPGILK_00755
+>Feature k105_335298
+2141	1164	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00756
+			product	hypothetical protein
+2141	1164	gene
+			locus_tag	OIGPGILK_00756
+2609	2187	CDS
+			EC_number	3.4.24.-
+			gene	ftsH_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:B8H444
+			locus_tag	OIGPGILK_00757
+			product	ATP-dependent zinc metalloprotease FtsH
+2609	2187	gene
+			gene	ftsH_2
+			locus_tag	OIGPGILK_00757
+>Feature k105_337249
+1932	3314	CDS
+			EC_number	4.3.2.1
+			gene	argH
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q5SLL0
+			locus_tag	OIGPGILK_00758
+			product	Argininosuccinate lyase
+1932	3314	gene
+			gene	argH
+			locus_tag	OIGPGILK_00758
+>Feature k105_340673
+91	2310	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00759
+			product	hypothetical protein
+91	2310	gene
+			locus_tag	OIGPGILK_00759
+2325	3263	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00760
+			product	hypothetical protein
+2325	3263	gene
+			locus_tag	OIGPGILK_00760
+>Feature k105_340922
+294	2405	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00761
+			product	hypothetical protein
+294	2405	gene
+			locus_tag	OIGPGILK_00761
+2819	2508	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	OIGPGILK_00762
+			product	hypothetical protein
+2819	2508	gene
+			locus_tag	OIGPGILK_00762

@@ -1,0 +1,287 @@
+Note the old-format NCBI blast databases are no longer being updated after September 2019, instead use blast/2.9.0+
+[14:28:17] This is prokka 1.12
+[14:28:17] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:28:17] Homepage is https://github.com/tseemann/prokka
+[14:28:17] Local time is Wed Apr 29 14:28:17 2020
+[14:28:17] You are joen8526
+[14:28:17] Operating system is linux
+[14:28:17] You have BioPerl 1.007001
+[14:28:17] System has 20 cores.
+[14:28:17] Will use maximum of 8 cores.
+[14:28:17] Annotating as >>> Bacteria <<<
+[14:28:17] '/home/joen8526/GenomeAnalysis/data/binned_metagenome/bin_1.fa' is not a readable non-empty FASTA file
+[14:28:18] This is prokka 1.12
+[14:28:18] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:28:18] Homepage is https://github.com/tseemann/prokka
+[14:28:18] Local time is Wed Apr 29 14:28:18 2020
+[14:28:18] You are joen8526
+[14:28:18] Operating system is linux
+[14:28:18] You have BioPerl 1.007001
+[14:28:18] System has 20 cores.
+[14:28:18] Will use maximum of 8 cores.
+[14:28:18] Annotating as >>> Bacteria <<<
+[14:28:18] '/home/joen8526/GenomeAnalysis/data/binned_metagenome/bin_2.fa' is not a readable non-empty FASTA file
+[14:28:18] This is prokka 1.12
+[14:28:18] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:28:18] Homepage is https://github.com/tseemann/prokka
+[14:28:18] Local time is Wed Apr 29 14:28:18 2020
+[14:28:18] You are joen8526
+[14:28:18] Operating system is linux
+[14:28:18] You have BioPerl 1.007001
+[14:28:18] System has 20 cores.
+[14:28:18] Will use maximum of 8 cores.
+[14:28:18] Annotating as >>> Bacteria <<<
+[14:28:18] '/home/joen8526/GenomeAnalysis/data/binned_metagenome/bin_3.fa' is not a readable non-empty FASTA file
+[14:28:18] This is prokka 1.12
+[14:28:18] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:28:18] Homepage is https://github.com/tseemann/prokka
+[14:28:18] Local time is Wed Apr 29 14:28:18 2020
+[14:28:18] You are joen8526
+[14:28:18] Operating system is linux
+[14:28:18] You have BioPerl 1.007001
+[14:28:18] System has 20 cores.
+[14:28:18] Will use maximum of 8 cores.
+[14:28:18] Annotating as >>> Bacteria <<<
+[14:28:18] '/home/joen8526/GenomeAnalysis/data/binned_metagenome/bin_4.fa' is not a readable non-empty FASTA file
+[14:28:18] This is prokka 1.12
+[14:28:18] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:28:18] Homepage is https://github.com/tseemann/prokka
+[14:28:18] Local time is Wed Apr 29 14:28:18 2020
+[14:28:18] You are joen8526
+[14:28:18] Operating system is linux
+[14:28:18] You have BioPerl 1.007001
+[14:28:18] System has 20 cores.
+[14:28:18] Will use maximum of 8 cores.
+[14:28:18] Annotating as >>> Bacteria <<<
+[14:28:18] '/home/joen8526/GenomeAnalysis/data/binned_metagenome/bin_5.fa' is not a readable non-empty FASTA file
+[14:28:18] This is prokka 1.12
+[14:28:18] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:28:18] Homepage is https://github.com/tseemann/prokka
+[14:28:18] Local time is Wed Apr 29 14:28:18 2020
+[14:28:18] You are joen8526
+[14:28:18] Operating system is linux
+[14:28:18] You have BioPerl 1.007001
+[14:28:18] System has 20 cores.
+[14:28:18] Will use maximum of 8 cores.
+[14:28:18] Annotating as >>> Bacteria <<<
+[14:28:18] '/home/joen8526/GenomeAnalysis/data/binned_metagenome/bin_6.fa' is not a readable non-empty FASTA file
+[14:28:18] This is prokka 1.12
+[14:28:18] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:28:18] Homepage is https://github.com/tseemann/prokka
+[14:28:18] Local time is Wed Apr 29 14:28:18 2020
+[14:28:18] You are joen8526
+[14:28:18] Operating system is linux
+[14:28:18] You have BioPerl 1.007001
+[14:28:18] System has 20 cores.
+[14:28:18] Will use maximum of 8 cores.
+[14:28:18] Annotating as >>> Bacteria <<<
+[14:28:18] '/home/joen8526/GenomeAnalysis/data/binned_metagenome/bin_7.fa' is not a readable non-empty FASTA file
+[14:28:18] This is prokka 1.12
+[14:28:18] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:28:18] Homepage is https://github.com/tseemann/prokka
+[14:28:18] Local time is Wed Apr 29 14:28:18 2020
+[14:28:18] You are joen8526
+[14:28:18] Operating system is linux
+[14:28:18] You have BioPerl 1.007001
+[14:28:19] System has 20 cores.
+[14:28:19] Will use maximum of 8 cores.
+[14:28:19] Annotating as >>> Bacteria <<<
+[14:28:19] '/home/joen8526/GenomeAnalysis/data/binned_metagenome/bin_8.fa' is not a readable non-empty FASTA file
+[14:28:19] This is prokka 1.12
+[14:28:19] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:28:19] Homepage is https://github.com/tseemann/prokka
+[14:28:19] Local time is Wed Apr 29 14:28:19 2020
+[14:28:19] You are joen8526
+[14:28:19] Operating system is linux
+[14:28:19] You have BioPerl 1.007001
+[14:28:19] System has 20 cores.
+[14:28:19] Will use maximum of 8 cores.
+[14:28:19] Annotating as >>> Bacteria <<<
+[14:28:19] '/home/joen8526/GenomeAnalysis/data/binned_metagenome/bin_9.fa' is not a readable non-empty FASTA file
+[14:28:19] This is prokka 1.12
+[14:28:19] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:28:19] Homepage is https://github.com/tseemann/prokka
+[14:28:19] Local time is Wed Apr 29 14:28:19 2020
+[14:28:19] You are joen8526
+[14:28:19] Operating system is linux
+[14:28:19] You have BioPerl 1.007001
+[14:28:19] System has 20 cores.
+[14:28:19] Will use maximum of 8 cores.
+[14:28:19] Annotating as >>> Bacteria <<<
+[14:28:19] '/home/joen8526/GenomeAnalysis/data/binned_metagenome/bin_11.fa' is not a readable non-empty FASTA file
+[14:28:19] This is prokka 1.12
+[14:28:19] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:28:19] Homepage is https://github.com/tseemann/prokka
+[14:28:19] Local time is Wed Apr 29 14:28:19 2020
+[14:28:19] You are joen8526
+[14:28:19] Operating system is linux
+[14:28:19] You have BioPerl 1.007001
+[14:28:19] System has 20 cores.
+[14:28:19] Will use maximum of 8 cores.
+[14:28:19] Annotating as >>> Bacteria <<<
+[14:28:19] '/home/joen8526/GenomeAnalysis/data/binned_metagenome/bin_13.fa' is not a readable non-empty FASTA file
+[14:28:19] This is prokka 1.12
+[14:28:19] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:28:19] Homepage is https://github.com/tseemann/prokka
+[14:28:19] Local time is Wed Apr 29 14:28:19 2020
+[14:28:19] You are joen8526
+[14:28:19] Operating system is linux
+[14:28:19] You have BioPerl 1.007001
+[14:28:19] System has 20 cores.
+[14:28:19] Will use maximum of 8 cores.
+[14:28:19] Annotating as >>> Bacteria <<<
+[14:28:19] '/home/joen8526/GenomeAnalysis/data/binned_metagenome/bin_15.fa' is not a readable non-empty FASTA file
+[14:28:19] This is prokka 1.12
+[14:28:19] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:28:19] Homepage is https://github.com/tseemann/prokka
+[14:28:19] Local time is Wed Apr 29 14:28:19 2020
+[14:28:19] You are joen8526
+[14:28:19] Operating system is linux
+[14:28:19] You have BioPerl 1.007001
+[14:28:19] System has 20 cores.
+[14:28:19] Will use maximum of 8 cores.
+[14:28:19] Annotating as >>> Bacteria <<<
+[14:28:19] '/home/joen8526/GenomeAnalysis/data/binned_metagenome/bin_16.fa' is not a readable non-empty FASTA file
+[14:28:19] This is prokka 1.12
+[14:28:19] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:28:19] Homepage is https://github.com/tseemann/prokka
+[14:28:19] Local time is Wed Apr 29 14:28:19 2020
+[14:28:19] You are joen8526
+[14:28:19] Operating system is linux
+[14:28:19] You have BioPerl 1.007001
+[14:28:19] System has 20 cores.
+[14:28:19] Will use maximum of 8 cores.
+[14:28:19] Annotating as >>> Bacteria <<<
+[14:28:19] '/home/joen8526/GenomeAnalysis/data/binned_metagenome/bin_17.fa' is not a readable non-empty FASTA file
+[14:28:20] This is prokka 1.12
+[14:28:20] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:28:20] Homepage is https://github.com/tseemann/prokka
+[14:28:20] Local time is Wed Apr 29 14:28:20 2020
+[14:28:20] You are joen8526
+[14:28:20] Operating system is linux
+[14:28:20] You have BioPerl 1.007001
+[14:28:20] System has 20 cores.
+[14:28:20] Will use maximum of 8 cores.
+[14:28:20] Annotating as >>> Bacteria <<<
+[14:28:20] '/home/joen8526/GenomeAnalysis/data/binned_metagenome/bin_18.fa' is not a readable non-empty FASTA file
+[14:28:20] This is prokka 1.12
+[14:28:20] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:28:20] Homepage is https://github.com/tseemann/prokka
+[14:28:20] Local time is Wed Apr 29 14:28:20 2020
+[14:28:20] You are joen8526
+[14:28:20] Operating system is linux
+[14:28:20] You have BioPerl 1.007001
+[14:28:20] System has 20 cores.
+[14:28:20] Will use maximum of 8 cores.
+[14:28:20] Annotating as >>> Bacteria <<<
+[14:28:20] '/home/joen8526/GenomeAnalysis/data/binned_metagenome/bin_19.fa' is not a readable non-empty FASTA file
+[14:28:20] This is prokka 1.12
+[14:28:20] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:28:20] Homepage is https://github.com/tseemann/prokka
+[14:28:20] Local time is Wed Apr 29 14:28:20 2020
+[14:28:20] You are joen8526
+[14:28:20] Operating system is linux
+[14:28:20] You have BioPerl 1.007001
+[14:28:20] System has 20 cores.
+[14:28:20] Will use maximum of 8 cores.
+[14:28:20] Annotating as >>> Bacteria <<<
+[14:28:20] '/home/joen8526/GenomeAnalysis/data/binned_metagenome/bin_21.fa' is not a readable non-empty FASTA file
+[14:28:20] This is prokka 1.12
+[14:28:20] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:28:20] Homepage is https://github.com/tseemann/prokka
+[14:28:20] Local time is Wed Apr 29 14:28:20 2020
+[14:28:20] You are joen8526
+[14:28:20] Operating system is linux
+[14:28:20] You have BioPerl 1.007001
+[14:28:20] System has 20 cores.
+[14:28:20] Will use maximum of 8 cores.
+[14:28:20] Annotating as >>> Bacteria <<<
+[14:28:20] '/home/joen8526/GenomeAnalysis/data/binned_metagenome/bin_22.fa' is not a readable non-empty FASTA file
+[14:28:20] This is prokka 1.12
+[14:28:20] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:28:20] Homepage is https://github.com/tseemann/prokka
+[14:28:20] Local time is Wed Apr 29 14:28:20 2020
+[14:28:20] You are joen8526
+[14:28:20] Operating system is linux
+[14:28:20] You have BioPerl 1.007001
+[14:28:20] System has 20 cores.
+[14:28:20] Will use maximum of 8 cores.
+[14:28:20] Annotating as >>> Bacteria <<<
+[14:28:20] '/home/joen8526/GenomeAnalysis/data/binned_metagenome/bin_23.fa' is not a readable non-empty FASTA file
+[14:28:20] This is prokka 1.12
+[14:28:20] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:28:20] Homepage is https://github.com/tseemann/prokka
+[14:28:20] Local time is Wed Apr 29 14:28:20 2020
+[14:28:20] You are joen8526
+[14:28:20] Operating system is linux
+[14:28:20] You have BioPerl 1.007001
+[14:28:20] System has 20 cores.
+[14:28:20] Will use maximum of 8 cores.
+[14:28:20] Annotating as >>> Bacteria <<<
+[14:28:20] '/home/joen8526/GenomeAnalysis/data/binned_metagenome/bin_24.fa' is not a readable non-empty FASTA file
+[14:28:21] This is prokka 1.12
+[14:28:21] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:28:21] Homepage is https://github.com/tseemann/prokka
+[14:28:21] Local time is Wed Apr 29 14:28:21 2020
+[14:28:21] You are joen8526
+[14:28:21] Operating system is linux
+[14:28:21] You have BioPerl 1.007001
+[14:28:21] System has 20 cores.
+[14:28:21] Will use maximum of 8 cores.
+[14:28:21] Annotating as >>> Bacteria <<<
+[14:28:21] '/home/joen8526/GenomeAnalysis/data/binned_metagenome/bin_25.fa' is not a readable non-empty FASTA file
+[14:28:21] This is prokka 1.12
+[14:28:21] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:28:21] Homepage is https://github.com/tseemann/prokka
+[14:28:21] Local time is Wed Apr 29 14:28:21 2020
+[14:28:21] You are joen8526
+[14:28:21] Operating system is linux
+[14:28:21] You have BioPerl 1.007001
+[14:28:21] System has 20 cores.
+[14:28:21] Will use maximum of 8 cores.
+[14:28:21] Annotating as >>> Bacteria <<<
+[14:28:21] '/home/joen8526/GenomeAnalysis/data/binned_metagenome/bin_26.fa' is not a readable non-empty FASTA file
+[14:28:21] This is prokka 1.12
+[14:28:21] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:28:21] Homepage is https://github.com/tseemann/prokka
+[14:28:21] Local time is Wed Apr 29 14:28:21 2020
+[14:28:21] You are joen8526
+[14:28:21] Operating system is linux
+[14:28:21] You have BioPerl 1.007001
+[14:28:21] System has 20 cores.
+[14:28:21] Will use maximum of 8 cores.
+[14:28:21] Annotating as >>> Archaea <<<
+[14:28:21] '/home/joen8526/GenomeAnalysis/data/binned_metagenome/bin_10.fa' is not a readable non-empty FASTA file
+[14:28:21] This is prokka 1.12
+[14:28:21] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:28:21] Homepage is https://github.com/tseemann/prokka
+[14:28:21] Local time is Wed Apr 29 14:28:21 2020
+[14:28:21] You are joen8526
+[14:28:21] Operating system is linux
+[14:28:21] You have BioPerl 1.007001
+[14:28:21] System has 20 cores.
+[14:28:21] Will use maximum of 8 cores.
+[14:28:21] Annotating as >>> Archaea <<<
+[14:28:21] '/home/joen8526/GenomeAnalysis/data/binned_metagenome/bin_12.fa' is not a readable non-empty FASTA file
+[14:28:21] This is prokka 1.12
+[14:28:21] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:28:21] Homepage is https://github.com/tseemann/prokka
+[14:28:21] Local time is Wed Apr 29 14:28:21 2020
+[14:28:21] You are joen8526
+[14:28:21] Operating system is linux
+[14:28:21] You have BioPerl 1.007001
+[14:28:21] System has 20 cores.
+[14:28:21] Will use maximum of 8 cores.
+[14:28:21] Annotating as >>> Archaea <<<
+[14:28:21] '/home/joen8526/GenomeAnalysis/data/binned_metagenome/bin_14.fa' is not a readable non-empty FASTA file
+[14:28:21] This is prokka 1.12
+[14:28:21] Written by Torsten Seemann <torsten.seemann@gmail.com>
+[14:28:21] Homepage is https://github.com/tseemann/prokka
+[14:28:21] Local time is Wed Apr 29 14:28:21 2020
+[14:28:21] You are joen8526
+[14:28:21] Operating system is linux
+[14:28:21] You have BioPerl 1.007001
+[14:28:21] System has 20 cores.
+[14:28:21] Will use maximum of 8 cores.
+[14:28:21] Annotating as >>> Archaea <<<
+[14:28:21] '/home/joen8526/GenomeAnalysis/data/binned_metagenome/bin_20.fa' is not a readable non-empty FASTA file

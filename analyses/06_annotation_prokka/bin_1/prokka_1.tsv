@@ -1,0 +1,1397 @@
+locus_tag	ftype	gene	EC_number	product
+JJHLDMLH_00001	CDS			hypothetical protein
+JJHLDMLH_00001	gene			
+JJHLDMLH_00002	CDS	aroC	4.2.3.5	Chorismate synthase
+JJHLDMLH_00002	gene	aroC		
+JJHLDMLH_00003	CDS		3.1.1.99	6-deoxy-6-sulfogluconolactonase
+JJHLDMLH_00003	gene			
+JJHLDMLH_00004	CDS			hypothetical protein
+JJHLDMLH_00004	gene			
+JJHLDMLH_00005	CDS			hypothetical protein
+JJHLDMLH_00005	gene			
+JJHLDMLH_00006	CDS	amiC		Aliphatic amidase expression-regulating protein
+JJHLDMLH_00006	gene	amiC		
+JJHLDMLH_00007	CDS	ureG		Urease accessory protein UreG
+JJHLDMLH_00007	gene	ureG		
+JJHLDMLH_00008	CDS			hypothetical protein
+JJHLDMLH_00008	gene			
+JJHLDMLH_00009	CDS			hypothetical protein
+JJHLDMLH_00009	gene			
+JJHLDMLH_00010	CDS	prlC	3.4.24.70	Oligopeptidase A
+JJHLDMLH_00010	gene	prlC		
+JJHLDMLH_00011	CDS	ndhD1	1.6.5.-	NAD(P)H-quinone oxidoreductase chain 4 1
+JJHLDMLH_00011	gene	ndhD1		
+JJHLDMLH_00012	CDS			hypothetical protein
+JJHLDMLH_00012	gene			
+JJHLDMLH_00013	CDS			hypothetical protein
+JJHLDMLH_00013	gene			
+JJHLDMLH_00014	CDS			hypothetical protein
+JJHLDMLH_00014	gene			
+JJHLDMLH_00015	CDS	lspA	3.4.23.36	Lipoprotein signal peptidase
+JJHLDMLH_00015	gene	lspA		
+JJHLDMLH_00016	CDS	pbpG		Penicillin-binding protein 2D
+JJHLDMLH_00016	gene	pbpG		
+JJHLDMLH_00017	CDS			hypothetical protein
+JJHLDMLH_00017	gene			
+JJHLDMLH_00018	CDS			hypothetical protein
+JJHLDMLH_00018	gene			
+JJHLDMLH_00019	CDS	uvrC		UvrABC system protein C
+JJHLDMLH_00019	gene	uvrC		
+JJHLDMLH_00020	CDS	coaD	2.7.7.3	Phosphopantetheine adenylyltransferase
+JJHLDMLH_00020	gene	coaD		
+JJHLDMLH_00021	CDS			hypothetical protein
+JJHLDMLH_00021	gene			
+JJHLDMLH_00022	CDS			hypothetical protein
+JJHLDMLH_00022	gene			
+JJHLDMLH_00023	CDS			hypothetical protein
+JJHLDMLH_00023	gene			
+JJHLDMLH_00024	CDS			putative ABC transporter ATP-binding protein
+JJHLDMLH_00024	gene			
+JJHLDMLH_00025	CDS			hypothetical protein
+JJHLDMLH_00025	gene			
+JJHLDMLH_00026	CDS	exbB		Biopolymer transport protein ExbB
+JJHLDMLH_00026	gene	exbB		
+JJHLDMLH_00027	CDS			hypothetical protein
+JJHLDMLH_00027	gene			
+JJHLDMLH_00028	CDS			hypothetical protein
+JJHLDMLH_00028	gene			
+JJHLDMLH_00029	CDS	hhoB		Putative serine protease HhoB
+JJHLDMLH_00029	gene	hhoB		
+JJHLDMLH_00030	CDS			hypothetical protein
+JJHLDMLH_00030	gene			
+JJHLDMLH_00031	CDS			hypothetical protein
+JJHLDMLH_00031	gene			
+JJHLDMLH_00032	CDS			hypothetical protein
+JJHLDMLH_00032	gene			
+JJHLDMLH_00033	CDS			hypothetical protein
+JJHLDMLH_00033	gene			
+JJHLDMLH_00034	CDS	envZ	2.7.13.3	Osmolarity sensor protein EnvZ
+JJHLDMLH_00034	gene	envZ		
+JJHLDMLH_00035	CDS	ompR		Transcriptional regulatory protein OmpR
+JJHLDMLH_00035	gene	ompR		
+JJHLDMLH_00036	CDS	gloA	4.4.1.5	Lactoylglutathione lyase
+JJHLDMLH_00036	gene	gloA		
+JJHLDMLH_00037	CDS	clpB1		Chaperone protein ClpB 1
+JJHLDMLH_00037	gene	clpB1		
+JJHLDMLH_00038	CDS	secE		Protein translocase subunit SecE
+JJHLDMLH_00038	gene	secE		
+JJHLDMLH_00039	CDS	nusG		Transcription termination/antitermination protein NusG
+JJHLDMLH_00039	gene	nusG		
+JJHLDMLH_00040	CDS			hypothetical protein
+JJHLDMLH_00040	gene			
+JJHLDMLH_00041	CDS			hypothetical protein
+JJHLDMLH_00041	gene			
+JJHLDMLH_00042	CDS			hypothetical protein
+JJHLDMLH_00042	gene			
+JJHLDMLH_00043	CDS			hypothetical protein
+JJHLDMLH_00043	gene			
+JJHLDMLH_00044	CDS			Putative two-component membrane permease complex subunit SMU_747c
+JJHLDMLH_00044	gene			
+JJHLDMLH_00045	CDS			hypothetical protein
+JJHLDMLH_00045	gene			
+JJHLDMLH_00046	CDS			hypothetical protein
+JJHLDMLH_00046	gene			
+JJHLDMLH_00047	CDS			hypothetical protein
+JJHLDMLH_00047	gene			
+JJHLDMLH_00048	CDS			hypothetical protein
+JJHLDMLH_00048	gene			
+JJHLDMLH_00049	CDS			hypothetical protein
+JJHLDMLH_00049	gene			
+JJHLDMLH_00050	CDS			hypothetical protein
+JJHLDMLH_00050	gene			
+JJHLDMLH_00051	CDS			hypothetical protein
+JJHLDMLH_00051	gene			
+JJHLDMLH_00052	CDS			hypothetical protein
+JJHLDMLH_00052	gene			
+JJHLDMLH_00053	CDS			hypothetical protein
+JJHLDMLH_00053	gene			
+JJHLDMLH_00054	CDS			hypothetical protein
+JJHLDMLH_00054	gene			
+JJHLDMLH_00055	tRNA			tRNA-Leu(gag)
+JJHLDMLH_00055	gene			
+JJHLDMLH_00056	CDS	lpxB	2.4.1.182	Lipid-A-disaccharide synthase
+JJHLDMLH_00056	gene	lpxB		
+JJHLDMLH_00057	CDS	msrB_1	1.8.4.12	Peptide methionine sulfoxide reductase MsrB
+JJHLDMLH_00057	gene	msrB_1		
+JJHLDMLH_00058	CDS			hypothetical protein
+JJHLDMLH_00058	gene			
+JJHLDMLH_00059	CDS	smc		Chromosome partition protein Smc
+JJHLDMLH_00059	gene	smc		
+JJHLDMLH_00060	CDS			hypothetical protein
+JJHLDMLH_00060	gene			
+JJHLDMLH_00061	CDS	aviRb	2.1.1.208	23S rRNA (uridine(2479)-2'-O)-methyltransferase
+JJHLDMLH_00061	gene	aviRb		
+JJHLDMLH_00062	CDS			hypothetical protein
+JJHLDMLH_00062	gene			
+JJHLDMLH_00063	tRNA			tRNA-Leu(cag)
+JJHLDMLH_00063	gene			
+JJHLDMLH_00064	CDS			hypothetical protein
+JJHLDMLH_00064	gene			
+JJHLDMLH_00065	CDS			hypothetical protein
+JJHLDMLH_00065	gene			
+JJHLDMLH_00066	CDS			hypothetical protein
+JJHLDMLH_00066	gene			
+JJHLDMLH_00067	CDS	rhpA	3.6.4.13	DEAD-box ATP-dependent RNA helicase RhpA
+JJHLDMLH_00067	gene	rhpA		
+JJHLDMLH_00068	CDS	ligB	6.5.1.1	DNA ligase B
+JJHLDMLH_00068	gene	ligB		
+JJHLDMLH_00069	CDS			hypothetical protein
+JJHLDMLH_00069	gene			
+JJHLDMLH_00070	CDS	rpiA	5.3.1.6	Ribose-5-phosphate isomerase A
+JJHLDMLH_00070	gene	rpiA		
+JJHLDMLH_00071	CDS	hhoA		Putative serine protease HhoA
+JJHLDMLH_00071	gene	hhoA		
+JJHLDMLH_00072	CDS			hypothetical protein
+JJHLDMLH_00072	gene			
+JJHLDMLH_00073	CDS	rimP		Ribosome maturation factor RimP
+JJHLDMLH_00073	gene	rimP		
+JJHLDMLH_00074	CDS			hypothetical protein
+JJHLDMLH_00074	gene			
+JJHLDMLH_00075	CDS			hypothetical protein
+JJHLDMLH_00075	gene			
+JJHLDMLH_00076	CDS			hypothetical protein
+JJHLDMLH_00076	gene			
+JJHLDMLH_00077	CDS	liaR		Transcriptional regulatory protein LiaR
+JJHLDMLH_00077	gene	liaR		
+JJHLDMLH_00078	CDS	phhB	4.2.1.96	Putative pterin-4-alpha-carbinolamine dehydratase
+JJHLDMLH_00078	gene	phhB		
+JJHLDMLH_00079	CDS			hypothetical protein
+JJHLDMLH_00079	gene			
+JJHLDMLH_00080	CDS	ftrC	1.8.7.2	Ferredoxin-thioredoxin reductase, catalytic chain
+JJHLDMLH_00080	gene	ftrC		
+JJHLDMLH_00081	CDS	sufB		FeS cluster assembly protein SufB
+JJHLDMLH_00081	gene	sufB		
+JJHLDMLH_00082	CDS	sufC		Vegetative protein 296
+JJHLDMLH_00082	gene	sufC		
+JJHLDMLH_00083	CDS			hypothetical protein
+JJHLDMLH_00083	gene			
+JJHLDMLH_00084	CDS	cutA		Divalent-cation tolerance protein CutA
+JJHLDMLH_00084	gene	cutA		
+JJHLDMLH_00085	CDS	ydjH	2.7.1.-	putative sugar kinase YdjH
+JJHLDMLH_00085	gene	ydjH		
+JJHLDMLH_00086	CDS	purA	6.3.4.4	Adenylosuccinate synthetase
+JJHLDMLH_00086	gene	purA		
+JJHLDMLH_00087	CDS	sir	1.8.7.1	Sulfite reductase [ferredoxin]
+JJHLDMLH_00087	gene	sir		
+JJHLDMLH_00088	CDS	ddpX	3.4.13.22	D-alanyl-D-alanine dipeptidase
+JJHLDMLH_00088	gene	ddpX		
+JJHLDMLH_00089	CDS	recG	3.6.4.12	ATP-dependent DNA helicase RecG
+JJHLDMLH_00089	gene	recG		
+JJHLDMLH_00090	CDS	ggpS	2.4.1.213	Glucosylglycerol-phosphate synthase
+JJHLDMLH_00090	gene	ggpS		
+JJHLDMLH_00091	CDS			putative ABC transporter-binding protein
+JJHLDMLH_00091	gene			
+JJHLDMLH_00092	CDS	sugA		Trehalose transport system permease protein SugA
+JJHLDMLH_00092	gene	sugA		
+JJHLDMLH_00093	CDS	sugB		Trehalose transport system permease protein SugB
+JJHLDMLH_00093	gene	sugB		
+JJHLDMLH_00094	CDS	malK	3.6.3.19	Maltose/maltodextrin import ATP-binding protein MalK
+JJHLDMLH_00094	gene	malK		
+JJHLDMLH_00095	CDS			hypothetical protein
+JJHLDMLH_00095	gene			
+JJHLDMLH_00096	CDS			hypothetical protein
+JJHLDMLH_00096	gene			
+JJHLDMLH_00097	CDS			hypothetical protein
+JJHLDMLH_00097	gene			
+JJHLDMLH_00098	CDS			hypothetical protein
+JJHLDMLH_00098	gene			
+JJHLDMLH_00099	CDS			hypothetical protein
+JJHLDMLH_00099	gene			
+JJHLDMLH_00100	CDS			hypothetical protein
+JJHLDMLH_00100	gene			
+JJHLDMLH_00101	CDS			hypothetical protein
+JJHLDMLH_00101	gene			
+JJHLDMLH_00102	CDS		3.9.1.-	Purine nucleoside phosphoramidase
+JJHLDMLH_00102	gene			
+JJHLDMLH_00103	CDS	bacA		Vitamin B12 transport ATP-binding protein BacA
+JJHLDMLH_00103	gene	bacA		
+JJHLDMLH_00104	CDS			hypothetical protein
+JJHLDMLH_00104	gene			
+JJHLDMLH_00105	CDS			hypothetical protein
+JJHLDMLH_00105	gene			
+JJHLDMLH_00106	CDS			hypothetical protein
+JJHLDMLH_00106	gene			
+JJHLDMLH_00107	CDS			hypothetical protein
+JJHLDMLH_00107	gene			
+JJHLDMLH_00108	CDS			hypothetical protein
+JJHLDMLH_00108	gene			
+JJHLDMLH_00109	CDS	cbbS2	4.1.1.39	Ribulose bisphosphate carboxylase small chain 2
+JJHLDMLH_00109	gene	cbbS2		
+JJHLDMLH_00110	CDS	cbbL2	4.1.1.39	Ribulose bisphosphate carboxylase large chain 2
+JJHLDMLH_00110	gene	cbbL2		
+JJHLDMLH_00111	CDS	ccmK_1		Carbon dioxide-concentrating mechanism protein CcmK
+JJHLDMLH_00111	gene	ccmK_1		
+JJHLDMLH_00112	CDS			hypothetical protein
+JJHLDMLH_00112	gene			
+JJHLDMLH_00113	CDS			hypothetical protein
+JJHLDMLH_00113	gene			
+JJHLDMLH_00114	CDS		3.6.1.9	Non-canonical purine NTP pyrophosphatase
+JJHLDMLH_00114	gene			
+JJHLDMLH_00115	CDS			hypothetical protein
+JJHLDMLH_00115	gene			
+JJHLDMLH_00116	CDS			hypothetical protein
+JJHLDMLH_00116	gene			
+JJHLDMLH_00117	CDS			hypothetical protein
+JJHLDMLH_00117	gene			
+JJHLDMLH_00118	CDS			hypothetical protein
+JJHLDMLH_00118	gene			
+JJHLDMLH_00119	CDS			hypothetical protein
+JJHLDMLH_00119	gene			
+JJHLDMLH_00120	CDS			hypothetical protein
+JJHLDMLH_00120	gene			
+JJHLDMLH_00121	CDS			hypothetical protein
+JJHLDMLH_00121	gene			
+JJHLDMLH_00122	CDS			hypothetical protein
+JJHLDMLH_00122	gene			
+JJHLDMLH_00123	CDS	fdxA		Ferredoxin 7Fe
+JJHLDMLH_00123	gene	fdxA		
+JJHLDMLH_00124	CDS	hisZ		ATP phosphoribosyltransferase regulatory subunit
+JJHLDMLH_00124	gene	hisZ		
+JJHLDMLH_00125	CDS	suhB	3.1.3.25	Inositol-1-monophosphatase
+JJHLDMLH_00125	gene	suhB		
+JJHLDMLH_00126	CDS			Ferredoxin-1
+JJHLDMLH_00126	gene			
+JJHLDMLH_00127	tRNA			tRNA-Ser(gga)
+JJHLDMLH_00127	gene			
+JJHLDMLH_00128	CDS			hypothetical protein
+JJHLDMLH_00128	gene			
+JJHLDMLH_00129	CDS	ndhN	1.6.5.-	NAD(P)H-quinone oxidoreductase subunit N
+JJHLDMLH_00129	gene	ndhN		
+JJHLDMLH_00130	CDS	rplC		50S ribosomal protein L3
+JJHLDMLH_00130	gene	rplC		
+JJHLDMLH_00131	CDS	rplD		50S ribosomal protein L4
+JJHLDMLH_00131	gene	rplD		
+JJHLDMLH_00132	CDS	rplW		50S ribosomal protein L23
+JJHLDMLH_00132	gene	rplW		
+JJHLDMLH_00133	CDS	rplB		50S ribosomal protein L2
+JJHLDMLH_00133	gene	rplB		
+JJHLDMLH_00134	CDS	rpsS		30S ribosomal protein S19
+JJHLDMLH_00134	gene	rpsS		
+JJHLDMLH_00135	CDS	rplV		50S ribosomal protein L22
+JJHLDMLH_00135	gene	rplV		
+JJHLDMLH_00136	CDS	rpsC		30S ribosomal protein S3
+JJHLDMLH_00136	gene	rpsC		
+JJHLDMLH_00137	CDS	rplP		50S ribosomal protein L16
+JJHLDMLH_00137	gene	rplP		
+JJHLDMLH_00138	CDS	rpmC		50S ribosomal protein L29
+JJHLDMLH_00138	gene	rpmC		
+JJHLDMLH_00139	CDS	rpsQ		30S ribosomal protein S17
+JJHLDMLH_00139	gene	rpsQ		
+JJHLDMLH_00140	CDS	rplN		50S ribosomal protein L14
+JJHLDMLH_00140	gene	rplN		
+JJHLDMLH_00141	CDS	rplX		50S ribosomal protein L24
+JJHLDMLH_00141	gene	rplX		
+JJHLDMLH_00142	CDS	rplE		50S ribosomal protein L5
+JJHLDMLH_00142	gene	rplE		
+JJHLDMLH_00143	CDS	rpsH		30S ribosomal protein S8
+JJHLDMLH_00143	gene	rpsH		
+JJHLDMLH_00144	CDS	rplF		50S ribosomal protein L6
+JJHLDMLH_00144	gene	rplF		
+JJHLDMLH_00145	CDS	rplR		50S ribosomal protein L18
+JJHLDMLH_00145	gene	rplR		
+JJHLDMLH_00146	CDS	rpsE		30S ribosomal protein S5
+JJHLDMLH_00146	gene	rpsE		
+JJHLDMLH_00147	CDS	rplO		50S ribosomal protein L15
+JJHLDMLH_00147	gene	rplO		
+JJHLDMLH_00148	CDS	secY		Protein translocase subunit SecY
+JJHLDMLH_00148	gene	secY		
+JJHLDMLH_00149	CDS	adk	2.7.4.3	Adenylate kinase
+JJHLDMLH_00149	gene	adk		
+JJHLDMLH_00150	CDS	rpmJ		50S ribosomal protein L36
+JJHLDMLH_00150	gene	rpmJ		
+JJHLDMLH_00151	CDS	rpsM		30S ribosomal protein S13
+JJHLDMLH_00151	gene	rpsM		
+JJHLDMLH_00152	CDS	rpsK		30S ribosomal protein S11
+JJHLDMLH_00152	gene	rpsK		
+JJHLDMLH_00153	CDS			hypothetical protein
+JJHLDMLH_00153	gene			
+JJHLDMLH_00154	CDS			hypothetical protein
+JJHLDMLH_00154	gene			
+JJHLDMLH_00155	CDS	atpG		ATP synthase gamma chain
+JJHLDMLH_00155	gene	atpG		
+JJHLDMLH_00156	CDS	atpA	3.6.3.14	ATP synthase subunit alpha
+JJHLDMLH_00156	gene	atpA		
+JJHLDMLH_00157	CDS	atpH		ATP synthase subunit delta
+JJHLDMLH_00157	gene	atpH		
+JJHLDMLH_00158	CDS	atpF		ATP synthase subunit b
+JJHLDMLH_00158	gene	atpF		
+JJHLDMLH_00159	CDS	groL1		60 kDa chaperonin 1
+JJHLDMLH_00159	gene	groL1		
+JJHLDMLH_00160	CDS			hypothetical protein
+JJHLDMLH_00160	gene			
+JJHLDMLH_00161	CDS	gpmI	5.4.2.12	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+JJHLDMLH_00161	gene	gpmI		
+JJHLDMLH_00162	CDS			hypothetical protein
+JJHLDMLH_00162	gene			
+JJHLDMLH_00163	CDS	thiE	2.5.1.3	Thiamine-phosphate synthase
+JJHLDMLH_00163	gene	thiE		
+JJHLDMLH_00164	CDS			hypothetical protein
+JJHLDMLH_00164	gene			
+JJHLDMLH_00165	CDS			hypothetical protein
+JJHLDMLH_00165	gene			
+JJHLDMLH_00166	CDS			hypothetical protein
+JJHLDMLH_00166	gene			
+JJHLDMLH_00167	CDS	purE	5.4.99.18	N5-carboxyaminoimidazole ribonucleotide mutase
+JJHLDMLH_00167	gene	purE		
+JJHLDMLH_00168	CDS			hypothetical protein
+JJHLDMLH_00168	gene			
+JJHLDMLH_00169	CDS	ndhH	1.6.5.-	NAD(P)H-quinone oxidoreductase subunit H
+JJHLDMLH_00169	gene	ndhH		
+JJHLDMLH_00170	CDS	rsmH	2.1.1.199	Ribosomal RNA small subunit methyltransferase H
+JJHLDMLH_00170	gene	rsmH		
+JJHLDMLH_00171	CDS	iscS_1	2.8.1.7	Cysteine desulfurase IscS
+JJHLDMLH_00171	gene	iscS_1		
+JJHLDMLH_00172	CDS	ruvA	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvA
+JJHLDMLH_00172	gene	ruvA		
+JJHLDMLH_00173	CDS	rpsO		30S ribosomal protein S15
+JJHLDMLH_00173	gene	rpsO		
+JJHLDMLH_00174	CDS			hypothetical protein
+JJHLDMLH_00174	gene			
+JJHLDMLH_00175	CDS	dnaE	2.7.7.7	DNA polymerase III subunit alpha
+JJHLDMLH_00175	gene	dnaE		
+JJHLDMLH_00176	CDS	gatA	6.3.5.7	Glutamyl-tRNA(Gln) amidotransferase subunit A
+JJHLDMLH_00176	gene	gatA		
+JJHLDMLH_00177	CDS			hypothetical protein
+JJHLDMLH_00177	gene			
+JJHLDMLH_00178	CDS	ccmL		Carbon dioxide concentrating mechanism protein CcmL
+JJHLDMLH_00178	gene	ccmL		
+JJHLDMLH_00179	CDS	eutN		Ethanolamine utilization protein EutN
+JJHLDMLH_00179	gene	eutN		
+JJHLDMLH_00180	CDS	ccmK_2		Carbon dioxide-concentrating mechanism protein CcmK
+JJHLDMLH_00180	gene	ccmK_2		
+JJHLDMLH_00181	CDS	bfr	1.16.3.1	Bacterioferritin
+JJHLDMLH_00181	gene	bfr		
+JJHLDMLH_00182	CDS	pstS		Phosphate-binding protein PstS
+JJHLDMLH_00182	gene	pstS		
+JJHLDMLH_00183	CDS	dnaK2		Chaperone protein dnaK2
+JJHLDMLH_00183	gene	dnaK2		
+JJHLDMLH_00184	CDS	cbpA		Curved DNA-binding protein
+JJHLDMLH_00184	gene	cbpA		
+JJHLDMLH_00185	CDS			hypothetical protein
+JJHLDMLH_00185	gene			
+JJHLDMLH_00186	CDS			hypothetical protein
+JJHLDMLH_00186	gene			
+JJHLDMLH_00187	CDS	slt	4.2.2.-	Soluble lytic murein transglycosylase
+JJHLDMLH_00187	gene	slt		
+JJHLDMLH_00188	CDS			hypothetical protein
+JJHLDMLH_00188	gene			
+JJHLDMLH_00189	CDS	glmM	5.4.2.10	Phosphoglucosamine mutase
+JJHLDMLH_00189	gene	glmM		
+JJHLDMLH_00190	CDS	murK	2.7.1.-	N-acetylmuramic acid/N-acetylglucosamine kinase
+JJHLDMLH_00190	gene	murK		
+JJHLDMLH_00191	CDS	serA	1.1.1.95	D-3-phosphoglycerate dehydrogenase
+JJHLDMLH_00191	gene	serA		
+JJHLDMLH_00192	CDS			hypothetical protein
+JJHLDMLH_00192	gene			
+JJHLDMLH_00193	CDS			hypothetical protein
+JJHLDMLH_00193	gene			
+JJHLDMLH_00194	CDS			hypothetical protein
+JJHLDMLH_00194	gene			
+JJHLDMLH_00195	CDS			hypothetical protein
+JJHLDMLH_00195	gene			
+JJHLDMLH_00196	CDS			hypothetical protein
+JJHLDMLH_00196	gene			
+JJHLDMLH_00197	CDS			hypothetical protein
+JJHLDMLH_00197	gene			
+JJHLDMLH_00198	CDS			hypothetical protein
+JJHLDMLH_00198	gene			
+JJHLDMLH_00199	CDS	ddc	4.1.1.86	L-2,4-diaminobutyrate decarboxylase
+JJHLDMLH_00199	gene	ddc		
+JJHLDMLH_00200	CDS	tadA	3.5.4.33	tRNA-specific adenosine deaminase
+JJHLDMLH_00200	gene	tadA		
+JJHLDMLH_00201	CDS	pucG	2.-.-.-	Purine catabolism protein PucG
+JJHLDMLH_00201	gene	pucG		
+JJHLDMLH_00202	CDS			hypothetical protein
+JJHLDMLH_00202	gene			
+JJHLDMLH_00203	CDS			hypothetical protein
+JJHLDMLH_00203	gene			
+JJHLDMLH_00204	CDS			hypothetical protein
+JJHLDMLH_00204	gene			
+JJHLDMLH_00205	CDS			Sugar transporter SemiSWEET
+JJHLDMLH_00205	gene			
+JJHLDMLH_00206	CDS	mfppA	3.1.3.79	Mannosylfructose-phosphate phosphatase
+JJHLDMLH_00206	gene	mfppA		
+JJHLDMLH_00207	CDS	putP		High-affinity proline transporter PutP
+JJHLDMLH_00207	gene	putP		
+JJHLDMLH_00208	CDS			hypothetical protein
+JJHLDMLH_00208	gene			
+JJHLDMLH_00209	CDS	pyrB	2.1.3.2	Aspartate carbamoyltransferase catalytic subunit
+JJHLDMLH_00209	gene	pyrB		
+JJHLDMLH_00210	CDS			hypothetical protein
+JJHLDMLH_00210	gene			
+JJHLDMLH_00211	CDS			hypothetical protein
+JJHLDMLH_00211	gene			
+JJHLDMLH_00212	CDS			hypothetical protein
+JJHLDMLH_00212	gene			
+JJHLDMLH_00213	CDS	tpiA	5.3.1.1	Triosephosphate isomerase
+JJHLDMLH_00213	gene	tpiA		
+JJHLDMLH_00214	CDS			hypothetical protein
+JJHLDMLH_00214	gene			
+JJHLDMLH_00215	CDS	psaK		Photosystem I reaction center subunit PsaK
+JJHLDMLH_00215	gene	psaK		
+JJHLDMLH_00216	CDS			hypothetical protein
+JJHLDMLH_00216	gene			
+JJHLDMLH_00217	CDS	dxs	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+JJHLDMLH_00217	gene	dxs		
+JJHLDMLH_00218	CDS	ilvA	4.3.1.19	L-threonine dehydratase biosynthetic IlvA
+JJHLDMLH_00218	gene	ilvA		
+JJHLDMLH_00219	CDS	scpB		Segregation and condensation protein B
+JJHLDMLH_00219	gene	scpB		
+JJHLDMLH_00220	CDS			hypothetical protein
+JJHLDMLH_00220	gene			
+JJHLDMLH_00221	CDS			hypothetical protein
+JJHLDMLH_00221	gene			
+JJHLDMLH_00222	CDS	rsbU	3.1.3.3	Phosphoserine phosphatase RsbU
+JJHLDMLH_00222	gene	rsbU		
+JJHLDMLH_00223	CDS	ftsY		Signal recognition particle receptor FtsY
+JJHLDMLH_00223	gene	ftsY		
+JJHLDMLH_00224	CDS	nusB		N utilization substance protein B 
+JJHLDMLH_00224	gene	nusB		
+JJHLDMLH_00225	CDS			Pentapeptide repeat protein Rfr32
+JJHLDMLH_00225	gene			
+JJHLDMLH_00226	CDS	upp	2.4.2.9	Uracil phosphoribosyltransferase
+JJHLDMLH_00226	gene	upp		
+JJHLDMLH_00227	CDS			hypothetical protein
+JJHLDMLH_00227	gene			
+JJHLDMLH_00228	CDS	ilvD	4.2.1.9	Dihydroxy-acid dehydratase
+JJHLDMLH_00228	gene	ilvD		
+JJHLDMLH_00229	CDS			hypothetical protein
+JJHLDMLH_00229	gene			
+JJHLDMLH_00230	CDS			hypothetical protein
+JJHLDMLH_00230	gene			
+JJHLDMLH_00231	CDS	pgl	3.1.1.31	6-phosphogluconolactonase
+JJHLDMLH_00231	gene	pgl		
+JJHLDMLH_00232	CDS	gndA	1.1.1.44	6-phosphogluconate dehydrogenase, NADP(+)-dependent, decarboxylating
+JJHLDMLH_00232	gene	gndA		
+JJHLDMLH_00233	CDS			hypothetical protein
+JJHLDMLH_00233	gene			
+JJHLDMLH_00234	CDS			hypothetical protein
+JJHLDMLH_00234	gene			
+JJHLDMLH_00235	CDS			hypothetical protein
+JJHLDMLH_00235	gene			
+JJHLDMLH_00236	CDS	pcxA		Proton extrusion protein PcxA
+JJHLDMLH_00236	gene	pcxA		
+JJHLDMLH_00237	CDS	cobU	2.7.1.156	Bifunctional adenosylcobalamin biosynthesis protein CobU
+JJHLDMLH_00237	gene	cobU		
+JJHLDMLH_00238	CDS	trmL	2.1.1.207	tRNA (cytidine(34)-2'-O)-methyltransferase
+JJHLDMLH_00238	gene	trmL		
+JJHLDMLH_00239	CDS			hypothetical protein
+JJHLDMLH_00239	gene			
+JJHLDMLH_00240	CDS			hypothetical protein
+JJHLDMLH_00240	gene			
+JJHLDMLH_00241	CDS			hypothetical protein
+JJHLDMLH_00241	gene			
+JJHLDMLH_00242	CDS			hypothetical protein
+JJHLDMLH_00242	gene			
+JJHLDMLH_00243	CDS			hypothetical protein
+JJHLDMLH_00243	gene			
+JJHLDMLH_00244	CDS			hypothetical protein
+JJHLDMLH_00244	gene			
+JJHLDMLH_00245	CDS			hypothetical protein
+JJHLDMLH_00245	gene			
+JJHLDMLH_00246	CDS	phrB	4.1.99.13	(6-4) photolyase
+JJHLDMLH_00246	gene	phrB		
+JJHLDMLH_00247	CDS	garB	1.8.1.16	Glutathione amide reductase
+JJHLDMLH_00247	gene	garB		
+JJHLDMLH_00248	CDS	degU		Transcriptional regulatory protein DegU
+JJHLDMLH_00248	gene	degU		
+JJHLDMLH_00249	CDS	accA	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+JJHLDMLH_00249	gene	accA		
+JJHLDMLH_00250	CDS	xecD	1.1.1.268	2-(R)-hydroxypropyl-CoM dehydrogenase
+JJHLDMLH_00250	gene	xecD		
+JJHLDMLH_00251	CDS	acnB	4.2.1.3	Aconitate hydratase B
+JJHLDMLH_00251	gene	acnB		
+JJHLDMLH_00252	CDS			hypothetical protein
+JJHLDMLH_00252	gene			
+JJHLDMLH_00253	CDS			hypothetical protein
+JJHLDMLH_00253	gene			
+JJHLDMLH_00254	CDS			hypothetical protein
+JJHLDMLH_00254	gene			
+JJHLDMLH_00255	CDS			hypothetical protein
+JJHLDMLH_00255	gene			
+JJHLDMLH_00256	CDS			hypothetical protein
+JJHLDMLH_00256	gene			
+JJHLDMLH_00257	CDS			hypothetical protein
+JJHLDMLH_00257	gene			
+JJHLDMLH_00258	CDS			hypothetical protein
+JJHLDMLH_00258	gene			
+JJHLDMLH_00259	CDS			hypothetical protein
+JJHLDMLH_00259	gene			
+JJHLDMLH_00260	CDS	apt	2.4.2.7	Adenine phosphoribosyltransferase
+JJHLDMLH_00260	gene	apt		
+JJHLDMLH_00261	CDS			hypothetical protein
+JJHLDMLH_00261	gene			
+JJHLDMLH_00262	CDS	ubiF	1.14.13.-	2-octaprenyl-3-methyl-6-methoxy-1,4-benzoquinol hydroxylase
+JJHLDMLH_00262	gene	ubiF		
+JJHLDMLH_00263	CDS			hypothetical protein
+JJHLDMLH_00263	gene			
+JJHLDMLH_00264	CDS			hypothetical protein
+JJHLDMLH_00264	gene			
+JJHLDMLH_00265	CDS			hypothetical protein
+JJHLDMLH_00265	gene			
+JJHLDMLH_00266	CDS	ubiX	2.5.1.129	Flavin prenyltransferase UbiX
+JJHLDMLH_00266	gene	ubiX		
+JJHLDMLH_00267	CDS			hypothetical protein
+JJHLDMLH_00267	gene			
+JJHLDMLH_00268	CDS			hypothetical protein
+JJHLDMLH_00268	gene			
+JJHLDMLH_00269	CDS			hypothetical protein
+JJHLDMLH_00269	gene			
+JJHLDMLH_00270	CDS			hypothetical protein
+JJHLDMLH_00270	gene			
+JJHLDMLH_00271	CDS	ureC	3.5.1.5	Urease subunit alpha
+JJHLDMLH_00271	gene	ureC		
+JJHLDMLH_00272	CDS			hypothetical protein
+JJHLDMLH_00272	gene			
+JJHLDMLH_00273	CDS			hypothetical protein
+JJHLDMLH_00273	gene			
+JJHLDMLH_00274	CDS			hypothetical protein
+JJHLDMLH_00274	gene			
+JJHLDMLH_00275	CDS			hypothetical protein
+JJHLDMLH_00275	gene			
+JJHLDMLH_00276	CDS			hypothetical protein
+JJHLDMLH_00276	gene			
+JJHLDMLH_00277	CDS			hypothetical protein
+JJHLDMLH_00277	gene			
+JJHLDMLH_00278	CDS			hypothetical protein
+JJHLDMLH_00278	gene			
+JJHLDMLH_00279	CDS			hypothetical protein
+JJHLDMLH_00279	gene			
+JJHLDMLH_00280	CDS			hypothetical protein
+JJHLDMLH_00280	gene			
+JJHLDMLH_00281	CDS	rpoA	2.7.7.6	DNA-directed RNA polymerase subunit alpha
+JJHLDMLH_00281	gene	rpoA		
+JJHLDMLH_00282	CDS	rplQ		50S ribosomal protein L17
+JJHLDMLH_00282	gene	rplQ		
+JJHLDMLH_00283	CDS	truA	5.4.99.12	tRNA pseudouridine synthase A
+JJHLDMLH_00283	gene	truA		
+JJHLDMLH_00284	CDS	rplM		50S ribosomal protein L13
+JJHLDMLH_00284	gene	rplM		
+JJHLDMLH_00285	CDS	rpsI		30S ribosomal protein S9
+JJHLDMLH_00285	gene	rpsI		
+JJHLDMLH_00286	CDS	rpmE		50S ribosomal protein L31
+JJHLDMLH_00286	gene	rpmE		
+JJHLDMLH_00287	CDS	gbuA	3.5.3.7	Guanidinobutyrase
+JJHLDMLH_00287	gene	gbuA		
+JJHLDMLH_00288	CDS	hypA		hydrogenase nickel incorporation protein HypA
+JJHLDMLH_00288	gene	hypA		
+JJHLDMLH_00289	CDS	hypB		Hydrogenase isoenzymes nickel incorporation protein HypB
+JJHLDMLH_00289	gene	hypB		
+JJHLDMLH_00290	CDS	ssuA		Putative aliphatic sulfonates-binding protein
+JJHLDMLH_00290	gene	ssuA		
+JJHLDMLH_00291	CDS	ssuC		Putative aliphatic sulfonates transport permease protein SsuC
+JJHLDMLH_00291	gene	ssuC		
+JJHLDMLH_00292	CDS	tauB	3.6.3.36	Taurine import ATP-binding protein TauB
+JJHLDMLH_00292	gene	tauB		
+JJHLDMLH_00293	CDS			hypothetical protein
+JJHLDMLH_00293	gene			
+JJHLDMLH_00294	CDS	prfA		Peptide chain release factor 1
+JJHLDMLH_00294	gene	prfA		
+JJHLDMLH_00295	CDS			hypothetical protein
+JJHLDMLH_00295	gene			
+JJHLDMLH_00296	CDS			hypothetical protein
+JJHLDMLH_00296	gene			
+JJHLDMLH_00297	CDS			hypothetical protein
+JJHLDMLH_00297	gene			
+JJHLDMLH_00298	CDS	psaJ		Photosystem I reaction center subunit IX
+JJHLDMLH_00298	gene	psaJ		
+JJHLDMLH_00299	CDS	gmk	2.7.4.8	Guanylate kinase
+JJHLDMLH_00299	gene	gmk		
+JJHLDMLH_00300	CDS			hypothetical protein
+JJHLDMLH_00300	gene			
+JJHLDMLH_00301	CDS	gpsA	1.1.1.94	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+JJHLDMLH_00301	gene	gpsA		
+JJHLDMLH_00302	CDS	yddE	5.1.-.-	putative isomerase YddE
+JJHLDMLH_00302	gene	yddE		
+JJHLDMLH_00303	CDS	lytB		Amidase enhancer
+JJHLDMLH_00303	gene	lytB		
+JJHLDMLH_00304	CDS	ispE	2.7.1.148	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+JJHLDMLH_00304	gene	ispE		
+JJHLDMLH_00305	CDS			hypothetical protein
+JJHLDMLH_00305	gene			
+JJHLDMLH_00306	CDS			hypothetical protein
+JJHLDMLH_00306	gene			
+JJHLDMLH_00307	CDS	bfmBAB	1.2.4.4	2-oxoisovalerate dehydrogenase subunit beta
+JJHLDMLH_00307	gene	bfmBAB		
+JJHLDMLH_00308	CDS			hypothetical protein
+JJHLDMLH_00308	gene			
+JJHLDMLH_00309	CDS			hypothetical protein
+JJHLDMLH_00309	gene			
+JJHLDMLH_00310	CDS			hypothetical protein
+JJHLDMLH_00310	gene			
+JJHLDMLH_00311	CDS			hypothetical protein
+JJHLDMLH_00311	gene			
+JJHLDMLH_00312	CDS			hypothetical protein
+JJHLDMLH_00312	gene			
+JJHLDMLH_00313	CDS			hypothetical protein
+JJHLDMLH_00313	gene			
+JJHLDMLH_00314	CDS			hypothetical protein
+JJHLDMLH_00314	gene			
+JJHLDMLH_00315	CDS	sixA	3.1.3.-	Phosphohistidine phosphatase SixA
+JJHLDMLH_00315	gene	sixA		
+JJHLDMLH_00316	CDS			hypothetical protein
+JJHLDMLH_00316	gene			
+JJHLDMLH_00317	CDS	glpE	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+JJHLDMLH_00317	gene	glpE		
+JJHLDMLH_00318	CDS	hrcA		Heat-inducible transcription repressor HrcA
+JJHLDMLH_00318	gene	hrcA		
+JJHLDMLH_00319	CDS			hypothetical protein
+JJHLDMLH_00319	gene			
+JJHLDMLH_00320	CDS	msrB_2	1.8.4.12	Peptide methionine sulfoxide reductase MsrB
+JJHLDMLH_00320	gene	msrB_2		
+JJHLDMLH_00321	CDS	dusA	1.3.1.-	tRNA-dihydrouridine(20/20a) synthase
+JJHLDMLH_00321	gene	dusA		
+JJHLDMLH_00322	CDS			hypothetical protein
+JJHLDMLH_00322	gene			
+JJHLDMLH_00323	CDS	recJ	3.1.-.-	Single-stranded-DNA-specific exonuclease RecJ
+JJHLDMLH_00323	gene	recJ		
+JJHLDMLH_00324	CDS		3.1.3.-	Phosphorylated carbohydrates phosphatase
+JJHLDMLH_00324	gene			
+JJHLDMLH_00325	CDS			hypothetical protein
+JJHLDMLH_00325	gene			
+JJHLDMLH_00326	CDS	rpmF		50S ribosomal protein L32
+JJHLDMLH_00326	gene	rpmF		
+JJHLDMLH_00327	CDS	ftsH1	3.4.24.-	ATP-dependent zinc metalloprotease FtsH 1
+JJHLDMLH_00327	gene	ftsH1		
+JJHLDMLH_00328	CDS	cysO		Sulfur carrier protein CysO
+JJHLDMLH_00328	gene	cysO		
+JJHLDMLH_00329	CDS	thrC_1	4.2.3.1	Threonine synthase
+JJHLDMLH_00329	gene	thrC_1		
+JJHLDMLH_00330	CDS			hypothetical protein
+JJHLDMLH_00330	gene			
+JJHLDMLH_00331	CDS	bepA	3.4.-.-	Beta-barrel assembly-enhancing protease
+JJHLDMLH_00331	gene	bepA		
+JJHLDMLH_00332	CDS	queG	1.17.99.6	Epoxyqueuosine reductase
+JJHLDMLH_00332	gene	queG		
+JJHLDMLH_00333	CDS			hypothetical protein
+JJHLDMLH_00333	gene			
+JJHLDMLH_00334	CDS			hypothetical protein
+JJHLDMLH_00334	gene			
+JJHLDMLH_00335	CDS			hypothetical protein
+JJHLDMLH_00335	gene			
+JJHLDMLH_00336	CDS			hypothetical protein
+JJHLDMLH_00336	gene			
+JJHLDMLH_00337	CDS			hypothetical protein
+JJHLDMLH_00337	gene			
+JJHLDMLH_00338	CDS			hypothetical protein
+JJHLDMLH_00338	gene			
+JJHLDMLH_00339	CDS			hypothetical protein
+JJHLDMLH_00339	gene			
+JJHLDMLH_00340	CDS	trpD2	2.4.2.18	Anthranilate phosphoribosyltransferase 2
+JJHLDMLH_00340	gene	trpD2		
+JJHLDMLH_00341	CDS	yfcG	1.8.4.-	Disulfide-bond oxidoreductase YfcG
+JJHLDMLH_00341	gene	yfcG		
+JJHLDMLH_00342	CDS	corC_1		Magnesium and cobalt efflux protein CorC
+JJHLDMLH_00342	gene	corC_1		
+JJHLDMLH_00343	CDS			hypothetical protein
+JJHLDMLH_00343	gene			
+JJHLDMLH_00344	CDS			hypothetical protein
+JJHLDMLH_00344	gene			
+JJHLDMLH_00345	CDS	yciC		Putative metal chaperone YciC
+JJHLDMLH_00345	gene	yciC		
+JJHLDMLH_00346	CDS			hypothetical protein
+JJHLDMLH_00346	gene			
+JJHLDMLH_00347	CDS	purS	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurS
+JJHLDMLH_00347	gene	purS		
+JJHLDMLH_00348	CDS	purQ	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurQ
+JJHLDMLH_00348	gene	purQ		
+JJHLDMLH_00349	CDS	ykfA	3.4.16.-	putative murein peptide carboxypeptidase
+JJHLDMLH_00349	gene	ykfA		
+JJHLDMLH_00350	CDS	prxU	1.11.1.15	Selenocysteine-containing peroxiredoxin PrxU
+JJHLDMLH_00350	gene	prxU		
+JJHLDMLH_00351	CDS			hypothetical protein
+JJHLDMLH_00351	gene			
+JJHLDMLH_00352	tRNA			tRNA-Met(cat)
+JJHLDMLH_00352	gene			
+JJHLDMLH_00353	CDS	mepM	3.4.24.-	Murein DD-endopeptidase MepM
+JJHLDMLH_00353	gene	mepM		
+JJHLDMLH_00354	CDS	ctpB	3.4.21.102	Carboxy-terminal processing protease CtpB
+JJHLDMLH_00354	gene	ctpB		
+JJHLDMLH_00355	CDS			Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+JJHLDMLH_00355	gene			
+JJHLDMLH_00356	CDS	mtnX	3.1.3.87	2-hydroxy-3-keto-5-methylthiopentenyl-1-phosphate phosphatase
+JJHLDMLH_00356	gene	mtnX		
+JJHLDMLH_00357	CDS			hypothetical protein
+JJHLDMLH_00357	gene			
+JJHLDMLH_00358	CDS			hypothetical protein
+JJHLDMLH_00358	gene			
+JJHLDMLH_00359	CDS			hypothetical protein
+JJHLDMLH_00359	gene			
+JJHLDMLH_00360	CDS			putative phycocyanin operon protein Z
+JJHLDMLH_00360	gene			
+JJHLDMLH_00361	CDS			putative phycocyanin operon protein Z
+JJHLDMLH_00361	gene			
+JJHLDMLH_00362	CDS	cpeA		C-phycoerythrin class 1 subunit alpha
+JJHLDMLH_00362	gene	cpeA		
+JJHLDMLH_00363	CDS			hypothetical protein
+JJHLDMLH_00363	gene			
+JJHLDMLH_00364	CDS			Ycf53-like protein
+JJHLDMLH_00364	gene			
+JJHLDMLH_00365	CDS			hypothetical protein
+JJHLDMLH_00365	gene			
+JJHLDMLH_00366	CDS			hypothetical protein
+JJHLDMLH_00366	gene			
+JJHLDMLH_00367	CDS			hypothetical protein
+JJHLDMLH_00367	gene			
+JJHLDMLH_00368	CDS			hypothetical protein
+JJHLDMLH_00368	gene			
+JJHLDMLH_00369	CDS			hypothetical protein
+JJHLDMLH_00369	gene			
+JJHLDMLH_00370	CDS			hypothetical protein
+JJHLDMLH_00370	gene			
+JJHLDMLH_00371	CDS			hypothetical protein
+JJHLDMLH_00371	gene			
+JJHLDMLH_00372	CDS	pyk	2.7.1.40	Pyruvate kinase
+JJHLDMLH_00372	gene	pyk		
+JJHLDMLH_00373	CDS	macB	3.6.3.-	Macrolide export ATP-binding/permease protein MacB
+JJHLDMLH_00373	gene	macB		
+JJHLDMLH_00374	CDS	nudI	3.6.1.9	Nucleoside triphosphatase NudI
+JJHLDMLH_00374	gene	nudI		
+JJHLDMLH_00375	CDS	ftsH2	3.4.24.-	ATP-dependent zinc metalloprotease FtsH 2
+JJHLDMLH_00375	gene	ftsH2		
+JJHLDMLH_00376	CDS			hypothetical protein
+JJHLDMLH_00376	gene			
+JJHLDMLH_00377	CDS	clpP	3.4.21.92	ATP-dependent Clp protease proteolytic subunit
+JJHLDMLH_00377	gene	clpP		
+JJHLDMLH_00378	CDS	thf1		Protein Thf1
+JJHLDMLH_00378	gene	thf1		
+JJHLDMLH_00379	CDS			hypothetical protein
+JJHLDMLH_00379	gene			
+JJHLDMLH_00380	CDS			hypothetical protein
+JJHLDMLH_00380	gene			
+JJHLDMLH_00381	CDS	clpS		ATP-dependent Clp protease adapter protein ClpS
+JJHLDMLH_00381	gene	clpS		
+JJHLDMLH_00382	CDS			hypothetical protein
+JJHLDMLH_00382	gene			
+JJHLDMLH_00383	CDS	fosB	2.5.1.-	Metallothiol transferase FosB
+JJHLDMLH_00383	gene	fosB		
+JJHLDMLH_00384	CDS			hypothetical protein
+JJHLDMLH_00384	gene			
+JJHLDMLH_00385	CDS			hypothetical protein
+JJHLDMLH_00385	gene			
+JJHLDMLH_00386	CDS			hypothetical protein
+JJHLDMLH_00386	gene			
+JJHLDMLH_00387	CDS	cbiX	4.99.1.3	Sirohydrochlorin cobaltochelatase
+JJHLDMLH_00387	gene	cbiX		
+JJHLDMLH_00388	CDS			hypothetical protein
+JJHLDMLH_00388	gene			
+JJHLDMLH_00389	CDS	sasA	2.7.13.3	Adaptive-response sensory-kinase SasA
+JJHLDMLH_00389	gene	sasA		
+JJHLDMLH_00390	tRNA			tRNA-Glu(ttc)
+JJHLDMLH_00390	gene			
+JJHLDMLH_00391	CDS			hypothetical protein
+JJHLDMLH_00391	gene			
+JJHLDMLH_00392	CDS	petH	1.18.1.2	Ferredoxin--NADP reductase
+JJHLDMLH_00392	gene	petH		
+JJHLDMLH_00393	CDS	htpG		Chaperone protein HtpG
+JJHLDMLH_00393	gene	htpG		
+JJHLDMLH_00394	CDS			hypothetical protein
+JJHLDMLH_00394	gene			
+JJHLDMLH_00395	CDS			hypothetical protein
+JJHLDMLH_00395	gene			
+JJHLDMLH_00396	CDS	gadB	4.1.1.15	Glutamate decarboxylase
+JJHLDMLH_00396	gene	gadB		
+JJHLDMLH_00397	CDS			hypothetical protein
+JJHLDMLH_00397	gene			
+JJHLDMLH_00398	CDS	srrA		Transcriptional regulatory protein SrrA
+JJHLDMLH_00398	gene	srrA		
+JJHLDMLH_00399	CDS			Photosystem II lipoprotein Psb27
+JJHLDMLH_00399	gene			
+JJHLDMLH_00400	CDS			hypothetical protein
+JJHLDMLH_00400	gene			
+JJHLDMLH_00401	CDS	proS	6.1.1.15	Proline--tRNA ligase
+JJHLDMLH_00401	gene	proS		
+JJHLDMLH_00402	CDS			hypothetical protein
+JJHLDMLH_00402	gene			
+JJHLDMLH_00403	CDS			hypothetical protein
+JJHLDMLH_00403	gene			
+JJHLDMLH_00404	CDS			hypothetical protein
+JJHLDMLH_00404	gene			
+JJHLDMLH_00405	CDS			hypothetical protein
+JJHLDMLH_00405	gene			
+JJHLDMLH_00406	CDS			hypothetical protein
+JJHLDMLH_00406	gene			
+JJHLDMLH_00407	CDS			hypothetical protein
+JJHLDMLH_00407	gene			
+JJHLDMLH_00408	CDS		6.3.2.2	Putative glutamate--cysteine ligase 2
+JJHLDMLH_00408	gene			
+JJHLDMLH_00409	CDS	trpE	4.1.3.27	Anthranilate synthase component 1
+JJHLDMLH_00409	gene	trpE		
+JJHLDMLH_00410	CDS	psaD		Photosystem I reaction center subunit II
+JJHLDMLH_00410	gene	psaD		
+JJHLDMLH_00411	CDS			hypothetical protein
+JJHLDMLH_00411	gene			
+JJHLDMLH_00412	CDS	proB	2.7.2.11	Glutamate 5-kinase
+JJHLDMLH_00412	gene	proB		
+JJHLDMLH_00413	CDS	lpxD	2.3.1.-	UDP-3-O-acylglucosamine N-acyltransferase
+JJHLDMLH_00413	gene	lpxD		
+JJHLDMLH_00414	CDS	leuB	1.1.1.85	3-isopropylmalate dehydrogenase
+JJHLDMLH_00414	gene	leuB		
+JJHLDMLH_00415	CDS	cfxP	2.7.1.19	Phosphoribulokinase, chromosomal
+JJHLDMLH_00415	gene	cfxP		
+JJHLDMLH_00416	CDS			hypothetical protein
+JJHLDMLH_00416	gene			
+JJHLDMLH_00417	CDS			hypothetical protein
+JJHLDMLH_00417	gene			
+JJHLDMLH_00418	CDS			hypothetical protein
+JJHLDMLH_00418	gene			
+JJHLDMLH_00419	CDS			hypothetical protein
+JJHLDMLH_00419	gene			
+JJHLDMLH_00420	CDS			hypothetical protein
+JJHLDMLH_00420	gene			
+JJHLDMLH_00421	CDS			hypothetical protein
+JJHLDMLH_00421	gene			
+JJHLDMLH_00422	CDS			hypothetical protein
+JJHLDMLH_00422	gene			
+JJHLDMLH_00423	CDS			hypothetical protein
+JJHLDMLH_00423	gene			
+JJHLDMLH_00424	CDS			hypothetical protein
+JJHLDMLH_00424	gene			
+JJHLDMLH_00425	CDS			hypothetical protein
+JJHLDMLH_00425	gene			
+JJHLDMLH_00426	CDS			hypothetical protein
+JJHLDMLH_00426	gene			
+JJHLDMLH_00427	CDS	sad	1.2.1.16	Succinate semialdehyde dehydrogenase [NAD(P)+] Sad
+JJHLDMLH_00427	gene	sad		
+JJHLDMLH_00428	CDS			hypothetical protein
+JJHLDMLH_00428	gene			
+JJHLDMLH_00429	CDS			hypothetical protein
+JJHLDMLH_00429	gene			
+JJHLDMLH_00430	CDS			hypothetical protein
+JJHLDMLH_00430	gene			
+JJHLDMLH_00431	CDS	sat/cysC		putative bifunctional SAT/APS kinase
+JJHLDMLH_00431	gene	sat/cysC		
+JJHLDMLH_00432	CDS	ftsH3	3.4.24.-	ATP-dependent zinc metalloprotease FtsH 3
+JJHLDMLH_00432	gene	ftsH3		
+JJHLDMLH_00433	CDS	dcd	3.5.4.13	dCTP deaminase
+JJHLDMLH_00433	gene	dcd		
+JJHLDMLH_00434	CDS	thyX	2.1.1.148	Thymidylate synthase ThyX
+JJHLDMLH_00434	gene	thyX		
+JJHLDMLH_00435	CDS	cobD	4.1.1.81	Threonine-phosphate decarboxylase
+JJHLDMLH_00435	gene	cobD		
+JJHLDMLH_00436	CDS			hypothetical protein
+JJHLDMLH_00436	gene			
+JJHLDMLH_00437	CDS			hypothetical protein
+JJHLDMLH_00437	gene			
+JJHLDMLH_00438	CDS			hypothetical protein
+JJHLDMLH_00438	gene			
+JJHLDMLH_00439	CDS	livQ	1.1.3.-	6'''-hydroxyparomomycin C oxidase
+JJHLDMLH_00439	gene	livQ		
+JJHLDMLH_00440	CDS			hypothetical protein
+JJHLDMLH_00440	gene			
+JJHLDMLH_00441	CDS			hypothetical protein
+JJHLDMLH_00441	gene			
+JJHLDMLH_00442	CDS	desV	2.6.1.106	dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase
+JJHLDMLH_00442	gene	desV		
+JJHLDMLH_00443	CDS			hypothetical protein
+JJHLDMLH_00443	gene			
+JJHLDMLH_00444	CDS			hypothetical protein
+JJHLDMLH_00444	gene			
+JJHLDMLH_00445	CDS			hypothetical protein
+JJHLDMLH_00445	gene			
+JJHLDMLH_00446	tRNA			tRNA-Pro(tgg)
+JJHLDMLH_00446	gene			
+JJHLDMLH_00447	CDS			hypothetical protein
+JJHLDMLH_00447	gene			
+JJHLDMLH_00448	CDS			hypothetical protein
+JJHLDMLH_00448	gene			
+JJHLDMLH_00449	CDS	purH		Bifunctional purine biosynthesis protein PurH
+JJHLDMLH_00449	gene	purH		
+JJHLDMLH_00450	CDS			hypothetical protein
+JJHLDMLH_00450	gene			
+JJHLDMLH_00451	CDS			hypothetical protein
+JJHLDMLH_00451	gene			
+JJHLDMLH_00452	CDS	ispH	1.17.7.4	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+JJHLDMLH_00452	gene	ispH		
+JJHLDMLH_00453	CDS			hypothetical protein
+JJHLDMLH_00453	gene			
+JJHLDMLH_00454	CDS			hypothetical protein
+JJHLDMLH_00454	gene			
+JJHLDMLH_00455	CDS	bcp_1	1.11.1.15	Putative peroxiredoxin bcp
+JJHLDMLH_00455	gene	bcp_1		
+JJHLDMLH_00456	CDS	rpmB		50S ribosomal protein L28
+JJHLDMLH_00456	gene	rpmB		
+JJHLDMLH_00457	CDS	glpK	2.7.1.30	Glycerol kinase
+JJHLDMLH_00457	gene	glpK		
+JJHLDMLH_00458	CDS			hypothetical protein
+JJHLDMLH_00458	gene			
+JJHLDMLH_00459	CDS			hypothetical protein
+JJHLDMLH_00459	gene			
+JJHLDMLH_00460	CDS	fbaA	4.1.2.13	Fructose-bisphosphate aldolase class 2
+JJHLDMLH_00460	gene	fbaA		
+JJHLDMLH_00461	CDS			hypothetical protein
+JJHLDMLH_00461	gene			
+JJHLDMLH_00462	CDS	apbC		Iron-sulfur cluster carrier protein
+JJHLDMLH_00462	gene	apbC		
+JJHLDMLH_00463	CDS	mrdB	2.4.1.129	Peptidoglycan glycosyltransferase MrdB
+JJHLDMLH_00463	gene	mrdB		
+JJHLDMLH_00464	CDS			hypothetical protein
+JJHLDMLH_00464	gene			
+JJHLDMLH_00465	CDS			hypothetical protein
+JJHLDMLH_00465	gene			
+JJHLDMLH_00466	CDS			hypothetical protein
+JJHLDMLH_00466	gene			
+JJHLDMLH_00467	CDS	thrB	2.7.1.39	Homoserine kinase
+JJHLDMLH_00467	gene	thrB		
+JJHLDMLH_00468	CDS	glk	2.7.1.2	Glucokinase
+JJHLDMLH_00468	gene	glk		
+JJHLDMLH_00469	CDS	thrS	6.1.1.3	Threonine--tRNA ligase
+JJHLDMLH_00469	gene	thrS		
+JJHLDMLH_00470	CDS			hypothetical protein
+JJHLDMLH_00470	gene			
+JJHLDMLH_00471	CDS	blaF	3.5.2.6	Beta-lactamase
+JJHLDMLH_00471	gene	blaF		
+JJHLDMLH_00472	CDS	trmJ	2.1.1.200	tRNA (cytidine/uridine-2'-O-)-methyltransferase TrmJ
+JJHLDMLH_00472	gene	trmJ		
+JJHLDMLH_00473	CDS	cccB		Cytochrome c-551
+JJHLDMLH_00473	gene	cccB		
+JJHLDMLH_00474	CDS	petG		Cytochrome b6-f complex subunit 5
+JJHLDMLH_00474	gene	petG		
+JJHLDMLH_00475	CDS	rsmD	2.1.1.171	Ribosomal RNA small subunit methyltransferase D
+JJHLDMLH_00475	gene	rsmD		
+JJHLDMLH_00476	CDS	hemF	1.3.3.3	Oxygen-dependent coproporphyrinogen-III oxidase
+JJHLDMLH_00476	gene	hemF		
+JJHLDMLH_00477	CDS			hypothetical protein
+JJHLDMLH_00477	gene			
+JJHLDMLH_00478	tRNA			tRNA-SeC(tca)
+JJHLDMLH_00478	gene			
+JJHLDMLH_00479	CDS			hypothetical protein
+JJHLDMLH_00479	gene			
+JJHLDMLH_00480	CDS	rnd	3.1.13.5	Ribonuclease D
+JJHLDMLH_00480	gene	rnd		
+JJHLDMLH_00481	CDS			hypothetical protein
+JJHLDMLH_00481	gene			
+JJHLDMLH_00482	CDS	iscS_2	2.8.1.7	Cysteine desulfurase IscS
+JJHLDMLH_00482	gene	iscS_2		
+JJHLDMLH_00483	CDS			hypothetical protein
+JJHLDMLH_00483	gene			
+JJHLDMLH_00484	CDS			hypothetical protein
+JJHLDMLH_00484	gene			
+JJHLDMLH_00485	CDS	dac	3.4.16.4	D-alanyl-D-alanine carboxypeptidase
+JJHLDMLH_00485	gene	dac		
+JJHLDMLH_00486	CDS			hypothetical protein
+JJHLDMLH_00486	gene			
+JJHLDMLH_00487	CDS			hypothetical protein
+JJHLDMLH_00487	gene			
+JJHLDMLH_00488	CDS			hypothetical protein
+JJHLDMLH_00488	gene			
+JJHLDMLH_00489	CDS			hypothetical protein
+JJHLDMLH_00489	gene			
+JJHLDMLH_00490	CDS			hypothetical protein
+JJHLDMLH_00490	gene			
+JJHLDMLH_00491	CDS			hypothetical protein
+JJHLDMLH_00491	gene			
+JJHLDMLH_00492	CDS			hypothetical protein
+JJHLDMLH_00492	gene			
+JJHLDMLH_00493	CDS			hypothetical protein
+JJHLDMLH_00493	gene			
+JJHLDMLH_00494	CDS			hypothetical protein
+JJHLDMLH_00494	gene			
+JJHLDMLH_00495	CDS			hypothetical protein
+JJHLDMLH_00495	gene			
+JJHLDMLH_00496	CDS			hypothetical protein
+JJHLDMLH_00496	gene			
+JJHLDMLH_00497	CDS			hypothetical protein
+JJHLDMLH_00497	gene			
+JJHLDMLH_00498	CDS			hypothetical protein
+JJHLDMLH_00498	gene			
+JJHLDMLH_00499	CDS			hypothetical protein
+JJHLDMLH_00499	gene			
+JJHLDMLH_00500	CDS			hypothetical protein
+JJHLDMLH_00500	gene			
+JJHLDMLH_00501	CDS			hypothetical protein
+JJHLDMLH_00501	gene			
+JJHLDMLH_00502	CDS			hypothetical protein
+JJHLDMLH_00502	gene			
+JJHLDMLH_00503	CDS			hypothetical protein
+JJHLDMLH_00503	gene			
+JJHLDMLH_00504	CDS			hypothetical protein
+JJHLDMLH_00504	gene			
+JJHLDMLH_00505	CDS	ubiB	2.7.-.-	putative protein kinase UbiB
+JJHLDMLH_00505	gene	ubiB		
+JJHLDMLH_00506	CDS			hypothetical protein
+JJHLDMLH_00506	gene			
+JJHLDMLH_00507	CDS	thrC_2	4.2.3.1	Threonine synthase
+JJHLDMLH_00507	gene	thrC_2		
+JJHLDMLH_00508	CDS	folD		Bifunctional protein FolD protein
+JJHLDMLH_00508	gene	folD		
+JJHLDMLH_00509	CDS	pgpH	3.1.4.-	Cyclic-di-AMP phosphodiesterase PgpH
+JJHLDMLH_00509	gene	pgpH		
+JJHLDMLH_00510	CDS	araQ		L-arabinose transport system permease protein AraQ
+JJHLDMLH_00510	gene	araQ		
+JJHLDMLH_00511	CDS	trxA		Thioredoxin
+JJHLDMLH_00511	gene	trxA		
+JJHLDMLH_00512	CDS	murG	2.4.1.227	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+JJHLDMLH_00512	gene	murG		
+JJHLDMLH_00513	CDS	mtnB	4.2.1.109	Methylthioribulose-1-phosphate dehydratase
+JJHLDMLH_00513	gene	mtnB		
+JJHLDMLH_00514	CDS	mutM	3.2.2.23	Formamidopyrimidine-DNA glycosylase
+JJHLDMLH_00514	gene	mutM		
+JJHLDMLH_00515	CDS	psaE		Photosystem I reaction center subunit IV
+JJHLDMLH_00515	gene	psaE		
+JJHLDMLH_00516	CDS			hypothetical protein
+JJHLDMLH_00516	gene			
+JJHLDMLH_00517	CDS			hypothetical protein
+JJHLDMLH_00517	gene			
+JJHLDMLH_00518	CDS		1.-.-.-	putative oxidoreductase
+JJHLDMLH_00518	gene			
+JJHLDMLH_00519	CDS			hypothetical protein
+JJHLDMLH_00519	gene			
+JJHLDMLH_00520	CDS			hypothetical protein
+JJHLDMLH_00520	gene			
+JJHLDMLH_00521	CDS	srpC		putative chromate transport protein
+JJHLDMLH_00521	gene	srpC		
+JJHLDMLH_00522	CDS			hypothetical protein
+JJHLDMLH_00522	gene			
+JJHLDMLH_00523	CDS			hypothetical protein
+JJHLDMLH_00523	gene			
+JJHLDMLH_00524	CDS			hypothetical protein
+JJHLDMLH_00524	gene			
+JJHLDMLH_00525	CDS			hypothetical protein
+JJHLDMLH_00525	gene			
+JJHLDMLH_00526	CDS	relA	2.7.6.5	GTP pyrophosphokinase
+JJHLDMLH_00526	gene	relA		
+JJHLDMLH_00527	CDS			hypothetical protein
+JJHLDMLH_00527	gene			
+JJHLDMLH_00528	CDS			hypothetical protein
+JJHLDMLH_00528	gene			
+JJHLDMLH_00529	CDS			hypothetical protein
+JJHLDMLH_00529	gene			
+JJHLDMLH_00530	CDS			hypothetical protein
+JJHLDMLH_00530	gene			
+JJHLDMLH_00531	CDS			hypothetical protein
+JJHLDMLH_00531	gene			
+JJHLDMLH_00532	CDS			hypothetical protein
+JJHLDMLH_00532	gene			
+JJHLDMLH_00533	CDS			hypothetical protein
+JJHLDMLH_00533	gene			
+JJHLDMLH_00534	CDS	rapA	3.6.4.-	RNA polymerase-associated protein RapA
+JJHLDMLH_00534	gene	rapA		
+JJHLDMLH_00535	CDS	chlN	1.3.7.7	Light-independent protochlorophyllide reductase subunit N
+JJHLDMLH_00535	gene	chlN		
+JJHLDMLH_00536	CDS	lytR		Transcriptional regulator LytR
+JJHLDMLH_00536	gene	lytR		
+JJHLDMLH_00537	CDS			hypothetical protein
+JJHLDMLH_00537	gene			
+JJHLDMLH_00538	CDS	rplS		50S ribosomal protein L19
+JJHLDMLH_00538	gene	rplS		
+JJHLDMLH_00539	tRNA			tRNA-Trp(cca)
+JJHLDMLH_00539	gene			
+JJHLDMLH_00540	CDS			hypothetical protein
+JJHLDMLH_00540	gene			
+JJHLDMLH_00541	tRNA			tRNA-Asp(gtc)
+JJHLDMLH_00541	gene			
+JJHLDMLH_00542	CDS	gltX	6.1.1.17	Glutamate--tRNA ligase
+JJHLDMLH_00542	gene	gltX		
+JJHLDMLH_00543	CDS	nhaP2		K(+)/H(+) antiporter NhaP2
+JJHLDMLH_00543	gene	nhaP2		
+JJHLDMLH_00544	CDS			hypothetical protein
+JJHLDMLH_00544	gene			
+JJHLDMLH_00545	CDS	ahpC	1.11.1.15	Alkyl hydroperoxide reductase subunit C
+JJHLDMLH_00545	gene	ahpC		
+JJHLDMLH_00546	CDS			hypothetical protein
+JJHLDMLH_00546	gene			
+JJHLDMLH_00547	CDS			hypothetical protein
+JJHLDMLH_00547	gene			
+JJHLDMLH_00548	CDS	amaB	3.5.1.87	N-carbamoyl-L-amino acid hydrolase
+JJHLDMLH_00548	gene	amaB		
+JJHLDMLH_00549	CDS	asnB	6.3.5.4	Asparagine synthetase [glutamine-hydrolyzing] 1
+JJHLDMLH_00549	gene	asnB		
+JJHLDMLH_00550	CDS	argG	6.3.4.5	Argininosuccinate synthase
+JJHLDMLH_00550	gene	argG		
+JJHLDMLH_00551	CDS			hypothetical protein
+JJHLDMLH_00551	gene			
+JJHLDMLH_00552	CDS	rpsF		30S ribosomal protein S6
+JJHLDMLH_00552	gene	rpsF		
+JJHLDMLH_00553	CDS			hypothetical protein
+JJHLDMLH_00553	gene			
+JJHLDMLH_00554	CDS	aroE	1.1.1.25	Shikimate dehydrogenase (NADP(+))
+JJHLDMLH_00554	gene	aroE		
+JJHLDMLH_00555	CDS			hypothetical protein
+JJHLDMLH_00555	gene			
+JJHLDMLH_00556	CDS	dapB	1.17.1.8	4-hydroxy-tetrahydrodipicolinate reductase
+JJHLDMLH_00556	gene	dapB		
+JJHLDMLH_00557	CDS			hypothetical protein
+JJHLDMLH_00557	gene			
+JJHLDMLH_00558	CDS			hypothetical protein
+JJHLDMLH_00558	gene			
+JJHLDMLH_00559	CDS			hypothetical protein
+JJHLDMLH_00559	gene			
+JJHLDMLH_00560	CDS			hypothetical protein
+JJHLDMLH_00560	gene			
+JJHLDMLH_00561	CDS			hypothetical protein
+JJHLDMLH_00561	gene			
+JJHLDMLH_00562	CDS	pbpF		Penicillin-binding protein 1F
+JJHLDMLH_00562	gene	pbpF		
+JJHLDMLH_00563	CDS			hypothetical protein
+JJHLDMLH_00563	gene			
+JJHLDMLH_00564	CDS	rsmB	2.1.1.176	Ribosomal RNA small subunit methyltransferase B
+JJHLDMLH_00564	gene	rsmB		
+JJHLDMLH_00565	CDS	mgl	4.4.1.11	L-methionine gamma-lyase
+JJHLDMLH_00565	gene	mgl		
+JJHLDMLH_00566	CDS	metA	2.3.1.46	Homoserine O-succinyltransferase
+JJHLDMLH_00566	gene	metA		
+JJHLDMLH_00567	CDS			hypothetical protein
+JJHLDMLH_00567	gene			
+JJHLDMLH_00568	CDS			hypothetical protein
+JJHLDMLH_00568	gene			
+JJHLDMLH_00569	CDS		3.6.1.9	Non-canonical purine NTP pyrophosphatase
+JJHLDMLH_00569	gene			
+JJHLDMLH_00570	CDS	pgm	5.4.2.2	Phosphoglucomutase
+JJHLDMLH_00570	gene	pgm		
+JJHLDMLH_00571	CDS			hypothetical protein
+JJHLDMLH_00571	gene			
+JJHLDMLH_00572	CDS	fabI	1.3.1.9	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+JJHLDMLH_00572	gene	fabI		
+JJHLDMLH_00573	CDS	hisB		Histidine biosynthesis bifunctional protein HisB
+JJHLDMLH_00573	gene	hisB		
+JJHLDMLH_00574	CDS			hypothetical protein
+JJHLDMLH_00574	gene			
+JJHLDMLH_00575	CDS			hypothetical protein
+JJHLDMLH_00575	gene			
+JJHLDMLH_00576	CDS			hypothetical protein
+JJHLDMLH_00576	gene			
+JJHLDMLH_00577	CDS	estB	3.1.1.1	Carboxylesterase 2
+JJHLDMLH_00577	gene	estB		
+JJHLDMLH_00578	CDS			hypothetical protein
+JJHLDMLH_00578	gene			
+JJHLDMLH_00579	CDS	kdpD	2.7.13.3	Sensor protein KdpD
+JJHLDMLH_00579	gene	kdpD		
+JJHLDMLH_00580	CDS	cobS	2.7.8.26	Adenosylcobinamide-GDP ribazoletransferase
+JJHLDMLH_00580	gene	cobS		
+JJHLDMLH_00581	CDS			hypothetical protein
+JJHLDMLH_00581	gene			
+JJHLDMLH_00582	CDS			hypothetical protein
+JJHLDMLH_00582	gene			
+JJHLDMLH_00583	CDS			hypothetical protein
+JJHLDMLH_00583	gene			
+JJHLDMLH_00584	CDS	ynaI		Low conductance mechanosensitive channel YnaI
+JJHLDMLH_00584	gene	ynaI		
+JJHLDMLH_00585	CDS	lon2	3.4.21.53	Lon protease 2
+JJHLDMLH_00585	gene	lon2		
+JJHLDMLH_00586	CDS	rpsJ		30S ribosomal protein S10
+JJHLDMLH_00586	gene	rpsJ		
+JJHLDMLH_00587	CDS	tuf		Elongation factor Tu
+JJHLDMLH_00587	gene	tuf		
+JJHLDMLH_00588	CDS	fusA		Elongation factor G
+JJHLDMLH_00588	gene	fusA		
+JJHLDMLH_00589	CDS	rpsG		30S ribosomal protein S7
+JJHLDMLH_00589	gene	rpsG		
+JJHLDMLH_00590	CDS	rpsL		30S ribosomal protein S12
+JJHLDMLH_00590	gene	rpsL		
+JJHLDMLH_00591	CDS	fbp	5.2.1.8	FK506-binding protein
+JJHLDMLH_00591	gene	fbp		
+JJHLDMLH_00592	CDS	sodB	1.15.1.1	Superoxide dismutase [Fe]
+JJHLDMLH_00592	gene	sodB		
+JJHLDMLH_00593	CDS	queA	2.4.99.17	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+JJHLDMLH_00593	gene	queA		
+JJHLDMLH_00594	CDS			hypothetical protein
+JJHLDMLH_00594	gene			
+JJHLDMLH_00595	CDS			hypothetical protein
+JJHLDMLH_00595	gene			
+JJHLDMLH_00596	CDS	acs	6.2.1.1	Acetyl-coenzyme A synthetase
+JJHLDMLH_00596	gene	acs		
+JJHLDMLH_00597	CDS	yrbG		Inner membrane protein YrbG
+JJHLDMLH_00597	gene	yrbG		
+JJHLDMLH_00598	CDS			hypothetical protein
+JJHLDMLH_00598	gene			
+JJHLDMLH_00599	CDS	bcp_2	1.11.1.15	Putative peroxiredoxin bcp
+JJHLDMLH_00599	gene	bcp_2		
+JJHLDMLH_00600	CDS	hisC	2.6.1.9	Histidinol-phosphate aminotransferase
+JJHLDMLH_00600	gene	hisC		
+JJHLDMLH_00601	CDS			hypothetical protein
+JJHLDMLH_00601	gene			
+JJHLDMLH_00602	CDS			hypothetical protein
+JJHLDMLH_00602	gene			
+JJHLDMLH_00603	CDS	trpG	4.1.3.27	Anthranilate synthase component 2
+JJHLDMLH_00603	gene	trpG		
+JJHLDMLH_00604	CDS	dgkA	2.7.1.66	Undecaprenol kinase
+JJHLDMLH_00604	gene	dgkA		
+JJHLDMLH_00605	CDS	ybeY	3.1.-.-	Endoribonuclease YbeY
+JJHLDMLH_00605	gene	ybeY		
+JJHLDMLH_00606	CDS			hypothetical protein
+JJHLDMLH_00606	gene			
+JJHLDMLH_00607	CDS	prfB		Peptide chain release factor 2
+JJHLDMLH_00607	gene	prfB		
+JJHLDMLH_00608	CDS			putative glutaredoxin
+JJHLDMLH_00608	gene			
+JJHLDMLH_00609	CDS		3.6.1.25	Inorganic triphosphatase
+JJHLDMLH_00609	gene			
+JJHLDMLH_00610	CDS	nadK	2.7.1.23	NAD kinase
+JJHLDMLH_00610	gene	nadK		
+JJHLDMLH_00611	CDS		1.6.5.11	NADH-quinone oxidoreductase subunit 11
+JJHLDMLH_00611	gene			
+JJHLDMLH_00612	CDS	nuoJ	1.6.5.11	NADH-quinone oxidoreductase subunit J
+JJHLDMLH_00612	gene	nuoJ		
+JJHLDMLH_00613	CDS	ndhI	1.6.5.-	NAD(P)H-quinone oxidoreductase subunit I
+JJHLDMLH_00613	gene	ndhI		
+JJHLDMLH_00614	CDS			hypothetical protein
+JJHLDMLH_00614	gene			
+JJHLDMLH_00615	CDS			hypothetical protein
+JJHLDMLH_00615	gene			
+JJHLDMLH_00616	CDS			hypothetical protein
+JJHLDMLH_00616	gene			
+JJHLDMLH_00617	CDS			hypothetical protein
+JJHLDMLH_00617	gene			
+JJHLDMLH_00618	CDS			hypothetical protein
+JJHLDMLH_00618	gene			
+JJHLDMLH_00619	CDS			hypothetical protein
+JJHLDMLH_00619	gene			
+JJHLDMLH_00620	CDS	corC_2		Magnesium and cobalt efflux protein CorC
+JJHLDMLH_00620	gene	corC_2		
+JJHLDMLH_00621	CDS	der		GTPase Der
+JJHLDMLH_00621	gene	der		
+JJHLDMLH_00622	CDS	nadD	2.7.7.18	Nicotinate-nucleotide adenylyltransferase
+JJHLDMLH_00622	gene	nadD		
+JJHLDMLH_00623	CDS			hypothetical protein
+JJHLDMLH_00623	gene			
+JJHLDMLH_00624	CDS			hypothetical protein
+JJHLDMLH_00624	gene			
+JJHLDMLH_00625	CDS	rlmB	2.1.1.185	23S rRNA (guanosine-2'-O-)-methyltransferase RlmB
+JJHLDMLH_00625	gene	rlmB		
+JJHLDMLH_00626	CDS			hypothetical protein
+JJHLDMLH_00626	gene			
+JJHLDMLH_00627	CDS		2.6.1.1	Aspartate aminotransferase
+JJHLDMLH_00627	gene			
+JJHLDMLH_00628	CDS			hypothetical protein
+JJHLDMLH_00628	gene			
+JJHLDMLH_00629	CDS			hypothetical protein
+JJHLDMLH_00629	gene			
+JJHLDMLH_00630	CDS			hypothetical protein
+JJHLDMLH_00630	gene			
+JJHLDMLH_00631	CDS			hypothetical protein
+JJHLDMLH_00631	gene			
+JJHLDMLH_00632	CDS	rpmGA		50S ribosomal protein L33 1
+JJHLDMLH_00632	gene	rpmGA		
+JJHLDMLH_00633	CDS	rpsR		30S ribosomal protein S18
+JJHLDMLH_00633	gene	rpsR		
+JJHLDMLH_00634	CDS			hypothetical protein
+JJHLDMLH_00634	gene			
+JJHLDMLH_00635	CDS			hypothetical protein
+JJHLDMLH_00635	gene			
+JJHLDMLH_00636	CDS			hypothetical protein
+JJHLDMLH_00636	gene			
+JJHLDMLH_00637	CDS	dprA		DNA processing protein DprA
+JJHLDMLH_00637	gene	dprA		
+JJHLDMLH_00638	CDS		3.1.-.-	Putative esterase
+JJHLDMLH_00638	gene			
+JJHLDMLH_00639	CDS			hypothetical protein
+JJHLDMLH_00639	gene			
+JJHLDMLH_00640	CDS	stpA	3.1.3.69	Glucosylglycerol-phosphate phosphatase
+JJHLDMLH_00640	gene	stpA		
+JJHLDMLH_00641	CDS	treS	3.2.1.1	Trehalose synthase/amylase TreS
+JJHLDMLH_00641	gene	treS		
+JJHLDMLH_00642	CDS	glpD1	1.1.5.3	Glycerol-3-phosphate dehydrogenase 1
+JJHLDMLH_00642	gene	glpD1		
+JJHLDMLH_00643	CDS			hypothetical protein
+JJHLDMLH_00643	gene			
+JJHLDMLH_00644	CDS	ccsB		Cytochrome c biogenesis protein CcsB
+JJHLDMLH_00644	gene	ccsB		
+JJHLDMLH_00645	CDS	queF	1.7.1.13	NADPH-dependent 7-cyano-7-deazaguanine reductase
+JJHLDMLH_00645	gene	queF		
+JJHLDMLH_00646	CDS	glnB		Nitrogen regulatory protein P-II
+JJHLDMLH_00646	gene	glnB		
+JJHLDMLH_00647	CDS	tlyA	2.1.1.226	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+JJHLDMLH_00647	gene	tlyA		
+JJHLDMLH_00648	CDS	ubiD	4.1.1.98	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+JJHLDMLH_00648	gene	ubiD		
+JJHLDMLH_00649	CDS	comB	3.1.3.71	putative 2-phosphosulfolactate phosphatase
+JJHLDMLH_00649	gene	comB		
+JJHLDMLH_00650	CDS		3.5.1.111	2-oxoglutaramate amidase
+JJHLDMLH_00650	gene			
+JJHLDMLH_00651	CDS	mraY	2.7.8.13	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+JJHLDMLH_00651	gene	mraY		
+JJHLDMLH_00652	CDS			hypothetical protein
+JJHLDMLH_00652	gene			
+JJHLDMLH_00653	CDS			hypothetical protein
+JJHLDMLH_00653	gene			
+JJHLDMLH_00654	CDS	purT	2.1.2.-	Formate-dependent phosphoribosylglycinamide formyltransferase
+JJHLDMLH_00654	gene	purT		
+JJHLDMLH_00655	CDS	mfpsA	2.4.1.246	Mannosylfructose-phosphate synthase
+JJHLDMLH_00655	gene	mfpsA		
+JJHLDMLH_00656	CDS			hypothetical protein
+JJHLDMLH_00656	gene			
+JJHLDMLH_00657	CDS	lpxC	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+JJHLDMLH_00657	gene	lpxC		
+JJHLDMLH_00658	CDS	fabZ	4.2.1.59	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+JJHLDMLH_00658	gene	fabZ		
+JJHLDMLH_00659	CDS	lpxA	2.3.1.129	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+JJHLDMLH_00659	gene	lpxA		
+JJHLDMLH_00660	CDS			hypothetical protein
+JJHLDMLH_00660	gene			
+JJHLDMLH_00661	CDS			hypothetical protein
+JJHLDMLH_00661	gene			
+JJHLDMLH_00662	CDS			hypothetical protein
+JJHLDMLH_00662	gene			
+JJHLDMLH_00663	CDS	mdtA		Multidrug resistance protein MdtA
+JJHLDMLH_00663	gene	mdtA		
+JJHLDMLH_00664	CDS			Cyclic nucleotide-gated potassium channel
+JJHLDMLH_00664	gene			
+JJHLDMLH_00665	CDS			hypothetical protein
+JJHLDMLH_00665	gene			
+JJHLDMLH_00666	CDS		1.-.-.-	putative FAD-linked oxidoreductase
+JJHLDMLH_00666	gene			
+JJHLDMLH_00667	CDS	exoA	3.1.11.2	Exodeoxyribonuclease
+JJHLDMLH_00667	gene	exoA		
+JJHLDMLH_00668	CDS			hypothetical protein
+JJHLDMLH_00668	gene			
+JJHLDMLH_00669	CDS			hypothetical protein
+JJHLDMLH_00669	gene			
+JJHLDMLH_00670	CDS	sbcD		Nuclease SbcCD subunit D
+JJHLDMLH_00670	gene	sbcD		
+JJHLDMLH_00671	CDS			hypothetical protein
+JJHLDMLH_00671	gene			
+JJHLDMLH_00672	CDS			hypothetical protein
+JJHLDMLH_00672	gene			
+JJHLDMLH_00673	CDS	hepT	2.5.1.30	Heptaprenyl diphosphate synthase component 2
+JJHLDMLH_00673	gene	hepT		
+JJHLDMLH_00674	CDS	murI	5.1.1.3	Glutamate racemase
+JJHLDMLH_00674	gene	murI		
+JJHLDMLH_00675	CDS	lytC	3.5.1.28	N-acetylmuramoyl-L-alanine amidase LytC
+JJHLDMLH_00675	gene	lytC		
+JJHLDMLH_00676	CDS			hypothetical protein
+JJHLDMLH_00676	gene			
+JJHLDMLH_00677	CDS			hypothetical protein
+JJHLDMLH_00677	gene			
+JJHLDMLH_00678	tRNA			tRNA-Leu(tag)
+JJHLDMLH_00678	gene			
+JJHLDMLH_00679	CDS			hypothetical protein
+JJHLDMLH_00679	gene			
+JJHLDMLH_00680	CDS	trpS	6.1.1.2	Tryptophan--tRNA ligase
+JJHLDMLH_00680	gene	trpS		
+JJHLDMLH_00681	CDS			hypothetical protein
+JJHLDMLH_00681	gene			
+JJHLDMLH_00682	CDS			hypothetical protein
+JJHLDMLH_00682	gene			
+JJHLDMLH_00683	CDS			hypothetical protein
+JJHLDMLH_00683	gene			
+JJHLDMLH_00684	CDS	mtnA	5.3.1.23	Methylthioribose-1-phosphate isomerase
+JJHLDMLH_00684	gene	mtnA		
+JJHLDMLH_00685	CDS			hypothetical protein
+JJHLDMLH_00685	gene			
+JJHLDMLH_00686	CDS			hypothetical protein
+JJHLDMLH_00686	gene			
+JJHLDMLH_00687	CDS	csd	2.8.1.7	putative cysteine desulfurase
+JJHLDMLH_00687	gene	csd		
+JJHLDMLH_00688	CDS	dapb3	3.4.14.-	Dipeptidyl aminopeptidase BIII
+JJHLDMLH_00688	gene	dapb3		
+JJHLDMLH_00689	CDS		3.5.1.15	aspartoacylase
+JJHLDMLH_00689	gene			
+JJHLDMLH_00690	CDS	pntB	1.6.1.2	NAD(P) transhydrogenase subunit beta
+JJHLDMLH_00690	gene	pntB		
+JJHLDMLH_00691	CDS	pntA	1.6.1.2	NAD(P) transhydrogenase subunit alpha
+JJHLDMLH_00691	gene	pntA		
+JJHLDMLH_00692	CDS	pntAA	1.6.1.2	NAD(P) transhydrogenase subunit alpha part 1
+JJHLDMLH_00692	gene	pntAA		
+JJHLDMLH_00693	CDS			hypothetical protein
+JJHLDMLH_00693	gene			
+JJHLDMLH_00694	CDS	sumT	2.1.1.107	Uroporphyrinogen-III C-methyltransferase
+JJHLDMLH_00694	gene	sumT		
+JJHLDMLH_00695	tRNA			tRNA-Lys(ttt)
+JJHLDMLH_00695	gene			
+JJHLDMLH_00696	CDS	psbY		Photosystem II protein Y
+JJHLDMLH_00696	gene	psbY		
+JJHLDMLH_00697	CDS	trmFO	2.1.1.74	Methylenetetrahydrofolate--tRNA-(uracil-5-)-methyltransferase TrmFO
+JJHLDMLH_00697	gene	trmFO		
+JJHLDMLH_00698	CDS	crtI	1.3.99.31	Phytoene desaturase (lycopene-forming)
+JJHLDMLH_00698	gene	crtI		

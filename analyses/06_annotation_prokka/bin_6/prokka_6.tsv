@@ -1,0 +1,2645 @@
+locus_tag	ftype	gene	EC_number	product
+LGDJACJA_00001	CDS			hypothetical protein
+LGDJACJA_00001	gene			
+LGDJACJA_00002	tRNA			tRNA-Asn(gtt)
+LGDJACJA_00002	gene			
+LGDJACJA_00003	CDS			hypothetical protein
+LGDJACJA_00003	gene			
+LGDJACJA_00004	CDS		2.7.8.-	Cardiolipin synthase
+LGDJACJA_00004	gene			
+LGDJACJA_00005	CDS	bcpA	2.7.8.23	Carboxyvinyl-carboxyphosphonate phosphorylmutase
+LGDJACJA_00005	gene	bcpA		
+LGDJACJA_00006	CDS			hypothetical protein
+LGDJACJA_00006	gene			
+LGDJACJA_00007	CDS	pdaC	3.5.1.-	Peptidoglycan-N-acetylmuramic acid deacetylase PdaC
+LGDJACJA_00007	gene	pdaC		
+LGDJACJA_00008	CDS			hypothetical protein
+LGDJACJA_00008	gene			
+LGDJACJA_00009	CDS	trpA	4.2.1.20	Tryptophan synthase alpha chain
+LGDJACJA_00009	gene	trpA		
+LGDJACJA_00010	CDS	trpB_1	4.2.1.20	Tryptophan synthase beta chain
+LGDJACJA_00010	gene	trpB_1		
+LGDJACJA_00011	CDS			hypothetical protein
+LGDJACJA_00011	gene			
+LGDJACJA_00012	CDS			hypothetical protein
+LGDJACJA_00012	gene			
+LGDJACJA_00013	CDS			hypothetical protein
+LGDJACJA_00013	gene			
+LGDJACJA_00014	CDS			hypothetical protein
+LGDJACJA_00014	gene			
+LGDJACJA_00015	CDS			hypothetical protein
+LGDJACJA_00015	gene			
+LGDJACJA_00016	CDS			hypothetical protein
+LGDJACJA_00016	gene			
+LGDJACJA_00017	CDS			hypothetical protein
+LGDJACJA_00017	gene			
+LGDJACJA_00018	CDS	valS	6.1.1.9	Valine--tRNA ligase
+LGDJACJA_00018	gene	valS		
+LGDJACJA_00019	CDS	clpX		ATP-dependent Clp protease ATP-binding subunit ClpX
+LGDJACJA_00019	gene	clpX		
+LGDJACJA_00020	CDS	tig	5.2.1.8	Trigger factor
+LGDJACJA_00020	gene	tig		
+LGDJACJA_00021	tRNA			tRNA-Leu(tag)
+LGDJACJA_00021	gene			
+LGDJACJA_00022	tRNA			tRNA-His(gtg)
+LGDJACJA_00022	gene			
+LGDJACJA_00023	CDS	devR		Transcriptional regulatory protein DevR (DosR)
+LGDJACJA_00023	gene	devR		
+LGDJACJA_00024	CDS	liaS	2.7.13.3	Sensor histidine kinase LiaS
+LGDJACJA_00024	gene	liaS		
+LGDJACJA_00025	CDS			hypothetical protein
+LGDJACJA_00025	gene			
+LGDJACJA_00026	CDS	htpX_1	3.4.24.-	Protease HtpX 
+LGDJACJA_00026	gene	htpX_1		
+LGDJACJA_00027	CDS			hypothetical protein
+LGDJACJA_00027	gene			
+LGDJACJA_00028	CDS			hypothetical protein
+LGDJACJA_00028	gene			
+LGDJACJA_00029	CDS	suhB	3.1.3.25	Inositol-1-monophosphatase
+LGDJACJA_00029	gene	suhB		
+LGDJACJA_00030	CDS			hypothetical protein
+LGDJACJA_00030	gene			
+LGDJACJA_00031	CDS			hypothetical protein
+LGDJACJA_00031	gene			
+LGDJACJA_00032	CDS		1.1.1.38	NAD-dependent malic enzyme
+LGDJACJA_00032	gene			
+LGDJACJA_00033	tRNA			tRNA-Leu(caa)
+LGDJACJA_00033	gene			
+LGDJACJA_00034	CDS			hypothetical protein
+LGDJACJA_00034	gene			
+LGDJACJA_00035	CDS	ctpA	3.6.3.-	Cation-transporting P-type ATPase A
+LGDJACJA_00035	gene	ctpA		
+LGDJACJA_00036	CDS	copA	3.6.3.54	Copper-exporting P-type ATPase A
+LGDJACJA_00036	gene	copA		
+LGDJACJA_00037	CDS	copZ		Copper chaperone CopZ
+LGDJACJA_00037	gene	copZ		
+LGDJACJA_00038	CDS	rsbV		Anti-sigma-B factor antagonist
+LGDJACJA_00038	gene	rsbV		
+LGDJACJA_00039	CDS			hypothetical protein
+LGDJACJA_00039	gene			
+LGDJACJA_00040	CDS	srkA	2.7.11.1	Stress response kinase A
+LGDJACJA_00040	gene	srkA		
+LGDJACJA_00041	CDS	epsL_1	2.-.-.-	putative sugar transferase EpsL
+LGDJACJA_00041	gene	epsL_1		
+LGDJACJA_00042	CDS	mshA	2.4.1.250	D-inositol 3-phosphate glycosyltransferase
+LGDJACJA_00042	gene	mshA		
+LGDJACJA_00043	CDS	kanE_1	2.4.1.301	Alpha-D-kanosaminyltransferase
+LGDJACJA_00043	gene	kanE_1		
+LGDJACJA_00044	CDS			hypothetical protein
+LGDJACJA_00044	gene			
+LGDJACJA_00045	CDS	apc4	6.4.1.8	Acetophenone carboxylase delta subunit
+LGDJACJA_00045	gene	apc4		
+LGDJACJA_00046	CDS	apc3	6.4.1.8	Acetophenone carboxylase gamma subunit
+LGDJACJA_00046	gene	apc3		
+LGDJACJA_00047	CDS			hypothetical protein
+LGDJACJA_00047	gene			
+LGDJACJA_00048	CDS			hypothetical protein
+LGDJACJA_00048	gene			
+LGDJACJA_00049	CDS			hypothetical protein
+LGDJACJA_00049	gene			
+LGDJACJA_00050	CDS	cshA	3.6.4.13	DEAD-box ATP-dependent RNA helicase CshA
+LGDJACJA_00050	gene	cshA		
+LGDJACJA_00051	CDS			hypothetical protein
+LGDJACJA_00051	gene			
+LGDJACJA_00052	CDS			hypothetical protein
+LGDJACJA_00052	gene			
+LGDJACJA_00053	CDS			hypothetical protein
+LGDJACJA_00053	gene			
+LGDJACJA_00054	CDS			hypothetical protein
+LGDJACJA_00054	gene			
+LGDJACJA_00055	CDS	pckA	4.1.1.49	Phosphoenolpyruvate carboxykinase (ATP)
+LGDJACJA_00055	gene	pckA		
+LGDJACJA_00056	CDS	acuC_1		Acetoin utilization protein AcuC
+LGDJACJA_00056	gene	acuC_1		
+LGDJACJA_00057	CDS	crt_1	4.2.1.150	Short-chain-enoyl-CoA hydratase
+LGDJACJA_00057	gene	crt_1		
+LGDJACJA_00058	CDS	ephA	3.3.2.10	Epoxide hydrolase A
+LGDJACJA_00058	gene	ephA		
+LGDJACJA_00059	CDS	ddlB	6.3.2.4	D-alanine--D-alanine ligase B
+LGDJACJA_00059	gene	ddlB		
+LGDJACJA_00060	CDS	lysN_1	2.6.1.39	2-aminoadipate transaminase
+LGDJACJA_00060	gene	lysN_1		
+LGDJACJA_00061	CDS			hypothetical protein
+LGDJACJA_00061	gene			
+LGDJACJA_00062	CDS			putative transcriptional regulatory protein
+LGDJACJA_00062	gene			
+LGDJACJA_00063	CDS			hypothetical protein
+LGDJACJA_00063	gene			
+LGDJACJA_00064	CDS	ruvC	3.1.22.4	Crossover junction endodeoxyribonuclease RuvC
+LGDJACJA_00064	gene	ruvC		
+LGDJACJA_00065	CDS	ruvA	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvA
+LGDJACJA_00065	gene	ruvA		
+LGDJACJA_00066	CDS	ruvB	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvB
+LGDJACJA_00066	gene	ruvB		
+LGDJACJA_00067	CDS			hypothetical protein
+LGDJACJA_00067	gene			
+LGDJACJA_00068	CDS	pimA_1	2.4.1.57	Phosphatidyl-myo-inositol mannosyltransferase
+LGDJACJA_00068	gene	pimA_1		
+LGDJACJA_00069	CDS			hypothetical protein
+LGDJACJA_00069	gene			
+LGDJACJA_00070	CDS	ask	2.7.2.4	Aspartokinase
+LGDJACJA_00070	gene	ask		
+LGDJACJA_00071	CDS	asd	1.2.1.11	Aspartate-semialdehyde dehydrogenase
+LGDJACJA_00071	gene	asd		
+LGDJACJA_00072	CDS			hypothetical protein
+LGDJACJA_00072	gene			
+LGDJACJA_00073	CDS			hypothetical protein
+LGDJACJA_00073	gene			
+LGDJACJA_00074	CDS			hypothetical protein
+LGDJACJA_00074	gene			
+LGDJACJA_00075	CDS	dacD	3.4.16.4	D-alanyl-D-alanine carboxypeptidase DacD
+LGDJACJA_00075	gene	dacD		
+LGDJACJA_00076	CDS	lacC	2.7.1.144	Tagatose-6-phosphate kinase
+LGDJACJA_00076	gene	lacC		
+LGDJACJA_00077	CDS		1.-.-.-	putative oxidoreductase/MSMEI_1564
+LGDJACJA_00077	gene			
+LGDJACJA_00078	CDS	cmk	2.7.4.25	Cytidylate kinase
+LGDJACJA_00078	gene	cmk		
+LGDJACJA_00079	CDS	plsC_1	2.3.1.-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+LGDJACJA_00079	gene	plsC_1		
+LGDJACJA_00080	CDS	der		GTPase Der
+LGDJACJA_00080	gene	der		
+LGDJACJA_00081	CDS	gpsA	1.1.1.94	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+LGDJACJA_00081	gene	gpsA		
+LGDJACJA_00082	CDS			hypothetical protein
+LGDJACJA_00082	gene			
+LGDJACJA_00083	tRNA			tRNA-Thr(cgt)
+LGDJACJA_00083	gene			
+LGDJACJA_00084	CDS			hypothetical protein
+LGDJACJA_00084	gene			
+LGDJACJA_00085	CDS			hypothetical protein
+LGDJACJA_00085	gene			
+LGDJACJA_00086	CDS			hypothetical protein
+LGDJACJA_00086	gene			
+LGDJACJA_00087	CDS	fdh	1.1.1.122	D-threo-aldose 1-dehydrogenase
+LGDJACJA_00087	gene	fdh		
+LGDJACJA_00088	CDS			hypothetical protein
+LGDJACJA_00088	gene			
+LGDJACJA_00089	CDS			hypothetical protein
+LGDJACJA_00089	gene			
+LGDJACJA_00090	CDS			hypothetical protein
+LGDJACJA_00090	gene			
+LGDJACJA_00091	CDS	glmM	5.4.2.10	Phosphoglucosamine mutase
+LGDJACJA_00091	gene	glmM		
+LGDJACJA_00092	CDS			hypothetical protein
+LGDJACJA_00092	gene			
+LGDJACJA_00093	CDS			Leu/Ile/Val-binding protein 
+LGDJACJA_00093	gene			
+LGDJACJA_00094	CDS	bioC_1	2.1.1.197	Malonyl-[acyl-carrier protein] O-methyltransferase
+LGDJACJA_00094	gene	bioC_1		
+LGDJACJA_00095	CDS			putative transporter
+LGDJACJA_00095	gene			
+LGDJACJA_00096	CDS		3.4.21.-	Extracellular serine proteinase
+LGDJACJA_00096	gene			
+LGDJACJA_00097	CDS			hypothetical protein
+LGDJACJA_00097	gene			
+LGDJACJA_00098	CDS			hypothetical protein
+LGDJACJA_00098	gene			
+LGDJACJA_00099	CDS	puuP		Putrescine importer PuuP
+LGDJACJA_00099	gene	puuP		
+LGDJACJA_00100	CDS			hypothetical protein
+LGDJACJA_00100	gene			
+LGDJACJA_00101	CDS			hypothetical protein
+LGDJACJA_00101	gene			
+LGDJACJA_00102	CDS	yddE	5.1.-.-	putative isomerase YddE
+LGDJACJA_00102	gene	yddE		
+LGDJACJA_00103	CDS			Putative ATPase
+LGDJACJA_00103	gene			
+LGDJACJA_00104	CDS	arsA	3.6.3.16	Arsenical pump-driving ATPase
+LGDJACJA_00104	gene	arsA		
+LGDJACJA_00105	CDS			hypothetical protein
+LGDJACJA_00105	gene			
+LGDJACJA_00106	CDS			hypothetical protein
+LGDJACJA_00106	gene			
+LGDJACJA_00107	CDS	pimA_2	2.4.1.57	Phosphatidyl-myo-inositol mannosyltransferase
+LGDJACJA_00107	gene	pimA_2		
+LGDJACJA_00108	CDS	cfa	2.1.1.79	Cyclopropane-fatty-acyl-phospholipid synthase
+LGDJACJA_00108	gene	cfa		
+LGDJACJA_00109	CDS	ripB	3.4.-.-	Peptidoglycan endopeptidase RipB
+LGDJACJA_00109	gene	ripB		
+LGDJACJA_00110	CDS			hypothetical protein
+LGDJACJA_00110	gene			
+LGDJACJA_00111	CDS	entS		Enterobactin exporter EntS
+LGDJACJA_00111	gene	entS		
+LGDJACJA_00112	CDS	argE	3.5.1.16	Acetylornithine deacetylase
+LGDJACJA_00112	gene	argE		
+LGDJACJA_00113	CDS	efpA		putative MFS-type transporter EfpA
+LGDJACJA_00113	gene	efpA		
+LGDJACJA_00114	CDS	ycdT	2.7.7.65	putative diguanylate cyclase YcdT
+LGDJACJA_00114	gene	ycdT		
+LGDJACJA_00115	tRNA			tRNA-Ala(ggc)
+LGDJACJA_00115	gene			
+LGDJACJA_00116	CDS	rsfS		Ribosomal silencing factor RsfS
+LGDJACJA_00116	gene	rsfS		
+LGDJACJA_00117	CDS	nadD	2.7.7.18	putative nicotinate-nucleotide adenylyltransferase
+LGDJACJA_00117	gene	nadD		
+LGDJACJA_00118	CDS			hypothetical protein
+LGDJACJA_00118	gene			
+LGDJACJA_00119	tRNA			tRNA-Thr(ggt)
+LGDJACJA_00119	gene			
+LGDJACJA_00120	CDS	dbpA	3.6.4.13	ATP-dependent RNA helicase DbpA
+LGDJACJA_00120	gene	dbpA		
+LGDJACJA_00121	CDS		6.3.2.2	Putative glutamate--cysteine ligase 2
+LGDJACJA_00121	gene			
+LGDJACJA_00122	CDS			hypothetical protein
+LGDJACJA_00122	gene			
+LGDJACJA_00123	CDS			hypothetical protein
+LGDJACJA_00123	gene			
+LGDJACJA_00124	CDS			hypothetical protein
+LGDJACJA_00124	gene			
+LGDJACJA_00125	CDS			hypothetical protein
+LGDJACJA_00125	gene			
+LGDJACJA_00126	CDS	argF	2.1.3.3	Ornithine carbamoyltransferase
+LGDJACJA_00126	gene	argF		
+LGDJACJA_00127	tRNA			tRNA-Arg(cct)
+LGDJACJA_00127	gene			
+LGDJACJA_00128	CDS			hypothetical protein
+LGDJACJA_00128	gene			
+LGDJACJA_00129	CDS			hypothetical protein
+LGDJACJA_00129	gene			
+LGDJACJA_00130	CDS			hypothetical protein
+LGDJACJA_00130	gene			
+LGDJACJA_00131	CDS	pstB3	3.6.3.27	Phosphate import ATP-binding protein PstB 3
+LGDJACJA_00131	gene	pstB3		
+LGDJACJA_00132	CDS	rsbU	3.1.3.3	Phosphoserine phosphatase RsbU
+LGDJACJA_00132	gene	rsbU		
+LGDJACJA_00133	CDS	khtT		K(+)/H(+) antiporter subunit KhtT
+LGDJACJA_00133	gene	khtT		
+LGDJACJA_00134	CDS	yhaU		K(+)/H(+) antiporter YhaU
+LGDJACJA_00134	gene	yhaU		
+LGDJACJA_00135	CDS	pyrD	1.3.5.2	Dihydroorotate dehydrogenase (quinone)
+LGDJACJA_00135	gene	pyrD		
+LGDJACJA_00136	CDS			hypothetical protein
+LGDJACJA_00136	gene			
+LGDJACJA_00137	CDS	crt_2	4.2.1.150	Short-chain-enoyl-CoA hydratase
+LGDJACJA_00137	gene	crt_2		
+LGDJACJA_00138	CDS	scpA	5.4.99.2	Methylmalonyl-CoA mutase
+LGDJACJA_00138	gene	scpA		
+LGDJACJA_00139	CDS			hypothetical protein
+LGDJACJA_00139	gene			
+LGDJACJA_00140	CDS	glyS	6.1.1.14	Glycine--tRNA ligase beta subunit
+LGDJACJA_00140	gene	glyS		
+LGDJACJA_00141	CDS			hypothetical protein
+LGDJACJA_00141	gene			
+LGDJACJA_00142	CDS	yvdD		LOG family protein YvdD
+LGDJACJA_00142	gene	yvdD		
+LGDJACJA_00143	CDS	phrB	4.1.99.13	(6-4) photolyase
+LGDJACJA_00143	gene	phrB		
+LGDJACJA_00144	CDS			hypothetical protein
+LGDJACJA_00144	gene			
+LGDJACJA_00145	CDS			hypothetical protein
+LGDJACJA_00145	gene			
+LGDJACJA_00146	CDS			putative membrane protein
+LGDJACJA_00146	gene			
+LGDJACJA_00147	CDS	cca		Multifunctional CCA protein
+LGDJACJA_00147	gene	cca		
+LGDJACJA_00148	CDS			hypothetical protein
+LGDJACJA_00148	gene			
+LGDJACJA_00149	CDS	yabJ	3.5.99.10	2-iminobutanoate/2-iminopropanoate deaminase
+LGDJACJA_00149	gene	yabJ		
+LGDJACJA_00150	CDS	hisF	4.1.3.-	Imidazole glycerol phosphate synthase subunit HisF
+LGDJACJA_00150	gene	hisF		
+LGDJACJA_00151	CDS	hisA_1	5.3.1.16	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+LGDJACJA_00151	gene	hisA_1		
+LGDJACJA_00152	CDS	comEC		ComE operon protein 3
+LGDJACJA_00152	gene	comEC		
+LGDJACJA_00153	CDS			hypothetical protein
+LGDJACJA_00153	gene			
+LGDJACJA_00154	CDS	rpsT		30S ribosomal protein S20
+LGDJACJA_00154	gene	rpsT		
+LGDJACJA_00155	CDS	fabH_1	2.3.1.180	3-oxoacyl-[acyl-carrier-protein] synthase 3
+LGDJACJA_00155	gene	fabH_1		
+LGDJACJA_00156	CDS	fabD	2.3.1.39	Malonyl CoA-acyl carrier protein transacylase
+LGDJACJA_00156	gene	fabD		
+LGDJACJA_00157	CDS	fabG_1	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+LGDJACJA_00157	gene	fabG_1		
+LGDJACJA_00158	CDS	mepM	3.4.24.-	Murein DD-endopeptidase MepM
+LGDJACJA_00158	gene	mepM		
+LGDJACJA_00159	CDS			hypothetical protein
+LGDJACJA_00159	gene			
+LGDJACJA_00160	CDS			hypothetical protein
+LGDJACJA_00160	gene			
+LGDJACJA_00161	CDS			hypothetical protein
+LGDJACJA_00161	gene			
+LGDJACJA_00162	CDS	sepF		Cell division protein SepF
+LGDJACJA_00162	gene	sepF		
+LGDJACJA_00163	CDS			hypothetical protein
+LGDJACJA_00163	gene			
+LGDJACJA_00164	CDS	bfrB	1.16.3.1	Ferritin BfrB
+LGDJACJA_00164	gene	bfrB		
+LGDJACJA_00165	CDS	rimP		Ribosome maturation factor RimP
+LGDJACJA_00165	gene	rimP		
+LGDJACJA_00166	CDS	nusA		Transcription termination/antitermination protein NusA
+LGDJACJA_00166	gene	nusA		
+LGDJACJA_00167	CDS			hypothetical protein
+LGDJACJA_00167	gene			
+LGDJACJA_00168	CDS			hypothetical protein
+LGDJACJA_00168	gene			
+LGDJACJA_00169	CDS	pipB2_1		Secreted effector protein PipB2
+LGDJACJA_00169	gene	pipB2_1		
+LGDJACJA_00170	CDS			hypothetical protein
+LGDJACJA_00170	gene			
+LGDJACJA_00171	CDS			hypothetical protein
+LGDJACJA_00171	gene			
+LGDJACJA_00172	CDS			hypothetical protein
+LGDJACJA_00172	gene			
+LGDJACJA_00173	CDS	dapB	1.17.1.8	4-hydroxy-tetrahydrodipicolinate reductase
+LGDJACJA_00173	gene	dapB		
+LGDJACJA_00174	CDS		3.4.24.-	putative zinc protease
+LGDJACJA_00174	gene			
+LGDJACJA_00175	CDS	pnp	2.7.7.8	Polyribonucleotide nucleotidyltransferase
+LGDJACJA_00175	gene	pnp		
+LGDJACJA_00176	CDS	rpsO		30S ribosomal protein S15
+LGDJACJA_00176	gene	rpsO		
+LGDJACJA_00177	CDS	ribF		Riboflavin biosynthesis protein RibF
+LGDJACJA_00177	gene	ribF		
+LGDJACJA_00178	CDS			hypothetical protein
+LGDJACJA_00178	gene			
+LGDJACJA_00179	CDS	dxs	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+LGDJACJA_00179	gene	dxs		
+LGDJACJA_00180	CDS	tlyA	2.1.1.226	16S/23S rRNA (cytidine-2'-O)-methyltransferase TlyA
+LGDJACJA_00180	gene	tlyA		
+LGDJACJA_00181	CDS	cspA		putative cold shock protein A
+LGDJACJA_00181	gene	cspA		
+LGDJACJA_00182	CDS			hypothetical protein
+LGDJACJA_00182	gene			
+LGDJACJA_00183	CDS	leuS	6.1.1.4	Leucine--tRNA ligase
+LGDJACJA_00183	gene	leuS		
+LGDJACJA_00184	CDS	comEA		ComE operon protein 1
+LGDJACJA_00184	gene	comEA		
+LGDJACJA_00185	CDS	rpiA	5.3.1.6	Ribose-5-phosphate isomerase A
+LGDJACJA_00185	gene	rpiA		
+LGDJACJA_00186	CDS	murF_1	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+LGDJACJA_00186	gene	murF_1		
+LGDJACJA_00187	CDS			hypothetical protein
+LGDJACJA_00187	gene			
+LGDJACJA_00188	CDS			hypothetical protein
+LGDJACJA_00188	gene			
+LGDJACJA_00189	CDS			hypothetical protein
+LGDJACJA_00189	gene			
+LGDJACJA_00190	CDS	fieF		Ferrous-iron efflux pump FieF
+LGDJACJA_00190	gene	fieF		
+LGDJACJA_00191	CDS			hypothetical protein
+LGDJACJA_00191	gene			
+LGDJACJA_00192	CDS	infC		Translation initiation factor IF-3
+LGDJACJA_00192	gene	infC		
+LGDJACJA_00193	CDS	rpmI		50S ribosomal protein L35
+LGDJACJA_00193	gene	rpmI		
+LGDJACJA_00194	CDS	rplT		50S ribosomal protein L20
+LGDJACJA_00194	gene	rplT		
+LGDJACJA_00195	CDS			hypothetical protein
+LGDJACJA_00195	gene			
+LGDJACJA_00196	CDS			hypothetical protein
+LGDJACJA_00196	gene			
+LGDJACJA_00197	CDS			hypothetical protein
+LGDJACJA_00197	gene			
+LGDJACJA_00198	CDS	pgdA	3.5.1.104	Peptidoglycan-N-acetylglucosamine deacetylase
+LGDJACJA_00198	gene	pgdA		
+LGDJACJA_00199	CDS			hypothetical protein
+LGDJACJA_00199	gene			
+LGDJACJA_00200	CDS			hypothetical protein
+LGDJACJA_00200	gene			
+LGDJACJA_00201	CDS			hypothetical protein
+LGDJACJA_00201	gene			
+LGDJACJA_00202	tRNA			tRNA-Ile(gat)
+LGDJACJA_00202	gene			
+LGDJACJA_00203	CDS	spo0C		Chromosome-partitioning protein Spo0J
+LGDJACJA_00203	gene	spo0C		
+LGDJACJA_00204	CDS	soj	3.6.-.-	Sporulation initiation inhibitor protein Soj
+LGDJACJA_00204	gene	soj		
+LGDJACJA_00205	CDS	rsmG	2.1.1.-	Ribosomal RNA small subunit methyltransferase G
+LGDJACJA_00205	gene	rsmG		
+LGDJACJA_00206	CDS			hypothetical protein
+LGDJACJA_00206	gene			
+LGDJACJA_00207	CDS			hypothetical protein
+LGDJACJA_00207	gene			
+LGDJACJA_00208	CDS	rseP	3.4.24.-	Regulator of sigma-E protease RseP
+LGDJACJA_00208	gene	rseP		
+LGDJACJA_00209	CDS	ispG	1.17.7.3	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+LGDJACJA_00209	gene	ispG		
+LGDJACJA_00210	CDS			hypothetical protein
+LGDJACJA_00210	gene			
+LGDJACJA_00211	CDS			hypothetical protein
+LGDJACJA_00211	gene			
+LGDJACJA_00212	CDS			hypothetical protein
+LGDJACJA_00212	gene			
+LGDJACJA_00213	CDS			hypothetical protein
+LGDJACJA_00213	gene			
+LGDJACJA_00214	CDS			Leu/Ile/Val-binding protein 
+LGDJACJA_00214	gene			
+LGDJACJA_00215	CDS			hypothetical protein
+LGDJACJA_00215	gene			
+LGDJACJA_00216	CDS	arsC	1.20.4.1	Glutaredoxin arsenate reductase
+LGDJACJA_00216	gene	arsC		
+LGDJACJA_00217	CDS			hypothetical protein
+LGDJACJA_00217	gene			
+LGDJACJA_00218	CDS	cysNC		Bifunctional enzyme CysN/CysC
+LGDJACJA_00218	gene	cysNC		
+LGDJACJA_00219	CDS			hypothetical protein
+LGDJACJA_00219	gene			
+LGDJACJA_00220	CDS	truA	5.4.99.12	tRNA pseudouridine synthase A
+LGDJACJA_00220	gene	truA		
+LGDJACJA_00221	CDS	surE	3.1.3.5	5'/3'-nucleotidase SurE
+LGDJACJA_00221	gene	surE		
+LGDJACJA_00222	CDS	ppaX	3.6.1.1	Pyrophosphatase PpaX
+LGDJACJA_00222	gene	ppaX		
+LGDJACJA_00223	CDS			hypothetical protein
+LGDJACJA_00223	gene			
+LGDJACJA_00224	CDS			hypothetical protein
+LGDJACJA_00224	gene			
+LGDJACJA_00225	CDS	carA	6.3.5.5	Carbamoyl-phosphate synthase small chain
+LGDJACJA_00225	gene	carA		
+LGDJACJA_00226	CDS	rpsE		30S ribosomal protein S5
+LGDJACJA_00226	gene	rpsE		
+LGDJACJA_00227	CDS	rpmD		50S ribosomal protein L30
+LGDJACJA_00227	gene	rpmD		
+LGDJACJA_00228	CDS	rplO		50S ribosomal protein L15
+LGDJACJA_00228	gene	rplO		
+LGDJACJA_00229	CDS	secY		Protein translocase subunit SecY
+LGDJACJA_00229	gene	secY		
+LGDJACJA_00230	CDS	adk	2.7.4.3	Adenylate kinase
+LGDJACJA_00230	gene	adk		
+LGDJACJA_00231	CDS	map	3.4.11.18	Methionine aminopeptidase 1
+LGDJACJA_00231	gene	map		
+LGDJACJA_00232	CDS	rpmJ		50S ribosomal protein L36
+LGDJACJA_00232	gene	rpmJ		
+LGDJACJA_00233	CDS	rpsM		30S ribosomal protein S13
+LGDJACJA_00233	gene	rpsM		
+LGDJACJA_00234	CDS	rpsK		30S ribosomal protein S11
+LGDJACJA_00234	gene	rpsK		
+LGDJACJA_00235	CDS	rpsD		30S ribosomal protein S4
+LGDJACJA_00235	gene	rpsD		
+LGDJACJA_00236	CDS	rpoA	2.7.7.6	DNA-directed RNA polymerase subunit alpha
+LGDJACJA_00236	gene	rpoA		
+LGDJACJA_00237	CDS	rplQ		50S ribosomal protein L17
+LGDJACJA_00237	gene	rplQ		
+LGDJACJA_00238	CDS			hypothetical protein
+LGDJACJA_00238	gene			
+LGDJACJA_00239	CDS			hypothetical protein
+LGDJACJA_00239	gene			
+LGDJACJA_00240	CDS	sipU	3.4.21.89	Signal peptidase I U
+LGDJACJA_00240	gene	sipU		
+LGDJACJA_00241	CDS	nrdR		Transcriptional repressor NrdR
+LGDJACJA_00241	gene	nrdR		
+LGDJACJA_00242	CDS			hypothetical protein
+LGDJACJA_00242	gene			
+LGDJACJA_00243	CDS			hypothetical protein
+LGDJACJA_00243	gene			
+LGDJACJA_00244	CDS			hypothetical protein
+LGDJACJA_00244	gene			
+LGDJACJA_00245	CDS			hypothetical protein
+LGDJACJA_00245	gene			
+LGDJACJA_00246	CDS			hypothetical protein
+LGDJACJA_00246	gene			
+LGDJACJA_00247	CDS			hypothetical protein
+LGDJACJA_00247	gene			
+LGDJACJA_00248	CDS			hypothetical protein
+LGDJACJA_00248	gene			
+LGDJACJA_00249	CDS	lipA	2.8.1.8	Lipoyl synthase
+LGDJACJA_00249	gene	lipA		
+LGDJACJA_00250	CDS	dcd	3.5.4.13	dCTP deaminase
+LGDJACJA_00250	gene	dcd		
+LGDJACJA_00251	CDS			hypothetical protein
+LGDJACJA_00251	gene			
+LGDJACJA_00252	CDS	tatAy		Sec-independent protein translocase protein TatAy
+LGDJACJA_00252	gene	tatAy		
+LGDJACJA_00253	CDS		3.5.4.32	8-oxoguanine deaminase
+LGDJACJA_00253	gene			
+LGDJACJA_00254	CDS	bepA_1	3.4.-.-	Beta-barrel assembly-enhancing protease
+LGDJACJA_00254	gene	bepA_1		
+LGDJACJA_00255	tRNA			tRNA-Lys(ctt)
+LGDJACJA_00255	gene			
+LGDJACJA_00256	CDS			hypothetical protein
+LGDJACJA_00256	gene			
+LGDJACJA_00257	CDS			hypothetical protein
+LGDJACJA_00257	gene			
+LGDJACJA_00258	CDS	alx		Inner membrane protein alx
+LGDJACJA_00258	gene	alx		
+LGDJACJA_00259	CDS			hypothetical protein
+LGDJACJA_00259	gene			
+LGDJACJA_00260	CDS			hypothetical protein
+LGDJACJA_00260	gene			
+LGDJACJA_00261	CDS	crtB	2.5.1.99	All-trans-phytoene synthase
+LGDJACJA_00261	gene	crtB		
+LGDJACJA_00262	CDS	crtI	1.3.99.31	Phytoene desaturase (lycopene-forming)
+LGDJACJA_00262	gene	crtI		
+LGDJACJA_00263	CDS	rpsS		30S ribosomal protein S19
+LGDJACJA_00263	gene	rpsS		
+LGDJACJA_00264	CDS	rplB		50S ribosomal protein L2
+LGDJACJA_00264	gene	rplB		
+LGDJACJA_00265	CDS	rplW		50S ribosomal protein L23
+LGDJACJA_00265	gene	rplW		
+LGDJACJA_00266	CDS	rplD		50S ribosomal protein L4
+LGDJACJA_00266	gene	rplD		
+LGDJACJA_00267	CDS	rplC		50S ribosomal protein L3
+LGDJACJA_00267	gene	rplC		
+LGDJACJA_00268	CDS	rpsJ		30S ribosomal protein S10
+LGDJACJA_00268	gene	rpsJ		
+LGDJACJA_00269	CDS	tuf		Elongation factor Tu
+LGDJACJA_00269	gene	tuf		
+LGDJACJA_00270	CDS			hypothetical protein
+LGDJACJA_00270	gene			
+LGDJACJA_00271	CDS	rnhB	3.1.26.4	Ribonuclease HII
+LGDJACJA_00271	gene	rnhB		
+LGDJACJA_00272	CDS			hypothetical protein
+LGDJACJA_00272	gene			
+LGDJACJA_00273	CDS	rplS		50S ribosomal protein L19
+LGDJACJA_00273	gene	rplS		
+LGDJACJA_00274	CDS	trmD	2.1.1.228	tRNA (guanine-N(1)-)-methyltransferase
+LGDJACJA_00274	gene	trmD		
+LGDJACJA_00275	CDS			hypothetical protein
+LGDJACJA_00275	gene			
+LGDJACJA_00276	CDS	rnc	3.1.26.3	Ribonuclease 3
+LGDJACJA_00276	gene	rnc		
+LGDJACJA_00277	CDS	acpP		Acyl carrier protein
+LGDJACJA_00277	gene	acpP		
+LGDJACJA_00278	CDS	plsX	2.3.1.-	Phosphate acyltransferase
+LGDJACJA_00278	gene	plsX		
+LGDJACJA_00279	CDS			hypothetical protein
+LGDJACJA_00279	gene			
+LGDJACJA_00280	CDS			hypothetical protein
+LGDJACJA_00280	gene			
+LGDJACJA_00281	CDS			hypothetical protein
+LGDJACJA_00281	gene			
+LGDJACJA_00282	CDS			hypothetical protein
+LGDJACJA_00282	gene			
+LGDJACJA_00283	CDS			hypothetical protein
+LGDJACJA_00283	gene			
+LGDJACJA_00284	CDS			hypothetical protein
+LGDJACJA_00284	gene			
+LGDJACJA_00285	CDS			hypothetical protein
+LGDJACJA_00285	gene			
+LGDJACJA_00286	CDS			hypothetical protein
+LGDJACJA_00286	gene			
+LGDJACJA_00287	CDS			hypothetical protein
+LGDJACJA_00287	gene			
+LGDJACJA_00288	CDS			hypothetical protein
+LGDJACJA_00288	gene			
+LGDJACJA_00289	CDS			hypothetical protein
+LGDJACJA_00289	gene			
+LGDJACJA_00290	CDS			hypothetical protein
+LGDJACJA_00290	gene			
+LGDJACJA_00291	tRNA			tRNA-Arg(acg)
+LGDJACJA_00291	gene			
+LGDJACJA_00292	CDS	corC		Magnesium and cobalt efflux protein CorC
+LGDJACJA_00292	gene	corC		
+LGDJACJA_00293	tRNA			tRNA-Ser(gct)
+LGDJACJA_00293	gene			
+LGDJACJA_00294	tRNA			tRNA-Ser(tga)
+LGDJACJA_00294	gene			
+LGDJACJA_00295	CDS		2.1.1.295	2-methyl-6-phytyl-1,4-hydroquinone methyltransferase
+LGDJACJA_00295	gene			
+LGDJACJA_00296	CDS	kmo	1.14.13.9	Kynurenine 3-monooxygenase
+LGDJACJA_00296	gene	kmo		
+LGDJACJA_00297	CDS			hypothetical protein
+LGDJACJA_00297	gene			
+LGDJACJA_00298	CDS			hypothetical protein
+LGDJACJA_00298	gene			
+LGDJACJA_00299	CDS	rph	2.7.7.56	Ribonuclease PH
+LGDJACJA_00299	gene	rph		
+LGDJACJA_00300	CDS	rdgB	3.6.1.9	dITP/XTP pyrophosphatase
+LGDJACJA_00300	gene	rdgB		
+LGDJACJA_00301	CDS	fabG_2	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+LGDJACJA_00301	gene	fabG_2		
+LGDJACJA_00302	CDS			hypothetical protein
+LGDJACJA_00302	gene			
+LGDJACJA_00303	CDS			hypothetical protein
+LGDJACJA_00303	gene			
+LGDJACJA_00304	CDS			Universal stress protein
+LGDJACJA_00304	gene			
+LGDJACJA_00305	CDS			hypothetical protein
+LGDJACJA_00305	gene			
+LGDJACJA_00306	CDS			hypothetical protein
+LGDJACJA_00306	gene			
+LGDJACJA_00307	tRNA			tRNA-Cys(gca)
+LGDJACJA_00307	gene			
+LGDJACJA_00308	tRNA			tRNA-Gly(gcc)
+LGDJACJA_00308	gene			
+LGDJACJA_00309	CDS			GTP cyclohydrolase 1 type 2 
+LGDJACJA_00309	gene			
+LGDJACJA_00310	CDS			hypothetical protein
+LGDJACJA_00310	gene			
+LGDJACJA_00311	CDS	rnz	3.1.26.11	Ribonuclease Z
+LGDJACJA_00311	gene	rnz		
+LGDJACJA_00312	CDS			hypothetical protein
+LGDJACJA_00312	gene			
+LGDJACJA_00313	CDS			hypothetical protein
+LGDJACJA_00313	gene			
+LGDJACJA_00314	CDS			hypothetical protein
+LGDJACJA_00314	gene			
+LGDJACJA_00315	CDS		4.1.3.17	Putative 4-hydroxy-4-methyl-2-oxoglutarate aldolase
+LGDJACJA_00315	gene			
+LGDJACJA_00316	CDS			hypothetical protein
+LGDJACJA_00316	gene			
+LGDJACJA_00317	CDS			hypothetical protein
+LGDJACJA_00317	gene			
+LGDJACJA_00318	CDS	murD_1	6.3.2.9	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+LGDJACJA_00318	gene	murD_1		
+LGDJACJA_00319	CDS	xerC		Tyrosine recombinase XerC
+LGDJACJA_00319	gene	xerC		
+LGDJACJA_00320	CDS			hypothetical protein
+LGDJACJA_00320	gene			
+LGDJACJA_00321	CDS	nei1_1	3.2.2.-	Endonuclease 8 1
+LGDJACJA_00321	gene	nei1_1		
+LGDJACJA_00322	CDS			hypothetical protein
+LGDJACJA_00322	gene			
+LGDJACJA_00323	CDS	pipB2_2		Secreted effector protein PipB2
+LGDJACJA_00323	gene	pipB2_2		
+LGDJACJA_00324	CDS			hypothetical protein
+LGDJACJA_00324	gene			
+LGDJACJA_00325	CDS			hypothetical protein
+LGDJACJA_00325	gene			
+LGDJACJA_00326	CDS			hypothetical protein
+LGDJACJA_00326	gene			
+LGDJACJA_00327	CDS	trpB_2	4.2.1.20	Tryptophan synthase beta chain
+LGDJACJA_00327	gene	trpB_2		
+LGDJACJA_00328	CDS			hypothetical protein
+LGDJACJA_00328	gene			
+LGDJACJA_00329	CDS	phoR_1	2.7.13.3	Alkaline phosphatase synthesis sensor protein PhoR
+LGDJACJA_00329	gene	phoR_1		
+LGDJACJA_00330	tRNA			tRNA-Phe(gaa)
+LGDJACJA_00330	gene			
+LGDJACJA_00331	CDS	pgk	2.7.2.3	Phosphoglycerate kinase
+LGDJACJA_00331	gene	pgk		
+LGDJACJA_00332	CDS	tpiA	5.3.1.1	Triosephosphate isomerase
+LGDJACJA_00332	gene	tpiA		
+LGDJACJA_00333	CDS	gpmI	5.4.2.12	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+LGDJACJA_00333	gene	gpmI		
+LGDJACJA_00334	CDS			hypothetical protein
+LGDJACJA_00334	gene			
+LGDJACJA_00335	CDS			hypothetical protein
+LGDJACJA_00335	gene			
+LGDJACJA_00336	CDS	tusA	2.8.1.-	Sulfurtransferase TusA
+LGDJACJA_00336	gene	tusA		
+LGDJACJA_00337	CDS	iscS	2.8.1.7	Cysteine desulfurase IscS
+LGDJACJA_00337	gene	iscS		
+LGDJACJA_00338	CDS		1.1.1.-	2-keto-3-deoxy-L-fuconate dehydrogenase
+LGDJACJA_00338	gene			
+LGDJACJA_00339	CDS	tagO	2.7.8.33	putative undecaprenyl-phosphate N-acetylglucosaminyl 1-phosphate transferase
+LGDJACJA_00339	gene	tagO		
+LGDJACJA_00340	CDS			hypothetical protein
+LGDJACJA_00340	gene			
+LGDJACJA_00341	CDS	atpB		ATP synthase subunit a
+LGDJACJA_00341	gene	atpB		
+LGDJACJA_00342	CDS	atpE		ATP synthase subunit c, sodium ion specific
+LGDJACJA_00342	gene	atpE		
+LGDJACJA_00343	CDS	atpF		ATP synthase subunit b
+LGDJACJA_00343	gene	atpF		
+LGDJACJA_00344	CDS	atpH		ATP synthase subunit delta
+LGDJACJA_00344	gene	atpH		
+LGDJACJA_00345	CDS			hypothetical protein
+LGDJACJA_00345	gene			
+LGDJACJA_00346	CDS			hypothetical protein
+LGDJACJA_00346	gene			
+LGDJACJA_00347	CDS	xynD		Bifunctional xylanase/deacetylase
+LGDJACJA_00347	gene	xynD		
+LGDJACJA_00348	CDS	glnA_1	6.3.1.2	Glutamine synthetase 2
+LGDJACJA_00348	gene	glnA_1		
+LGDJACJA_00349	CDS	ykuT		putative MscS family protein YkuT
+LGDJACJA_00349	gene	ykuT		
+LGDJACJA_00350	CDS	kanE_2	2.4.1.301	Alpha-D-kanosaminyltransferase
+LGDJACJA_00350	gene	kanE_2		
+LGDJACJA_00351	CDS			hypothetical protein
+LGDJACJA_00351	gene			
+LGDJACJA_00352	CDS	wcaJ	2.7.8.31	UDP-glucose:undecaprenyl-phosphate glucose-1-phosphate transferase
+LGDJACJA_00352	gene	wcaJ		
+LGDJACJA_00353	CDS	rbbA		Ribosome-associated ATPase
+LGDJACJA_00353	gene	rbbA		
+LGDJACJA_00354	CDS			Ferredoxin
+LGDJACJA_00354	gene			
+LGDJACJA_00355	CDS	algC	5.4.2.2	Phosphomannomutase/phosphoglucomutase
+LGDJACJA_00355	gene	algC		
+LGDJACJA_00356	CDS		2.7.7.53	AP-4-A phosphorylase
+LGDJACJA_00356	gene			
+LGDJACJA_00357	CDS	corA		Cobalt/magnesium transport protein CorA
+LGDJACJA_00357	gene	corA		
+LGDJACJA_00358	CDS	tuaE		Teichuronic acid biosynthesis protein TuaE
+LGDJACJA_00358	gene	tuaE		
+LGDJACJA_00359	CDS	tuaC	2.4.-.-	Putative teichuronic acid biosynthesis glycosyltransferase TuaC
+LGDJACJA_00359	gene	tuaC		
+LGDJACJA_00360	CDS		6.3.1.12	D-aspartate ligase
+LGDJACJA_00360	gene			
+LGDJACJA_00361	CDS			hypothetical protein
+LGDJACJA_00361	gene			
+LGDJACJA_00362	CDS			hypothetical protein
+LGDJACJA_00362	gene			
+LGDJACJA_00363	CDS			hypothetical protein
+LGDJACJA_00363	gene			
+LGDJACJA_00364	CDS			hypothetical protein
+LGDJACJA_00364	gene			
+LGDJACJA_00365	CDS			hypothetical protein
+LGDJACJA_00365	gene			
+LGDJACJA_00366	CDS			hypothetical protein
+LGDJACJA_00366	gene			
+LGDJACJA_00367	CDS	dapA	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+LGDJACJA_00367	gene	dapA		
+LGDJACJA_00368	CDS			hypothetical protein
+LGDJACJA_00368	gene			
+LGDJACJA_00369	CDS	ubiA	2.5.1.-	4-hydroxybenzoate octaprenyltransferase
+LGDJACJA_00369	gene	ubiA		
+LGDJACJA_00370	CDS	natA_1		ABC transporter ATP-binding protein NatA
+LGDJACJA_00370	gene	natA_1		
+LGDJACJA_00371	CDS			hypothetical protein
+LGDJACJA_00371	gene			
+LGDJACJA_00372	CDS	ccmC		Heme exporter protein C
+LGDJACJA_00372	gene	ccmC		
+LGDJACJA_00373	CDS			hypothetical protein
+LGDJACJA_00373	gene			
+LGDJACJA_00374	CDS	sirC	1.3.1.76	Precorrin-2 dehydrogenase
+LGDJACJA_00374	gene	sirC		
+LGDJACJA_00375	CDS	hemA	1.2.1.70	Glutamyl-tRNA reductase
+LGDJACJA_00375	gene	hemA		
+LGDJACJA_00376	CDS	hemC	2.5.1.61	Porphobilinogen deaminase
+LGDJACJA_00376	gene	hemC		
+LGDJACJA_00377	CDS	gapA	1.2.1.12	Glyceraldehyde-3-phosphate dehydrogenase 1
+LGDJACJA_00377	gene	gapA		
+LGDJACJA_00378	CDS			hypothetical protein
+LGDJACJA_00378	gene			
+LGDJACJA_00379	CDS			hypothetical protein
+LGDJACJA_00379	gene			
+LGDJACJA_00380	CDS			Gluconeogenesis factor
+LGDJACJA_00380	gene			
+LGDJACJA_00381	CDS			Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+LGDJACJA_00381	gene			
+LGDJACJA_00382	CDS	dnaG	2.7.7.-	DNA primase
+LGDJACJA_00382	gene	dnaG		
+LGDJACJA_00383	CDS			hypothetical protein
+LGDJACJA_00383	gene			
+LGDJACJA_00384	CDS	ysdC	3.4.11.-	Putative aminopeptidase YsdC
+LGDJACJA_00384	gene	ysdC		
+LGDJACJA_00385	CDS	gluP	3.4.21.105	Rhomboid protease GluP
+LGDJACJA_00385	gene	gluP		
+LGDJACJA_00386	CDS			hypothetical protein
+LGDJACJA_00386	gene			
+LGDJACJA_00387	CDS			hypothetical protein
+LGDJACJA_00387	gene			
+LGDJACJA_00388	CDS			hypothetical protein
+LGDJACJA_00388	gene			
+LGDJACJA_00389	CDS	ubiB	2.7.-.-	putative protein kinase UbiB
+LGDJACJA_00389	gene	ubiB		
+LGDJACJA_00390	CDS			hypothetical protein
+LGDJACJA_00390	gene			
+LGDJACJA_00391	CDS	lysA	4.1.1.20	Diaminopimelate decarboxylase
+LGDJACJA_00391	gene	lysA		
+LGDJACJA_00392	CDS	hom	1.1.1.3	Homoserine dehydrogenase
+LGDJACJA_00392	gene	hom		
+LGDJACJA_00393	CDS			hypothetical protein
+LGDJACJA_00393	gene			
+LGDJACJA_00394	CDS			hypothetical protein
+LGDJACJA_00394	gene			
+LGDJACJA_00395	CDS	betC_1	3.1.6.6	Choline-sulfatase
+LGDJACJA_00395	gene	betC_1		
+LGDJACJA_00396	CDS	nreC		Oxygen regulatory protein NreC
+LGDJACJA_00396	gene	nreC		
+LGDJACJA_00397	CDS			hypothetical protein
+LGDJACJA_00397	gene			
+LGDJACJA_00398	CDS	dksA_1		RNA polymerase-binding transcription factor DksA
+LGDJACJA_00398	gene	dksA_1		
+LGDJACJA_00399	CDS	ctaA	1.3.-.-	Heme A synthase
+LGDJACJA_00399	gene	ctaA		
+LGDJACJA_00400	CDS			hypothetical protein
+LGDJACJA_00400	gene			
+LGDJACJA_00401	CDS	mntH		Divalent metal cation transporter MntH
+LGDJACJA_00401	gene	mntH		
+LGDJACJA_00402	CDS			hypothetical protein
+LGDJACJA_00402	gene			
+LGDJACJA_00403	CDS	ydfJ_1		Membrane protein YdfJ
+LGDJACJA_00403	gene	ydfJ_1		
+LGDJACJA_00404	CDS			hypothetical protein
+LGDJACJA_00404	gene			
+LGDJACJA_00405	CDS	ricR		Copper-sensing transcriptional repressor RicR
+LGDJACJA_00405	gene	ricR		
+LGDJACJA_00406	CDS			hypothetical protein
+LGDJACJA_00406	gene			
+LGDJACJA_00407	CDS	dehH2	3.8.1.3	Haloacetate dehalogenase H-2
+LGDJACJA_00407	gene	dehH2		
+LGDJACJA_00408	CDS			hypothetical protein
+LGDJACJA_00408	gene			
+LGDJACJA_00409	CDS			hypothetical protein
+LGDJACJA_00409	gene			
+LGDJACJA_00410	CDS	tam	2.1.1.144	Trans-aconitate 2-methyltransferase
+LGDJACJA_00410	gene	tam		
+LGDJACJA_00411	CDS	ydfJ_2		Membrane protein YdfJ
+LGDJACJA_00411	gene	ydfJ_2		
+LGDJACJA_00412	CDS			hypothetical protein
+LGDJACJA_00412	gene			
+LGDJACJA_00413	CDS			putative HTH-type transcriptional regulator
+LGDJACJA_00413	gene			
+LGDJACJA_00414	CDS		3.4.-.-	putative endopeptidase
+LGDJACJA_00414	gene			
+LGDJACJA_00415	CDS			hypothetical protein
+LGDJACJA_00415	gene			
+LGDJACJA_00416	CDS			hypothetical protein
+LGDJACJA_00416	gene			
+LGDJACJA_00417	CDS			hypothetical protein
+LGDJACJA_00417	gene			
+LGDJACJA_00418	CDS		1.6.3.5	Renalase
+LGDJACJA_00418	gene			
+LGDJACJA_00419	CDS			hypothetical protein
+LGDJACJA_00419	gene			
+LGDJACJA_00420	CDS	phrA	4.1.99.3	Deoxyribodipyrimidine photo-lyase
+LGDJACJA_00420	gene	phrA		
+LGDJACJA_00421	CDS			hypothetical protein
+LGDJACJA_00421	gene			
+LGDJACJA_00422	CDS			hypothetical protein
+LGDJACJA_00422	gene			
+LGDJACJA_00423	CDS	adhA	1.1.1.1	putative alcohol dehydrogenase AdhA
+LGDJACJA_00423	gene	adhA		
+LGDJACJA_00424	CDS			hypothetical protein
+LGDJACJA_00424	gene			
+LGDJACJA_00425	CDS			hypothetical protein
+LGDJACJA_00425	gene			
+LGDJACJA_00426	CDS			hypothetical protein
+LGDJACJA_00426	gene			
+LGDJACJA_00427	CDS			hypothetical protein
+LGDJACJA_00427	gene			
+LGDJACJA_00428	CDS			hypothetical protein
+LGDJACJA_00428	gene			
+LGDJACJA_00429	CDS			hypothetical protein
+LGDJACJA_00429	gene			
+LGDJACJA_00430	CDS			hypothetical protein
+LGDJACJA_00430	gene			
+LGDJACJA_00431	CDS			hypothetical protein
+LGDJACJA_00431	gene			
+LGDJACJA_00432	CDS			hypothetical protein
+LGDJACJA_00432	gene			
+LGDJACJA_00433	CDS	albA	1.3.3.13	Albonoursin synthase
+LGDJACJA_00433	gene	albA		
+LGDJACJA_00434	CDS	bcp	1.11.1.15	Putative peroxiredoxin
+LGDJACJA_00434	gene	bcp		
+LGDJACJA_00435	CDS			hypothetical protein
+LGDJACJA_00435	gene			
+LGDJACJA_00436	CDS	topB	5.99.1.2	DNA topoisomerase 3
+LGDJACJA_00436	gene	topB		
+LGDJACJA_00437	CDS	bluB	1.13.11.79	5,6-dimethylbenzimidazole synthase
+LGDJACJA_00437	gene	bluB		
+LGDJACJA_00438	CDS			hypothetical protein
+LGDJACJA_00438	gene			
+LGDJACJA_00439	CDS	dinB	2.7.7.7	DNA polymerase IV
+LGDJACJA_00439	gene	dinB		
+LGDJACJA_00440	CDS			hypothetical protein
+LGDJACJA_00440	gene			
+LGDJACJA_00441	CDS			hypothetical protein
+LGDJACJA_00441	gene			
+LGDJACJA_00442	CDS			hypothetical protein
+LGDJACJA_00442	gene			
+LGDJACJA_00443	CDS	mepA	3.4.24.-	Penicillin-insensitive murein endopeptidase
+LGDJACJA_00443	gene	mepA		
+LGDJACJA_00444	CDS			hypothetical protein
+LGDJACJA_00444	gene			
+LGDJACJA_00445	CDS	mmpL3		Trehalose monomycolate exporter MmpL3
+LGDJACJA_00445	gene	mmpL3		
+LGDJACJA_00446	CDS	rplY		50S ribosomal protein L25
+LGDJACJA_00446	gene	rplY		
+LGDJACJA_00447	CDS	pth	3.1.1.29	Peptidyl-tRNA hydrolase
+LGDJACJA_00447	gene	pth		
+LGDJACJA_00448	CDS	mfd	3.6.4.-	Transcription-repair-coupling factor
+LGDJACJA_00448	gene	mfd		
+LGDJACJA_00449	CDS			hypothetical protein
+LGDJACJA_00449	gene			
+LGDJACJA_00450	CDS			hypothetical protein
+LGDJACJA_00450	gene			
+LGDJACJA_00451	CDS			hypothetical protein
+LGDJACJA_00451	gene			
+LGDJACJA_00452	CDS	mreC		Cell shape-determining protein MreC
+LGDJACJA_00452	gene	mreC		
+LGDJACJA_00453	CDS	mreB		Rod shape-determining protein MreB
+LGDJACJA_00453	gene	mreB		
+LGDJACJA_00454	CDS	maf		Septum formation protein Maf
+LGDJACJA_00454	gene	maf		
+LGDJACJA_00455	CDS	rlmN	2.1.1.192	putative dual-specificity RNA methyltransferase RlmN
+LGDJACJA_00455	gene	rlmN		
+LGDJACJA_00456	CDS	tetA_1		Tetracycline resistance protein, class B
+LGDJACJA_00456	gene	tetA_1		
+LGDJACJA_00457	CDS	emrB		Multidrug export protein EmrB
+LGDJACJA_00457	gene	emrB		
+LGDJACJA_00458	CDS			hypothetical protein
+LGDJACJA_00458	gene			
+LGDJACJA_00459	CDS			hypothetical protein
+LGDJACJA_00459	gene			
+LGDJACJA_00460	CDS			hypothetical protein
+LGDJACJA_00460	gene			
+LGDJACJA_00461	CDS			hypothetical protein
+LGDJACJA_00461	gene			
+LGDJACJA_00462	CDS			hypothetical protein
+LGDJACJA_00462	gene			
+LGDJACJA_00463	CDS			hypothetical protein
+LGDJACJA_00463	gene			
+LGDJACJA_00464	tRNA			tRNA-Ala(tgc)
+LGDJACJA_00464	gene			
+LGDJACJA_00465	CDS			hypothetical protein
+LGDJACJA_00465	gene			
+LGDJACJA_00466	CDS	gph	3.1.3.18	Phosphoglycolate phosphatase
+LGDJACJA_00466	gene	gph		
+LGDJACJA_00467	CDS	amtB		Ammonia channel
+LGDJACJA_00467	gene	amtB		
+LGDJACJA_00468	CDS	glnB		Nitrogen regulatory protein P-II
+LGDJACJA_00468	gene	glnB		
+LGDJACJA_00469	CDS	srrB_1	2.7.13.3	Sensor protein SrrB
+LGDJACJA_00469	gene	srrB_1		
+LGDJACJA_00470	CDS	nrdJ	1.17.4.1	Vitamin B12-dependent ribonucleotide reductase
+LGDJACJA_00470	gene	nrdJ		
+LGDJACJA_00471	CDS			hypothetical protein
+LGDJACJA_00471	gene			
+LGDJACJA_00472	CDS			hypothetical protein
+LGDJACJA_00472	gene			
+LGDJACJA_00473	CDS	aroK	2.7.1.71	Shikimate kinase
+LGDJACJA_00473	gene	aroK		
+LGDJACJA_00474	CDS	aroC	4.2.3.5	Chorismate synthase
+LGDJACJA_00474	gene	aroC		
+LGDJACJA_00475	CDS			hypothetical protein
+LGDJACJA_00475	gene			
+LGDJACJA_00476	CDS			hypothetical protein
+LGDJACJA_00476	gene			
+LGDJACJA_00477	CDS		2.4.1.54	Undecaprenyl-phosphate mannosyltransferase
+LGDJACJA_00477	gene			
+LGDJACJA_00478	CDS			hypothetical protein
+LGDJACJA_00478	gene			
+LGDJACJA_00479	CDS	ahcY	3.3.1.1	Adenosylhomocysteinase
+LGDJACJA_00479	gene	ahcY		
+LGDJACJA_00480	CDS			hypothetical protein
+LGDJACJA_00480	gene			
+LGDJACJA_00481	CDS	cugP	2.7.7.9	UTP--glucose-1-phosphate uridylyltransferase
+LGDJACJA_00481	gene	cugP		
+LGDJACJA_00482	CDS			hypothetical protein
+LGDJACJA_00482	gene			
+LGDJACJA_00483	CDS			hypothetical protein
+LGDJACJA_00483	gene			
+LGDJACJA_00484	CDS			hypothetical protein
+LGDJACJA_00484	gene			
+LGDJACJA_00485	CDS	mrcA		Penicillin-binding protein 1A
+LGDJACJA_00485	gene	mrcA		
+LGDJACJA_00486	CDS	tetA_2		Tetracycline resistance protein, class C
+LGDJACJA_00486	gene	tetA_2		
+LGDJACJA_00487	CDS	prmA_1	2.1.1.-	Ribosomal protein L11 methyltransferase
+LGDJACJA_00487	gene	prmA_1		
+LGDJACJA_00488	CDS	pchA	1.2.1.96	4-hydroxybenzaldehyde dehydrogenase (NADP(+))
+LGDJACJA_00488	gene	pchA		
+LGDJACJA_00489	CDS	davD	1.2.1.20	Glutarate-semialdehyde dehydrogenase DavD
+LGDJACJA_00489	gene	davD		
+LGDJACJA_00490	CDS			hypothetical protein
+LGDJACJA_00490	gene			
+LGDJACJA_00491	CDS			hypothetical protein
+LGDJACJA_00491	gene			
+LGDJACJA_00492	CDS	ppk	2.7.4.1	Polyphosphate kinase
+LGDJACJA_00492	gene	ppk		
+LGDJACJA_00493	CDS			hypothetical protein
+LGDJACJA_00493	gene			
+LGDJACJA_00494	CDS			hypothetical protein
+LGDJACJA_00494	gene			
+LGDJACJA_00495	CDS			hypothetical protein
+LGDJACJA_00495	gene			
+LGDJACJA_00496	CDS	nei1_2	3.2.2.-	Endonuclease 8 1
+LGDJACJA_00496	gene	nei1_2		
+LGDJACJA_00497	tRNA			tRNA-Arg(gcg)
+LGDJACJA_00497	gene			
+LGDJACJA_00498	CDS	gltX	6.1.1.17	Glutamate--tRNA ligase
+LGDJACJA_00498	gene	gltX		
+LGDJACJA_00499	CDS			hypothetical protein
+LGDJACJA_00499	gene			
+LGDJACJA_00500	CDS			hypothetical protein
+LGDJACJA_00500	gene			
+LGDJACJA_00501	tRNA			tRNA-Pro(tgg)
+LGDJACJA_00501	gene			
+LGDJACJA_00502	CDS			hypothetical protein
+LGDJACJA_00502	gene			
+LGDJACJA_00503	CDS			hypothetical protein
+LGDJACJA_00503	gene			
+LGDJACJA_00504	CDS	mutS2	3.1.-.-	Endonuclease MutS2
+LGDJACJA_00504	gene	mutS2		
+LGDJACJA_00505	CDS	rpf	3.-.-.-	Resuscitation-promoting factor Rpf
+LGDJACJA_00505	gene	rpf		
+LGDJACJA_00506	CDS			hypothetical protein
+LGDJACJA_00506	gene			
+LGDJACJA_00507	CDS	adc_1	4.1.1.4	Acetoacetate decarboxylase
+LGDJACJA_00507	gene	adc_1		
+LGDJACJA_00508	CDS	adc_2	4.1.1.4	Acetoacetate decarboxylase
+LGDJACJA_00508	gene	adc_2		
+LGDJACJA_00509	CDS	yijE		putative cystine transporter YijE
+LGDJACJA_00509	gene	yijE		
+LGDJACJA_00510	CDS	cofD	2.7.8.28	2-phospho-L-lactate transferase
+LGDJACJA_00510	gene	cofD		
+LGDJACJA_00511	CDS	cofC	2.7.7.68	2-phospho-L-lactate guanylyltransferase
+LGDJACJA_00511	gene	cofC		
+LGDJACJA_00512	CDS	fbiB	6.3.2.31	Coenzyme F420:L-glutamate ligase
+LGDJACJA_00512	gene	fbiB		
+LGDJACJA_00513	CDS	fprA	1.18.1.2	NADPH-ferredoxin reductase FprA
+LGDJACJA_00513	gene	fprA		
+LGDJACJA_00514	CDS	fbiC_1	2.5.1.77	FO synthase
+LGDJACJA_00514	gene	fbiC_1		
+LGDJACJA_00515	CDS	fbiC_2	2.5.1.77	FO synthase
+LGDJACJA_00515	gene	fbiC_2		
+LGDJACJA_00516	CDS	ettA_1		Energy-dependent translational throttle protein EttA
+LGDJACJA_00516	gene	ettA_1		
+LGDJACJA_00517	CDS	ntcA		Global nitrogen regulator
+LGDJACJA_00517	gene	ntcA		
+LGDJACJA_00518	CDS	egtD	2.1.1.44	Histidine N-alpha-methyltransferase
+LGDJACJA_00518	gene	egtD		
+LGDJACJA_00519	CDS	egtB	1.14.99.50	Hercynine oxygenase
+LGDJACJA_00519	gene	egtB		
+LGDJACJA_00520	CDS	gltB	1.4.1.13	Glutamate synthase [NADPH] large chain
+LGDJACJA_00520	gene	gltB		
+LGDJACJA_00521	CDS			hypothetical protein
+LGDJACJA_00521	gene			
+LGDJACJA_00522	CDS			hypothetical protein
+LGDJACJA_00522	gene			
+LGDJACJA_00523	CDS			hypothetical protein
+LGDJACJA_00523	gene			
+LGDJACJA_00524	CDS			hypothetical protein
+LGDJACJA_00524	gene			
+LGDJACJA_00525	CDS			hypothetical protein
+LGDJACJA_00525	gene			
+LGDJACJA_00526	CDS	yncB	3.1.-.-	Endonuclease YncB
+LGDJACJA_00526	gene	yncB		
+LGDJACJA_00527	CDS		3.2.1.28	Trehalase
+LGDJACJA_00527	gene			
+LGDJACJA_00528	CDS			hypothetical protein
+LGDJACJA_00528	gene			
+LGDJACJA_00529	CDS			hypothetical protein
+LGDJACJA_00529	gene			
+LGDJACJA_00530	CDS			hypothetical protein
+LGDJACJA_00530	gene			
+LGDJACJA_00531	CDS	mqnD	4.1.-.-	1,4-dihydroxy-6-naphtoate synthase
+LGDJACJA_00531	gene	mqnD		
+LGDJACJA_00532	CDS			hypothetical protein
+LGDJACJA_00532	gene			
+LGDJACJA_00533	CDS	ogt	2.1.1.63	Methylated-DNA--protein-cysteine methyltransferase
+LGDJACJA_00533	gene	ogt		
+LGDJACJA_00534	CDS	secG		putative protein-export membrane protein SecG
+LGDJACJA_00534	gene	secG		
+LGDJACJA_00535	CDS			hypothetical protein
+LGDJACJA_00535	gene			
+LGDJACJA_00536	tRNA			tRNA-Leu(gag)
+LGDJACJA_00536	gene			
+LGDJACJA_00537	CDS	lexA	3.4.21.88	LexA repressor
+LGDJACJA_00537	gene	lexA		
+LGDJACJA_00538	CDS			hypothetical protein
+LGDJACJA_00538	gene			
+LGDJACJA_00539	CDS			hypothetical protein
+LGDJACJA_00539	gene			
+LGDJACJA_00540	CDS	katG	1.11.1.21	Catalase-peroxidase
+LGDJACJA_00540	gene	katG		
+LGDJACJA_00541	CDS	mtcA1_1	4.2.1.1	Beta-carbonic anhydrase 1
+LGDJACJA_00541	gene	mtcA1_1		
+LGDJACJA_00542	CDS		1.11.1.15	Alkyl hydroperoxide reductase subunit C
+LGDJACJA_00542	gene			
+LGDJACJA_00543	CDS			hypothetical protein
+LGDJACJA_00543	gene			
+LGDJACJA_00544	CDS	guaA	6.3.5.2	GMP synthase [glutamine-hydrolyzing]
+LGDJACJA_00544	gene	guaA		
+LGDJACJA_00545	CDS			hypothetical protein
+LGDJACJA_00545	gene			
+LGDJACJA_00546	CDS	rplM		50S ribosomal protein L13
+LGDJACJA_00546	gene	rplM		
+LGDJACJA_00547	CDS	rpsI		30S ribosomal protein S9
+LGDJACJA_00547	gene	rpsI		
+LGDJACJA_00548	CDS			hypothetical protein
+LGDJACJA_00548	gene			
+LGDJACJA_00549	CDS	mntB_1		Manganese transport system membrane protein MntB
+LGDJACJA_00549	gene	mntB_1		
+LGDJACJA_00550	CDS	fecE		Fe(3+) dicitrate transport ATP-binding protein FecE
+LGDJACJA_00550	gene	fecE		
+LGDJACJA_00551	CDS	fur		Ferric uptake regulation protein
+LGDJACJA_00551	gene	fur		
+LGDJACJA_00552	CDS			hypothetical protein
+LGDJACJA_00552	gene			
+LGDJACJA_00553	CDS			hypothetical protein
+LGDJACJA_00553	gene			
+LGDJACJA_00554	CDS			hypothetical protein
+LGDJACJA_00554	gene			
+LGDJACJA_00555	CDS			hypothetical protein
+LGDJACJA_00555	gene			
+LGDJACJA_00556	CDS			hypothetical protein
+LGDJACJA_00556	gene			
+LGDJACJA_00557	CDS	pipB2_3		Secreted effector protein PipB2
+LGDJACJA_00557	gene	pipB2_3		
+LGDJACJA_00558	CDS	mco	1.-.-.-	Multicopper oxidase mco
+LGDJACJA_00558	gene	mco		
+LGDJACJA_00559	CDS			hypothetical protein
+LGDJACJA_00559	gene			
+LGDJACJA_00560	CDS	recN		DNA repair protein RecN
+LGDJACJA_00560	gene	recN		
+LGDJACJA_00561	CDS	pyrG	6.3.4.2	CTP synthase
+LGDJACJA_00561	gene	pyrG		
+LGDJACJA_00562	CDS	pepT	3.4.11.4	Peptidase T
+LGDJACJA_00562	gene	pepT		
+LGDJACJA_00563	CDS	nudF	3.6.1.13	ADP-ribose pyrophosphatase
+LGDJACJA_00563	gene	nudF		
+LGDJACJA_00564	CDS		2.1.1.-	Putative O-methyltransferase/MSMEI_4947
+LGDJACJA_00564	gene			
+LGDJACJA_00565	CDS	drrB_1		Daunorubicin/doxorubicin resistance ABC transporter permease protein DrrB
+LGDJACJA_00565	gene	drrB_1		
+LGDJACJA_00566	CDS	drrB_2		Daunorubicin/doxorubicin resistance ABC transporter permease protein DrrB
+LGDJACJA_00566	gene	drrB_2		
+LGDJACJA_00567	CDS	drrA_1	3.6.3.-	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+LGDJACJA_00567	gene	drrA_1		
+LGDJACJA_00568	CDS	dksA_2		RNA polymerase-binding transcription factor DksA
+LGDJACJA_00568	gene	dksA_2		
+LGDJACJA_00569	CDS			hypothetical protein
+LGDJACJA_00569	gene			
+LGDJACJA_00570	CDS	ntaB	1.5.1.42	FMN reductase (NADH) NtaB
+LGDJACJA_00570	gene	ntaB		
+LGDJACJA_00571	CDS	stp_1		Multidrug resistance protein Stp
+LGDJACJA_00571	gene	stp_1		
+LGDJACJA_00572	CDS	pcp	3.4.21.100	Pseudomonalisin
+LGDJACJA_00572	gene	pcp		
+LGDJACJA_00573	CDS	murI	5.1.1.3	Glutamate racemase
+LGDJACJA_00573	gene	murI		
+LGDJACJA_00574	CDS	pfp	2.7.1.90	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+LGDJACJA_00574	gene	pfp		
+LGDJACJA_00575	CDS		3.1.1.10	Tropinesterase
+LGDJACJA_00575	gene			
+LGDJACJA_00576	tRNA			tRNA-Glu(ctc)
+LGDJACJA_00576	gene			
+LGDJACJA_00577	tRNA			tRNA-Gln(ctg)
+LGDJACJA_00577	gene			
+LGDJACJA_00578	CDS			putative ABC transporter ATP-binding protein
+LGDJACJA_00578	gene			
+LGDJACJA_00579	CDS			putative ABC transporter ATP-binding protein
+LGDJACJA_00579	gene			
+LGDJACJA_00580	CDS		2.1.2.5	Glutamate formimidoyltransferase
+LGDJACJA_00580	gene			
+LGDJACJA_00581	CDS			hypothetical protein
+LGDJACJA_00581	gene			
+LGDJACJA_00582	CDS			hypothetical protein
+LGDJACJA_00582	gene			
+LGDJACJA_00583	CDS	ilvC	1.1.1.382	Ketol-acid reductoisomerase (NAD(+))
+LGDJACJA_00583	gene	ilvC		
+LGDJACJA_00584	CDS	ilvH	2.2.1.6	Putative acetolactate synthase small subunit
+LGDJACJA_00584	gene	ilvH		
+LGDJACJA_00585	CDS	gatB	6.3.5.-	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+LGDJACJA_00585	gene	gatB		
+LGDJACJA_00586	CDS			hypothetical protein
+LGDJACJA_00586	gene			
+LGDJACJA_00587	CDS	alr	5.1.1.1	Alanine racemase
+LGDJACJA_00587	gene	alr		
+LGDJACJA_00588	CDS	nnr		Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+LGDJACJA_00588	gene	nnr		
+LGDJACJA_00589	CDS			hypothetical protein
+LGDJACJA_00589	gene			
+LGDJACJA_00590	CDS			hypothetical protein
+LGDJACJA_00590	gene			
+LGDJACJA_00591	CDS	rpsG		30S ribosomal protein S7
+LGDJACJA_00591	gene	rpsG		
+LGDJACJA_00592	CDS	rpsL		30S ribosomal protein S12
+LGDJACJA_00592	gene	rpsL		
+LGDJACJA_00593	CDS			hypothetical protein
+LGDJACJA_00593	gene			
+LGDJACJA_00594	CDS	rnhA	3.1.26.4	Ribonuclease H
+LGDJACJA_00594	gene	rnhA		
+LGDJACJA_00595	CDS	bdbD		Disulfide bond formation protein D
+LGDJACJA_00595	gene	bdbD		
+LGDJACJA_00596	CDS			hypothetical protein
+LGDJACJA_00596	gene			
+LGDJACJA_00597	CDS			hypothetical protein
+LGDJACJA_00597	gene			
+LGDJACJA_00598	CDS			hypothetical protein
+LGDJACJA_00598	gene			
+LGDJACJA_00599	CDS		3.4.21.-	Extracellular serine proteinase
+LGDJACJA_00599	gene			
+LGDJACJA_00600	CDS			hypothetical protein
+LGDJACJA_00600	gene			
+LGDJACJA_00601	CDS	hspR		Putative heat shock protein HspR
+LGDJACJA_00601	gene	hspR		
+LGDJACJA_00602	CDS	dnaJ_1		Chaperone protein DnaJ
+LGDJACJA_00602	gene	dnaJ_1		
+LGDJACJA_00603	CDS			hypothetical protein
+LGDJACJA_00603	gene			
+LGDJACJA_00604	CDS	yknY_1	3.6.3.-	putative ABC transporter ATP-binding protein YknY
+LGDJACJA_00604	gene	yknY_1		
+LGDJACJA_00605	CDS	fbpC2	3.6.3.30	Fe(3+) ions import ATP-binding protein FbpC 2
+LGDJACJA_00605	gene	fbpC2		
+LGDJACJA_00606	CDS	fbpA		Iron-utilization periplasmic protein
+LGDJACJA_00606	gene	fbpA		
+LGDJACJA_00607	CDS			hypothetical protein
+LGDJACJA_00607	gene			
+LGDJACJA_00608	CDS	pipB2_4		Secreted effector protein PipB2
+LGDJACJA_00608	gene	pipB2_4		
+LGDJACJA_00609	CDS	tolB		Protein TolB
+LGDJACJA_00609	gene	tolB		
+LGDJACJA_00610	CDS	pipB2_5		Secreted effector protein PipB2
+LGDJACJA_00610	gene	pipB2_5		
+LGDJACJA_00611	CDS	grpE		Protein GrpE
+LGDJACJA_00611	gene	grpE		
+LGDJACJA_00612	CDS	dnaK		Chaperone protein DnaK
+LGDJACJA_00612	gene	dnaK		
+LGDJACJA_00613	CDS	bioY2		Biotin transporter BioY2
+LGDJACJA_00613	gene	bioY2		
+LGDJACJA_00614	CDS			hypothetical protein
+LGDJACJA_00614	gene			
+LGDJACJA_00615	CDS			hypothetical protein
+LGDJACJA_00615	gene			
+LGDJACJA_00616	CDS			hypothetical protein
+LGDJACJA_00616	gene			
+LGDJACJA_00617	CDS			hypothetical protein
+LGDJACJA_00617	gene			
+LGDJACJA_00618	CDS	bioC_2	2.1.1.197	Malonyl-[acyl-carrier protein] O-methyltransferase
+LGDJACJA_00618	gene	bioC_2		
+LGDJACJA_00619	CDS			hypothetical protein
+LGDJACJA_00619	gene			
+LGDJACJA_00620	CDS			hypothetical protein
+LGDJACJA_00620	gene			
+LGDJACJA_00621	CDS			hypothetical protein
+LGDJACJA_00621	gene			
+LGDJACJA_00622	CDS	spoIIIE		DNA translocase SpoIIIE
+LGDJACJA_00622	gene	spoIIIE		
+LGDJACJA_00623	CDS	rnjA	3.1.-.-	Ribonuclease J1
+LGDJACJA_00623	gene	rnjA		
+LGDJACJA_00624	CDS			hypothetical protein
+LGDJACJA_00624	gene			
+LGDJACJA_00625	tRNA			tRNA-Gly(tcc)
+LGDJACJA_00625	gene			
+LGDJACJA_00626	CDS			hypothetical protein
+LGDJACJA_00626	gene			
+LGDJACJA_00627	CDS			hypothetical protein
+LGDJACJA_00627	gene			
+LGDJACJA_00628	CDS	rpmB		50S ribosomal protein L28
+LGDJACJA_00628	gene	rpmB		
+LGDJACJA_00629	CDS	ribH	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+LGDJACJA_00629	gene	ribH		
+LGDJACJA_00630	CDS			hypothetical protein
+LGDJACJA_00630	gene			
+LGDJACJA_00631	CDS	dat	2.6.1.21	D-alanine aminotransferase
+LGDJACJA_00631	gene	dat		
+LGDJACJA_00632	CDS			hypothetical protein
+LGDJACJA_00632	gene			
+LGDJACJA_00633	CDS	htpX_2	3.4.24.-	Protease HtpX 
+LGDJACJA_00633	gene	htpX_2		
+LGDJACJA_00634	CDS	hslR		Heat shock protein 15
+LGDJACJA_00634	gene	hslR		
+LGDJACJA_00635	CDS			hypothetical protein
+LGDJACJA_00635	gene			
+LGDJACJA_00636	CDS			hypothetical protein
+LGDJACJA_00636	gene			
+LGDJACJA_00637	CDS	yqjG	1.8.-.-	Glutathionyl-hydroquinone reductase YqjG
+LGDJACJA_00637	gene	yqjG		
+LGDJACJA_00638	CDS			hypothetical protein
+LGDJACJA_00638	gene			
+LGDJACJA_00639	CDS	drrA_2	3.6.3.-	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+LGDJACJA_00639	gene	drrA_2		
+LGDJACJA_00640	CDS	drrB_3		Daunorubicin/doxorubicin resistance ABC transporter permease protein DrrB
+LGDJACJA_00640	gene	drrB_3		
+LGDJACJA_00641	CDS	kcsA		pH-gated potassium channel KcsA
+LGDJACJA_00641	gene	kcsA		
+LGDJACJA_00642	CDS	acuC_2		Acetoin utilization protein AcuC
+LGDJACJA_00642	gene	acuC_2		
+LGDJACJA_00643	CDS			hypothetical protein
+LGDJACJA_00643	gene			
+LGDJACJA_00644	CDS			hypothetical protein
+LGDJACJA_00644	gene			
+LGDJACJA_00645	CDS			hypothetical protein
+LGDJACJA_00645	gene			
+LGDJACJA_00646	CDS	lytC	3.5.1.28	N-acetylmuramoyl-L-alanine amidase LytC
+LGDJACJA_00646	gene	lytC		
+LGDJACJA_00647	CDS	mhqR_1		HTH-type transcriptional regulator MhqR
+LGDJACJA_00647	gene	mhqR_1		
+LGDJACJA_00648	CDS	argJ		Arginine biosynthesis bifunctional protein ArgJ
+LGDJACJA_00648	gene	argJ		
+LGDJACJA_00649	CDS	argB	2.7.2.8	Acetylglutamate kinase
+LGDJACJA_00649	gene	argB		
+LGDJACJA_00650	CDS	argD	2.6.1.11	Acetylornithine aminotransferase
+LGDJACJA_00650	gene	argD		
+LGDJACJA_00651	CDS			hypothetical protein
+LGDJACJA_00651	gene			
+LGDJACJA_00652	CDS			hypothetical protein
+LGDJACJA_00652	gene			
+LGDJACJA_00653	CDS			hypothetical protein
+LGDJACJA_00653	gene			
+LGDJACJA_00654	CDS			hypothetical protein
+LGDJACJA_00654	gene			
+LGDJACJA_00655	CDS			hypothetical protein
+LGDJACJA_00655	gene			
+LGDJACJA_00656	CDS	mqnE	2.5.1.120	Aminodeoxyfutalosine synthase
+LGDJACJA_00656	gene	mqnE		
+LGDJACJA_00657	CDS			hypothetical protein
+LGDJACJA_00657	gene			
+LGDJACJA_00658	CDS	leuB	1.1.1.85	3-isopropylmalate dehydrogenase
+LGDJACJA_00658	gene	leuB		
+LGDJACJA_00659	CDS	betC_2	3.1.6.6	Choline-sulfatase
+LGDJACJA_00659	gene	betC_2		
+LGDJACJA_00660	CDS	leuD1	4.2.1.33	3-isopropylmalate dehydratase small subunit 1
+LGDJACJA_00660	gene	leuD1		
+LGDJACJA_00661	CDS	leuC	4.2.1.33	3-isopropylmalate dehydratase large subunit
+LGDJACJA_00661	gene	leuC		
+LGDJACJA_00662	CDS	leuA	2.3.3.13	2-isopropylmalate synthase
+LGDJACJA_00662	gene	leuA		
+LGDJACJA_00663	CDS	argS	6.1.1.19	Arginine--tRNA ligase
+LGDJACJA_00663	gene	argS		
+LGDJACJA_00664	tRNA			tRNA-Gly(ccc)
+LGDJACJA_00664	gene			
+LGDJACJA_00665	CDS			hypothetical protein
+LGDJACJA_00665	gene			
+LGDJACJA_00666	CDS			hypothetical protein
+LGDJACJA_00666	gene			
+LGDJACJA_00667	CDS			hypothetical protein
+LGDJACJA_00667	gene			
+LGDJACJA_00668	CDS			hypothetical protein
+LGDJACJA_00668	gene			
+LGDJACJA_00669	CDS	ufaA1_1	2.1.1.-	Tuberculostearic acid methyltransferase UfaA1
+LGDJACJA_00669	gene	ufaA1_1		
+LGDJACJA_00670	CDS			hypothetical protein
+LGDJACJA_00670	gene			
+LGDJACJA_00671	CDS			hypothetical protein
+LGDJACJA_00671	gene			
+LGDJACJA_00672	CDS	gpr	1.1.1.-	L-glyceraldehyde 3-phosphate reductase
+LGDJACJA_00672	gene	gpr		
+LGDJACJA_00673	CDS			hypothetical protein
+LGDJACJA_00673	gene			
+LGDJACJA_00674	CDS			hypothetical protein
+LGDJACJA_00674	gene			
+LGDJACJA_00675	CDS	stp_2		Multidrug resistance protein Stp
+LGDJACJA_00675	gene	stp_2		
+LGDJACJA_00676	CDS		3.5.1.11	Penicillin acylase
+LGDJACJA_00676	gene			
+LGDJACJA_00677	CDS			hypothetical protein
+LGDJACJA_00677	gene			
+LGDJACJA_00678	CDS			hypothetical protein
+LGDJACJA_00678	gene			
+LGDJACJA_00679	CDS			hypothetical protein
+LGDJACJA_00679	gene			
+LGDJACJA_00680	CDS	mtcA1_2	4.2.1.1	Beta-carbonic anhydrase 1
+LGDJACJA_00680	gene	mtcA1_2		
+LGDJACJA_00681	CDS	mec	3.4.17.-	CysO-cysteine peptidase
+LGDJACJA_00681	gene	mec		
+LGDJACJA_00682	CDS	cysM	2.5.1.113	O-phosphoserine sulfhydrylase
+LGDJACJA_00682	gene	cysM		
+LGDJACJA_00683	CDS	cysO		Sulfur carrier protein CysO
+LGDJACJA_00683	gene	cysO		
+LGDJACJA_00684	CDS	moeZ		putative adenylyltransferase/sulfurtransferase MoeZ
+LGDJACJA_00684	gene	moeZ		
+LGDJACJA_00685	CDS			hypothetical protein
+LGDJACJA_00685	gene			
+LGDJACJA_00686	CDS	def	3.5.1.88	Peptide deformylase
+LGDJACJA_00686	gene	def		
+LGDJACJA_00687	CDS	fmt	2.1.2.9	Methionyl-tRNA formyltransferase
+LGDJACJA_00687	gene	fmt		
+LGDJACJA_00688	CDS	rsmB	2.1.1.176	Ribosomal RNA small subunit methyltransferase B
+LGDJACJA_00688	gene	rsmB		
+LGDJACJA_00689	CDS	rpe	5.1.3.1	Ribulose-phosphate 3-epimerase
+LGDJACJA_00689	gene	rpe		
+LGDJACJA_00690	CDS			hypothetical protein
+LGDJACJA_00690	gene			
+LGDJACJA_00691	CDS	msrR		Regulatory protein MsrR
+LGDJACJA_00691	gene	msrR		
+LGDJACJA_00692	CDS	tuaD	1.1.1.22	UDP-glucose 6-dehydrogenase TuaD
+LGDJACJA_00692	gene	tuaD		
+LGDJACJA_00693	CDS			hypothetical protein
+LGDJACJA_00693	gene			
+LGDJACJA_00694	CDS	panC	6.3.2.1	Pantothenate synthetase
+LGDJACJA_00694	gene	panC		
+LGDJACJA_00695	CDS			hypothetical protein
+LGDJACJA_00695	gene			
+LGDJACJA_00696	CDS	tsaE		tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+LGDJACJA_00696	gene	tsaE		
+LGDJACJA_00697	CDS	tsaB		tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+LGDJACJA_00697	gene	tsaB		
+LGDJACJA_00698	CDS	rimI	2.3.1.128	Ribosomal-protein-alanine acetyltransferase
+LGDJACJA_00698	gene	rimI		
+LGDJACJA_00699	CDS	tsaD	2.3.1.234	tRNA N6-adenosine threonylcarbamoyltransferase
+LGDJACJA_00699	gene	tsaD		
+LGDJACJA_00700	CDS			hypothetical protein
+LGDJACJA_00700	gene			
+LGDJACJA_00701	CDS			hypothetical protein
+LGDJACJA_00701	gene			
+LGDJACJA_00702	CDS			hypothetical protein
+LGDJACJA_00702	gene			
+LGDJACJA_00703	CDS			hypothetical protein
+LGDJACJA_00703	gene			
+LGDJACJA_00704	CDS			hypothetical protein
+LGDJACJA_00704	gene			
+LGDJACJA_00705	CDS			hypothetical protein
+LGDJACJA_00705	gene			
+LGDJACJA_00706	CDS			hypothetical protein
+LGDJACJA_00706	gene			
+LGDJACJA_00707	CDS			hypothetical protein
+LGDJACJA_00707	gene			
+LGDJACJA_00708	CDS			hypothetical protein
+LGDJACJA_00708	gene			
+LGDJACJA_00709	CDS			hypothetical protein
+LGDJACJA_00709	gene			
+LGDJACJA_00710	CDS		3.2.1.28	Trehalase
+LGDJACJA_00710	gene			
+LGDJACJA_00711	CDS		3.4.21.-	putative CtpA-like serine protease
+LGDJACJA_00711	gene			
+LGDJACJA_00712	CDS	rnr	3.1.13.1	Ribonuclease R
+LGDJACJA_00712	gene	rnr		
+LGDJACJA_00713	CDS	ybgC	3.1.2.-	Acyl-CoA thioesterase YbgC
+LGDJACJA_00713	gene	ybgC		
+LGDJACJA_00714	CDS	fabG_3	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+LGDJACJA_00714	gene	fabG_3		
+LGDJACJA_00715	CDS			hypothetical protein
+LGDJACJA_00715	gene			
+LGDJACJA_00716	CDS			hypothetical protein
+LGDJACJA_00716	gene			
+LGDJACJA_00717	CDS			hypothetical protein
+LGDJACJA_00717	gene			
+LGDJACJA_00718	CDS	sucC	6.2.1.4	Succinate--CoA ligase [GDP-forming] subunit beta
+LGDJACJA_00718	gene	sucC		
+LGDJACJA_00719	CDS	sucD	6.2.1.5	Succinate--CoA ligase [ADP-forming] subunit alpha
+LGDJACJA_00719	gene	sucD		
+LGDJACJA_00720	CDS	lysN_2	2.6.1.39	2-aminoadipate transaminase
+LGDJACJA_00720	gene	lysN_2		
+LGDJACJA_00721	CDS			hypothetical protein
+LGDJACJA_00721	gene			
+LGDJACJA_00722	CDS			hypothetical protein
+LGDJACJA_00722	gene			
+LGDJACJA_00723	CDS			hypothetical protein
+LGDJACJA_00723	gene			
+LGDJACJA_00724	CDS			hypothetical protein
+LGDJACJA_00724	gene			
+LGDJACJA_00725	CDS	groS		10 kDa chaperonin
+LGDJACJA_00725	gene	groS		
+LGDJACJA_00726	CDS			hypothetical protein
+LGDJACJA_00726	gene			
+LGDJACJA_00727	CDS			hypothetical protein
+LGDJACJA_00727	gene			
+LGDJACJA_00728	CDS	secE2		Calcium dodecin
+LGDJACJA_00728	gene	secE2		
+LGDJACJA_00729	CDS			hypothetical protein
+LGDJACJA_00729	gene			
+LGDJACJA_00730	CDS			hypothetical protein
+LGDJACJA_00730	gene			
+LGDJACJA_00731	CDS	bepA_2	3.4.-.-	Beta-barrel assembly-enhancing protease
+LGDJACJA_00731	gene	bepA_2		
+LGDJACJA_00732	CDS			hypothetical protein
+LGDJACJA_00732	gene			
+LGDJACJA_00733	CDS			hypothetical protein
+LGDJACJA_00733	gene			
+LGDJACJA_00734	CDS	nhaP		K(+)/H(+) antiporter NhaP
+LGDJACJA_00734	gene	nhaP		
+LGDJACJA_00735	CDS		1.1.98.-	F420H(2)-dependent quinone reductase
+LGDJACJA_00735	gene			
+LGDJACJA_00736	CDS			hypothetical protein
+LGDJACJA_00736	gene			
+LGDJACJA_00737	tRNA			tRNA-Met(cat)
+LGDJACJA_00737	gene			
+LGDJACJA_00738	CDS	hflC		Modulator of FtsH protease HflC
+LGDJACJA_00738	gene	hflC		
+LGDJACJA_00739	CDS			hypothetical protein
+LGDJACJA_00739	gene			
+LGDJACJA_00740	CDS		3.1.2.-	putative acyl-CoA thioester hydrolase
+LGDJACJA_00740	gene			
+LGDJACJA_00741	CDS			hypothetical protein
+LGDJACJA_00741	gene			
+LGDJACJA_00742	CDS	pipB2_6		Secreted effector protein PipB2
+LGDJACJA_00742	gene	pipB2_6		
+LGDJACJA_00743	CDS	pstS_1		Phosphate-binding protein PstS
+LGDJACJA_00743	gene	pstS_1		
+LGDJACJA_00744	CDS	phoP		Alkaline phosphatase synthesis transcriptional regulatory protein PhoP
+LGDJACJA_00744	gene	phoP		
+LGDJACJA_00745	CDS	pstS_2		Phosphate-binding protein PstS
+LGDJACJA_00745	gene	pstS_2		
+LGDJACJA_00746	CDS	pstA		Phosphate transport system permease protein PstA
+LGDJACJA_00746	gene	pstA		
+LGDJACJA_00747	CDS	pstB1	3.6.3.27	Phosphate import ATP-binding protein PstB 1
+LGDJACJA_00747	gene	pstB1		
+LGDJACJA_00748	CDS			hypothetical protein
+LGDJACJA_00748	gene			
+LGDJACJA_00749	CDS	ybeY	3.1.-.-	Endoribonuclease YbeY
+LGDJACJA_00749	gene	ybeY		
+LGDJACJA_00750	CDS			PhoH-like protein
+LGDJACJA_00750	gene			
+LGDJACJA_00751	CDS			putative HIT-like protein
+LGDJACJA_00751	gene			
+LGDJACJA_00752	CDS	rsmE	2.1.1.193	Ribosomal RNA small subunit methyltransferase E
+LGDJACJA_00752	gene	rsmE		
+LGDJACJA_00753	CDS	prmA_2	2.1.1.-	Ribosomal protein L11 methyltransferase
+LGDJACJA_00753	gene	prmA_2		
+LGDJACJA_00754	CDS	rplR		50S ribosomal protein L18
+LGDJACJA_00754	gene	rplR		
+LGDJACJA_00755	CDS	rplF		50S ribosomal protein L6
+LGDJACJA_00755	gene	rplF		
+LGDJACJA_00756	CDS	rpsH		30S ribosomal protein S8
+LGDJACJA_00756	gene	rpsH		
+LGDJACJA_00757	CDS	rpsZ		30S ribosomal protein S14 type Z
+LGDJACJA_00757	gene	rpsZ		
+LGDJACJA_00758	CDS	rplE		50S ribosomal protein L5
+LGDJACJA_00758	gene	rplE		
+LGDJACJA_00759	CDS	rplX		50S ribosomal protein L24
+LGDJACJA_00759	gene	rplX		
+LGDJACJA_00760	CDS	rplN		50S ribosomal protein L14
+LGDJACJA_00760	gene	rplN		
+LGDJACJA_00761	CDS	rpsQ		30S ribosomal protein S17
+LGDJACJA_00761	gene	rpsQ		
+LGDJACJA_00762	CDS	rpmC		50S ribosomal protein L29
+LGDJACJA_00762	gene	rpmC		
+LGDJACJA_00763	CDS	rplP		50S ribosomal protein L16
+LGDJACJA_00763	gene	rplP		
+LGDJACJA_00764	CDS	rpsC		30S ribosomal protein S3
+LGDJACJA_00764	gene	rpsC		
+LGDJACJA_00765	CDS	rplV		50S ribosomal protein L22
+LGDJACJA_00765	gene	rplV		
+LGDJACJA_00766	CDS	ykuD_1	2.-.-.-	Putative L,D-transpeptidase YkuD
+LGDJACJA_00766	gene	ykuD_1		
+LGDJACJA_00767	CDS			hypothetical protein
+LGDJACJA_00767	gene			
+LGDJACJA_00768	CDS	yliI	1.1.5.-	Aldose sugar dehydrogenase YliI
+LGDJACJA_00768	gene	yliI		
+LGDJACJA_00769	CDS			hypothetical protein
+LGDJACJA_00769	gene			
+LGDJACJA_00770	CDS			hypothetical protein
+LGDJACJA_00770	gene			
+LGDJACJA_00771	CDS	glnA_2	6.3.1.2	Glutamine synthetase
+LGDJACJA_00771	gene	glnA_2		
+LGDJACJA_00772	CDS			hypothetical protein
+LGDJACJA_00772	gene			
+LGDJACJA_00773	CDS		1.-.-.-	putative FAD-linked oxidoreductase
+LGDJACJA_00773	gene			
+LGDJACJA_00774	CDS		1.-.-.-	putative FAD-linked oxidoreductase
+LGDJACJA_00774	gene			
+LGDJACJA_00775	CDS			hypothetical protein
+LGDJACJA_00775	gene			
+LGDJACJA_00776	CDS	acuC_3		Acetoin utilization protein AcuC
+LGDJACJA_00776	gene	acuC_3		
+LGDJACJA_00777	CDS			hypothetical protein
+LGDJACJA_00777	gene			
+LGDJACJA_00778	CDS			hypothetical protein
+LGDJACJA_00778	gene			
+LGDJACJA_00779	CDS			hypothetical protein
+LGDJACJA_00779	gene			
+LGDJACJA_00780	CDS			hypothetical protein
+LGDJACJA_00780	gene			
+LGDJACJA_00781	CDS	thrZ	6.1.1.3	Threonine--tRNA ligase 2
+LGDJACJA_00781	gene	thrZ		
+LGDJACJA_00782	CDS	gcvP	1.4.4.2	putative glycine dehydrogenase (decarboxylating)
+LGDJACJA_00782	gene	gcvP		
+LGDJACJA_00783	CDS	glnH		Glutamine-binding periplasmic protein
+LGDJACJA_00783	gene	glnH		
+LGDJACJA_00784	CDS			hypothetical protein
+LGDJACJA_00784	gene			
+LGDJACJA_00785	CDS			hypothetical protein
+LGDJACJA_00785	gene			
+LGDJACJA_00786	CDS	nirQ		Denitrification regulatory protein NirQ
+LGDJACJA_00786	gene	nirQ		
+LGDJACJA_00787	CDS			hypothetical protein
+LGDJACJA_00787	gene			
+LGDJACJA_00788	CDS			hypothetical protein
+LGDJACJA_00788	gene			
+LGDJACJA_00789	CDS	nusG_1		Transcription termination/antitermination protein NusG
+LGDJACJA_00789	gene	nusG_1		
+LGDJACJA_00790	CDS	rplK		50S ribosomal protein L11
+LGDJACJA_00790	gene	rplK		
+LGDJACJA_00791	CDS	rplA		50S ribosomal protein L1
+LGDJACJA_00791	gene	rplA		
+LGDJACJA_00792	CDS	rplJ		50S ribosomal protein L10
+LGDJACJA_00792	gene	rplJ		
+LGDJACJA_00793	CDS	rplL		50S ribosomal protein L7/L12
+LGDJACJA_00793	gene	rplL		
+LGDJACJA_00794	CDS	sufD		FeS cluster assembly protein SufD
+LGDJACJA_00794	gene	sufD		
+LGDJACJA_00795	CDS	carAc		Ferredoxin CarAc
+LGDJACJA_00795	gene	carAc		
+LGDJACJA_00796	CDS	sufC		Vegetative protein 296
+LGDJACJA_00796	gene	sufC		
+LGDJACJA_00797	CDS			hypothetical protein
+LGDJACJA_00797	gene			
+LGDJACJA_00798	CDS			hypothetical protein
+LGDJACJA_00798	gene			
+LGDJACJA_00799	CDS	dnaN	2.7.7.7	DNA polymerase III subunit beta
+LGDJACJA_00799	gene	dnaN		
+LGDJACJA_00800	CDS	recF		DNA replication and repair protein RecF
+LGDJACJA_00800	gene	recF		
+LGDJACJA_00801	CDS			hypothetical protein
+LGDJACJA_00801	gene			
+LGDJACJA_00802	CDS	gyrB	5.99.1.3	DNA gyrase subunit B
+LGDJACJA_00802	gene	gyrB		
+LGDJACJA_00803	CDS			hypothetical protein
+LGDJACJA_00803	gene			
+LGDJACJA_00804	CDS			hypothetical protein
+LGDJACJA_00804	gene			
+LGDJACJA_00805	CDS	dapb3	3.4.14.-	Dipeptidyl aminopeptidase BIII
+LGDJACJA_00805	gene	dapb3		
+LGDJACJA_00806	CDS	folA	1.5.1.3	Dihydrofolate reductase
+LGDJACJA_00806	gene	folA		
+LGDJACJA_00807	CDS	radA	3.6.4.-	DNA repair protein RadA
+LGDJACJA_00807	gene	radA		
+LGDJACJA_00808	CDS	clpC1		ATP-dependent Clp protease ATP-binding subunit ClpC1
+LGDJACJA_00808	gene	clpC1		
+LGDJACJA_00809	CDS			hypothetical protein
+LGDJACJA_00809	gene			
+LGDJACJA_00810	CDS	pgi	5.3.1.9	Glucose-6-phosphate isomerase
+LGDJACJA_00810	gene	pgi		
+LGDJACJA_00811	CDS	tkt	2.2.1.1	Transketolase
+LGDJACJA_00811	gene	tkt		
+LGDJACJA_00812	CDS			hypothetical protein
+LGDJACJA_00812	gene			
+LGDJACJA_00813	CDS			hypothetical protein
+LGDJACJA_00813	gene			
+LGDJACJA_00814	CDS	cobB	3.5.1.-	NAD-dependent protein deacetylase
+LGDJACJA_00814	gene	cobB		
+LGDJACJA_00815	CDS			hypothetical protein
+LGDJACJA_00815	gene			
+LGDJACJA_00816	CDS			hypothetical protein
+LGDJACJA_00816	gene			
+LGDJACJA_00817	CDS			hypothetical protein
+LGDJACJA_00817	gene			
+LGDJACJA_00818	CDS			hypothetical protein
+LGDJACJA_00818	gene			
+LGDJACJA_00819	CDS	phoR_2	2.7.13.3	Alkaline phosphatase synthesis sensor protein PhoR
+LGDJACJA_00819	gene	phoR_2		
+LGDJACJA_00820	CDS			hypothetical protein
+LGDJACJA_00820	gene			
+LGDJACJA_00821	CDS			hypothetical protein
+LGDJACJA_00821	gene			
+LGDJACJA_00822	CDS			hypothetical protein
+LGDJACJA_00822	gene			
+LGDJACJA_00823	CDS			hypothetical protein
+LGDJACJA_00823	gene			
+LGDJACJA_00824	CDS	attM	3.1.1.81	N-acyl homoserine lactonase AttM
+LGDJACJA_00824	gene	attM		
+LGDJACJA_00825	CDS			hypothetical protein
+LGDJACJA_00825	gene			
+LGDJACJA_00826	CDS			hypothetical protein
+LGDJACJA_00826	gene			
+LGDJACJA_00827	CDS			hypothetical protein
+LGDJACJA_00827	gene			
+LGDJACJA_00828	CDS			hypothetical protein
+LGDJACJA_00828	gene			
+LGDJACJA_00829	CDS	clpB		Chaperone protein ClpB
+LGDJACJA_00829	gene	clpB		
+LGDJACJA_00830	CDS	efp		Elongation factor P
+LGDJACJA_00830	gene	efp		
+LGDJACJA_00831	CDS	ypdF	3.4.11.-	Aminopeptidase YpdF
+LGDJACJA_00831	gene	ypdF		
+LGDJACJA_00832	CDS	aroQ	4.2.1.10	3-dehydroquinate dehydratase
+LGDJACJA_00832	gene	aroQ		
+LGDJACJA_00833	CDS	aroB	4.2.3.4	3-dehydroquinate synthase
+LGDJACJA_00833	gene	aroB		
+LGDJACJA_00834	CDS			hypothetical protein
+LGDJACJA_00834	gene			
+LGDJACJA_00835	CDS	mhqR_2		HTH-type transcriptional regulator MhqR
+LGDJACJA_00835	gene	mhqR_2		
+LGDJACJA_00836	CDS	mmgC	1.3.99.-	Acyl-CoA dehydrogenase
+LGDJACJA_00836	gene	mmgC		
+LGDJACJA_00837	CDS	rebM	2.1.1.164	Demethylrebeccamycin-D-glucose O-methyltransferase
+LGDJACJA_00837	gene	rebM		
+LGDJACJA_00838	CDS	hldE	2.7.7.70	Bifunctional protein HldE
+LGDJACJA_00838	gene	hldE		
+LGDJACJA_00839	CDS	pytH	3.1.1.88	Pyrethroid hydrolase
+LGDJACJA_00839	gene	pytH		
+LGDJACJA_00840	CDS	pigE	2.6.1.-	Aminotransferase PigE
+LGDJACJA_00840	gene	pigE		
+LGDJACJA_00841	CDS	sugE		Quaternary ammonium compound-resistance protein SugE
+LGDJACJA_00841	gene	sugE		
+LGDJACJA_00842	CDS	pyk	2.7.1.40	Pyruvate kinase
+LGDJACJA_00842	gene	pyk		
+LGDJACJA_00843	CDS	rpoB	2.7.7.6	DNA-directed RNA polymerase subunit beta
+LGDJACJA_00843	gene	rpoB		
+LGDJACJA_00844	CDS			hypothetical protein
+LGDJACJA_00844	gene			
+LGDJACJA_00845	CDS			hypothetical protein
+LGDJACJA_00845	gene			
+LGDJACJA_00846	CDS			hypothetical protein
+LGDJACJA_00846	gene			
+LGDJACJA_00847	CDS			hypothetical protein
+LGDJACJA_00847	gene			
+LGDJACJA_00848	CDS	ppiB	5.2.1.8	putative peptidyl-prolyl cis-trans isomerase
+LGDJACJA_00848	gene	ppiB		
+LGDJACJA_00849	CDS	sigA_1		RNA polymerase sigma factor SigA
+LGDJACJA_00849	gene	sigA_1		
+LGDJACJA_00850	CDS			hypothetical protein
+LGDJACJA_00850	gene			
+LGDJACJA_00851	CDS			hypothetical protein
+LGDJACJA_00851	gene			
+LGDJACJA_00852	CDS			hypothetical protein
+LGDJACJA_00852	gene			
+LGDJACJA_00853	CDS	gloB	3.1.2.6	Hydroxyacylglutathione hydrolase
+LGDJACJA_00853	gene	gloB		
+LGDJACJA_00854	CDS	erpA		Iron-sulfur cluster insertion protein ErpA
+LGDJACJA_00854	gene	erpA		
+LGDJACJA_00855	CDS			hypothetical protein
+LGDJACJA_00855	gene			
+LGDJACJA_00856	CDS			hypothetical protein
+LGDJACJA_00856	gene			
+LGDJACJA_00857	CDS			hypothetical protein
+LGDJACJA_00857	gene			
+LGDJACJA_00858	CDS			hypothetical protein
+LGDJACJA_00858	gene			
+LGDJACJA_00859	CDS			hypothetical protein
+LGDJACJA_00859	gene			
+LGDJACJA_00860	CDS			hypothetical protein
+LGDJACJA_00860	gene			
+LGDJACJA_00861	CDS	hemL	5.4.3.8	Glutamate-1-semialdehyde 2,1-aminomutase
+LGDJACJA_00861	gene	hemL		
+LGDJACJA_00862	CDS			hypothetical protein
+LGDJACJA_00862	gene			
+LGDJACJA_00863	CDS	ubiD	4.1.1.98	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+LGDJACJA_00863	gene	ubiD		
+LGDJACJA_00864	CDS			hypothetical protein
+LGDJACJA_00864	gene			
+LGDJACJA_00865	CDS	tal	2.2.1.2	putative transaldolase
+LGDJACJA_00865	gene	tal		
+LGDJACJA_00866	CDS			hypothetical protein
+LGDJACJA_00866	gene			
+LGDJACJA_00867	CDS	sodA2	1.15.1.1	Superoxide dismutase [Mn] 2
+LGDJACJA_00867	gene	sodA2		
+LGDJACJA_00868	CDS	comM		Competence protein ComM
+LGDJACJA_00868	gene	comM		
+LGDJACJA_00869	CDS	dprA		DNA processing protein DprA
+LGDJACJA_00869	gene	dprA		
+LGDJACJA_00870	CDS			hypothetical protein
+LGDJACJA_00870	gene			
+LGDJACJA_00871	CDS		2.4.2.-	Putative glutamine amidotransferase
+LGDJACJA_00871	gene			
+LGDJACJA_00872	CDS	pksB	3.-.-.-	putative polyketide biosynthesis zinc-dependent hydrolase PksB
+LGDJACJA_00872	gene	pksB		
+LGDJACJA_00873	CDS	cysK1	2.5.1.47	O-acetylserine sulfhydrylase
+LGDJACJA_00873	gene	cysK1		
+LGDJACJA_00874	CDS			hypothetical protein
+LGDJACJA_00874	gene			
+LGDJACJA_00875	CDS			hypothetical protein
+LGDJACJA_00875	gene			
+LGDJACJA_00876	CDS			hypothetical protein
+LGDJACJA_00876	gene			
+LGDJACJA_00877	CDS			hypothetical protein
+LGDJACJA_00877	gene			
+LGDJACJA_00878	CDS		3.4.21.-	Thermophilic serine proteinase
+LGDJACJA_00878	gene			
+LGDJACJA_00879	CDS			hypothetical protein
+LGDJACJA_00879	gene			
+LGDJACJA_00880	CDS		3.-.-.-	putative hydrolase
+LGDJACJA_00880	gene			
+LGDJACJA_00881	CDS	nicF	3.5.1.107	Maleamate amidohydrolase
+LGDJACJA_00881	gene	nicF		
+LGDJACJA_00882	CDS			hypothetical protein
+LGDJACJA_00882	gene			
+LGDJACJA_00883	CDS	tyrS	6.1.1.1	Tyrosine--tRNA ligase
+LGDJACJA_00883	gene	tyrS		
+LGDJACJA_00884	CDS		3.2.2.-	Putative 3-methyladenine DNA glycosylase
+LGDJACJA_00884	gene			
+LGDJACJA_00885	CDS	ufaA1_2	2.1.1.-	Tuberculostearic acid methyltransferase UfaA1
+LGDJACJA_00885	gene	ufaA1_2		
+LGDJACJA_00886	CDS			hypothetical protein
+LGDJACJA_00886	gene			
+LGDJACJA_00887	CDS	msrB	1.8.4.12	Peptide methionine sulfoxide reductase MsrB
+LGDJACJA_00887	gene	msrB		
+LGDJACJA_00888	CDS	ccmE		Cytochrome c-type biogenesis protein CcmE
+LGDJACJA_00888	gene	ccmE		
+LGDJACJA_00889	CDS			hypothetical protein
+LGDJACJA_00889	gene			
+LGDJACJA_00890	CDS			hypothetical protein
+LGDJACJA_00890	gene			
+LGDJACJA_00891	CDS			hypothetical protein
+LGDJACJA_00891	gene			
+LGDJACJA_00892	CDS			18 kDa heat shock protein
+LGDJACJA_00892	gene			
+LGDJACJA_00893	CDS			hypothetical protein
+LGDJACJA_00893	gene			
+LGDJACJA_00894	CDS			hypothetical protein
+LGDJACJA_00894	gene			
+LGDJACJA_00895	CDS	penA		Penicillin-binding protein 2B
+LGDJACJA_00895	gene	penA		
+LGDJACJA_00896	CDS	ftsW_1	2.4.1.129	putative peptidoglycan glycosyltransferase FtsW
+LGDJACJA_00896	gene	ftsW_1		
+LGDJACJA_00897	CDS			hypothetical protein
+LGDJACJA_00897	gene			
+LGDJACJA_00898	CDS			hypothetical protein
+LGDJACJA_00898	gene			
+LGDJACJA_00899	CDS	ino1	5.5.1.4	Inositol-3-phosphate synthase
+LGDJACJA_00899	gene	ino1		
+LGDJACJA_00900	CDS			hypothetical protein
+LGDJACJA_00900	gene			
+LGDJACJA_00901	CDS	tqsA		AI-2 transport protein TqsA
+LGDJACJA_00901	gene	tqsA		
+LGDJACJA_00902	CDS			hypothetical protein
+LGDJACJA_00902	gene			
+LGDJACJA_00903	CDS			hypothetical protein
+LGDJACJA_00903	gene			
+LGDJACJA_00904	CDS			hypothetical protein
+LGDJACJA_00904	gene			
+LGDJACJA_00905	CDS			hypothetical protein
+LGDJACJA_00905	gene			
+LGDJACJA_00906	CDS			hypothetical protein
+LGDJACJA_00906	gene			
+LGDJACJA_00907	CDS			hypothetical protein
+LGDJACJA_00907	gene			
+LGDJACJA_00908	CDS			hypothetical protein
+LGDJACJA_00908	gene			
+LGDJACJA_00909	CDS			hypothetical protein
+LGDJACJA_00909	gene			
+LGDJACJA_00910	CDS	macB	3.6.3.-	Macrolide export ATP-binding/permease protein MacB
+LGDJACJA_00910	gene	macB		
+LGDJACJA_00911	CDS	yknY_2	3.6.3.-	putative ABC transporter ATP-binding protein YknY
+LGDJACJA_00911	gene	yknY_2		
+LGDJACJA_00912	CDS	tdh	1.1.1.103	L-threonine 3-dehydrogenase
+LGDJACJA_00912	gene	tdh		
+LGDJACJA_00913	CDS			hypothetical protein
+LGDJACJA_00913	gene			
+LGDJACJA_00914	CDS			hypothetical protein
+LGDJACJA_00914	gene			
+LGDJACJA_00915	CDS	cbiX	4.99.1.3	Sirohydrochlorin cobaltochelatase
+LGDJACJA_00915	gene	cbiX		
+LGDJACJA_00916	CDS			hypothetical protein
+LGDJACJA_00916	gene			
+LGDJACJA_00917	CDS			hypothetical protein
+LGDJACJA_00917	gene			
+LGDJACJA_00918	CDS			hypothetical protein
+LGDJACJA_00918	gene			
+LGDJACJA_00919	CDS	recQ	3.6.4.12	ATP-dependent DNA helicase RecQ
+LGDJACJA_00919	gene	recQ		
+LGDJACJA_00920	CDS	aroA	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+LGDJACJA_00920	gene	aroA		
+LGDJACJA_00921	CDS	stp_3		Multidrug resistance protein Stp
+LGDJACJA_00921	gene	stp_3		
+LGDJACJA_00922	CDS			hypothetical protein
+LGDJACJA_00922	gene			
+LGDJACJA_00923	CDS	rluB	5.4.99.22	Ribosomal large subunit pseudouridine synthase B
+LGDJACJA_00923	gene	rluB		
+LGDJACJA_00924	CDS	aroH	5.4.99.5	Chorismate mutase AroH
+LGDJACJA_00924	gene	aroH		
+LGDJACJA_00925	CDS	arfB	3.1.1.29	Peptidyl-tRNA hydrolase ArfB
+LGDJACJA_00925	gene	arfB		
+LGDJACJA_00926	CDS	plsC_2	2.3.1.-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+LGDJACJA_00926	gene	plsC_2		
+LGDJACJA_00927	CDS			hypothetical protein
+LGDJACJA_00927	gene			
+LGDJACJA_00928	CDS	trpS	6.1.1.2	Tryptophan--tRNA ligase
+LGDJACJA_00928	gene	trpS		
+LGDJACJA_00929	CDS			hypothetical protein
+LGDJACJA_00929	gene			
+LGDJACJA_00930	CDS			hypothetical protein
+LGDJACJA_00930	gene			
+LGDJACJA_00931	CDS			hypothetical protein
+LGDJACJA_00931	gene			
+LGDJACJA_00932	CDS			hypothetical protein
+LGDJACJA_00932	gene			
+LGDJACJA_00933	CDS	ykuD_2	2.-.-.-	Putative L,D-transpeptidase YkuD
+LGDJACJA_00933	gene	ykuD_2		
+LGDJACJA_00934	CDS	trxA_1		Thioredoxin
+LGDJACJA_00934	gene	trxA_1		
+LGDJACJA_00935	CDS			hypothetical protein
+LGDJACJA_00935	gene			
+LGDJACJA_00936	CDS			hypothetical protein
+LGDJACJA_00936	gene			
+LGDJACJA_00937	CDS	nadB_1	1.4.3.16	L-aspartate oxidase
+LGDJACJA_00937	gene	nadB_1		
+LGDJACJA_00938	CDS			hypothetical protein
+LGDJACJA_00938	gene			
+LGDJACJA_00939	CDS			hypothetical protein
+LGDJACJA_00939	gene			
+LGDJACJA_00940	CDS			hypothetical protein
+LGDJACJA_00940	gene			
+LGDJACJA_00941	CDS	folP_1	2.5.1.15	Dihydropteroate synthase
+LGDJACJA_00941	gene	folP_1		
+LGDJACJA_00942	CDS			hypothetical protein
+LGDJACJA_00942	gene			
+LGDJACJA_00943	CDS	typA		GTP-binding protein TypA/BipA
+LGDJACJA_00943	gene	typA		
+LGDJACJA_00944	CDS	hisC	2.6.1.9	Histidinol-phosphate aminotransferase
+LGDJACJA_00944	gene	hisC		
+LGDJACJA_00945	CDS			hypothetical protein
+LGDJACJA_00945	gene			
+LGDJACJA_00946	CDS	ygfZ		tRNA-modifying protein YgfZ
+LGDJACJA_00946	gene	ygfZ		
+LGDJACJA_00947	CDS			hypothetical protein
+LGDJACJA_00947	gene			
+LGDJACJA_00948	tRNA			tRNA-Gln(ttg)
+LGDJACJA_00948	gene			
+LGDJACJA_00949	CDS	ilvD	4.2.1.9	Dihydroxy-acid dehydratase
+LGDJACJA_00949	gene	ilvD		
+LGDJACJA_00950	CDS			hypothetical protein
+LGDJACJA_00950	gene			
+LGDJACJA_00951	CDS			hypothetical protein
+LGDJACJA_00951	gene			
+LGDJACJA_00952	CDS			hypothetical protein
+LGDJACJA_00952	gene			
+LGDJACJA_00953	CDS	mmsB	1.1.1.31	3-hydroxyisobutyrate dehydrogenase
+LGDJACJA_00953	gene	mmsB		
+LGDJACJA_00954	CDS	gstA	2.5.1.18	Glutathione S-transferase GstA
+LGDJACJA_00954	gene	gstA		
+LGDJACJA_00955	CDS			hypothetical protein
+LGDJACJA_00955	gene			
+LGDJACJA_00956	CDS			hypothetical protein
+LGDJACJA_00956	gene			
+LGDJACJA_00957	CDS	pncB1	6.3.4.21	Nicotinate phosphoribosyltransferase pncB1
+LGDJACJA_00957	gene	pncB1		
+LGDJACJA_00958	CDS			hypothetical protein
+LGDJACJA_00958	gene			
+LGDJACJA_00959	CDS	hpnR	2.1.1.-	Hopanoid C-3 methylase
+LGDJACJA_00959	gene	hpnR		
+LGDJACJA_00960	CDS			hypothetical protein
+LGDJACJA_00960	gene			
+LGDJACJA_00961	CDS	ychF		Ribosome-binding ATPase YchF
+LGDJACJA_00961	gene	ychF		
+LGDJACJA_00962	CDS	yhaM	3.1.-.-	3'-5' exoribonuclease YhaM
+LGDJACJA_00962	gene	yhaM		
+LGDJACJA_00963	CDS	htrA	3.4.21.107	Serine protease Do-like HtrA
+LGDJACJA_00963	gene	htrA		
+LGDJACJA_00964	CDS			hypothetical protein
+LGDJACJA_00964	gene			
+LGDJACJA_00965	CDS	mntB_2		Manganese transport system membrane protein MntB
+LGDJACJA_00965	gene	mntB_2		
+LGDJACJA_00966	CDS	mntB_3		Manganese transport system membrane protein MntB
+LGDJACJA_00966	gene	mntB_3		
+LGDJACJA_00967	CDS	fepC		Ferric enterobactin transport ATP-binding protein FepC
+LGDJACJA_00967	gene	fepC		
+LGDJACJA_00968	CDS	troA		Periplasmic zinc-binding protein TroA
+LGDJACJA_00968	gene	troA		
+LGDJACJA_00969	CDS	ideR		Iron-dependent repressor IdeR
+LGDJACJA_00969	gene	ideR		
+LGDJACJA_00970	CDS			hypothetical protein
+LGDJACJA_00970	gene			
+LGDJACJA_00971	CDS			hypothetical protein
+LGDJACJA_00971	gene			
+LGDJACJA_00972	CDS	bshA	2.4.1.-	N-acetyl-alpha-D-glucosaminyl L-malate synthase
+LGDJACJA_00972	gene	bshA		
+LGDJACJA_00973	CDS			hypothetical protein
+LGDJACJA_00973	gene			
+LGDJACJA_00974	CDS	ftsY		Signal recognition particle receptor FtsY
+LGDJACJA_00974	gene	ftsY		
+LGDJACJA_00975	CDS	smc		Chromosome partition protein Smc
+LGDJACJA_00975	gene	smc		
+LGDJACJA_00976	CDS			hypothetical protein
+LGDJACJA_00976	gene			
+LGDJACJA_00977	CDS			hypothetical protein
+LGDJACJA_00977	gene			
+LGDJACJA_00978	CDS			hypothetical protein
+LGDJACJA_00978	gene			
+LGDJACJA_00979	CDS			hypothetical protein
+LGDJACJA_00979	gene			
+LGDJACJA_00980	CDS			hypothetical protein
+LGDJACJA_00980	gene			
+LGDJACJA_00981	CDS	metK	2.5.1.6	S-adenosylmethionine synthase
+LGDJACJA_00981	gene	metK		
+LGDJACJA_00982	CDS			hypothetical protein
+LGDJACJA_00982	gene			
+LGDJACJA_00983	CDS	trxA_2		Thioredoxin 1
+LGDJACJA_00983	gene	trxA_2		
+LGDJACJA_00984	CDS	trxB	1.8.1.9	Thioredoxin reductase
+LGDJACJA_00984	gene	trxB		
+LGDJACJA_00985	CDS			hypothetical protein
+LGDJACJA_00985	gene			
+LGDJACJA_00986	CDS			hypothetical protein
+LGDJACJA_00986	gene			
+LGDJACJA_00987	CDS			hypothetical protein
+LGDJACJA_00987	gene			
+LGDJACJA_00988	CDS			hypothetical protein
+LGDJACJA_00988	gene			
+LGDJACJA_00989	tRNA			tRNA-Asp(gtc)
+LGDJACJA_00989	gene			
+LGDJACJA_00990	tRNA			tRNA-Val(tac)
+LGDJACJA_00990	gene			
+LGDJACJA_00991	CDS	fabG_4	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+LGDJACJA_00991	gene	fabG_4		
+LGDJACJA_00992	CDS	glpF		Glycerol uptake facilitator protein
+LGDJACJA_00992	gene	glpF		
+LGDJACJA_00993	CDS			hypothetical protein
+LGDJACJA_00993	gene			
+LGDJACJA_00994	CDS			hypothetical protein
+LGDJACJA_00994	gene			
+LGDJACJA_00995	tRNA			tRNA-Glu(ttc)
+LGDJACJA_00995	gene			
+LGDJACJA_00996	CDS			hypothetical protein
+LGDJACJA_00996	gene			
+LGDJACJA_00997	CDS	crcB_1		Putative fluoride ion transporter CrcB
+LGDJACJA_00997	gene	crcB_1		
+LGDJACJA_00998	CDS	crcB_2		Putative fluoride ion transporter CrcB
+LGDJACJA_00998	gene	crcB_2		
+LGDJACJA_00999	CDS			Leu/Ile/Val-binding protein 
+LGDJACJA_00999	gene			
+LGDJACJA_01000	CDS			putative SufE-like protein
+LGDJACJA_01000	gene			
+LGDJACJA_01001	CDS		2.8.1.1	Thiosulfate sulfurtransferase
+LGDJACJA_01001	gene			
+LGDJACJA_01002	CDS	lspA	3.4.23.36	Lipoprotein signal peptidase
+LGDJACJA_01002	gene	lspA		
+LGDJACJA_01003	CDS	rluD	5.4.99.23	Ribosomal large subunit pseudouridine synthase D
+LGDJACJA_01003	gene	rluD		
+LGDJACJA_01004	CDS	rpsB		30S ribosomal protein S2
+LGDJACJA_01004	gene	rpsB		
+LGDJACJA_01005	CDS	tsf		Elongation factor Ts
+LGDJACJA_01005	gene	tsf		
+LGDJACJA_01006	CDS	pyrH	2.7.4.22	Uridylate kinase
+LGDJACJA_01006	gene	pyrH		
+LGDJACJA_01007	CDS	frr		Ribosome-recycling factor
+LGDJACJA_01007	gene	frr		
+LGDJACJA_01008	CDS	uppS	2.5.1.31	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+LGDJACJA_01008	gene	uppS		
+LGDJACJA_01009	CDS	cdsA	2.7.7.41	Phosphatidate cytidylyltransferase
+LGDJACJA_01009	gene	cdsA		
+LGDJACJA_01010	CDS			hypothetical protein
+LGDJACJA_01010	gene			
+LGDJACJA_01011	CDS			hypothetical protein
+LGDJACJA_01011	gene			
+LGDJACJA_01012	CDS			hypothetical protein
+LGDJACJA_01012	gene			
+LGDJACJA_01013	CDS			hypothetical protein
+LGDJACJA_01013	gene			
+LGDJACJA_01014	CDS	acsA	6.2.1.1	Acetyl-coenzyme A synthetase
+LGDJACJA_01014	gene	acsA		
+LGDJACJA_01015	CDS			hypothetical protein
+LGDJACJA_01015	gene			
+LGDJACJA_01016	CDS	hupA		DNA-binding protein HU 1
+LGDJACJA_01016	gene	hupA		
+LGDJACJA_01017	tRNA			tRNA-Leu(taa)
+LGDJACJA_01017	gene			
+LGDJACJA_01018	CDS			hypothetical protein
+LGDJACJA_01018	gene			
+LGDJACJA_01019	CDS			hypothetical protein
+LGDJACJA_01019	gene			
+LGDJACJA_01020	CDS			hypothetical protein
+LGDJACJA_01020	gene			
+LGDJACJA_01021	CDS	gloC	3.1.2.6	Hydroxyacylglutathione hydrolase GloC
+LGDJACJA_01021	gene	gloC		
+LGDJACJA_01022	CDS	rpiB	5.3.1.6	Ribose-5-phosphate isomerase B
+LGDJACJA_01022	gene	rpiB		
+LGDJACJA_01023	CDS			hypothetical protein
+LGDJACJA_01023	gene			
+LGDJACJA_01024	CDS	ipuF	3.4.-.-	Gamma-glutamyl-L-1-hydroxyisopropylamide hydrolase
+LGDJACJA_01024	gene	ipuF		
+LGDJACJA_01025	CDS	limB	1.14.13.107	Limonene 1,2-monooxygenase
+LGDJACJA_01025	gene	limB		
+LGDJACJA_01026	CDS			hypothetical protein
+LGDJACJA_01026	gene			
+LGDJACJA_01027	CDS			hypothetical protein
+LGDJACJA_01027	gene			
+LGDJACJA_01028	CDS			hypothetical protein
+LGDJACJA_01028	gene			
+LGDJACJA_01029	tRNA			tRNA-Met(cat)
+LGDJACJA_01029	gene			
+LGDJACJA_01030	CDS	mgsA	4.2.3.3	Methylglyoxal synthase
+LGDJACJA_01030	gene	mgsA		
+LGDJACJA_01031	CDS			hypothetical protein
+LGDJACJA_01031	gene			
+LGDJACJA_01032	CDS			hypothetical protein
+LGDJACJA_01032	gene			
+LGDJACJA_01033	CDS	sigA_2		RNA polymerase sigma factor SigA
+LGDJACJA_01033	gene	sigA_2		
+LGDJACJA_01034	CDS		1.18.1.2	Ferredoxin--NADP reductase
+LGDJACJA_01034	gene			
+LGDJACJA_01035	CDS			hypothetical protein
+LGDJACJA_01035	gene			
+LGDJACJA_01036	CDS	ctaB	2.5.1.-	Protoheme IX farnesyltransferase
+LGDJACJA_01036	gene	ctaB		
+LGDJACJA_01037	CDS			hypothetical protein
+LGDJACJA_01037	gene			
+LGDJACJA_01038	CDS	phr	4.1.99.3	Deoxyribodipyrimidine photo-lyase
+LGDJACJA_01038	gene	phr		
+LGDJACJA_01039	CDS			hypothetical protein
+LGDJACJA_01039	gene			
+LGDJACJA_01040	CDS	msrA	1.8.4.11	Peptide methionine sulfoxide reductase MsrA
+LGDJACJA_01040	gene	msrA		
+LGDJACJA_01041	CDS			hypothetical protein
+LGDJACJA_01041	gene			
+LGDJACJA_01042	CDS	folB	4.1.2.25	Dihydroneopterin aldolase
+LGDJACJA_01042	gene	folB		
+LGDJACJA_01043	CDS	folP_2	2.5.1.15	Dihydropteroate synthase
+LGDJACJA_01043	gene	folP_2		
+LGDJACJA_01044	CDS	ftsH	3.4.24.-	ATP-dependent zinc metalloprotease FtsH
+LGDJACJA_01044	gene	ftsH		
+LGDJACJA_01045	CDS			hypothetical protein
+LGDJACJA_01045	gene			
+LGDJACJA_01046	CDS	dacC	3.4.16.4	D-alanyl-D-alanine carboxypeptidase DacC
+LGDJACJA_01046	gene	dacC		
+LGDJACJA_01047	CDS	ligA	6.5.1.2	DNA ligase
+LGDJACJA_01047	gene	ligA		
+LGDJACJA_01048	CDS			hypothetical protein
+LGDJACJA_01048	gene			
+LGDJACJA_01049	CDS			hypothetical protein
+LGDJACJA_01049	gene			
+LGDJACJA_01050	CDS			hypothetical protein
+LGDJACJA_01050	gene			
+LGDJACJA_01051	CDS			hypothetical protein
+LGDJACJA_01051	gene			
+LGDJACJA_01052	CDS			hypothetical protein
+LGDJACJA_01052	gene			
+LGDJACJA_01053	CDS			hypothetical protein
+LGDJACJA_01053	gene			
+LGDJACJA_01054	CDS	pknH	2.7.11.1	Serine/threonine-protein kinase PknH
+LGDJACJA_01054	gene	pknH		
+LGDJACJA_01055	CDS			hypothetical protein
+LGDJACJA_01055	gene			
+LGDJACJA_01056	CDS	trkA_1		Trk system potassium uptake protein TrkA
+LGDJACJA_01056	gene	trkA_1		
+LGDJACJA_01057	CDS	trkA_2		Trk system potassium uptake protein TrkA
+LGDJACJA_01057	gene	trkA_2		
+LGDJACJA_01058	CDS			hypothetical protein
+LGDJACJA_01058	gene			
+LGDJACJA_01059	CDS	cymR		HTH-type transcriptional regulator CymR
+LGDJACJA_01059	gene	cymR		
+LGDJACJA_01060	CDS			hypothetical protein
+LGDJACJA_01060	gene			
+LGDJACJA_01061	CDS	pyrB	2.1.3.2	Aspartate carbamoyltransferase catalytic subunit
+LGDJACJA_01061	gene	pyrB		
+LGDJACJA_01062	CDS	asnB	6.3.5.4	Asparagine synthetase [glutamine-hydrolyzing] 1
+LGDJACJA_01062	gene	asnB		
+LGDJACJA_01063	CDS	natA_2		ABC transporter ATP-binding protein NatA
+LGDJACJA_01063	gene	natA_2		
+LGDJACJA_01064	CDS			hypothetical protein
+LGDJACJA_01064	gene			
+LGDJACJA_01065	CDS			hypothetical protein
+LGDJACJA_01065	gene			
+LGDJACJA_01066	CDS			hypothetical protein
+LGDJACJA_01066	gene			
+LGDJACJA_01067	CDS	walR		Transcriptional regulatory protein WalR
+LGDJACJA_01067	gene	walR		
+LGDJACJA_01068	CDS	srrB_2	2.7.13.3	Sensor protein SrrB
+LGDJACJA_01068	gene	srrB_2		
+LGDJACJA_01069	CDS			Blue-light absorbing proteorhodopsin
+LGDJACJA_01069	gene			
+LGDJACJA_01070	CDS	dsbD	1.8.1.8	Thiol:disulfide interchange protein DsbD
+LGDJACJA_01070	gene	dsbD		
+LGDJACJA_01071	CDS	wbpI	5.1.3.23	UDP-2,3-diacetamido-2,3-dideoxy-D-glucuronate 2-epimerase
+LGDJACJA_01071	gene	wbpI		
+LGDJACJA_01072	CDS			hypothetical protein
+LGDJACJA_01072	gene			
+LGDJACJA_01073	CDS	wbpA	1.1.1.136	UDP-N-acetyl-D-glucosamine 6-dehydrogenase
+LGDJACJA_01073	gene	wbpA		
+LGDJACJA_01074	CDS	iolX	1.1.1.370	scyllo-inositol 2-dehydrogenase (NAD(+))
+LGDJACJA_01074	gene	iolX		
+LGDJACJA_01075	CDS	wbpD	2.3.1.201	UDP-2-acetamido-3-amino-2,3-dideoxy-D-glucuronate N-acetyltransferase
+LGDJACJA_01075	gene	wbpD		
+LGDJACJA_01076	CDS		3.4.21.4	Trypsin
+LGDJACJA_01076	gene			
+LGDJACJA_01077	CDS	rfbB	4.2.1.46	dTDP-glucose 4,6-dehydratase
+LGDJACJA_01077	gene	rfbB		
+LGDJACJA_01078	CDS	rnd	3.1.13.5	Ribonuclease D
+LGDJACJA_01078	gene	rnd		
+LGDJACJA_01079	CDS			hypothetical protein
+LGDJACJA_01079	gene			
+LGDJACJA_01080	CDS	relA		Bifunctional (p)ppGpp synthase/hydrolase RelA
+LGDJACJA_01080	gene	relA		
+LGDJACJA_01081	CDS	ppx	3.6.1.11	Exopolyphosphatase
+LGDJACJA_01081	gene	ppx		
+LGDJACJA_01082	CDS			hypothetical protein
+LGDJACJA_01082	gene			
+LGDJACJA_01083	CDS			hypothetical protein
+LGDJACJA_01083	gene			
+LGDJACJA_01084	CDS			hypothetical protein
+LGDJACJA_01084	gene			
+LGDJACJA_01085	CDS	mprA		Response regulator MprA
+LGDJACJA_01085	gene	mprA		
+LGDJACJA_01086	CDS	mprB	2.7.13.3	Signal transduction histidine-protein kinase/phosphatase MprB
+LGDJACJA_01086	gene	mprB		
+LGDJACJA_01087	CDS			hypothetical protein
+LGDJACJA_01087	gene			
+LGDJACJA_01088	CDS			hypothetical protein
+LGDJACJA_01088	gene			
+LGDJACJA_01089	CDS			hypothetical protein
+LGDJACJA_01089	gene			
+LGDJACJA_01090	CDS	dnaE1	2.7.7.7	DNA polymerase III subunit alpha
+LGDJACJA_01090	gene	dnaE1		
+LGDJACJA_01091	CDS			hypothetical protein
+LGDJACJA_01091	gene			
+LGDJACJA_01092	CDS		1.13.12.-	Putative monooxygenase
+LGDJACJA_01092	gene			
+LGDJACJA_01093	CDS			hypothetical protein
+LGDJACJA_01093	gene			
+LGDJACJA_01094	CDS			hypothetical protein
+LGDJACJA_01094	gene			
+LGDJACJA_01095	CDS	stp_4	3.1.3.16	Serine/threonine phosphatase stp
+LGDJACJA_01095	gene	stp_4		
+LGDJACJA_01096	CDS	stp_5	3.1.3.16	Serine/threonine phosphatase stp
+LGDJACJA_01096	gene	stp_5		
+LGDJACJA_01097	CDS	fhaB		FHA domain-containing protein FhaB
+LGDJACJA_01097	gene	fhaB		
+LGDJACJA_01098	CDS	dnaJ_2		Chaperone protein DnaJ
+LGDJACJA_01098	gene	dnaJ_2		
+LGDJACJA_01099	CDS			hypothetical protein
+LGDJACJA_01099	gene			
+LGDJACJA_01100	CDS	hrcA		Heat-inducible transcription repressor HrcA
+LGDJACJA_01100	gene	hrcA		
+LGDJACJA_01101	CDS	hemN	1.3.99.-	Oxygen-independent coproporphyrinogen-III oxidase-like protein
+LGDJACJA_01101	gene	hemN		
+LGDJACJA_01102	CDS	lepA	3.6.5.-	Elongation factor 4
+LGDJACJA_01102	gene	lepA		
+LGDJACJA_01103	CDS			hypothetical protein
+LGDJACJA_01103	gene			
+LGDJACJA_01104	CDS	cccA		Cytochrome c-551
+LGDJACJA_01104	gene	cccA		
+LGDJACJA_01105	CDS	ctaD	1.9.3.1	Cytochrome c oxidase subunit 1
+LGDJACJA_01105	gene	ctaD		
+LGDJACJA_01106	CDS	ctaE	1.9.3.1	Cytochrome c oxidase subunit 3
+LGDJACJA_01106	gene	ctaE		
+LGDJACJA_01107	CDS			hypothetical protein
+LGDJACJA_01107	gene			
+LGDJACJA_01108	CDS	yciK	1.-.-.-	putative oxidoreductase YciK
+LGDJACJA_01108	gene	yciK		
+LGDJACJA_01109	CDS	vanX	3.4.13.22	D-alanyl-D-alanine dipeptidase
+LGDJACJA_01109	gene	vanX		
+LGDJACJA_01110	CDS	garA		Glycogen accumulation regulator GarA
+LGDJACJA_01110	gene	garA		
+LGDJACJA_01111	CDS	pknB	2.7.11.1	Serine/threonine-protein kinase PknB
+LGDJACJA_01111	gene	pknB		
+LGDJACJA_01112	tRNA			tRNA-Leu(cag)
+LGDJACJA_01112	gene			
+LGDJACJA_01113	CDS			hypothetical protein
+LGDJACJA_01113	gene			
+LGDJACJA_01114	CDS			hypothetical protein
+LGDJACJA_01114	gene			
+LGDJACJA_01115	CDS	fusA		Elongation factor G
+LGDJACJA_01115	gene	fusA		
+LGDJACJA_01116	CDS		1.-.-.-	putative FAD-linked oxidoreductase
+LGDJACJA_01116	gene			
+LGDJACJA_01117	CDS	tufA		Elongation factor Tu
+LGDJACJA_01117	gene	tufA		
+LGDJACJA_01118	CDS			hypothetical protein
+LGDJACJA_01118	gene			
+LGDJACJA_01119	CDS	pipB2_7		Secreted effector protein PipB2
+LGDJACJA_01119	gene	pipB2_7		
+LGDJACJA_01120	CDS			hypothetical protein
+LGDJACJA_01120	gene			
+LGDJACJA_01121	CDS			hypothetical protein
+LGDJACJA_01121	gene			
+LGDJACJA_01122	CDS			hypothetical protein
+LGDJACJA_01122	gene			
+LGDJACJA_01123	CDS			hypothetical protein
+LGDJACJA_01123	gene			
+LGDJACJA_01124	CDS	ppgK	2.7.1.63	Polyphosphate glucokinase
+LGDJACJA_01124	gene	ppgK		
+LGDJACJA_01125	CDS	zwf1	1.1.1.49	Glucose-6-phosphate 1-dehydrogenase 1
+LGDJACJA_01125	gene	zwf1		
+LGDJACJA_01126	CDS		1.1.1.343	6-phosphogluconate dehydrogenase, NAD(+)-dependent, decarboxylating
+LGDJACJA_01126	gene			
+LGDJACJA_01127	CDS	pgl	3.1.1.31	6-phosphogluconolactonase
+LGDJACJA_01127	gene	pgl		
+LGDJACJA_01128	CDS			hypothetical protein
+LGDJACJA_01128	gene			
+LGDJACJA_01129	CDS	ktrB		Ktr system potassium uptake protein B
+LGDJACJA_01129	gene	ktrB		
+LGDJACJA_01130	CDS	ktrA		Ktr system potassium uptake protein A
+LGDJACJA_01130	gene	ktrA		
+LGDJACJA_01131	CDS			hypothetical protein
+LGDJACJA_01131	gene			
+LGDJACJA_01132	CDS			hypothetical protein
+LGDJACJA_01132	gene			
+LGDJACJA_01133	CDS			hypothetical protein
+LGDJACJA_01133	gene			
+LGDJACJA_01134	CDS	eno	4.2.1.11	Enolase
+LGDJACJA_01134	gene	eno		
+LGDJACJA_01135	CDS			hypothetical protein
+LGDJACJA_01135	gene			
+LGDJACJA_01136	CDS			hypothetical protein
+LGDJACJA_01136	gene			
+LGDJACJA_01137	CDS			hypothetical protein
+LGDJACJA_01137	gene			
+LGDJACJA_01138	CDS			hypothetical protein
+LGDJACJA_01138	gene			
+LGDJACJA_01139	CDS			hypothetical protein
+LGDJACJA_01139	gene			
+LGDJACJA_01140	CDS	rpoZ	2.7.7.6	DNA-directed RNA polymerase subunit omega
+LGDJACJA_01140	gene	rpoZ		
+LGDJACJA_01141	CDS			hypothetical protein
+LGDJACJA_01141	gene			
+LGDJACJA_01142	CDS			hypothetical protein
+LGDJACJA_01142	gene			
+LGDJACJA_01143	CDS			hypothetical protein
+LGDJACJA_01143	gene			
+LGDJACJA_01144	CDS	ykuD_3	2.-.-.-	Putative L,D-transpeptidase YkuD
+LGDJACJA_01144	gene	ykuD_3		
+LGDJACJA_01145	CDS	hflX		GTPase HflX
+LGDJACJA_01145	gene	hflX		
+LGDJACJA_01146	CDS			hypothetical protein
+LGDJACJA_01146	gene			
+LGDJACJA_01147	CDS	galE1	5.1.3.2	UDP-glucose 4-epimerase
+LGDJACJA_01147	gene	galE1		
+LGDJACJA_01148	CDS	ywqE	3.1.3.48	Tyrosine-protein phosphatase YwqE
+LGDJACJA_01148	gene	ywqE		
+LGDJACJA_01149	tRNA			tRNA-Ala(cgc)
+LGDJACJA_01149	gene			
+LGDJACJA_01150	CDS		1.5.5.1	Electron transfer flavoprotein-ubiquinone oxidoreductase
+LGDJACJA_01150	gene			
+LGDJACJA_01151	CDS	caiE		Carnitine operon protein CaiE
+LGDJACJA_01151	gene	caiE		
+LGDJACJA_01152	CDS	ggt	2.3.2.2	Gamma-glutamyltranspeptidase
+LGDJACJA_01152	gene	ggt		
+LGDJACJA_01153	CDS			hypothetical protein
+LGDJACJA_01153	gene			
+LGDJACJA_01154	CDS			hypothetical protein
+LGDJACJA_01154	gene			
+LGDJACJA_01155	CDS			hypothetical protein
+LGDJACJA_01155	gene			
+LGDJACJA_01156	CDS	aviRb	2.1.1.208	23S rRNA (uridine(2479)-2'-O)-methyltransferase
+LGDJACJA_01156	gene	aviRb		
+LGDJACJA_01157	CDS	pheS	6.1.1.20	Phenylalanine--tRNA ligase alpha subunit
+LGDJACJA_01157	gene	pheS		
+LGDJACJA_01158	CDS			hypothetical protein
+LGDJACJA_01158	gene			
+LGDJACJA_01159	CDS	alaS	6.1.1.7	Alanine--tRNA ligase
+LGDJACJA_01159	gene	alaS		
+LGDJACJA_01160	CDS	yqgF	3.1.-.-	Putative pre-16S rRNA nuclease
+LGDJACJA_01160	gene	yqgF		
+LGDJACJA_01161	CDS	mltG	4.2.2.-	Endolytic murein transglycosylase
+LGDJACJA_01161	gene	mltG		
+LGDJACJA_01162	CDS	aroE	1.1.1.25	Shikimate dehydrogenase (NADP(+))
+LGDJACJA_01162	gene	aroE		
+LGDJACJA_01163	CDS	proA	1.2.1.41	Gamma-glutamyl phosphate reductase
+LGDJACJA_01163	gene	proA		
+LGDJACJA_01164	CDS	proB	2.7.2.11	Glutamate 5-kinase
+LGDJACJA_01164	gene	proB		
+LGDJACJA_01165	CDS	obg	3.6.5.-	GTPase Obg
+LGDJACJA_01165	gene	obg		
+LGDJACJA_01166	CDS	rpmA		50S ribosomal protein L27
+LGDJACJA_01166	gene	rpmA		
+LGDJACJA_01167	CDS	rplU		50S ribosomal protein L21
+LGDJACJA_01167	gene	rplU		
+LGDJACJA_01168	CDS	rng	3.1.26.-	Ribonuclease G
+LGDJACJA_01168	gene	rng		
+LGDJACJA_01169	CDS	nusG_2		Transcription termination/antitermination protein NusG
+LGDJACJA_01169	gene	nusG_2		
+LGDJACJA_01170	CDS	secE		Protein translocase subunit SecE
+LGDJACJA_01170	gene	secE		
+LGDJACJA_01171	tRNA			tRNA-Trp(cca)
+LGDJACJA_01171	gene			
+LGDJACJA_01172	CDS	rpmG		50S ribosomal protein L33
+LGDJACJA_01172	gene	rpmG		
+LGDJACJA_01173	CDS	lcfB	6.2.1.3	Long-chain-fatty-acid--CoA ligase
+LGDJACJA_01173	gene	lcfB		
+LGDJACJA_01174	CDS			hypothetical protein
+LGDJACJA_01174	gene			
+LGDJACJA_01175	CDS			hypothetical protein
+LGDJACJA_01175	gene			
+LGDJACJA_01176	CDS			hypothetical protein
+LGDJACJA_01176	gene			
+LGDJACJA_01177	CDS	ibaG		Acid stress protein IbaG
+LGDJACJA_01177	gene	ibaG		
+LGDJACJA_01178	CDS	grxD		Glutaredoxin 4
+LGDJACJA_01178	gene	grxD		
+LGDJACJA_01179	CDS			hypothetical protein
+LGDJACJA_01179	gene			
+LGDJACJA_01180	CDS			hypothetical protein
+LGDJACJA_01180	gene			
+LGDJACJA_01181	CDS	petA	1.10.2.2	Ubiquinol-cytochrome c reductase iron-sulfur subunit
+LGDJACJA_01181	gene	petA		
+LGDJACJA_01182	CDS	petB		Cytochrome b6
+LGDJACJA_01182	gene	petB		
+LGDJACJA_01183	CDS	petD		Cytochrome b6-f complex subunit 4
+LGDJACJA_01183	gene	petD		
+LGDJACJA_01184	CDS	ubiX	2.5.1.129	Flavin prenyltransferase UbiX
+LGDJACJA_01184	gene	ubiX		
+LGDJACJA_01185	CDS	menG	2.1.1.163	Demethylmenaquinone methyltransferase
+LGDJACJA_01185	gene	menG		
+LGDJACJA_01186	CDS	hepT	2.5.1.30	Heptaprenyl diphosphate synthase component 2
+LGDJACJA_01186	gene	hepT		
+LGDJACJA_01187	CDS			hypothetical protein
+LGDJACJA_01187	gene			
+LGDJACJA_01188	CDS			hypothetical protein
+LGDJACJA_01188	gene			
+LGDJACJA_01189	CDS	hisZ		ATP phosphoribosyltransferase regulatory subunit
+LGDJACJA_01189	gene	hisZ		
+LGDJACJA_01190	CDS	murA	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+LGDJACJA_01190	gene	murA		
+LGDJACJA_01191	CDS			hypothetical protein
+LGDJACJA_01191	gene			
+LGDJACJA_01192	CDS	glyA	2.1.2.1	Serine hydroxymethyltransferase
+LGDJACJA_01192	gene	glyA		
+LGDJACJA_01193	CDS	prmC	2.1.1.297	Release factor glutamine methyltransferase
+LGDJACJA_01193	gene	prmC		
+LGDJACJA_01194	CDS	ftsW_2	2.4.1.129	putative peptidoglycan glycosyltransferase FtsW
+LGDJACJA_01194	gene	ftsW_2		
+LGDJACJA_01195	CDS	murD_2	6.3.2.9	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+LGDJACJA_01195	gene	murD_2		
+LGDJACJA_01196	CDS	mraY	2.7.8.13	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+LGDJACJA_01196	gene	mraY		
+LGDJACJA_01197	CDS	murF_2	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+LGDJACJA_01197	gene	murF_2		
+LGDJACJA_01198	CDS	aceAb	4.1.3.1	Isocitrate lyase 2
+LGDJACJA_01198	gene	aceAb		
+LGDJACJA_01199	CDS			hypothetical protein
+LGDJACJA_01199	gene			
+LGDJACJA_01200	CDS			hypothetical protein
+LGDJACJA_01200	gene			
+LGDJACJA_01201	CDS	nth	4.2.99.18	Endonuclease III
+LGDJACJA_01201	gene	nth		
+LGDJACJA_01202	CDS			hypothetical protein
+LGDJACJA_01202	gene			
+LGDJACJA_01203	CDS	purM	6.3.3.1	Phosphoribosylformylglycinamidine cyclo-ligase
+LGDJACJA_01203	gene	purM		
+LGDJACJA_01204	CDS	purN	2.1.2.2	Phosphoribosylglycinamide formyltransferase
+LGDJACJA_01204	gene	purN		
+LGDJACJA_01205	CDS			hypothetical protein
+LGDJACJA_01205	gene			
+LGDJACJA_01206	CDS			hypothetical protein
+LGDJACJA_01206	gene			
+LGDJACJA_01207	CDS	hisD	1.1.1.23	Histidinol dehydrogenase
+LGDJACJA_01207	gene	hisD		
+LGDJACJA_01208	CDS	hisB	4.2.1.19	Imidazoleglycerol-phosphate dehydratase
+LGDJACJA_01208	gene	hisB		
+LGDJACJA_01209	CDS	hisH	2.4.2.-	Imidazole glycerol phosphate synthase subunit HisH
+LGDJACJA_01209	gene	hisH		
+LGDJACJA_01210	CDS	hisA_2	5.3.1.16	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+LGDJACJA_01210	gene	hisA_2		
+LGDJACJA_01211	CDS	fpg1	3.2.2.23	Formamidopyrimidine-DNA glycosylase 1
+LGDJACJA_01211	gene	fpg1		
+LGDJACJA_01212	CDS		3.4.11.-	putative aminopeptidase
+LGDJACJA_01212	gene			
+LGDJACJA_01213	CDS	grxC_1		Glutaredoxin 3
+LGDJACJA_01213	gene	grxC_1		
+LGDJACJA_01214	CDS	pcrA	3.6.4.12	ATP-dependent DNA helicase PcrA
+LGDJACJA_01214	gene	pcrA		
+LGDJACJA_01215	CDS	folD		Bifunctional protein FolD protein
+LGDJACJA_01215	gene	folD		
+LGDJACJA_01216	CDS			hypothetical protein
+LGDJACJA_01216	gene			
+LGDJACJA_01217	CDS			hypothetical protein
+LGDJACJA_01217	gene			
+LGDJACJA_01218	CDS	ydfJ_3		Membrane protein YdfJ
+LGDJACJA_01218	gene	ydfJ_3		
+LGDJACJA_01219	CDS	thiL	2.7.4.16	Thiamine-monophosphate kinase
+LGDJACJA_01219	gene	thiL		
+LGDJACJA_01220	CDS	gatC	6.3.5.-	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit C
+LGDJACJA_01220	gene	gatC		
+LGDJACJA_01221	CDS	gatA	6.3.5.7	Glutamyl-tRNA(Gln) amidotransferase subunit A
+LGDJACJA_01221	gene	gatA		
+LGDJACJA_01222	CDS			hypothetical protein
+LGDJACJA_01222	gene			
+LGDJACJA_01223	CDS			hypothetical protein
+LGDJACJA_01223	gene			
+LGDJACJA_01224	CDS	stp_6		Multidrug resistance protein Stp
+LGDJACJA_01224	gene	stp_6		
+LGDJACJA_01225	CDS	deoC2	4.1.2.4	Deoxyribose-phosphate aldolase 2
+LGDJACJA_01225	gene	deoC2		
+LGDJACJA_01226	CDS	era		GTPase Era
+LGDJACJA_01226	gene	era		
+LGDJACJA_01227	CDS	dgkA	2.7.1.66	Undecaprenol kinase
+LGDJACJA_01227	gene	dgkA		
+LGDJACJA_01228	CDS			hypothetical protein
+LGDJACJA_01228	gene			
+LGDJACJA_01229	CDS			hypothetical protein
+LGDJACJA_01229	gene			
+LGDJACJA_01230	CDS			hypothetical protein
+LGDJACJA_01230	gene			
+LGDJACJA_01231	CDS	bamB		Outer membrane protein assembly factor BamB
+LGDJACJA_01231	gene	bamB		
+LGDJACJA_01232	CDS			hypothetical protein
+LGDJACJA_01232	gene			
+LGDJACJA_01233	CDS	lysX	6.3.2.43	Alpha-aminoadipate--LysW ligase LysX
+LGDJACJA_01233	gene	lysX		
+LGDJACJA_01234	CDS	epsL_2	2.-.-.-	putative sugar transferase EpsL
+LGDJACJA_01234	gene	epsL_2		
+LGDJACJA_01235	CDS			hypothetical protein
+LGDJACJA_01235	gene			
+LGDJACJA_01236	CDS	cysL		HTH-type transcriptional regulator CysL
+LGDJACJA_01236	gene	cysL		
+LGDJACJA_01237	CDS	nadB_2	1.4.3.16	L-aspartate oxidase
+LGDJACJA_01237	gene	nadB_2		
+LGDJACJA_01238	CDS	yitD	4.4.1.19	Phosphosulfolactate synthase
+LGDJACJA_01238	gene	yitD		
+LGDJACJA_01239	CDS			hypothetical protein
+LGDJACJA_01239	gene			
+LGDJACJA_01240	CDS			hypothetical protein
+LGDJACJA_01240	gene			
+LGDJACJA_01241	CDS	yhdN	1.1.1.-	General stress protein 69
+LGDJACJA_01241	gene	yhdN		
+LGDJACJA_01242	CDS			hypothetical protein
+LGDJACJA_01242	gene			
+LGDJACJA_01243	CDS			Epimerase family protein
+LGDJACJA_01243	gene			
+LGDJACJA_01244	CDS			hypothetical protein
+LGDJACJA_01244	gene			
+LGDJACJA_01245	CDS		1.-.-.-	Putative coenzyme F420-dependent oxidoreductase
+LGDJACJA_01245	gene			
+LGDJACJA_01246	CDS			hypothetical protein
+LGDJACJA_01246	gene			
+LGDJACJA_01247	CDS			hypothetical protein
+LGDJACJA_01247	gene			
+LGDJACJA_01248	CDS	yokF	3.1.-.-	SPBc2 prophage-derived endonuclease YokF
+LGDJACJA_01248	gene	yokF		
+LGDJACJA_01249	CDS			hypothetical protein
+LGDJACJA_01249	gene			
+LGDJACJA_01250	CDS	nudL	3.6.1.-	putative Nudix hydrolase NudL
+LGDJACJA_01250	gene	nudL		
+LGDJACJA_01251	CDS			hypothetical protein
+LGDJACJA_01251	gene			
+LGDJACJA_01252	CDS			hypothetical protein
+LGDJACJA_01252	gene			
+LGDJACJA_01253	CDS			Putative membrane protein insertion efficiency factor
+LGDJACJA_01253	gene			
+LGDJACJA_01254	CDS	rnpA	3.1.26.5	Ribonuclease P protein component
+LGDJACJA_01254	gene	rnpA		
+LGDJACJA_01255	CDS	rpmH		50S ribosomal protein L34
+LGDJACJA_01255	gene	rpmH		
+LGDJACJA_01256	CDS			hypothetical protein
+LGDJACJA_01256	gene			
+LGDJACJA_01257	CDS	dnaA		Chromosomal replication initiator protein DnaA
+LGDJACJA_01257	gene	dnaA		
+LGDJACJA_01258	CDS	aspS1	6.1.1.12	Aspartate--tRNA(Asp) ligase
+LGDJACJA_01258	gene	aspS1		
+LGDJACJA_01259	CDS	mnmA	2.8.1.13	tRNA-specific 2-thiouridylase MnmA
+LGDJACJA_01259	gene	mnmA		
+LGDJACJA_01260	CDS			hypothetical protein
+LGDJACJA_01260	gene			
+LGDJACJA_01261	CDS			hypothetical protein
+LGDJACJA_01261	gene			
+LGDJACJA_01262	CDS			hypothetical protein
+LGDJACJA_01262	gene			
+LGDJACJA_01263	CDS			hypothetical protein
+LGDJACJA_01263	gene			
+LGDJACJA_01264	CDS	otsA	2.4.1.15	Trehalose-6-phosphate synthase
+LGDJACJA_01264	gene	otsA		
+LGDJACJA_01265	CDS			hypothetical protein
+LGDJACJA_01265	gene			
+LGDJACJA_01266	CDS			hypothetical protein
+LGDJACJA_01266	gene			
+LGDJACJA_01267	CDS			hypothetical protein
+LGDJACJA_01267	gene			
+LGDJACJA_01268	CDS	lyc	3.2.1.17	Autolytic lysozyme
+LGDJACJA_01268	gene	lyc		
+LGDJACJA_01269	CDS	ettA_2		Energy-dependent translational throttle protein EttA
+LGDJACJA_01269	gene	ettA_2		
+LGDJACJA_01270	CDS			hypothetical protein
+LGDJACJA_01270	gene			
+LGDJACJA_01271	CDS			hypothetical protein
+LGDJACJA_01271	gene			
+LGDJACJA_01272	CDS			hypothetical protein
+LGDJACJA_01272	gene			
+LGDJACJA_01273	CDS	mqnB	3.2.2.26	Futalosine hydrolase
+LGDJACJA_01273	gene	mqnB		
+LGDJACJA_01274	CDS			3 beta-hydroxysteroid dehydrogenase/Delta 5-->4-isomerase
+LGDJACJA_01274	gene			
+LGDJACJA_01275	CDS			hypothetical protein
+LGDJACJA_01275	gene			
+LGDJACJA_01276	CDS	xecE	1.1.1.269	2-(S)-hydroxypropyl-CoM dehydrogenase
+LGDJACJA_01276	gene	xecE		
+LGDJACJA_01277	CDS			hypothetical protein
+LGDJACJA_01277	gene			
+LGDJACJA_01278	CDS			hypothetical protein
+LGDJACJA_01278	gene			
+LGDJACJA_01279	CDS			hypothetical protein
+LGDJACJA_01279	gene			
+LGDJACJA_01280	CDS			hypothetical protein
+LGDJACJA_01280	gene			
+LGDJACJA_01281	CDS	vraR		Response regulator protein VraR
+LGDJACJA_01281	gene	vraR		
+LGDJACJA_01282	CDS	liaR		Transcriptional regulatory protein LiaR
+LGDJACJA_01282	gene	liaR		
+LGDJACJA_01283	CDS	dnaC	3.6.4.12	Replicative DNA helicase
+LGDJACJA_01283	gene	dnaC		
+LGDJACJA_01284	CDS			hypothetical protein
+LGDJACJA_01284	gene			
+LGDJACJA_01285	CDS			hypothetical protein
+LGDJACJA_01285	gene			
+LGDJACJA_01286	CDS			hypothetical protein
+LGDJACJA_01286	gene			
+LGDJACJA_01287	CDS			hypothetical protein
+LGDJACJA_01287	gene			
+LGDJACJA_01288	CDS	dinB1	2.7.7.7	DNA polymerase IV 1
+LGDJACJA_01288	gene	dinB1		
+LGDJACJA_01289	CDS	fbaB	4.1.2.13	Fructose-bisphosphate aldolase class 1
+LGDJACJA_01289	gene	fbaB		
+LGDJACJA_01290	CDS	mutT4	3.6.1.-	Putative mutator protein MutT4
+LGDJACJA_01290	gene	mutT4		
+LGDJACJA_01291	CDS			hypothetical protein
+LGDJACJA_01291	gene			
+LGDJACJA_01292	CDS			hypothetical protein
+LGDJACJA_01292	gene			
+LGDJACJA_01293	CDS			hypothetical protein
+LGDJACJA_01293	gene			
+LGDJACJA_01294	CDS			hypothetical protein
+LGDJACJA_01294	gene			
+LGDJACJA_01295	CDS	hemB	4.2.1.24	Delta-aminolevulinic acid dehydratase
+LGDJACJA_01295	gene	hemB		
+LGDJACJA_01296	CDS	aat	2.3.2.6	Leucyl/phenylalanyl-tRNA--protein transferase
+LGDJACJA_01296	gene	aat		
+LGDJACJA_01297	CDS			hypothetical protein
+LGDJACJA_01297	gene			
+LGDJACJA_01298	CDS			hypothetical protein
+LGDJACJA_01298	gene			
+LGDJACJA_01299	CDS	fabF	2.3.1.179	3-oxoacyl-[acyl-carrier-protein] synthase 2
+LGDJACJA_01299	gene	fabF		
+LGDJACJA_01300	CDS			hypothetical protein
+LGDJACJA_01300	gene			
+LGDJACJA_01301	CDS	accD	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+LGDJACJA_01301	gene	accD		
+LGDJACJA_01302	CDS	ilvB	2.2.1.6	Acetolactate synthase large subunit
+LGDJACJA_01302	gene	ilvB		
+LGDJACJA_01303	CDS			hypothetical protein
+LGDJACJA_01303	gene			
+LGDJACJA_01304	CDS	carH		HTH-type transcriptional repressor CarH
+LGDJACJA_01304	gene	carH		
+LGDJACJA_01305	CDS			hypothetical protein
+LGDJACJA_01305	gene			
+LGDJACJA_01306	CDS	pknD	2.7.11.1	Serine/threonine-protein kinase PknD
+LGDJACJA_01306	gene	pknD		
+LGDJACJA_01307	CDS			hypothetical protein
+LGDJACJA_01307	gene			
+LGDJACJA_01308	CDS	fabH_2	2.3.1.180	3-oxoacyl-[acyl-carrier-protein] synthase 3
+LGDJACJA_01308	gene	fabH_2		
+LGDJACJA_01309	CDS			hypothetical protein
+LGDJACJA_01309	gene			
+LGDJACJA_01310	CDS	fadD3	6.2.1.41	3-[(3aS,4S,7aS)-7a-methyl-1,5-dioxo-octahydro-1H-inden-4-yl]propanoyl:CoA ligase
+LGDJACJA_01310	gene	fadD3		
+LGDJACJA_01311	CDS	grxC_2		Glutaredoxin 3
+LGDJACJA_01311	gene	grxC_2		
+LGDJACJA_01312	CDS			hypothetical protein
+LGDJACJA_01312	gene			
+LGDJACJA_01313	CDS			hypothetical protein
+LGDJACJA_01313	gene			
+LGDJACJA_01314	CDS			hypothetical protein
+LGDJACJA_01314	gene			
+LGDJACJA_01315	CDS	pkn1	2.7.11.1	Serine/threonine-protein kinase pkn1
+LGDJACJA_01315	gene	pkn1		
+LGDJACJA_01316	CDS	atsA	3.1.6.1	Arylsulfatase
+LGDJACJA_01316	gene	atsA		
+LGDJACJA_01317	CDS			hypothetical protein
+LGDJACJA_01317	gene			
+LGDJACJA_01318	CDS			hypothetical protein
+LGDJACJA_01318	gene			
+LGDJACJA_01319	CDS			hypothetical protein
+LGDJACJA_01319	gene			
+LGDJACJA_01320	CDS			hypothetical protein
+LGDJACJA_01320	gene			
+LGDJACJA_01321	CDS			hypothetical protein
+LGDJACJA_01321	gene			
+LGDJACJA_01322	CDS			hypothetical protein
+LGDJACJA_01322	gene			

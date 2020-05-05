@@ -1,0 +1,3093 @@
+locus_tag	ftype	gene	EC_number	product
+ELICBCKE_00001	CDS			hypothetical protein
+ELICBCKE_00001	gene			
+ELICBCKE_00002	CDS			hypothetical protein
+ELICBCKE_00002	gene			
+ELICBCKE_00003	CDS	csp		Cold shock protein 1
+ELICBCKE_00003	gene	csp		
+ELICBCKE_00004	CDS	htpX	3.4.24.-	Protease HtpX
+ELICBCKE_00004	gene	htpX		
+ELICBCKE_00005	CDS	estB	3.1.1.1	Carboxylesterase 2
+ELICBCKE_00005	gene	estB		
+ELICBCKE_00006	CDS			hypothetical protein
+ELICBCKE_00006	gene			
+ELICBCKE_00007	CDS			hypothetical protein
+ELICBCKE_00007	gene			
+ELICBCKE_00008	CDS	baeB	3.-.-.-	putative polyketide biosynthesis zinc-dependent hydrolase BaeB
+ELICBCKE_00008	gene	baeB		
+ELICBCKE_00009	CDS	mip	5.2.1.8	Outer membrane protein MIP
+ELICBCKE_00009	gene	mip		
+ELICBCKE_00010	tRNA			tRNA-Arg(tct)
+ELICBCKE_00010	gene			
+ELICBCKE_00011	CDS			hypothetical protein
+ELICBCKE_00011	gene			
+ELICBCKE_00012	CDS			hypothetical protein
+ELICBCKE_00012	gene			
+ELICBCKE_00013	CDS			hypothetical protein
+ELICBCKE_00013	gene			
+ELICBCKE_00014	CDS	puf2C		Cytochrome c-554
+ELICBCKE_00014	gene	puf2C		
+ELICBCKE_00015	CDS			hypothetical protein
+ELICBCKE_00015	gene			
+ELICBCKE_00016	CDS	bamA_1		Outer membrane protein assembly factor BamA
+ELICBCKE_00016	gene	bamA_1		
+ELICBCKE_00017	CDS	plsY	2.3.1.-	Glycerol-3-phosphate acyltransferase
+ELICBCKE_00017	gene	plsY		
+ELICBCKE_00018	CDS			DegV domain-containing protein
+ELICBCKE_00018	gene			
+ELICBCKE_00019	CDS			hypothetical protein
+ELICBCKE_00019	gene			
+ELICBCKE_00020	CDS	ogt	2.1.1.63	Methylated-DNA--protein-cysteine methyltransferase
+ELICBCKE_00020	gene	ogt		
+ELICBCKE_00021	CDS			S-adenosylmethionine/S-adenosylhomocysteine transporter
+ELICBCKE_00021	gene			
+ELICBCKE_00022	CDS			hypothetical protein
+ELICBCKE_00022	gene			
+ELICBCKE_00023	CDS			hypothetical protein
+ELICBCKE_00023	gene			
+ELICBCKE_00024	CDS	kbl	2.3.1.29	2-amino-3-ketobutyrate coenzyme A ligase
+ELICBCKE_00024	gene	kbl		
+ELICBCKE_00025	CDS	tdh	1.1.1.103	L-threonine 3-dehydrogenase
+ELICBCKE_00025	gene	tdh		
+ELICBCKE_00026	CDS	soj	3.6.-.-	Sporulation initiation inhibitor protein Soj
+ELICBCKE_00026	gene	soj		
+ELICBCKE_00027	CDS	parB		putative chromosome-partitioning protein ParB
+ELICBCKE_00027	gene	parB		
+ELICBCKE_00028	CDS	mepM_1	3.4.24.-	Murein DD-endopeptidase MepM
+ELICBCKE_00028	gene	mepM_1		
+ELICBCKE_00029	CDS			hypothetical protein
+ELICBCKE_00029	gene			
+ELICBCKE_00030	CDS			hypothetical protein
+ELICBCKE_00030	gene			
+ELICBCKE_00031	CDS			hypothetical protein
+ELICBCKE_00031	gene			
+ELICBCKE_00032	CDS	atpB		ATP synthase subunit a
+ELICBCKE_00032	gene	atpB		
+ELICBCKE_00033	CDS	atpE		ATP synthase subunit c
+ELICBCKE_00033	gene	atpE		
+ELICBCKE_00034	CDS	atpF		ATP synthase subunit b
+ELICBCKE_00034	gene	atpF		
+ELICBCKE_00035	CDS	atpH		ATP synthase subunit delta, sodium ion specific
+ELICBCKE_00035	gene	atpH		
+ELICBCKE_00036	CDS	atpA	3.6.3.14	ATP synthase subunit alpha
+ELICBCKE_00036	gene	atpA		
+ELICBCKE_00037	CDS	atpG		ATP synthase gamma chain
+ELICBCKE_00037	gene	atpG		
+ELICBCKE_00038	CDS	atpD	3.6.3.14	ATP synthase subunit beta
+ELICBCKE_00038	gene	atpD		
+ELICBCKE_00039	CDS	atpC		ATP synthase epsilon chain
+ELICBCKE_00039	gene	atpC		
+ELICBCKE_00040	CDS	aspS	6.1.1.12	Aspartate--tRNA ligase
+ELICBCKE_00040	gene	aspS		
+ELICBCKE_00041	CDS	baiA2	1.1.1.395	Bile acid 7-dehydroxylase 2
+ELICBCKE_00041	gene	baiA2		
+ELICBCKE_00042	CDS	pcm	2.1.1.77	Protein-L-isoaspartate O-methyltransferase
+ELICBCKE_00042	gene	pcm		
+ELICBCKE_00043	CDS			hypothetical protein
+ELICBCKE_00043	gene			
+ELICBCKE_00044	CDS			hypothetical protein
+ELICBCKE_00044	gene			
+ELICBCKE_00045	CDS	mqnB	3.2.2.26	Futalosine hydrolase
+ELICBCKE_00045	gene	mqnB		
+ELICBCKE_00046	CDS	splB	4.1.99.14	Spore photoproduct lyase
+ELICBCKE_00046	gene	splB		
+ELICBCKE_00047	CDS	guaB_1	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+ELICBCKE_00047	gene	guaB_1		
+ELICBCKE_00048	CDS	ytfJ		putative spore protein YtfJ
+ELICBCKE_00048	gene	ytfJ		
+ELICBCKE_00049	CDS			hypothetical protein
+ELICBCKE_00049	gene			
+ELICBCKE_00050	CDS			hypothetical protein
+ELICBCKE_00050	gene			
+ELICBCKE_00051	CDS			PhoH-like protein
+ELICBCKE_00051	gene			
+ELICBCKE_00052	CDS	phaA	2.3.1.9	Acetyl-CoA acetyltransferase
+ELICBCKE_00052	gene	phaA		
+ELICBCKE_00053	CDS	acdA_1	1.3.99.-	Acyl-CoA dehydrogenase
+ELICBCKE_00053	gene	acdA_1		
+ELICBCKE_00054	CDS	ilvE_1	2.6.1.42	Branched-chain-amino-acid aminotransferase
+ELICBCKE_00054	gene	ilvE_1		
+ELICBCKE_00055	CDS	ldh	1.4.1.9	Leucine dehydrogenase
+ELICBCKE_00055	gene	ldh		
+ELICBCKE_00056	CDS	nusB		N utilization substance protein B 
+ELICBCKE_00056	gene	nusB		
+ELICBCKE_00057	CDS	secA		Protein translocase subunit SecA
+ELICBCKE_00057	gene	secA		
+ELICBCKE_00058	CDS	mccB	4.4.1.1	Cystathionine gamma-lyase
+ELICBCKE_00058	gene	mccB		
+ELICBCKE_00059	CDS			hypothetical protein
+ELICBCKE_00059	gene			
+ELICBCKE_00060	tRNA			tRNA-Leu(tag)
+ELICBCKE_00060	gene			
+ELICBCKE_00061	CDS			hypothetical protein
+ELICBCKE_00061	gene			
+ELICBCKE_00062	CDS	petC	1.10.9.1	Cytochrome b6-f complex iron-sulfur subunit
+ELICBCKE_00062	gene	petC		
+ELICBCKE_00063	CDS	petB		Cytochrome b6
+ELICBCKE_00063	gene	petB		
+ELICBCKE_00064	CDS	petD		Cytochrome b6-f complex subunit 4
+ELICBCKE_00064	gene	petD		
+ELICBCKE_00065	CDS			hypothetical protein
+ELICBCKE_00065	gene			
+ELICBCKE_00066	CDS			hypothetical protein
+ELICBCKE_00066	gene			
+ELICBCKE_00067	CDS			hypothetical protein
+ELICBCKE_00067	gene			
+ELICBCKE_00068	CDS			hypothetical protein
+ELICBCKE_00068	gene			
+ELICBCKE_00069	CDS			hypothetical protein
+ELICBCKE_00069	gene			
+ELICBCKE_00070	CDS	bauA_1	2.6.1.18	Beta-alanine--pyruvate aminotransferase
+ELICBCKE_00070	gene	bauA_1		
+ELICBCKE_00071	CDS			hypothetical protein
+ELICBCKE_00071	gene			
+ELICBCKE_00072	CDS			hypothetical protein
+ELICBCKE_00072	gene			
+ELICBCKE_00073	CDS	aldA_1	1.2.1.3	Putative aldehyde dehydrogenase AldA
+ELICBCKE_00073	gene	aldA_1		
+ELICBCKE_00074	CDS			hypothetical protein
+ELICBCKE_00074	gene			
+ELICBCKE_00075	CDS		1.3.1.103	2-haloacrylate reductase
+ELICBCKE_00075	gene			
+ELICBCKE_00076	CDS			hypothetical protein
+ELICBCKE_00076	gene			
+ELICBCKE_00077	CDS		1.3.1.-	Putative trans-acting enoyl reductase
+ELICBCKE_00077	gene			
+ELICBCKE_00078	CDS			hypothetical protein
+ELICBCKE_00078	gene			
+ELICBCKE_00079	tRNA			tRNA-Ala(ggc)
+ELICBCKE_00079	gene			
+ELICBCKE_00080	CDS	pepN_1	3.4.11.2	Aminopeptidase N
+ELICBCKE_00080	gene	pepN_1		
+ELICBCKE_00081	CDS			hypothetical protein
+ELICBCKE_00081	gene			
+ELICBCKE_00082	CDS			hypothetical protein
+ELICBCKE_00082	gene			
+ELICBCKE_00083	CDS			hypothetical protein
+ELICBCKE_00083	gene			
+ELICBCKE_00084	CDS			hypothetical protein
+ELICBCKE_00084	gene			
+ELICBCKE_00085	CDS			hypothetical protein
+ELICBCKE_00085	gene			
+ELICBCKE_00086	CDS			hypothetical protein
+ELICBCKE_00086	gene			
+ELICBCKE_00087	CDS	glpE	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+ELICBCKE_00087	gene	glpE		
+ELICBCKE_00088	CDS			hypothetical protein
+ELICBCKE_00088	gene			
+ELICBCKE_00089	tRNA			tRNA-Gly(gcc)
+ELICBCKE_00089	gene			
+ELICBCKE_00090	CDS		3.4.11.10	Bacterial leucyl aminopeptidase
+ELICBCKE_00090	gene			
+ELICBCKE_00091	CDS	fabG_1	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+ELICBCKE_00091	gene	fabG_1		
+ELICBCKE_00092	CDS			hypothetical protein
+ELICBCKE_00092	gene			
+ELICBCKE_00093	CDS			hypothetical protein
+ELICBCKE_00093	gene			
+ELICBCKE_00094	CDS			hypothetical protein
+ELICBCKE_00094	gene			
+ELICBCKE_00095	CDS			hypothetical protein
+ELICBCKE_00095	gene			
+ELICBCKE_00096	CDS	prlC	3.4.24.70	Oligopeptidase A
+ELICBCKE_00096	gene	prlC		
+ELICBCKE_00097	CDS			hypothetical protein
+ELICBCKE_00097	gene			
+ELICBCKE_00098	CDS			hypothetical protein
+ELICBCKE_00098	gene			
+ELICBCKE_00099	tRNA			tRNA-Cys(gca)
+ELICBCKE_00099	gene			
+ELICBCKE_00100	tRNA			tRNA-Leu(taa)
+ELICBCKE_00100	gene			
+ELICBCKE_00101	CDS			hypothetical protein
+ELICBCKE_00101	gene			
+ELICBCKE_00102	CDS	susC_1		TonB-dependent receptor SusC
+ELICBCKE_00102	gene	susC_1		
+ELICBCKE_00103	CDS			hypothetical protein
+ELICBCKE_00103	gene			
+ELICBCKE_00104	CDS			hypothetical protein
+ELICBCKE_00104	gene			
+ELICBCKE_00105	CDS			hypothetical protein
+ELICBCKE_00105	gene			
+ELICBCKE_00106	CDS		3.5.1.93	Glutaryl-7-aminocephalosporanic-acid acylase
+ELICBCKE_00106	gene			
+ELICBCKE_00107	CDS			hypothetical protein
+ELICBCKE_00107	gene			
+ELICBCKE_00108	CDS		2.1.1.-	Phthiotriol/phenolphthiotriol dimycocerosates methyltransferase
+ELICBCKE_00108	gene			
+ELICBCKE_00109	CDS			hypothetical protein
+ELICBCKE_00109	gene			
+ELICBCKE_00110	CDS			hypothetical protein
+ELICBCKE_00110	gene			
+ELICBCKE_00111	CDS			hypothetical protein
+ELICBCKE_00111	gene			
+ELICBCKE_00112	CDS			hypothetical protein
+ELICBCKE_00112	gene			
+ELICBCKE_00113	CDS			hypothetical protein
+ELICBCKE_00113	gene			
+ELICBCKE_00114	CDS			hypothetical protein
+ELICBCKE_00114	gene			
+ELICBCKE_00115	CDS			hypothetical protein
+ELICBCKE_00115	gene			
+ELICBCKE_00116	CDS			hypothetical protein
+ELICBCKE_00116	gene			
+ELICBCKE_00117	CDS	resA_1		Thiol-disulfide oxidoreductase ResA
+ELICBCKE_00117	gene	resA_1		
+ELICBCKE_00118	CDS	dsbD	1.8.1.8	Thiol:disulfide interchange protein DsbD
+ELICBCKE_00118	gene	dsbD		
+ELICBCKE_00119	CDS			putative NTE family protein
+ELICBCKE_00119	gene			
+ELICBCKE_00120	CDS		5.2.1.8	Putative peptidyl-prolyl cis-trans isomerase
+ELICBCKE_00120	gene			
+ELICBCKE_00121	CDS	pyrE	2.4.2.10	Orotate phosphoribosyltransferase
+ELICBCKE_00121	gene	pyrE		
+ELICBCKE_00122	CDS	pyrF	4.1.1.23	Orotidine 5'-phosphate decarboxylase
+ELICBCKE_00122	gene	pyrF		
+ELICBCKE_00123	CDS		2.1.1.315	27-O-demethylrifamycin SV methyltransferase
+ELICBCKE_00123	gene			
+ELICBCKE_00124	CDS			hypothetical protein
+ELICBCKE_00124	gene			
+ELICBCKE_00125	CDS			hypothetical protein
+ELICBCKE_00125	gene			
+ELICBCKE_00126	CDS			hypothetical protein
+ELICBCKE_00126	gene			
+ELICBCKE_00127	CDS	opuE_1		Osmoregulated proline transporter OpuE
+ELICBCKE_00127	gene	opuE_1		
+ELICBCKE_00128	CDS			hypothetical protein
+ELICBCKE_00128	gene			
+ELICBCKE_00129	CDS			hypothetical protein
+ELICBCKE_00129	gene			
+ELICBCKE_00130	CDS	gltP		Proton/glutamate-aspartate symporter
+ELICBCKE_00130	gene	gltP		
+ELICBCKE_00131	CDS			hypothetical protein
+ELICBCKE_00131	gene			
+ELICBCKE_00132	CDS	hflX		GTPase HflX
+ELICBCKE_00132	gene	hflX		
+ELICBCKE_00133	CDS			hypothetical protein
+ELICBCKE_00133	gene			
+ELICBCKE_00134	CDS			hypothetical protein
+ELICBCKE_00134	gene			
+ELICBCKE_00135	CDS	spk1	2.7.11.1	Serine/threonine-protein kinase PK-1
+ELICBCKE_00135	gene	spk1		
+ELICBCKE_00136	CDS	rsmB	2.1.1.176	Ribosomal RNA small subunit methyltransferase B
+ELICBCKE_00136	gene	rsmB		
+ELICBCKE_00137	CDS	fmt	2.1.2.9	Methionyl-tRNA formyltransferase
+ELICBCKE_00137	gene	fmt		
+ELICBCKE_00138	CDS	def	3.5.1.88	Peptide deformylase
+ELICBCKE_00138	gene	def		
+ELICBCKE_00139	CDS			hypothetical protein
+ELICBCKE_00139	gene			
+ELICBCKE_00140	CDS	kinA	2.7.13.3	Sporulation kinase A
+ELICBCKE_00140	gene	kinA		
+ELICBCKE_00141	CDS			hypothetical protein
+ELICBCKE_00141	gene			
+ELICBCKE_00142	CDS			hypothetical protein
+ELICBCKE_00142	gene			
+ELICBCKE_00143	CDS	tagB_1	2.7.8.-	Teichoic acid glycerol-phosphate primase
+ELICBCKE_00143	gene	tagB_1		
+ELICBCKE_00144	CDS	kpsD_1		Polysialic acid transport protein KpsD
+ELICBCKE_00144	gene	kpsD_1		
+ELICBCKE_00145	CDS			hypothetical protein
+ELICBCKE_00145	gene			
+ELICBCKE_00146	CDS	sat/cysC		putative bifunctional SAT/APS kinase
+ELICBCKE_00146	gene	sat/cysC		
+ELICBCKE_00147	CDS	smc_1		Chromosome partition protein Smc
+ELICBCKE_00147	gene	smc_1		
+ELICBCKE_00148	CDS	recJ	3.1.-.-	Single-stranded-DNA-specific exonuclease RecJ
+ELICBCKE_00148	gene	recJ		
+ELICBCKE_00149	CDS	fabH1_1	2.3.1.180	3-oxoacyl-[acyl-carrier-protein] synthase 3 protein 1
+ELICBCKE_00149	gene	fabH1_1		
+ELICBCKE_00150	CDS	acdA_2	1.3.99.-	Acyl-CoA dehydrogenase
+ELICBCKE_00150	gene	acdA_2		
+ELICBCKE_00151	CDS	pgpH	3.1.4.-	Cyclic-di-AMP phosphodiesterase PgpH
+ELICBCKE_00151	gene	pgpH		
+ELICBCKE_00152	CDS	ybeY	3.1.-.-	Endoribonuclease YbeY
+ELICBCKE_00152	gene	ybeY		
+ELICBCKE_00153	CDS	mazG	3.6.1.8	Nucleoside triphosphate pyrophosphohydrolase
+ELICBCKE_00153	gene	mazG		
+ELICBCKE_00154	CDS			hypothetical protein
+ELICBCKE_00154	gene			
+ELICBCKE_00155	CDS			hypothetical protein
+ELICBCKE_00155	gene			
+ELICBCKE_00156	CDS	psdht	4.2.1.-	Phenylserine dehydratase
+ELICBCKE_00156	gene	psdht		
+ELICBCKE_00157	CDS			hypothetical protein
+ELICBCKE_00157	gene			
+ELICBCKE_00158	CDS	bepA_1	3.4.-.-	Beta-barrel assembly-enhancing protease
+ELICBCKE_00158	gene	bepA_1		
+ELICBCKE_00159	CDS			hypothetical protein
+ELICBCKE_00159	gene			
+ELICBCKE_00160	CDS			hypothetical protein
+ELICBCKE_00160	gene			
+ELICBCKE_00161	CDS			hypothetical protein
+ELICBCKE_00161	gene			
+ELICBCKE_00162	CDS			hypothetical protein
+ELICBCKE_00162	gene			
+ELICBCKE_00163	CDS			Cyclic AMP receptor protein
+ELICBCKE_00163	gene			
+ELICBCKE_00164	CDS	envC		Murein hydrolase activator EnvC
+ELICBCKE_00164	gene	envC		
+ELICBCKE_00165	CDS	dnaX_1	2.7.7.7	DNA polymerase III subunit gamma/tau
+ELICBCKE_00165	gene	dnaX_1		
+ELICBCKE_00166	CDS	metG	6.1.1.10	Methionine--tRNA ligase
+ELICBCKE_00166	gene	metG		
+ELICBCKE_00167	CDS			hypothetical protein
+ELICBCKE_00167	gene			
+ELICBCKE_00168	CDS	ycfH	3.1.-.-	putative metal-dependent hydrolase YcfH
+ELICBCKE_00168	gene	ycfH		
+ELICBCKE_00169	CDS	rsmA	2.1.1.182	Ribosomal RNA small subunit methyltransferase A
+ELICBCKE_00169	gene	rsmA		
+ELICBCKE_00170	CDS	sigA_1		RNA polymerase sigma factor SigA
+ELICBCKE_00170	gene	sigA_1		
+ELICBCKE_00171	CDS	rpsU		30S ribosomal protein S21
+ELICBCKE_00171	gene	rpsU		
+ELICBCKE_00172	CDS	glmM	5.4.2.10	Phosphoglucosamine mutase
+ELICBCKE_00172	gene	glmM		
+ELICBCKE_00173	CDS	deoC	4.1.2.4	Deoxyribose-phosphate aldolase
+ELICBCKE_00173	gene	deoC		
+ELICBCKE_00174	CDS	aldA_2	1.2.1.3	Putative aldehyde dehydrogenase AldA
+ELICBCKE_00174	gene	aldA_2		
+ELICBCKE_00175	CDS	betB	1.2.1.8	NAD/NADP-dependent betaine aldehyde dehydrogenase
+ELICBCKE_00175	gene	betB		
+ELICBCKE_00176	CDS	punA	2.4.2.1	Purine nucleoside phosphorylase 1
+ELICBCKE_00176	gene	punA		
+ELICBCKE_00177	CDS	rlmCD	2.1.1.189	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+ELICBCKE_00177	gene	rlmCD		
+ELICBCKE_00178	CDS	kch_1		Voltage-gated potassium channel Kch
+ELICBCKE_00178	gene	kch_1		
+ELICBCKE_00179	CDS	crp		CRP-like cAMP-activated global transcriptional regulator
+ELICBCKE_00179	gene	crp		
+ELICBCKE_00180	CDS	valS	6.1.1.9	Valine--tRNA ligase
+ELICBCKE_00180	gene	valS		
+ELICBCKE_00181	CDS			hypothetical protein
+ELICBCKE_00181	gene			
+ELICBCKE_00182	CDS	recG	3.6.4.12	ATP-dependent DNA helicase RecG
+ELICBCKE_00182	gene	recG		
+ELICBCKE_00183	CDS	ubiG	2.1.1.222	Ubiquinone biosynthesis O-methyltransferase
+ELICBCKE_00183	gene	ubiG		
+ELICBCKE_00184	CDS			hypothetical protein
+ELICBCKE_00184	gene			
+ELICBCKE_00185	CDS			hypothetical protein
+ELICBCKE_00185	gene			
+ELICBCKE_00186	CDS	wbbL_1	2.4.1.289	N-acetylglucosaminyl-diphospho-decaprenol L-rhamnosyltransferase
+ELICBCKE_00186	gene	wbbL_1		
+ELICBCKE_00187	CDS			hypothetical protein
+ELICBCKE_00187	gene			
+ELICBCKE_00188	CDS	cca		Multifunctional CCA protein
+ELICBCKE_00188	gene	cca		
+ELICBCKE_00189	CDS			hypothetical protein
+ELICBCKE_00189	gene			
+ELICBCKE_00190	CDS	tolC		Outer membrane protein TolC
+ELICBCKE_00190	gene	tolC		
+ELICBCKE_00191	CDS	macA		Macrolide export protein MacA
+ELICBCKE_00191	gene	macA		
+ELICBCKE_00192	CDS	yknY_1	3.6.3.-	putative ABC transporter ATP-binding protein YknY
+ELICBCKE_00192	gene	yknY_1		
+ELICBCKE_00193	CDS	macB_1	3.6.3.-	Macrolide export ATP-binding/permease protein MacB
+ELICBCKE_00193	gene	macB_1		
+ELICBCKE_00194	CDS	macB_2	3.6.3.-	Macrolide export ATP-binding/permease protein MacB
+ELICBCKE_00194	gene	macB_2		
+ELICBCKE_00195	CDS	kpsU	2.7.7.38	3-deoxy-manno-octulosonate cytidylyltransferase
+ELICBCKE_00195	gene	kpsU		
+ELICBCKE_00196	CDS	pyrG	6.3.4.2	CTP synthase
+ELICBCKE_00196	gene	pyrG		
+ELICBCKE_00197	CDS	kdsA	2.5.1.55	2-dehydro-3-deoxyphosphooctonate aldolase
+ELICBCKE_00197	gene	kdsA		
+ELICBCKE_00198	CDS	kdsC	3.1.3.45	3-deoxy-D-manno-octulosonate 8-phosphate phosphatase KdsC
+ELICBCKE_00198	gene	kdsC		
+ELICBCKE_00199	CDS			hypothetical protein
+ELICBCKE_00199	gene			
+ELICBCKE_00200	CDS	lptB_1	3.6.3.-	Lipopolysaccharide export system ATP-binding protein LptB
+ELICBCKE_00200	gene	lptB_1		
+ELICBCKE_00201	CDS	rpoN		RNA polymerase sigma-54 factor
+ELICBCKE_00201	gene	rpoN		
+ELICBCKE_00202	CDS	hflK		Modulator of FtsH protease HflK
+ELICBCKE_00202	gene	hflK		
+ELICBCKE_00203	CDS	hflC		Modulator of FtsH protease HflC
+ELICBCKE_00203	gene	hflC		
+ELICBCKE_00204	CDS	argF	2.1.3.3	Ornithine carbamoyltransferase
+ELICBCKE_00204	gene	argF		
+ELICBCKE_00205	CDS			hypothetical protein
+ELICBCKE_00205	gene			
+ELICBCKE_00206	CDS			hypothetical protein
+ELICBCKE_00206	gene			
+ELICBCKE_00207	CDS			hypothetical protein
+ELICBCKE_00207	gene			
+ELICBCKE_00208	CDS	lpxH	3.6.1.54	UDP-2,3-diacylglucosamine hydrolase
+ELICBCKE_00208	gene	lpxH		
+ELICBCKE_00209	CDS	tolB_1		Protein TolB
+ELICBCKE_00209	gene	tolB_1		
+ELICBCKE_00210	CDS	radA	3.6.4.-	DNA repair protein RadA
+ELICBCKE_00210	gene	radA		
+ELICBCKE_00211	CDS	tgt	2.4.2.29	Queuine tRNA-ribosyltransferase
+ELICBCKE_00211	gene	tgt		
+ELICBCKE_00212	CDS	nudB	3.6.1.67	Dihydroneopterin triphosphate diphosphatase
+ELICBCKE_00212	gene	nudB		
+ELICBCKE_00213	CDS	bcp_1	1.11.1.15	Putative peroxiredoxin
+ELICBCKE_00213	gene	bcp_1		
+ELICBCKE_00214	CDS	bcp_2	1.11.1.15	Putative peroxiredoxin bcp
+ELICBCKE_00214	gene	bcp_2		
+ELICBCKE_00215	CDS	ltaS1		Lipoteichoic acid synthase 1
+ELICBCKE_00215	gene	ltaS1		
+ELICBCKE_00216	CDS			hypothetical protein
+ELICBCKE_00216	gene			
+ELICBCKE_00217	CDS			hypothetical protein
+ELICBCKE_00217	gene			
+ELICBCKE_00218	CDS	cysM	2.5.1.47	Cysteine synthase
+ELICBCKE_00218	gene	cysM		
+ELICBCKE_00219	CDS	resA_2		Thiol-disulfide oxidoreductase ResA
+ELICBCKE_00219	gene	resA_2		
+ELICBCKE_00220	CDS		3.4.21.66	Thermitase
+ELICBCKE_00220	gene			
+ELICBCKE_00221	CDS	uvrC		UvrABC system protein C
+ELICBCKE_00221	gene	uvrC		
+ELICBCKE_00222	CDS			hypothetical protein
+ELICBCKE_00222	gene			
+ELICBCKE_00223	CDS			hypothetical protein
+ELICBCKE_00223	gene			
+ELICBCKE_00224	CDS	serC	2.6.1.52	Phosphoserine aminotransferase
+ELICBCKE_00224	gene	serC		
+ELICBCKE_00225	CDS			hypothetical protein
+ELICBCKE_00225	gene			
+ELICBCKE_00226	CDS			hypothetical protein
+ELICBCKE_00226	gene			
+ELICBCKE_00227	CDS			hypothetical protein
+ELICBCKE_00227	gene			
+ELICBCKE_00228	CDS	sigW_1		ECF RNA polymerase sigma factor SigW
+ELICBCKE_00228	gene	sigW_1		
+ELICBCKE_00229	CDS	pcrA_1	3.6.4.12	ATP-dependent DNA helicase PcrA
+ELICBCKE_00229	gene	pcrA_1		
+ELICBCKE_00230	CDS			hypothetical protein
+ELICBCKE_00230	gene			
+ELICBCKE_00231	CDS			hypothetical protein
+ELICBCKE_00231	gene			
+ELICBCKE_00232	CDS			hypothetical protein
+ELICBCKE_00232	gene			
+ELICBCKE_00233	CDS			hypothetical protein
+ELICBCKE_00233	gene			
+ELICBCKE_00234	CDS			hypothetical protein
+ELICBCKE_00234	gene			
+ELICBCKE_00235	CDS			hypothetical protein
+ELICBCKE_00235	gene			
+ELICBCKE_00236	CDS	susC_2		TonB-dependent receptor SusC
+ELICBCKE_00236	gene	susC_2		
+ELICBCKE_00237	CDS		3.1.4.-	3'3'-cGAMP-specific phosphodiesterase 3
+ELICBCKE_00237	gene			
+ELICBCKE_00238	CDS	yflS		Putative malate transporter YflS
+ELICBCKE_00238	gene	yflS		
+ELICBCKE_00239	CDS	mepA		Multidrug export protein MepA
+ELICBCKE_00239	gene	mepA		
+ELICBCKE_00240	CDS		4.2.1.96	Putative pterin-4-alpha-carbinolamine dehydratase
+ELICBCKE_00240	gene			
+ELICBCKE_00241	CDS	livH		High-affinity branched-chain amino acid transport system permease protein LivH
+ELICBCKE_00241	gene	livH		
+ELICBCKE_00242	CDS	xylH		Xylose transport system permease protein XylH
+ELICBCKE_00242	gene	xylH		
+ELICBCKE_00243	CDS	braC		Leucine-, isoleucine-, valine-, threonine-, and alanine-binding protein
+ELICBCKE_00243	gene	braC		
+ELICBCKE_00244	CDS	lptB_2	3.6.3.-	Lipopolysaccharide export system ATP-binding protein LptB
+ELICBCKE_00244	gene	lptB_2		
+ELICBCKE_00245	CDS	livF		High-affinity branched-chain amino acid transport ATP-binding protein LivF
+ELICBCKE_00245	gene	livF		
+ELICBCKE_00246	CDS		6.2.1.3	Long-chain-fatty-acid--CoA ligase FadD15
+ELICBCKE_00246	gene			
+ELICBCKE_00247	CDS			hypothetical protein
+ELICBCKE_00247	gene			
+ELICBCKE_00248	CDS		1.-.-.-	putative oxidoreductase
+ELICBCKE_00248	gene			
+ELICBCKE_00249	CDS	pqqB		Coenzyme PQQ synthesis protein B
+ELICBCKE_00249	gene	pqqB		
+ELICBCKE_00250	CDS			hypothetical protein
+ELICBCKE_00250	gene			
+ELICBCKE_00251	CDS	sglT_1		Sodium/glucose cotransporter
+ELICBCKE_00251	gene	sglT_1		
+ELICBCKE_00252	CDS	lytB		Amidase enhancer
+ELICBCKE_00252	gene	lytB		
+ELICBCKE_00253	CDS			hypothetical protein
+ELICBCKE_00253	gene			
+ELICBCKE_00254	CDS	nagZ_1	3.2.1.52	Beta-hexosaminidase
+ELICBCKE_00254	gene	nagZ_1		
+ELICBCKE_00255	CDS	nagZ_2	3.2.1.52	Beta-hexosaminidase
+ELICBCKE_00255	gene	nagZ_2		
+ELICBCKE_00256	CDS			hypothetical protein
+ELICBCKE_00256	gene			
+ELICBCKE_00257	CDS			hypothetical protein
+ELICBCKE_00257	gene			
+ELICBCKE_00258	CDS	ydhD	3.2.-.-	Putative sporulation-specific glycosylase YdhD
+ELICBCKE_00258	gene	ydhD		
+ELICBCKE_00259	CDS	argE	3.5.1.16	Acetylornithine deacetylase
+ELICBCKE_00259	gene	argE		
+ELICBCKE_00260	CDS			hypothetical protein
+ELICBCKE_00260	gene			
+ELICBCKE_00261	CDS	hcf136		Ycf48-like protein
+ELICBCKE_00261	gene	hcf136		
+ELICBCKE_00262	CDS	vpr	3.4.21.-	Minor extracellular protease vpr
+ELICBCKE_00262	gene	vpr		
+ELICBCKE_00263	CDS			hypothetical protein
+ELICBCKE_00263	gene			
+ELICBCKE_00264	CDS			hypothetical protein
+ELICBCKE_00264	gene			
+ELICBCKE_00265	CDS	sigW_2		ECF RNA polymerase sigma factor SigW
+ELICBCKE_00265	gene	sigW_2		
+ELICBCKE_00266	CDS			hypothetical protein
+ELICBCKE_00266	gene			
+ELICBCKE_00267	CDS	susC_3		TonB-dependent receptor SusC
+ELICBCKE_00267	gene	susC_3		
+ELICBCKE_00268	CDS	resA_3		Thiol-disulfide oxidoreductase ResA
+ELICBCKE_00268	gene	resA_3		
+ELICBCKE_00269	CDS	nagK	3.7.1.20	Fumarylpyruvate hydrolase
+ELICBCKE_00269	gene	nagK		
+ELICBCKE_00270	CDS	yhdJ_1	2.1.1.72	DNA adenine methyltransferase YhdJ
+ELICBCKE_00270	gene	yhdJ_1		
+ELICBCKE_00271	CDS			hypothetical protein
+ELICBCKE_00271	gene			
+ELICBCKE_00272	CDS	btuB_1		Vitamin B12 transporter BtuB
+ELICBCKE_00272	gene	btuB_1		
+ELICBCKE_00273	CDS			hypothetical protein
+ELICBCKE_00273	gene			
+ELICBCKE_00274	CDS			hypothetical protein
+ELICBCKE_00274	gene			
+ELICBCKE_00275	CDS			putative TonB-dependent receptor
+ELICBCKE_00275	gene			
+ELICBCKE_00276	CDS			hypothetical protein
+ELICBCKE_00276	gene			
+ELICBCKE_00277	CDS			hypothetical protein
+ELICBCKE_00277	gene			
+ELICBCKE_00278	CDS	clcA	1.13.11.-	Chlorocatechol 1,2-dioxygenase
+ELICBCKE_00278	gene	clcA		
+ELICBCKE_00279	CDS			hypothetical protein
+ELICBCKE_00279	gene			
+ELICBCKE_00280	CDS			hypothetical protein
+ELICBCKE_00280	gene			
+ELICBCKE_00281	CDS			hypothetical protein
+ELICBCKE_00281	gene			
+ELICBCKE_00282	CDS			hypothetical protein
+ELICBCKE_00282	gene			
+ELICBCKE_00283	tRNA			tRNA-Asp(gtc)
+ELICBCKE_00283	gene			
+ELICBCKE_00284	CDS			hypothetical protein
+ELICBCKE_00284	gene			
+ELICBCKE_00285	CDS	mltG	4.2.2.-	Endolytic murein transglycosylase
+ELICBCKE_00285	gene	mltG		
+ELICBCKE_00286	CDS	pcrA_2	3.6.4.12	ATP-dependent DNA helicase PcrA
+ELICBCKE_00286	gene	pcrA_2		
+ELICBCKE_00287	CDS	fur		Ferric uptake regulation protein
+ELICBCKE_00287	gene	fur		
+ELICBCKE_00288	CDS	feoA		Putative Fe(2+) transport protein A
+ELICBCKE_00288	gene	feoA		
+ELICBCKE_00289	CDS	feoB		Fe(2+) transporter FeoB
+ELICBCKE_00289	gene	feoB		
+ELICBCKE_00290	CDS			hypothetical protein
+ELICBCKE_00290	gene			
+ELICBCKE_00291	CDS			hypothetical protein
+ELICBCKE_00291	gene			
+ELICBCKE_00292	CDS	yhaM	3.1.-.-	3'-5' exoribonuclease YhaM
+ELICBCKE_00292	gene	yhaM		
+ELICBCKE_00293	CDS			hypothetical protein
+ELICBCKE_00293	gene			
+ELICBCKE_00294	CDS			hypothetical protein
+ELICBCKE_00294	gene			
+ELICBCKE_00295	CDS			hypothetical protein
+ELICBCKE_00295	gene			
+ELICBCKE_00296	CDS	btuB_2		Vitamin B12 transporter BtuB
+ELICBCKE_00296	gene	btuB_2		
+ELICBCKE_00297	CDS	ykfC	3.4.-.-	Gamma-D-glutamyl-L-lysine endopeptidase
+ELICBCKE_00297	gene	ykfC		
+ELICBCKE_00298	CDS			hypothetical protein
+ELICBCKE_00298	gene			
+ELICBCKE_00299	CDS	trpS	6.1.1.2	Tryptophan--tRNA ligase
+ELICBCKE_00299	gene	trpS		
+ELICBCKE_00300	CDS	scpA_1		Segregation and condensation protein A
+ELICBCKE_00300	gene	scpA_1		
+ELICBCKE_00301	CDS	scpB		Segregation and condensation protein B 
+ELICBCKE_00301	gene	scpB		
+ELICBCKE_00302	CDS	rluB	5.4.99.22	Ribosomal large subunit pseudouridine synthase B
+ELICBCKE_00302	gene	rluB		
+ELICBCKE_00303	CDS	cmk	2.7.4.25	Cytidylate kinase
+ELICBCKE_00303	gene	cmk		
+ELICBCKE_00304	CDS	rpsA		30S ribosomal protein S1
+ELICBCKE_00304	gene	rpsA		
+ELICBCKE_00305	CDS			hypothetical protein
+ELICBCKE_00305	gene			
+ELICBCKE_00306	CDS	tsaD	2.3.1.234	tRNA N6-adenosine threonylcarbamoyltransferase
+ELICBCKE_00306	gene	tsaD		
+ELICBCKE_00307	CDS			hypothetical protein
+ELICBCKE_00307	gene			
+ELICBCKE_00308	CDS	rkpK	1.1.1.22	UDP-glucose 6-dehydrogenase
+ELICBCKE_00308	gene	rkpK		
+ELICBCKE_00309	CDS	rmlC	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+ELICBCKE_00309	gene	rmlC		
+ELICBCKE_00310	CDS	rffG	4.2.1.46	dTDP-glucose 4,6-dehydratase 2
+ELICBCKE_00310	gene	rffG		
+ELICBCKE_00311	CDS	kpsD_2		Polysialic acid transport protein KpsD
+ELICBCKE_00311	gene	kpsD_2		
+ELICBCKE_00312	CDS			hypothetical protein
+ELICBCKE_00312	gene			
+ELICBCKE_00313	CDS			hypothetical protein
+ELICBCKE_00313	gene			
+ELICBCKE_00314	CDS			hypothetical protein
+ELICBCKE_00314	gene			
+ELICBCKE_00315	CDS			hypothetical protein
+ELICBCKE_00315	gene			
+ELICBCKE_00316	CDS	pgaC	2.4.1.-	Poly-beta-1,6-N-acetyl-D-glucosamine synthase
+ELICBCKE_00316	gene	pgaC		
+ELICBCKE_00317	CDS	leuS	6.1.1.4	Leucine--tRNA ligase
+ELICBCKE_00317	gene	leuS		
+ELICBCKE_00318	CDS	kch_2		Voltage-gated potassium channel Kch
+ELICBCKE_00318	gene	kch_2		
+ELICBCKE_00319	tRNA			tRNA-Arg(ccg)
+ELICBCKE_00319	gene			
+ELICBCKE_00320	CDS	folD		Bifunctional protein FolD protein
+ELICBCKE_00320	gene	folD		
+ELICBCKE_00321	CDS	zapA		Cell division protein ZapA
+ELICBCKE_00321	gene	zapA		
+ELICBCKE_00322	CDS	pheT	6.1.1.20	Phenylalanine--tRNA ligase beta subunit
+ELICBCKE_00322	gene	pheT		
+ELICBCKE_00323	CDS	pheS	6.1.1.20	Phenylalanine--tRNA ligase alpha subunit
+ELICBCKE_00323	gene	pheS		
+ELICBCKE_00324	CDS	rplT		50S ribosomal protein L20
+ELICBCKE_00324	gene	rplT		
+ELICBCKE_00325	CDS	rpmI		50S ribosomal protein L35
+ELICBCKE_00325	gene	rpmI		
+ELICBCKE_00326	CDS	infC		Translation initiation factor IF-3
+ELICBCKE_00326	gene	infC		
+ELICBCKE_00327	CDS	thrZ	6.1.1.3	Threonine--tRNA ligase 2
+ELICBCKE_00327	gene	thrZ		
+ELICBCKE_00328	tRNA			tRNA-Val(gac)
+ELICBCKE_00328	gene			
+ELICBCKE_00329	CDS		3.4.21.-	putative CtpA-like serine protease
+ELICBCKE_00329	gene			
+ELICBCKE_00330	CDS	tmk	2.7.4.9	Thymidylate kinase
+ELICBCKE_00330	gene	tmk		
+ELICBCKE_00331	CDS	rsmI	2.1.1.198	Ribosomal RNA small subunit methyltransferase I
+ELICBCKE_00331	gene	rsmI		
+ELICBCKE_00332	CDS	lat	2.6.1.36	putative L-lysine-epsilon aminotransferase
+ELICBCKE_00332	gene	lat		
+ELICBCKE_00333	CDS	gabD	1.2.1.79	Succinate-semialdehyde dehydrogenase [NADP(+)] GabD
+ELICBCKE_00333	gene	gabD		
+ELICBCKE_00334	CDS	rocD	2.6.1.13	Ornithine aminotransferase
+ELICBCKE_00334	gene	rocD		
+ELICBCKE_00335	CDS			putative ABC transporter ATP-binding protein
+ELICBCKE_00335	gene			
+ELICBCKE_00336	CDS			hypothetical protein
+ELICBCKE_00336	gene			
+ELICBCKE_00337	CDS			hypothetical protein
+ELICBCKE_00337	gene			
+ELICBCKE_00338	CDS			hypothetical protein
+ELICBCKE_00338	gene			
+ELICBCKE_00339	CDS			hypothetical protein
+ELICBCKE_00339	gene			
+ELICBCKE_00340	CDS			hypothetical protein
+ELICBCKE_00340	gene			
+ELICBCKE_00341	CDS			hypothetical protein
+ELICBCKE_00341	gene			
+ELICBCKE_00342	CDS			hypothetical protein
+ELICBCKE_00342	gene			
+ELICBCKE_00343	CDS			hypothetical protein
+ELICBCKE_00343	gene			
+ELICBCKE_00344	CDS			hypothetical protein
+ELICBCKE_00344	gene			
+ELICBCKE_00345	CDS			hypothetical protein
+ELICBCKE_00345	gene			
+ELICBCKE_00346	CDS			hypothetical protein
+ELICBCKE_00346	gene			
+ELICBCKE_00347	CDS			hypothetical protein
+ELICBCKE_00347	gene			
+ELICBCKE_00348	CDS	fadN	1.1.1.35	putative 3-hydroxyacyl-CoA dehydrogenase
+ELICBCKE_00348	gene	fadN		
+ELICBCKE_00349	CDS			hypothetical protein
+ELICBCKE_00349	gene			
+ELICBCKE_00350	CDS	fadA	2.3.1.16	3-ketoacyl-CoA thiolase
+ELICBCKE_00350	gene	fadA		
+ELICBCKE_00351	CDS	fadE	1.3.99.-	putative acyl-CoA dehydrogenase
+ELICBCKE_00351	gene	fadE		
+ELICBCKE_00352	CDS	yfiR		putative HTH-type transcriptional regulator YfiR
+ELICBCKE_00352	gene	yfiR		
+ELICBCKE_00353	CDS			hypothetical protein
+ELICBCKE_00353	gene			
+ELICBCKE_00354	CDS	rsxG		Electron transport complex subunit RsxG
+ELICBCKE_00354	gene	rsxG		
+ELICBCKE_00355	CDS			hypothetical protein
+ELICBCKE_00355	gene			
+ELICBCKE_00356	CDS	srpR		HTH-type transcriptional regulator SrpR
+ELICBCKE_00356	gene	srpR		
+ELICBCKE_00357	CDS	cirA_1		Colicin I receptor
+ELICBCKE_00357	gene	cirA_1		
+ELICBCKE_00358	CDS			hypothetical protein
+ELICBCKE_00358	gene			
+ELICBCKE_00359	CDS	hutI_1	3.5.2.7	Imidazolonepropionase
+ELICBCKE_00359	gene	hutI_1		
+ELICBCKE_00360	CDS	hutI_2	3.5.2.7	Imidazolonepropionase
+ELICBCKE_00360	gene	hutI_2		
+ELICBCKE_00361	CDS			hypothetical protein
+ELICBCKE_00361	gene			
+ELICBCKE_00362	CDS	kynA	1.13.11.11	Tryptophan 2,3-dioxygenase
+ELICBCKE_00362	gene	kynA		
+ELICBCKE_00363	CDS	gno	1.1.1.69	Gluconate 5-dehydrogenase
+ELICBCKE_00363	gene	gno		
+ELICBCKE_00364	CDS	amnC	1.2.1.32	2-aminomuconic 6-semialdehyde dehydrogenase
+ELICBCKE_00364	gene	amnC		
+ELICBCKE_00365	CDS	fdx4		Ferredoxin, 2Fe-2S
+ELICBCKE_00365	gene	fdx4		
+ELICBCKE_00366	CDS	amnD	3.5.99.5	2-aminomuconate deaminase
+ELICBCKE_00366	gene	amnD		
+ELICBCKE_00367	CDS	nbaC_1	1.13.11.6	3-hydroxyanthranilate 3,4-dioxygenase
+ELICBCKE_00367	gene	nbaC_1		
+ELICBCKE_00368	CDS			hypothetical protein
+ELICBCKE_00368	gene			
+ELICBCKE_00369	CDS			hypothetical protein
+ELICBCKE_00369	gene			
+ELICBCKE_00370	CDS			hypothetical protein
+ELICBCKE_00370	gene			
+ELICBCKE_00371	CDS	rmlD	1.1.1.133	dTDP-4-dehydrorhamnose reductase
+ELICBCKE_00371	gene	rmlD		
+ELICBCKE_00372	CDS	ppm1	2.4.1.-	Polyprenol monophosphomannose synthase
+ELICBCKE_00372	gene	ppm1		
+ELICBCKE_00373	CDS	wbbL_2	2.4.1.289	N-acetylglucosaminyl-diphospho-decaprenol L-rhamnosyltransferase
+ELICBCKE_00373	gene	wbbL_2		
+ELICBCKE_00374	CDS	accA	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+ELICBCKE_00374	gene	accA		
+ELICBCKE_00375	CDS		3.1.-.-	Putative esterase
+ELICBCKE_00375	gene			
+ELICBCKE_00376	CDS	ycgJ	2.1.1.-	putative methyltransferase YcgJ
+ELICBCKE_00376	gene	ycgJ		
+ELICBCKE_00377	CDS			hypothetical protein
+ELICBCKE_00377	gene			
+ELICBCKE_00378	CDS		2.1.3.1	Methylmalonyl-CoA carboxyltransferase 12S subunit
+ELICBCKE_00378	gene			
+ELICBCKE_00379	CDS	liuE	4.1.3.26	3-hydroxy-3-isohexenylglutaryl-CoA/hydroxy-methylglutaryl-CoA lyase
+ELICBCKE_00379	gene	liuE		
+ELICBCKE_00380	CDS	dpgD	4.2.1.17	Enoyl-CoA-hydratase
+ELICBCKE_00380	gene	dpgD		
+ELICBCKE_00381	CDS	ppiC	5.2.1.8	Peptidyl-prolyl cis-trans isomerase C
+ELICBCKE_00381	gene	ppiC		
+ELICBCKE_00382	CDS	tufA		Elongation factor Tu
+ELICBCKE_00382	gene	tufA		
+ELICBCKE_00383	CDS	rpsJ		30S ribosomal protein S10
+ELICBCKE_00383	gene	rpsJ		
+ELICBCKE_00384	CDS	rplC		50S ribosomal protein L3
+ELICBCKE_00384	gene	rplC		
+ELICBCKE_00385	CDS	rplD		50S ribosomal protein L4
+ELICBCKE_00385	gene	rplD		
+ELICBCKE_00386	CDS	rplW		50S ribosomal protein L23
+ELICBCKE_00386	gene	rplW		
+ELICBCKE_00387	CDS	rplB		50S ribosomal protein L2
+ELICBCKE_00387	gene	rplB		
+ELICBCKE_00388	CDS	rpsS		30S ribosomal protein S19
+ELICBCKE_00388	gene	rpsS		
+ELICBCKE_00389	CDS	rplV		50S ribosomal protein L22
+ELICBCKE_00389	gene	rplV		
+ELICBCKE_00390	CDS	rpsC		30S ribosomal protein S3
+ELICBCKE_00390	gene	rpsC		
+ELICBCKE_00391	CDS	rplP		50S ribosomal protein L16
+ELICBCKE_00391	gene	rplP		
+ELICBCKE_00392	CDS	rpmC		50S ribosomal protein L29
+ELICBCKE_00392	gene	rpmC		
+ELICBCKE_00393	CDS	rpsQ		30S ribosomal protein S17
+ELICBCKE_00393	gene	rpsQ		
+ELICBCKE_00394	CDS	rplN		50S ribosomal protein L14
+ELICBCKE_00394	gene	rplN		
+ELICBCKE_00395	CDS	rplX		50S ribosomal protein L24
+ELICBCKE_00395	gene	rplX		
+ELICBCKE_00396	CDS	rplE		50S ribosomal protein L5
+ELICBCKE_00396	gene	rplE		
+ELICBCKE_00397	CDS	rpsZ		30S ribosomal protein S14 type Z
+ELICBCKE_00397	gene	rpsZ		
+ELICBCKE_00398	CDS	rpsH		30S ribosomal protein S8
+ELICBCKE_00398	gene	rpsH		
+ELICBCKE_00399	CDS	rplF		50S ribosomal protein L6
+ELICBCKE_00399	gene	rplF		
+ELICBCKE_00400	CDS	rplR		50S ribosomal protein L18
+ELICBCKE_00400	gene	rplR		
+ELICBCKE_00401	CDS	rpsE		30S ribosomal protein S5
+ELICBCKE_00401	gene	rpsE		
+ELICBCKE_00402	CDS	rpmD		50S ribosomal protein L30
+ELICBCKE_00402	gene	rpmD		
+ELICBCKE_00403	CDS	rplO		50S ribosomal protein L15
+ELICBCKE_00403	gene	rplO		
+ELICBCKE_00404	CDS	secY		Protein translocase subunit SecY
+ELICBCKE_00404	gene	secY		
+ELICBCKE_00405	CDS	map	3.4.11.18	Methionine aminopeptidase 1
+ELICBCKE_00405	gene	map		
+ELICBCKE_00406	CDS	infA		Translation initiation factor IF-1
+ELICBCKE_00406	gene	infA		
+ELICBCKE_00407	CDS	rpsM		30S ribosomal protein S13
+ELICBCKE_00407	gene	rpsM		
+ELICBCKE_00408	CDS	rpsK		30S ribosomal protein S11
+ELICBCKE_00408	gene	rpsK		
+ELICBCKE_00409	CDS	rpsD		30S ribosomal protein S4
+ELICBCKE_00409	gene	rpsD		
+ELICBCKE_00410	CDS	rpoA	2.7.7.6	DNA-directed RNA polymerase subunit alpha
+ELICBCKE_00410	gene	rpoA		
+ELICBCKE_00411	CDS	rplQ		50S ribosomal protein L17
+ELICBCKE_00411	gene	rplQ		
+ELICBCKE_00412	CDS			hypothetical protein
+ELICBCKE_00412	gene			
+ELICBCKE_00413	CDS	hutU	4.2.1.49	Urocanate hydratase
+ELICBCKE_00413	gene	hutU		
+ELICBCKE_00414	CDS	hutI_3	3.5.2.7	Imidazolonepropionase
+ELICBCKE_00414	gene	hutI_3		
+ELICBCKE_00415	CDS			hypothetical protein
+ELICBCKE_00415	gene			
+ELICBCKE_00416	CDS			hypothetical protein
+ELICBCKE_00416	gene			
+ELICBCKE_00417	CDS	vte5	2.7.1.182	Phytol kinase
+ELICBCKE_00417	gene	vte5		
+ELICBCKE_00418	CDS	rebO	1.4.3.23	Flavin-dependent L-tryptophan oxidase RebO
+ELICBCKE_00418	gene	rebO		
+ELICBCKE_00419	CDS	ilvE_2	2.6.1.42	Branched-chain-amino-acid aminotransferase
+ELICBCKE_00419	gene	ilvE_2		
+ELICBCKE_00420	CDS			hypothetical protein
+ELICBCKE_00420	gene			
+ELICBCKE_00421	CDS			hypothetical protein
+ELICBCKE_00421	gene			
+ELICBCKE_00422	CDS	cytR		HTH-type transcriptional repressor CytR
+ELICBCKE_00422	gene	cytR		
+ELICBCKE_00423	CDS			hypothetical protein
+ELICBCKE_00423	gene			
+ELICBCKE_00424	CDS			hypothetical protein
+ELICBCKE_00424	gene			
+ELICBCKE_00425	CDS			hypothetical protein
+ELICBCKE_00425	gene			
+ELICBCKE_00426	CDS	susC_4		TonB-dependent receptor SusC
+ELICBCKE_00426	gene	susC_4		
+ELICBCKE_00427	CDS			hypothetical protein
+ELICBCKE_00427	gene			
+ELICBCKE_00428	CDS	thrB	2.7.1.39	Homoserine kinase
+ELICBCKE_00428	gene	thrB		
+ELICBCKE_00429	CDS	lysJ	2.6.1.-	[LysW]-aminoadipate semialdehyde transaminase
+ELICBCKE_00429	gene	lysJ		
+ELICBCKE_00430	CDS	lacZ	3.2.1.23	Beta-galactosidase
+ELICBCKE_00430	gene	lacZ		
+ELICBCKE_00431	CDS	yidK		putative symporter YidK
+ELICBCKE_00431	gene	yidK		
+ELICBCKE_00432	CDS	ygjK	3.2.1.-	Glucosidase YgjK
+ELICBCKE_00432	gene	ygjK		
+ELICBCKE_00433	CDS	nagA	3.2.1.49	Alpha-N-acetylgalactosaminidase
+ELICBCKE_00433	gene	nagA		
+ELICBCKE_00434	CDS			hypothetical protein
+ELICBCKE_00434	gene			
+ELICBCKE_00435	CDS			hypothetical protein
+ELICBCKE_00435	gene			
+ELICBCKE_00436	CDS	blc		Outer membrane lipoprotein Blc
+ELICBCKE_00436	gene	blc		
+ELICBCKE_00437	CDS			hypothetical protein
+ELICBCKE_00437	gene			
+ELICBCKE_00438	CDS	tpiA	5.3.1.1	Triosephosphate isomerase
+ELICBCKE_00438	gene	tpiA		
+ELICBCKE_00439	CDS	secG		Protein-export membrane protein SecG
+ELICBCKE_00439	gene	secG		
+ELICBCKE_00440	tRNA			tRNA-Leu(gag)
+ELICBCKE_00440	gene			
+ELICBCKE_00441	CDS	bepA_2	3.4.-.-	Beta-barrel assembly-enhancing protease
+ELICBCKE_00441	gene	bepA_2		
+ELICBCKE_00442	CDS	gph_1	3.1.3.18	Phosphoglycolate phosphatase
+ELICBCKE_00442	gene	gph_1		
+ELICBCKE_00443	CDS	acpS	2.7.8.7	Holo-[acyl-carrier-protein] synthase
+ELICBCKE_00443	gene	acpS		
+ELICBCKE_00444	CDS	nnr		Bifunctional NAD(P)H-hydrate repair enzyme Nnr
+ELICBCKE_00444	gene	nnr		
+ELICBCKE_00445	CDS			hypothetical protein
+ELICBCKE_00445	gene			
+ELICBCKE_00446	CDS	murA	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+ELICBCKE_00446	gene	murA		
+ELICBCKE_00447	CDS	trkA		Trk system potassium uptake protein TrkA
+ELICBCKE_00447	gene	trkA		
+ELICBCKE_00448	CDS	trkH		Trk system potassium uptake protein TrkH
+ELICBCKE_00448	gene	trkH		
+ELICBCKE_00449	CDS	crt	4.2.1.150	Short-chain-enoyl-CoA hydratase
+ELICBCKE_00449	gene	crt		
+ELICBCKE_00450	CDS		5.1.1.20	L-Ala-D/L-Glu epimerase
+ELICBCKE_00450	gene			
+ELICBCKE_00451	CDS			hypothetical protein
+ELICBCKE_00451	gene			
+ELICBCKE_00452	CDS			hypothetical protein
+ELICBCKE_00452	gene			
+ELICBCKE_00453	CDS	polA	2.7.7.7	DNA polymerase I
+ELICBCKE_00453	gene	polA		
+ELICBCKE_00454	CDS	natA_1		ABC transporter ATP-binding protein NatA
+ELICBCKE_00454	gene	natA_1		
+ELICBCKE_00455	CDS			hypothetical protein
+ELICBCKE_00455	gene			
+ELICBCKE_00456	CDS			hypothetical protein
+ELICBCKE_00456	gene			
+ELICBCKE_00457	CDS	alr1	5.1.1.1	Alanine racemase 1
+ELICBCKE_00457	gene	alr1		
+ELICBCKE_00458	CDS			hypothetical protein
+ELICBCKE_00458	gene			
+ELICBCKE_00459	CDS	sdcS		Sodium-dependent dicarboxylate transporter SdcS
+ELICBCKE_00459	gene	sdcS		
+ELICBCKE_00460	CDS	sglT_2		Sodium/glucose cotransporter
+ELICBCKE_00460	gene	sglT_2		
+ELICBCKE_00461	CDS			hypothetical protein
+ELICBCKE_00461	gene			
+ELICBCKE_00462	CDS			hypothetical protein
+ELICBCKE_00462	gene			
+ELICBCKE_00463	CDS			hypothetical protein
+ELICBCKE_00463	gene			
+ELICBCKE_00464	CDS			hypothetical protein
+ELICBCKE_00464	gene			
+ELICBCKE_00465	CDS		3.1.2.-	putative acyl-CoA thioester hydrolase
+ELICBCKE_00465	gene			
+ELICBCKE_00466	CDS			hypothetical protein
+ELICBCKE_00466	gene			
+ELICBCKE_00467	CDS	pepA	3.4.11.1	Cytosol aminopeptidase
+ELICBCKE_00467	gene	pepA		
+ELICBCKE_00468	CDS	pulD		Type II secretion system protein D
+ELICBCKE_00468	gene	pulD		
+ELICBCKE_00469	CDS			hypothetical protein
+ELICBCKE_00469	gene			
+ELICBCKE_00470	tRNA			tRNA-Phe(gaa)
+ELICBCKE_00470	gene			
+ELICBCKE_00471	CDS		3.6.1.9	Non-canonical purine NTP pyrophosphatase
+ELICBCKE_00471	gene			
+ELICBCKE_00472	CDS			hypothetical protein
+ELICBCKE_00472	gene			
+ELICBCKE_00473	CDS	ywaD	3.4.11.6	Aminopeptidase YwaD
+ELICBCKE_00473	gene	ywaD		
+ELICBCKE_00474	CDS			hypothetical protein
+ELICBCKE_00474	gene			
+ELICBCKE_00475	CDS			hypothetical protein
+ELICBCKE_00475	gene			
+ELICBCKE_00476	CDS			hypothetical protein
+ELICBCKE_00476	gene			
+ELICBCKE_00477	CDS			hypothetical protein
+ELICBCKE_00477	gene			
+ELICBCKE_00478	CDS			hypothetical protein
+ELICBCKE_00478	gene			
+ELICBCKE_00479	CDS			hypothetical protein
+ELICBCKE_00479	gene			
+ELICBCKE_00480	CDS			hypothetical protein
+ELICBCKE_00480	gene			
+ELICBCKE_00481	CDS			hypothetical protein
+ELICBCKE_00481	gene			
+ELICBCKE_00482	CDS	yhcR	3.1.31.-	Endonuclease YhcR
+ELICBCKE_00482	gene	yhcR		
+ELICBCKE_00483	CDS			hypothetical protein
+ELICBCKE_00483	gene			
+ELICBCKE_00484	CDS	btuB_3		Vitamin B12 transporter BtuB
+ELICBCKE_00484	gene	btuB_3		
+ELICBCKE_00485	CDS			hypothetical protein
+ELICBCKE_00485	gene			
+ELICBCKE_00486	CDS			hypothetical protein
+ELICBCKE_00486	gene			
+ELICBCKE_00487	CDS			hypothetical protein
+ELICBCKE_00487	gene			
+ELICBCKE_00488	CDS			hypothetical protein
+ELICBCKE_00488	gene			
+ELICBCKE_00489	CDS	nudF	3.6.1.13	ADP-ribose pyrophosphatase
+ELICBCKE_00489	gene	nudF		
+ELICBCKE_00490	CDS	queG	1.17.99.6	Epoxyqueuosine reductase
+ELICBCKE_00490	gene	queG		
+ELICBCKE_00491	CDS	elbB	4.2.1.-	Glyoxalase ElbB
+ELICBCKE_00491	gene	elbB		
+ELICBCKE_00492	CDS	nasE	1.7.1.4	Assimilatory nitrite reductase [NAD(P)H] small subunit
+ELICBCKE_00492	gene	nasE		
+ELICBCKE_00493	CDS			hypothetical protein
+ELICBCKE_00493	gene			
+ELICBCKE_00494	CDS			hypothetical protein
+ELICBCKE_00494	gene			
+ELICBCKE_00495	CDS			hypothetical protein
+ELICBCKE_00495	gene			
+ELICBCKE_00496	CDS			hypothetical protein
+ELICBCKE_00496	gene			
+ELICBCKE_00497	CDS	sigW_3		ECF RNA polymerase sigma factor SigW
+ELICBCKE_00497	gene	sigW_3		
+ELICBCKE_00498	CDS	mdh	1.1.1.37	Malate dehydrogenase
+ELICBCKE_00498	gene	mdh		
+ELICBCKE_00499	CDS	rpmA		50S ribosomal protein L27
+ELICBCKE_00499	gene	rpmA		
+ELICBCKE_00500	CDS	rplU		50S ribosomal protein L21
+ELICBCKE_00500	gene	rplU		
+ELICBCKE_00501	CDS	rng	3.1.26.-	Ribonuclease G
+ELICBCKE_00501	gene	rng		
+ELICBCKE_00502	CDS			hypothetical protein
+ELICBCKE_00502	gene			
+ELICBCKE_00503	CDS			hypothetical protein
+ELICBCKE_00503	gene			
+ELICBCKE_00504	CDS	cirA_2		Colicin I receptor
+ELICBCKE_00504	gene	cirA_2		
+ELICBCKE_00505	CDS			hypothetical protein
+ELICBCKE_00505	gene			
+ELICBCKE_00506	CDS	ycf3		Photosystem I assembly protein Ycf3
+ELICBCKE_00506	gene	ycf3		
+ELICBCKE_00507	CDS			hypothetical protein
+ELICBCKE_00507	gene			
+ELICBCKE_00508	CDS			hypothetical protein
+ELICBCKE_00508	gene			
+ELICBCKE_00509	CDS			hypothetical protein
+ELICBCKE_00509	gene			
+ELICBCKE_00510	CDS			hypothetical protein
+ELICBCKE_00510	gene			
+ELICBCKE_00511	CDS	surA	5.2.1.8	Chaperone SurA
+ELICBCKE_00511	gene	surA		
+ELICBCKE_00512	CDS			hypothetical protein
+ELICBCKE_00512	gene			
+ELICBCKE_00513	CDS	aroQ	4.2.1.10	3-dehydroquinate dehydratase
+ELICBCKE_00513	gene	aroQ		
+ELICBCKE_00514	CDS			hypothetical protein
+ELICBCKE_00514	gene			
+ELICBCKE_00515	CDS			hypothetical protein
+ELICBCKE_00515	gene			
+ELICBCKE_00516	CDS		2.4.1.336	Beta-monoglucosyldiacylglycerol synthase
+ELICBCKE_00516	gene			
+ELICBCKE_00517	CDS	mgtE		Magnesium transporter MgtE
+ELICBCKE_00517	gene	mgtE		
+ELICBCKE_00518	CDS			hypothetical protein
+ELICBCKE_00518	gene			
+ELICBCKE_00519	CDS	aviRb	2.1.1.208	23S rRNA (uridine(2479)-2'-O)-methyltransferase
+ELICBCKE_00519	gene	aviRb		
+ELICBCKE_00520	CDS	proS	6.1.1.15	Proline--tRNA ligase
+ELICBCKE_00520	gene	proS		
+ELICBCKE_00521	CDS	recO		DNA repair protein RecO
+ELICBCKE_00521	gene	recO		
+ELICBCKE_00522	CDS			hypothetical protein
+ELICBCKE_00522	gene			
+ELICBCKE_00523	CDS	gluP_1	3.4.21.105	Rhomboid protease GluP
+ELICBCKE_00523	gene	gluP_1		
+ELICBCKE_00524	CDS	pomA_1		Chemotaxis protein PomA
+ELICBCKE_00524	gene	pomA_1		
+ELICBCKE_00525	CDS			hypothetical protein
+ELICBCKE_00525	gene			
+ELICBCKE_00526	CDS			hypothetical protein
+ELICBCKE_00526	gene			
+ELICBCKE_00527	CDS	ftsL_1		Cell division protein FtsL
+ELICBCKE_00527	gene	ftsL_1		
+ELICBCKE_00528	CDS	eno	4.2.1.11	Enolase
+ELICBCKE_00528	gene	eno		
+ELICBCKE_00529	CDS			hypothetical protein
+ELICBCKE_00529	gene			
+ELICBCKE_00530	CDS			hypothetical protein
+ELICBCKE_00530	gene			
+ELICBCKE_00531	CDS	glgM	2.4.1.-	Alpha-maltose-1-phosphate synthase
+ELICBCKE_00531	gene	glgM		
+ELICBCKE_00532	CDS			hypothetical protein
+ELICBCKE_00532	gene			
+ELICBCKE_00533	CDS	epsJ	2.4.-.-	putative glycosyltransferase EpsJ
+ELICBCKE_00533	gene	epsJ		
+ELICBCKE_00534	CDS			hypothetical protein
+ELICBCKE_00534	gene			
+ELICBCKE_00535	CDS			hypothetical protein
+ELICBCKE_00535	gene			
+ELICBCKE_00536	CDS			hypothetical protein
+ELICBCKE_00536	gene			
+ELICBCKE_00537	CDS			hypothetical protein
+ELICBCKE_00537	gene			
+ELICBCKE_00538	CDS			hypothetical protein
+ELICBCKE_00538	gene			
+ELICBCKE_00539	CDS			hypothetical protein
+ELICBCKE_00539	gene			
+ELICBCKE_00540	CDS	amiC	3.5.1.28	N-acetylmuramoyl-L-alanine amidase AmiC
+ELICBCKE_00540	gene	amiC		
+ELICBCKE_00541	CDS	racE	5.1.1.3	Glutamate racemase 1
+ELICBCKE_00541	gene	racE		
+ELICBCKE_00542	CDS	fpgS	6.3.2.17	Folylpolyglutamate synthase
+ELICBCKE_00542	gene	fpgS		
+ELICBCKE_00543	CDS	rho	3.6.4.-	Transcription termination factor Rho
+ELICBCKE_00543	gene	rho		
+ELICBCKE_00544	CDS			hypothetical protein
+ELICBCKE_00544	gene			
+ELICBCKE_00545	CDS	aspC_1	2.6.1.1	Aspartate aminotransferase
+ELICBCKE_00545	gene	aspC_1		
+ELICBCKE_00546	CDS	rpmE		50S ribosomal protein L31
+ELICBCKE_00546	gene	rpmE		
+ELICBCKE_00547	CDS			hypothetical protein
+ELICBCKE_00547	gene			
+ELICBCKE_00548	CDS	prfA_1		Peptide chain release factor 1
+ELICBCKE_00548	gene	prfA_1		
+ELICBCKE_00549	CDS	prmC	2.1.1.297	Release factor glutamine methyltransferase
+ELICBCKE_00549	gene	prmC		
+ELICBCKE_00550	CDS	cyoE	2.5.1.-	Protoheme IX farnesyltransferase
+ELICBCKE_00550	gene	cyoE		
+ELICBCKE_00551	CDS	dnaE	2.7.7.7	DNA polymerase III subunit alpha
+ELICBCKE_00551	gene	dnaE		
+ELICBCKE_00552	CDS	dtd	3.1.1.96	D-aminoacyl-tRNA deacylase
+ELICBCKE_00552	gene	dtd		
+ELICBCKE_00553	CDS	scpA_2	5.4.99.2	Methylmalonyl-CoA mutase
+ELICBCKE_00553	gene	scpA_2		
+ELICBCKE_00554	CDS			hypothetical protein
+ELICBCKE_00554	gene			
+ELICBCKE_00555	CDS	ypdF	3.4.11.-	Aminopeptidase YpdF
+ELICBCKE_00555	gene	ypdF		
+ELICBCKE_00556	CDS	desVI	2.1.1.234	dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucopyranose
+ELICBCKE_00556	gene	desVI		
+ELICBCKE_00557	CDS	alkA		putative bifunctional transcriptional activator/DNA repair enzyme AlkA
+ELICBCKE_00557	gene	alkA		
+ELICBCKE_00558	CDS	yihX	3.1.3.10	Alpha-D-glucose 1-phosphate phosphatase YihX
+ELICBCKE_00558	gene	yihX		
+ELICBCKE_00559	CDS			hypothetical protein
+ELICBCKE_00559	gene			
+ELICBCKE_00560	CDS	tolB_2		Protein TolB
+ELICBCKE_00560	gene	tolB_2		
+ELICBCKE_00561	CDS			hypothetical protein
+ELICBCKE_00561	gene			
+ELICBCKE_00562	CDS			hypothetical protein
+ELICBCKE_00562	gene			
+ELICBCKE_00563	CDS			hypothetical protein
+ELICBCKE_00563	gene			
+ELICBCKE_00564	CDS			hypothetical protein
+ELICBCKE_00564	gene			
+ELICBCKE_00565	CDS	yadH		Inner membrane transport permease YadH
+ELICBCKE_00565	gene	yadH		
+ELICBCKE_00566	CDS	drrA	3.6.3.-	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+ELICBCKE_00566	gene	drrA		
+ELICBCKE_00567	CDS			hypothetical protein
+ELICBCKE_00567	gene			
+ELICBCKE_00568	CDS	yliI	1.1.5.-	Aldose sugar dehydrogenase YliI
+ELICBCKE_00568	gene	yliI		
+ELICBCKE_00569	CDS	ligA	6.5.1.2	DNA ligase
+ELICBCKE_00569	gene	ligA		
+ELICBCKE_00570	CDS			hypothetical protein
+ELICBCKE_00570	gene			
+ELICBCKE_00571	CDS			hypothetical protein
+ELICBCKE_00571	gene			
+ELICBCKE_00572	CDS			hypothetical protein
+ELICBCKE_00572	gene			
+ELICBCKE_00573	CDS			hypothetical protein
+ELICBCKE_00573	gene			
+ELICBCKE_00574	CDS			hypothetical protein
+ELICBCKE_00574	gene			
+ELICBCKE_00575	CDS			hypothetical protein
+ELICBCKE_00575	gene			
+ELICBCKE_00576	CDS			hypothetical protein
+ELICBCKE_00576	gene			
+ELICBCKE_00577	CDS			hypothetical protein
+ELICBCKE_00577	gene			
+ELICBCKE_00578	CDS	stoA		Sporulation thiol-disulfide oxidoreductase A
+ELICBCKE_00578	gene	stoA		
+ELICBCKE_00579	CDS			hypothetical protein
+ELICBCKE_00579	gene			
+ELICBCKE_00580	CDS			hypothetical protein
+ELICBCKE_00580	gene			
+ELICBCKE_00581	CDS			hypothetical protein
+ELICBCKE_00581	gene			
+ELICBCKE_00582	CDS			hypothetical protein
+ELICBCKE_00582	gene			
+ELICBCKE_00583	CDS			hypothetical protein
+ELICBCKE_00583	gene			
+ELICBCKE_00584	CDS	cyaA_1	4.6.1.1	Adenylate cyclase 1
+ELICBCKE_00584	gene	cyaA_1		
+ELICBCKE_00585	CDS	carA	6.3.5.5	Carbamoyl-phosphate synthase small chain
+ELICBCKE_00585	gene	carA		
+ELICBCKE_00586	CDS	carB	6.3.5.5	Carbamoyl-phosphate synthase large chain
+ELICBCKE_00586	gene	carB		
+ELICBCKE_00587	CDS	rmlA	2.7.7.24	Glucose-1-phosphate thymidylyltransferase
+ELICBCKE_00587	gene	rmlA		
+ELICBCKE_00588	CDS	rnhA		14.7 kDa ribonuclease H-like protein
+ELICBCKE_00588	gene	rnhA		
+ELICBCKE_00589	CDS			hypothetical protein
+ELICBCKE_00589	gene			
+ELICBCKE_00590	CDS			hypothetical protein
+ELICBCKE_00590	gene			
+ELICBCKE_00591	CDS			hypothetical protein
+ELICBCKE_00591	gene			
+ELICBCKE_00592	CDS	hldE_1		Bifunctional protein HldE
+ELICBCKE_00592	gene	hldE_1		
+ELICBCKE_00593	CDS			hypothetical protein
+ELICBCKE_00593	gene			
+ELICBCKE_00594	CDS	fetA	3.6.3.-	putative iron export ATP-binding protein FetA
+ELICBCKE_00594	gene	fetA		
+ELICBCKE_00595	CDS	trxB	1.8.1.9	Thioredoxin reductase
+ELICBCKE_00595	gene	trxB		
+ELICBCKE_00596	CDS	trxA		Thioredoxin 1
+ELICBCKE_00596	gene	trxA		
+ELICBCKE_00597	CDS			hypothetical protein
+ELICBCKE_00597	gene			
+ELICBCKE_00598	CDS	natA_2		ABC transporter ATP-binding protein NatA
+ELICBCKE_00598	gene	natA_2		
+ELICBCKE_00599	CDS	pafA	3.1.3.1	Alkaline phosphatase PafA
+ELICBCKE_00599	gene	pafA		
+ELICBCKE_00600	CDS	tyrS	6.1.1.1	Tyrosine--tRNA ligase
+ELICBCKE_00600	gene	tyrS		
+ELICBCKE_00601	CDS	smpB		SsrA-binding protein
+ELICBCKE_00601	gene	smpB		
+ELICBCKE_00602	tRNA			tRNA-Leu(cag)
+ELICBCKE_00602	gene			
+ELICBCKE_00603	CDS			hypothetical protein
+ELICBCKE_00603	gene			
+ELICBCKE_00604	CDS	btrR	2.6.1.100	L-glutamine:2-deoxy-scyllo-inosose aminotransferase
+ELICBCKE_00604	gene	btrR		
+ELICBCKE_00605	CDS			18 kDa heat shock protein
+ELICBCKE_00605	gene			
+ELICBCKE_00606	CDS	fabG2	1.-.-.-	putative oxidoreductase
+ELICBCKE_00606	gene	fabG2		
+ELICBCKE_00607	CDS	rnhB	3.1.26.4	Ribonuclease HII
+ELICBCKE_00607	gene	rnhB		
+ELICBCKE_00608	CDS	comEC		ComE operon protein 3
+ELICBCKE_00608	gene	comEC		
+ELICBCKE_00609	CDS	alsT_1		Amino-acid carrier protein AlsT
+ELICBCKE_00609	gene	alsT_1		
+ELICBCKE_00610	CDS	suhB	3.1.3.25	Inositol-1-monophosphatase
+ELICBCKE_00610	gene	suhB		
+ELICBCKE_00611	CDS	purL	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurL
+ELICBCKE_00611	gene	purL		
+ELICBCKE_00612	CDS	recX		Regulatory protein RecX
+ELICBCKE_00612	gene	recX		
+ELICBCKE_00613	CDS	recA		Protein RecA
+ELICBCKE_00613	gene	recA		
+ELICBCKE_00614	CDS		3.1.4.-	RNA 2',3'-cyclic phosphodiesterase
+ELICBCKE_00614	gene			
+ELICBCKE_00615	CDS	pncC	3.5.1.42	Nicotinamide-nucleotide amidohydrolase PncC
+ELICBCKE_00615	gene	pncC		
+ELICBCKE_00616	CDS	pgpA	3.1.3.27	Phosphatidylglycerophosphatase A
+ELICBCKE_00616	gene	pgpA		
+ELICBCKE_00617	CDS	pgsA2	2.7.8.5	Putative CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyl-transferase 2
+ELICBCKE_00617	gene	pgsA2		
+ELICBCKE_00618	CDS	recR		Recombination protein RecR
+ELICBCKE_00618	gene	recR		
+ELICBCKE_00619	CDS	ybaB		Nucleoid-associated protein YbaB
+ELICBCKE_00619	gene	ybaB		
+ELICBCKE_00620	CDS	dnaX_2	2.7.7.7	DNA polymerase III subunit tau
+ELICBCKE_00620	gene	dnaX_2		
+ELICBCKE_00621	tRNA			tRNA-Ala(cgc)
+ELICBCKE_00621	gene			
+ELICBCKE_00622	CDS			hypothetical protein
+ELICBCKE_00622	gene			
+ELICBCKE_00623	CDS			hypothetical protein
+ELICBCKE_00623	gene			
+ELICBCKE_00624	CDS			hypothetical protein
+ELICBCKE_00624	gene			
+ELICBCKE_00625	CDS			hypothetical protein
+ELICBCKE_00625	gene			
+ELICBCKE_00626	CDS		1.-.-.-	putative FAD-linked oxidoreductase
+ELICBCKE_00626	gene			
+ELICBCKE_00627	CDS			hypothetical protein
+ELICBCKE_00627	gene			
+ELICBCKE_00628	CDS			hypothetical protein
+ELICBCKE_00628	gene			
+ELICBCKE_00629	CDS	glcA	3.2.1.39	Glucan endo-1,3-beta-glucosidase A1
+ELICBCKE_00629	gene	glcA		
+ELICBCKE_00630	CDS	glkA	2.7.1.2	Glucokinase
+ELICBCKE_00630	gene	glkA		
+ELICBCKE_00631	CDS			hypothetical protein
+ELICBCKE_00631	gene			
+ELICBCKE_00632	CDS			hypothetical protein
+ELICBCKE_00632	gene			
+ELICBCKE_00633	CDS			hypothetical protein
+ELICBCKE_00633	gene			
+ELICBCKE_00634	CDS	susC_5		TonB-dependent receptor SusC
+ELICBCKE_00634	gene	susC_5		
+ELICBCKE_00635	CDS			PqqC-like protein
+ELICBCKE_00635	gene			
+ELICBCKE_00636	CDS	mtaB	2.8.4.5	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+ELICBCKE_00636	gene	mtaB		
+ELICBCKE_00637	CDS	dck	2.7.1.74	Deoxyadenosine/deoxycytidine kinase
+ELICBCKE_00637	gene	dck		
+ELICBCKE_00638	CDS			hypothetical protein
+ELICBCKE_00638	gene			
+ELICBCKE_00639	CDS	gcvP	1.4.4.2	Glycine dehydrogenase (decarboxylating)
+ELICBCKE_00639	gene	gcvP		
+ELICBCKE_00640	CDS	gabD1	1.2.1.79	Succinate-semialdehyde dehydrogenase [NADP(+)] 1
+ELICBCKE_00640	gene	gabD1		
+ELICBCKE_00641	CDS	btuB_4		Vitamin B12 transporter BtuB
+ELICBCKE_00641	gene	btuB_4		
+ELICBCKE_00642	CDS			hypothetical protein
+ELICBCKE_00642	gene			
+ELICBCKE_00643	CDS			hypothetical protein
+ELICBCKE_00643	gene			
+ELICBCKE_00644	CDS			hypothetical protein
+ELICBCKE_00644	gene			
+ELICBCKE_00645	CDS	yrrB_1		TPR repeat-containing protein YrrB
+ELICBCKE_00645	gene	yrrB_1		
+ELICBCKE_00646	CDS	bepA_3	3.4.-.-	Beta-barrel assembly-enhancing protease
+ELICBCKE_00646	gene	bepA_3		
+ELICBCKE_00647	CDS	bauA_2	2.6.1.18	Beta-alanine--pyruvate aminotransferase
+ELICBCKE_00647	gene	bauA_2		
+ELICBCKE_00648	CDS	puuD	3.5.1.94	Gamma-glutamyl-gamma-aminobutyrate hydrolase PuuD
+ELICBCKE_00648	gene	puuD		
+ELICBCKE_00649	CDS	puuA	6.3.1.11	Gamma-glutamylputrescine synthetase PuuA
+ELICBCKE_00649	gene	puuA		
+ELICBCKE_00650	CDS			hypothetical protein
+ELICBCKE_00650	gene			
+ELICBCKE_00651	CDS			hypothetical protein
+ELICBCKE_00651	gene			
+ELICBCKE_00652	CDS			hypothetical protein
+ELICBCKE_00652	gene			
+ELICBCKE_00653	CDS			hypothetical protein
+ELICBCKE_00653	gene			
+ELICBCKE_00654	CDS	pilQ_1		Type IV pilus biogenesis and competence protein PilQ
+ELICBCKE_00654	gene	pilQ_1		
+ELICBCKE_00655	CDS			hypothetical protein
+ELICBCKE_00655	gene			
+ELICBCKE_00656	CDS	hxcR		putative type II secretion system protein HxcR
+ELICBCKE_00656	gene	hxcR		
+ELICBCKE_00657	CDS	gspF		Putative type II secretion system protein F
+ELICBCKE_00657	gene	gspF		
+ELICBCKE_00658	CDS	fimA		Fimbrial protein
+ELICBCKE_00658	gene	fimA		
+ELICBCKE_00659	CDS			hypothetical protein
+ELICBCKE_00659	gene			
+ELICBCKE_00660	CDS			hypothetical protein
+ELICBCKE_00660	gene			
+ELICBCKE_00661	CDS			hypothetical protein
+ELICBCKE_00661	gene			
+ELICBCKE_00662	CDS			hypothetical protein
+ELICBCKE_00662	gene			
+ELICBCKE_00663	CDS	comC_1		Type 4 prepilin-like proteins leader peptide-processing enzyme
+ELICBCKE_00663	gene	comC_1		
+ELICBCKE_00664	CDS			hypothetical protein
+ELICBCKE_00664	gene			
+ELICBCKE_00665	CDS			hypothetical protein
+ELICBCKE_00665	gene			
+ELICBCKE_00666	CDS			hypothetical protein
+ELICBCKE_00666	gene			
+ELICBCKE_00667	CDS			hypothetical protein
+ELICBCKE_00667	gene			
+ELICBCKE_00668	CDS			hypothetical protein
+ELICBCKE_00668	gene			
+ELICBCKE_00669	CDS			hypothetical protein
+ELICBCKE_00669	gene			
+ELICBCKE_00670	CDS	algC	5.4.2.2	Phosphomannomutase/phosphoglucomutase
+ELICBCKE_00670	gene	algC		
+ELICBCKE_00671	CDS		2.5.1.10	(2E,6E)-farnesyl diphosphate synthase
+ELICBCKE_00671	gene			
+ELICBCKE_00672	CDS			hypothetical protein
+ELICBCKE_00672	gene			
+ELICBCKE_00673	CDS			hypothetical protein
+ELICBCKE_00673	gene			
+ELICBCKE_00674	CDS	rnc	3.1.26.3	Ribonuclease 3
+ELICBCKE_00674	gene	rnc		
+ELICBCKE_00675	CDS	fabF	2.3.1.179	3-oxoacyl-[acyl-carrier-protein] synthase 2
+ELICBCKE_00675	gene	fabF		
+ELICBCKE_00676	CDS	acpP		Acyl carrier protein
+ELICBCKE_00676	gene	acpP		
+ELICBCKE_00677	CDS	fabG_2	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+ELICBCKE_00677	gene	fabG_2		
+ELICBCKE_00678	CDS	fabD	2.3.1.39	Malonyl CoA-acyl carrier protein transacylase
+ELICBCKE_00678	gene	fabD		
+ELICBCKE_00679	CDS	fabH	2.3.1.180	3-oxoacyl-[acyl-carrier-protein] synthase 3
+ELICBCKE_00679	gene	fabH		
+ELICBCKE_00680	CDS	plsX	2.3.1.-	Phosphate acyltransferase
+ELICBCKE_00680	gene	plsX		
+ELICBCKE_00681	CDS	rpmF		50S ribosomal protein L32
+ELICBCKE_00681	gene	rpmF		
+ELICBCKE_00682	CDS			hypothetical protein
+ELICBCKE_00682	gene			
+ELICBCKE_00683	CDS			hypothetical protein
+ELICBCKE_00683	gene			
+ELICBCKE_00684	CDS	ftsN		Cell division protein FtsN
+ELICBCKE_00684	gene	ftsN		
+ELICBCKE_00685	CDS	ndk	2.7.4.6	Nucleoside diphosphate kinase
+ELICBCKE_00685	gene	ndk		
+ELICBCKE_00686	CDS	sucD	6.2.1.5	Succinate--CoA ligase [ADP-forming] subunit alpha
+ELICBCKE_00686	gene	sucD		
+ELICBCKE_00687	CDS	sucC	6.2.1.5	Succinate--CoA ligase [ADP-forming] subunit beta
+ELICBCKE_00687	gene	sucC		
+ELICBCKE_00688	CDS	arcC1	2.7.2.2	Carbamate kinase 1
+ELICBCKE_00688	gene	arcC1		
+ELICBCKE_00689	CDS	arcA	3.5.3.6	Arginine deiminase
+ELICBCKE_00689	gene	arcA		
+ELICBCKE_00690	CDS			hypothetical protein
+ELICBCKE_00690	gene			
+ELICBCKE_00691	CDS	rocA	1.2.1.88	1-pyrroline-5-carboxylate dehydrogenase
+ELICBCKE_00691	gene	rocA		
+ELICBCKE_00692	CDS			hypothetical protein
+ELICBCKE_00692	gene			
+ELICBCKE_00693	CDS			hypothetical protein
+ELICBCKE_00693	gene			
+ELICBCKE_00694	CDS	dus	1.3.1.-	putative tRNA-dihydrouridine synthase
+ELICBCKE_00694	gene	dus		
+ELICBCKE_00695	CDS	rpmB		50S ribosomal protein L28
+ELICBCKE_00695	gene	rpmB		
+ELICBCKE_00696	CDS	ftsZ		Cell division protein FtsZ
+ELICBCKE_00696	gene	ftsZ		
+ELICBCKE_00697	CDS	ftsA_1		Cell division protein FtsA
+ELICBCKE_00697	gene	ftsA_1		
+ELICBCKE_00698	CDS	ftsQ		Cell division protein FtsQ
+ELICBCKE_00698	gene	ftsQ		
+ELICBCKE_00699	CDS	murB	1.3.1.98	UDP-N-acetylenolpyruvoylglucosamine reductase
+ELICBCKE_00699	gene	murB		
+ELICBCKE_00700	CDS	murC	6.3.2.8	UDP-N-acetylmuramate--L-alanine ligase
+ELICBCKE_00700	gene	murC		
+ELICBCKE_00701	CDS	murG_1	2.4.1.227	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+ELICBCKE_00701	gene	murG_1		
+ELICBCKE_00702	CDS	murG_2	2.4.1.227	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+ELICBCKE_00702	gene	murG_2		
+ELICBCKE_00703	CDS	ftsW	2.4.1.129	putative peptidoglycan glycosyltransferase FtsW
+ELICBCKE_00703	gene	ftsW		
+ELICBCKE_00704	CDS	murD	6.3.2.9	UDP-N-acetylmuramoylalanine--D-glutamate ligase
+ELICBCKE_00704	gene	murD		
+ELICBCKE_00705	CDS	mraY	2.7.8.13	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+ELICBCKE_00705	gene	mraY		
+ELICBCKE_00706	CDS	murF	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+ELICBCKE_00706	gene	murF		
+ELICBCKE_00707	CDS	murE	6.3.2.13	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+ELICBCKE_00707	gene	murE		
+ELICBCKE_00708	CDS	spoVD		Stage V sporulation protein D
+ELICBCKE_00708	gene	spoVD		
+ELICBCKE_00709	CDS	ftsL_2		Cell division protein FtsL
+ELICBCKE_00709	gene	ftsL_2		
+ELICBCKE_00710	CDS	rsmH	2.1.1.199	Ribosomal RNA small subunit methyltransferase H
+ELICBCKE_00710	gene	rsmH		
+ELICBCKE_00711	CDS	mraZ		Transcriptional regulator MraZ
+ELICBCKE_00711	gene	mraZ		
+ELICBCKE_00712	CDS			hypothetical protein
+ELICBCKE_00712	gene			
+ELICBCKE_00713	CDS	maf		Septum formation protein Maf
+ELICBCKE_00713	gene	maf		
+ELICBCKE_00714	CDS			hypothetical protein
+ELICBCKE_00714	gene			
+ELICBCKE_00715	CDS	citB	4.2.1.3	Aconitate hydratase A
+ELICBCKE_00715	gene	citB		
+ELICBCKE_00716	CDS	serA	1.1.1.95	D-3-phosphoglycerate dehydrogenase
+ELICBCKE_00716	gene	serA		
+ELICBCKE_00717	CDS			hypothetical protein
+ELICBCKE_00717	gene			
+ELICBCKE_00718	CDS			hypothetical protein
+ELICBCKE_00718	gene			
+ELICBCKE_00719	CDS			hypothetical protein
+ELICBCKE_00719	gene			
+ELICBCKE_00720	CDS	sigA_2		RNA polymerase sigma factor SigA
+ELICBCKE_00720	gene	sigA_2		
+ELICBCKE_00721	CDS	mepM_2	3.4.24.-	Murein DD-endopeptidase MepM
+ELICBCKE_00721	gene	mepM_2		
+ELICBCKE_00722	CDS	miaB	2.8.4.3	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+ELICBCKE_00722	gene	miaB		
+ELICBCKE_00723	CDS	lapA		Lipopolysaccharide assembly protein A
+ELICBCKE_00723	gene	lapA		
+ELICBCKE_00724	CDS	lapB_1		Lipopolysaccharide assembly protein B
+ELICBCKE_00724	gene	lapB_1		
+ELICBCKE_00725	CDS	bamD_1		Outer membrane protein assembly factor BamD
+ELICBCKE_00725	gene	bamD_1		
+ELICBCKE_00726	tRNA			tRNA-SeC(tca)
+ELICBCKE_00726	gene			
+ELICBCKE_00727	CDS	resA_4		Thiol-disulfide oxidoreductase ResA
+ELICBCKE_00727	gene	resA_4		
+ELICBCKE_00728	CDS	resA_5		Thiol-disulfide oxidoreductase ResA
+ELICBCKE_00728	gene	resA_5		
+ELICBCKE_00729	CDS	vioD	4.2.1.145	Capreomycidine synthase
+ELICBCKE_00729	gene	vioD		
+ELICBCKE_00730	CDS	tdcB	4.3.1.19	L-threonine dehydratase catabolic TdcB
+ELICBCKE_00730	gene	tdcB		
+ELICBCKE_00731	CDS		1.5.1.49	Delta(1)-pyrroline-2-carboxylate reductase
+ELICBCKE_00731	gene			
+ELICBCKE_00732	CDS			hypothetical protein
+ELICBCKE_00732	gene			
+ELICBCKE_00733	CDS	eutQ		Ethanolamine utilization protein EutQ
+ELICBCKE_00733	gene	eutQ		
+ELICBCKE_00734	CDS			hypothetical protein
+ELICBCKE_00734	gene			
+ELICBCKE_00735	CDS			hypothetical protein
+ELICBCKE_00735	gene			
+ELICBCKE_00736	CDS	dapb1	3.4.14.-	Dipeptidyl aminopeptidase BI
+ELICBCKE_00736	gene	dapb1		
+ELICBCKE_00737	CDS			hypothetical protein
+ELICBCKE_00737	gene			
+ELICBCKE_00738	CDS			hypothetical protein
+ELICBCKE_00738	gene			
+ELICBCKE_00739	CDS			hypothetical protein
+ELICBCKE_00739	gene			
+ELICBCKE_00740	CDS			hypothetical protein
+ELICBCKE_00740	gene			
+ELICBCKE_00741	CDS			hypothetical protein
+ELICBCKE_00741	gene			
+ELICBCKE_00742	CDS	add	3.5.4.4	Adenosine deaminase
+ELICBCKE_00742	gene	add		
+ELICBCKE_00743	CDS			hypothetical protein
+ELICBCKE_00743	gene			
+ELICBCKE_00744	CDS	steT_1		Serine/threonine exchanger SteT
+ELICBCKE_00744	gene	steT_1		
+ELICBCKE_00745	tRNA			tRNA-Lys(ttt)
+ELICBCKE_00745	gene			
+ELICBCKE_00746	CDS			hypothetical protein
+ELICBCKE_00746	gene			
+ELICBCKE_00747	CDS	queF	1.7.1.13	NADPH-dependent 7-cyano-7-deazaguanine reductase
+ELICBCKE_00747	gene	queF		
+ELICBCKE_00748	CDS	queD_1	4.1.2.50	6-carboxy-5,6,7,8-tetrahydropterin synthase
+ELICBCKE_00748	gene	queD_1		
+ELICBCKE_00749	CDS	queE	4.3.99.3	7-carboxy-7-deazaguanine synthase
+ELICBCKE_00749	gene	queE		
+ELICBCKE_00750	CDS	queC	6.3.4.20	7-cyano-7-deazaguanine synthase
+ELICBCKE_00750	gene	queC		
+ELICBCKE_00751	tRNA			tRNA-Lys(ctt)
+ELICBCKE_00751	gene			
+ELICBCKE_00752	tmRNA	ssrA		transfer-messenger RNA, SsrA
+ELICBCKE_00752	gene	ssrA		
+ELICBCKE_00753	CDS			hypothetical protein
+ELICBCKE_00753	gene			
+ELICBCKE_00754	CDS	argS	6.1.1.19	Arginine--tRNA ligase
+ELICBCKE_00754	gene	argS		
+ELICBCKE_00755	CDS	rsfS		Ribosomal silencing factor RsfS
+ELICBCKE_00755	gene	rsfS		
+ELICBCKE_00756	CDS			hypothetical protein
+ELICBCKE_00756	gene			
+ELICBCKE_00757	CDS			hypothetical protein
+ELICBCKE_00757	gene			
+ELICBCKE_00758	CDS	mnmA	2.8.1.13	tRNA-specific 2-thiouridylase MnmA
+ELICBCKE_00758	gene	mnmA		
+ELICBCKE_00759	CDS	iscS	2.8.1.7	Cysteine desulfurase IscS
+ELICBCKE_00759	gene	iscS		
+ELICBCKE_00760	CDS			hypothetical protein
+ELICBCKE_00760	gene			
+ELICBCKE_00761	CDS	ydjH	2.7.1.-	putative sugar kinase YdjH
+ELICBCKE_00761	gene	ydjH		
+ELICBCKE_00762	CDS	bcsC		Cellulose synthase operon protein C
+ELICBCKE_00762	gene	bcsC		
+ELICBCKE_00763	CDS			hypothetical protein
+ELICBCKE_00763	gene			
+ELICBCKE_00764	CDS			hypothetical protein
+ELICBCKE_00764	gene			
+ELICBCKE_00765	CDS	rlmN	2.1.1.192	putative dual-specificity RNA methyltransferase RlmN
+ELICBCKE_00765	gene	rlmN		
+ELICBCKE_00766	CDS	yxeP	3.-.-.-	putative hydrolase YxeP
+ELICBCKE_00766	gene	yxeP		
+ELICBCKE_00767	CDS	ggt	2.3.2.2	Gamma-glutamyltranspeptidase
+ELICBCKE_00767	gene	ggt		
+ELICBCKE_00768	CDS		2.6.1.1	Aspartate aminotransferase
+ELICBCKE_00768	gene			
+ELICBCKE_00769	CDS			hypothetical protein
+ELICBCKE_00769	gene			
+ELICBCKE_00770	CDS	glyQS	6.1.1.14	Glycine--tRNA ligase
+ELICBCKE_00770	gene	glyQS		
+ELICBCKE_00771	CDS			hypothetical protein
+ELICBCKE_00771	gene			
+ELICBCKE_00772	CDS	topA	5.99.1.2	DNA topoisomerase 1
+ELICBCKE_00772	gene	topA		
+ELICBCKE_00773	CDS	hisS	6.1.1.21	Histidine--tRNA ligase
+ELICBCKE_00773	gene	hisS		
+ELICBCKE_00774	CDS	lptD		LPS-assembly protein LptD
+ELICBCKE_00774	gene	lptD		
+ELICBCKE_00775	CDS	rarA		Replication-associated recombination protein A
+ELICBCKE_00775	gene	rarA		
+ELICBCKE_00776	CDS	fbp	5.2.1.8	FK506-binding protein
+ELICBCKE_00776	gene	fbp		
+ELICBCKE_00777	tRNA			tRNA-Thr(cgt)
+ELICBCKE_00777	gene			
+ELICBCKE_00778	CDS			hypothetical protein
+ELICBCKE_00778	gene			
+ELICBCKE_00779	CDS	yidD		Putative membrane protein insertion efficiency factor
+ELICBCKE_00779	gene	yidD		
+ELICBCKE_00780	CDS			hypothetical protein
+ELICBCKE_00780	gene			
+ELICBCKE_00781	CDS	mggB	3.1.3.-	Mannosylglucosyl-3-phosphoglycerate phosphatase
+ELICBCKE_00781	gene	mggB		
+ELICBCKE_00782	CDS			hypothetical protein
+ELICBCKE_00782	gene			
+ELICBCKE_00783	CDS			Cyclic nucleotide-gated potassium channel
+ELICBCKE_00783	gene			
+ELICBCKE_00784	CDS			PhoH-like protein
+ELICBCKE_00784	gene			
+ELICBCKE_00785	CDS	hsaD	3.7.1.17	4,5:9,10-diseco-3-hydroxy-5,9,17-trioxoandrosta-1(10),2-diene-4-oate hydrolase
+ELICBCKE_00785	gene	hsaD		
+ELICBCKE_00786	CDS	fadH	1.3.1.34	putative 2,4-dienoyl-CoA reductase
+ELICBCKE_00786	gene	fadH		
+ELICBCKE_00787	CDS			hypothetical protein
+ELICBCKE_00787	gene			
+ELICBCKE_00788	CDS	nudL	3.6.1.-	putative Nudix hydrolase NudL
+ELICBCKE_00788	gene	nudL		
+ELICBCKE_00789	CDS	gph_2	3.1.3.18	Phosphoglycolate phosphatase
+ELICBCKE_00789	gene	gph_2		
+ELICBCKE_00790	CDS			hypothetical protein
+ELICBCKE_00790	gene			
+ELICBCKE_00791	CDS			hypothetical protein
+ELICBCKE_00791	gene			
+ELICBCKE_00792	CDS			hypothetical protein
+ELICBCKE_00792	gene			
+ELICBCKE_00793	CDS	kdsD_1	5.3.1.13	Arabinose 5-phosphate isomerase KdsD
+ELICBCKE_00793	gene	kdsD_1		
+ELICBCKE_00794	CDS			hypothetical protein
+ELICBCKE_00794	gene			
+ELICBCKE_00795	CDS			hypothetical protein
+ELICBCKE_00795	gene			
+ELICBCKE_00796	CDS			hypothetical protein
+ELICBCKE_00796	gene			
+ELICBCKE_00797	CDS	steT_2		Serine/threonine exchanger SteT
+ELICBCKE_00797	gene	steT_2		
+ELICBCKE_00798	CDS			hypothetical protein
+ELICBCKE_00798	gene			
+ELICBCKE_00799	CDS			hypothetical protein
+ELICBCKE_00799	gene			
+ELICBCKE_00800	CDS			hypothetical protein
+ELICBCKE_00800	gene			
+ELICBCKE_00801	CDS	wbbL_3	2.4.1.-	Rhamnosyltransferase WbbL
+ELICBCKE_00801	gene	wbbL_3		
+ELICBCKE_00802	CDS	mshA	2.4.1.250	D-inositol 3-phosphate glycosyltransferase
+ELICBCKE_00802	gene	mshA		
+ELICBCKE_00803	CDS	arnC	2.4.2.53	Undecaprenyl-phosphate 4-deoxy-4-formamido-L-arabinose transferase
+ELICBCKE_00803	gene	arnC		
+ELICBCKE_00804	CDS			hypothetical protein
+ELICBCKE_00804	gene			
+ELICBCKE_00805	CDS	yrrB_2		TPR repeat-containing protein YrrB
+ELICBCKE_00805	gene	yrrB_2		
+ELICBCKE_00806	CDS	dosC	2.7.7.65	Diguanylate cyclase DosC
+ELICBCKE_00806	gene	dosC		
+ELICBCKE_00807	CDS			hypothetical protein
+ELICBCKE_00807	gene			
+ELICBCKE_00808	CDS	sigW_4		ECF RNA polymerase sigma factor SigW
+ELICBCKE_00808	gene	sigW_4		
+ELICBCKE_00809	CDS			hypothetical protein
+ELICBCKE_00809	gene			
+ELICBCKE_00810	CDS	putP		High-affinity proline transporter PutP
+ELICBCKE_00810	gene	putP		
+ELICBCKE_00811	CDS	uppP	3.6.1.27	Undecaprenyl-diphosphatase
+ELICBCKE_00811	gene	uppP		
+ELICBCKE_00812	CDS	yfiH		Laccase domain protein YfiH
+ELICBCKE_00812	gene	yfiH		
+ELICBCKE_00813	CDS			hypothetical protein
+ELICBCKE_00813	gene			
+ELICBCKE_00814	CDS			hypothetical protein
+ELICBCKE_00814	gene			
+ELICBCKE_00815	CDS	glmS	2.6.1.16	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+ELICBCKE_00815	gene	glmS		
+ELICBCKE_00816	CDS	guaA	6.3.5.2	GMP synthase [glutamine-hydrolyzing]
+ELICBCKE_00816	gene	guaA		
+ELICBCKE_00817	CDS	surE	3.1.3.5	5'-nucleotidase SurE
+ELICBCKE_00817	gene	surE		
+ELICBCKE_00818	CDS	accD	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+ELICBCKE_00818	gene	accD		
+ELICBCKE_00819	CDS	rimI	2.3.1.128	Ribosomal-protein-alanine acetyltransferase
+ELICBCKE_00819	gene	rimI		
+ELICBCKE_00820	CDS	tsaB		tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+ELICBCKE_00820	gene	tsaB		
+ELICBCKE_00821	CDS	tsaE		tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+ELICBCKE_00821	gene	tsaE		
+ELICBCKE_00822	CDS	zraR_1		Transcriptional regulatory protein ZraR
+ELICBCKE_00822	gene	zraR_1		
+ELICBCKE_00823	CDS	cyaA_2	4.6.1.1	Adenylate cyclase 1
+ELICBCKE_00823	gene	cyaA_2		
+ELICBCKE_00824	CDS			hypothetical protein
+ELICBCKE_00824	gene			
+ELICBCKE_00825	CDS			hypothetical protein
+ELICBCKE_00825	gene			
+ELICBCKE_00826	CDS			hypothetical protein
+ELICBCKE_00826	gene			
+ELICBCKE_00827	CDS			hypothetical protein
+ELICBCKE_00827	gene			
+ELICBCKE_00828	rRNA			5S ribosomal RNA
+ELICBCKE_00828	gene			
+ELICBCKE_00829	CDS	tkt	2.2.1.1	Transketolase
+ELICBCKE_00829	gene	tkt		
+ELICBCKE_00830	CDS	rpe	5.1.3.1	Ribulose-phosphate 3-epimerase
+ELICBCKE_00830	gene	rpe		
+ELICBCKE_00831	CDS			hypothetical protein
+ELICBCKE_00831	gene			
+ELICBCKE_00832	CDS			hypothetical protein
+ELICBCKE_00832	gene			
+ELICBCKE_00833	CDS			hypothetical protein
+ELICBCKE_00833	gene			
+ELICBCKE_00834	CDS	kmo	1.14.13.9	Kynurenine 3-monooxygenase
+ELICBCKE_00834	gene	kmo		
+ELICBCKE_00835	CDS	cdsA	2.7.7.41	Phosphatidate cytidylyltransferase
+ELICBCKE_00835	gene	cdsA		
+ELICBCKE_00836	CDS	dagK	2.7.1.107	Diacylglycerol kinase
+ELICBCKE_00836	gene	dagK		
+ELICBCKE_00837	CDS	rlpA	4.2.2.-	Endolytic peptidoglycan transglycosylase RlpA
+ELICBCKE_00837	gene	rlpA		
+ELICBCKE_00838	CDS	pyrD	1.3.1.14	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+ELICBCKE_00838	gene	pyrD		
+ELICBCKE_00839	CDS	pyrK		Dihydroorotate dehydrogenase B (NAD(+)), electron transfer subunit
+ELICBCKE_00839	gene	pyrK		
+ELICBCKE_00840	CDS	bamD_2		Outer membrane protein assembly factor BamD
+ELICBCKE_00840	gene	bamD_2		
+ELICBCKE_00841	CDS			hypothetical protein
+ELICBCKE_00841	gene			
+ELICBCKE_00842	CDS			hypothetical protein
+ELICBCKE_00842	gene			
+ELICBCKE_00843	CDS			hypothetical protein
+ELICBCKE_00843	gene			
+ELICBCKE_00844	CDS	bolA_1		DNA-binding transcriptional regulator BolA
+ELICBCKE_00844	gene	bolA_1		
+ELICBCKE_00845	CDS			hypothetical protein
+ELICBCKE_00845	gene			
+ELICBCKE_00846	CDS	yedK	3.4.-.-	Putative SOS response-associated peptidase YedK
+ELICBCKE_00846	gene	yedK		
+ELICBCKE_00847	CDS	dinB1	2.7.7.7	DNA polymerase IV 1
+ELICBCKE_00847	gene	dinB1		
+ELICBCKE_00848	CDS	uctC	2.8.3.19	Acetyl-CoA:oxalate CoA-transferase
+ELICBCKE_00848	gene	uctC		
+ELICBCKE_00849	CDS	lexA	3.4.21.88	LexA repressor
+ELICBCKE_00849	gene	lexA		
+ELICBCKE_00850	CDS	greA		Transcription elongation factor GreA
+ELICBCKE_00850	gene	greA		
+ELICBCKE_00851	tRNA			tRNA-Ser(gct)
+ELICBCKE_00851	gene			
+ELICBCKE_00852	CDS	dprA		DNA processing protein DprA
+ELICBCKE_00852	gene	dprA		
+ELICBCKE_00853	CDS	obg	3.6.5.-	GTPase Obg
+ELICBCKE_00853	gene	obg		
+ELICBCKE_00854	CDS	icd	1.1.1.42	Isocitrate dehydrogenase [NADP]
+ELICBCKE_00854	gene	icd		
+ELICBCKE_00855	CDS			hypothetical protein
+ELICBCKE_00855	gene			
+ELICBCKE_00856	CDS	coaD	2.7.7.3	Phosphopantetheine adenylyltransferase
+ELICBCKE_00856	gene	coaD		
+ELICBCKE_00857	CDS	rsmD	2.1.1.171	Ribosomal RNA small subunit methyltransferase D
+ELICBCKE_00857	gene	rsmD		
+ELICBCKE_00858	CDS			hypothetical protein
+ELICBCKE_00858	gene			
+ELICBCKE_00859	CDS			hypothetical protein
+ELICBCKE_00859	gene			
+ELICBCKE_00860	CDS	comEA		ComE operon protein 1
+ELICBCKE_00860	gene	comEA		
+ELICBCKE_00861	CDS	dnaJ_1		Chaperone protein DnaJ
+ELICBCKE_00861	gene	dnaJ_1		
+ELICBCKE_00862	CDS	grpE		Protein GrpE
+ELICBCKE_00862	gene	grpE		
+ELICBCKE_00863	CDS	hrcA		Heat-inducible transcription repressor HrcA
+ELICBCKE_00863	gene	hrcA		
+ELICBCKE_00864	CDS	ftsX		Cell division protein FtsX
+ELICBCKE_00864	gene	ftsX		
+ELICBCKE_00865	CDS	ftsE		Cell division ATP-binding protein FtsE
+ELICBCKE_00865	gene	ftsE		
+ELICBCKE_00866	CDS	yrbG		Inner membrane protein YrbG
+ELICBCKE_00866	gene	yrbG		
+ELICBCKE_00867	CDS	nadD	2.7.7.18	Nicotinate-nucleotide adenylyltransferase
+ELICBCKE_00867	gene	nadD		
+ELICBCKE_00868	CDS	bamD_3		Outer membrane protein assembly factor BamD
+ELICBCKE_00868	gene	bamD_3		
+ELICBCKE_00869	CDS			hypothetical protein
+ELICBCKE_00869	gene			
+ELICBCKE_00870	CDS	tolB_3		Protein TolB
+ELICBCKE_00870	gene	tolB_3		
+ELICBCKE_00871	CDS			hypothetical protein
+ELICBCKE_00871	gene			
+ELICBCKE_00872	CDS			hypothetical protein
+ELICBCKE_00872	gene			
+ELICBCKE_00873	CDS	dctM		C4-dicarboxylate TRAP transporter large permease protein DctM
+ELICBCKE_00873	gene	dctM		
+ELICBCKE_00874	CDS			Solute-binding protein
+ELICBCKE_00874	gene			
+ELICBCKE_00875	CDS			hypothetical protein
+ELICBCKE_00875	gene			
+ELICBCKE_00876	CDS	glyA	2.1.2.1	Serine hydroxymethyltransferase
+ELICBCKE_00876	gene	glyA		
+ELICBCKE_00877	CDS	bepA_4	3.4.-.-	Beta-barrel assembly-enhancing protease
+ELICBCKE_00877	gene	bepA_4		
+ELICBCKE_00878	CDS			hypothetical protein
+ELICBCKE_00878	gene			
+ELICBCKE_00879	CDS			hypothetical protein
+ELICBCKE_00879	gene			
+ELICBCKE_00880	CDS	glgA	2.4.1.21	Glycogen synthase
+ELICBCKE_00880	gene	glgA		
+ELICBCKE_00881	CDS	bamD_4		Outer membrane protein assembly factor BamD
+ELICBCKE_00881	gene	bamD_4		
+ELICBCKE_00882	CDS	mrdB	2.4.1.129	Peptidoglycan glycosyltransferase MrdB
+ELICBCKE_00882	gene	mrdB		
+ELICBCKE_00883	CDS	mrdA	3.4.16.4	Peptidoglycan D,D-transpeptidase MrdA
+ELICBCKE_00883	gene	mrdA		
+ELICBCKE_00884	CDS			hypothetical protein
+ELICBCKE_00884	gene			
+ELICBCKE_00885	CDS	mreC		Cell shape-determining protein MreC
+ELICBCKE_00885	gene	mreC		
+ELICBCKE_00886	CDS	mreB		Rod shape-determining protein MreB
+ELICBCKE_00886	gene	mreB		
+ELICBCKE_00887	CDS			hypothetical protein
+ELICBCKE_00887	gene			
+ELICBCKE_00888	CDS			hypothetical protein
+ELICBCKE_00888	gene			
+ELICBCKE_00889	CDS			hypothetical protein
+ELICBCKE_00889	gene			
+ELICBCKE_00890	CDS			hypothetical protein
+ELICBCKE_00890	gene			
+ELICBCKE_00891	CDS			hypothetical protein
+ELICBCKE_00891	gene			
+ELICBCKE_00892	CDS	ina	3.4.24.-	Immune inhibitor A
+ELICBCKE_00892	gene	ina		
+ELICBCKE_00893	CDS	clpX		ATP-dependent Clp protease ATP-binding subunit ClpX
+ELICBCKE_00893	gene	clpX		
+ELICBCKE_00894	CDS	clpP	3.4.21.92	ATP-dependent Clp protease proteolytic subunit
+ELICBCKE_00894	gene	clpP		
+ELICBCKE_00895	CDS	tig	5.2.1.8	Trigger factor
+ELICBCKE_00895	gene	tig		
+ELICBCKE_00896	CDS			hypothetical protein
+ELICBCKE_00896	gene			
+ELICBCKE_00897	CDS	dapE	3.5.1.18	putative succinyl-diaminopimelate desuccinylase
+ELICBCKE_00897	gene	dapE		
+ELICBCKE_00898	CDS		3.5.3.-	Peptidylarginine deiminase
+ELICBCKE_00898	gene			
+ELICBCKE_00899	CDS	wfgD	2.4.1.305	UDP-Glc:alpha-D-GlcNAc-diphosphoundecaprenol beta-1,3-glucosyltransferase WfgD
+ELICBCKE_00899	gene	wfgD		
+ELICBCKE_00900	CDS			hypothetical protein
+ELICBCKE_00900	gene			
+ELICBCKE_00901	CDS			hypothetical protein
+ELICBCKE_00901	gene			
+ELICBCKE_00902	CDS			hypothetical protein
+ELICBCKE_00902	gene			
+ELICBCKE_00903	CDS	tsaA	1.11.1.15	putative peroxiredoxin
+ELICBCKE_00903	gene	tsaA		
+ELICBCKE_00904	CDS	perR		Peroxide operon regulator
+ELICBCKE_00904	gene	perR		
+ELICBCKE_00905	CDS			hypothetical protein
+ELICBCKE_00905	gene			
+ELICBCKE_00906	CDS			hypothetical protein
+ELICBCKE_00906	gene			
+ELICBCKE_00907	CDS			hypothetical protein
+ELICBCKE_00907	gene			
+ELICBCKE_00908	CDS			hypothetical protein
+ELICBCKE_00908	gene			
+ELICBCKE_00909	CDS	gdhA_1	1.4.1.3	Glutamate dehydrogenase
+ELICBCKE_00909	gene	gdhA_1		
+ELICBCKE_00910	CDS			hypothetical protein
+ELICBCKE_00910	gene			
+ELICBCKE_00911	CDS			hypothetical protein
+ELICBCKE_00911	gene			
+ELICBCKE_00912	CDS			hypothetical protein
+ELICBCKE_00912	gene			
+ELICBCKE_00913	CDS		6.2.1.3	Long-chain-fatty-acid--CoA ligase FadD15
+ELICBCKE_00913	gene			
+ELICBCKE_00914	CDS			hypothetical protein
+ELICBCKE_00914	gene			
+ELICBCKE_00915	CDS	ypmQ		SCO1 protein 
+ELICBCKE_00915	gene	ypmQ		
+ELICBCKE_00916	CDS	ctaB	2.5.1.-	Protoheme IX farnesyltransferase
+ELICBCKE_00916	gene	ctaB		
+ELICBCKE_00917	CDS	ctaA	1.3.-.-	Heme A synthase
+ELICBCKE_00917	gene	ctaA		
+ELICBCKE_00918	CDS	coxM_1	1.9.3.1	Alternative cytochrome c oxidase subunit 2
+ELICBCKE_00918	gene	coxM_1		
+ELICBCKE_00919	CDS			hypothetical protein
+ELICBCKE_00919	gene			
+ELICBCKE_00920	CDS			hypothetical protein
+ELICBCKE_00920	gene			
+ELICBCKE_00921	CDS			hypothetical protein
+ELICBCKE_00921	gene			
+ELICBCKE_00922	CDS	ctaE_1	1.9.3.1	Cytochrome c oxidase subunit 3
+ELICBCKE_00922	gene	ctaE_1		
+ELICBCKE_00923	CDS	coxN_1	1.9.3.1	Alternative cytochrome c oxidase subunit 1
+ELICBCKE_00923	gene	coxN_1		
+ELICBCKE_00924	CDS			Putative HTH-type transcriptional regulator
+ELICBCKE_00924	gene			
+ELICBCKE_00925	CDS			hypothetical protein
+ELICBCKE_00925	gene			
+ELICBCKE_00926	CDS			hypothetical protein
+ELICBCKE_00926	gene			
+ELICBCKE_00927	CDS	cyoC		Cytochrome bo(3) ubiquinol oxidase subunit 3
+ELICBCKE_00927	gene	cyoC		
+ELICBCKE_00928	CDS	ctaE_2	1.9.3.1	Cytochrome c oxidase subunit 3
+ELICBCKE_00928	gene	ctaE_2		
+ELICBCKE_00929	CDS	coxN_2	1.9.3.1	Alternative cytochrome c oxidase subunit 1
+ELICBCKE_00929	gene	coxN_2		
+ELICBCKE_00930	CDS	coxM_2	1.9.3.1	Alternative cytochrome c oxidase subunit 2
+ELICBCKE_00930	gene	coxM_2		
+ELICBCKE_00931	CDS			hypothetical protein
+ELICBCKE_00931	gene			
+ELICBCKE_00932	CDS			hypothetical protein
+ELICBCKE_00932	gene			
+ELICBCKE_00933	CDS	dsvC	1.8.99.5	Sulfite reductase, dissimilatory-type subunit gamma
+ELICBCKE_00933	gene	dsvC		
+ELICBCKE_00934	CDS	sqr	1.8.5.4	Sulfide-quinone reductase
+ELICBCKE_00934	gene	sqr		
+ELICBCKE_00935	CDS			hypothetical protein
+ELICBCKE_00935	gene			
+ELICBCKE_00936	CDS	mftC	2.-.-.-	Putative mycofactocin radical SAM maturase MftC
+ELICBCKE_00936	gene	mftC		
+ELICBCKE_00937	CDS			hypothetical protein
+ELICBCKE_00937	gene			
+ELICBCKE_00938	CDS			hypothetical protein
+ELICBCKE_00938	gene			
+ELICBCKE_00939	CDS			hypothetical protein
+ELICBCKE_00939	gene			
+ELICBCKE_00940	CDS			hypothetical protein
+ELICBCKE_00940	gene			
+ELICBCKE_00941	CDS			hypothetical protein
+ELICBCKE_00941	gene			
+ELICBCKE_00942	CDS	lgt_1	2.4.99.-	Prolipoprotein diacylglyceryl transferase
+ELICBCKE_00942	gene	lgt_1		
+ELICBCKE_00943	CDS			hypothetical protein
+ELICBCKE_00943	gene			
+ELICBCKE_00944	CDS			hypothetical protein
+ELICBCKE_00944	gene			
+ELICBCKE_00945	CDS	nagD	3.1.3.5	Ribonucleotide monophosphatase NagD
+ELICBCKE_00945	gene	nagD		
+ELICBCKE_00946	CDS			hypothetical protein
+ELICBCKE_00946	gene			
+ELICBCKE_00947	CDS			hypothetical protein
+ELICBCKE_00947	gene			
+ELICBCKE_00948	CDS	hmgA	1.13.11.5	Homogentisate 1,2-dioxygenase
+ELICBCKE_00948	gene	hmgA		
+ELICBCKE_00949	CDS	hpcE		Homoprotocatechuate catabolism bifunctional isomerase/decarboxylase
+ELICBCKE_00949	gene	hpcE		
+ELICBCKE_00950	CDS	hpd	1.13.11.27	4-hydroxyphenylpyruvate dioxygenase
+ELICBCKE_00950	gene	hpd		
+ELICBCKE_00951	CDS	hisC	2.6.1.9	Histidinol-phosphate aminotransferase
+ELICBCKE_00951	gene	hisC		
+ELICBCKE_00952	CDS	sfsA		Sugar fermentation stimulation protein A
+ELICBCKE_00952	gene	sfsA		
+ELICBCKE_00953	CDS			hypothetical protein
+ELICBCKE_00953	gene			
+ELICBCKE_00954	CDS	algA		Alginate biosynthesis protein AlgA
+ELICBCKE_00954	gene	algA		
+ELICBCKE_00955	CDS			hypothetical protein
+ELICBCKE_00955	gene			
+ELICBCKE_00956	CDS	fus		Elongation factor G
+ELICBCKE_00956	gene	fus		
+ELICBCKE_00957	CDS		2.7.7.53	AP-4-A phosphorylase
+ELICBCKE_00957	gene			
+ELICBCKE_00958	CDS			hypothetical protein
+ELICBCKE_00958	gene			
+ELICBCKE_00959	CDS	sglT_3		Sodium/glucose cotransporter
+ELICBCKE_00959	gene	sglT_3		
+ELICBCKE_00960	tRNA			tRNA-Asn(gtt)
+ELICBCKE_00960	gene			
+ELICBCKE_00961	CDS	bicA		Bicarbonate transporter BicA
+ELICBCKE_00961	gene	bicA		
+ELICBCKE_00962	CDS	plsC_1	2.3.1.-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+ELICBCKE_00962	gene	plsC_1		
+ELICBCKE_00963	CDS			hypothetical protein
+ELICBCKE_00963	gene			
+ELICBCKE_00964	CDS	msrB	1.8.4.12	Peptide methionine sulfoxide reductase MsrB
+ELICBCKE_00964	gene	msrB		
+ELICBCKE_00965	CDS	acr1	1.2.1.-	Fatty acyl-CoA reductase
+ELICBCKE_00965	gene	acr1		
+ELICBCKE_00966	CDS			hypothetical protein
+ELICBCKE_00966	gene			
+ELICBCKE_00967	CDS	thiI	2.8.1.4	putative tRNA sulfurtransferase
+ELICBCKE_00967	gene	thiI		
+ELICBCKE_00968	CDS	bcp_3	1.11.1.15	Putative peroxiredoxin bcp
+ELICBCKE_00968	gene	bcp_3		
+ELICBCKE_00969	CDS	btuB_5		Vitamin B12 transporter BtuB
+ELICBCKE_00969	gene	btuB_5		
+ELICBCKE_00970	CDS			hypothetical protein
+ELICBCKE_00970	gene			
+ELICBCKE_00971	CDS			hypothetical protein
+ELICBCKE_00971	gene			
+ELICBCKE_00972	tRNA			tRNA-Glu(ttc)
+ELICBCKE_00972	gene			
+ELICBCKE_00973	CDS	grxD		Glutaredoxin 4
+ELICBCKE_00973	gene	grxD		
+ELICBCKE_00974	CDS	bolA_2		DNA-binding transcriptional regulator BolA
+ELICBCKE_00974	gene	bolA_2		
+ELICBCKE_00975	CDS	exoA	3.1.11.2	Exodeoxyribonuclease
+ELICBCKE_00975	gene	exoA		
+ELICBCKE_00976	CDS	aphA	3.1.3.2	Class B acid phosphatase
+ELICBCKE_00976	gene	aphA		
+ELICBCKE_00977	CDS			hypothetical protein
+ELICBCKE_00977	gene			
+ELICBCKE_00978	CDS	groS_1		10 kDa chaperonin
+ELICBCKE_00978	gene	groS_1		
+ELICBCKE_00979	CDS		2.3.1.-	Acetyltransferase
+ELICBCKE_00979	gene			
+ELICBCKE_00980	CDS		3.6.3.-	Putative multidrug export ATP-binding/permease protein
+ELICBCKE_00980	gene			
+ELICBCKE_00981	CDS			hypothetical protein
+ELICBCKE_00981	gene			
+ELICBCKE_00982	CDS	pphA	3.11.1.3	Phosphonopyruvate hydrolase
+ELICBCKE_00982	gene	pphA		
+ELICBCKE_00983	CDS	ilvB	2.2.1.6	Acetolactate synthase isozyme 1 large subunit
+ELICBCKE_00983	gene	ilvB		
+ELICBCKE_00984	CDS	adh1	1.1.1.192	Long-chain-alcohol dehydrogenase 1
+ELICBCKE_00984	gene	adh1		
+ELICBCKE_00985	CDS	tagB_2	2.7.8.-	Teichoic acid glycerol-phosphate primase
+ELICBCKE_00985	gene	tagB_2		
+ELICBCKE_00986	CDS			hypothetical protein
+ELICBCKE_00986	gene			
+ELICBCKE_00987	CDS			hypothetical protein
+ELICBCKE_00987	gene			
+ELICBCKE_00988	CDS	citZ	2.3.3.16	Citrate synthase 2
+ELICBCKE_00988	gene	citZ		
+ELICBCKE_00989	CDS	cpt_1	3.4.17.18	Carboxypeptidase T
+ELICBCKE_00989	gene	cpt_1		
+ELICBCKE_00990	CDS	aprE	3.4.21.62	Subtilisin E
+ELICBCKE_00990	gene	aprE		
+ELICBCKE_00991	CDS			hypothetical protein
+ELICBCKE_00991	gene			
+ELICBCKE_00992	CDS	kdsD_2	5.3.1.13	Arabinose 5-phosphate isomerase KdsD
+ELICBCKE_00992	gene	kdsD_2		
+ELICBCKE_00993	CDS			hypothetical protein
+ELICBCKE_00993	gene			
+ELICBCKE_00994	CDS			hypothetical protein
+ELICBCKE_00994	gene			
+ELICBCKE_00995	CDS	ytnP	3.1.1.-	putative quorum-quenching lactonase YtnP
+ELICBCKE_00995	gene	ytnP		
+ELICBCKE_00996	CDS			hypothetical protein
+ELICBCKE_00996	gene			
+ELICBCKE_00997	CDS			hypothetical protein
+ELICBCKE_00997	gene			
+ELICBCKE_00998	CDS	nth	4.2.99.18	Endonuclease III
+ELICBCKE_00998	gene	nth		
+ELICBCKE_00999	CDS	queD_2	4.1.2.50	6-carboxy-5,6,7,8-tetrahydropterin synthase
+ELICBCKE_00999	gene	queD_2		
+ELICBCKE_01000	CDS	yhhQ		Inner membrane protein YhhQ
+ELICBCKE_01000	gene	yhhQ		
+ELICBCKE_01001	CDS	folE	3.5.4.16	GTP cyclohydrolase 1
+ELICBCKE_01001	gene	folE		
+ELICBCKE_01002	CDS	lpd	1.8.1.4	Dihydrolipoyl dehydrogenase
+ELICBCKE_01002	gene	lpd		
+ELICBCKE_01003	CDS	lipB	2.3.1.181	Octanoyltransferase
+ELICBCKE_01003	gene	lipB		
+ELICBCKE_01004	CDS	bfmBAB	1.2.4.4	2-oxoisovalerate dehydrogenase subunit beta
+ELICBCKE_01004	gene	bfmBAB		
+ELICBCKE_01005	CDS	pdhC	2.3.1.12	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+ELICBCKE_01005	gene	pdhC		
+ELICBCKE_01006	CDS	lipA	2.8.1.8	Lipoyl synthase
+ELICBCKE_01006	gene	lipA		
+ELICBCKE_01007	CDS			hypothetical protein
+ELICBCKE_01007	gene			
+ELICBCKE_01008	CDS	lon2	3.4.21.53	Lon protease 2
+ELICBCKE_01008	gene	lon2		
+ELICBCKE_01009	tRNA			tRNA-Val(tac)
+ELICBCKE_01009	gene			
+ELICBCKE_01010	CDS	slmA		Nucleoid occlusion factor SlmA
+ELICBCKE_01010	gene	slmA		
+ELICBCKE_01011	CDS			hypothetical protein
+ELICBCKE_01011	gene			
+ELICBCKE_01012	CDS			hypothetical protein
+ELICBCKE_01012	gene			
+ELICBCKE_01013	CDS			hypothetical protein
+ELICBCKE_01013	gene			
+ELICBCKE_01014	CDS			hypothetical protein
+ELICBCKE_01014	gene			
+ELICBCKE_01015	CDS	fabH1_2	2.3.1.180	3-oxoacyl-[acyl-carrier-protein] synthase 3 protein 1
+ELICBCKE_01015	gene	fabH1_2		
+ELICBCKE_01016	CDS			hypothetical protein
+ELICBCKE_01016	gene			
+ELICBCKE_01017	CDS			hypothetical protein
+ELICBCKE_01017	gene			
+ELICBCKE_01018	CDS	thiN	2.7.6.2	Thiamine pyrophosphokinase
+ELICBCKE_01018	gene	thiN		
+ELICBCKE_01019	CDS	opuE_2		Osmoregulated proline transporter OpuE
+ELICBCKE_01019	gene	opuE_2		
+ELICBCKE_01020	CDS		3.6.1.25	Inorganic triphosphatase
+ELICBCKE_01020	gene			
+ELICBCKE_01021	CDS			hypothetical protein
+ELICBCKE_01021	gene			
+ELICBCKE_01022	CDS	fda	4.1.2.13	Fructose-bisphosphate aldolase class 1
+ELICBCKE_01022	gene	fda		
+ELICBCKE_01023	CDS	pfp	2.7.1.90	Pyrophosphate--fructose 6-phosphate 1-phosphotransferase
+ELICBCKE_01023	gene	pfp		
+ELICBCKE_01024	CDS	acsA_1	6.2.1.1	Acetyl-coenzyme A synthetase
+ELICBCKE_01024	gene	acsA_1		
+ELICBCKE_01025	CDS			hypothetical protein
+ELICBCKE_01025	gene			
+ELICBCKE_01026	CDS			hypothetical protein
+ELICBCKE_01026	gene			
+ELICBCKE_01027	CDS			hypothetical protein
+ELICBCKE_01027	gene			
+ELICBCKE_01028	CDS	metB	2.5.1.48	Cystathionine gamma-synthase
+ELICBCKE_01028	gene	metB		
+ELICBCKE_01029	CDS			hypothetical protein
+ELICBCKE_01029	gene			
+ELICBCKE_01030	CDS	mepM_3	3.4.24.-	Murein DD-endopeptidase MepM
+ELICBCKE_01030	gene	mepM_3		
+ELICBCKE_01031	CDS			hypothetical protein
+ELICBCKE_01031	gene			
+ELICBCKE_01032	CDS	cspE		Cold shock-like protein CspE
+ELICBCKE_01032	gene	cspE		
+ELICBCKE_01033	CDS			hypothetical protein
+ELICBCKE_01033	gene			
+ELICBCKE_01034	CDS			hypothetical protein
+ELICBCKE_01034	gene			
+ELICBCKE_01035	CDS			hypothetical protein
+ELICBCKE_01035	gene			
+ELICBCKE_01036	CDS			Cyclic nucleotide-gated potassium channel
+ELICBCKE_01036	gene			
+ELICBCKE_01037	CDS			hypothetical protein
+ELICBCKE_01037	gene			
+ELICBCKE_01038	CDS	ywqK		Putative antitoxin YwqK
+ELICBCKE_01038	gene	ywqK		
+ELICBCKE_01039	CDS	fyuA		Pesticin receptor
+ELICBCKE_01039	gene	fyuA		
+ELICBCKE_01040	CDS	msrAB		Peptide methionine sulfoxide reductase MsrA/MsrB
+ELICBCKE_01040	gene	msrAB		
+ELICBCKE_01041	CDS	pntB	1.6.1.2	NAD(P) transhydrogenase subunit beta
+ELICBCKE_01041	gene	pntB		
+ELICBCKE_01042	CDS	pntA	1.6.1.2	NAD(P) transhydrogenase subunit alpha
+ELICBCKE_01042	gene	pntA		
+ELICBCKE_01043	CDS	pntAA	1.6.1.2	NAD(P) transhydrogenase subunit alpha part 1
+ELICBCKE_01043	gene	pntAA		
+ELICBCKE_01044	CDS	pilE		Fimbrial protein
+ELICBCKE_01044	gene	pilE		
+ELICBCKE_01045	CDS	pilT		Twitching mobility protein
+ELICBCKE_01045	gene	pilT		
+ELICBCKE_01046	CDS			hypothetical protein
+ELICBCKE_01046	gene			
+ELICBCKE_01047	CDS			hypothetical protein
+ELICBCKE_01047	gene			
+ELICBCKE_01048	CDS			hypothetical protein
+ELICBCKE_01048	gene			
+ELICBCKE_01049	CDS	ftsA_2		Cell division protein FtsA
+ELICBCKE_01049	gene	ftsA_2		
+ELICBCKE_01050	CDS			hypothetical protein
+ELICBCKE_01050	gene			
+ELICBCKE_01051	CDS			hypothetical protein
+ELICBCKE_01051	gene			
+ELICBCKE_01052	CDS			hypothetical protein
+ELICBCKE_01052	gene			
+ELICBCKE_01053	CDS	pilQ_2		Type IV pilus biogenesis and competence protein PilQ
+ELICBCKE_01053	gene	pilQ_2		
+ELICBCKE_01054	CDS			hypothetical protein
+ELICBCKE_01054	gene			
+ELICBCKE_01055	CDS	epsE		Type II secretion system protein E
+ELICBCKE_01055	gene	epsE		
+ELICBCKE_01056	CDS	epsF		Type II secretion system protein F
+ELICBCKE_01056	gene	epsF		
+ELICBCKE_01057	CDS	comC_2		Type 4 prepilin-like proteins leader peptide-processing enzyme
+ELICBCKE_01057	gene	comC_2		
+ELICBCKE_01058	CDS	rgpB_1	3.4.22.37	Gingipain R2
+ELICBCKE_01058	gene	rgpB_1		
+ELICBCKE_01059	CDS	capB		Capsule biosynthesis protein CapB
+ELICBCKE_01059	gene	capB		
+ELICBCKE_01060	CDS	capC		Capsule biosynthesis protein CapC
+ELICBCKE_01060	gene	capC		
+ELICBCKE_01061	CDS			hypothetical protein
+ELICBCKE_01061	gene			
+ELICBCKE_01062	CDS			hypothetical protein
+ELICBCKE_01062	gene			
+ELICBCKE_01063	CDS			hypothetical protein
+ELICBCKE_01063	gene			
+ELICBCKE_01064	CDS			hypothetical protein
+ELICBCKE_01064	gene			
+ELICBCKE_01065	CDS			hypothetical protein
+ELICBCKE_01065	gene			
+ELICBCKE_01066	CDS	cpt_2	3.4.17.18	Carboxypeptidase T
+ELICBCKE_01066	gene	cpt_2		
+ELICBCKE_01067	CDS	rgpB_2	3.4.22.37	Gingipain R2
+ELICBCKE_01067	gene	rgpB_2		
+ELICBCKE_01068	CDS	grxC		Glutaredoxin 3
+ELICBCKE_01068	gene	grxC		
+ELICBCKE_01069	CDS			hypothetical protein
+ELICBCKE_01069	gene			
+ELICBCKE_01070	CDS			hypothetical protein
+ELICBCKE_01070	gene			
+ELICBCKE_01071	CDS			hypothetical protein
+ELICBCKE_01071	gene			
+ELICBCKE_01072	CDS			hypothetical protein
+ELICBCKE_01072	gene			
+ELICBCKE_01073	CDS			hypothetical protein
+ELICBCKE_01073	gene			
+ELICBCKE_01074	CDS			hypothetical protein
+ELICBCKE_01074	gene			
+ELICBCKE_01075	CDS	alaS	6.1.1.7	Alanine--tRNA ligase
+ELICBCKE_01075	gene	alaS		
+ELICBCKE_01076	CDS			hypothetical protein
+ELICBCKE_01076	gene			
+ELICBCKE_01077	CDS	yabJ	3.5.99.10	2-iminobutanoate/2-iminopropanoate deaminase
+ELICBCKE_01077	gene	yabJ		
+ELICBCKE_01078	CDS			hypothetical protein
+ELICBCKE_01078	gene			
+ELICBCKE_01079	CDS			hypothetical protein
+ELICBCKE_01079	gene			
+ELICBCKE_01080	CDS			hypothetical protein
+ELICBCKE_01080	gene			
+ELICBCKE_01081	CDS	fdxA_1		Ferredoxin 7Fe
+ELICBCKE_01081	gene	fdxA_1		
+ELICBCKE_01082	CDS	menJ	1.3.-.-	Menaquinone reductase
+ELICBCKE_01082	gene	menJ		
+ELICBCKE_01083	CDS	dinG	3.6.4.12	putative ATP-dependent helicase DinG 
+ELICBCKE_01083	gene	dinG		
+ELICBCKE_01084	CDS			hypothetical protein
+ELICBCKE_01084	gene			
+ELICBCKE_01085	CDS	hutH	4.3.1.3	Histidine ammonia-lyase
+ELICBCKE_01085	gene	hutH		
+ELICBCKE_01086	CDS	guaB_2	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+ELICBCKE_01086	gene	guaB_2		
+ELICBCKE_01087	CDS	rpsT		30S ribosomal protein S20
+ELICBCKE_01087	gene	rpsT		
+ELICBCKE_01088	CDS			Cyclic AMP receptor protein
+ELICBCKE_01088	gene			
+ELICBCKE_01089	CDS	argK	3.6.5.-	GTPase ArgK
+ELICBCKE_01089	gene	argK		
+ELICBCKE_01090	CDS	tatC		Sec-independent protein translocase protein TatC
+ELICBCKE_01090	gene	tatC		
+ELICBCKE_01091	CDS	sdsA	2.5.1.84	All-trans-nonaprenyl-diphosphate synthase (geranyl-diphosphate specific)
+ELICBCKE_01091	gene	sdsA		
+ELICBCKE_01092	CDS	rfaF	2.-.-.-	ADP-heptose--LPS heptosyltransferase 2
+ELICBCKE_01092	gene	rfaF		
+ELICBCKE_01093	CDS	waaA	2.4.99.12	3-deoxy-D-manno-octulosonic acid transferase
+ELICBCKE_01093	gene	waaA		
+ELICBCKE_01094	CDS	ecfA1	3.6.3.-	Energy-coupling factor transporter ATP-binding protein EcfA1
+ELICBCKE_01094	gene	ecfA1		
+ELICBCKE_01095	CDS	pgsA	2.7.8.5	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+ELICBCKE_01095	gene	pgsA		
+ELICBCKE_01096	CDS	ftsY		Signal recognition particle receptor FtsY
+ELICBCKE_01096	gene	ftsY		
+ELICBCKE_01097	CDS	rimO	2.8.4.4	Ribosomal protein S12 methylthiotransferase RimO
+ELICBCKE_01097	gene	rimO		
+ELICBCKE_01098	CDS	nfdA	3.5.1.91	N-substituted formamide deformylase
+ELICBCKE_01098	gene	nfdA		
+ELICBCKE_01099	CDS	uvrB		UvrABC system protein B
+ELICBCKE_01099	gene	uvrB		
+ELICBCKE_01100	CDS	galE_1	5.1.3.2	UDP-glucose 4-epimerase
+ELICBCKE_01100	gene	galE_1		
+ELICBCKE_01101	CDS	zraR_2		Transcriptional regulatory protein ZraR
+ELICBCKE_01101	gene	zraR_2		
+ELICBCKE_01102	CDS			hypothetical protein
+ELICBCKE_01102	gene			
+ELICBCKE_01103	CDS	asnS	6.1.1.22	Asparagine--tRNA ligase
+ELICBCKE_01103	gene	asnS		
+ELICBCKE_01104	CDS			hypothetical protein
+ELICBCKE_01104	gene			
+ELICBCKE_01105	CDS	yccX	3.6.1.7	Acylphosphatase
+ELICBCKE_01105	gene	yccX		
+ELICBCKE_01106	CDS	nadE	6.3.5.1	Glutamine-dependent NAD(+) synthetase
+ELICBCKE_01106	gene	nadE		
+ELICBCKE_01107	CDS			hypothetical protein
+ELICBCKE_01107	gene			
+ELICBCKE_01108	CDS	lepA	3.6.5.-	Elongation factor 4
+ELICBCKE_01108	gene	lepA		
+ELICBCKE_01109	CDS			hypothetical protein
+ELICBCKE_01109	gene			
+ELICBCKE_01110	CDS			hypothetical protein
+ELICBCKE_01110	gene			
+ELICBCKE_01111	CDS	lgt_2	2.4.99.-	Prolipoprotein diacylglyceryl transferase
+ELICBCKE_01111	gene	lgt_2		
+ELICBCKE_01112	CDS			hypothetical protein
+ELICBCKE_01112	gene			
+ELICBCKE_01113	CDS			hypothetical protein
+ELICBCKE_01113	gene			
+ELICBCKE_01114	CDS	fusA		Elongation factor G
+ELICBCKE_01114	gene	fusA		
+ELICBCKE_01115	CDS	rpsG		30S ribosomal protein S7
+ELICBCKE_01115	gene	rpsG		
+ELICBCKE_01116	CDS	rpsL		30S ribosomal protein S12
+ELICBCKE_01116	gene	rpsL		
+ELICBCKE_01117	CDS	rpoC	2.7.7.6	DNA-directed RNA polymerase subunit beta'
+ELICBCKE_01117	gene	rpoC		
+ELICBCKE_01118	CDS	rpoB	2.7.7.6	DNA-directed RNA polymerase subunit beta
+ELICBCKE_01118	gene	rpoB		
+ELICBCKE_01119	CDS	rplL		50S ribosomal protein L7/L12
+ELICBCKE_01119	gene	rplL		
+ELICBCKE_01120	CDS	rplJ		50S ribosomal protein L10
+ELICBCKE_01120	gene	rplJ		
+ELICBCKE_01121	CDS	rplA		50S ribosomal protein L1
+ELICBCKE_01121	gene	rplA		
+ELICBCKE_01122	CDS	rplK		50S ribosomal protein L11
+ELICBCKE_01122	gene	rplK		
+ELICBCKE_01123	CDS	nusG		Transcription termination/antitermination protein NusG
+ELICBCKE_01123	gene	nusG		
+ELICBCKE_01124	CDS	secE		Protein translocase subunit SecE
+ELICBCKE_01124	gene	secE		
+ELICBCKE_01125	tRNA			tRNA-Trp(cca)
+ELICBCKE_01125	gene			
+ELICBCKE_01126	CDS	rpmG2		50S ribosomal protein L33 2
+ELICBCKE_01126	gene	rpmG2		
+ELICBCKE_01127	CDS	corC		Magnesium and cobalt efflux protein CorC
+ELICBCKE_01127	gene	corC		
+ELICBCKE_01128	CDS			hypothetical protein
+ELICBCKE_01128	gene			
+ELICBCKE_01129	CDS			hypothetical protein
+ELICBCKE_01129	gene			
+ELICBCKE_01130	CDS			hypothetical protein
+ELICBCKE_01130	gene			
+ELICBCKE_01131	CDS		3.5.1.26	N(4)-(Beta-N-acetylglucosaminyl)-L-asparaginase
+ELICBCKE_01131	gene			
+ELICBCKE_01132	CDS	fieF		Ferrous-iron efflux pump FieF
+ELICBCKE_01132	gene	fieF		
+ELICBCKE_01133	CDS	coaX	2.7.1.33	Type III pantothenate kinase
+ELICBCKE_01133	gene	coaX		
+ELICBCKE_01134	CDS	birA	6.3.4.15	Bifunctional ligase/repressor BirA
+ELICBCKE_01134	gene	birA		
+ELICBCKE_01135	CDS			hypothetical protein
+ELICBCKE_01135	gene			
+ELICBCKE_01136	CDS	scpA_3	5.4.99.2	Methylmalonyl-CoA mutase
+ELICBCKE_01136	gene	scpA_3		
+ELICBCKE_01137	CDS	dnaJ_2		Chaperone protein DnaJ
+ELICBCKE_01137	gene	dnaJ_2		
+ELICBCKE_01138	CDS			hypothetical protein
+ELICBCKE_01138	gene			
+ELICBCKE_01139	CDS	glmU		Bifunctional protein GlmU
+ELICBCKE_01139	gene	glmU		
+ELICBCKE_01140	CDS			hypothetical protein
+ELICBCKE_01140	gene			
+ELICBCKE_01141	CDS			hypothetical protein
+ELICBCKE_01141	gene			
+ELICBCKE_01142	CDS	ybjG	3.6.1.27	Putative undecaprenyl-diphosphatase YbjG
+ELICBCKE_01142	gene	ybjG		
+ELICBCKE_01143	CDS			hypothetical protein
+ELICBCKE_01143	gene			
+ELICBCKE_01144	CDS	cirA_3		Colicin I receptor
+ELICBCKE_01144	gene	cirA_3		
+ELICBCKE_01145	CDS			hypothetical protein
+ELICBCKE_01145	gene			
+ELICBCKE_01146	CDS	etfB		Electron transfer flavoprotein subunit beta
+ELICBCKE_01146	gene	etfB		
+ELICBCKE_01147	CDS	acrA		Acryloyl-CoA reductase electron transfer subunit beta
+ELICBCKE_01147	gene	acrA		
+ELICBCKE_01148	CDS	glpC		Anaerobic glycerol-3-phosphate dehydrogenase subunit C
+ELICBCKE_01148	gene	glpC		
+ELICBCKE_01149	CDS	tadA	3.5.4.33	tRNA-specific adenosine deaminase
+ELICBCKE_01149	gene	tadA		
+ELICBCKE_01150	CDS			hypothetical protein
+ELICBCKE_01150	gene			
+ELICBCKE_01151	CDS			hypothetical protein
+ELICBCKE_01151	gene			
+ELICBCKE_01152	CDS	sufS	2.8.1.7	Cysteine desulfurase SufS
+ELICBCKE_01152	gene	sufS		
+ELICBCKE_01153	CDS			hypothetical protein
+ELICBCKE_01153	gene			
+ELICBCKE_01154	CDS	sufU	2.-.-.-	Zinc-dependent sulfurtransferase SufU
+ELICBCKE_01154	gene	sufU		
+ELICBCKE_01155	CDS	sufD		FeS cluster assembly protein SufD
+ELICBCKE_01155	gene	sufD		
+ELICBCKE_01156	CDS	sufC		putative ATP-dependent transporter SufC
+ELICBCKE_01156	gene	sufC		
+ELICBCKE_01157	CDS	sufB		FeS cluster assembly protein SufB
+ELICBCKE_01157	gene	sufB		
+ELICBCKE_01158	CDS	erpA		Iron-sulfur cluster insertion protein ErpA
+ELICBCKE_01158	gene	erpA		
+ELICBCKE_01159	CDS			hypothetical protein
+ELICBCKE_01159	gene			
+ELICBCKE_01160	CDS	nsrR		HTH-type transcriptional repressor NsrR
+ELICBCKE_01160	gene	nsrR		
+ELICBCKE_01161	CDS	selD	2.7.9.3	Selenide, water dikinase
+ELICBCKE_01161	gene	selD		
+ELICBCKE_01162	CDS			hypothetical protein
+ELICBCKE_01162	gene			
+ELICBCKE_01163	CDS	korA	1.2.7.3	2-oxoglutarate oxidoreductase subunit KorA
+ELICBCKE_01163	gene	korA		
+ELICBCKE_01164	CDS	korB	1.2.7.3	2-oxoglutarate oxidoreductase subunit KorB
+ELICBCKE_01164	gene	korB		
+ELICBCKE_01165	CDS	fumC	4.2.1.2	Fumarate hydratase class II
+ELICBCKE_01165	gene	fumC		
+ELICBCKE_01166	CDS	mrcA		Penicillin-binding protein 1A
+ELICBCKE_01166	gene	mrcA		
+ELICBCKE_01167	CDS	pdp	2.4.2.2	Pyrimidine-nucleoside phosphorylase
+ELICBCKE_01167	gene	pdp		
+ELICBCKE_01168	CDS			hypothetical protein
+ELICBCKE_01168	gene			
+ELICBCKE_01169	tRNA			tRNA-His(gtg)
+ELICBCKE_01169	gene			
+ELICBCKE_01170	tRNA			tRNA-Pro(tgg)
+ELICBCKE_01170	gene			
+ELICBCKE_01171	CDS			hypothetical protein
+ELICBCKE_01171	gene			
+ELICBCKE_01172	CDS			hypothetical protein
+ELICBCKE_01172	gene			
+ELICBCKE_01173	CDS			hypothetical protein
+ELICBCKE_01173	gene			
+ELICBCKE_01174	CDS			hypothetical protein
+ELICBCKE_01174	gene			
+ELICBCKE_01175	CDS			hypothetical protein
+ELICBCKE_01175	gene			
+ELICBCKE_01176	CDS			hypothetical protein
+ELICBCKE_01176	gene			
+ELICBCKE_01177	CDS	degP_1	3.4.21.107	Periplasmic serine endoprotease DegP
+ELICBCKE_01177	gene	degP_1		
+ELICBCKE_01178	CDS			hypothetical protein
+ELICBCKE_01178	gene			
+ELICBCKE_01179	CDS	murQ	4.2.1.126	N-acetylmuramic acid 6-phosphate etherase
+ELICBCKE_01179	gene	murQ		
+ELICBCKE_01180	CDS	alsT_2		Amino-acid carrier protein AlsT
+ELICBCKE_01180	gene	alsT_2		
+ELICBCKE_01181	CDS	mleN		Malate-2H(+)/Na(+)-lactate antiporter
+ELICBCKE_01181	gene	mleN		
+ELICBCKE_01182	CDS			hypothetical protein
+ELICBCKE_01182	gene			
+ELICBCKE_01183	CDS			hypothetical protein
+ELICBCKE_01183	gene			
+ELICBCKE_01184	CDS			hypothetical protein
+ELICBCKE_01184	gene			
+ELICBCKE_01185	CDS	ahcY	3.3.1.1	Adenosylhomocysteinase
+ELICBCKE_01185	gene	ahcY		
+ELICBCKE_01186	CDS	metK	2.5.1.6	S-adenosylmethionine synthase
+ELICBCKE_01186	gene	metK		
+ELICBCKE_01187	CDS	hpf		Ribosome hibernation promoting factor
+ELICBCKE_01187	gene	hpf		
+ELICBCKE_01188	CDS	pckA	4.1.1.49	Phosphoenolpyruvate carboxykinase (ATP)
+ELICBCKE_01188	gene	pckA		
+ELICBCKE_01189	CDS	xerC		Tyrosine recombinase XerC
+ELICBCKE_01189	gene	xerC		
+ELICBCKE_01190	CDS	rluD	5.4.99.23	Ribosomal large subunit pseudouridine synthase D
+ELICBCKE_01190	gene	rluD		
+ELICBCKE_01191	CDS	lspA	3.4.23.36	Lipoprotein signal peptidase
+ELICBCKE_01191	gene	lspA		
+ELICBCKE_01192	CDS	dksA		RNA polymerase-binding transcription factor DksA
+ELICBCKE_01192	gene	dksA		
+ELICBCKE_01193	CDS	ileS	6.1.1.5	Isoleucine--tRNA ligase
+ELICBCKE_01193	gene	ileS		
+ELICBCKE_01194	CDS			hypothetical protein
+ELICBCKE_01194	gene			
+ELICBCKE_01195	CDS			hypothetical protein
+ELICBCKE_01195	gene			
+ELICBCKE_01196	CDS			hypothetical protein
+ELICBCKE_01196	gene			
+ELICBCKE_01197	CDS			hypothetical protein
+ELICBCKE_01197	gene			
+ELICBCKE_01198	CDS			hypothetical protein
+ELICBCKE_01198	gene			
+ELICBCKE_01199	CDS			hypothetical protein
+ELICBCKE_01199	gene			
+ELICBCKE_01200	CDS			hypothetical protein
+ELICBCKE_01200	gene			
+ELICBCKE_01201	CDS			hypothetical protein
+ELICBCKE_01201	gene			
+ELICBCKE_01202	CDS	nrdZ	1.17.4.1	Vitamin B12-dependent ribonucleoside-diphosphate reductase
+ELICBCKE_01202	gene	nrdZ		
+ELICBCKE_01203	CDS	frr		Ribosome-recycling factor
+ELICBCKE_01203	gene	frr		
+ELICBCKE_01204	CDS	pyrH	2.7.4.22	Uridylate kinase
+ELICBCKE_01204	gene	pyrH		
+ELICBCKE_01205	CDS	tsf		Elongation factor Ts
+ELICBCKE_01205	gene	tsf		
+ELICBCKE_01206	CDS	rpsB		30S ribosomal protein S2
+ELICBCKE_01206	gene	rpsB		
+ELICBCKE_01207	CDS	rpsI		30S ribosomal protein S9
+ELICBCKE_01207	gene	rpsI		
+ELICBCKE_01208	CDS	rplM		50S ribosomal protein L13
+ELICBCKE_01208	gene	rplM		
+ELICBCKE_01209	CDS	pyrC	3.5.2.3	Dihydroorotase
+ELICBCKE_01209	gene	pyrC		
+ELICBCKE_01210	CDS	pyrB	2.1.3.2	Aspartate carbamoyltransferase
+ELICBCKE_01210	gene	pyrB		
+ELICBCKE_01211	CDS	pyrR		Bifunctional protein pyrR
+ELICBCKE_01211	gene	pyrR		
+ELICBCKE_01212	CDS	miaA	2.5.1.75	tRNA dimethylallyltransferase
+ELICBCKE_01212	gene	miaA		
+ELICBCKE_01213	CDS	nbaC_2	1.13.11.6	3-hydroxyanthranilate 3,4-dioxygenase
+ELICBCKE_01213	gene	nbaC_2		
+ELICBCKE_01214	CDS			hypothetical protein
+ELICBCKE_01214	gene			
+ELICBCKE_01215	CDS	mutL		DNA mismatch repair protein MutL
+ELICBCKE_01215	gene	mutL		
+ELICBCKE_01216	CDS		2.1.2.5	Glutamate formimidoyltransferase
+ELICBCKE_01216	gene			
+ELICBCKE_01217	CDS			hypothetical protein
+ELICBCKE_01217	gene			
+ELICBCKE_01218	CDS	xerD		Tyrosine recombinase XerD
+ELICBCKE_01218	gene	xerD		
+ELICBCKE_01219	CDS	gmhA	5.3.1.28	Phosphoheptose isomerase
+ELICBCKE_01219	gene	gmhA		
+ELICBCKE_01220	CDS		2.5.1.41	Geranylgeranylglyceryl phosphate synthase
+ELICBCKE_01220	gene			
+ELICBCKE_01221	CDS	gcvH		Glycine cleavage system H protein
+ELICBCKE_01221	gene	gcvH		
+ELICBCKE_01222	CDS	accC	6.3.4.14	Biotin carboxylase
+ELICBCKE_01222	gene	accC		
+ELICBCKE_01223	CDS	accB		Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+ELICBCKE_01223	gene	accB		
+ELICBCKE_01224	CDS	efp		Elongation factor P
+ELICBCKE_01224	gene	efp		
+ELICBCKE_01225	CDS			hypothetical protein
+ELICBCKE_01225	gene			
+ELICBCKE_01226	CDS			hypothetical protein
+ELICBCKE_01226	gene			
+ELICBCKE_01227	CDS	ravA	3.6.3.-	ATPase RavA
+ELICBCKE_01227	gene	ravA		
+ELICBCKE_01228	CDS	cpoB		Cell division coordinator CpoB
+ELICBCKE_01228	gene	cpoB		
+ELICBCKE_01229	CDS	bamA_2		Outer membrane protein assembly factor BamA
+ELICBCKE_01229	gene	bamA_2		
+ELICBCKE_01230	CDS			hypothetical protein
+ELICBCKE_01230	gene			
+ELICBCKE_01231	CDS	dnaK		Chaperone protein DnaK
+ELICBCKE_01231	gene	dnaK		
+ELICBCKE_01232	CDS			hypothetical protein
+ELICBCKE_01232	gene			
+ELICBCKE_01233	CDS	clpC		ATP-dependent Clp protease ATP-binding subunit ClpC
+ELICBCKE_01233	gene	clpC		
+ELICBCKE_01234	CDS	lolD	3.6.3.-	Lipoprotein-releasing system ATP-binding protein LolD
+ELICBCKE_01234	gene	lolD		
+ELICBCKE_01235	CDS	lolE_1		Lipoprotein-releasing system transmembrane protein LolE
+ELICBCKE_01235	gene	lolE_1		
+ELICBCKE_01236	CDS	lolE_2		Lipoprotein-releasing system transmembrane protein LolE
+ELICBCKE_01236	gene	lolE_2		
+ELICBCKE_01237	CDS	lysS	6.1.1.6	Lysine--tRNA ligase
+ELICBCKE_01237	gene	lysS		
+ELICBCKE_01238	CDS		3.4.24.-	putative zinc protease
+ELICBCKE_01238	gene			
+ELICBCKE_01239	CDS	prfB		Peptide chain release factor 2
+ELICBCKE_01239	gene	prfB		
+ELICBCKE_01240	CDS			hypothetical protein
+ELICBCKE_01240	gene			
+ELICBCKE_01241	CDS			hypothetical protein
+ELICBCKE_01241	gene			
+ELICBCKE_01242	CDS			hypothetical protein
+ELICBCKE_01242	gene			
+ELICBCKE_01243	CDS			hypothetical protein
+ELICBCKE_01243	gene			
+ELICBCKE_01244	CDS			hypothetical protein
+ELICBCKE_01244	gene			
+ELICBCKE_01245	CDS	gdhA_2	1.4.1.2	NAD(P)-specific glutamate dehydrogenase
+ELICBCKE_01245	gene	gdhA_2		
+ELICBCKE_01246	CDS			hypothetical protein
+ELICBCKE_01246	gene			
+ELICBCKE_01247	CDS	purF	2.4.2.14	Amidophosphoribosyltransferase
+ELICBCKE_01247	gene	purF		
+ELICBCKE_01248	CDS	pgk/tpi		Bifunctional PGK/TIM
+ELICBCKE_01248	gene	pgk/tpi		
+ELICBCKE_01249	CDS			hypothetical protein
+ELICBCKE_01249	gene			
+ELICBCKE_01250	CDS			hypothetical protein
+ELICBCKE_01250	gene			
+ELICBCKE_01251	tRNA			tRNA-Ser(gga)
+ELICBCKE_01251	gene			
+ELICBCKE_01252	tRNA			tRNA-Ser(tga)
+ELICBCKE_01252	gene			
+ELICBCKE_01253	CDS	gltX	6.1.1.17	Glutamate--tRNA ligase
+ELICBCKE_01253	gene	gltX		
+ELICBCKE_01254	CDS	glnS	6.1.1.18	Glutamine--tRNA ligase
+ELICBCKE_01254	gene	glnS		
+ELICBCKE_01255	CDS			hypothetical protein
+ELICBCKE_01255	gene			
+ELICBCKE_01256	CDS	resA_6		Thiol-disulfide oxidoreductase ResA
+ELICBCKE_01256	gene	resA_6		
+ELICBCKE_01257	CDS			hypothetical protein
+ELICBCKE_01257	gene			
+ELICBCKE_01258	CDS			hypothetical protein
+ELICBCKE_01258	gene			
+ELICBCKE_01259	tRNA			tRNA-Gln(ctg)
+ELICBCKE_01259	gene			
+ELICBCKE_01260	tRNA			tRNA-Arg(acg)
+ELICBCKE_01260	gene			
+ELICBCKE_01261	tRNA			tRNA-Glu(ctc)
+ELICBCKE_01261	gene			
+ELICBCKE_01262	CDS			hypothetical protein
+ELICBCKE_01262	gene			
+ELICBCKE_01263	CDS			hypothetical protein
+ELICBCKE_01263	gene			
+ELICBCKE_01264	CDS	kynU	3.7.1.3	Kynureninase
+ELICBCKE_01264	gene	kynU		
+ELICBCKE_01265	CDS	kynB	3.5.1.9	Kynurenine formamidase
+ELICBCKE_01265	gene	kynB		
+ELICBCKE_01266	CDS	yknY_2	3.6.3.-	putative ABC transporter ATP-binding protein YknY
+ELICBCKE_01266	gene	yknY_2		
+ELICBCKE_01267	CDS			hypothetical protein
+ELICBCKE_01267	gene			
+ELICBCKE_01268	CDS			hypothetical protein
+ELICBCKE_01268	gene			
+ELICBCKE_01269	CDS			hypothetical protein
+ELICBCKE_01269	gene			
+ELICBCKE_01270	CDS			hypothetical protein
+ELICBCKE_01270	gene			
+ELICBCKE_01271	CDS	alkB1	1.14.15.3	Alkane 1-monooxygenase 1
+ELICBCKE_01271	gene	alkB1		
+ELICBCKE_01272	CDS	ansA	3.5.1.1	L-asparaginase 1
+ELICBCKE_01272	gene	ansA		
+ELICBCKE_01273	CDS	arsC_1	1.20.4.1	Arsenate reductase
+ELICBCKE_01273	gene	arsC_1		
+ELICBCKE_01274	CDS			hypothetical protein
+ELICBCKE_01274	gene			
+ELICBCKE_01275	CDS			hypothetical protein
+ELICBCKE_01275	gene			
+ELICBCKE_01276	CDS			hypothetical protein
+ELICBCKE_01276	gene			
+ELICBCKE_01277	CDS	fbiB	6.3.2.31	Coenzyme F420:L-glutamate ligase
+ELICBCKE_01277	gene	fbiB		
+ELICBCKE_01278	CDS			hypothetical protein
+ELICBCKE_01278	gene			
+ELICBCKE_01279	CDS			hypothetical protein
+ELICBCKE_01279	gene			
+ELICBCKE_01280	CDS	zupT		Zinc transporter ZupT
+ELICBCKE_01280	gene	zupT		
+ELICBCKE_01281	CDS	cdaA	2.7.7.85	Cyclic di-AMP synthase CdaA
+ELICBCKE_01281	gene	cdaA		
+ELICBCKE_01282	CDS	folP	2.5.1.15	Dihydropteroate synthase
+ELICBCKE_01282	gene	folP		
+ELICBCKE_01283	CDS	ftsH	3.4.24.-	ATP-dependent zinc metalloprotease FtsH
+ELICBCKE_01283	gene	ftsH		
+ELICBCKE_01284	CDS	hpt	2.4.2.8	Hypoxanthine phosphoribosyltransferase
+ELICBCKE_01284	gene	hpt		
+ELICBCKE_01285	CDS	tilS	6.3.4.19	tRNA(Ile)-lysidine synthase
+ELICBCKE_01285	gene	tilS		
+ELICBCKE_01286	CDS	metF	1.5.1.20	5,10-methylenetetrahydrofolate reductase
+ELICBCKE_01286	gene	metF		
+ELICBCKE_01287	CDS	gloC	3.1.2.6	Hydroxyacylglutathione hydrolase GloC
+ELICBCKE_01287	gene	gloC		
+ELICBCKE_01288	CDS			hypothetical protein
+ELICBCKE_01288	gene			
+ELICBCKE_01289	CDS	ccmC		Heme exporter protein C
+ELICBCKE_01289	gene	ccmC		
+ELICBCKE_01290	CDS			hypothetical protein
+ELICBCKE_01290	gene			
+ELICBCKE_01291	CDS	fbpC	3.6.3.30	Fe(3+) ions import ATP-binding protein FbpC
+ELICBCKE_01291	gene	fbpC		
+ELICBCKE_01292	CDS			hypothetical protein
+ELICBCKE_01292	gene			
+ELICBCKE_01293	CDS	ccmF		Cytochrome c-type biogenesis protein CcmF
+ELICBCKE_01293	gene	ccmF		
+ELICBCKE_01294	CDS	ccmE		Cytochrome c-type biogenesis protein CcmE
+ELICBCKE_01294	gene	ccmE		
+ELICBCKE_01295	CDS	scpA_4	5.4.99.2	Methylmalonyl-CoA mutase
+ELICBCKE_01295	gene	scpA_4		
+ELICBCKE_01296	CDS	cstA		Carbon starvation protein A
+ELICBCKE_01296	gene	cstA		
+ELICBCKE_01297	CDS	dxs	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+ELICBCKE_01297	gene	dxs		
+ELICBCKE_01298	CDS	pdxT	4.3.3.6	Pyridoxal 5'-phosphate synthase subunit PdxT
+ELICBCKE_01298	gene	pdxT		
+ELICBCKE_01299	CDS	pdxS	4.3.3.6	Pyridoxal 5'-phosphate synthase subunit PdxS
+ELICBCKE_01299	gene	pdxS		
+ELICBCKE_01300	CDS	ispH	1.17.7.4	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+ELICBCKE_01300	gene	ispH		
+ELICBCKE_01301	CDS	nrnA	3.1.-.-	Bifunctional oligoribonuclease and PAP phosphatase NrnA
+ELICBCKE_01301	gene	nrnA		
+ELICBCKE_01302	CDS	yvqK	2.5.1.17	Cob(I)yrinic acid a,c-diamide adenosyltransferase
+ELICBCKE_01302	gene	yvqK		
+ELICBCKE_01303	CDS			hypothetical protein
+ELICBCKE_01303	gene			
+ELICBCKE_01304	CDS			hypothetical protein
+ELICBCKE_01304	gene			
+ELICBCKE_01305	CDS	apbE	2.7.1.180	FAD:protein FMN transferase
+ELICBCKE_01305	gene	apbE		
+ELICBCKE_01306	CDS	nqrF	1.6.5.8	Na(+)-translocating NADH-quinone reductase subunit F
+ELICBCKE_01306	gene	nqrF		
+ELICBCKE_01307	CDS	nqrE	1.6.5.8	Na(+)-translocating NADH-quinone reductase subunit E
+ELICBCKE_01307	gene	nqrE		
+ELICBCKE_01308	CDS	nqrD	1.6.5.8	Na(+)-translocating NADH-quinone reductase subunit D
+ELICBCKE_01308	gene	nqrD		
+ELICBCKE_01309	CDS	nqrC	1.6.5.8	Na(+)-translocating NADH-quinone reductase subunit C
+ELICBCKE_01309	gene	nqrC		
+ELICBCKE_01310	CDS	nqrB	1.6.5.8	Na(+)-translocating NADH-quinone reductase subunit B
+ELICBCKE_01310	gene	nqrB		
+ELICBCKE_01311	CDS	nqrA	1.6.5.8	Na(+)-translocating NADH-quinone reductase subunit A
+ELICBCKE_01311	gene	nqrA		
+ELICBCKE_01312	CDS	nuoN	1.6.5.11	NADH-quinone oxidoreductase subunit N
+ELICBCKE_01312	gene	nuoN		
+ELICBCKE_01313	CDS	nuoM	1.6.5.11	NADH-quinone oxidoreductase subunit M
+ELICBCKE_01313	gene	nuoM		
+ELICBCKE_01314	CDS	nuoL	1.6.5.11	NADH-quinone oxidoreductase subunit L
+ELICBCKE_01314	gene	nuoL		
+ELICBCKE_01315	CDS		1.6.5.11	NADH-quinone oxidoreductase subunit 11
+ELICBCKE_01315	gene			
+ELICBCKE_01316	CDS	nuoJ	1.6.5.11	NADH-quinone oxidoreductase subunit J
+ELICBCKE_01316	gene	nuoJ		
+ELICBCKE_01317	CDS	ndhI	1.6.5.-	NAD(P)H-quinone oxidoreductase subunit I
+ELICBCKE_01317	gene	ndhI		
+ELICBCKE_01318	CDS	nuoH	1.6.5.11	NADH-quinone oxidoreductase subunit H
+ELICBCKE_01318	gene	nuoH		
+ELICBCKE_01319	CDS	nqo4	1.6.5.11	NADH-quinone oxidoreductase subunit 4
+ELICBCKE_01319	gene	nqo4		
+ELICBCKE_01320	CDS	ndhJ	1.6.5.-	NAD(P)H-quinone oxidoreductase subunit J
+ELICBCKE_01320	gene	ndhJ		
+ELICBCKE_01321	CDS	nuoB	1.6.5.11	NADH-quinone oxidoreductase subunit B
+ELICBCKE_01321	gene	nuoB		
+ELICBCKE_01322	CDS	ndhC	1.6.5.-	NAD(P)H-quinone oxidoreductase subunit 3
+ELICBCKE_01322	gene	ndhC		
+ELICBCKE_01323	CDS	fadM	1.5.5.2	Proline dehydrogenase 1
+ELICBCKE_01323	gene	fadM		
+ELICBCKE_01324	CDS			hypothetical protein
+ELICBCKE_01324	gene			
+ELICBCKE_01325	CDS	nadK	2.7.1.23	NAD kinase
+ELICBCKE_01325	gene	nadK		
+ELICBCKE_01326	CDS	xseB	3.1.11.6	Exodeoxyribonuclease 7 small subunit
+ELICBCKE_01326	gene	xseB		
+ELICBCKE_01327	CDS	xseA	3.1.11.6	Exodeoxyribonuclease 7 large subunit
+ELICBCKE_01327	gene	xseA		
+ELICBCKE_01328	CDS			hypothetical protein
+ELICBCKE_01328	gene			
+ELICBCKE_01329	CDS			DNA-binding protein HU
+ELICBCKE_01329	gene			
+ELICBCKE_01330	CDS	mltD	4.2.2.-	Membrane-bound lytic murein transglycosylase D
+ELICBCKE_01330	gene	mltD		
+ELICBCKE_01331	CDS	hldE_2		Bifunctional protein HldE
+ELICBCKE_01331	gene	hldE_2		
+ELICBCKE_01332	CDS			hypothetical protein
+ELICBCKE_01332	gene			
+ELICBCKE_01333	CDS	plsC_2	2.3.1.-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+ELICBCKE_01333	gene	plsC_2		
+ELICBCKE_01334	CDS	serS	6.1.1.11	Serine--tRNA ligase
+ELICBCKE_01334	gene	serS		
+ELICBCKE_01335	CDS	wecA	2.7.8.40	UDP-N-acetylgalactosamine-undecaprenyl-phosphate N-acetylgalactosaminephosphotransferase
+ELICBCKE_01335	gene	wecA		
+ELICBCKE_01336	CDS	pepN_2	3.4.11.2	Aminopeptidase N
+ELICBCKE_01336	gene	pepN_2		
+ELICBCKE_01337	CDS	bamB		Outer membrane protein assembly factor BamB
+ELICBCKE_01337	gene	bamB		
+ELICBCKE_01338	CDS			hypothetical protein
+ELICBCKE_01338	gene			
+ELICBCKE_01339	CDS	thpR	3.1.4.-	RNA 2',3'-cyclic phosphodiesterase
+ELICBCKE_01339	gene	thpR		
+ELICBCKE_01340	CDS			hypothetical protein
+ELICBCKE_01340	gene			
+ELICBCKE_01341	CDS			hypothetical protein
+ELICBCKE_01341	gene			
+ELICBCKE_01342	CDS			hypothetical protein
+ELICBCKE_01342	gene			
+ELICBCKE_01343	CDS			hypothetical protein
+ELICBCKE_01343	gene			
+ELICBCKE_01344	CDS			hypothetical protein
+ELICBCKE_01344	gene			
+ELICBCKE_01345	CDS			hypothetical protein
+ELICBCKE_01345	gene			
+ELICBCKE_01346	CDS			hypothetical protein
+ELICBCKE_01346	gene			
+ELICBCKE_01347	CDS			hypothetical protein
+ELICBCKE_01347	gene			
+ELICBCKE_01348	CDS	lapB_2		Lipopolysaccharide assembly protein B
+ELICBCKE_01348	gene	lapB_2		
+ELICBCKE_01349	CDS			hypothetical protein
+ELICBCKE_01349	gene			
+ELICBCKE_01350	CDS	ispG	1.17.7.1	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (ferredoxin)
+ELICBCKE_01350	gene	ispG		
+ELICBCKE_01351	CDS			hypothetical protein
+ELICBCKE_01351	gene			
+ELICBCKE_01352	CDS			hypothetical protein
+ELICBCKE_01352	gene			
+ELICBCKE_01353	CDS	comM		Competence protein ComM
+ELICBCKE_01353	gene	comM		
+ELICBCKE_01354	CDS		1.5.1.45	NAD(P)H-dependent FAD/FMN reductase
+ELICBCKE_01354	gene			
+ELICBCKE_01355	CDS			hypothetical protein
+ELICBCKE_01355	gene			
+ELICBCKE_01356	CDS	mscS		Small-conductance mechanosensitive channel
+ELICBCKE_01356	gene	mscS		
+ELICBCKE_01357	CDS			hypothetical protein
+ELICBCKE_01357	gene			
+ELICBCKE_01358	CDS	steT_3		Serine/threonine exchanger SteT
+ELICBCKE_01358	gene	steT_3		
+ELICBCKE_01359	CDS	mmuM	2.1.1.10	Homocysteine S-methyltransferase
+ELICBCKE_01359	gene	mmuM		
+ELICBCKE_01360	CDS	dut	3.6.1.23	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+ELICBCKE_01360	gene	dut		
+ELICBCKE_01361	CDS	groS_2		10 kDa chaperonin
+ELICBCKE_01361	gene	groS_2		
+ELICBCKE_01362	CDS	groL		60 kDa chaperonin
+ELICBCKE_01362	gene	groL		
+ELICBCKE_01363	CDS	folB	4.1.2.25	Dihydroneopterin aldolase
+ELICBCKE_01363	gene	folB		
+ELICBCKE_01364	CDS	folK	2.7.6.3	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+ELICBCKE_01364	gene	folK		
+ELICBCKE_01365	CDS	dgk	2.7.1.113	Deoxyguanosine kinase
+ELICBCKE_01365	gene	dgk		
+ELICBCKE_01366	CDS			hypothetical protein
+ELICBCKE_01366	gene			
+ELICBCKE_01367	CDS			hypothetical protein
+ELICBCKE_01367	gene			
+ELICBCKE_01368	CDS	adhT	1.1.1.1	Alcohol dehydrogenase
+ELICBCKE_01368	gene	adhT		
+ELICBCKE_01369	CDS			hypothetical protein
+ELICBCKE_01369	gene			
+ELICBCKE_01370	CDS	rsmE	2.1.1.193	Ribosomal RNA small subunit methyltransferase E
+ELICBCKE_01370	gene	rsmE		
+ELICBCKE_01371	CDS		3.9.1.-	Purine nucleoside phosphoramidase
+ELICBCKE_01371	gene			
+ELICBCKE_01372	CDS			hypothetical protein
+ELICBCKE_01372	gene			
+ELICBCKE_01373	CDS	smc_2		Chromosome partition protein Smc
+ELICBCKE_01373	gene	smc_2		
+ELICBCKE_01374	CDS	ffh		Signal recognition particle protein
+ELICBCKE_01374	gene	ffh		
+ELICBCKE_01375	CDS	rpsP		30S ribosomal protein S16
+ELICBCKE_01375	gene	rpsP		
+ELICBCKE_01376	CDS			hypothetical protein
+ELICBCKE_01376	gene			
+ELICBCKE_01377	CDS	rimM		Ribosome maturation factor RimM
+ELICBCKE_01377	gene	rimM		
+ELICBCKE_01378	CDS	trmD	2.1.1.228	tRNA (guanine-N(1)-)-methyltransferase
+ELICBCKE_01378	gene	trmD		
+ELICBCKE_01379	CDS	rplS		50S ribosomal protein L19
+ELICBCKE_01379	gene	rplS		
+ELICBCKE_01380	CDS	ynfM		Inner membrane transport protein YnfM
+ELICBCKE_01380	gene	ynfM		
+ELICBCKE_01381	CDS	selA	2.9.1.1	L-seryl-tRNA(Sec) selenium transferase
+ELICBCKE_01381	gene	selA		
+ELICBCKE_01382	CDS	selB		Selenocysteine-specific elongation factor
+ELICBCKE_01382	gene	selB		
+ELICBCKE_01383	CDS	mutS		DNA mismatch repair protein MutS
+ELICBCKE_01383	gene	mutS		
+ELICBCKE_01384	CDS			hypothetical protein
+ELICBCKE_01384	gene			
+ELICBCKE_01385	CDS	prfA_2		Peptide chain release factor 1
+ELICBCKE_01385	gene	prfA_2		
+ELICBCKE_01386	CDS			hypothetical protein
+ELICBCKE_01386	gene			
+ELICBCKE_01387	CDS	gmk	2.7.4.8	Guanylate kinase
+ELICBCKE_01387	gene	gmk		
+ELICBCKE_01388	CDS	rpoZ	2.7.7.6	DNA-directed RNA polymerase subunit omega
+ELICBCKE_01388	gene	rpoZ		
+ELICBCKE_01389	CDS			hypothetical protein
+ELICBCKE_01389	gene			
+ELICBCKE_01390	CDS	dnaC	3.6.4.12	Replicative DNA helicase
+ELICBCKE_01390	gene	dnaC		
+ELICBCKE_01391	CDS	relA	2.7.6.5	GTP pyrophosphokinase
+ELICBCKE_01391	gene	relA		
+ELICBCKE_01392	CDS		3.1.-.-	Putative pre-16S rRNA nuclease
+ELICBCKE_01392	gene			
+ELICBCKE_01393	CDS	lnt	2.3.1.-	Apolipoprotein N-acyltransferase
+ELICBCKE_01393	gene	lnt		
+ELICBCKE_01394	CDS			hypothetical protein
+ELICBCKE_01394	gene			
+ELICBCKE_01395	CDS	ecfT		Energy-coupling factor transporter transmembrane protein EcfT
+ELICBCKE_01395	gene	ecfT		
+ELICBCKE_01396	CDS	truA	5.4.99.12	tRNA pseudouridine synthase A
+ELICBCKE_01396	gene	truA		
+ELICBCKE_01397	CDS	htrA		Putative serine protease HtrA
+ELICBCKE_01397	gene	htrA		
+ELICBCKE_01398	CDS	psd	4.1.1.65	Phosphatidylserine decarboxylase proenzyme
+ELICBCKE_01398	gene	psd		
+ELICBCKE_01399	CDS			hypothetical protein
+ELICBCKE_01399	gene			
+ELICBCKE_01400	CDS			hypothetical protein
+ELICBCKE_01400	gene			
+ELICBCKE_01401	CDS	tatA		Sec-independent protein translocase protein TatA
+ELICBCKE_01401	gene	tatA		
+ELICBCKE_01402	CDS			hypothetical protein
+ELICBCKE_01402	gene			
+ELICBCKE_01403	CDS			hypothetical protein
+ELICBCKE_01403	gene			
+ELICBCKE_01404	CDS			hypothetical protein
+ELICBCKE_01404	gene			
+ELICBCKE_01405	CDS			hypothetical protein
+ELICBCKE_01405	gene			
+ELICBCKE_01406	CDS			hypothetical protein
+ELICBCKE_01406	gene			
+ELICBCKE_01407	CDS			hypothetical protein
+ELICBCKE_01407	gene			
+ELICBCKE_01408	CDS			putative transcriptional regulatory protein
+ELICBCKE_01408	gene			
+ELICBCKE_01409	CDS	ruvC	3.1.22.4	Crossover junction endodeoxyribonuclease RuvC
+ELICBCKE_01409	gene	ruvC		
+ELICBCKE_01410	CDS	ruvA	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvA
+ELICBCKE_01410	gene	ruvA		
+ELICBCKE_01411	CDS	aspC_2	2.6.1.1	Aspartate aminotransferase
+ELICBCKE_01411	gene	aspC_2		
+ELICBCKE_01412	CDS	gcvT	2.1.2.10	Aminomethyltransferase
+ELICBCKE_01412	gene	gcvT		
+ELICBCKE_01413	CDS	galE_2	5.1.3.2	UDP-glucose 4-epimerase
+ELICBCKE_01413	gene	galE_2		
+ELICBCKE_01414	CDS	spoIIIE		DNA translocase SpoIIIE
+ELICBCKE_01414	gene	spoIIIE		
+ELICBCKE_01415	CDS			hypothetical protein
+ELICBCKE_01415	gene			
+ELICBCKE_01416	CDS			hypothetical protein
+ELICBCKE_01416	gene			
+ELICBCKE_01417	CDS	gmhB	3.1.3.82	D-glycero-beta-D-manno-heptose-1,7-bisphosphate 7-phosphatase
+ELICBCKE_01417	gene	gmhB		
+ELICBCKE_01418	CDS	ddlB	6.3.2.4	D-alanine--D-alanine ligase B
+ELICBCKE_01418	gene	ddlB		
+ELICBCKE_01419	CDS	cysS	6.1.1.16	Cysteine--tRNA ligase
+ELICBCKE_01419	gene	cysS		
+ELICBCKE_01420	tRNA			tRNA-Thr(tgt)
+ELICBCKE_01420	gene			
+ELICBCKE_01421	tRNA			tRNA-Tyr(gta)
+ELICBCKE_01421	gene			
+ELICBCKE_01422	tRNA			tRNA-Gly(tcc)
+ELICBCKE_01422	gene			
+ELICBCKE_01423	tRNA			tRNA-Thr(ggt)
+ELICBCKE_01423	gene			
+ELICBCKE_01424	tRNA			tRNA-Met(cat)
+ELICBCKE_01424	gene			
+ELICBCKE_01425	CDS			hypothetical protein
+ELICBCKE_01425	gene			
+ELICBCKE_01426	CDS			hypothetical protein
+ELICBCKE_01426	gene			
+ELICBCKE_01427	CDS	acsA_2	6.2.1.1	Acetyl-coenzyme A synthetase
+ELICBCKE_01427	gene	acsA_2		
+ELICBCKE_01428	CDS			hypothetical protein
+ELICBCKE_01428	gene			
+ELICBCKE_01429	CDS	gpmA	5.4.2.11	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+ELICBCKE_01429	gene	gpmA		
+ELICBCKE_01430	CDS	fetB		putative iron export permease protein FetB
+ELICBCKE_01430	gene	fetB		
+ELICBCKE_01431	CDS			hypothetical protein
+ELICBCKE_01431	gene			
+ELICBCKE_01432	tRNA			tRNA-Val(cac)
+ELICBCKE_01432	gene			
+ELICBCKE_01433	CDS			hypothetical protein
+ELICBCKE_01433	gene			
+ELICBCKE_01434	CDS	susC_6		TonB-dependent receptor SusC
+ELICBCKE_01434	gene	susC_6		
+ELICBCKE_01435	CDS			hypothetical protein
+ELICBCKE_01435	gene			
+ELICBCKE_01436	CDS			hypothetical protein
+ELICBCKE_01436	gene			
+ELICBCKE_01437	CDS	dnaG	2.7.7.-	DNA primase
+ELICBCKE_01437	gene	dnaG		
+ELICBCKE_01438	CDS			hypothetical protein
+ELICBCKE_01438	gene			
+ELICBCKE_01439	CDS			hypothetical protein
+ELICBCKE_01439	gene			
+ELICBCKE_01440	CDS	yhdJ_2	2.1.1.72	DNA adenine methyltransferase YhdJ
+ELICBCKE_01440	gene	yhdJ_2		
+ELICBCKE_01441	CDS	arsC_2	1.20.4.1	Glutaredoxin arsenate reductase
+ELICBCKE_01441	gene	arsC_2		
+ELICBCKE_01442	CDS			hypothetical protein
+ELICBCKE_01442	gene			
+ELICBCKE_01443	CDS	pac	3.5.1.11	Penicillin G acylase
+ELICBCKE_01443	gene	pac		
+ELICBCKE_01444	CDS			hypothetical protein
+ELICBCKE_01444	gene			
+ELICBCKE_01445	CDS	degP_2	3.4.21.107	Periplasmic serine endoprotease DegP
+ELICBCKE_01445	gene	degP_2		
+ELICBCKE_01446	CDS			hypothetical protein
+ELICBCKE_01446	gene			
+ELICBCKE_01447	CDS	gluP_2	3.4.21.105	Rhomboid protease GluP
+ELICBCKE_01447	gene	gluP_2		
+ELICBCKE_01448	CDS	cdd	3.5.4.5	Cytidine deaminase
+ELICBCKE_01448	gene	cdd		
+ELICBCKE_01449	CDS	udk	2.7.1.48	Uridine kinase
+ELICBCKE_01449	gene	udk		
+ELICBCKE_01450	CDS	tdk	2.7.1.21	Thymidine kinase
+ELICBCKE_01450	gene	tdk		
+ELICBCKE_01451	CDS	nupX		Putative nucleoside permease NupX
+ELICBCKE_01451	gene	nupX		
+ELICBCKE_01452	CDS	adk	2.7.4.3	Adenylate kinase
+ELICBCKE_01452	gene	adk		
+ELICBCKE_01453	CDS	coaE	2.7.1.24	Dephospho-CoA kinase
+ELICBCKE_01453	gene	coaE		
+ELICBCKE_01454	CDS			hypothetical protein
+ELICBCKE_01454	gene			
+ELICBCKE_01455	CDS			hypothetical protein
+ELICBCKE_01455	gene			
+ELICBCKE_01456	CDS			hypothetical protein
+ELICBCKE_01456	gene			
+ELICBCKE_01457	CDS		2.3.1.-	Phosphatidylinositol mannoside acyltransferase
+ELICBCKE_01457	gene			
+ELICBCKE_01458	CDS	tsaC	2.7.7.87	Threonylcarbamoyl-AMP synthase
+ELICBCKE_01458	gene	tsaC		
+ELICBCKE_01459	CDS			hypothetical protein
+ELICBCKE_01459	gene			
+ELICBCKE_01460	CDS	rasP	3.4.24.-	Regulator of sigma-W protease RasP
+ELICBCKE_01460	gene	rasP		
+ELICBCKE_01461	CDS	dxr	1.1.1.267	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+ELICBCKE_01461	gene	dxr		
+ELICBCKE_01462	CDS			hypothetical protein
+ELICBCKE_01462	gene			
+ELICBCKE_01463	CDS	lpxA	2.3.1.129	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+ELICBCKE_01463	gene	lpxA		
+ELICBCKE_01464	CDS	fabZ	4.2.1.59	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+ELICBCKE_01464	gene	fabZ		
+ELICBCKE_01465	CDS	lpxC	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+ELICBCKE_01465	gene	lpxC		
+ELICBCKE_01466	CDS	lpxD	2.3.1.-	UDP-3-O-acylglucosamine N-acyltransferase
+ELICBCKE_01466	gene	lpxD		
+ELICBCKE_01467	CDS			hypothetical protein
+ELICBCKE_01467	gene			
+ELICBCKE_01468	CDS	bamA_3		Outer membrane protein assembly factor BamA
+ELICBCKE_01468	gene	bamA_3		
+ELICBCKE_01469	CDS	uppS	2.5.1.31	Ditrans,polycis-undecaprenyl-diphosphate synthase ((2E,6E)-farnesyl-diphosphate specific)
+ELICBCKE_01469	gene	uppS		
+ELICBCKE_01470	CDS			hypothetical protein
+ELICBCKE_01470	gene			
+ELICBCKE_01471	CDS			hypothetical protein
+ELICBCKE_01471	gene			
+ELICBCKE_01472	CDS	apbC		Iron-sulfur cluster carrier protein
+ELICBCKE_01472	gene	apbC		
+ELICBCKE_01473	CDS	fdxA_2		Ferredoxin 7Fe
+ELICBCKE_01473	gene	fdxA_2		
+ELICBCKE_01474	CDS	bacE		Putative bacilysin exporter BacE
+ELICBCKE_01474	gene	bacE		
+ELICBCKE_01475	CDS	rsxB		Electron transport complex subunit RsxB
+ELICBCKE_01475	gene	rsxB		
+ELICBCKE_01476	CDS	glpK	2.7.1.30	Glycerol kinase
+ELICBCKE_01476	gene	glpK		
+ELICBCKE_01477	CDS			hypothetical protein
+ELICBCKE_01477	gene			
+ELICBCKE_01478	CDS	gph_3	3.1.3.18	Phosphoglycolate phosphatase
+ELICBCKE_01478	gene	gph_3		
+ELICBCKE_01479	CDS	cefD	5.1.1.17	Isopenicillin N epimerase
+ELICBCKE_01479	gene	cefD		
+ELICBCKE_01480	CDS	pepC	3.4.22.40	Aminopeptidase C
+ELICBCKE_01480	gene	pepC		
+ELICBCKE_01481	CDS			hypothetical protein
+ELICBCKE_01481	gene			
+ELICBCKE_01482	CDS	plsC_3	2.3.1.51	1-acyl-sn-glycerol-3-phosphate acyltransferase
+ELICBCKE_01482	gene	plsC_3		
+ELICBCKE_01483	CDS	mutY	3.2.2.-	Adenine DNA glycosylase
+ELICBCKE_01483	gene	mutY		
+ELICBCKE_01484	CDS	mprA		Transcriptional repressor MprA
+ELICBCKE_01484	gene	mprA		
+ELICBCKE_01485	CDS	csaA		putative chaperone CsaA
+ELICBCKE_01485	gene	csaA		
+ELICBCKE_01486	CDS		3.1.1.3	Lipase
+ELICBCKE_01486	gene			
+ELICBCKE_01487	CDS			hypothetical protein
+ELICBCKE_01487	gene			
+ELICBCKE_01488	CDS	glnII	6.3.1.2	Glutamine synthetase 2
+ELICBCKE_01488	gene	glnII		
+ELICBCKE_01489	CDS	lrp		Leucine-responsive regulatory protein
+ELICBCKE_01489	gene	lrp		
+ELICBCKE_01490	CDS			hypothetical protein
+ELICBCKE_01490	gene			
+ELICBCKE_01491	CDS			hypothetical protein
+ELICBCKE_01491	gene			
+ELICBCKE_01492	CDS	priA	3.6.4.-	Primosomal protein N'
+ELICBCKE_01492	gene	priA		
+ELICBCKE_01493	CDS	rplI		50S ribosomal protein L9
+ELICBCKE_01493	gene	rplI		
+ELICBCKE_01494	CDS	rpsR		30S ribosomal protein S18
+ELICBCKE_01494	gene	rpsR		
+ELICBCKE_01495	CDS	rpsF		30S ribosomal protein S6
+ELICBCKE_01495	gene	rpsF		
+ELICBCKE_01496	CDS	hppA1	3.6.1.1	Putative K(+)-stimulated pyrophosphate-energized sodium pump
+ELICBCKE_01496	gene	hppA1		
+ELICBCKE_01497	CDS	pth	3.1.1.29	Peptidyl-tRNA hydrolase
+ELICBCKE_01497	gene	pth		
+ELICBCKE_01498	CDS	ctc		General stress protein CTC
+ELICBCKE_01498	gene	ctc		
+ELICBCKE_01499	CDS	prs	2.7.6.1	Ribose-phosphate pyrophosphokinase
+ELICBCKE_01499	gene	prs		
+ELICBCKE_01500	tRNA			tRNA-Gln(ttg)
+ELICBCKE_01500	gene			
+ELICBCKE_01501	CDS	ispE	2.7.1.148	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+ELICBCKE_01501	gene	ispE		
+ELICBCKE_01502	CDS	ispF	4.6.1.12	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+ELICBCKE_01502	gene	ispF		
+ELICBCKE_01503	CDS	ispD	2.7.7.60	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+ELICBCKE_01503	gene	ispD		
+ELICBCKE_01504	CDS	queA	2.4.99.17	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+ELICBCKE_01504	gene	queA		
+ELICBCKE_01505	CDS	ruvB	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvB
+ELICBCKE_01505	gene	ruvB		
+ELICBCKE_01506	CDS	tktA	2.2.1.1	Transketolase 1
+ELICBCKE_01506	gene	tktA		
+ELICBCKE_01507	CDS	uvrA		UvrABC system protein A
+ELICBCKE_01507	gene	uvrA		
+ELICBCKE_01508	CDS			hypothetical protein
+ELICBCKE_01508	gene			
+ELICBCKE_01509	CDS	impX		Riboflavin transporter ImpX
+ELICBCKE_01509	gene	impX		
+ELICBCKE_01510	CDS			hypothetical protein
+ELICBCKE_01510	gene			
+ELICBCKE_01511	CDS			hypothetical protein
+ELICBCKE_01511	gene			
+ELICBCKE_01512	CDS	fabL	1.3.1.104	Enoyl-[acyl-carrier-protein] reductase [NADPH] FabL
+ELICBCKE_01512	gene	fabL		
+ELICBCKE_01513	CDS	fabA	4.2.1.59	3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase
+ELICBCKE_01513	gene	fabA		
+ELICBCKE_01514	CDS	ychF		Ribosome-binding ATPase YchF
+ELICBCKE_01514	gene	ychF		
+ELICBCKE_01515	CDS			hypothetical protein
+ELICBCKE_01515	gene			
+ELICBCKE_01516	CDS			hypothetical protein
+ELICBCKE_01516	gene			
+ELICBCKE_01517	CDS	iolX	1.1.1.370	scyllo-inositol 2-dehydrogenase (NAD(+))
+ELICBCKE_01517	gene	iolX		
+ELICBCKE_01518	CDS			hypothetical protein
+ELICBCKE_01518	gene			
+ELICBCKE_01519	CDS	lpxB	2.4.1.182	Lipid-A-disaccharide synthase
+ELICBCKE_01519	gene	lpxB		
+ELICBCKE_01520	CDS			hypothetical protein
+ELICBCKE_01520	gene			
+ELICBCKE_01521	CDS	lpxK	2.7.1.130	Tetraacyldisaccharide 4'-kinase
+ELICBCKE_01521	gene	lpxK		
+ELICBCKE_01522	CDS			hypothetical protein
+ELICBCKE_01522	gene			
+ELICBCKE_01523	CDS			hypothetical protein
+ELICBCKE_01523	gene			
+ELICBCKE_01524	CDS			hypothetical protein
+ELICBCKE_01524	gene			
+ELICBCKE_01525	CDS	ctpA	3.4.21.102	Carboxy-terminal processing protease CtpA
+ELICBCKE_01525	gene	ctpA		
+ELICBCKE_01526	CDS	exbB		Biopolymer transport protein ExbB
+ELICBCKE_01526	gene	exbB		
+ELICBCKE_01527	CDS			hypothetical protein
+ELICBCKE_01527	gene			
+ELICBCKE_01528	CDS			hypothetical protein
+ELICBCKE_01528	gene			
+ELICBCKE_01529	CDS			hypothetical protein
+ELICBCKE_01529	gene			
+ELICBCKE_01530	CDS	frdB	1.3.5.1	Fumarate reductase iron-sulfur subunit
+ELICBCKE_01530	gene	frdB		
+ELICBCKE_01531	CDS	frdA	1.3.5.4	Fumarate reductase flavoprotein subunit
+ELICBCKE_01531	gene	frdA		
+ELICBCKE_01532	CDS			hypothetical protein
+ELICBCKE_01532	gene			
+ELICBCKE_01533	CDS			hypothetical protein
+ELICBCKE_01533	gene			
+ELICBCKE_01534	CDS	egtA	6.3.2.2	Glutamate--cysteine ligase EgtA
+ELICBCKE_01534	gene	egtA		
+ELICBCKE_01535	CDS	gsiD		Glutathione transport system permease protein GsiD
+ELICBCKE_01535	gene	gsiD		
+ELICBCKE_01536	CDS	dppB		Dipeptide transport system permease protein DppB
+ELICBCKE_01536	gene	dppB		
+ELICBCKE_01537	CDS	hbpA		Heme-binding protein A
+ELICBCKE_01537	gene	hbpA		
+ELICBCKE_01538	CDS	fliG		Flagellar motor switch protein FliG
+ELICBCKE_01538	gene	fliG		
+ELICBCKE_01539	CDS			hypothetical protein
+ELICBCKE_01539	gene			
+ELICBCKE_01540	CDS	motB		Motility protein B
+ELICBCKE_01540	gene	motB		
+ELICBCKE_01541	CDS	pomA_2		Chemotaxis protein PomA
+ELICBCKE_01541	gene	pomA_2		
+ELICBCKE_01542	CDS			hypothetical protein
+ELICBCKE_01542	gene			
+ELICBCKE_01543	CDS			hypothetical protein
+ELICBCKE_01543	gene			
+ELICBCKE_01544	CDS			hypothetical protein
+ELICBCKE_01544	gene			
+ELICBCKE_01545	CDS			hypothetical protein
+ELICBCKE_01545	gene			
+ELICBCKE_01546	CDS	tldD	3.4.-.-	Metalloprotease TldD
+ELICBCKE_01546	gene	tldD		

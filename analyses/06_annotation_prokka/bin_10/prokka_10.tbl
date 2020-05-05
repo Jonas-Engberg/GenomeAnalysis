@@ -1,0 +1,2904 @@
+>Feature k105_4186
+666	37	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00001
+			product	hypothetical protein
+666	37	gene
+			locus_tag	HNIILFLH_00001
+1205	1411	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00002
+			product	hypothetical protein
+1205	1411	gene
+			locus_tag	HNIILFLH_00002
+2420	1746	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00003
+			product	hypothetical protein
+2420	1746	gene
+			locus_tag	HNIILFLH_00003
+3507	2425	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00004
+			product	hypothetical protein
+3507	2425	gene
+			locus_tag	HNIILFLH_00004
+>Feature k105_5295
+3	1850	CDS
+			EC_number	3.6.3.-
+			gene	wtpC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O30144
+			locus_tag	HNIILFLH_00005
+			product	Molybdate/tungstate import ATP-binding protein WtpC
+3	1850	gene
+			gene	wtpC
+			locus_tag	HNIILFLH_00005
+1855	2673	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00006
+			product	hypothetical protein
+1855	2673	gene
+			locus_tag	HNIILFLH_00006
+3354	2668	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00007
+			product	hypothetical protein
+3354	2668	gene
+			locus_tag	HNIILFLH_00007
+>Feature k105_6879
+3	326	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00008
+			product	hypothetical protein
+3	326	gene
+			locus_tag	HNIILFLH_00008
+421	2148	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00009
+			product	hypothetical protein
+421	2148	gene
+			locus_tag	HNIILFLH_00009
+3110	2145	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00010
+			product	hypothetical protein
+3110	2145	gene
+			locus_tag	HNIILFLH_00010
+3427	3122	CDS
+			EC_number	6.4.1.1
+			gene	pycA_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q58626
+			locus_tag	HNIILFLH_00011
+			product	Pyruvate carboxylase subunit A
+3427	3122	gene
+			gene	pycA_1
+			locus_tag	HNIILFLH_00011
+>Feature k105_7885
+10	3747	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00012
+			product	hypothetical protein
+10	3747	gene
+			locus_tag	HNIILFLH_00012
+3908	3741	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00013
+			product	hypothetical protein
+3908	3741	gene
+			locus_tag	HNIILFLH_00013
+>Feature k105_9632
+296	1672	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00014
+			product	hypothetical protein
+296	1672	gene
+			locus_tag	HNIILFLH_00014
+2494	1862	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00015
+			product	hypothetical protein
+2494	1862	gene
+			locus_tag	HNIILFLH_00015
+>Feature k105_15085
+62	250	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00016
+			product	hypothetical protein
+62	250	gene
+			locus_tag	HNIILFLH_00016
+295	633	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00017
+			product	hypothetical protein
+295	633	gene
+			locus_tag	HNIILFLH_00017
+688	2043	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q58928
+			locus_tag	HNIILFLH_00018
+			product	putative KH and PIN-domain containing protein
+688	2043	gene
+			locus_tag	HNIILFLH_00018
+3378	2941	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00019
+			product	hypothetical protein
+3378	2941	gene
+			locus_tag	HNIILFLH_00019
+>Feature k105_19003
+766	197	CDS
+			EC_number	2.4.2.8
+			gene	hpt
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q6M0X3
+			locus_tag	HNIILFLH_00020
+			product	Hypoxanthine/guanine phosphoribosyltransferase
+766	197	gene
+			gene	hpt
+			locus_tag	HNIILFLH_00020
+1320	781	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P60617
+			locus_tag	HNIILFLH_00021
+			product	50S ribosomal protein L10e
+1320	781	gene
+			locus_tag	HNIILFLH_00021
+1441	2619	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00022
+			product	hypothetical protein
+1441	2619	gene
+			locus_tag	HNIILFLH_00022
+3599	2628	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00023
+			product	hypothetical protein
+3599	2628	gene
+			locus_tag	HNIILFLH_00023
+4524	3562	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00024
+			product	hypothetical protein
+4524	3562	gene
+			locus_tag	HNIILFLH_00024
+5369	4803	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00025
+			product	hypothetical protein
+5369	4803	gene
+			locus_tag	HNIILFLH_00025
+>Feature k105_28326
+2810	1485	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00026
+			product	hypothetical protein
+2810	1485	gene
+			locus_tag	HNIILFLH_00026
+>Feature k105_28644
+2030	783	CDS
+			EC_number	2.6.1.57
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:H3ZPU1
+			locus_tag	HNIILFLH_00027
+			product	Aromatic-amino-acid aminotransferase 2
+2030	783	gene
+			locus_tag	HNIILFLH_00027
+2506	2027	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00028
+			product	hypothetical protein
+2506	2027	gene
+			locus_tag	HNIILFLH_00028
+3053	2547	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00029
+			product	hypothetical protein
+3053	2547	gene
+			locus_tag	HNIILFLH_00029
+>Feature k105_30685
+2	181	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00030
+			product	hypothetical protein
+2	181	gene
+			locus_tag	HNIILFLH_00030
+198	1295	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00031
+			product	hypothetical protein
+198	1295	gene
+			locus_tag	HNIILFLH_00031
+1355	2584	CDS
+			EC_number	2.8.1.7
+			gene	sufS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:D4GYV5
+			locus_tag	HNIILFLH_00032
+			product	Cysteine desulfurase
+1355	2584	gene
+			gene	sufS
+			locus_tag	HNIILFLH_00032
+2589	3005	CDS
+			gene	sufE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01832
+			locus_tag	HNIILFLH_00033
+			product	Cysteine desulfuration protein SufE
+2589	3005	gene
+			gene	sufE
+			locus_tag	HNIILFLH_00033
+3009	3311	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00034
+			product	hypothetical protein
+3009	3311	gene
+			locus_tag	HNIILFLH_00034
+3454	3314	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00035
+			product	hypothetical protein
+3454	3314	gene
+			locus_tag	HNIILFLH_00035
+4383	3514	CDS
+			gene	folD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q05213
+			locus_tag	HNIILFLH_00036
+			product	Bifunctional protein FolD protein
+4383	3514	gene
+			gene	folD
+			locus_tag	HNIILFLH_00036
+>Feature k105_32768
+2194	908	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00037
+			product	hypothetical protein
+2194	908	gene
+			locus_tag	HNIILFLH_00037
+3213	2230	CDS
+			EC_number	6.3.3.1
+			gene	purM
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00741
+			locus_tag	HNIILFLH_00038
+			product	Phosphoribosylformylglycinamidine cyclo-ligase
+3213	2230	gene
+			gene	purM
+			locus_tag	HNIILFLH_00038
+>Feature k105_35338
+631	1320	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00039
+			product	hypothetical protein
+631	1320	gene
+			locus_tag	HNIILFLH_00039
+3777	1975	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00040
+			product	hypothetical protein
+3777	1975	gene
+			locus_tag	HNIILFLH_00040
+>Feature k105_37822
+31	477	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00041
+			product	hypothetical protein
+31	477	gene
+			locus_tag	HNIILFLH_00041
+1002	481	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00042
+			product	hypothetical protein
+1002	481	gene
+			locus_tag	HNIILFLH_00042
+2020	1277	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00043
+			product	hypothetical protein
+2020	1277	gene
+			locus_tag	HNIILFLH_00043
+2099	3463	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00044
+			product	hypothetical protein
+2099	3463	gene
+			locus_tag	HNIILFLH_00044
+3417	4706	CDS
+			EC_number	5.4.99.27
+			gene	truD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8Q0M2
+			locus_tag	HNIILFLH_00045
+			product	putative tRNA pseudouridine synthase D
+3417	4706	gene
+			gene	truD
+			locus_tag	HNIILFLH_00045
+>Feature k105_48746
+294	1289	CDS
+			EC_number	1.1.1.271
+			gene	fcl
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00956
+			locus_tag	HNIILFLH_00046
+			product	GDP-L-fucose synthase
+294	1289	gene
+			gene	fcl
+			locus_tag	HNIILFLH_00046
+1295	2116	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00047
+			product	hypothetical protein
+1295	2116	gene
+			locus_tag	HNIILFLH_00047
+>Feature k105_50651
+46	159	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00048
+			product	hypothetical protein
+46	159	gene
+			locus_tag	HNIILFLH_00048
+1554	151	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00049
+			product	hypothetical protein
+1554	151	gene
+			locus_tag	HNIILFLH_00049
+2464	1637	CDS
+			gene	resA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01319
+			locus_tag	HNIILFLH_00050
+			product	Thiol-disulfide oxidoreductase ResA
+2464	1637	gene
+			gene	resA
+			locus_tag	HNIILFLH_00050
+2704	2620	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	HNIILFLH_00051
+			product	tRNA-Ser(tga)
+2704	2620	gene
+			locus_tag	HNIILFLH_00051
+3102	2752	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00052
+			product	hypothetical protein
+3102	2752	gene
+			locus_tag	HNIILFLH_00052
+3516	3112	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00053
+			product	hypothetical protein
+3516	3112	gene
+			locus_tag	HNIILFLH_00053
+>Feature k105_52683
+71	628	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00054
+			product	hypothetical protein
+71	628	gene
+			locus_tag	HNIILFLH_00054
+1136	2206	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00055
+			product	hypothetical protein
+1136	2206	gene
+			locus_tag	HNIILFLH_00055
+2558	3370	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00056
+			product	hypothetical protein
+2558	3370	gene
+			locus_tag	HNIILFLH_00056
+5011	4223	CDS
+			EC_number	4.2.1.116
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:A4YI89
+			locus_tag	HNIILFLH_00057
+			product	3-hydroxypropionyl-coenzyme A dehydratase
+5011	4223	gene
+			locus_tag	HNIILFLH_00057
+>Feature k105_59380
+75	734	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00058
+			product	hypothetical protein
+75	734	gene
+			locus_tag	HNIILFLH_00058
+772	3732	CDS
+			gene	uvrA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00205
+			locus_tag	HNIILFLH_00059
+			product	UvrABC system protein A
+772	3732	gene
+			gene	uvrA
+			locus_tag	HNIILFLH_00059
+>Feature k105_59770
+57	1250	CDS
+			EC_number	2.4.1.250
+			gene	mshA_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01695
+			locus_tag	HNIILFLH_00060
+			product	D-inositol-3-phosphate glycosyltransferase
+57	1250	gene
+			gene	mshA_1
+			locus_tag	HNIILFLH_00060
+1512	1252	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P14125
+			locus_tag	HNIILFLH_00061
+			product	50S ribosomal protein L18Ae
+1512	1252	gene
+			locus_tag	HNIILFLH_00061
+3393	1750	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00062
+			product	hypothetical protein
+3393	1750	gene
+			locus_tag	HNIILFLH_00062
+>Feature k105_73368
+806	108	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00063
+			product	hypothetical protein
+806	108	gene
+			locus_tag	HNIILFLH_00063
+1835	855	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00064
+			product	hypothetical protein
+1835	855	gene
+			locus_tag	HNIILFLH_00064
+3101	2355	CDS
+			EC_number	2.4.1.-
+			gene	aglJ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:D4GYG3
+			locus_tag	HNIILFLH_00065
+			product	Glycosyltransferase AglJ
+3101	2355	gene
+			gene	aglJ
+			locus_tag	HNIILFLH_00065
+3218	4495	CDS
+			EC_number	2.4.1.245
+			gene	treT
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O58762
+			locus_tag	HNIILFLH_00066
+			product	Trehalose synthase
+3218	4495	gene
+			gene	treT
+			locus_tag	HNIILFLH_00066
+>Feature k105_94414
+1545	322	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00067
+			product	hypothetical protein
+1545	322	gene
+			locus_tag	HNIILFLH_00067
+2308	1547	CDS
+			EC_number	1.1.1.377
+			gene	rhaD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9HK58
+			locus_tag	HNIILFLH_00068
+			product	L-rhamnose 1-dehydrogenase (NADP(+))
+2308	1547	gene
+			gene	rhaD
+			locus_tag	HNIILFLH_00068
+3043	2318	CDS
+			EC_number	2.1.2.9
+			gene	fmt
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00182
+			locus_tag	HNIILFLH_00069
+			product	Methionyl-tRNA formyltransferase
+3043	2318	gene
+			gene	fmt
+			locus_tag	HNIILFLH_00069
+>Feature k105_96234
+16	711	CDS
+			EC_number	1.3.1.101
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9HKS9
+			locus_tag	HNIILFLH_00070
+			product	Digeranylgeranylglycerophospholipid reductase
+16	711	gene
+			locus_tag	HNIILFLH_00070
+723	1511	CDS
+			EC_number	3.1.3.18
+			gene	gph
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00495
+			locus_tag	HNIILFLH_00071
+			product	Phosphoglycolate phosphatase
+723	1511	gene
+			gene	gph
+			locus_tag	HNIILFLH_00071
+1576	3024	CDS
+			EC_number	2.1.1.77
+			gene	pcm
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00090
+			locus_tag	HNIILFLH_00072
+			product	Protein-L-isoaspartate O-methyltransferase
+1576	3024	gene
+			gene	pcm
+			locus_tag	HNIILFLH_00072
+4349	3030	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00073
+			product	hypothetical protein
+4349	3030	gene
+			locus_tag	HNIILFLH_00073
+>Feature k105_96545
+858	1934	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00074
+			product	hypothetical protein
+858	1934	gene
+			locus_tag	HNIILFLH_00074
+4224	2092	CDS
+			EC_number	3.6.4.12
+			gene	MCM
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9UXG1
+			locus_tag	HNIILFLH_00075
+			product	Minichromosome maintenance protein MCM
+4224	2092	gene
+			gene	MCM
+			locus_tag	HNIILFLH_00075
+4456	4881	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00076
+			product	hypothetical protein
+4456	4881	gene
+			locus_tag	HNIILFLH_00076
+4891	5859	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00077
+			product	hypothetical protein
+4891	5859	gene
+			locus_tag	HNIILFLH_00077
+5864	6313	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00078
+			product	hypothetical protein
+5864	6313	gene
+			locus_tag	HNIILFLH_00078
+9089	6303	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00079
+			product	hypothetical protein
+9089	6303	gene
+			locus_tag	HNIILFLH_00079
+>Feature k105_101024
+587	417	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00080
+			product	hypothetical protein
+587	417	gene
+			locus_tag	HNIILFLH_00080
+672	2018	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:B0R4J2
+			locus_tag	HNIILFLH_00081
+			product	HEAT repeat-containing taxis proteinF
+672	2018	gene
+			locus_tag	HNIILFLH_00081
+2306	2007	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00082
+			product	hypothetical protein
+2306	2007	gene
+			locus_tag	HNIILFLH_00082
+2587	2306	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00083
+			product	hypothetical protein
+2587	2306	gene
+			locus_tag	HNIILFLH_00083
+>Feature k105_101070
+99	1349	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00084
+			product	hypothetical protein
+99	1349	gene
+			locus_tag	HNIILFLH_00084
+1984	1343	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00085
+			product	hypothetical protein
+1984	1343	gene
+			locus_tag	HNIILFLH_00085
+>Feature k105_101289
+99	374	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00086
+			product	hypothetical protein
+99	374	gene
+			locus_tag	HNIILFLH_00086
+411	761	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00087
+			product	hypothetical protein
+411	761	gene
+			locus_tag	HNIILFLH_00087
+758	1363	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00088
+			product	hypothetical protein
+758	1363	gene
+			locus_tag	HNIILFLH_00088
+2659	1364	CDS
+			EC_number	2.7.7.7
+			gene	polC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q59024
+			locus_tag	HNIILFLH_00089
+			product	DNA polymerase II large subunit
+2659	1364	gene
+			gene	polC
+			locus_tag	HNIILFLH_00089
+>Feature k105_103563
+35	2416	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00090
+			product	hypothetical protein
+35	2416	gene
+			locus_tag	HNIILFLH_00090
+3054	2413	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00091
+			product	hypothetical protein
+3054	2413	gene
+			locus_tag	HNIILFLH_00091
+>Feature k105_105772
+155	406	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00092
+			product	hypothetical protein
+155	406	gene
+			locus_tag	HNIILFLH_00092
+642	487	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00093
+			product	hypothetical protein
+642	487	gene
+			locus_tag	HNIILFLH_00093
+2954	639	CDS
+			EC_number	2.7.8.-
+			gene	clsB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01917
+			locus_tag	HNIILFLH_00094
+			product	Cardiolipin synthase B
+2954	639	gene
+			gene	clsB
+			locus_tag	HNIILFLH_00094
+>Feature k105_116014
+126	3314	CDS
+			EC_number	1.17.4.1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9HI70
+			locus_tag	HNIILFLH_00095
+			product	Vitamin B12-dependent ribonucleoside-diphosphate reductase
+126	3314	gene
+			locus_tag	HNIILFLH_00095
+>Feature k105_117609
+2543	489	CDS
+			EC_number	5.99.1.3
+			gene	top6B
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8PUB8
+			locus_tag	HNIILFLH_00096
+			product	Type 2 DNA topoisomerase 6 subunit B
+2543	489	gene
+			gene	top6B
+			locus_tag	HNIILFLH_00096
+3355	2630	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00097
+			product	hypothetical protein
+3355	2630	gene
+			locus_tag	HNIILFLH_00097
+5354	3360	CDS
+			EC_number	4.2.1.114
+			gene	hacA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q58409
+			locus_tag	HNIILFLH_00098
+			product	Methanogen homoaconitase large subunit
+5354	3360	gene
+			gene	hacA
+			locus_tag	HNIILFLH_00098
+>Feature k105_124420
+2123	813	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00099
+			product	hypothetical protein
+2123	813	gene
+			locus_tag	HNIILFLH_00099
+3047	2160	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00100
+			product	hypothetical protein
+3047	2160	gene
+			locus_tag	HNIILFLH_00100
+>Feature k105_126902
+28	456	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00101
+			product	hypothetical protein
+28	456	gene
+			locus_tag	HNIILFLH_00101
+1092	439	CDS
+			EC_number	2.1.1.144
+			gene	tam
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00560
+			locus_tag	HNIILFLH_00102
+			product	Trans-aconitate 2-methyltransferase
+1092	439	gene
+			gene	tam
+			locus_tag	HNIILFLH_00102
+1147	2559	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00103
+			product	hypothetical protein
+1147	2559	gene
+			locus_tag	HNIILFLH_00103
+2643	3254	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00104
+			product	hypothetical protein
+2643	3254	gene
+			locus_tag	HNIILFLH_00104
+3260	4093	CDS
+			EC_number	4.1.1.-
+			gene	asd
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O28234
+			locus_tag	HNIILFLH_00105
+			product	Putative archaetidylserine decarboxylase proenzyme
+3260	4093	gene
+			gene	asd
+			locus_tag	HNIILFLH_00105
+4438	4067	CDS
+			EC_number	2.3.1.89
+			gene	dapH
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01691
+			locus_tag	HNIILFLH_00106
+			product	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+4438	4067	gene
+			gene	dapH
+			locus_tag	HNIILFLH_00106
+>Feature k105_128718
+773	72	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00107
+			product	hypothetical protein
+773	72	gene
+			locus_tag	HNIILFLH_00107
+858	1826	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q58206
+			locus_tag	HNIILFLH_00108
+			product	putative ABC transporter ATP-binding protein
+858	1826	gene
+			locus_tag	HNIILFLH_00108
+3454	2231	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00109
+			product	hypothetical protein
+3454	2231	gene
+			locus_tag	HNIILFLH_00109
+>Feature k105_129244
+454	1359	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00110
+			product	hypothetical protein
+454	1359	gene
+			locus_tag	HNIILFLH_00110
+1366	2139	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00111
+			product	hypothetical protein
+1366	2139	gene
+			locus_tag	HNIILFLH_00111
+>Feature k105_129323
+43	1017	CDS
+			EC_number	6.1.1.11
+			gene	serS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O58441
+			locus_tag	HNIILFLH_00112
+			product	Serine--tRNA ligase
+43	1017	gene
+			gene	serS
+			locus_tag	HNIILFLH_00112
+1462	1028	CDS
+			EC_number	6.4.1.1
+			gene	pycB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q58628
+			locus_tag	HNIILFLH_00113
+			product	Pyruvate carboxylase subunit B
+1462	1028	gene
+			gene	pycB
+			locus_tag	HNIILFLH_00113
+2644	1472	CDS
+			EC_number	6.4.1.1
+			gene	pycA_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O27939
+			locus_tag	HNIILFLH_00114
+			product	Pyruvate carboxylase subunit A
+2644	1472	gene
+			gene	pycA_2
+			locus_tag	HNIILFLH_00114
+>Feature k105_136220
+81	827	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00115
+			product	hypothetical protein
+81	827	gene
+			locus_tag	HNIILFLH_00115
+927	853	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	HNIILFLH_00116
+			product	tRNA-Phe(gaa)
+927	853	gene
+			locus_tag	HNIILFLH_00116
+1799	978	CDS
+			EC_number	3.1.13.-
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O26779
+			locus_tag	HNIILFLH_00117
+			product	Exosome complex component Rrp41
+1799	978	gene
+			locus_tag	HNIILFLH_00117
+2410	1826	CDS
+			EC_number	2.7.7.75
+			gene	moaB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8U3T3
+			locus_tag	HNIILFLH_00118
+			product	Molybdopterin adenylyltransferase
+2410	1826	gene
+			gene	moaB
+			locus_tag	HNIILFLH_00118
+3027	2428	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9YDF8
+			locus_tag	HNIILFLH_00119
+			product	Voltage-gated potassium channel
+3027	2428	gene
+			locus_tag	HNIILFLH_00119
+>Feature k105_141530
+875	1723	CDS
+			gene	pqqB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00653
+			locus_tag	HNIILFLH_00120
+			product	Coenzyme PQQ synthesis protein B
+875	1723	gene
+			gene	pqqB
+			locus_tag	HNIILFLH_00120
+1762	2235	CDS
+			EC_number	2.7.1.161
+			gene	ribK
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9HJA6
+			locus_tag	HNIILFLH_00121
+			product	Riboflavin kinase
+1762	2235	gene
+			gene	ribK
+			locus_tag	HNIILFLH_00121
+2572	2216	CDS
+			EC_number	5.4.99.12
+			gene	truA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00171
+			locus_tag	HNIILFLH_00122
+			product	tRNA pseudouridine synthase A
+2572	2216	gene
+			gene	truA
+			locus_tag	HNIILFLH_00122
+>Feature k105_142642
+365	282	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	HNIILFLH_00123
+			product	tRNA-Leu(gag)
+365	282	gene
+			locus_tag	HNIILFLH_00123
+464	1561	CDS
+			EC_number	2.6.1.87
+			gene	arnB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01167
+			locus_tag	HNIILFLH_00124
+			product	UDP-4-amino-4-deoxy-L-arabinose--oxoglutarate aminotransferase
+464	1561	gene
+			gene	arnB
+			locus_tag	HNIILFLH_00124
+2166	1558	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00125
+			product	hypothetical protein
+2166	1558	gene
+			locus_tag	HNIILFLH_00125
+2198	2656	CDS
+			EC_number	2.3.1.-
+			gene	lpxD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00523
+			locus_tag	HNIILFLH_00126
+			product	UDP-3-O-(3-hydroxymyristoyl)glucosamine N-acyltransferase
+2198	2656	gene
+			gene	lpxD
+			locus_tag	HNIILFLH_00126
+2799	2653	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00127
+			product	hypothetical protein
+2799	2653	gene
+			locus_tag	HNIILFLH_00127
+>Feature k105_146189
+618	49	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00128
+			product	hypothetical protein
+618	49	gene
+			locus_tag	HNIILFLH_00128
+973	653	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00129
+			product	hypothetical protein
+973	653	gene
+			locus_tag	HNIILFLH_00129
+1677	973	CDS
+			EC_number	2.7.4.22
+			gene	pyrH
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O28237
+			locus_tag	HNIILFLH_00130
+			product	Uridylate kinase
+1677	973	gene
+			gene	pyrH
+			locus_tag	HNIILFLH_00130
+>Feature k105_147914
+3	464	CDS
+			EC_number	1.12.98.3
+			gene	fpoD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:F1SVE4
+			locus_tag	HNIILFLH_00131
+			product	F(420)H(2) dehydrogenase subunit D
+3	464	gene
+			gene	fpoD
+			locus_tag	HNIILFLH_00131
+475	1962	CDS
+			EC_number	1.12.98.3
+			gene	fpoH
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8PU59
+			locus_tag	HNIILFLH_00132
+			product	F(420)H(2) dehydrogenase subunit H
+475	1962	gene
+			gene	fpoH
+			locus_tag	HNIILFLH_00132
+2543	1953	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00133
+			product	hypothetical protein
+2543	1953	gene
+			locus_tag	HNIILFLH_00133
+>Feature k105_148127
+38	211	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00134
+			product	hypothetical protein
+38	211	gene
+			locus_tag	HNIILFLH_00134
+232	1482	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00135
+			product	hypothetical protein
+232	1482	gene
+			locus_tag	HNIILFLH_00135
+1492	2778	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00136
+			product	hypothetical protein
+1492	2778	gene
+			locus_tag	HNIILFLH_00136
+3035	2781	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00137
+			product	hypothetical protein
+3035	2781	gene
+			locus_tag	HNIILFLH_00137
+>Feature k105_149442
+350	1528	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00138
+			product	hypothetical protein
+350	1528	gene
+			locus_tag	HNIILFLH_00138
+2991	1540	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00139
+			product	hypothetical protein
+2991	1540	gene
+			locus_tag	HNIILFLH_00139
+>Feature k105_150949
+1284	1451	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00140
+			product	hypothetical protein
+1284	1451	gene
+			locus_tag	HNIILFLH_00140
+>Feature k105_151416
+51	668	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00141
+			product	hypothetical protein
+51	668	gene
+			locus_tag	HNIILFLH_00141
+861	1805	CDS
+			gene	rfcS_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O28219
+			locus_tag	HNIILFLH_00142
+			product	Replication factor C small subunit
+861	1805	gene
+			gene	rfcS_1
+			locus_tag	HNIILFLH_00142
+2058	1807	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00143
+			product	hypothetical protein
+2058	1807	gene
+			locus_tag	HNIILFLH_00143
+2656	2168	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00144
+			product	hypothetical protein
+2656	2168	gene
+			locus_tag	HNIILFLH_00144
+>Feature k105_151508
+27	716	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00145
+			product	hypothetical protein
+27	716	gene
+			locus_tag	HNIILFLH_00145
+726	1985	CDS
+			EC_number	3.5.4.41
+			gene	dadD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q58936
+			locus_tag	HNIILFLH_00146
+			product	5'-deoxyadenosine deaminase
+726	1985	gene
+			gene	dadD
+			locus_tag	HNIILFLH_00146
+>Feature k105_153858
+3	584	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00147
+			product	hypothetical protein
+3	584	gene
+			locus_tag	HNIILFLH_00147
+569	1174	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00148
+			product	hypothetical protein
+569	1174	gene
+			locus_tag	HNIILFLH_00148
+1178	2071	CDS
+			EC_number	1.1.1.35
+			gene	fadJ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01617
+			locus_tag	HNIILFLH_00149
+			product	Fatty acid oxidation complex subunit alpha
+1178	2071	gene
+			gene	fadJ
+			locus_tag	HNIILFLH_00149
+4353	2074	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00150
+			product	hypothetical protein
+4353	2074	gene
+			locus_tag	HNIILFLH_00150
+>Feature k105_155691
+20	307	CDS
+			EC_number	6.1.1.21
+			gene	hisS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9HLX5
+			locus_tag	HNIILFLH_00151
+			product	Histidine--tRNA ligase
+20	307	gene
+			gene	hisS
+			locus_tag	HNIILFLH_00151
+1115	282	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00152
+			product	hypothetical protein
+1115	282	gene
+			locus_tag	HNIILFLH_00152
+2330	1179	CDS
+			gene	ftsZ1_1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q57816
+			locus_tag	HNIILFLH_00153
+			product	Cell division protein FtsZ 1
+2330	1179	gene
+			gene	ftsZ1_1
+			locus_tag	HNIILFLH_00153
+>Feature k105_156363
+20	1243	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00154
+			product	hypothetical protein
+20	1243	gene
+			locus_tag	HNIILFLH_00154
+1296	1943	CDS
+			gene	glmU
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q58501
+			locus_tag	HNIILFLH_00155
+			product	Bifunctional protein GlmU
+1296	1943	gene
+			gene	glmU
+			locus_tag	HNIILFLH_00155
+1949	3553	CDS
+			EC_number	5.4.2.10
+			gene	glmM
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q6LYB4
+			locus_tag	HNIILFLH_00156
+			product	Phosphoglucosamine mutase
+1949	3553	gene
+			gene	glmM
+			locus_tag	HNIILFLH_00156
+>Feature k105_158563
+649	723	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	HNIILFLH_00157
+			product	tRNA-Thr(cgt)
+649	723	gene
+			locus_tag	HNIILFLH_00157
+733	1089	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00158
+			product	hypothetical protein
+733	1089	gene
+			locus_tag	HNIILFLH_00158
+2348	1086	CDS
+			EC_number	2.7.2.3
+			gene	pgk
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P61884
+			locus_tag	HNIILFLH_00159
+			product	Phosphoglycerate kinase
+2348	1086	gene
+			gene	pgk
+			locus_tag	HNIILFLH_00159
+>Feature k105_160399
+568	762	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00160
+			product	hypothetical protein
+568	762	gene
+			locus_tag	HNIILFLH_00160
+820	1404	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00161
+			product	hypothetical protein
+820	1404	gene
+			locus_tag	HNIILFLH_00161
+2265	1645	CDS
+			EC_number	1.8.-.-
+			gene	yedY
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01206
+			locus_tag	HNIILFLH_00162
+			product	Sulfoxide reductase catalytic subunit YedY
+2265	1645	gene
+			gene	yedY
+			locus_tag	HNIILFLH_00162
+2334	3224	CDS
+			EC_number	2.7.1.23
+			gene	nadK
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00361
+			locus_tag	HNIILFLH_00163
+			product	NAD kinase
+2334	3224	gene
+			gene	nadK
+			locus_tag	HNIILFLH_00163
+>Feature k105_162977
+85	1632	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00164
+			product	hypothetical protein
+85	1632	gene
+			locus_tag	HNIILFLH_00164
+3887	1569	CDS
+			EC_number	1.12.98.3
+			gene	fpoL
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:F1SVK0
+			locus_tag	HNIILFLH_00165
+			product	F(420)H(2) dehydrogenase subunit L
+3887	1569	gene
+			gene	fpoL
+			locus_tag	HNIILFLH_00165
+4200	3898	CDS
+			EC_number	1.12.98.3
+			gene	fpoK
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:F1SVE0
+			locus_tag	HNIILFLH_00166
+			product	F(420)H(2) dehydrogenase subunit K
+4200	3898	gene
+			gene	fpoK
+			locus_tag	HNIILFLH_00166
+4463	4197	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00167
+			product	hypothetical protein
+4463	4197	gene
+			locus_tag	HNIILFLH_00167
+4768	4460	CDS
+			EC_number	1.12.98.3
+			gene	fpoJ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8PU61
+			locus_tag	HNIILFLH_00168
+			product	F(420)H(2) dehydrogenase subunit J
+4768	4460	gene
+			gene	fpoJ
+			locus_tag	HNIILFLH_00168
+5106	4771	CDS
+			EC_number	1.6.5.11
+			gene	ndhI
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01351
+			locus_tag	HNIILFLH_00169
+			product	NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+5106	4771	gene
+			gene	ndhI
+			locus_tag	HNIILFLH_00169
+>Feature k105_169964
+811	1926	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00170
+			product	hypothetical protein
+811	1926	gene
+			locus_tag	HNIILFLH_00170
+2944	1916	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00171
+			product	hypothetical protein
+2944	1916	gene
+			locus_tag	HNIILFLH_00171
+>Feature k105_171822
+40	1254	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00172
+			product	hypothetical protein
+40	1254	gene
+			locus_tag	HNIILFLH_00172
+1317	2681	CDS
+			EC_number	3.4.13.9
+			gene	pepQ
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P81535
+			locus_tag	HNIILFLH_00173
+			product	Xaa-Pro dipeptidase
+1317	2681	gene
+			gene	pepQ
+			locus_tag	HNIILFLH_00173
+>Feature k105_174859
+545	1456	CDS
+			EC_number	5.1.3.20
+			gene	hldD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01601
+			locus_tag	HNIILFLH_00174
+			product	ADP-L-glycero-D-manno-heptose-6-epimerase
+545	1456	gene
+			gene	hldD
+			locus_tag	HNIILFLH_00174
+2891	1458	CDS
+			gene	ths
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O93624
+			locus_tag	HNIILFLH_00175
+			product	Thermosome subunit
+2891	1458	gene
+			gene	ths
+			locus_tag	HNIILFLH_00175
+>Feature k105_175978
+399	680	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00176
+			product	hypothetical protein
+399	680	gene
+			locus_tag	HNIILFLH_00176
+637	1329	CDS
+			EC_number	2.7.7.87
+			gene	sua5
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9UYB2
+			locus_tag	HNIILFLH_00177
+			product	Threonylcarbamoyl-AMP synthase
+637	1329	gene
+			gene	sua5
+			locus_tag	HNIILFLH_00177
+1308	2321	CDS
+			EC_number	3.4.11.18
+			gene	map
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:B6YTG0
+			locus_tag	HNIILFLH_00178
+			product	Methionine aminopeptidase
+1308	2321	gene
+			gene	map
+			locus_tag	HNIILFLH_00178
+2833	3321	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00179
+			product	hypothetical protein
+2833	3321	gene
+			locus_tag	HNIILFLH_00179
+3529	3425	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00180
+			product	hypothetical protein
+3529	3425	gene
+			locus_tag	HNIILFLH_00180
+>Feature k105_178317
+64	1836	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00181
+			product	hypothetical protein
+64	1836	gene
+			locus_tag	HNIILFLH_00181
+1867	1951	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	HNIILFLH_00182
+			product	tRNA-Leu(caa)
+1867	1951	gene
+			locus_tag	HNIILFLH_00182
+2732	1980	CDS
+			EC_number	3.1.3.18
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O50129
+			locus_tag	HNIILFLH_00183
+			product	Phosphoglycolate phosphatase
+2732	1980	gene
+			locus_tag	HNIILFLH_00183
+>Feature k105_179620
+44	256	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00184
+			product	hypothetical protein
+44	256	gene
+			locus_tag	HNIILFLH_00184
+309	2408	CDS
+			EC_number	6.5.1.2
+			gene	ligN
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:D4GY98
+			locus_tag	HNIILFLH_00185
+			product	DNA ligase
+309	2408	gene
+			gene	ligN
+			locus_tag	HNIILFLH_00185
+3199	2405	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00186
+			product	hypothetical protein
+3199	2405	gene
+			locus_tag	HNIILFLH_00186
+3270	4445	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00187
+			product	hypothetical protein
+3270	4445	gene
+			locus_tag	HNIILFLH_00187
+>Feature k105_180260
+1444	119	CDS
+			gene	mdtH
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01529
+			locus_tag	HNIILFLH_00188
+			product	Multidrug resistance protein MdtH
+1444	119	gene
+			gene	mdtH
+			locus_tag	HNIILFLH_00188
+1503	2060	CDS
+			EC_number	3.1.-.-
+			gene	orn
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00045
+			locus_tag	HNIILFLH_00189
+			product	Oligoribonuclease
+1503	2060	gene
+			gene	orn
+			locus_tag	HNIILFLH_00189
+2789	2061	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00190
+			product	hypothetical protein
+2789	2061	gene
+			locus_tag	HNIILFLH_00190
+3064	2789	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00191
+			product	hypothetical protein
+3064	2789	gene
+			locus_tag	HNIILFLH_00191
+>Feature k105_184476
+6	1016	CDS
+			EC_number	2.1.2.10
+			gene	gcvT
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O58888
+			locus_tag	HNIILFLH_00192
+			product	putative aminomethyltransferase
+6	1016	gene
+			gene	gcvT
+			locus_tag	HNIILFLH_00192
+3240	1852	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00193
+			product	hypothetical protein
+3240	1852	gene
+			locus_tag	HNIILFLH_00193
+>Feature k105_185799
+1059	1898	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00194
+			product	hypothetical protein
+1059	1898	gene
+			locus_tag	HNIILFLH_00194
+3233	2004	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00195
+			product	hypothetical protein
+3233	2004	gene
+			locus_tag	HNIILFLH_00195
+4589	3612	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00196
+			product	hypothetical protein
+4589	3612	gene
+			locus_tag	HNIILFLH_00196
+>Feature k105_196647
+80	562	CDS
+			gene	radA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O74036
+			locus_tag	HNIILFLH_00197
+			product	DNA repair and recombination protein RadA
+80	562	gene
+			gene	radA
+			locus_tag	HNIILFLH_00197
+2359	680	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00198
+			product	hypothetical protein
+2359	680	gene
+			locus_tag	HNIILFLH_00198
+2654	2406	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00199
+			product	hypothetical protein
+2654	2406	gene
+			locus_tag	HNIILFLH_00199
+>Feature k105_197864
+10	705	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00200
+			product	hypothetical protein
+10	705	gene
+			locus_tag	HNIILFLH_00200
+1468	695	CDS
+			EC_number	2.7.7.9
+			gene	aglF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:D4GYH1
+			locus_tag	HNIILFLH_00201
+			product	UTP--glucose-1-phosphate uridylyltransferase AglF
+1468	695	gene
+			gene	aglF
+			locus_tag	HNIILFLH_00201
+2333	1539	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00202
+			product	hypothetical protein
+2333	1539	gene
+			locus_tag	HNIILFLH_00202
+2777	2343	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00203
+			product	hypothetical protein
+2777	2343	gene
+			locus_tag	HNIILFLH_00203
+>Feature k105_199223
+133	606	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00204
+			product	hypothetical protein
+133	606	gene
+			locus_tag	HNIILFLH_00204
+2258	600	CDS
+			EC_number	3.5.4.10
+			gene	purH
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00139
+			locus_tag	HNIILFLH_00205
+			product	Bifunctional purine biosynthesis protein PurH
+2258	600	gene
+			gene	purH
+			locus_tag	HNIILFLH_00205
+2634	2440	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00206
+			product	hypothetical protein
+2634	2440	gene
+			locus_tag	HNIILFLH_00206
+>Feature k105_199525
+109	408	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00207
+			product	hypothetical protein
+109	408	gene
+			locus_tag	HNIILFLH_00207
+779	417	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00208
+			product	hypothetical protein
+779	417	gene
+			locus_tag	HNIILFLH_00208
+843	1949	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00209
+			product	hypothetical protein
+843	1949	gene
+			locus_tag	HNIILFLH_00209
+3881	2019	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00210
+			product	hypothetical protein
+3881	2019	gene
+			locus_tag	HNIILFLH_00210
+>Feature k105_199771
+62	349	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00211
+			product	hypothetical protein
+62	349	gene
+			locus_tag	HNIILFLH_00211
+377	1501	CDS
+			EC_number	1.1.1.302
+			gene	arfC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q58085
+			locus_tag	HNIILFLH_00212
+			product	2,5-diamino-6-ribosylamino-4(3H)-pyrimidinone 5'-phosphate reductase
+377	1501	gene
+			gene	arfC
+			locus_tag	HNIILFLH_00212
+1878	1498	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00213
+			product	hypothetical protein
+1878	1498	gene
+			locus_tag	HNIILFLH_00213
+1951	2026	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	HNIILFLH_00214
+			product	tRNA-Arg(tcg)
+1951	2026	gene
+			locus_tag	HNIILFLH_00214
+2463	2029	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00215
+			product	hypothetical protein
+2463	2029	gene
+			locus_tag	HNIILFLH_00215
+>Feature k105_202647
+24	200	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00216
+			product	hypothetical protein
+24	200	gene
+			locus_tag	HNIILFLH_00216
+246	968	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00217
+			product	hypothetical protein
+246	968	gene
+			locus_tag	HNIILFLH_00217
+1931	969	CDS
+			EC_number	2.7.11.1
+			gene	rio1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:D4GYY1
+			locus_tag	HNIILFLH_00218
+			product	RIO-type serine/threonine-protein kinase Rio1
+1931	969	gene
+			gene	rio1
+			locus_tag	HNIILFLH_00218
+2529	1960	CDS
+			gene	eIF1A
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q57887
+			locus_tag	HNIILFLH_00219
+			product	Translation initiation factor 1A
+2529	1960	gene
+			gene	eIF1A
+			locus_tag	HNIILFLH_00219
+4132	2621	CDS
+			EC_number	1.12.98.3
+			gene	fpoN
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:F1SVL2
+			locus_tag	HNIILFLH_00220
+			product	F(420)H(2) dehydrogenase subunit N
+4132	2621	gene
+			gene	fpoN
+			locus_tag	HNIILFLH_00220
+>Feature k105_203449
+96	617	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00745
+			locus_tag	HNIILFLH_00221
+			product	Protein SprT-like protein
+96	617	gene
+			locus_tag	HNIILFLH_00221
+644	2617	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00222
+			product	hypothetical protein
+644	2617	gene
+			locus_tag	HNIILFLH_00222
+3290	2619	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00223
+			product	hypothetical protein
+3290	2619	gene
+			locus_tag	HNIILFLH_00223
+>Feature k105_207595
+49	1257	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00224
+			product	hypothetical protein
+49	1257	gene
+			locus_tag	HNIILFLH_00224
+2115	1258	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00225
+			product	hypothetical protein
+2115	1258	gene
+			locus_tag	HNIILFLH_00225
+2650	2195	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8TZD9
+			locus_tag	HNIILFLH_00226
+			product	30S ribosomal protein S15
+2650	2195	gene
+			locus_tag	HNIILFLH_00226
+>Feature k105_216177
+68	847	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00227
+			product	hypothetical protein
+68	847	gene
+			locus_tag	HNIILFLH_00227
+1952	834	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00228
+			product	hypothetical protein
+1952	834	gene
+			locus_tag	HNIILFLH_00228
+2785	1952	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00229
+			product	hypothetical protein
+2785	1952	gene
+			locus_tag	HNIILFLH_00229
+>Feature k105_216316
+59	2428	CDS
+			EC_number	3.6.3.54
+			gene	copA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O29777
+			locus_tag	HNIILFLH_00230
+			product	putative copper-exporting P-type ATPase A
+59	2428	gene
+			gene	copA
+			locus_tag	HNIILFLH_00230
+2493	3002	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00231
+			product	hypothetical protein
+2493	3002	gene
+			locus_tag	HNIILFLH_00231
+3012	3401	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00232
+			product	hypothetical protein
+3012	3401	gene
+			locus_tag	HNIILFLH_00232
+>Feature k105_220871
+17	583	CDS
+			EC_number	2.5.1.77
+			gene	cofH
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q58826
+			locus_tag	HNIILFLH_00233
+			product	FO synthase subunit 2
+17	583	gene
+			gene	cofH
+			locus_tag	HNIILFLH_00233
+1624	587	CDS
+			EC_number	1.1.1.94
+			gene	gpsA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O29390
+			locus_tag	HNIILFLH_00234
+			product	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+1624	587	gene
+			gene	gpsA
+			locus_tag	HNIILFLH_00234
+4803	1642	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00235
+			product	hypothetical protein
+4803	1642	gene
+			locus_tag	HNIILFLH_00235
+5950	4841	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00236
+			product	hypothetical protein
+5950	4841	gene
+			locus_tag	HNIILFLH_00236
+>Feature k105_223333
+1	819	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00237
+			product	hypothetical protein
+1	819	gene
+			locus_tag	HNIILFLH_00237
+1226	822	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00238
+			product	hypothetical protein
+1226	822	gene
+			locus_tag	HNIILFLH_00238
+2067	1426	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00239
+			product	hypothetical protein
+2067	1426	gene
+			locus_tag	HNIILFLH_00239
+2547	2281	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00240
+			product	hypothetical protein
+2547	2281	gene
+			locus_tag	HNIILFLH_00240
+>Feature k105_226735
+1059	3317	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00241
+			product	hypothetical protein
+1059	3317	gene
+			locus_tag	HNIILFLH_00241
+3517	5076	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00242
+			product	hypothetical protein
+3517	5076	gene
+			locus_tag	HNIILFLH_00242
+5401	5078	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00243
+			product	hypothetical protein
+5401	5078	gene
+			locus_tag	HNIILFLH_00243
+5527	6207	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00244
+			product	hypothetical protein
+5527	6207	gene
+			locus_tag	HNIILFLH_00244
+>Feature k105_229215
+508	633	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00245
+			product	hypothetical protein
+508	633	gene
+			locus_tag	HNIILFLH_00245
+1188	1264	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	HNIILFLH_00246
+			product	tRNA-Arg(cct)
+1188	1264	gene
+			locus_tag	HNIILFLH_00246
+2410	1268	CDS
+			gene	rfcS_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O26343
+			locus_tag	HNIILFLH_00247
+			product	Replication factor C small subunit
+2410	1268	gene
+			gene	rfcS_2
+			locus_tag	HNIILFLH_00247
+2606	2457	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00248
+			product	hypothetical protein
+2606	2457	gene
+			locus_tag	HNIILFLH_00248
+3263	2673	CDS
+			EC_number	6.3.5.2
+			gene	guaAA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9HJM3
+			locus_tag	HNIILFLH_00249
+			product	GMP synthase [glutamine-hydrolyzing] subunit A
+3263	2673	gene
+			gene	guaAA
+			locus_tag	HNIILFLH_00249
+4104	3310	CDS
+			EC_number	4.1.2.17
+			gene	fucA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q58813
+			locus_tag	HNIILFLH_00250
+			product	L-fuculose phosphate aldolase
+4104	3310	gene
+			gene	fucA
+			locus_tag	HNIILFLH_00250
+4454	4529	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	HNIILFLH_00251
+			product	tRNA-Asp(gtc)
+4454	4529	gene
+			locus_tag	HNIILFLH_00251
+>Feature k105_229433
+226	570	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00252
+			product	hypothetical protein
+226	570	gene
+			locus_tag	HNIILFLH_00252
+2846	1278	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00253
+			product	hypothetical protein
+2846	1278	gene
+			locus_tag	HNIILFLH_00253
+>Feature k105_230613
+489	743	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00254
+			product	hypothetical protein
+489	743	gene
+			locus_tag	HNIILFLH_00254
+1959	1189	CDS
+			EC_number	3.6.3.19
+			gene	malK
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9YGA6
+			locus_tag	HNIILFLH_00255
+			product	Trehalose/maltose import ATP-binding protein MalK
+1959	1189	gene
+			gene	malK
+			locus_tag	HNIILFLH_00255
+2511	2035	CDS
+			EC_number	4.2.1.116
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:A4YI89
+			locus_tag	HNIILFLH_00256
+			product	3-hydroxypropionyl-coenzyme A dehydratase
+2511	2035	gene
+			locus_tag	HNIILFLH_00256
+>Feature k105_232435
+28	153	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00257
+			product	hypothetical protein
+28	153	gene
+			locus_tag	HNIILFLH_00257
+741	301	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00258
+			product	hypothetical protein
+741	301	gene
+			locus_tag	HNIILFLH_00258
+1296	2459	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00259
+			product	hypothetical protein
+1296	2459	gene
+			locus_tag	HNIILFLH_00259
+2814	2461	CDS
+			EC_number	6.3.4.2
+			gene	pyrG
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q980S6
+			locus_tag	HNIILFLH_00260
+			product	CTP synthase
+2814	2461	gene
+			gene	pyrG
+			locus_tag	HNIILFLH_00260
+>Feature k105_236104
+299	1864	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00261
+			product	hypothetical protein
+299	1864	gene
+			locus_tag	HNIILFLH_00261
+2495	2567	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	HNIILFLH_00262
+			product	tRNA-Gln(ttg)
+2495	2567	gene
+			locus_tag	HNIILFLH_00262
+3250	2999	CDS
+			EC_number	1.3.99.-
+			gene	caiA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01052
+			locus_tag	HNIILFLH_00263
+			product	Crotonobetainyl-CoA dehydrogenase
+3250	2999	gene
+			gene	caiA
+			locus_tag	HNIILFLH_00263
+>Feature k105_239040
+35	619	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q58206
+			locus_tag	HNIILFLH_00264
+			product	putative ABC transporter ATP-binding protein
+35	619	gene
+			locus_tag	HNIILFLH_00264
+625	2370	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00265
+			product	hypothetical protein
+625	2370	gene
+			locus_tag	HNIILFLH_00265
+>Feature k105_240432
+37	819	CDS
+			EC_number	1.2.1.26
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:D4GP41
+			locus_tag	HNIILFLH_00266
+			product	Alpha-ketoglutarate semialdehyde dehydrogenase
+37	819	gene
+			locus_tag	HNIILFLH_00266
+924	820	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00267
+			product	hypothetical protein
+924	820	gene
+			locus_tag	HNIILFLH_00267
+1022	1879	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00268
+			product	hypothetical protein
+1022	1879	gene
+			locus_tag	HNIILFLH_00268
+2954	1863	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00269
+			product	hypothetical protein
+2954	1863	gene
+			locus_tag	HNIILFLH_00269
+>Feature k105_245310
+20	2875	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00270
+			product	hypothetical protein
+20	2875	gene
+			locus_tag	HNIILFLH_00270
+>Feature k105_246791
+1327	257	CDS
+			EC_number	1.13.11.11
+			gene	kynA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01972
+			locus_tag	HNIILFLH_00271
+			product	Tryptophan 2,3-dioxygenase
+1327	257	gene
+			gene	kynA
+			locus_tag	HNIILFLH_00271
+1588	1394	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00272
+			product	hypothetical protein
+1588	1394	gene
+			locus_tag	HNIILFLH_00272
+1786	2898	CDS
+			EC_number	6.3.4.23
+			gene	purP
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q57600
+			locus_tag	HNIILFLH_00273
+			product	5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase
+1786	2898	gene
+			gene	purP
+			locus_tag	HNIILFLH_00273
+2931	3929	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00274
+			product	hypothetical protein
+2931	3929	gene
+			locus_tag	HNIILFLH_00274
+4378	3926	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00275
+			product	hypothetical protein
+4378	3926	gene
+			locus_tag	HNIILFLH_00275
+>Feature k105_251681
+103	1101	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00276
+			product	hypothetical protein
+103	1101	gene
+			locus_tag	HNIILFLH_00276
+3033	1618	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00277
+			product	hypothetical protein
+3033	1618	gene
+			locus_tag	HNIILFLH_00277
+>Feature k105_252056
+1	945	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00278
+			product	hypothetical protein
+1	945	gene
+			locus_tag	HNIILFLH_00278
+2400	979	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00279
+			product	hypothetical protein
+2400	979	gene
+			locus_tag	HNIILFLH_00279
+>Feature k105_255592
+1048	2259	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00280
+			product	hypothetical protein
+1048	2259	gene
+			locus_tag	HNIILFLH_00280
+>Feature k105_259133
+160	612	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O59188
+			locus_tag	HNIILFLH_00281
+			product	putative HTH-type transcriptional regulator
+160	612	gene
+			locus_tag	HNIILFLH_00281
+1684	1355	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00282
+			product	hypothetical protein
+1684	1355	gene
+			locus_tag	HNIILFLH_00282
+2476	2222	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00283
+			product	hypothetical protein
+2476	2222	gene
+			locus_tag	HNIILFLH_00283
+3474	2761	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00284
+			product	hypothetical protein
+3474	2761	gene
+			locus_tag	HNIILFLH_00284
+>Feature k105_262109
+1875	136	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00285
+			product	hypothetical protein
+1875	136	gene
+			locus_tag	HNIILFLH_00285
+1978	2787	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00286
+			product	hypothetical protein
+1978	2787	gene
+			locus_tag	HNIILFLH_00286
+4487	2781	CDS
+			EC_number	6.3.1.5
+			gene	nadE
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O57921
+			locus_tag	HNIILFLH_00287
+			product	putative NH(3)-dependent NAD(+) synthetase
+4487	2781	gene
+			gene	nadE
+			locus_tag	HNIILFLH_00287
+5158	4535	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00288
+			product	hypothetical protein
+5158	4535	gene
+			locus_tag	HNIILFLH_00288
+>Feature k105_262841
+117	41	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	HNIILFLH_00289
+			product	tRNA-Cys(gca)
+117	41	gene
+			locus_tag	HNIILFLH_00289
+246	1388	CDS
+			EC_number	2.6.1.57
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:H3ZPU1
+			locus_tag	HNIILFLH_00290
+			product	Aromatic-amino-acid aminotransferase 2
+246	1388	gene
+			locus_tag	HNIILFLH_00290
+2647	1394	CDS
+			EC_number	4.2.1.11
+			gene	eno
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q60173
+			locus_tag	HNIILFLH_00291
+			product	Enolase
+2647	1394	gene
+			gene	eno
+			locus_tag	HNIILFLH_00291
+3139	2705	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00292
+			product	hypothetical protein
+3139	2705	gene
+			locus_tag	HNIILFLH_00292
+3296	3718	CDS
+			gene	lrpA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P42180
+			locus_tag	HNIILFLH_00293
+			product	HTH-type transcriptional regulator LrpA
+3296	3718	gene
+			gene	lrpA
+			locus_tag	HNIILFLH_00293
+3900	3724	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00294
+			product	hypothetical protein
+3900	3724	gene
+			locus_tag	HNIILFLH_00294
+>Feature k105_263310
+52	849	CDS
+			EC_number	2.7.7.3
+			gene	coaD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9UYT0
+			locus_tag	HNIILFLH_00295
+			product	Phosphopantetheine adenylyltransferase
+52	849	gene
+			gene	coaD
+			locus_tag	HNIILFLH_00295
+859	1887	CDS
+			EC_number	2.4.1.-
+			gene	aglI
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:D4GYH2
+			locus_tag	HNIILFLH_00296
+			product	Glycosyltransferase AglI
+859	1887	gene
+			gene	aglI
+			locus_tag	HNIILFLH_00296
+2371	1850	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00297
+			product	hypothetical protein
+2371	1850	gene
+			locus_tag	HNIILFLH_00297
+2730	2425	CDS
+			gene	cdc6-1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q980N4
+			locus_tag	HNIILFLH_00298
+			product	ORC1-type DNA replication protein 1
+2730	2425	gene
+			gene	cdc6-1
+			locus_tag	HNIILFLH_00298
+>Feature k105_263531
+70	768	CDS
+			EC_number	6.3.2.6
+			gene	purC
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q58987
+			locus_tag	HNIILFLH_00299
+			product	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+70	768	gene
+			gene	purC
+			locus_tag	HNIILFLH_00299
+1407	778	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00300
+			product	hypothetical protein
+1407	778	gene
+			locus_tag	HNIILFLH_00300
+3455	1449	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00301
+			product	hypothetical protein
+3455	1449	gene
+			locus_tag	HNIILFLH_00301
+>Feature k105_265358
+587	1177	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00302
+			product	hypothetical protein
+587	1177	gene
+			locus_tag	HNIILFLH_00302
+1825	1160	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00303
+			product	hypothetical protein
+1825	1160	gene
+			locus_tag	HNIILFLH_00303
+2881	1841	CDS
+			EC_number	5.3.1.23
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O29877
+			locus_tag	HNIILFLH_00304
+			product	Putative methylthioribose-1-phosphate isomerase
+2881	1841	gene
+			locus_tag	HNIILFLH_00304
+3697	3275	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00305
+			product	hypothetical protein
+3697	3275	gene
+			locus_tag	HNIILFLH_00305
+>Feature k105_267815
+2818	494	CDS
+			EC_number	3.4.-.-
+			gene	bepA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00997
+			locus_tag	HNIILFLH_00306
+			product	Beta-barrel assembly-enhancing protease
+2818	494	gene
+			gene	bepA
+			locus_tag	HNIILFLH_00306
+3708	3499	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00307
+			product	hypothetical protein
+3708	3499	gene
+			locus_tag	HNIILFLH_00307
+>Feature k105_269093
+411	878	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00308
+			product	hypothetical protein
+411	878	gene
+			locus_tag	HNIILFLH_00308
+1580	879	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00309
+			product	hypothetical protein
+1580	879	gene
+			locus_tag	HNIILFLH_00309
+1727	2737	CDS
+			EC_number	4.1.2.13
+			gene	fda
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00729
+			locus_tag	HNIILFLH_00310
+			product	Fructose-bisphosphate aldolase class 1
+1727	2737	gene
+			gene	fda
+			locus_tag	HNIILFLH_00310
+3133	2837	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00311
+			product	hypothetical protein
+3133	2837	gene
+			locus_tag	HNIILFLH_00311
+>Feature k105_269695
+13	621	CDS
+			EC_number	2.7.1.40
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P32044
+			locus_tag	HNIILFLH_00312
+			product	Pyruvate kinase
+13	621	gene
+			locus_tag	HNIILFLH_00312
+1542	433	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00313
+			product	hypothetical protein
+1542	433	gene
+			locus_tag	HNIILFLH_00313
+3003	1597	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00314
+			product	hypothetical protein
+3003	1597	gene
+			locus_tag	HNIILFLH_00314
+3705	3043	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00315
+			product	hypothetical protein
+3705	3043	gene
+			locus_tag	HNIILFLH_00315
+5316	4168	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00316
+			product	hypothetical protein
+5316	4168	gene
+			locus_tag	HNIILFLH_00316
+6009	5734	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00317
+			product	hypothetical protein
+6009	5734	gene
+			locus_tag	HNIILFLH_00317
+6302	6006	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00318
+			product	hypothetical protein
+6302	6006	gene
+			locus_tag	HNIILFLH_00318
+>Feature k105_278927
+48	1628	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00319
+			product	hypothetical protein
+48	1628	gene
+			locus_tag	HNIILFLH_00319
+2730	1639	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00320
+			product	hypothetical protein
+2730	1639	gene
+			locus_tag	HNIILFLH_00320
+>Feature k105_287211
+80	235	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00321
+			product	hypothetical protein
+80	235	gene
+			locus_tag	HNIILFLH_00321
+862	242	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00322
+			product	hypothetical protein
+862	242	gene
+			locus_tag	HNIILFLH_00322
+1270	869	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00323
+			product	hypothetical protein
+1270	869	gene
+			locus_tag	HNIILFLH_00323
+1468	2094	CDS
+			EC_number	3.4.25.1
+			gene	psmB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9P996
+			locus_tag	HNIILFLH_00324
+			product	Proteasome subunit beta
+1468	2094	gene
+			gene	psmB
+			locus_tag	HNIILFLH_00324
+3214	2159	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00325
+			product	hypothetical protein
+3214	2159	gene
+			locus_tag	HNIILFLH_00325
+>Feature k105_288010
+66	848	CDS
+			EC_number	3.5.99.10
+			gene	yjgF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8U308
+			locus_tag	HNIILFLH_00326
+			product	2-iminobutanoate/2-iminopropanoate deaminase
+66	848	gene
+			gene	yjgF
+			locus_tag	HNIILFLH_00326
+850	1092	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00327
+			product	hypothetical protein
+850	1092	gene
+			locus_tag	HNIILFLH_00327
+1089	2483	CDS
+			EC_number	5.4.2.8
+			gene	manB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q57842
+			locus_tag	HNIILFLH_00328
+			product	Phosphomannomutase
+1089	2483	gene
+			gene	manB
+			locus_tag	HNIILFLH_00328
+2668	2471	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00329
+			product	hypothetical protein
+2668	2471	gene
+			locus_tag	HNIILFLH_00329
+>Feature k105_295004
+28	972	CDS
+			EC_number	6.3.2.32
+			gene	cofF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q58407
+			locus_tag	HNIILFLH_00330
+			product	Coenzyme gamma-F420-2:alpha-L-glutamate ligase
+28	972	gene
+			gene	cofF
+			locus_tag	HNIILFLH_00330
+1125	2231	CDS
+			gene	xerA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q9V1P5
+			locus_tag	HNIILFLH_00331
+			product	Tyrosine recombinase XerA
+1125	2231	gene
+			gene	xerA
+			locus_tag	HNIILFLH_00331
+2425	2228	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00332
+			product	hypothetical protein
+2425	2228	gene
+			locus_tag	HNIILFLH_00332
+2940	2467	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00333
+			product	hypothetical protein
+2940	2467	gene
+			locus_tag	HNIILFLH_00333
+3231	2980	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00334
+			product	hypothetical protein
+3231	2980	gene
+			locus_tag	HNIILFLH_00334
+>Feature k105_296309
+132	1244	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00335
+			product	hypothetical protein
+132	1244	gene
+			locus_tag	HNIILFLH_00335
+2096	1353	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00336
+			product	hypothetical protein
+2096	1353	gene
+			locus_tag	HNIILFLH_00336
+2218	2144	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	HNIILFLH_00337
+			product	tRNA-Val(tac)
+2218	2144	gene
+			locus_tag	HNIILFLH_00337
+>Feature k105_303771
+229	387	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00338
+			product	hypothetical protein
+229	387	gene
+			locus_tag	HNIILFLH_00338
+588	1397	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00339
+			product	hypothetical protein
+588	1397	gene
+			locus_tag	HNIILFLH_00339
+3181	1529	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00340
+			product	hypothetical protein
+3181	1529	gene
+			locus_tag	HNIILFLH_00340
+>Feature k105_306253
+36	419	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00341
+			product	hypothetical protein
+36	419	gene
+			locus_tag	HNIILFLH_00341
+419	1381	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00342
+			product	hypothetical protein
+419	1381	gene
+			locus_tag	HNIILFLH_00342
+2520	1378	CDS
+			EC_number	1.3.4.1
+			gene	tfrA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:D9PU00
+			locus_tag	HNIILFLH_00343
+			product	Fumarate reductase (CoM/CoB) subunit A
+2520	1378	gene
+			gene	tfrA
+			locus_tag	HNIILFLH_00343
+>Feature k105_306943
+82	417	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00344
+			product	hypothetical protein
+82	417	gene
+			locus_tag	HNIILFLH_00344
+1652	378	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00345
+			product	hypothetical protein
+1652	378	gene
+			locus_tag	HNIILFLH_00345
+2659	1649	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00346
+			product	hypothetical protein
+2659	1649	gene
+			locus_tag	HNIILFLH_00346
+>Feature k105_307123
+156	1172	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00347
+			product	hypothetical protein
+156	1172	gene
+			locus_tag	HNIILFLH_00347
+1120	1293	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00348
+			product	hypothetical protein
+1120	1293	gene
+			locus_tag	HNIILFLH_00348
+1299	1463	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00349
+			product	hypothetical protein
+1299	1463	gene
+			locus_tag	HNIILFLH_00349
+1815	2528	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00350
+			product	hypothetical protein
+1815	2528	gene
+			locus_tag	HNIILFLH_00350
+2758	2579	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00351
+			product	hypothetical protein
+2758	2579	gene
+			locus_tag	HNIILFLH_00351
+>Feature k105_309730
+49	336	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00352
+			product	hypothetical protein
+49	336	gene
+			locus_tag	HNIILFLH_00352
+1348	854	CDS
+			EC_number	2.3.1.189
+			gene	mshD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01698
+			locus_tag	HNIILFLH_00353
+			product	Mycothiol acetyltransferase
+1348	854	gene
+			gene	mshD
+			locus_tag	HNIILFLH_00353
+1785	1402	CDS
+			gene	eif5a
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q58625
+			locus_tag	HNIILFLH_00354
+			product	Translation initiation factor 5A
+1785	1402	gene
+			gene	eif5a
+			locus_tag	HNIILFLH_00354
+2696	1845	CDS
+			EC_number	1.1.1.35
+			gene	fadB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01621
+			locus_tag	HNIILFLH_00355
+			product	Fatty acid oxidation complex subunit alpha
+2696	1845	gene
+			gene	fadB
+			locus_tag	HNIILFLH_00355
+3005	2751	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00356
+			product	hypothetical protein
+3005	2751	gene
+			locus_tag	HNIILFLH_00356
+>Feature k105_313839
+651	1841	CDS
+			EC_number	2.7.7.-
+			gene	dnaG
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P95980
+			locus_tag	HNIILFLH_00357
+			product	DNA primase DnaG
+651	1841	gene
+			gene	dnaG
+			locus_tag	HNIILFLH_00357
+2770	2195	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00358
+			product	hypothetical protein
+2770	2195	gene
+			locus_tag	HNIILFLH_00358
+>Feature k105_314251
+1140	163	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00359
+			product	hypothetical protein
+1140	163	gene
+			locus_tag	HNIILFLH_00359
+2545	1133	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00360
+			product	hypothetical protein
+2545	1133	gene
+			locus_tag	HNIILFLH_00360
+>Feature k105_317408
+553	467	tRNA
+			inference	COORDINATES:profile:Aragorn:1.2
+			locus_tag	HNIILFLH_00361
+			product	tRNA-Leu(tag)
+553	467	gene
+			locus_tag	HNIILFLH_00361
+1704	1919	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00362
+			product	hypothetical protein
+1704	1919	gene
+			locus_tag	HNIILFLH_00362
+2818	1916	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00363
+			product	hypothetical protein
+2818	1916	gene
+			locus_tag	HNIILFLH_00363
+3201	2815	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q58206
+			locus_tag	HNIILFLH_00364
+			product	putative ABC transporter ATP-binding protein
+3201	2815	gene
+			locus_tag	HNIILFLH_00364
+>Feature k105_317925
+967	371	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00365
+			product	hypothetical protein
+967	371	gene
+			locus_tag	HNIILFLH_00365
+2082	1027	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00366
+			product	hypothetical protein
+2082	1027	gene
+			locus_tag	HNIILFLH_00366
+2147	4210	CDS
+			EC_number	3.1.11.5
+			gene	recD
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01487
+			locus_tag	HNIILFLH_00367
+			product	RecBCD enzyme subunit RecD
+2147	4210	gene
+			gene	recD
+			locus_tag	HNIILFLH_00367
+>Feature k105_318239
+69	419	CDS
+			gene	pfdA
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_00308
+			locus_tag	HNIILFLH_00368
+			product	Prefoldin subunit alpha
+69	419	gene
+			gene	pfdA
+			locus_tag	HNIILFLH_00368
+429	1805	CDS
+			gene	ftsY
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P27414
+			locus_tag	HNIILFLH_00369
+			product	Signal recognition particle receptor FtsY
+429	1805	gene
+			gene	ftsY
+			locus_tag	HNIILFLH_00369
+1815	2186	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00370
+			product	hypothetical protein
+1815	2186	gene
+			locus_tag	HNIILFLH_00370
+2246	2902	CDS
+			gene	cheY
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:B0R4K1
+			locus_tag	HNIILFLH_00371
+			product	Chemotaxis protein CheY
+2246	2902	gene
+			gene	cheY
+			locus_tag	HNIILFLH_00371
+3162	2890	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00372
+			product	hypothetical protein
+3162	2890	gene
+			locus_tag	HNIILFLH_00372
+3694	3116	CDS
+			EC_number	4.1.1.23
+			gene	pyrF
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:O26232
+			locus_tag	HNIILFLH_00373
+			product	Orotidine 5'-phosphate decarboxylase
+3694	3116	gene
+			gene	pyrF
+			locus_tag	HNIILFLH_00373
+>Feature k105_321208
+837	1946	CDS
+			EC_number	2.4.1.250
+			gene	mshA_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	protein motif:HAMAP:MF_01695
+			locus_tag	HNIILFLH_00374
+			product	D-inositol-3-phosphate glycosyltransferase
+837	1946	gene
+			gene	mshA_2
+			locus_tag	HNIILFLH_00374
+2013	2729	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q58206
+			locus_tag	HNIILFLH_00375
+			product	putative ABC transporter ATP-binding protein
+2013	2729	gene
+			locus_tag	HNIILFLH_00375
+>Feature k105_326382
+94	933	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00376
+			product	hypothetical protein
+94	933	gene
+			locus_tag	HNIILFLH_00376
+949	1743	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00377
+			product	hypothetical protein
+949	1743	gene
+			locus_tag	HNIILFLH_00377
+5295	1744	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00378
+			product	hypothetical protein
+5295	1744	gene
+			locus_tag	HNIILFLH_00378
+5508	6632	CDS
+			gene	ftsZ1_2
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q48327
+			locus_tag	HNIILFLH_00379
+			product	Cell division protein FtsZ 1
+5508	6632	gene
+			gene	ftsZ1_2
+			locus_tag	HNIILFLH_00379
+6714	6992	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00380
+			product	hypothetical protein
+6714	6992	gene
+			locus_tag	HNIILFLH_00380
+7014	7880	CDS
+			gene	spt5
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q57818
+			locus_tag	HNIILFLH_00381
+			product	Transcription elongation factor Spt5
+7014	7880	gene
+			gene	spt5
+			locus_tag	HNIILFLH_00381
+7957	8235	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8TZK0
+			locus_tag	HNIILFLH_00382
+			product	50S ribosomal protein L11
+7957	8235	gene
+			locus_tag	HNIILFLH_00382
+8297	8941	CDS
+			gene	rpl1
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q8TZJ9
+			locus_tag	HNIILFLH_00383
+			product	50S ribosomal protein L1
+8297	8941	gene
+			gene	rpl1
+			locus_tag	HNIILFLH_00383
+8938	9954	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q46EU9
+			locus_tag	HNIILFLH_00384
+			product	50S ribosomal protein L10
+8938	9954	gene
+			locus_tag	HNIILFLH_00384
+9991	10296	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:P05394
+			locus_tag	HNIILFLH_00385
+			product	50S ribosomal protein L12
+9991	10296	gene
+			locus_tag	HNIILFLH_00385
+>Feature k105_326986
+106	807	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00386
+			product	hypothetical protein
+106	807	gene
+			locus_tag	HNIILFLH_00386
+2082	898	CDS
+			EC_number	1.1.1.85
+			gene	leuB
+			inference	ab initio prediction:Prodigal:2.6
+			inference	similar to AA sequence:UniProtKB:Q58130
+			locus_tag	HNIILFLH_00387
+			product	3-isopropylmalate/3-methylmalate dehydrogenase
+2082	898	gene
+			gene	leuB
+			locus_tag	HNIILFLH_00387
+2250	2882	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00388
+			product	hypothetical protein
+2250	2882	gene
+			locus_tag	HNIILFLH_00388
+>Feature k105_338772
+68	1039	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00389
+			product	hypothetical protein
+68	1039	gene
+			locus_tag	HNIILFLH_00389
+2315	1023	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00390
+			product	hypothetical protein
+2315	1023	gene
+			locus_tag	HNIILFLH_00390
+3059	2355	CDS
+			inference	ab initio prediction:Prodigal:2.6
+			locus_tag	HNIILFLH_00391
+			product	hypothetical protein
+3059	2355	gene
+			locus_tag	HNIILFLH_00391

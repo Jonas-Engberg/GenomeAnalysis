@@ -1,0 +1,3115 @@
+locus_tag	ftype	gene	EC_number	product
+HNEDKCNO_00001	CDS			hypothetical protein
+HNEDKCNO_00001	gene			
+HNEDKCNO_00002	CDS			hypothetical protein
+HNEDKCNO_00002	gene			
+HNEDKCNO_00003	CDS			hypothetical protein
+HNEDKCNO_00003	gene			
+HNEDKCNO_00004	CDS			hypothetical protein
+HNEDKCNO_00004	gene			
+HNEDKCNO_00005	CDS			hypothetical protein
+HNEDKCNO_00005	gene			
+HNEDKCNO_00006	CDS			hypothetical protein
+HNEDKCNO_00006	gene			
+HNEDKCNO_00007	CDS	erpA		Iron-sulfur cluster insertion protein ErpA
+HNEDKCNO_00007	gene	erpA		
+HNEDKCNO_00008	CDS	dgt		Deoxyguanosinetriphosphate triphosphohydrolase-like protein
+HNEDKCNO_00008	gene	dgt		
+HNEDKCNO_00009	CDS	argS	6.1.1.19	Arginine--tRNA ligase
+HNEDKCNO_00009	gene	argS		
+HNEDKCNO_00010	CDS			hypothetical protein
+HNEDKCNO_00010	gene			
+HNEDKCNO_00011	CDS	leuC	4.2.1.33	3-isopropylmalate dehydratase large subunit
+HNEDKCNO_00011	gene	leuC		
+HNEDKCNO_00012	CDS	leuD1	4.2.1.33	3-isopropylmalate dehydratase small subunit 1
+HNEDKCNO_00012	gene	leuD1		
+HNEDKCNO_00013	CDS	benM		HTH-type transcriptional regulator BenM
+HNEDKCNO_00013	gene	benM		
+HNEDKCNO_00014	CDS			hypothetical protein
+HNEDKCNO_00014	gene			
+HNEDKCNO_00015	CDS	gatZ		D-tagatose-1,6-bisphosphate aldolase subunit GatZ
+HNEDKCNO_00015	gene	gatZ		
+HNEDKCNO_00016	CDS	nagA	3.5.1.25	N-acetylglucosamine-6-phosphate deacetylase
+HNEDKCNO_00016	gene	nagA		
+HNEDKCNO_00017	CDS			hypothetical protein
+HNEDKCNO_00017	gene			
+HNEDKCNO_00018	CDS	xdh	1.1.1.179	D-xylose dehydrogenase
+HNEDKCNO_00018	gene	xdh		
+HNEDKCNO_00019	CDS	iolE_1	4.2.1.44	Inosose dehydratase
+HNEDKCNO_00019	gene	iolE_1		
+HNEDKCNO_00020	CDS			hypothetical protein
+HNEDKCNO_00020	gene			
+HNEDKCNO_00021	CDS	ugpC_1	3.6.3.20	sn-glycerol-3-phosphate import ATP-binding protein UgpC
+HNEDKCNO_00021	gene	ugpC_1		
+HNEDKCNO_00022	CDS	araQ_1		L-arabinose transport system permease protein AraQ
+HNEDKCNO_00022	gene	araQ_1		
+HNEDKCNO_00023	CDS	lacF_1		Lactose transport system permease protein LacF
+HNEDKCNO_00023	gene	lacF_1		
+HNEDKCNO_00024	CDS			putative sugar-binding periplasmic protein
+HNEDKCNO_00024	gene			
+HNEDKCNO_00025	CDS	rafR		HTH-type transcriptional regulator RafR
+HNEDKCNO_00025	gene	rafR		
+HNEDKCNO_00026	CDS	iolE_2	4.2.1.44	Inosose dehydratase
+HNEDKCNO_00026	gene	iolE_2		
+HNEDKCNO_00027	CDS			hypothetical protein
+HNEDKCNO_00027	gene			
+HNEDKCNO_00028	CDS			hypothetical protein
+HNEDKCNO_00028	gene			
+HNEDKCNO_00029	CDS			hypothetical protein
+HNEDKCNO_00029	gene			
+HNEDKCNO_00030	CDS	dus	1.3.1.-	putative tRNA-dihydrouridine synthase
+HNEDKCNO_00030	gene	dus		
+HNEDKCNO_00031	CDS	glnL	2.7.13.3	Nitrogen regulation protein NR(II)
+HNEDKCNO_00031	gene	glnL		
+HNEDKCNO_00032	CDS	ntrC		Nitrogen assimilation regulatory protein
+HNEDKCNO_00032	gene	ntrC		
+HNEDKCNO_00033	CDS	ydcV_1		Inner membrane ABC transporter permease protein YdcV
+HNEDKCNO_00033	gene	ydcV_1		
+HNEDKCNO_00034	CDS	tmd_1	1.5.8.2	Trimethylamine dehydrogenase
+HNEDKCNO_00034	gene	tmd_1		
+HNEDKCNO_00035	CDS	phnE_1		Phosphate-import permease protein PhnE
+HNEDKCNO_00035	gene	phnE_1		
+HNEDKCNO_00036	CDS	cat	2.3.1.28	Chloramphenicol acetyltransferase
+HNEDKCNO_00036	gene	cat		
+HNEDKCNO_00037	CDS	phnM	3.6.1.63	Alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+HNEDKCNO_00037	gene	phnM		
+HNEDKCNO_00038	CDS	phnF		putative transcriptional regulator PhnF
+HNEDKCNO_00038	gene	phnF		
+HNEDKCNO_00039	CDS	phnG	2.7.8.37	Alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnG
+HNEDKCNO_00039	gene	phnG		
+HNEDKCNO_00040	CDS	phnH	2.7.8.37	Alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnH
+HNEDKCNO_00040	gene	phnH		
+HNEDKCNO_00041	CDS	spuE		Spermidine-binding periplasmic protein SpuE
+HNEDKCNO_00041	gene	spuE		
+HNEDKCNO_00042	CDS	potA_1	3.6.3.31	Spermidine/putrescine import ATP-binding protein PotA
+HNEDKCNO_00042	gene	potA_1		
+HNEDKCNO_00043	CDS	gsiD_1		Glutathione transport system permease protein GsiD
+HNEDKCNO_00043	gene	gsiD_1		
+HNEDKCNO_00044	CDS	gsiC_1		Glutathione transport system permease protein GsiC
+HNEDKCNO_00044	gene	gsiC_1		
+HNEDKCNO_00045	CDS	gsiB		Glutathione-binding protein GsiB
+HNEDKCNO_00045	gene	gsiB		
+HNEDKCNO_00046	CDS			hypothetical protein
+HNEDKCNO_00046	gene			
+HNEDKCNO_00047	CDS			hypothetical protein
+HNEDKCNO_00047	gene			
+HNEDKCNO_00048	CDS			hypothetical protein
+HNEDKCNO_00048	gene			
+HNEDKCNO_00049	CDS	yagE	4.1.2.-	putative 2-keto-3-deoxy-galactonate aldolase YagE
+HNEDKCNO_00049	gene	yagE		
+HNEDKCNO_00050	CDS			hypothetical protein
+HNEDKCNO_00050	gene			
+HNEDKCNO_00051	CDS	hyuA	3.5.2.-	D-hydantoinase
+HNEDKCNO_00051	gene	hyuA		
+HNEDKCNO_00052	CDS	ribD		Riboflavin biosynthesis protein RibD
+HNEDKCNO_00052	gene	ribD		
+HNEDKCNO_00053	CDS			hypothetical protein
+HNEDKCNO_00053	gene			
+HNEDKCNO_00054	CDS	ccrA2	1.3.1.86	Crotonyl-CoA reductase
+HNEDKCNO_00054	gene	ccrA2		
+HNEDKCNO_00055	CDS			hypothetical protein
+HNEDKCNO_00055	gene			
+HNEDKCNO_00056	CDS	vjbR		HTH-type quorum sensing-dependent transcriptional regulator VjbR
+HNEDKCNO_00056	gene	vjbR		
+HNEDKCNO_00057	CDS	lasI	2.3.1.184	Acyl-homoserine-lactone synthase
+HNEDKCNO_00057	gene	lasI		
+HNEDKCNO_00058	CDS	recD2	3.6.4.12	ATP-dependent RecD-like DNA helicase
+HNEDKCNO_00058	gene	recD2		
+HNEDKCNO_00059	CDS	dmdB	6.2.1.44	3-methylmercaptopropionyl-CoA ligase
+HNEDKCNO_00059	gene	dmdB		
+HNEDKCNO_00060	CDS	bbsG	1.3.8.3	(R)-benzylsuccinyl-CoA dehydrogenase
+HNEDKCNO_00060	gene	bbsG		
+HNEDKCNO_00061	CDS	uctC_1	2.8.3.19	Acetyl-CoA:oxalate CoA-transferase
+HNEDKCNO_00061	gene	uctC_1		
+HNEDKCNO_00062	CDS	lpxK	2.7.1.130	Tetraacyldisaccharide 4'-kinase
+HNEDKCNO_00062	gene	lpxK		
+HNEDKCNO_00063	CDS	waaA	2.4.99.12	3-deoxy-D-manno-octulosonic acid transferase
+HNEDKCNO_00063	gene	waaA		
+HNEDKCNO_00064	CDS			hypothetical protein
+HNEDKCNO_00064	gene			
+HNEDKCNO_00065	CDS	rpmE		50S ribosomal protein L31
+HNEDKCNO_00065	gene	rpmE		
+HNEDKCNO_00066	CDS	tal_1	2.2.1.2	Transaldolase
+HNEDKCNO_00066	gene	tal_1		
+HNEDKCNO_00067	CDS	rbsC_1		Ribose import permease protein RbsC
+HNEDKCNO_00067	gene	rbsC_1		
+HNEDKCNO_00068	CDS	gchK	2.7.13.3	Globin-coupled histidine kinase
+HNEDKCNO_00068	gene	gchK		
+HNEDKCNO_00069	CDS	glnG		Nitrogen regulation protein NR(I)
+HNEDKCNO_00069	gene	glnG		
+HNEDKCNO_00070	CDS			hypothetical protein
+HNEDKCNO_00070	gene			
+HNEDKCNO_00071	CDS			hypothetical protein
+HNEDKCNO_00071	gene			
+HNEDKCNO_00072	CDS	fhs	6.3.4.3	Formate--tetrahydrofolate ligase
+HNEDKCNO_00072	gene	fhs		
+HNEDKCNO_00073	CDS	folD		Bifunctional protein FolD protein
+HNEDKCNO_00073	gene	folD		
+HNEDKCNO_00074	CDS			hypothetical protein
+HNEDKCNO_00074	gene			
+HNEDKCNO_00075	CDS	recQ_1	3.6.4.12	ATP-dependent DNA helicase RecQ
+HNEDKCNO_00075	gene	recQ_1		
+HNEDKCNO_00076	CDS	iolD	3.7.1.22	3D-(3,5/4)-trihydroxycyclohexane-1,2-dione hydrolase
+HNEDKCNO_00076	gene	iolD		
+HNEDKCNO_00077	CDS	iolE_3	4.2.1.44	Inosose dehydratase
+HNEDKCNO_00077	gene	iolE_3		
+HNEDKCNO_00078	CDS	pgk	2.7.2.3	Phosphoglycerate kinase
+HNEDKCNO_00078	gene	pgk		
+HNEDKCNO_00079	CDS	fda	4.1.2.13	Fructose-bisphosphate aldolase class 1
+HNEDKCNO_00079	gene	fda		
+HNEDKCNO_00080	CDS			hypothetical protein
+HNEDKCNO_00080	gene			
+HNEDKCNO_00081	CDS	acoA	1.1.1.-	Acetoin:2,6-dichlorophenolindophenol oxidoreductase subunit alpha
+HNEDKCNO_00081	gene	acoA		
+HNEDKCNO_00082	CDS	pgrR		HTH-type transcriptional regulator PgrR
+HNEDKCNO_00082	gene	pgrR		
+HNEDKCNO_00083	CDS	oprF		Outer membrane porin F
+HNEDKCNO_00083	gene	oprF		
+HNEDKCNO_00084	CDS	ahpD	1.11.1.15	Alkyl hydroperoxide reductase AhpD
+HNEDKCNO_00084	gene	ahpD		
+HNEDKCNO_00085	CDS	wecD	2.3.1.210	dTDP-fucosamine acetyltransferase
+HNEDKCNO_00085	gene	wecD		
+HNEDKCNO_00086	CDS		3.4.21.-	putative CtpA-like serine protease
+HNEDKCNO_00086	gene			
+HNEDKCNO_00087	CDS			hypothetical protein
+HNEDKCNO_00087	gene			
+HNEDKCNO_00088	CDS	gpmI	5.4.2.12	2,3-bisphosphoglycerate-independent phosphoglycerate mutase
+HNEDKCNO_00088	gene	gpmI		
+HNEDKCNO_00089	CDS	rlmH	2.1.1.177	Ribosomal RNA large subunit methyltransferase H
+HNEDKCNO_00089	gene	rlmH		
+HNEDKCNO_00090	CDS	rsfS		Ribosomal silencing factor RsfS
+HNEDKCNO_00090	gene	rsfS		
+HNEDKCNO_00091	CDS	mnhE1		Na(+)/H(+) antiporter subunit E1
+HNEDKCNO_00091	gene	mnhE1		
+HNEDKCNO_00092	CDS	mrpF		Na(+)/H(+) antiporter subunit F
+HNEDKCNO_00092	gene	mrpF		
+HNEDKCNO_00093	CDS	mrpG		Na(+)/H(+) antiporter subunit G
+HNEDKCNO_00093	gene	mrpG		
+HNEDKCNO_00094	CDS			hypothetical protein
+HNEDKCNO_00094	gene			
+HNEDKCNO_00095	CDS	mrpB		Na(+)/H(+) antiporter subunit B
+HNEDKCNO_00095	gene	mrpB		
+HNEDKCNO_00096	CDS	mrpC		Na(+)/H(+) antiporter subunit C
+HNEDKCNO_00096	gene	mrpC		
+HNEDKCNO_00097	CDS	mrpD_1		Na(+)/H(+) antiporter subunit D
+HNEDKCNO_00097	gene	mrpD_1		
+HNEDKCNO_00098	CDS	nuoL_1	1.6.5.11	NADH-quinone oxidoreductase subunit L
+HNEDKCNO_00098	gene	nuoL_1		
+HNEDKCNO_00099	CDS			hypothetical protein
+HNEDKCNO_00099	gene			
+HNEDKCNO_00100	CDS	mrpD_2		Na(+)/H(+) antiporter subunit D
+HNEDKCNO_00100	gene	mrpD_2		
+HNEDKCNO_00101	CDS			hypothetical protein
+HNEDKCNO_00101	gene			
+HNEDKCNO_00102	CDS			hypothetical protein
+HNEDKCNO_00102	gene			
+HNEDKCNO_00103	CDS			hypothetical protein
+HNEDKCNO_00103	gene			
+HNEDKCNO_00104	CDS	msbA	3.6.3.-	Lipid A export ATP-binding/permease protein MsbA
+HNEDKCNO_00104	gene	msbA		
+HNEDKCNO_00105	CDS	fabF	2.3.1.179	3-oxoacyl-[acyl-carrier-protein] synthase 2
+HNEDKCNO_00105	gene	fabF		
+HNEDKCNO_00106	CDS	acpP		Acyl carrier protein
+HNEDKCNO_00106	gene	acpP		
+HNEDKCNO_00107	CDS	lpxD	2.3.1.-	UDP-3-O-acylglucosamine N-acyltransferase
+HNEDKCNO_00107	gene	lpxD		
+HNEDKCNO_00108	CDS			hypothetical protein
+HNEDKCNO_00108	gene			
+HNEDKCNO_00109	CDS	rplW		50S ribosomal protein L23
+HNEDKCNO_00109	gene	rplW		
+HNEDKCNO_00110	CDS	rplD		50S ribosomal protein L4
+HNEDKCNO_00110	gene	rplD		
+HNEDKCNO_00111	CDS	rplC		50S ribosomal protein L3
+HNEDKCNO_00111	gene	rplC		
+HNEDKCNO_00112	CDS	rpsJ		30S ribosomal protein S10
+HNEDKCNO_00112	gene	rpsJ		
+HNEDKCNO_00113	CDS	tufA		Elongation factor Tu
+HNEDKCNO_00113	gene	tufA		
+HNEDKCNO_00114	CDS	fusA		Elongation factor G
+HNEDKCNO_00114	gene	fusA		
+HNEDKCNO_00115	CDS	lldD	1.1.-.-	L-lactate dehydrogenase
+HNEDKCNO_00115	gene	lldD		
+HNEDKCNO_00116	CDS	ybjJ		Inner membrane protein YbjJ
+HNEDKCNO_00116	gene	ybjJ		
+HNEDKCNO_00117	CDS	rplY		50S ribosomal protein L25
+HNEDKCNO_00117	gene	rplY		
+HNEDKCNO_00118	CDS	rpsU		30S ribosomal protein S21
+HNEDKCNO_00118	gene	rpsU		
+HNEDKCNO_00119	CDS			hypothetical protein
+HNEDKCNO_00119	gene			
+HNEDKCNO_00120	CDS	ppsC_1	2.3.1.41	Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsC
+HNEDKCNO_00120	gene	ppsC_1		
+HNEDKCNO_00121	CDS	paaZ		Bifunctional protein PaaZ
+HNEDKCNO_00121	gene	paaZ		
+HNEDKCNO_00122	CDS	trpA	4.2.1.20	Tryptophan synthase alpha chain
+HNEDKCNO_00122	gene	trpA		
+HNEDKCNO_00123	CDS	ychF		Ribosome-binding ATPase YchF
+HNEDKCNO_00123	gene	ychF		
+HNEDKCNO_00124	CDS	soxA_1	1.5.3.1	Sarcosine oxidase subunit alpha
+HNEDKCNO_00124	gene	soxA_1		
+HNEDKCNO_00125	CDS			hypothetical protein
+HNEDKCNO_00125	gene			
+HNEDKCNO_00126	CDS	aldHT	1.2.1.5	Aldehyde dehydrogenase, thermostable
+HNEDKCNO_00126	gene	aldHT		
+HNEDKCNO_00127	CDS	polA	2.7.7.7	DNA polymerase I
+HNEDKCNO_00127	gene	polA		
+HNEDKCNO_00128	CDS	dadA1	1.4.99.-	D-amino acid dehydrogenase 1
+HNEDKCNO_00128	gene	dadA1		
+HNEDKCNO_00129	CDS	gltX1	6.1.1.17	Glutamate--tRNA ligase 1
+HNEDKCNO_00129	gene	gltX1		
+HNEDKCNO_00130	CDS			hypothetical protein
+HNEDKCNO_00130	gene			
+HNEDKCNO_00131	CDS			hypothetical protein
+HNEDKCNO_00131	gene			
+HNEDKCNO_00132	CDS	amiA	3.5.1.28	N-acetylmuramoyl-L-alanine amidase AmiA
+HNEDKCNO_00132	gene	amiA		
+HNEDKCNO_00133	CDS	dppB_1		Dipeptide transport system permease protein DppB
+HNEDKCNO_00133	gene	dppB_1		
+HNEDKCNO_00134	CDS	hbpA_1		Heme-binding protein A
+HNEDKCNO_00134	gene	hbpA_1		
+HNEDKCNO_00135	CDS	cysB		HTH-type transcriptional regulator CysB
+HNEDKCNO_00135	gene	cysB		
+HNEDKCNO_00136	CDS	pntA	1.6.1.2	NAD(P) transhydrogenase subunit alpha
+HNEDKCNO_00136	gene	pntA		
+HNEDKCNO_00137	CDS	pntB	1.6.1.2	NAD(P) transhydrogenase subunit beta
+HNEDKCNO_00137	gene	pntB		
+HNEDKCNO_00138	CDS	scpA	5.4.99.2	Methylmalonyl-CoA mutase
+HNEDKCNO_00138	gene	scpA		
+HNEDKCNO_00139	CDS			hypothetical protein
+HNEDKCNO_00139	gene			
+HNEDKCNO_00140	CDS	cfiB	6.4.1.7	2-oxoglutarate carboxylase small subunit
+HNEDKCNO_00140	gene	cfiB		
+HNEDKCNO_00141	CDS	nadD	2.7.7.18	putative nicotinate-nucleotide adenylyltransferase
+HNEDKCNO_00141	gene	nadD		
+HNEDKCNO_00142	CDS	dacB	3.4.16.4	D-alanyl-D-alanine carboxypeptidase DacB
+HNEDKCNO_00142	gene	dacB		
+HNEDKCNO_00143	CDS			hypothetical protein
+HNEDKCNO_00143	gene			
+HNEDKCNO_00144	CDS			hypothetical protein
+HNEDKCNO_00144	gene			
+HNEDKCNO_00145	CDS			hypothetical protein
+HNEDKCNO_00145	gene			
+HNEDKCNO_00146	CDS	mfd	3.6.4.-	Transcription-repair-coupling factor
+HNEDKCNO_00146	gene	mfd		
+HNEDKCNO_00147	CDS			hypothetical protein
+HNEDKCNO_00147	gene			
+HNEDKCNO_00148	CDS			Monocarboxylate 2-oxoacid-binding periplasmic protein
+HNEDKCNO_00148	gene			
+HNEDKCNO_00149	CDS			hypothetical protein
+HNEDKCNO_00149	gene			
+HNEDKCNO_00150	CDS			hypothetical protein
+HNEDKCNO_00150	gene			
+HNEDKCNO_00151	CDS			hypothetical protein
+HNEDKCNO_00151	gene			
+HNEDKCNO_00152	CDS	ptlI	1.14.13.133	Pentalenene oxygenase
+HNEDKCNO_00152	gene	ptlI		
+HNEDKCNO_00153	CDS			hypothetical protein
+HNEDKCNO_00153	gene			
+HNEDKCNO_00154	CDS			hypothetical protein
+HNEDKCNO_00154	gene			
+HNEDKCNO_00155	CDS	fumC	4.2.1.2	Fumarate hydratase class II
+HNEDKCNO_00155	gene	fumC		
+HNEDKCNO_00156	CDS			hypothetical protein
+HNEDKCNO_00156	gene			
+HNEDKCNO_00157	CDS			hypothetical protein
+HNEDKCNO_00157	gene			
+HNEDKCNO_00158	tmRNA	ssrA		transfer-messenger RNA, SsrA
+HNEDKCNO_00158	gene	ssrA		
+HNEDKCNO_00159	CDS			hypothetical protein
+HNEDKCNO_00159	gene			
+HNEDKCNO_00160	CDS	bdbD		Disulfide bond formation protein D
+HNEDKCNO_00160	gene	bdbD		
+HNEDKCNO_00161	CDS			hypothetical protein
+HNEDKCNO_00161	gene			
+HNEDKCNO_00162	CDS	mutY	3.2.2.-	Adenine DNA glycosylase
+HNEDKCNO_00162	gene	mutY		
+HNEDKCNO_00163	CDS	pobB	1.-.-.-	Phenoxybenzoate dioxygenase subunit beta
+HNEDKCNO_00163	gene	pobB		
+HNEDKCNO_00164	CDS	antA_1	1.14.12.1	Anthranilate 1,2-dioxygenase large subunit
+HNEDKCNO_00164	gene	antA_1		
+HNEDKCNO_00165	CDS	cbdB	1.14.12.13	2-halobenzoate 1,2-dioxygenase small subunit
+HNEDKCNO_00165	gene	cbdB		
+HNEDKCNO_00166	CDS	sauT_1	6.2.1.-	putative sulfoacetate--CoA ligase
+HNEDKCNO_00166	gene	sauT_1		
+HNEDKCNO_00167	CDS			hypothetical protein
+HNEDKCNO_00167	gene			
+HNEDKCNO_00168	CDS			hypothetical protein
+HNEDKCNO_00168	gene			
+HNEDKCNO_00169	CDS	tfdA	1.14.11.-	Alpha-ketoglutarate-dependent 2,4-dichlorophenoxyacetate dioxygenase
+HNEDKCNO_00169	gene	tfdA		
+HNEDKCNO_00170	CDS		6.2.1.3	Long-chain-fatty-acid--CoA ligase FadD13
+HNEDKCNO_00170	gene			
+HNEDKCNO_00171	CDS	ybaB		Nucleoid-associated protein YbaB
+HNEDKCNO_00171	gene	ybaB		
+HNEDKCNO_00172	CDS	recR		Recombination protein RecR
+HNEDKCNO_00172	gene	recR		
+HNEDKCNO_00173	CDS			hypothetical protein
+HNEDKCNO_00173	gene			
+HNEDKCNO_00174	CDS	pucM_1	3.5.2.17	5-hydroxyisourate hydrolase
+HNEDKCNO_00174	gene	pucM_1		
+HNEDKCNO_00175	CDS	uao		Uric acid degradation bifunctional protein
+HNEDKCNO_00175	gene	uao		
+HNEDKCNO_00176	CDS	allA	4.3.2.3	Ureidoglycolate lyase
+HNEDKCNO_00176	gene	allA		
+HNEDKCNO_00177	CDS	uacT		Uric acid transporter UacT
+HNEDKCNO_00177	gene	uacT		
+HNEDKCNO_00178	CDS			hypothetical protein
+HNEDKCNO_00178	gene			
+HNEDKCNO_00179	CDS			hypothetical protein
+HNEDKCNO_00179	gene			
+HNEDKCNO_00180	CDS			hypothetical protein
+HNEDKCNO_00180	gene			
+HNEDKCNO_00181	CDS			hypothetical protein
+HNEDKCNO_00181	gene			
+HNEDKCNO_00182	CDS	rpoE		ECF RNA polymerase sigma factor RpoE
+HNEDKCNO_00182	gene	rpoE		
+HNEDKCNO_00183	CDS	chrR		Anti-sigma-E factor ChrR
+HNEDKCNO_00183	gene	chrR		
+HNEDKCNO_00184	CDS	suhB_1	3.1.3.11	Fructose-1,6-bisphosphatase/inositol-1-monophosphatase
+HNEDKCNO_00184	gene	suhB_1		
+HNEDKCNO_00185	CDS	pip_1	3.4.11.5	Proline iminopeptidase
+HNEDKCNO_00185	gene	pip_1		
+HNEDKCNO_00186	CDS	pyrF	4.1.1.23	Orotidine 5'-phosphate decarboxylase
+HNEDKCNO_00186	gene	pyrF		
+HNEDKCNO_00187	CDS	clpB		Chaperone protein ClpB
+HNEDKCNO_00187	gene	clpB		
+HNEDKCNO_00188	CDS	lcfB_1	6.2.1.3	Long-chain-fatty-acid--CoA ligase
+HNEDKCNO_00188	gene	lcfB_1		
+HNEDKCNO_00189	CDS			hypothetical protein
+HNEDKCNO_00189	gene			
+HNEDKCNO_00190	CDS	rpmC		50S ribosomal protein L29
+HNEDKCNO_00190	gene	rpmC		
+HNEDKCNO_00191	CDS	rpsQ		30S ribosomal protein S17
+HNEDKCNO_00191	gene	rpsQ		
+HNEDKCNO_00192	CDS	rplN		50S ribosomal protein L14
+HNEDKCNO_00192	gene	rplN		
+HNEDKCNO_00193	CDS	rplX		50S ribosomal protein L24
+HNEDKCNO_00193	gene	rplX		
+HNEDKCNO_00194	CDS	rplE		50S ribosomal protein L5
+HNEDKCNO_00194	gene	rplE		
+HNEDKCNO_00195	CDS	rpsN		30S ribosomal protein S14
+HNEDKCNO_00195	gene	rpsN		
+HNEDKCNO_00196	CDS	rpsH		30S ribosomal protein S8
+HNEDKCNO_00196	gene	rpsH		
+HNEDKCNO_00197	CDS	rplF		50S ribosomal protein L6
+HNEDKCNO_00197	gene	rplF		
+HNEDKCNO_00198	CDS	rplR		50S ribosomal protein L18
+HNEDKCNO_00198	gene	rplR		
+HNEDKCNO_00199	CDS	rpsE		30S ribosomal protein S5
+HNEDKCNO_00199	gene	rpsE		
+HNEDKCNO_00200	CDS	rpmD		50S ribosomal protein L30
+HNEDKCNO_00200	gene	rpmD		
+HNEDKCNO_00201	CDS			hypothetical protein
+HNEDKCNO_00201	gene			
+HNEDKCNO_00202	CDS		3.1.3.-	Phosphorylated carbohydrates phosphatase
+HNEDKCNO_00202	gene			
+HNEDKCNO_00203	CDS	murF	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+HNEDKCNO_00203	gene	murF		
+HNEDKCNO_00204	CDS	murE	6.3.2.13	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2,6-diaminopimelate ligase
+HNEDKCNO_00204	gene	murE		
+HNEDKCNO_00205	CDS	ftsI	3.4.16.4	putative peptidoglycan D,D-transpeptidase FtsI
+HNEDKCNO_00205	gene	ftsI		
+HNEDKCNO_00206	CDS	kce_1	2.3.1.247	3-keto-5-aminohexanoate cleavage enzyme
+HNEDKCNO_00206	gene	kce_1		
+HNEDKCNO_00207	CDS			hypothetical protein
+HNEDKCNO_00207	gene			
+HNEDKCNO_00208	CDS			hypothetical protein
+HNEDKCNO_00208	gene			
+HNEDKCNO_00209	CDS			hypothetical protein
+HNEDKCNO_00209	gene			
+HNEDKCNO_00210	CDS	phoR	2.7.13.3	Phosphate regulon sensor protein PhoR
+HNEDKCNO_00210	gene	phoR		
+HNEDKCNO_00211	CDS	pstS		Phosphate-binding protein PstS
+HNEDKCNO_00211	gene	pstS		
+HNEDKCNO_00212	CDS	pstC1		Phosphate transport system permease protein PstC 1
+HNEDKCNO_00212	gene	pstC1		
+HNEDKCNO_00213	CDS		1.-.-.-	putative FAD-linked oxidoreductase
+HNEDKCNO_00213	gene			
+HNEDKCNO_00214	CDS		1.-.-.-	putative FAD-linked oxidoreductase
+HNEDKCNO_00214	gene			
+HNEDKCNO_00215	CDS			hypothetical protein
+HNEDKCNO_00215	gene			
+HNEDKCNO_00216	CDS	gcvA_1		Glycine cleavage system transcriptional activator
+HNEDKCNO_00216	gene	gcvA_1		
+HNEDKCNO_00217	tRNA			tRNA-Thr(ggt)
+HNEDKCNO_00217	gene			
+HNEDKCNO_00218	CDS			hypothetical protein
+HNEDKCNO_00218	gene			
+HNEDKCNO_00219	CDS	rho	3.6.4.-	Transcription termination factor Rho
+HNEDKCNO_00219	gene	rho		
+HNEDKCNO_00220	CDS			hypothetical protein
+HNEDKCNO_00220	gene			
+HNEDKCNO_00221	CDS			hypothetical protein
+HNEDKCNO_00221	gene			
+HNEDKCNO_00222	CDS	gph_1	3.1.3.18	Phosphoglycolate phosphatase
+HNEDKCNO_00222	gene	gph_1		
+HNEDKCNO_00223	CDS			hypothetical protein
+HNEDKCNO_00223	gene			
+HNEDKCNO_00224	CDS	yhdW		Putative amino-acid ABC transporter-binding protein YhdW
+HNEDKCNO_00224	gene	yhdW		
+HNEDKCNO_00225	CDS	glnM_1		putative glutamine ABC transporter permease protein GlnM
+HNEDKCNO_00225	gene	glnM_1		
+HNEDKCNO_00226	CDS	yhdY		Inner membrane amino-acid ABC transporter permease protein YhdY
+HNEDKCNO_00226	gene	yhdY		
+HNEDKCNO_00227	CDS	glnQ_1		Glutamine transport ATP-binding protein GlnQ
+HNEDKCNO_00227	gene	glnQ_1		
+HNEDKCNO_00228	CDS	proS	6.1.1.15	Proline--tRNA ligase
+HNEDKCNO_00228	gene	proS		
+HNEDKCNO_00229	CDS			hypothetical protein
+HNEDKCNO_00229	gene			
+HNEDKCNO_00230	CDS			hypothetical protein
+HNEDKCNO_00230	gene			
+HNEDKCNO_00231	CDS	exbB		Biopolymer transport protein ExbB
+HNEDKCNO_00231	gene	exbB		
+HNEDKCNO_00232	CDS	exbD		Biopolymer transport protein ExbD
+HNEDKCNO_00232	gene	exbD		
+HNEDKCNO_00233	CDS			hypothetical protein
+HNEDKCNO_00233	gene			
+HNEDKCNO_00234	CDS	dpp5	3.4.14.-	Dipeptidyl-peptidase 5
+HNEDKCNO_00234	gene	dpp5		
+HNEDKCNO_00235	CDS			Outer membrane lipoprotein Omp16
+HNEDKCNO_00235	gene			
+HNEDKCNO_00236	CDS			hypothetical protein
+HNEDKCNO_00236	gene			
+HNEDKCNO_00237	CDS	pyrD	1.3.5.2	Dihydroorotate dehydrogenase (quinone)
+HNEDKCNO_00237	gene	pyrD		
+HNEDKCNO_00238	CDS	arsC	1.20.4.1	Arsenate reductase
+HNEDKCNO_00238	gene	arsC		
+HNEDKCNO_00239	CDS			hypothetical protein
+HNEDKCNO_00239	gene			
+HNEDKCNO_00240	CDS	cysG		Siroheme synthase
+HNEDKCNO_00240	gene	cysG		
+HNEDKCNO_00241	CDS			hypothetical protein
+HNEDKCNO_00241	gene			
+HNEDKCNO_00242	CDS	hisC_1	2.6.1.9	Histidinol-phosphate aminotransferase
+HNEDKCNO_00242	gene	hisC_1		
+HNEDKCNO_00243	CDS		1.12.-.-	Soluble hydrogenase 42 kDa subunit
+HNEDKCNO_00243	gene			
+HNEDKCNO_00244	CDS	comC_1	1.1.1.338	(2R)-3-sulfolactate dehydrogenase (NADP(+))
+HNEDKCNO_00244	gene	comC_1		
+HNEDKCNO_00245	CDS	hmrR		HTH-type transcriptional regulator HmrR
+HNEDKCNO_00245	gene	hmrR		
+HNEDKCNO_00246	CDS	bclA	6.2.1.25	Benzoate--CoA ligase
+HNEDKCNO_00246	gene	bclA		
+HNEDKCNO_00247	CDS			hypothetical protein
+HNEDKCNO_00247	gene			
+HNEDKCNO_00248	CDS	ridA	3.5.99.10	2-iminobutanoate/2-iminopropanoate deaminase
+HNEDKCNO_00248	gene	ridA		
+HNEDKCNO_00249	CDS	dctM_1		C4-dicarboxylate TRAP transporter large permease protein DctM
+HNEDKCNO_00249	gene	dctM_1		
+HNEDKCNO_00250	CDS			hypothetical protein
+HNEDKCNO_00250	gene			
+HNEDKCNO_00251	CDS	tsaT		Outer membrane transporter protein TsaT
+HNEDKCNO_00251	gene	tsaT		
+HNEDKCNO_00252	CDS	iclR_1		Transcriptional repressor IclR
+HNEDKCNO_00252	gene	iclR_1		
+HNEDKCNO_00253	CDS			hypothetical protein
+HNEDKCNO_00253	gene			
+HNEDKCNO_00254	CDS	sutR		HTH-type transcriptional regulator SutR
+HNEDKCNO_00254	gene	sutR		
+HNEDKCNO_00255	CDS	rhtB		Homoserine/homoserine lactone efflux protein
+HNEDKCNO_00255	gene	rhtB		
+HNEDKCNO_00256	CDS			hypothetical protein
+HNEDKCNO_00256	gene			
+HNEDKCNO_00257	CDS	purB	4.3.2.2	Adenylosuccinate lyase
+HNEDKCNO_00257	gene	purB		
+HNEDKCNO_00258	CDS	dddP	4.4.1.3	Dimethlysulfonioproprionate lyase DddP
+HNEDKCNO_00258	gene	dddP		
+HNEDKCNO_00259	CDS	gcvA_2		Glycine cleavage system transcriptional activator
+HNEDKCNO_00259	gene	gcvA_2		
+HNEDKCNO_00260	CDS	gbuC		Glycine betaine/carnitine transport binding protein GbuC
+HNEDKCNO_00260	gene	gbuC		
+HNEDKCNO_00261	CDS	opuAA_1	3.6.3.32	Glycine betaine transport ATP-binding protein OpuAA
+HNEDKCNO_00261	gene	opuAA_1		
+HNEDKCNO_00262	CDS			hypothetical protein
+HNEDKCNO_00262	gene			
+HNEDKCNO_00263	CDS	dctB	2.7.13.3	C4-dicarboxylate transport sensor protein DctB
+HNEDKCNO_00263	gene	dctB		
+HNEDKCNO_00264	CDS	oppF_1		Oligopeptide transport ATP-binding protein OppF
+HNEDKCNO_00264	gene	oppF_1		
+HNEDKCNO_00265	CDS	ssb		Single-stranded DNA-binding protein
+HNEDKCNO_00265	gene	ssb		
+HNEDKCNO_00266	CDS	aroB	4.2.3.4	3-dehydroquinate synthase
+HNEDKCNO_00266	gene	aroB		
+HNEDKCNO_00267	CDS	aroK	2.7.1.71	Shikimate kinase
+HNEDKCNO_00267	gene	aroK		
+HNEDKCNO_00268	CDS			hypothetical protein
+HNEDKCNO_00268	gene			
+HNEDKCNO_00269	CDS	gsiD_2		Glutathione transport system permease protein GsiD
+HNEDKCNO_00269	gene	gsiD_2		
+HNEDKCNO_00270	CDS	dppB_2		Dipeptide transport system permease protein DppB
+HNEDKCNO_00270	gene	dppB_2		
+HNEDKCNO_00271	CDS		1.3.99.-	Putative acyl-CoA dehydrogenase FadE17
+HNEDKCNO_00271	gene			
+HNEDKCNO_00272	CDS	acrC	1.3.1.95	Acryloyl-CoA reductase (NADH)
+HNEDKCNO_00272	gene	acrC		
+HNEDKCNO_00273	CDS	algC	5.4.2.2	Phosphomannomutase/phosphoglucomutase
+HNEDKCNO_00273	gene	algC		
+HNEDKCNO_00274	CDS			hypothetical protein
+HNEDKCNO_00274	gene			
+HNEDKCNO_00275	CDS			hypothetical protein
+HNEDKCNO_00275	gene			
+HNEDKCNO_00276	CDS			hypothetical protein
+HNEDKCNO_00276	gene			
+HNEDKCNO_00277	CDS			hypothetical protein
+HNEDKCNO_00277	gene			
+HNEDKCNO_00278	CDS	dapA	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+HNEDKCNO_00278	gene	dapA		
+HNEDKCNO_00279	CDS	prsE		Type I secretion system membrane fusion protein PrsE
+HNEDKCNO_00279	gene	prsE		
+HNEDKCNO_00280	CDS			hypothetical protein
+HNEDKCNO_00280	gene			
+HNEDKCNO_00281	CDS	ugpQ_1	3.1.4.46	Glycerophosphodiester phosphodiesterase, cytoplasmic
+HNEDKCNO_00281	gene	ugpQ_1		
+HNEDKCNO_00282	CDS			hypothetical protein
+HNEDKCNO_00282	gene			
+HNEDKCNO_00283	CDS	gcvA_3		Glycine cleavage system transcriptional activator
+HNEDKCNO_00283	gene	gcvA_3		
+HNEDKCNO_00284	CDS	echA8_1	4.2.1.17	putative enoyl-CoA hydratase echA8
+HNEDKCNO_00284	gene	echA8_1		
+HNEDKCNO_00285	CDS	ccp_1	1.11.1.5	Cytochrome c551 peroxidase
+HNEDKCNO_00285	gene	ccp_1		
+HNEDKCNO_00286	CDS	esiB		Secretory immunoglobulin A-binding protein EsiB
+HNEDKCNO_00286	gene	esiB		
+HNEDKCNO_00287	CDS	iolX	1.1.1.370	scyllo-inositol 2-dehydrogenase (NAD(+))
+HNEDKCNO_00287	gene	iolX		
+HNEDKCNO_00288	CDS	rspR		HTH-type transcriptional repressor RspR
+HNEDKCNO_00288	gene	rspR		
+HNEDKCNO_00289	CDS	suyB	4.4.1.24	(2R)-sulfolactate sulfo-lyase subunit beta
+HNEDKCNO_00289	gene	suyB		
+HNEDKCNO_00290	CDS	suyA	4.4.1.24	(2R)-sulfolactate sulfo-lyase subunit alpha
+HNEDKCNO_00290	gene	suyA		
+HNEDKCNO_00291	CDS	yvoA_1		HTH-type transcriptional repressor YvoA
+HNEDKCNO_00291	gene	yvoA_1		
+HNEDKCNO_00292	CDS			hypothetical protein
+HNEDKCNO_00292	gene			
+HNEDKCNO_00293	CDS			hypothetical protein
+HNEDKCNO_00293	gene			
+HNEDKCNO_00294	CDS	corC		Magnesium and cobalt efflux protein CorC
+HNEDKCNO_00294	gene	corC		
+HNEDKCNO_00295	CDS			hypothetical protein
+HNEDKCNO_00295	gene			
+HNEDKCNO_00296	CDS	xerD		Tyrosine recombinase XerD
+HNEDKCNO_00296	gene	xerD		
+HNEDKCNO_00297	CDS	amiC		Aliphatic amidase expression-regulating protein
+HNEDKCNO_00297	gene	amiC		
+HNEDKCNO_00298	CDS	livH		High-affinity branched-chain amino acid transport system permease protein LivH
+HNEDKCNO_00298	gene	livH		
+HNEDKCNO_00299	CDS			hypothetical protein
+HNEDKCNO_00299	gene			
+HNEDKCNO_00300	CDS	tcyN	3.6.3.-	L-cystine import ATP-binding protein TcyN
+HNEDKCNO_00300	gene	tcyN		
+HNEDKCNO_00301	CDS	livF_1		High-affinity branched-chain amino acid transport ATP-binding protein LivF
+HNEDKCNO_00301	gene	livF_1		
+HNEDKCNO_00302	CDS		3.1.1.2	Arylesterase
+HNEDKCNO_00302	gene			
+HNEDKCNO_00303	CDS			hypothetical protein
+HNEDKCNO_00303	gene			
+HNEDKCNO_00304	CDS	mhpA	1.14.13.127	3-(3-hydroxy-phenyl)propionate/3-hydroxycinnamic acid hydroxylase
+HNEDKCNO_00304	gene	mhpA		
+HNEDKCNO_00305	CDS	blm	3.5.2.6	Metallo-beta-lactamase type 2
+HNEDKCNO_00305	gene	blm		
+HNEDKCNO_00306	CDS			hypothetical protein
+HNEDKCNO_00306	gene			
+HNEDKCNO_00307	CDS			hypothetical protein
+HNEDKCNO_00307	gene			
+HNEDKCNO_00308	CDS	gcvH		Glycine cleavage system H protein
+HNEDKCNO_00308	gene	gcvH		
+HNEDKCNO_00309	CDS	gcvT_1	2.1.2.10	Aminomethyltransferase
+HNEDKCNO_00309	gene	gcvT_1		
+HNEDKCNO_00310	CDS	mcd	1.3.8.12	(2S)-methylsuccinyl-CoA dehydrogenase
+HNEDKCNO_00310	gene	mcd		
+HNEDKCNO_00311	CDS			hypothetical protein
+HNEDKCNO_00311	gene			
+HNEDKCNO_00312	CDS			hypothetical protein
+HNEDKCNO_00312	gene			
+HNEDKCNO_00313	CDS	sohB	3.4.21.-	putative protease SohB
+HNEDKCNO_00313	gene	sohB		
+HNEDKCNO_00314	CDS	yadH_1		Inner membrane transport permease YadH
+HNEDKCNO_00314	gene	yadH_1		
+HNEDKCNO_00315	CDS	cbiO	3.6.3.-	Cobalt import ATP-binding protein CbiO
+HNEDKCNO_00315	gene	cbiO		
+HNEDKCNO_00316	CDS	hemE	4.1.1.37	Uroporphyrinogen decarboxylase
+HNEDKCNO_00316	gene	hemE		
+HNEDKCNO_00317	CDS			hypothetical protein
+HNEDKCNO_00317	gene			
+HNEDKCNO_00318	CDS	cdhR_1		HTH-type transcriptional regulator CdhR
+HNEDKCNO_00318	gene	cdhR_1		
+HNEDKCNO_00319	CDS		1.14.13.-	Baeyer-Villiger monooxygenase
+HNEDKCNO_00319	gene			
+HNEDKCNO_00320	CDS			hypothetical protein
+HNEDKCNO_00320	gene			
+HNEDKCNO_00321	CDS	trpE	4.1.3.27	Anthranilate synthase component 1
+HNEDKCNO_00321	gene	trpE		
+HNEDKCNO_00322	CDS	ppiD	5.2.1.8	Peptidyl-prolyl cis-trans isomerase D
+HNEDKCNO_00322	gene	ppiD		
+HNEDKCNO_00323	CDS	aspC	2.6.1.1	Aspartate aminotransferase
+HNEDKCNO_00323	gene	aspC		
+HNEDKCNO_00324	CDS	ribE	2.5.1.9	Riboflavin synthase
+HNEDKCNO_00324	gene	ribE		
+HNEDKCNO_00325	CDS	cdhR_2		HTH-type transcriptional regulator CdhR
+HNEDKCNO_00325	gene	cdhR_2		
+HNEDKCNO_00326	CDS	clpP_1	3.4.21.92	ATP-dependent Clp protease proteolytic subunit
+HNEDKCNO_00326	gene	clpP_1		
+HNEDKCNO_00327	CDS	clpX		ATP-dependent Clp protease ATP-binding subunit ClpX
+HNEDKCNO_00327	gene	clpX		
+HNEDKCNO_00328	CDS			hypothetical protein
+HNEDKCNO_00328	gene			
+HNEDKCNO_00329	CDS	mlaD		putative phospholipid ABC transporter-binding protein MlaD
+HNEDKCNO_00329	gene	mlaD		
+HNEDKCNO_00330	CDS			hypothetical protein
+HNEDKCNO_00330	gene			
+HNEDKCNO_00331	CDS	pyrB	2.1.3.2	Aspartate carbamoyltransferase
+HNEDKCNO_00331	gene	pyrB		
+HNEDKCNO_00332	CDS			hypothetical protein
+HNEDKCNO_00332	gene			
+HNEDKCNO_00333	CDS			hypothetical protein
+HNEDKCNO_00333	gene			
+HNEDKCNO_00334	CDS	moaB		Molybdenum cofactor biosynthesis protein B
+HNEDKCNO_00334	gene	moaB		
+HNEDKCNO_00335	CDS	yteT	1.-.-.-	Putative oxidoreductase YteT
+HNEDKCNO_00335	gene	yteT		
+HNEDKCNO_00336	CDS	malK	3.6.3.19	Maltose/maltodextrin import ATP-binding protein MalK
+HNEDKCNO_00336	gene	malK		
+HNEDKCNO_00337	CDS			hypothetical protein
+HNEDKCNO_00337	gene			
+HNEDKCNO_00338	CDS	ycjP_1		Inner membrane ABC transporter permease protein YcjP
+HNEDKCNO_00338	gene	ycjP_1		
+HNEDKCNO_00339	CDS	lacF_2		Lactose transport system permease protein LacF
+HNEDKCNO_00339	gene	lacF_2		
+HNEDKCNO_00340	CDS	yvoA_2		HTH-type transcriptional repressor YvoA
+HNEDKCNO_00340	gene	yvoA_2		
+HNEDKCNO_00341	CDS			hypothetical protein
+HNEDKCNO_00341	gene			
+HNEDKCNO_00342	CDS	accD	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta
+HNEDKCNO_00342	gene	accD		
+HNEDKCNO_00343	CDS	fpgS	6.3.2.17	Folylpolyglutamate synthase
+HNEDKCNO_00343	gene	fpgS		
+HNEDKCNO_00344	CDS	zapE		Cell division protein ZapE
+HNEDKCNO_00344	gene	zapE		
+HNEDKCNO_00345	CDS	guaB	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+HNEDKCNO_00345	gene	guaB		
+HNEDKCNO_00346	CDS	gpuA	3.5.3.17	Guanidinopropionase
+HNEDKCNO_00346	gene	gpuA		
+HNEDKCNO_00347	CDS	hppA	3.6.1.1	K(+)-stimulated pyrophosphate-energized sodium pump
+HNEDKCNO_00347	gene	hppA		
+HNEDKCNO_00348	CDS	gph_2	3.1.3.18	Phosphoglycolate phosphatase
+HNEDKCNO_00348	gene	gph_2		
+HNEDKCNO_00349	CDS	phaJ	4.2.1.119	(R)-specific enoyl-CoA hydratase
+HNEDKCNO_00349	gene	phaJ		
+HNEDKCNO_00350	CDS	oppF_2		Oligopeptide transport ATP-binding protein OppF
+HNEDKCNO_00350	gene	oppF_2		
+HNEDKCNO_00351	CDS	oppD_1		Oligopeptide transport ATP-binding protein OppD
+HNEDKCNO_00351	gene	oppD_1		
+HNEDKCNO_00352	CDS	oppC		Oligopeptide transport system permease protein OppC
+HNEDKCNO_00352	gene	oppC		
+HNEDKCNO_00353	CDS	phnL	2.7.8.37	Alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnL
+HNEDKCNO_00353	gene	phnL		
+HNEDKCNO_00354	CDS	phnK		Putative phosphonates utilization ATP-binding protein PhnK
+HNEDKCNO_00354	gene	phnK		
+HNEDKCNO_00355	CDS	phnJ	4.7.1.1	Alpha-D-ribose 1-methylphosphonate 5-phosphate C-P lyase
+HNEDKCNO_00355	gene	phnJ		
+HNEDKCNO_00356	CDS	phnI	2.7.8.37	Alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnI
+HNEDKCNO_00356	gene	phnI		
+HNEDKCNO_00357	CDS			hypothetical protein
+HNEDKCNO_00357	gene			
+HNEDKCNO_00358	CDS	amiF	3.5.1.49	Formamidase
+HNEDKCNO_00358	gene	amiF		
+HNEDKCNO_00359	CDS	carA2	1.3.99.29	zeta-carotene-forming phytoene desaturase
+HNEDKCNO_00359	gene	carA2		
+HNEDKCNO_00360	CDS			hypothetical protein
+HNEDKCNO_00360	gene			
+HNEDKCNO_00361	CDS	mntB_1		Manganese transport system membrane protein MntB
+HNEDKCNO_00361	gene	mntB_1		
+HNEDKCNO_00362	CDS	znuC	3.6.3.-	High-affinity zinc uptake system ATP-binding protein ZnuC
+HNEDKCNO_00362	gene	znuC		
+HNEDKCNO_00363	CDS	troA		Periplasmic zinc-binding protein TroA
+HNEDKCNO_00363	gene	troA		
+HNEDKCNO_00364	CDS	deoC	4.1.2.4	Deoxyribose-phosphate aldolase
+HNEDKCNO_00364	gene	deoC		
+HNEDKCNO_00365	CDS			hypothetical protein
+HNEDKCNO_00365	gene			
+HNEDKCNO_00366	CDS	ycaD_1		putative MFS-type transporter YcaD
+HNEDKCNO_00366	gene	ycaD_1		
+HNEDKCNO_00367	CDS	ycaD_2		putative MFS-type transporter YcaD
+HNEDKCNO_00367	gene	ycaD_2		
+HNEDKCNO_00368	CDS			hypothetical protein
+HNEDKCNO_00368	gene			
+HNEDKCNO_00369	CDS			hypothetical protein
+HNEDKCNO_00369	gene			
+HNEDKCNO_00370	CDS			hypothetical protein
+HNEDKCNO_00370	gene			
+HNEDKCNO_00371	CDS			hypothetical protein
+HNEDKCNO_00371	gene			
+HNEDKCNO_00372	CDS	dksA_1		RNA polymerase-binding transcription factor DksA
+HNEDKCNO_00372	gene	dksA_1		
+HNEDKCNO_00373	CDS	cysE	2.3.1.30	Serine acetyltransferase
+HNEDKCNO_00373	gene	cysE		
+HNEDKCNO_00374	CDS	pdhC	2.3.1.12	Dihydrolipoyllysine-residue acetyltransferase component of pyruvate dehydrogenase complex
+HNEDKCNO_00374	gene	pdhC		
+HNEDKCNO_00375	CDS	sufC		putative ATP-dependent transporter SufC
+HNEDKCNO_00375	gene	sufC		
+HNEDKCNO_00376	CDS	sufD		FeS cluster assembly protein SufD
+HNEDKCNO_00376	gene	sufD		
+HNEDKCNO_00377	CDS			hypothetical protein
+HNEDKCNO_00377	gene			
+HNEDKCNO_00378	CDS			hypothetical protein
+HNEDKCNO_00378	gene			
+HNEDKCNO_00379	CDS	yadH_2		Inner membrane transport permease YadH
+HNEDKCNO_00379	gene	yadH_2		
+HNEDKCNO_00380	CDS	pcs	2.7.8.24	Phosphatidylcholine synthase
+HNEDKCNO_00380	gene	pcs		
+HNEDKCNO_00381	CDS	xerC		Tyrosine recombinase XerC
+HNEDKCNO_00381	gene	xerC		
+HNEDKCNO_00382	CDS			hypothetical protein
+HNEDKCNO_00382	gene			
+HNEDKCNO_00383	CDS	tal_2	2.2.1.2	Transaldolase
+HNEDKCNO_00383	gene	tal_2		
+HNEDKCNO_00384	CDS			hypothetical protein
+HNEDKCNO_00384	gene			
+HNEDKCNO_00385	CDS			hypothetical protein
+HNEDKCNO_00385	gene			
+HNEDKCNO_00386	CDS	pyrG	6.3.4.2	CTP synthase
+HNEDKCNO_00386	gene	pyrG		
+HNEDKCNO_00387	CDS	secG		Protein-export membrane protein SecG
+HNEDKCNO_00387	gene	secG		
+HNEDKCNO_00388	CDS	tpa	2.6.1.77	Taurine--pyruvate aminotransferase
+HNEDKCNO_00388	gene	tpa		
+HNEDKCNO_00389	CDS	tauR		HTH-type transcriptional regulator TauR
+HNEDKCNO_00389	gene	tauR		
+HNEDKCNO_00390	CDS	antA_2	1.14.12.1	Anthranilate 1,2-dioxygenase large subunit
+HNEDKCNO_00390	gene	antA_2		
+HNEDKCNO_00391	CDS			hypothetical protein
+HNEDKCNO_00391	gene			
+HNEDKCNO_00392	CDS	puuB_1	1.4.3.-	Gamma-glutamylputrescine oxidoreductase
+HNEDKCNO_00392	gene	puuB_1		
+HNEDKCNO_00393	CDS			hypothetical protein
+HNEDKCNO_00393	gene			
+HNEDKCNO_00394	CDS	cobD_1	4.1.1.81	Threonine-phosphate decarboxylase
+HNEDKCNO_00394	gene	cobD_1		
+HNEDKCNO_00395	CDS	cobD_2		Cobalamin biosynthesis protein CobD
+HNEDKCNO_00395	gene	cobD_2		
+HNEDKCNO_00396	CDS	mltB	4.2.2.-	Membrane-bound lytic murein transglycosylase B
+HNEDKCNO_00396	gene	mltB		
+HNEDKCNO_00397	CDS	gylR		Glycerol operon regulatory protein
+HNEDKCNO_00397	gene	gylR		
+HNEDKCNO_00398	CDS			hypothetical protein
+HNEDKCNO_00398	gene			
+HNEDKCNO_00399	CDS	petF1		Ferredoxin-1
+HNEDKCNO_00399	gene	petF1		
+HNEDKCNO_00400	CDS			hypothetical protein
+HNEDKCNO_00400	gene			
+HNEDKCNO_00401	CDS	glpE_1	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+HNEDKCNO_00401	gene	glpE_1		
+HNEDKCNO_00402	CDS	mmgC	1.3.99.-	Acyl-CoA dehydrogenase
+HNEDKCNO_00402	gene	mmgC		
+HNEDKCNO_00403	CDS	fdr	1.18.1.2	Ferredoxin--NAD(P)(+) reductase fdr
+HNEDKCNO_00403	gene	fdr		
+HNEDKCNO_00404	CDS		1.11.1.15	Hybrid peroxiredoxin hyPrx5
+HNEDKCNO_00404	gene			
+HNEDKCNO_00405	CDS	phhB	4.2.1.96	Putative pterin-4-alpha-carbinolamine dehydratase
+HNEDKCNO_00405	gene	phhB		
+HNEDKCNO_00406	CDS			hypothetical protein
+HNEDKCNO_00406	gene			
+HNEDKCNO_00407	CDS	trpD	2.4.2.18	Anthranilate phosphoribosyltransferase
+HNEDKCNO_00407	gene	trpD		
+HNEDKCNO_00408	CDS	trpG	4.1.3.27	Anthranilate synthase component 2
+HNEDKCNO_00408	gene	trpG		
+HNEDKCNO_00409	CDS			hypothetical protein
+HNEDKCNO_00409	gene			
+HNEDKCNO_00410	CDS			hypothetical protein
+HNEDKCNO_00410	gene			
+HNEDKCNO_00411	CDS	alr	5.1.1.1	Alanine racemase, biosynthetic
+HNEDKCNO_00411	gene	alr		
+HNEDKCNO_00412	CDS	mlaE		putative phospholipid ABC transporter permease protein MlaE
+HNEDKCNO_00412	gene	mlaE		
+HNEDKCNO_00413	CDS	mkl		putative ribonucleotide transport ATP-binding protein mkl
+HNEDKCNO_00413	gene	mkl		
+HNEDKCNO_00414	CDS			hypothetical protein
+HNEDKCNO_00414	gene			
+HNEDKCNO_00415	CDS			hypothetical protein
+HNEDKCNO_00415	gene			
+HNEDKCNO_00416	CDS	aroC_1	4.2.3.5	Chorismate synthase
+HNEDKCNO_00416	gene	aroC_1		
+HNEDKCNO_00417	CDS			hypothetical protein
+HNEDKCNO_00417	gene			
+HNEDKCNO_00418	CDS			hypothetical protein
+HNEDKCNO_00418	gene			
+HNEDKCNO_00419	CDS			hypothetical protein
+HNEDKCNO_00419	gene			
+HNEDKCNO_00420	CDS			hypothetical protein
+HNEDKCNO_00420	gene			
+HNEDKCNO_00421	CDS	clpP_2	3.4.21.92	ATP-dependent Clp protease proteolytic subunit
+HNEDKCNO_00421	gene	clpP_2		
+HNEDKCNO_00422	CDS			hypothetical protein
+HNEDKCNO_00422	gene			
+HNEDKCNO_00423	CDS			Cytochrome c-556
+HNEDKCNO_00423	gene			
+HNEDKCNO_00424	CDS	dinB_1	2.7.7.7	DNA polymerase IV
+HNEDKCNO_00424	gene	dinB_1		
+HNEDKCNO_00425	CDS	allE	3.5.3.26	(S)-ureidoglycine aminohydrolase
+HNEDKCNO_00425	gene	allE		
+HNEDKCNO_00426	CDS		3.4.24.-	putative zinc protease
+HNEDKCNO_00426	gene			
+HNEDKCNO_00427	CDS	pmbA	3.4.-.-	Metalloprotease PmbA
+HNEDKCNO_00427	gene	pmbA		
+HNEDKCNO_00428	CDS	bacC_1	1.1.1.385	Dihydroanticapsin 7-dehydrogenase
+HNEDKCNO_00428	gene	bacC_1		
+HNEDKCNO_00429	CDS			hypothetical protein
+HNEDKCNO_00429	gene			
+HNEDKCNO_00430	CDS		1.-.-.-	putative oxidoreductase
+HNEDKCNO_00430	gene			
+HNEDKCNO_00431	CDS	crt	4.2.1.150	Short-chain-enoyl-CoA hydratase
+HNEDKCNO_00431	gene	crt		
+HNEDKCNO_00432	CDS			hypothetical protein
+HNEDKCNO_00432	gene			
+HNEDKCNO_00433	CDS			hypothetical protein
+HNEDKCNO_00433	gene			
+HNEDKCNO_00434	CDS	flhA	1.1.1.284	S-(hydroxymethyl)glutathione dehydrogenase
+HNEDKCNO_00434	gene	flhA		
+HNEDKCNO_00435	CDS		3.-.-.-	putative metallo-hydrolase
+HNEDKCNO_00435	gene			
+HNEDKCNO_00436	CDS	htpG		Chaperone protein HtpG
+HNEDKCNO_00436	gene	htpG		
+HNEDKCNO_00437	CDS			hypothetical protein
+HNEDKCNO_00437	gene			
+HNEDKCNO_00438	CDS			hypothetical protein
+HNEDKCNO_00438	gene			
+HNEDKCNO_00439	CDS	ybhL_1		Inner membrane protein YbhL
+HNEDKCNO_00439	gene	ybhL_1		
+HNEDKCNO_00440	CDS	ppsC_2	2.3.1.41	Phthiocerol/phenolphthiocerol synthesis polyketide synthase type I PpsC
+HNEDKCNO_00440	gene	ppsC_2		
+HNEDKCNO_00441	CDS			hypothetical protein
+HNEDKCNO_00441	gene			
+HNEDKCNO_00442	CDS	gph_3	3.1.3.18	Phosphoglycolate phosphatase
+HNEDKCNO_00442	gene	gph_3		
+HNEDKCNO_00443	CDS			hypothetical protein
+HNEDKCNO_00443	gene			
+HNEDKCNO_00444	CDS			hypothetical protein
+HNEDKCNO_00444	gene			
+HNEDKCNO_00445	CDS			hypothetical protein
+HNEDKCNO_00445	gene			
+HNEDKCNO_00446	CDS			hypothetical protein
+HNEDKCNO_00446	gene			
+HNEDKCNO_00447	CDS	cutL_1	1.2.5.3	Carbon monoxide dehydrogenase large chain
+HNEDKCNO_00447	gene	cutL_1		
+HNEDKCNO_00448	CDS	coxS	1.2.5.3	Carbon monoxide dehydrogenase small chain
+HNEDKCNO_00448	gene	coxS		
+HNEDKCNO_00449	CDS			hypothetical protein
+HNEDKCNO_00449	gene			
+HNEDKCNO_00450	CDS	smrA	3.1.-.-	putative DNA endonuclease SmrA
+HNEDKCNO_00450	gene	smrA		
+HNEDKCNO_00451	CDS			hypothetical protein
+HNEDKCNO_00451	gene			
+HNEDKCNO_00452	CDS			hypothetical protein
+HNEDKCNO_00452	gene			
+HNEDKCNO_00453	CDS	rsmI	2.1.1.198	Ribosomal RNA small subunit methyltransferase I
+HNEDKCNO_00453	gene	rsmI		
+HNEDKCNO_00454	CDS			hypothetical protein
+HNEDKCNO_00454	gene			
+HNEDKCNO_00455	CDS			hypothetical protein
+HNEDKCNO_00455	gene			
+HNEDKCNO_00456	CDS	gloC	3.1.2.6	Hydroxyacylglutathione hydrolase GloC
+HNEDKCNO_00456	gene	gloC		
+HNEDKCNO_00457	CDS			hypothetical protein
+HNEDKCNO_00457	gene			
+HNEDKCNO_00458	CDS	ptsN	2.7.1.-	Nitrogen regulatory protein
+HNEDKCNO_00458	gene	ptsN		
+HNEDKCNO_00459	CDS	yvyD		Ribosome hibernation promotion factor
+HNEDKCNO_00459	gene	yvyD		
+HNEDKCNO_00460	CDS	lptB_1	3.6.3.-	Lipopolysaccharide export system ATP-binding protein LptB
+HNEDKCNO_00460	gene	lptB_1		
+HNEDKCNO_00461	CDS	lptA		Lipopolysaccharide export system protein LptA
+HNEDKCNO_00461	gene	lptA		
+HNEDKCNO_00462	CDS			hypothetical protein
+HNEDKCNO_00462	gene			
+HNEDKCNO_00463	CDS	rnd	3.1.13.5	Ribonuclease D
+HNEDKCNO_00463	gene	rnd		
+HNEDKCNO_00464	CDS	lcfB_2	6.2.1.3	Long-chain-fatty-acid--CoA ligase
+HNEDKCNO_00464	gene	lcfB_2		
+HNEDKCNO_00465	CDS	gpt	2.4.2.22	Xanthine phosphoribosyltransferase
+HNEDKCNO_00465	gene	gpt		
+HNEDKCNO_00466	CDS	fabI_1	1.3.1.9	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+HNEDKCNO_00466	gene	fabI_1		
+HNEDKCNO_00467	CDS	pdxH	1.4.3.5	Pyridoxine/pyridoxamine 5'-phosphate oxidase
+HNEDKCNO_00467	gene	pdxH		
+HNEDKCNO_00468	CDS	lacG		Lactose transport system permease protein LacG
+HNEDKCNO_00468	gene	lacG		
+HNEDKCNO_00469	CDS	ugpA_1		sn-glycerol-3-phosphate transport system permease protein UgpA
+HNEDKCNO_00469	gene	ugpA_1		
+HNEDKCNO_00470	CDS	ugpB		sn-glycerol-3-phosphate-binding periplasmic protein UgpB
+HNEDKCNO_00470	gene	ugpB		
+HNEDKCNO_00471	CDS			hypothetical protein
+HNEDKCNO_00471	gene			
+HNEDKCNO_00472	CDS			hypothetical protein
+HNEDKCNO_00472	gene			
+HNEDKCNO_00473	CDS			hypothetical protein
+HNEDKCNO_00473	gene			
+HNEDKCNO_00474	CDS	recA		Protein RecA
+HNEDKCNO_00474	gene	recA		
+HNEDKCNO_00475	CDS			hypothetical protein
+HNEDKCNO_00475	gene			
+HNEDKCNO_00476	CDS	rbsA_1	3.6.3.17	Ribose import ATP-binding protein RbsA
+HNEDKCNO_00476	gene	rbsA_1		
+HNEDKCNO_00477	CDS	xylH		Xylose transport system permease protein XylH
+HNEDKCNO_00477	gene	xylH		
+HNEDKCNO_00478	CDS	xylF		D-xylose-binding periplasmic protein
+HNEDKCNO_00478	gene	xylF		
+HNEDKCNO_00479	CDS	nagC		N-acetylglucosamine repressor
+HNEDKCNO_00479	gene	nagC		
+HNEDKCNO_00480	CDS	phaC	2.3.1.-	Poly(3-hydroxyalkanoate) polymerase subunit PhaC
+HNEDKCNO_00480	gene	phaC		
+HNEDKCNO_00481	CDS			hypothetical protein
+HNEDKCNO_00481	gene			
+HNEDKCNO_00482	CDS	gfo	1.1.99.28	Glucose--fructose oxidoreductase
+HNEDKCNO_00482	gene	gfo		
+HNEDKCNO_00483	CDS	rpoH		RNA polymerase sigma factor RpoH
+HNEDKCNO_00483	gene	rpoH		
+HNEDKCNO_00484	CDS	dctM_2		C4-dicarboxylate TRAP transporter large permease protein DctM
+HNEDKCNO_00484	gene	dctM_2		
+HNEDKCNO_00485	CDS	degA		HTH-type transcriptional regulator DegA
+HNEDKCNO_00485	gene	degA		
+HNEDKCNO_00486	CDS	fabA	4.2.1.59	3-hydroxydecanoyl-[acyl-carrier-protein] dehydratase
+HNEDKCNO_00486	gene	fabA		
+HNEDKCNO_00487	CDS	perR		Peroxide-responsive repressor PerR
+HNEDKCNO_00487	gene	perR		
+HNEDKCNO_00488	CDS	qorA_1	1.6.5.5	Quinone oxidoreductase 1
+HNEDKCNO_00488	gene	qorA_1		
+HNEDKCNO_00489	CDS	srpC		putative chromate transport protein
+HNEDKCNO_00489	gene	srpC		
+HNEDKCNO_00490	CDS	hbpA_2		Heme-binding protein A
+HNEDKCNO_00490	gene	hbpA_2		
+HNEDKCNO_00491	CDS	gsiC_2		Glutathione transport system permease protein GsiC
+HNEDKCNO_00491	gene	gsiC_2		
+HNEDKCNO_00492	CDS	gsiD_3		Glutathione transport system permease protein GsiD
+HNEDKCNO_00492	gene	gsiD_3		
+HNEDKCNO_00493	CDS			hypothetical protein
+HNEDKCNO_00493	gene			
+HNEDKCNO_00494	CDS			hypothetical protein
+HNEDKCNO_00494	gene			
+HNEDKCNO_00495	CDS			hypothetical protein
+HNEDKCNO_00495	gene			
+HNEDKCNO_00496	CDS			hypothetical protein
+HNEDKCNO_00496	gene			
+HNEDKCNO_00497	CDS		1.1.1.81	Hydroxypyruvate reductase
+HNEDKCNO_00497	gene			
+HNEDKCNO_00498	CDS	galD	5.3.2.8	4-oxalomesaconate tautomerase
+HNEDKCNO_00498	gene	galD		
+HNEDKCNO_00499	CDS	hicd	1.1.1.87	Homoisocitrate dehydrogenase
+HNEDKCNO_00499	gene	hicd		
+HNEDKCNO_00500	CDS	dapF	5.1.1.7	Diaminopimelate epimerase
+HNEDKCNO_00500	gene	dapF		
+HNEDKCNO_00501	CDS	mtaB	2.8.4.5	Threonylcarbamoyladenosine tRNA methylthiotransferase MtaB
+HNEDKCNO_00501	gene	mtaB		
+HNEDKCNO_00502	CDS			hypothetical protein
+HNEDKCNO_00502	gene			
+HNEDKCNO_00503	CDS			hypothetical protein
+HNEDKCNO_00503	gene			
+HNEDKCNO_00504	CDS			hypothetical protein
+HNEDKCNO_00504	gene			
+HNEDKCNO_00505	CDS		2.6.1.-	putative aminotransferase
+HNEDKCNO_00505	gene			
+HNEDKCNO_00506	CDS	mcbR_1		HTH-type transcriptional regulator McbR
+HNEDKCNO_00506	gene	mcbR_1		
+HNEDKCNO_00507	CDS			putative sugar-binding periplasmic protein
+HNEDKCNO_00507	gene			
+HNEDKCNO_00508	CDS	ugpA_2		sn-glycerol-3-phosphate transport system permease protein UgpA
+HNEDKCNO_00508	gene	ugpA_2		
+HNEDKCNO_00509	CDS	ycjP_2		Inner membrane ABC transporter permease protein YcjP
+HNEDKCNO_00509	gene	ycjP_2		
+HNEDKCNO_00510	CDS	ugpC_2	3.6.3.20	sn-glycerol-3-phosphate import ATP-binding protein UgpC
+HNEDKCNO_00510	gene	ugpC_2		
+HNEDKCNO_00511	CDS	lutR		HTH-type transcriptional regulator LutR
+HNEDKCNO_00511	gene	lutR		
+HNEDKCNO_00512	CDS		3.5.3.18	N(G),N(G)-dimethylarginine dimethylaminohydrolase
+HNEDKCNO_00512	gene			
+HNEDKCNO_00513	CDS			hypothetical protein
+HNEDKCNO_00513	gene			
+HNEDKCNO_00514	CDS	efe	1.13.12.19	2-oxoglutarate-dependent ethylene/succinate-forming enzyme
+HNEDKCNO_00514	gene	efe		
+HNEDKCNO_00515	CDS		3.5.3.18	N(G),N(G)-dimethylarginine dimethylaminohydrolase
+HNEDKCNO_00515	gene			
+HNEDKCNO_00516	CDS	yecD	3.-.-.-	Isochorismatase family protein YecD
+HNEDKCNO_00516	gene	yecD		
+HNEDKCNO_00517	CDS	ccpA_1		Catabolite control protein A
+HNEDKCNO_00517	gene	ccpA_1		
+HNEDKCNO_00518	CDS			hypothetical protein
+HNEDKCNO_00518	gene			
+HNEDKCNO_00519	CDS	hpsN	1.1.1.308	Sulfopropanediol 3-dehydrogenase
+HNEDKCNO_00519	gene	hpsN		
+HNEDKCNO_00520	CDS	gno	1.1.1.69	Gluconate 5-dehydrogenase
+HNEDKCNO_00520	gene	gno		
+HNEDKCNO_00521	CDS		1.1.1.401	2-dehydro-3-deoxy-L-rhamnonate dehydrogenase (NAD(+))
+HNEDKCNO_00521	gene			
+HNEDKCNO_00522	CDS	comC_2	1.1.1.338	(2R)-3-sulfolactate dehydrogenase (NADP(+))
+HNEDKCNO_00522	gene	comC_2		
+HNEDKCNO_00523	CDS			hypothetical protein
+HNEDKCNO_00523	gene			
+HNEDKCNO_00524	CDS			hypothetical protein
+HNEDKCNO_00524	gene			
+HNEDKCNO_00525	CDS	gpsA	1.1.1.94	Glycerol-3-phosphate dehydrogenase [NAD(P)+]
+HNEDKCNO_00525	gene	gpsA		
+HNEDKCNO_00526	CDS			Solute-binding protein
+HNEDKCNO_00526	gene			
+HNEDKCNO_00527	tRNA			tRNA-Arg(tct)
+HNEDKCNO_00527	gene			
+HNEDKCNO_00528	CDS		1.14.-.-	Cytochrome P450-pinF2, plant-inducible
+HNEDKCNO_00528	gene			
+HNEDKCNO_00529	CDS	pgsA	2.7.8.5	CDP-diacylglycerol--glycerol-3-phosphate 3-phosphatidyltransferase
+HNEDKCNO_00529	gene	pgsA		
+HNEDKCNO_00530	CDS	moaD		Molybdopterin synthase sulfur carrier subunit
+HNEDKCNO_00530	gene	moaD		
+HNEDKCNO_00531	CDS	moaE	2.8.1.12	Molybdopterin synthase catalytic subunit
+HNEDKCNO_00531	gene	moaE		
+HNEDKCNO_00532	CDS			hypothetical protein
+HNEDKCNO_00532	gene			
+HNEDKCNO_00533	CDS	psaB	1.97.1.12	Photosystem I P700 chlorophyll a apoprotein A2
+HNEDKCNO_00533	gene	psaB		
+HNEDKCNO_00534	CDS	ubiA	2.5.1.-	4-hydroxybenzoate octaprenyltransferase
+HNEDKCNO_00534	gene	ubiA		
+HNEDKCNO_00535	CDS		1.13.12.-	Putative monooxygenase
+HNEDKCNO_00535	gene			
+HNEDKCNO_00536	CDS		4.2.1.17	putative enoyl-CoA hydratase 1
+HNEDKCNO_00536	gene			
+HNEDKCNO_00537	CDS	rhlG	1.1.1.100	Rhamnolipids biosynthesis 3-oxoacyl-[acyl-carrier-protein] reductase
+HNEDKCNO_00537	gene	rhlG		
+HNEDKCNO_00538	CDS			hypothetical protein
+HNEDKCNO_00538	gene			
+HNEDKCNO_00539	CDS			hypothetical protein
+HNEDKCNO_00539	gene			
+HNEDKCNO_00540	CDS	ccoP		Cbb3-type cytochrome c oxidase subunit CcoP
+HNEDKCNO_00540	gene	ccoP		
+HNEDKCNO_00541	CDS			hypothetical protein
+HNEDKCNO_00541	gene			
+HNEDKCNO_00542	CDS			hypothetical protein
+HNEDKCNO_00542	gene			
+HNEDKCNO_00543	CDS	crnA	3.5.2.10	Creatinine amidohydrolase
+HNEDKCNO_00543	gene	crnA		
+HNEDKCNO_00544	CDS	glnM_2		putative glutamine ABC transporter permease protein GlnM
+HNEDKCNO_00544	gene	glnM_2		
+HNEDKCNO_00545	CDS	glnQ_2		Glutamine transport ATP-binding protein GlnQ
+HNEDKCNO_00545	gene	glnQ_2		
+HNEDKCNO_00546	CDS	cmpB		Bicarbonate transport system permease protein CmpB
+HNEDKCNO_00546	gene	cmpB		
+HNEDKCNO_00547	CDS	cmpD	3.6.3.-	Bicarbonate transport ATP-binding protein CmpD
+HNEDKCNO_00547	gene	cmpD		
+HNEDKCNO_00548	CDS			hypothetical protein
+HNEDKCNO_00548	gene			
+HNEDKCNO_00549	CDS			hypothetical protein
+HNEDKCNO_00549	gene			
+HNEDKCNO_00550	CDS			hypothetical protein
+HNEDKCNO_00550	gene			
+HNEDKCNO_00551	CDS	mcbR_2		HTH-type transcriptional regulator McbR
+HNEDKCNO_00551	gene	mcbR_2		
+HNEDKCNO_00552	CDS	sufS	2.8.1.7	Cysteine desulfurase
+HNEDKCNO_00552	gene	sufS		
+HNEDKCNO_00553	CDS	yvoA_3		HTH-type transcriptional repressor YvoA
+HNEDKCNO_00553	gene	yvoA_3		
+HNEDKCNO_00554	CDS	pckA	4.1.1.49	Phosphoenolpyruvate carboxykinase (ATP)
+HNEDKCNO_00554	gene	pckA		
+HNEDKCNO_00555	CDS	creB		Transcriptional regulatory protein CreB
+HNEDKCNO_00555	gene	creB		
+HNEDKCNO_00556	CDS	walK	2.7.13.3	Sensor protein kinase WalK
+HNEDKCNO_00556	gene	walK		
+HNEDKCNO_00557	CDS	hprK	2.7.11.-	HPr kinase/phosphorylase
+HNEDKCNO_00557	gene	hprK		
+HNEDKCNO_00558	CDS	yvcJ		Nucleotide-binding protein YvcJ
+HNEDKCNO_00558	gene	yvcJ		
+HNEDKCNO_00559	CDS	manX_1	2.7.1.191	PTS system mannose-specific EIIAB component
+HNEDKCNO_00559	gene	manX_1		
+HNEDKCNO_00560	CDS	ptsO_1	2.7.11.-	Phosphocarrier protein NPr
+HNEDKCNO_00560	gene	ptsO_1		
+HNEDKCNO_00561	CDS			hypothetical protein
+HNEDKCNO_00561	gene			
+HNEDKCNO_00562	CDS	mmgB_1	1.1.1.157	putative 3-hydroxybutyryl-CoA dehydrogenase
+HNEDKCNO_00562	gene	mmgB_1		
+HNEDKCNO_00563	CDS			hypothetical protein
+HNEDKCNO_00563	gene			
+HNEDKCNO_00564	CDS	etfA		Electron transfer flavoprotein subunit alpha
+HNEDKCNO_00564	gene	etfA		
+HNEDKCNO_00565	CDS		3.1.6.1	Arylsulfatase
+HNEDKCNO_00565	gene			
+HNEDKCNO_00566	CDS			hypothetical protein
+HNEDKCNO_00566	gene			
+HNEDKCNO_00567	CDS	leuD	4.2.1.33	3-isopropylmalate dehydratase small subunit
+HNEDKCNO_00567	gene	leuD		
+HNEDKCNO_00568	CDS	leuB	1.1.1.85	3-isopropylmalate dehydrogenase
+HNEDKCNO_00568	gene	leuB		
+HNEDKCNO_00569	CDS	barA	2.7.13.3	Signal transduction histidine-protein kinase BarA
+HNEDKCNO_00569	gene	barA		
+HNEDKCNO_00570	CDS			hypothetical protein
+HNEDKCNO_00570	gene			
+HNEDKCNO_00571	CDS	lpxB	2.4.1.182	Lipid-A-disaccharide synthase
+HNEDKCNO_00571	gene	lpxB		
+HNEDKCNO_00572	CDS			hypothetical protein
+HNEDKCNO_00572	gene			
+HNEDKCNO_00573	CDS	lpxA	2.3.1.129	Acyl-[acyl-carrier-protein]--UDP-N-acetylglucosamine O-acyltransferase
+HNEDKCNO_00573	gene	lpxA		
+HNEDKCNO_00574	CDS	fabZ	4.2.1.59	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+HNEDKCNO_00574	gene	fabZ		
+HNEDKCNO_00575	CDS			hypothetical protein
+HNEDKCNO_00575	gene			
+HNEDKCNO_00576	CDS	bamA		Outer membrane protein assembly factor BamA
+HNEDKCNO_00576	gene	bamA		
+HNEDKCNO_00577	CDS			hypothetical protein
+HNEDKCNO_00577	gene			
+HNEDKCNO_00578	CDS			hypothetical protein
+HNEDKCNO_00578	gene			
+HNEDKCNO_00579	CDS	hisE	3.6.1.31	Phosphoribosyl-ATP pyrophosphatase
+HNEDKCNO_00579	gene	hisE		
+HNEDKCNO_00580	CDS	hisF	4.1.3.-	Imidazole glycerol phosphate synthase subunit HisF
+HNEDKCNO_00580	gene	hisF		
+HNEDKCNO_00581	CDS	hisA	5.3.1.16	1-(5-phosphoribosyl)-5-[(5-phosphoribosylamino)methylideneamino] imidazole-4-carboxamide isomerase
+HNEDKCNO_00581	gene	hisA		
+HNEDKCNO_00582	CDS	lapB		Lipopolysaccharide assembly protein B
+HNEDKCNO_00582	gene	lapB		
+HNEDKCNO_00583	CDS			hypothetical protein
+HNEDKCNO_00583	gene			
+HNEDKCNO_00584	CDS	oxyR		Hydrogen peroxide-inducible genes activator
+HNEDKCNO_00584	gene	oxyR		
+HNEDKCNO_00585	CDS	swrC		Swarming motility protein SwrC
+HNEDKCNO_00585	gene	swrC		
+HNEDKCNO_00586	CDS	mdtA_1		Multidrug resistance protein MdtA
+HNEDKCNO_00586	gene	mdtA_1		
+HNEDKCNO_00587	CDS	cutL_2	1.2.5.3	Carbon monoxide dehydrogenase large chain
+HNEDKCNO_00587	gene	cutL_2		
+HNEDKCNO_00588	CDS			hypothetical protein
+HNEDKCNO_00588	gene			
+HNEDKCNO_00589	CDS	tupB		Tungstate uptake system permease protein TupB
+HNEDKCNO_00589	gene	tupB		
+HNEDKCNO_00590	CDS			hypothetical protein
+HNEDKCNO_00590	gene			
+HNEDKCNO_00591	CDS	cysS	6.1.1.16	Cysteine--tRNA ligase
+HNEDKCNO_00591	gene	cysS		
+HNEDKCNO_00592	CDS	aruH	2.6.1.84	Arginine--pyruvate transaminase AruH
+HNEDKCNO_00592	gene	aruH		
+HNEDKCNO_00593	CDS			hypothetical protein
+HNEDKCNO_00593	gene			
+HNEDKCNO_00594	CDS	ndk	2.7.4.6	Nucleoside diphosphate kinase
+HNEDKCNO_00594	gene	ndk		
+HNEDKCNO_00595	CDS			hypothetical protein
+HNEDKCNO_00595	gene			
+HNEDKCNO_00596	CDS	abo_1	1.5.3.19	4-methylaminobutanoate oxidase (formaldehyde-forming)
+HNEDKCNO_00596	gene	abo_1		
+HNEDKCNO_00597	CDS	acnA	4.2.1.3	Aconitate hydratase A
+HNEDKCNO_00597	gene	acnA		
+HNEDKCNO_00598	CDS	cycY		Thiol:disulfide interchange protein CycY
+HNEDKCNO_00598	gene	cycY		
+HNEDKCNO_00599	CDS			hypothetical protein
+HNEDKCNO_00599	gene			
+HNEDKCNO_00600	CDS	ccmC		Heme exporter protein C
+HNEDKCNO_00600	gene	ccmC		
+HNEDKCNO_00601	CDS	ccmB		Heme exporter protein B
+HNEDKCNO_00601	gene	ccmB		
+HNEDKCNO_00602	CDS	ccmA	3.6.3.41	Cytochrome c biogenesis ATP-binding export protein CcmA
+HNEDKCNO_00602	gene	ccmA		
+HNEDKCNO_00603	CDS	rnj1	3.1.-.-	Ribonuclease J 1
+HNEDKCNO_00603	gene	rnj1		
+HNEDKCNO_00604	CDS	coaX	2.7.1.33	Type III pantothenate kinase
+HNEDKCNO_00604	gene	coaX		
+HNEDKCNO_00605	CDS	birA	6.3.4.15	Bifunctional ligase/repressor BirA
+HNEDKCNO_00605	gene	birA		
+HNEDKCNO_00606	CDS	nuoN	1.6.5.11	NADH-quinone oxidoreductase subunit N
+HNEDKCNO_00606	gene	nuoN		
+HNEDKCNO_00607	CDS	nuoM	1.6.5.11	NADH-quinone oxidoreductase subunit M
+HNEDKCNO_00607	gene	nuoM		
+HNEDKCNO_00608	CDS	nuoL_2	1.6.5.11	NADH-quinone oxidoreductase subunit L
+HNEDKCNO_00608	gene	nuoL_2		
+HNEDKCNO_00609	CDS		1.6.5.11	NADH-quinone oxidoreductase subunit 11
+HNEDKCNO_00609	gene			
+HNEDKCNO_00610	CDS	nuoJ	1.6.5.11	NADH-quinone oxidoreductase subunit J
+HNEDKCNO_00610	gene	nuoJ		
+HNEDKCNO_00611	CDS	nuoI	1.6.5.11	NADH-quinone oxidoreductase subunit I
+HNEDKCNO_00611	gene	nuoI		
+HNEDKCNO_00612	CDS	nuoH	1.6.5.11	NADH-quinone oxidoreductase subunit H
+HNEDKCNO_00612	gene	nuoH		
+HNEDKCNO_00613	CDS	nudL	3.6.1.-	putative Nudix hydrolase NudL
+HNEDKCNO_00613	gene	nudL		
+HNEDKCNO_00614	CDS	hslO		33 kDa chaperonin
+HNEDKCNO_00614	gene	hslO		
+HNEDKCNO_00615	CDS	rppH_1	3.6.1.-	RNA pyrophosphohydrolase
+HNEDKCNO_00615	gene	rppH_1		
+HNEDKCNO_00616	CDS			hypothetical protein
+HNEDKCNO_00616	gene			
+HNEDKCNO_00617	CDS			hypothetical protein
+HNEDKCNO_00617	gene			
+HNEDKCNO_00618	CDS	bioM	3.6.3.-	Biotin transport ATP-binding protein BioM
+HNEDKCNO_00618	gene	bioM		
+HNEDKCNO_00619	CDS	ald	1.2.1.83	3-succinoylsemialdehyde-pyridine dehydrogenase
+HNEDKCNO_00619	gene	ald		
+HNEDKCNO_00620	CDS	pnp	2.7.7.8	Polyribonucleotide nucleotidyltransferase
+HNEDKCNO_00620	gene	pnp		
+HNEDKCNO_00621	CDS	rpsO		30S ribosomal protein S15
+HNEDKCNO_00621	gene	rpsO		
+HNEDKCNO_00622	CDS	ltxA		Leukotoxin
+HNEDKCNO_00622	gene	ltxA		
+HNEDKCNO_00623	CDS	hemB	4.2.1.24	Delta-aminolevulinic acid dehydratase
+HNEDKCNO_00623	gene	hemB		
+HNEDKCNO_00624	CDS			hypothetical protein
+HNEDKCNO_00624	gene			
+HNEDKCNO_00625	CDS			hypothetical protein
+HNEDKCNO_00625	gene			
+HNEDKCNO_00626	CDS	pabB	2.6.1.85	Aminodeoxychorismate synthase component 1
+HNEDKCNO_00626	gene	pabB		
+HNEDKCNO_00627	CDS			hypothetical protein
+HNEDKCNO_00627	gene			
+HNEDKCNO_00628	CDS	rpoA	2.7.7.6	DNA-directed RNA polymerase subunit alpha
+HNEDKCNO_00628	gene	rpoA		
+HNEDKCNO_00629	CDS	rpsK		30S ribosomal protein S11
+HNEDKCNO_00629	gene	rpsK		
+HNEDKCNO_00630	CDS	rpsM		30S ribosomal protein S13
+HNEDKCNO_00630	gene	rpsM		
+HNEDKCNO_00631	CDS	adk	2.7.4.3	Adenylate kinase
+HNEDKCNO_00631	gene	adk		
+HNEDKCNO_00632	CDS	secY		Protein translocase subunit SecY
+HNEDKCNO_00632	gene	secY		
+HNEDKCNO_00633	CDS	rplO		50S ribosomal protein L15
+HNEDKCNO_00633	gene	rplO		
+HNEDKCNO_00634	CDS			hypothetical protein
+HNEDKCNO_00634	gene			
+HNEDKCNO_00635	CDS			hypothetical protein
+HNEDKCNO_00635	gene			
+HNEDKCNO_00636	CDS			hypothetical protein
+HNEDKCNO_00636	gene			
+HNEDKCNO_00637	CDS			hypothetical protein
+HNEDKCNO_00637	gene			
+HNEDKCNO_00638	CDS	dcp	3.4.15.5	Dipeptidyl carboxypeptidase
+HNEDKCNO_00638	gene	dcp		
+HNEDKCNO_00639	CDS	groS1		10 kDa chaperonin 1
+HNEDKCNO_00639	gene	groS1		
+HNEDKCNO_00640	CDS	groL		60 kDa chaperonin
+HNEDKCNO_00640	gene	groL		
+HNEDKCNO_00641	CDS	yijE		putative cystine transporter YijE
+HNEDKCNO_00641	gene	yijE		
+HNEDKCNO_00642	CDS			hypothetical protein
+HNEDKCNO_00642	gene			
+HNEDKCNO_00643	CDS	mepA		Multidrug export protein MepA
+HNEDKCNO_00643	gene	mepA		
+HNEDKCNO_00644	CDS	bacG	1.3.1.-	NADPH-dependent reductase BacG
+HNEDKCNO_00644	gene	bacG		
+HNEDKCNO_00645	CDS			hypothetical protein
+HNEDKCNO_00645	gene			
+HNEDKCNO_00646	CDS			hypothetical protein
+HNEDKCNO_00646	gene			
+HNEDKCNO_00647	CDS	prfC		Peptide chain release factor 3
+HNEDKCNO_00647	gene	prfC		
+HNEDKCNO_00648	CDS			hypothetical protein
+HNEDKCNO_00648	gene			
+HNEDKCNO_00649	CDS			hypothetical protein
+HNEDKCNO_00649	gene			
+HNEDKCNO_00650	CDS			hypothetical protein
+HNEDKCNO_00650	gene			
+HNEDKCNO_00651	CDS	ilvD	4.2.1.9	Dihydroxy-acid dehydratase
+HNEDKCNO_00651	gene	ilvD		
+HNEDKCNO_00652	CDS		6.3.3.2	5-formyltetrahydrofolate cyclo-ligase
+HNEDKCNO_00652	gene			
+HNEDKCNO_00653	CDS			hypothetical protein
+HNEDKCNO_00653	gene			
+HNEDKCNO_00654	CDS			hypothetical protein
+HNEDKCNO_00654	gene			
+HNEDKCNO_00655	CDS			hypothetical protein
+HNEDKCNO_00655	gene			
+HNEDKCNO_00656	CDS			putative transporter
+HNEDKCNO_00656	gene			
+HNEDKCNO_00657	tRNA			tRNA-Phe(gaa)
+HNEDKCNO_00657	gene			
+HNEDKCNO_00658	CDS	recO		DNA repair protein RecO
+HNEDKCNO_00658	gene	recO		
+HNEDKCNO_00659	CDS			hypothetical protein
+HNEDKCNO_00659	gene			
+HNEDKCNO_00660	CDS	era		GTPase Era
+HNEDKCNO_00660	gene	era		
+HNEDKCNO_00661	CDS	rnc	3.1.26.3	Ribonuclease 3
+HNEDKCNO_00661	gene	rnc		
+HNEDKCNO_00662	CDS	lepB	3.4.21.89	Signal peptidase I
+HNEDKCNO_00662	gene	lepB		
+HNEDKCNO_00663	CDS			hypothetical protein
+HNEDKCNO_00663	gene			
+HNEDKCNO_00664	CDS			hypothetical protein
+HNEDKCNO_00664	gene			
+HNEDKCNO_00665	CDS	gltD	1.4.1.13	Glutamate synthase [NADPH] small chain
+HNEDKCNO_00665	gene	gltD		
+HNEDKCNO_00666	CDS			hypothetical protein
+HNEDKCNO_00666	gene			
+HNEDKCNO_00667	CDS			hypothetical protein
+HNEDKCNO_00667	gene			
+HNEDKCNO_00668	CDS	yciC		Putative metal chaperone YciC
+HNEDKCNO_00668	gene	yciC		
+HNEDKCNO_00669	CDS	ywnA		Putative HTH-type transcriptional regulator YwnA
+HNEDKCNO_00669	gene	ywnA		
+HNEDKCNO_00670	CDS	mdh	1.1.1.244	NAD-dependent methanol dehydrogenase
+HNEDKCNO_00670	gene	mdh		
+HNEDKCNO_00671	CDS	thiQ	3.6.3.-	Thiamine import ATP-binding protein ThiQ
+HNEDKCNO_00671	gene	thiQ		
+HNEDKCNO_00672	CDS	potH		Putrescine transport system permease protein PotH
+HNEDKCNO_00672	gene	potH		
+HNEDKCNO_00673	CDS	thiB		Thiamine-binding periplasmic protein
+HNEDKCNO_00673	gene	thiB		
+HNEDKCNO_00674	CDS	fabG_1	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase
+HNEDKCNO_00674	gene	fabG_1		
+HNEDKCNO_00675	CDS	sdaA	4.3.1.17	L-serine dehydratase 1
+HNEDKCNO_00675	gene	sdaA		
+HNEDKCNO_00676	CDS	ribN_1		Riboflavin transporter
+HNEDKCNO_00676	gene	ribN_1		
+HNEDKCNO_00677	CDS	ribN_2		Riboflavin transporter
+HNEDKCNO_00677	gene	ribN_2		
+HNEDKCNO_00678	CDS			hypothetical protein
+HNEDKCNO_00678	gene			
+HNEDKCNO_00679	CDS	pdtaR		putative transcriptional regulatory protein pdtaR
+HNEDKCNO_00679	gene	pdtaR		
+HNEDKCNO_00680	CDS			hypothetical protein
+HNEDKCNO_00680	gene			
+HNEDKCNO_00681	CDS	eamB		Cysteine/O-acetylserine efflux protein
+HNEDKCNO_00681	gene	eamB		
+HNEDKCNO_00682	CDS			Immunogenic protein MPB70
+HNEDKCNO_00682	gene			
+HNEDKCNO_00683	CDS	srmB	3.6.4.13	ATP-dependent RNA helicase SrmB
+HNEDKCNO_00683	gene	srmB		
+HNEDKCNO_00684	CDS			hypothetical protein
+HNEDKCNO_00684	gene			
+HNEDKCNO_00685	CDS		3.6.-.-	putative GTPase
+HNEDKCNO_00685	gene			
+HNEDKCNO_00686	CDS	rpmB		50S ribosomal protein L28
+HNEDKCNO_00686	gene	rpmB		
+HNEDKCNO_00687	CDS			hypothetical protein
+HNEDKCNO_00687	gene			
+HNEDKCNO_00688	CDS	rihA	3.2.-.-	Pyrimidine-specific ribonucleoside hydrolase RihA
+HNEDKCNO_00688	gene	rihA		
+HNEDKCNO_00689	CDS			hypothetical protein
+HNEDKCNO_00689	gene			
+HNEDKCNO_00690	CDS			hypothetical protein
+HNEDKCNO_00690	gene			
+HNEDKCNO_00691	CDS	futA1		Iron uptake protein A1
+HNEDKCNO_00691	gene	futA1		
+HNEDKCNO_00692	CDS	phnU_1		Putative 2-aminoethylphosphonate transport system permease protein PhnU
+HNEDKCNO_00692	gene	phnU_1		
+HNEDKCNO_00693	CDS	bepA	3.4.-.-	Beta-barrel assembly-enhancing protease
+HNEDKCNO_00693	gene	bepA		
+HNEDKCNO_00694	CDS	ispE	2.7.1.148	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+HNEDKCNO_00694	gene	ispE		
+HNEDKCNO_00695	CDS	ispB	2.5.1.90	Octaprenyl diphosphate synthase
+HNEDKCNO_00695	gene	ispB		
+HNEDKCNO_00696	CDS			hypothetical protein
+HNEDKCNO_00696	gene			
+HNEDKCNO_00697	CDS	yfiC	2.1.1.223	tRNA1(Val) (adenine(37)-N6)-methyltransferase
+HNEDKCNO_00697	gene	yfiC		
+HNEDKCNO_00698	CDS			hypothetical protein
+HNEDKCNO_00698	gene			
+HNEDKCNO_00699	CDS			hypothetical protein
+HNEDKCNO_00699	gene			
+HNEDKCNO_00700	CDS	puuB_2	1.4.3.-	Gamma-glutamylputrescine oxidoreductase
+HNEDKCNO_00700	gene	puuB_2		
+HNEDKCNO_00701	CDS			hypothetical protein
+HNEDKCNO_00701	gene			
+HNEDKCNO_00702	CDS			hypothetical protein
+HNEDKCNO_00702	gene			
+HNEDKCNO_00703	CDS			hypothetical protein
+HNEDKCNO_00703	gene			
+HNEDKCNO_00704	CDS			hypothetical protein
+HNEDKCNO_00704	gene			
+HNEDKCNO_00705	CDS			hypothetical protein
+HNEDKCNO_00705	gene			
+HNEDKCNO_00706	CDS	recQ_2	3.6.4.12	ATP-dependent DNA helicase RecQ
+HNEDKCNO_00706	gene	recQ_2		
+HNEDKCNO_00707	CDS			hypothetical protein
+HNEDKCNO_00707	gene			
+HNEDKCNO_00708	CDS	ppaC	3.6.1.1	Manganese-dependent inorganic pyrophosphatase
+HNEDKCNO_00708	gene	ppaC		
+HNEDKCNO_00709	CDS			hypothetical protein
+HNEDKCNO_00709	gene			
+HNEDKCNO_00710	CDS	argF	2.1.3.3	Ornithine carbamoyltransferase
+HNEDKCNO_00710	gene	argF		
+HNEDKCNO_00711	CDS			hypothetical protein
+HNEDKCNO_00711	gene			
+HNEDKCNO_00712	CDS	apt	2.4.2.7	Adenine phosphoribosyltransferase
+HNEDKCNO_00712	gene	apt		
+HNEDKCNO_00713	CDS	mtnP	2.4.2.28	S-methyl-5'-thioadenosine phosphorylase
+HNEDKCNO_00713	gene	mtnP		
+HNEDKCNO_00714	CDS	ribN_3		Riboflavin transporter
+HNEDKCNO_00714	gene	ribN_3		
+HNEDKCNO_00715	CDS	kdsA	2.5.1.55	2-dehydro-3-deoxyphosphooctonate aldolase
+HNEDKCNO_00715	gene	kdsA		
+HNEDKCNO_00716	CDS	kdsB	2.7.7.90	8-amino-3,8-dideoxy-manno-octulosonate cytidylyltransferase
+HNEDKCNO_00716	gene	kdsB		
+HNEDKCNO_00717	CDS	kdsD	5.3.1.13	Arabinose 5-phosphate isomerase KdsD
+HNEDKCNO_00717	gene	kdsD		
+HNEDKCNO_00718	CDS	pepT	3.4.11.4	Peptidase T
+HNEDKCNO_00718	gene	pepT		
+HNEDKCNO_00719	CDS	rpmJ		50S ribosomal protein L36
+HNEDKCNO_00719	gene	rpmJ		
+HNEDKCNO_00720	tRNA			tRNA-Val(gac)
+HNEDKCNO_00720	gene			
+HNEDKCNO_00721	CDS			hypothetical protein
+HNEDKCNO_00721	gene			
+HNEDKCNO_00722	CDS	dinB_2	2.7.7.7	DNA polymerase IV
+HNEDKCNO_00722	gene	dinB_2		
+HNEDKCNO_00723	CDS			hypothetical protein
+HNEDKCNO_00723	gene			
+HNEDKCNO_00724	CDS		6.2.1.3	Long-chain-fatty-acid--CoA ligase FadD13
+HNEDKCNO_00724	gene			
+HNEDKCNO_00725	CDS	accB		Biotin carboxyl carrier protein of acetyl-CoA carboxylase
+HNEDKCNO_00725	gene	accB		
+HNEDKCNO_00726	CDS	plsX	2.3.1.-	Phosphate acyltransferase
+HNEDKCNO_00726	gene	plsX		
+HNEDKCNO_00727	CDS	rpmF		50S ribosomal protein L32
+HNEDKCNO_00727	gene	rpmF		
+HNEDKCNO_00728	CDS			hypothetical protein
+HNEDKCNO_00728	gene			
+HNEDKCNO_00729	CDS	bamE		Outer membrane protein assembly factor BamE
+HNEDKCNO_00729	gene	bamE		
+HNEDKCNO_00730	CDS			hypothetical protein
+HNEDKCNO_00730	gene			
+HNEDKCNO_00731	CDS	miaA	2.5.1.75	tRNA dimethylallyltransferase
+HNEDKCNO_00731	gene	miaA		
+HNEDKCNO_00732	CDS	pyrH	2.7.4.22	Uridylate kinase
+HNEDKCNO_00732	gene	pyrH		
+HNEDKCNO_00733	CDS	frr		Ribosome-recycling factor
+HNEDKCNO_00733	gene	frr		
+HNEDKCNO_00734	CDS	uppS	2.5.1.-	Isoprenyl transferase
+HNEDKCNO_00734	gene	uppS		
+HNEDKCNO_00735	CDS	proC	1.5.1.2	Pyrroline-5-carboxylate reductase
+HNEDKCNO_00735	gene	proC		
+HNEDKCNO_00736	CDS			hypothetical protein
+HNEDKCNO_00736	gene			
+HNEDKCNO_00737	CDS			hypothetical protein
+HNEDKCNO_00737	gene			
+HNEDKCNO_00738	CDS	lgt	2.4.99.-	Prolipoprotein diacylglyceryl transferase
+HNEDKCNO_00738	gene	lgt		
+HNEDKCNO_00739	CDS			hypothetical protein
+HNEDKCNO_00739	gene			
+HNEDKCNO_00740	CDS	yfiH		Laccase domain protein YfiH
+HNEDKCNO_00740	gene	yfiH		
+HNEDKCNO_00741	CDS	lrp_1		Leucine-responsive regulatory protein
+HNEDKCNO_00741	gene	lrp_1		
+HNEDKCNO_00742	CDS	trxB	1.8.1.9	Thioredoxin reductase
+HNEDKCNO_00742	gene	trxB		
+HNEDKCNO_00743	CDS	yddE	5.1.-.-	putative isomerase YddE
+HNEDKCNO_00743	gene	yddE		
+HNEDKCNO_00744	CDS			hypothetical protein
+HNEDKCNO_00744	gene			
+HNEDKCNO_00745	CDS	ibpA_1		Small heat shock protein IbpA
+HNEDKCNO_00745	gene	ibpA_1		
+HNEDKCNO_00746	CDS			hypothetical protein
+HNEDKCNO_00746	gene			
+HNEDKCNO_00747	CDS	purE	5.4.99.18	N5-carboxyaminoimidazole ribonucleotide mutase
+HNEDKCNO_00747	gene	purE		
+HNEDKCNO_00748	CDS		2.6.1.-	putative aminotransferase
+HNEDKCNO_00748	gene			
+HNEDKCNO_00749	CDS	tsaE		tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+HNEDKCNO_00749	gene	tsaE		
+HNEDKCNO_00750	CDS	regB	2.7.13.3	Sensor histidine kinase RegB
+HNEDKCNO_00750	gene	regB		
+HNEDKCNO_00751	CDS			hypothetical protein
+HNEDKCNO_00751	gene			
+HNEDKCNO_00752	CDS	ycfH	3.1.-.-	putative metal-dependent hydrolase YcfH
+HNEDKCNO_00752	gene	ycfH		
+HNEDKCNO_00753	CDS	dnaX	2.7.7.7	DNA polymerase III subunit gamma/tau
+HNEDKCNO_00753	gene	dnaX		
+HNEDKCNO_00754	CDS	tmk	2.7.4.9	Thymidylate kinase
+HNEDKCNO_00754	gene	tmk		
+HNEDKCNO_00755	CDS	dacC	3.4.16.4	D-alanyl-D-alanine carboxypeptidase DacC
+HNEDKCNO_00755	gene	dacC		
+HNEDKCNO_00756	CDS	pat	2.6.1.-	Putative phenylalanine aminotransferase
+HNEDKCNO_00756	gene	pat		
+HNEDKCNO_00757	CDS	tyrA	1.3.1.12	Prephenate dehydrogenase
+HNEDKCNO_00757	gene	tyrA		
+HNEDKCNO_00758	CDS			hypothetical protein
+HNEDKCNO_00758	gene			
+HNEDKCNO_00759	CDS	ispH	1.17.7.4	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+HNEDKCNO_00759	gene	ispH		
+HNEDKCNO_00760	CDS			hypothetical protein
+HNEDKCNO_00760	gene			
+HNEDKCNO_00761	CDS	folK	2.7.6.3	2-amino-4-hydroxy-6-hydroxymethyldihydropteridine pyrophosphokinase
+HNEDKCNO_00761	gene	folK		
+HNEDKCNO_00762	CDS	rpoZ	2.7.7.6	DNA-directed RNA polymerase subunit omega
+HNEDKCNO_00762	gene	rpoZ		
+HNEDKCNO_00763	CDS	murG	2.4.1.227	UDP-N-acetylglucosamine--N-acetylmuramyl-(pentapeptide) pyrophosphoryl-undecaprenol N-acetylglucosamine transferase
+HNEDKCNO_00763	gene	murG		
+HNEDKCNO_00764	CDS	ftsW	2.4.1.129	putative peptidoglycan glycosyltransferase FtsW
+HNEDKCNO_00764	gene	ftsW		
+HNEDKCNO_00765	CDS	rnz	3.1.26.11	Ribonuclease Z
+HNEDKCNO_00765	gene	rnz		
+HNEDKCNO_00766	CDS	bioI_1	1.14.15.12	Biotin biosynthesis cytochrome P450
+HNEDKCNO_00766	gene	bioI_1		
+HNEDKCNO_00767	CDS	proB	2.7.2.11	Glutamate 5-kinase
+HNEDKCNO_00767	gene	proB		
+HNEDKCNO_00768	CDS	cgtA	3.6.5.-	GTPase Obg/CgtA
+HNEDKCNO_00768	gene	cgtA		
+HNEDKCNO_00769	CDS			hypothetical protein
+HNEDKCNO_00769	gene			
+HNEDKCNO_00770	CDS		1.2.1.26	Alpha-ketoglutaric semialdehyde dehydrogenase
+HNEDKCNO_00770	gene			
+HNEDKCNO_00771	CDS	pdxA2	1.1.1.262	4-hydroxythreonine-4-phosphate dehydrogenase 2
+HNEDKCNO_00771	gene	pdxA2		
+HNEDKCNO_00772	CDS			hypothetical protein
+HNEDKCNO_00772	gene			
+HNEDKCNO_00773	CDS	dgoD	4.2.1.6	D-galactonate dehydratase
+HNEDKCNO_00773	gene	dgoD		
+HNEDKCNO_00774	CDS		1.1.1.306	S-(hydroxymethyl)mycothiol dehydrogenase
+HNEDKCNO_00774	gene			
+HNEDKCNO_00775	CDS	tetA		Tetracycline resistance protein, class C
+HNEDKCNO_00775	gene	tetA		
+HNEDKCNO_00776	CDS	catD_1	3.1.1.24	3-oxoadipate enol-lactonase 2
+HNEDKCNO_00776	gene	catD_1		
+HNEDKCNO_00777	CDS	tdcB	4.3.1.19	L-threonine dehydratase catabolic TdcB
+HNEDKCNO_00777	gene	tdcB		
+HNEDKCNO_00778	CDS	dehH1	3.8.1.3	Haloacetate dehalogenase H-1
+HNEDKCNO_00778	gene	dehH1		
+HNEDKCNO_00779	CDS	hdl IVa	3.8.1.2	(S)-2-haloacid dehalogenase 4A
+HNEDKCNO_00779	gene	hdl IVa		
+HNEDKCNO_00780	CDS	ttuE	2.7.1.40	Pyruvate kinase
+HNEDKCNO_00780	gene	ttuE		
+HNEDKCNO_00781	CDS	rpmI		50S ribosomal protein L35
+HNEDKCNO_00781	gene	rpmI		
+HNEDKCNO_00782	CDS	rplT		50S ribosomal protein L20
+HNEDKCNO_00782	gene	rplT		
+HNEDKCNO_00783	CDS	pheS	6.1.1.20	Phenylalanine--tRNA ligase alpha subunit
+HNEDKCNO_00783	gene	pheS		
+HNEDKCNO_00784	CDS	ipuF	3.4.-.-	Gamma-glutamyl-L-1-hydroxyisopropylamide hydrolase
+HNEDKCNO_00784	gene	ipuF		
+HNEDKCNO_00785	CDS			hypothetical protein
+HNEDKCNO_00785	gene			
+HNEDKCNO_00786	CDS	adh	1.1.1.1	Alcohol dehydrogenase
+HNEDKCNO_00786	gene	adh		
+HNEDKCNO_00787	CDS			hypothetical protein
+HNEDKCNO_00787	gene			
+HNEDKCNO_00788	CDS	ugpA_3		sn-glycerol-3-phosphate transport system permease protein UgpA
+HNEDKCNO_00788	gene	ugpA_3		
+HNEDKCNO_00789	CDS	sugB		Trehalose transport system permease protein SugB
+HNEDKCNO_00789	gene	sugB		
+HNEDKCNO_00790	CDS			hypothetical protein
+HNEDKCNO_00790	gene			
+HNEDKCNO_00791	CDS	cckA		Sensor kinase CckA
+HNEDKCNO_00791	gene	cckA		
+HNEDKCNO_00792	CDS	ompR_1		Transcriptional regulatory protein OmpR
+HNEDKCNO_00792	gene	ompR_1		
+HNEDKCNO_00793	CDS	allC	3.5.3.-	Allantoate amidohydrolase
+HNEDKCNO_00793	gene	allC		
+HNEDKCNO_00794	CDS	opuAB		Glycine betaine transport system permease protein OpuAB
+HNEDKCNO_00794	gene	opuAB		
+HNEDKCNO_00795	CDS	gcvT_2	2.1.2.10	Aminomethyltransferase
+HNEDKCNO_00795	gene	gcvT_2		
+HNEDKCNO_00796	CDS			hypothetical protein
+HNEDKCNO_00796	gene			
+HNEDKCNO_00797	CDS	hpt	2.4.2.8	Hypoxanthine phosphoribosyltransferase
+HNEDKCNO_00797	gene	hpt		
+HNEDKCNO_00798	CDS	ratA		Ribosome association toxin RatA
+HNEDKCNO_00798	gene	ratA		
+HNEDKCNO_00799	CDS	amtB		Ammonia channel
+HNEDKCNO_00799	gene	amtB		
+HNEDKCNO_00800	CDS	pncC	3.5.1.42	Nicotinamide-nucleotide amidohydrolase PncC
+HNEDKCNO_00800	gene	pncC		
+HNEDKCNO_00801	CDS	cobS	6.6.1.2	Aerobic cobaltochelatase subunit CobS
+HNEDKCNO_00801	gene	cobS		
+HNEDKCNO_00802	CDS	msrB_1	1.8.4.12	Peptide methionine sulfoxide reductase MsrB
+HNEDKCNO_00802	gene	msrB_1		
+HNEDKCNO_00803	CDS			hypothetical protein
+HNEDKCNO_00803	gene			
+HNEDKCNO_00804	CDS	glmM	5.4.2.10	Phosphoglucosamine mutase
+HNEDKCNO_00804	gene	glmM		
+HNEDKCNO_00805	CDS	folP	2.5.1.15	Dihydropteroate synthase
+HNEDKCNO_00805	gene	folP		
+HNEDKCNO_00806	CDS			hypothetical protein
+HNEDKCNO_00806	gene			
+HNEDKCNO_00807	CDS	sleB		Spore cortex-lytic enzyme
+HNEDKCNO_00807	gene	sleB		
+HNEDKCNO_00808	CDS	glyQ	6.1.1.14	Glycine--tRNA ligase alpha subunit
+HNEDKCNO_00808	gene	glyQ		
+HNEDKCNO_00809	CDS			hypothetical protein
+HNEDKCNO_00809	gene			
+HNEDKCNO_00810	CDS			hypothetical protein
+HNEDKCNO_00810	gene			
+HNEDKCNO_00811	CDS	cdd	3.5.4.5	Cytidine deaminase
+HNEDKCNO_00811	gene	cdd		
+HNEDKCNO_00812	CDS	nqo2	1.6.5.11	NADH-quinone oxidoreductase chain 2
+HNEDKCNO_00812	gene	nqo2		
+HNEDKCNO_00813	CDS			hypothetical protein
+HNEDKCNO_00813	gene			
+HNEDKCNO_00814	CDS	nqo1	1.6.5.11	NADH-quinone oxidoreductase chain 1
+HNEDKCNO_00814	gene	nqo1		
+HNEDKCNO_00815	CDS			hypothetical protein
+HNEDKCNO_00815	gene			
+HNEDKCNO_00816	CDS	aphA		Acetylpolyamine aminohydrolase
+HNEDKCNO_00816	gene	aphA		
+HNEDKCNO_00817	CDS			hypothetical protein
+HNEDKCNO_00817	gene			
+HNEDKCNO_00818	CDS	iorA	1.3.99.16	Isoquinoline 1-oxidoreductase subunit alpha
+HNEDKCNO_00818	gene	iorA		
+HNEDKCNO_00819	CDS	iorB	1.3.99.16	Isoquinoline 1-oxidoreductase subunit beta
+HNEDKCNO_00819	gene	iorB		
+HNEDKCNO_00820	CDS			hypothetical protein
+HNEDKCNO_00820	gene			
+HNEDKCNO_00821	CDS	paaE	1.-.-.-	1,2-phenylacetyl-CoA epoxidase, subunit E
+HNEDKCNO_00821	gene	paaE		
+HNEDKCNO_00822	CDS	paaD		Putative 1,2-phenylacetyl-CoA epoxidase, subunit D
+HNEDKCNO_00822	gene	paaD		
+HNEDKCNO_00823	CDS	paaC		1,2-phenylacetyl-CoA epoxidase, subunit C
+HNEDKCNO_00823	gene	paaC		
+HNEDKCNO_00824	CDS	paaB		1,2-phenylacetyl-CoA epoxidase, subunit B
+HNEDKCNO_00824	gene	paaB		
+HNEDKCNO_00825	CDS	paaA	1.14.13.149	1,2-phenylacetyl-CoA epoxidase, subunit A
+HNEDKCNO_00825	gene	paaA		
+HNEDKCNO_00826	CDS	paaJ	2.3.1.174	3-oxoadipyl-CoA/3-oxo-5,6-dehydrosuberyl-CoA thiolase
+HNEDKCNO_00826	gene	paaJ		
+HNEDKCNO_00827	CDS			hypothetical protein
+HNEDKCNO_00827	gene			
+HNEDKCNO_00828	CDS			hypothetical protein
+HNEDKCNO_00828	gene			
+HNEDKCNO_00829	CDS			hypothetical protein
+HNEDKCNO_00829	gene			
+HNEDKCNO_00830	CDS	sauT_2	6.2.1.-	putative sulfoacetate--CoA ligase
+HNEDKCNO_00830	gene	sauT_2		
+HNEDKCNO_00831	CDS	ybgC	3.1.2.-	Acyl-CoA thioesterase YbgC
+HNEDKCNO_00831	gene	ybgC		
+HNEDKCNO_00832	CDS			hypothetical protein
+HNEDKCNO_00832	gene			
+HNEDKCNO_00833	CDS	ruvB	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvB
+HNEDKCNO_00833	gene	ruvB		
+HNEDKCNO_00834	CDS	ruvA	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvA
+HNEDKCNO_00834	gene	ruvA		
+HNEDKCNO_00835	CDS			hypothetical protein
+HNEDKCNO_00835	gene			
+HNEDKCNO_00836	CDS		1.-.-.-	putative oxidoreductase
+HNEDKCNO_00836	gene			
+HNEDKCNO_00837	CDS	lysDH	1.4.1.18	Lysine 6-dehydrogenase
+HNEDKCNO_00837	gene	lysDH		
+HNEDKCNO_00838	CDS			hypothetical protein
+HNEDKCNO_00838	gene			
+HNEDKCNO_00839	CDS	efp		Elongation factor P
+HNEDKCNO_00839	gene	efp		
+HNEDKCNO_00840	CDS	ygfZ		tRNA-modifying protein YgfZ
+HNEDKCNO_00840	gene	ygfZ		
+HNEDKCNO_00841	CDS			hypothetical protein
+HNEDKCNO_00841	gene			
+HNEDKCNO_00842	CDS	lolD	3.6.3.-	Lipoprotein-releasing system ATP-binding protein LolD
+HNEDKCNO_00842	gene	lolD		
+HNEDKCNO_00843	CDS			hypothetical protein
+HNEDKCNO_00843	gene			
+HNEDKCNO_00844	CDS	plsC	2.3.1.51	1-acyl-sn-glycerol-3-phosphate acyltransferase
+HNEDKCNO_00844	gene	plsC		
+HNEDKCNO_00845	CDS			hypothetical protein
+HNEDKCNO_00845	gene			
+HNEDKCNO_00846	CDS	ftsE		Cell division ATP-binding protein FtsE
+HNEDKCNO_00846	gene	ftsE		
+HNEDKCNO_00847	CDS			hypothetical protein
+HNEDKCNO_00847	gene			
+HNEDKCNO_00848	CDS	lysA	4.1.1.20	Diaminopimelate decarboxylase
+HNEDKCNO_00848	gene	lysA		
+HNEDKCNO_00849	CDS		2.6.1.1	Aspartate aminotransferase
+HNEDKCNO_00849	gene			
+HNEDKCNO_00850	CDS	gntR_1		HTH-type transcriptional regulator GntR
+HNEDKCNO_00850	gene	gntR_1		
+HNEDKCNO_00851	tRNA			tRNA-Arg(cct)
+HNEDKCNO_00851	gene			
+HNEDKCNO_00852	CDS	rnhB	3.1.26.4	Ribonuclease HII
+HNEDKCNO_00852	gene	rnhB		
+HNEDKCNO_00853	CDS	dpnA	2.1.1.72	Modification methylase DpnIIB
+HNEDKCNO_00853	gene	dpnA		
+HNEDKCNO_00854	CDS	alkB1	1.14.15.3	Alkane 1-monooxygenase 1
+HNEDKCNO_00854	gene	alkB1		
+HNEDKCNO_00855	CDS			hypothetical protein
+HNEDKCNO_00855	gene			
+HNEDKCNO_00856	CDS			hypothetical protein
+HNEDKCNO_00856	gene			
+HNEDKCNO_00857	CDS			hypothetical protein
+HNEDKCNO_00857	gene			
+HNEDKCNO_00858	CDS		1.-.-.-	putative oxidoreductase
+HNEDKCNO_00858	gene			
+HNEDKCNO_00859	CDS			hypothetical protein
+HNEDKCNO_00859	gene			
+HNEDKCNO_00860	tRNA			tRNA-Leu(taa)
+HNEDKCNO_00860	gene			
+HNEDKCNO_00861	CDS	lrp_2		Leucine-responsive regulatory protein
+HNEDKCNO_00861	gene	lrp_2		
+HNEDKCNO_00862	CDS			hypothetical protein
+HNEDKCNO_00862	gene			
+HNEDKCNO_00863	CDS	pncB	6.3.4.21	Nicotinate phosphoribosyltransferase
+HNEDKCNO_00863	gene	pncB		
+HNEDKCNO_00864	CDS			hypothetical protein
+HNEDKCNO_00864	gene			
+HNEDKCNO_00865	CDS	yhhQ		Inner membrane protein YhhQ
+HNEDKCNO_00865	gene	yhhQ		
+HNEDKCNO_00866	CDS	arfB	3.1.1.29	Peptidyl-tRNA hydrolase ArfB
+HNEDKCNO_00866	gene	arfB		
+HNEDKCNO_00867	CDS	xthA_1	3.1.11.2	Exodeoxyribonuclease III
+HNEDKCNO_00867	gene	xthA_1		
+HNEDKCNO_00868	CDS	xlnD	1.14.13.24	3-hydroxybenzoate 6-hydroxylase 1
+HNEDKCNO_00868	gene	xlnD		
+HNEDKCNO_00869	CDS	dksA_2		RNA polymerase-binding transcription factor DksA
+HNEDKCNO_00869	gene	dksA_2		
+HNEDKCNO_00870	CDS			hypothetical protein
+HNEDKCNO_00870	gene			
+HNEDKCNO_00871	CDS			hypothetical protein
+HNEDKCNO_00871	gene			
+HNEDKCNO_00872	CDS		3.1.3.3	Phosphoserine phosphatase
+HNEDKCNO_00872	gene			
+HNEDKCNO_00873	CDS	msrB_2	1.8.4.12	Peptide methionine sulfoxide reductase MsrB
+HNEDKCNO_00873	gene	msrB_2		
+HNEDKCNO_00874	CDS	msrA3	1.8.4.11	Peptide methionine sulfoxide reductase MsrA 3
+HNEDKCNO_00874	gene	msrA3		
+HNEDKCNO_00875	CDS	ribN_4		Riboflavin transporter
+HNEDKCNO_00875	gene	ribN_4		
+HNEDKCNO_00876	CDS	fdhC		Fructose dehydrogenase cytochrome subunit
+HNEDKCNO_00876	gene	fdhC		
+HNEDKCNO_00877	CDS			Cyclic AMP receptor protein
+HNEDKCNO_00877	gene			
+HNEDKCNO_00878	CDS	rbn	3.1.26.11	Ribonuclease BN
+HNEDKCNO_00878	gene	rbn		
+HNEDKCNO_00879	CDS	grxD		Glutaredoxin 4
+HNEDKCNO_00879	gene	grxD		
+HNEDKCNO_00880	CDS			hypothetical protein
+HNEDKCNO_00880	gene			
+HNEDKCNO_00881	CDS	purL	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurL
+HNEDKCNO_00881	gene	purL		
+HNEDKCNO_00882	CDS	ppc	4.1.1.31	Phosphoenolpyruvate carboxylase
+HNEDKCNO_00882	gene	ppc		
+HNEDKCNO_00883	CDS		1.1.1.29	Glycerate dehydrogenase
+HNEDKCNO_00883	gene			
+HNEDKCNO_00884	CDS	sucD_1	6.2.1.5	Succinate--CoA ligase [ADP-forming] subunit alpha
+HNEDKCNO_00884	gene	sucD_1		
+HNEDKCNO_00885	CDS	sucC_1	6.2.1.5	Succinate--CoA ligase [ADP-forming] subunit beta
+HNEDKCNO_00885	gene	sucC_1		
+HNEDKCNO_00886	CDS	secA		Protein translocase subunit SecA
+HNEDKCNO_00886	gene	secA		
+HNEDKCNO_00887	CDS		5.2.1.8	putative parvulin-type peptidyl-prolyl cis-trans isomerase
+HNEDKCNO_00887	gene			
+HNEDKCNO_00888	CDS	argJ		Arginine biosynthesis bifunctional protein ArgJ
+HNEDKCNO_00888	gene	argJ		
+HNEDKCNO_00889	CDS	nudG	3.6.1.65	CTP pyrophosphohydrolase
+HNEDKCNO_00889	gene	nudG		
+HNEDKCNO_00890	CDS	infB		Translation initiation factor IF-2
+HNEDKCNO_00890	gene	infB		
+HNEDKCNO_00891	CDS			hypothetical protein
+HNEDKCNO_00891	gene			
+HNEDKCNO_00892	CDS	nusA		Transcription termination/antitermination protein NusA
+HNEDKCNO_00892	gene	nusA		
+HNEDKCNO_00893	CDS	rimP		Ribosome maturation factor RimP
+HNEDKCNO_00893	gene	rimP		
+HNEDKCNO_00894	CDS			hypothetical protein
+HNEDKCNO_00894	gene			
+HNEDKCNO_00895	CDS	ilvG_1	2.2.1.6	Acetolactate synthase isozyme 2 large subunit
+HNEDKCNO_00895	gene	ilvG_1		
+HNEDKCNO_00896	CDS	dacF	3.4.16.4	D-alanyl-D-alanine carboxypeptidase DacF
+HNEDKCNO_00896	gene	dacF		
+HNEDKCNO_00897	CDS	clpS		ATP-dependent Clp protease adapter protein ClpS
+HNEDKCNO_00897	gene	clpS		
+HNEDKCNO_00898	CDS	rsmC	2.1.1.172	Ribosomal RNA small subunit methyltransferase C
+HNEDKCNO_00898	gene	rsmC		
+HNEDKCNO_00899	CDS	bacC_2	1.1.1.385	Dihydroanticapsin 7-dehydrogenase
+HNEDKCNO_00899	gene	bacC_2		
+HNEDKCNO_00900	CDS	hemF	1.3.3.3	Oxygen-dependent coproporphyrinogen-III oxidase
+HNEDKCNO_00900	gene	hemF		
+HNEDKCNO_00901	CDS	ubiH	1.14.13.-	2-octaprenyl-6-methoxyphenol hydroxylase
+HNEDKCNO_00901	gene	ubiH		
+HNEDKCNO_00902	CDS			hypothetical protein
+HNEDKCNO_00902	gene			
+HNEDKCNO_00903	CDS	lon2	3.4.21.53	Lon protease 2
+HNEDKCNO_00903	gene	lon2		
+HNEDKCNO_00904	CDS	trxA_1		Thioredoxin
+HNEDKCNO_00904	gene	trxA_1		
+HNEDKCNO_00905	CDS	xthA_2	3.1.11.2	Exodeoxyribonuclease III
+HNEDKCNO_00905	gene	xthA_2		
+HNEDKCNO_00906	CDS	ilvA	4.3.1.19	L-threonine dehydratase biosynthetic IlvA
+HNEDKCNO_00906	gene	ilvA		
+HNEDKCNO_00907	CDS	gdhA	1.4.1.3	Glutamate dehydrogenase
+HNEDKCNO_00907	gene	gdhA		
+HNEDKCNO_00908	CDS	Hgd	1.1.1.291	2-(hydroxymethyl)glutarate dehydrogenase
+HNEDKCNO_00908	gene	Hgd		
+HNEDKCNO_00909	CDS	fadR		Fatty acid metabolism regulator protein
+HNEDKCNO_00909	gene	fadR		
+HNEDKCNO_00910	CDS			hypothetical protein
+HNEDKCNO_00910	gene			
+HNEDKCNO_00911	CDS	ddc	4.1.1.86	L-2,4-diaminobutyrate decarboxylase
+HNEDKCNO_00911	gene	ddc		
+HNEDKCNO_00912	CDS	infA		Translation initiation factor IF-1
+HNEDKCNO_00912	gene	infA		
+HNEDKCNO_00913	CDS	yhdE		Maf-like protein YhdE
+HNEDKCNO_00913	gene	yhdE		
+HNEDKCNO_00914	CDS	mazG	3.6.1.8	Nucleoside triphosphate pyrophosphohydrolase
+HNEDKCNO_00914	gene	mazG		
+HNEDKCNO_00915	CDS	yxeP_1	3.-.-.-	putative hydrolase YxeP
+HNEDKCNO_00915	gene	yxeP_1		
+HNEDKCNO_00916	CDS	speB	3.5.3.11	Agmatinase
+HNEDKCNO_00916	gene	speB		
+HNEDKCNO_00917	CDS			hypothetical protein
+HNEDKCNO_00917	gene			
+HNEDKCNO_00918	CDS	prfA		Peptide chain release factor RF1
+HNEDKCNO_00918	gene	prfA		
+HNEDKCNO_00919	CDS		3.4.11.-	putative aminopeptidase
+HNEDKCNO_00919	gene			
+HNEDKCNO_00920	CDS	uvrC		UvrABC system protein C
+HNEDKCNO_00920	gene	uvrC		
+HNEDKCNO_00921	CDS	fabG_2	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+HNEDKCNO_00921	gene	fabG_2		
+HNEDKCNO_00922	CDS	yrbG		Inner membrane protein YrbG
+HNEDKCNO_00922	gene	yrbG		
+HNEDKCNO_00923	CDS			hypothetical protein
+HNEDKCNO_00923	gene			
+HNEDKCNO_00924	CDS	erfK	2.-.-.-	putative L,D-transpeptidase ErfK/SrfK
+HNEDKCNO_00924	gene	erfK		
+HNEDKCNO_00925	CDS			hypothetical protein
+HNEDKCNO_00925	gene			
+HNEDKCNO_00926	CDS	abo_2	1.5.3.19	4-methylaminobutanoate oxidase (formaldehyde-forming)
+HNEDKCNO_00926	gene	abo_2		
+HNEDKCNO_00927	CDS	tdh	1.1.1.103	L-threonine 3-dehydrogenase
+HNEDKCNO_00927	gene	tdh		
+HNEDKCNO_00928	CDS			hypothetical protein
+HNEDKCNO_00928	gene			
+HNEDKCNO_00929	CDS	thiE	2.5.1.3	Thiamine-phosphate synthase
+HNEDKCNO_00929	gene	thiE		
+HNEDKCNO_00930	CDS	trmJ	2.1.1.200	tRNA (cytidine/uridine-2'-O-)-methyltransferase TrmJ
+HNEDKCNO_00930	gene	trmJ		
+HNEDKCNO_00931	CDS	ctaA	1.3.-.-	Heme A synthase
+HNEDKCNO_00931	gene	ctaA		
+HNEDKCNO_00932	CDS			hypothetical protein
+HNEDKCNO_00932	gene			
+HNEDKCNO_00933	CDS			hypothetical protein
+HNEDKCNO_00933	gene			
+HNEDKCNO_00934	CDS			hypothetical protein
+HNEDKCNO_00934	gene			
+HNEDKCNO_00935	CDS	phoB		Phosphate regulon transcriptional regulatory protein PhoB
+HNEDKCNO_00935	gene	phoB		
+HNEDKCNO_00936	CDS	ileS	6.1.1.5	Isoleucine--tRNA ligase
+HNEDKCNO_00936	gene	ileS		
+HNEDKCNO_00937	CDS	tadA	3.5.4.33	tRNA-specific adenosine deaminase
+HNEDKCNO_00937	gene	tadA		
+HNEDKCNO_00938	CDS	rluB	5.4.99.22	Ribosomal large subunit pseudouridine synthase B
+HNEDKCNO_00938	gene	rluB		
+HNEDKCNO_00939	CDS			hypothetical protein
+HNEDKCNO_00939	gene			
+HNEDKCNO_00940	CDS	pheT	6.1.1.20	Phenylalanine--tRNA ligase beta subunit
+HNEDKCNO_00940	gene	pheT		
+HNEDKCNO_00941	CDS			hypothetical protein
+HNEDKCNO_00941	gene			
+HNEDKCNO_00942	CDS			hypothetical protein
+HNEDKCNO_00942	gene			
+HNEDKCNO_00943	CDS	rlmN	2.1.1.192	Dual-specificity RNA methyltransferase RlmN
+HNEDKCNO_00943	gene	rlmN		
+HNEDKCNO_00944	CDS			hypothetical protein
+HNEDKCNO_00944	gene			
+HNEDKCNO_00945	CDS	argG	6.3.4.5	Argininosuccinate synthase
+HNEDKCNO_00945	gene	argG		
+HNEDKCNO_00946	CDS	hisD	1.1.1.23	Histidinol dehydrogenase
+HNEDKCNO_00946	gene	hisD		
+HNEDKCNO_00947	CDS			hypothetical protein
+HNEDKCNO_00947	gene			
+HNEDKCNO_00948	CDS	ywle	3.9.1.2	Protein-arginine-phosphatase
+HNEDKCNO_00948	gene	ywle		
+HNEDKCNO_00949	CDS			hypothetical protein
+HNEDKCNO_00949	gene			
+HNEDKCNO_00950	CDS	hemN	1.3.99.-	Oxygen-independent coproporphyrinogen-III oxidase-like protein YqeR
+HNEDKCNO_00950	gene	hemN		
+HNEDKCNO_00951	CDS	parB		Chromosome-partitioning protein ParB
+HNEDKCNO_00951	gene	parB		
+HNEDKCNO_00952	CDS	parA		Chromosome partitioning protein ParA
+HNEDKCNO_00952	gene	parA		
+HNEDKCNO_00953	CDS	ugpQ_2	3.1.4.46	Glycerophosphodiester phosphodiesterase, cytoplasmic
+HNEDKCNO_00953	gene	ugpQ_2		
+HNEDKCNO_00954	CDS	sdgC	1.14.13.209	Salicyloyl-CoA 5-hydroxylase
+HNEDKCNO_00954	gene	sdgC		
+HNEDKCNO_00955	CDS	addA	3.6.4.12	ATP-dependent helicase/nuclease subunit A
+HNEDKCNO_00955	gene	addA		
+HNEDKCNO_00956	CDS	trxA_2		Thioredoxin
+HNEDKCNO_00956	gene	trxA_2		
+HNEDKCNO_00957	CDS		2.7.1.165	D-glycerate 2-kinase
+HNEDKCNO_00957	gene			
+HNEDKCNO_00958	CDS			hypothetical protein
+HNEDKCNO_00958	gene			
+HNEDKCNO_00959	CDS	phrA	4.1.99.3	Deoxyribodipyrimidine photo-lyase
+HNEDKCNO_00959	gene	phrA		
+HNEDKCNO_00960	CDS	ufaA1	2.1.1.-	Tuberculostearic acid methyltransferase UfaA1
+HNEDKCNO_00960	gene	ufaA1		
+HNEDKCNO_00961	CDS			hypothetical protein
+HNEDKCNO_00961	gene			
+HNEDKCNO_00962	CDS			hypothetical protein
+HNEDKCNO_00962	gene			
+HNEDKCNO_00963	CDS			hypothetical protein
+HNEDKCNO_00963	gene			
+HNEDKCNO_00964	CDS	ccpA_2		Catabolite control protein A
+HNEDKCNO_00964	gene	ccpA_2		
+HNEDKCNO_00965	CDS	pheA		P-protein
+HNEDKCNO_00965	gene	pheA		
+HNEDKCNO_00966	CDS			hypothetical protein
+HNEDKCNO_00966	gene			
+HNEDKCNO_00967	CDS	nudC	3.6.1.22	NADH pyrophosphatase
+HNEDKCNO_00967	gene	nudC		
+HNEDKCNO_00968	CDS			hypothetical protein
+HNEDKCNO_00968	gene			
+HNEDKCNO_00969	CDS	hflK_1		Modulator of FtsH protease HflK
+HNEDKCNO_00969	gene	hflK_1		
+HNEDKCNO_00970	CDS			hypothetical protein
+HNEDKCNO_00970	gene			
+HNEDKCNO_00971	CDS	nadE	6.3.5.1	Glutamine-dependent NAD(+) synthetase
+HNEDKCNO_00971	gene	nadE		
+HNEDKCNO_00972	CDS	dnaE1	2.7.7.7	DNA polymerase III subunit alpha
+HNEDKCNO_00972	gene	dnaE1		
+HNEDKCNO_00973	CDS	phaA	2.3.1.9	Acetyl-CoA acetyltransferase
+HNEDKCNO_00973	gene	phaA		
+HNEDKCNO_00974	CDS	phaB	1.1.1.36	Acetoacetyl-CoA reductase
+HNEDKCNO_00974	gene	phaB		
+HNEDKCNO_00975	CDS		1.1.1.-	Putative 2-hydroxyacid dehydrogenase
+HNEDKCNO_00975	gene			
+HNEDKCNO_00976	CDS	fixN	1.9.3.1	Cytochrome c oxidase subunit 1 , bacteroid
+HNEDKCNO_00976	gene	fixN		
+HNEDKCNO_00977	CDS	fixK		Nitrogen fixation regulation protein FixK
+HNEDKCNO_00977	gene	fixK		
+HNEDKCNO_00978	CDS	ddlB	6.3.2.4	D-alanine--D-alanine ligase B
+HNEDKCNO_00978	gene	ddlB		
+HNEDKCNO_00979	CDS	murB	1.3.1.98	UDP-N-acetylenolpyruvoylglucosamine reductase
+HNEDKCNO_00979	gene	murB		
+HNEDKCNO_00980	CDS	murC	6.3.2.8	UDP-N-acetylmuramate--L-alanine ligase
+HNEDKCNO_00980	gene	murC		
+HNEDKCNO_00981	CDS			hypothetical protein
+HNEDKCNO_00981	gene			
+HNEDKCNO_00982	CDS		1.1.1.390	Sulfoquinovose 1-dehydrogenase
+HNEDKCNO_00982	gene			
+HNEDKCNO_00983	CDS	melA	3.2.1.22	Alpha-galactosidase
+HNEDKCNO_00983	gene	melA		
+HNEDKCNO_00984	CDS	araQ_2		L-arabinose transport system permease protein AraQ
+HNEDKCNO_00984	gene	araQ_2		
+HNEDKCNO_00985	CDS			hypothetical protein
+HNEDKCNO_00985	gene			
+HNEDKCNO_00986	CDS			hypothetical protein
+HNEDKCNO_00986	gene			
+HNEDKCNO_00987	CDS	hisG	2.4.2.17	ATP phosphoribosyltransferase
+HNEDKCNO_00987	gene	hisG		
+HNEDKCNO_00988	CDS	hisZ		ATP phosphoribosyltransferase regulatory subunit
+HNEDKCNO_00988	gene	hisZ		
+HNEDKCNO_00989	CDS	cnrA		Nickel and cobalt resistance protein CnrA
+HNEDKCNO_00989	gene	cnrA		
+HNEDKCNO_00990	CDS	atm1		ATM1-type heavy metal exporter
+HNEDKCNO_00990	gene	atm1		
+HNEDKCNO_00991	CDS			hypothetical protein
+HNEDKCNO_00991	gene			
+HNEDKCNO_00992	CDS	hcrC	1.3.7.9	4-hydroxybenzoyl-CoA reductase subunit gamma
+HNEDKCNO_00992	gene	hcrC		
+HNEDKCNO_00993	CDS			hypothetical protein
+HNEDKCNO_00993	gene			
+HNEDKCNO_00994	CDS		2.5.1.17	Cob(I)yrinic acid a,c-diamide adenosyltransferase
+HNEDKCNO_00994	gene			
+HNEDKCNO_00995	CDS	etfB		Electron transfer flavoprotein subunit beta
+HNEDKCNO_00995	gene	etfB		
+HNEDKCNO_00996	CDS	rsmE	2.1.1.193	Ribosomal RNA small subunit methyltransferase E
+HNEDKCNO_00996	gene	rsmE		
+HNEDKCNO_00997	CDS			hypothetical protein
+HNEDKCNO_00997	gene			
+HNEDKCNO_00998	CDS	egtA	6.3.2.2	Glutamate--cysteine ligase EgtA
+HNEDKCNO_00998	gene	egtA		
+HNEDKCNO_00999	CDS	motB		Motility protein B
+HNEDKCNO_00999	gene	motB		
+HNEDKCNO_01000	CDS	ftsY		Signal recognition particle receptor FtsY
+HNEDKCNO_01000	gene	ftsY		
+HNEDKCNO_01001	CDS			hypothetical protein
+HNEDKCNO_01001	gene			
+HNEDKCNO_01002	CDS	yciB		putative intracellular septation protein A
+HNEDKCNO_01002	gene	yciB		
+HNEDKCNO_01003	CDS	yfcG	1.8.4.-	Disulfide-bond oxidoreductase YfcG
+HNEDKCNO_01003	gene	yfcG		
+HNEDKCNO_01004	CDS	yrrB		TPR repeat-containing protein YrrB
+HNEDKCNO_01004	gene	yrrB		
+HNEDKCNO_01005	CDS	regA		Photosynthetic apparatus regulatory protein RegA
+HNEDKCNO_01005	gene	regA		
+HNEDKCNO_01006	CDS	msrA2	1.8.4.11	Peptide methionine sulfoxide reductase MsrA 2
+HNEDKCNO_01006	gene	msrA2		
+HNEDKCNO_01007	CDS	rbsK	2.7.1.15	Ribokinase
+HNEDKCNO_01007	gene	rbsK		
+HNEDKCNO_01008	CDS	tme	1.1.1.40	NADP-dependent malic enzyme
+HNEDKCNO_01008	gene	tme		
+HNEDKCNO_01009	CDS	mutS		DNA mismatch repair protein MutS
+HNEDKCNO_01009	gene	mutS		
+HNEDKCNO_01010	CDS	grpE		Protein GrpE
+HNEDKCNO_01010	gene	grpE		
+HNEDKCNO_01011	CDS	hrcA		Heat-inducible transcription repressor HrcA
+HNEDKCNO_01011	gene	hrcA		
+HNEDKCNO_01012	CDS	miaB	2.8.4.3	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+HNEDKCNO_01012	gene	miaB		
+HNEDKCNO_01013	CDS			hypothetical protein
+HNEDKCNO_01013	gene			
+HNEDKCNO_01014	CDS	fabI_2	1.3.1.9	Enoyl-[acyl-carrier-protein] reductase [NADH] FabI
+HNEDKCNO_01014	gene	fabI_2		
+HNEDKCNO_01015	CDS	pgpA	3.1.3.27	Phosphatidylglycerophosphatase A
+HNEDKCNO_01015	gene	pgpA		
+HNEDKCNO_01016	CDS	ispDF		Bifunctional enzyme IspD/IspF
+HNEDKCNO_01016	gene	ispDF		
+HNEDKCNO_01017	CDS			hypothetical protein
+HNEDKCNO_01017	gene			
+HNEDKCNO_01018	CDS			hypothetical protein
+HNEDKCNO_01018	gene			
+HNEDKCNO_01019	CDS	tctD		Transcriptional regulatory protein tctD
+HNEDKCNO_01019	gene	tctD		
+HNEDKCNO_01020	CDS	qseC_1	2.7.13.3	Sensor protein QseC
+HNEDKCNO_01020	gene	qseC_1		
+HNEDKCNO_01021	CDS			hypothetical protein
+HNEDKCNO_01021	gene			
+HNEDKCNO_01022	CDS	fadJ		Fatty acid oxidation complex subunit alpha
+HNEDKCNO_01022	gene	fadJ		
+HNEDKCNO_01023	CDS			hypothetical protein
+HNEDKCNO_01023	gene			
+HNEDKCNO_01024	CDS	fpr	1.18.1.2	Ferredoxin--NADP reductase
+HNEDKCNO_01024	gene	fpr		
+HNEDKCNO_01025	CDS	infC		Translation initiation factor IF-3
+HNEDKCNO_01025	gene	infC		
+HNEDKCNO_01026	CDS			hypothetical protein
+HNEDKCNO_01026	gene			
+HNEDKCNO_01027	CDS	pucA	1.17.1.4	putative xanthine dehydrogenase subunit A
+HNEDKCNO_01027	gene	pucA		
+HNEDKCNO_01028	CDS	bauC	1.2.1.-	Putative 3-oxopropanoate dehydrogenase
+HNEDKCNO_01028	gene	bauC		
+HNEDKCNO_01029	CDS	acdA	1.3.99.-	Acyl-CoA dehydrogenase
+HNEDKCNO_01029	gene	acdA		
+HNEDKCNO_01030	CDS	cfiA	6.4.1.7	2-oxoglutarate carboxylase large subunit
+HNEDKCNO_01030	gene	cfiA		
+HNEDKCNO_01031	tRNA			tRNA-Gly(gcc)
+HNEDKCNO_01031	gene			
+HNEDKCNO_01032	CDS			hypothetical protein
+HNEDKCNO_01032	gene			
+HNEDKCNO_01033	CDS			hypothetical protein
+HNEDKCNO_01033	gene			
+HNEDKCNO_01034	CDS	ygbM	5.3.1.22	Putative hydroxypyruvate isomerase YgbM
+HNEDKCNO_01034	gene	ygbM		
+HNEDKCNO_01035	CDS			hypothetical protein
+HNEDKCNO_01035	gene			
+HNEDKCNO_01036	CDS	puuA_1	6.3.1.11	Gamma-glutamylputrescine synthetase PuuA
+HNEDKCNO_01036	gene	puuA_1		
+HNEDKCNO_01037	CDS	guaA_1	6.3.5.2	GMP synthase [glutamine-hydrolyzing]
+HNEDKCNO_01037	gene	guaA_1		
+HNEDKCNO_01038	CDS	puuA_2	6.3.1.11	Gamma-glutamylputrescine synthetase PuuA
+HNEDKCNO_01038	gene	puuA_2		
+HNEDKCNO_01039	CDS		3.5.3.18	N(G),N(G)-dimethylarginine dimethylaminohydrolase
+HNEDKCNO_01039	gene			
+HNEDKCNO_01040	CDS			hypothetical protein
+HNEDKCNO_01040	gene			
+HNEDKCNO_01041	CDS	amaB	3.5.1.87	N-carbamoyl-L-amino acid hydrolase
+HNEDKCNO_01041	gene	amaB		
+HNEDKCNO_01042	CDS	rutR_1		HTH-type transcriptional regulator RutR
+HNEDKCNO_01042	gene	rutR_1		
+HNEDKCNO_01043	CDS	rutR_2		HTH-type transcriptional regulator RutR
+HNEDKCNO_01043	gene	rutR_2		
+HNEDKCNO_01044	CDS	preA	1.3.1.1	NAD-dependent dihydropyrimidine dehydrogenase subunit PreA
+HNEDKCNO_01044	gene	preA		
+HNEDKCNO_01045	CDS	preT	1.3.1.1	NAD-dependent dihydropyrimidine dehydrogenase subunit PreT
+HNEDKCNO_01045	gene	preT		
+HNEDKCNO_01046	CDS			hypothetical protein
+HNEDKCNO_01046	gene			
+HNEDKCNO_01047	CDS			hypothetical protein
+HNEDKCNO_01047	gene			
+HNEDKCNO_01048	CDS	ctrA		Cell cycle response regulator CtrA
+HNEDKCNO_01048	gene	ctrA		
+HNEDKCNO_01049	CDS	ligA_1	6.5.1.2	DNA ligase
+HNEDKCNO_01049	gene	ligA_1		
+HNEDKCNO_01050	CDS	panE	1.1.1.169	2-dehydropantoate 2-reductase
+HNEDKCNO_01050	gene	panE		
+HNEDKCNO_01051	CDS			hypothetical protein
+HNEDKCNO_01051	gene			
+HNEDKCNO_01052	CDS			hypothetical protein
+HNEDKCNO_01052	gene			
+HNEDKCNO_01053	CDS			hypothetical protein
+HNEDKCNO_01053	gene			
+HNEDKCNO_01054	CDS			hypothetical protein
+HNEDKCNO_01054	gene			
+HNEDKCNO_01055	CDS			hypothetical protein
+HNEDKCNO_01055	gene			
+HNEDKCNO_01056	CDS			hypothetical protein
+HNEDKCNO_01056	gene			
+HNEDKCNO_01057	CDS			hypothetical protein
+HNEDKCNO_01057	gene			
+HNEDKCNO_01058	CDS			hypothetical protein
+HNEDKCNO_01058	gene			
+HNEDKCNO_01059	CDS			hypothetical protein
+HNEDKCNO_01059	gene			
+HNEDKCNO_01060	CDS	xdhA	1.17.1.4	Putative xanthine dehydrogenase molybdenum-binding subunit XdhA
+HNEDKCNO_01060	gene	xdhA		
+HNEDKCNO_01061	CDS			hypothetical protein
+HNEDKCNO_01061	gene			
+HNEDKCNO_01062	CDS	glpR		Glycerol-3-phosphate regulon repressor
+HNEDKCNO_01062	gene	glpR		
+HNEDKCNO_01063	CDS			hypothetical protein
+HNEDKCNO_01063	gene			
+HNEDKCNO_01064	CDS	siaT_1		Sialic acid TRAP transporter permease protein SiaT
+HNEDKCNO_01064	gene	siaT_1		
+HNEDKCNO_01065	CDS			Solute-binding protein
+HNEDKCNO_01065	gene			
+HNEDKCNO_01066	CDS	ppaX	3.6.1.1	Pyrophosphatase PpaX
+HNEDKCNO_01066	gene	ppaX		
+HNEDKCNO_01067	CDS			hypothetical protein
+HNEDKCNO_01067	gene			
+HNEDKCNO_01068	CDS	pleD		Response regulator PleD
+HNEDKCNO_01068	gene	pleD		
+HNEDKCNO_01069	CDS			hypothetical protein
+HNEDKCNO_01069	gene			
+HNEDKCNO_01070	CDS			hypothetical protein
+HNEDKCNO_01070	gene			
+HNEDKCNO_01071	CDS			hypothetical protein
+HNEDKCNO_01071	gene			
+HNEDKCNO_01072	CDS	surE	3.1.3.5	5'-nucleotidase SurE
+HNEDKCNO_01072	gene	surE		
+HNEDKCNO_01073	CDS	pcm	2.1.1.77	Protein-L-isoaspartate O-methyltransferase
+HNEDKCNO_01073	gene	pcm		
+HNEDKCNO_01074	CDS	nlpD		Murein hydrolase activator NlpD
+HNEDKCNO_01074	gene	nlpD		
+HNEDKCNO_01075	CDS			hypothetical protein
+HNEDKCNO_01075	gene			
+HNEDKCNO_01076	CDS			hypothetical protein
+HNEDKCNO_01076	gene			
+HNEDKCNO_01077	CDS	hpd_1	1.13.11.27	4-hydroxyphenylpyruvate dioxygenase
+HNEDKCNO_01077	gene	hpd_1		
+HNEDKCNO_01078	CDS	decR		DNA-binding transcriptional activator DecR
+HNEDKCNO_01078	gene	decR		
+HNEDKCNO_01079	CDS	cobU	2.4.2.21	Nicotinate-nucleotide--dimethylbenzimidazole phosphoribosyltransferase
+HNEDKCNO_01079	gene	cobU		
+HNEDKCNO_01080	CDS			hypothetical protein
+HNEDKCNO_01080	gene			
+HNEDKCNO_01081	CDS			hypothetical protein
+HNEDKCNO_01081	gene			
+HNEDKCNO_01082	CDS	dxs	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+HNEDKCNO_01082	gene	dxs		
+HNEDKCNO_01083	CDS	ispA	2.5.1.10	Farnesyl diphosphate synthase
+HNEDKCNO_01083	gene	ispA		
+HNEDKCNO_01084	CDS	xseB	3.1.11.6	Exodeoxyribonuclease 7 small subunit
+HNEDKCNO_01084	gene	xseB		
+HNEDKCNO_01085	CDS	hdaH	3.5.1.-	Histone deacetylase-like amidohydrolase
+HNEDKCNO_01085	gene	hdaH		
+HNEDKCNO_01086	CDS	nasA	1.7.99.4	Nitrate reductase
+HNEDKCNO_01086	gene	nasA		
+HNEDKCNO_01087	CDS	cmpC	3.6.3.-	Bicarbonate transport ATP-binding protein CmpC
+HNEDKCNO_01087	gene	cmpC		
+HNEDKCNO_01088	CDS	tauA		Taurine-binding periplasmic protein
+HNEDKCNO_01088	gene	tauA		
+HNEDKCNO_01089	CDS	tauB	3.6.3.36	Taurine import ATP-binding protein TauB
+HNEDKCNO_01089	gene	tauB		
+HNEDKCNO_01090	CDS		6.2.1.30	Phenylacetate-coenzyme A ligase
+HNEDKCNO_01090	gene			
+HNEDKCNO_01091	CDS	livF_2		High-affinity branched-chain amino acid transport ATP-binding protein LivF
+HNEDKCNO_01091	gene	livF_2		
+HNEDKCNO_01092	CDS	msmE		Multiple sugar-binding protein
+HNEDKCNO_01092	gene	msmE		
+HNEDKCNO_01093	CDS	kdgR		Transcriptional regulator KdgR
+HNEDKCNO_01093	gene	kdgR		
+HNEDKCNO_01094	CDS	ribN_5		Riboflavin transporter
+HNEDKCNO_01094	gene	ribN_5		
+HNEDKCNO_01095	CDS		6.2.1.3	Long-chain-fatty-acid--CoA ligase
+HNEDKCNO_01095	gene			
+HNEDKCNO_01096	CDS			hypothetical protein
+HNEDKCNO_01096	gene			
+HNEDKCNO_01097	CDS			hypothetical protein
+HNEDKCNO_01097	gene			
+HNEDKCNO_01098	CDS			hypothetical protein
+HNEDKCNO_01098	gene			
+HNEDKCNO_01099	CDS			hypothetical protein
+HNEDKCNO_01099	gene			
+HNEDKCNO_01100	CDS	divK		Polar-differentiation response regulator DivK
+HNEDKCNO_01100	gene	divK		
+HNEDKCNO_01101	CDS	ligA_2	1.13.11.8	Protocatechuate 4,5-dioxygenase alpha chain
+HNEDKCNO_01101	gene	ligA_2		
+HNEDKCNO_01102	CDS	ligB	1.13.11.8	Protocatechuate 4,5-dioxygenase beta chain
+HNEDKCNO_01102	gene	ligB		
+HNEDKCNO_01103	CDS	ligC	1.1.1.312	4-carboxy-2-hydroxymuconate-6-semialdehyde dehydrogenase
+HNEDKCNO_01103	gene	ligC		
+HNEDKCNO_01104	CDS	yhdN_1	1.1.1.-	General stress protein 69
+HNEDKCNO_01104	gene	yhdN_1		
+HNEDKCNO_01105	CDS	dctM_3		C4-dicarboxylate TRAP transporter large permease protein DctM
+HNEDKCNO_01105	gene	dctM_3		
+HNEDKCNO_01106	CDS	nusG		Transcription termination/antitermination protein NusG
+HNEDKCNO_01106	gene	nusG		
+HNEDKCNO_01107	CDS	rplK		50S ribosomal protein L11
+HNEDKCNO_01107	gene	rplK		
+HNEDKCNO_01108	CDS	rplA		50S ribosomal protein L1
+HNEDKCNO_01108	gene	rplA		
+HNEDKCNO_01109	CDS	rplJ		50S ribosomal protein L10
+HNEDKCNO_01109	gene	rplJ		
+HNEDKCNO_01110	CDS	rplL		50S ribosomal protein L7/L12
+HNEDKCNO_01110	gene	rplL		
+HNEDKCNO_01111	CDS	rpoB	2.7.7.6	DNA-directed RNA polymerase subunit beta
+HNEDKCNO_01111	gene	rpoB		
+HNEDKCNO_01112	CDS			hypothetical protein
+HNEDKCNO_01112	gene			
+HNEDKCNO_01113	CDS	yfkJ	3.1.3.48	Low molecular weight protein-tyrosine-phosphatase YfkJ
+HNEDKCNO_01113	gene	yfkJ		
+HNEDKCNO_01114	CDS			hypothetical protein
+HNEDKCNO_01114	gene			
+HNEDKCNO_01115	CDS	suhB_2	3.1.3.25	Inositol-1-monophosphatase
+HNEDKCNO_01115	gene	suhB_2		
+HNEDKCNO_01116	CDS	gluP	3.4.21.105	Rhomboid protease GluP
+HNEDKCNO_01116	gene	gluP		
+HNEDKCNO_01117	CDS	putA		Bifunctional protein PutA
+HNEDKCNO_01117	gene	putA		
+HNEDKCNO_01118	CDS			hypothetical protein
+HNEDKCNO_01118	gene			
+HNEDKCNO_01119	CDS	tmpC		Membrane lipoprotein TmpC
+HNEDKCNO_01119	gene	tmpC		
+HNEDKCNO_01120	CDS	rimI	2.3.1.128	Ribosomal-protein-alanine acetyltransferase
+HNEDKCNO_01120	gene	rimI		
+HNEDKCNO_01121	CDS	tsaB		tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+HNEDKCNO_01121	gene	tsaB		
+HNEDKCNO_01122	CDS	nfuA		Fe/S biogenesis protein NfuA
+HNEDKCNO_01122	gene	nfuA		
+HNEDKCNO_01123	CDS			hypothetical protein
+HNEDKCNO_01123	gene			
+HNEDKCNO_01124	CDS			hypothetical protein
+HNEDKCNO_01124	gene			
+HNEDKCNO_01125	CDS	gltX_1	6.1.1.17	Glutamate--tRNA ligase
+HNEDKCNO_01125	gene	gltX_1		
+HNEDKCNO_01126	CDS	hisI	3.5.4.19	Phosphoribosyl-AMP cyclohydrolase
+HNEDKCNO_01126	gene	hisI		
+HNEDKCNO_01127	CDS			hypothetical protein
+HNEDKCNO_01127	gene			
+HNEDKCNO_01128	CDS			hypothetical protein
+HNEDKCNO_01128	gene			
+HNEDKCNO_01129	CDS	recG	3.6.4.12	ATP-dependent DNA helicase RecG
+HNEDKCNO_01129	gene	recG		
+HNEDKCNO_01130	CDS	paaI	3.1.2.-	Acyl-coenzyme A thioesterase PaaI
+HNEDKCNO_01130	gene	paaI		
+HNEDKCNO_01131	CDS	uvrD	3.6.4.12	DNA helicase II
+HNEDKCNO_01131	gene	uvrD		
+HNEDKCNO_01132	CDS			hypothetical protein
+HNEDKCNO_01132	gene			
+HNEDKCNO_01133	CDS	ompR_2		Transcriptional regulatory protein OmpR
+HNEDKCNO_01133	gene	ompR_2		
+HNEDKCNO_01134	CDS	ubiG	2.1.1.222	Ubiquinone biosynthesis O-methyltransferase
+HNEDKCNO_01134	gene	ubiG		
+HNEDKCNO_01135	CDS	pip_2	3.4.11.5	Proline iminopeptidase
+HNEDKCNO_01135	gene	pip_2		
+HNEDKCNO_01136	CDS	ydjA	1.-.-.-	Putative NAD(P)H nitroreductase YdjA
+HNEDKCNO_01136	gene	ydjA		
+HNEDKCNO_01137	CDS			hypothetical protein
+HNEDKCNO_01137	gene			
+HNEDKCNO_01138	CDS			hypothetical protein
+HNEDKCNO_01138	gene			
+HNEDKCNO_01139	CDS			hypothetical protein
+HNEDKCNO_01139	gene			
+HNEDKCNO_01140	CDS	phoP		Transcriptional regulatory protein PhoP
+HNEDKCNO_01140	gene	phoP		
+HNEDKCNO_01141	CDS			hypothetical protein
+HNEDKCNO_01141	gene			
+HNEDKCNO_01142	CDS	aspS	6.1.1.23	Aspartate--tRNA(Asp/Asn) ligase
+HNEDKCNO_01142	gene	aspS		
+HNEDKCNO_01143	CDS	glyS	6.1.1.14	Glycine--tRNA ligase beta subunit
+HNEDKCNO_01143	gene	glyS		
+HNEDKCNO_01144	CDS			hypothetical protein
+HNEDKCNO_01144	gene			
+HNEDKCNO_01145	CDS	aruI	4.1.1.75	putative 2-ketoarginine decarboxylase AruI
+HNEDKCNO_01145	gene	aruI		
+HNEDKCNO_01146	CDS	trkI		Trk system potassium uptake protein TrkI
+HNEDKCNO_01146	gene	trkI		
+HNEDKCNO_01147	CDS	potA_2	3.6.3.31	Spermidine/putrescine import ATP-binding protein PotA
+HNEDKCNO_01147	gene	potA_2		
+HNEDKCNO_01148	CDS			hypothetical protein
+HNEDKCNO_01148	gene			
+HNEDKCNO_01149	CDS	lutA		Lactate utilization protein A
+HNEDKCNO_01149	gene	lutA		
+HNEDKCNO_01150	CDS			hypothetical protein
+HNEDKCNO_01150	gene			
+HNEDKCNO_01151	CDS	ibpA_2		Small heat shock protein IbpA
+HNEDKCNO_01151	gene	ibpA_2		
+HNEDKCNO_01152	CDS			hypothetical protein
+HNEDKCNO_01152	gene			
+HNEDKCNO_01153	CDS	rbfA		Ribosome-binding factor A
+HNEDKCNO_01153	gene	rbfA		
+HNEDKCNO_01154	CDS			hypothetical protein
+HNEDKCNO_01154	gene			
+HNEDKCNO_01155	CDS			hypothetical protein
+HNEDKCNO_01155	gene			
+HNEDKCNO_01156	CDS	gpmA	5.4.2.11	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+HNEDKCNO_01156	gene	gpmA		
+HNEDKCNO_01157	CDS			hypothetical protein
+HNEDKCNO_01157	gene			
+HNEDKCNO_01158	CDS	ifcA	1.3.5.4	Fumarate reductase flavoprotein subunit
+HNEDKCNO_01158	gene	ifcA		
+HNEDKCNO_01159	CDS	gntR_2		putative D-xylose utilization operon transcriptional repressor
+HNEDKCNO_01159	gene	gntR_2		
+HNEDKCNO_01160	CDS	potA_3	3.6.3.31	Spermidine/putrescine import ATP-binding protein PotA
+HNEDKCNO_01160	gene	potA_3		
+HNEDKCNO_01161	CDS	phnV		Putative 2-aminoethylphosphonate transport system permease protein PhnV
+HNEDKCNO_01161	gene	phnV		
+HNEDKCNO_01162	CDS	phnU_2		Putative 2-aminoethylphosphonate transport system permease protein PhnU
+HNEDKCNO_01162	gene	phnU_2		
+HNEDKCNO_01163	CDS			hypothetical protein
+HNEDKCNO_01163	gene			
+HNEDKCNO_01164	CDS	cyaA_1	4.6.1.1	Adenylate cyclase 1
+HNEDKCNO_01164	gene	cyaA_1		
+HNEDKCNO_01165	CDS			hypothetical protein
+HNEDKCNO_01165	gene			
+HNEDKCNO_01166	CDS			hypothetical protein
+HNEDKCNO_01166	gene			
+HNEDKCNO_01167	CDS			hypothetical protein
+HNEDKCNO_01167	gene			
+HNEDKCNO_01168	CDS	ntdC_1	1.1.1.361	Glucose-6-phosphate 3-dehydrogenase
+HNEDKCNO_01168	gene	ntdC_1		
+HNEDKCNO_01169	CDS	hisC_2	2.6.1.9	Histidinol-phosphate aminotransferase
+HNEDKCNO_01169	gene	hisC_2		
+HNEDKCNO_01170	CDS	xsc_1	2.3.3.15	Sulfoacetaldehyde acetyltransferase
+HNEDKCNO_01170	gene	xsc_1		
+HNEDKCNO_01171	CDS		3.4.11.-	Aminopeptidase T
+HNEDKCNO_01171	gene			
+HNEDKCNO_01172	CDS	dnaE2_1	2.7.7.7	Error-prone DNA polymerase
+HNEDKCNO_01172	gene	dnaE2_1		
+HNEDKCNO_01173	CDS			hypothetical protein
+HNEDKCNO_01173	gene			
+HNEDKCNO_01174	CDS	rluA	5.4.99.28	Ribosomal large subunit pseudouridine synthase A
+HNEDKCNO_01174	gene	rluA		
+HNEDKCNO_01175	CDS	mmgB_2	1.1.1.157	putative 3-hydroxybutyryl-CoA dehydrogenase
+HNEDKCNO_01175	gene	mmgB_2		
+HNEDKCNO_01176	CDS			hypothetical protein
+HNEDKCNO_01176	gene			
+HNEDKCNO_01177	CDS	ptsO_2	2.7.11.-	Phosphocarrier protein NPr
+HNEDKCNO_01177	gene	ptsO_2		
+HNEDKCNO_01178	CDS	manX_2	2.7.1.191	PTS system mannose-specific EIIAB component
+HNEDKCNO_01178	gene	manX_2		
+HNEDKCNO_01179	CDS		2.6.1.51	Serine-pyruvate aminotransferase
+HNEDKCNO_01179	gene			
+HNEDKCNO_01180	CDS			hypothetical protein
+HNEDKCNO_01180	gene			
+HNEDKCNO_01181	CDS	zntR_1		HTH-type transcriptional regulator ZntR
+HNEDKCNO_01181	gene	zntR_1		
+HNEDKCNO_01182	CDS	zntR_2		HTH-type transcriptional regulator ZntR
+HNEDKCNO_01182	gene	zntR_2		
+HNEDKCNO_01183	CDS	dmdC_1	1.3.8.-	3-methylmercaptopropionyl-CoA dehydrogenase
+HNEDKCNO_01183	gene	dmdC_1		
+HNEDKCNO_01184	CDS	mppA		Periplasmic murein peptide-binding protein
+HNEDKCNO_01184	gene	mppA		
+HNEDKCNO_01185	CDS	mdlB	1.1.99.31	(S)-mandelate dehydrogenase
+HNEDKCNO_01185	gene	mdlB		
+HNEDKCNO_01186	CDS	ilvG_2	2.2.1.6	Acetolactate synthase large subunit IlvG
+HNEDKCNO_01186	gene	ilvG_2		
+HNEDKCNO_01187	CDS	pucM_2	3.5.2.17	5-hydroxyisourate hydrolase
+HNEDKCNO_01187	gene	pucM_2		
+HNEDKCNO_01188	CDS			hypothetical protein
+HNEDKCNO_01188	gene			
+HNEDKCNO_01189	CDS	tmd_2	1.5.8.2	Trimethylamine dehydrogenase
+HNEDKCNO_01189	gene	tmd_2		
+HNEDKCNO_01190	CDS			hypothetical protein
+HNEDKCNO_01190	gene			
+HNEDKCNO_01191	CDS	moeA	2.10.1.1	Molybdopterin molybdenumtransferase
+HNEDKCNO_01191	gene	moeA		
+HNEDKCNO_01192	CDS			hypothetical protein
+HNEDKCNO_01192	gene			
+HNEDKCNO_01193	CDS	rpsL		30S ribosomal protein S12
+HNEDKCNO_01193	gene	rpsL		
+HNEDKCNO_01194	CDS	rpsG		30S ribosomal protein S7
+HNEDKCNO_01194	gene	rpsG		
+HNEDKCNO_01195	CDS	ydcV_2		Inner membrane ABC transporter permease protein YdcV
+HNEDKCNO_01195	gene	ydcV_2		
+HNEDKCNO_01196	CDS	potB		Spermidine/putrescine transport system permease protein PotB
+HNEDKCNO_01196	gene	potB		
+HNEDKCNO_01197	CDS			hypothetical protein
+HNEDKCNO_01197	gene			
+HNEDKCNO_01198	CDS			hypothetical protein
+HNEDKCNO_01198	gene			
+HNEDKCNO_01199	CDS			hypothetical protein
+HNEDKCNO_01199	gene			
+HNEDKCNO_01200	CDS			hypothetical protein
+HNEDKCNO_01200	gene			
+HNEDKCNO_01201	CDS			hypothetical protein
+HNEDKCNO_01201	gene			
+HNEDKCNO_01202	CDS	dhaA	3.8.1.5	Haloalkane dehalogenase
+HNEDKCNO_01202	gene	dhaA		
+HNEDKCNO_01203	CDS	secE		Protein translocase subunit SecE
+HNEDKCNO_01203	gene	secE		
+HNEDKCNO_01204	CDS	cysNC		Bifunctional enzyme CysN/CysC
+HNEDKCNO_01204	gene	cysNC		
+HNEDKCNO_01205	CDS			Purine-binding protein
+HNEDKCNO_01205	gene			
+HNEDKCNO_01206	CDS	xylG	3.6.3.17	Xylose import ATP-binding protein XylG
+HNEDKCNO_01206	gene	xylG		
+HNEDKCNO_01207	CDS			hypothetical protein
+HNEDKCNO_01207	gene			
+HNEDKCNO_01208	CDS			hypothetical protein
+HNEDKCNO_01208	gene			
+HNEDKCNO_01209	CDS	codA	3.5.4.1	Cytosine deaminase
+HNEDKCNO_01209	gene	codA		
+HNEDKCNO_01210	CDS		3.5.3.3	Creatinase
+HNEDKCNO_01210	gene			
+HNEDKCNO_01211	CDS	yxeP_2	3.-.-.-	putative hydrolase YxeP
+HNEDKCNO_01211	gene	yxeP_2		
+HNEDKCNO_01212	CDS	glpE_2	2.8.1.1	Thiosulfate sulfurtransferase GlpE
+HNEDKCNO_01212	gene	glpE_2		
+HNEDKCNO_01213	CDS	cyaA_2	4.6.1.1	Adenylate cyclase 1
+HNEDKCNO_01213	gene	cyaA_2		
+HNEDKCNO_01214	CDS			hypothetical protein
+HNEDKCNO_01214	gene			
+HNEDKCNO_01215	CDS	qseC_2	2.7.13.3	Sensor protein QseC
+HNEDKCNO_01215	gene	qseC_2		
+HNEDKCNO_01216	CDS	qseB		Transcriptional regulatory protein QseB
+HNEDKCNO_01216	gene	qseB		
+HNEDKCNO_01217	CDS			hypothetical protein
+HNEDKCNO_01217	gene			
+HNEDKCNO_01218	CDS			hypothetical protein
+HNEDKCNO_01218	gene			
+HNEDKCNO_01219	CDS			hypothetical protein
+HNEDKCNO_01219	gene			
+HNEDKCNO_01220	CDS			hypothetical protein
+HNEDKCNO_01220	gene			
+HNEDKCNO_01221	CDS	rsh	2.7.6.5	GTP pyrophosphokinase rsh
+HNEDKCNO_01221	gene	rsh		
+HNEDKCNO_01222	CDS			hypothetical protein
+HNEDKCNO_01222	gene			
+HNEDKCNO_01223	CDS	lpd	1.8.1.4	Dihydrolipoyl dehydrogenase
+HNEDKCNO_01223	gene	lpd		
+HNEDKCNO_01224	CDS	acsE	2.1.1.258	5-methyltetrahydrofolate:corrinoid/iron-sulfur protein co-methyltransferase
+HNEDKCNO_01224	gene	acsE		
+HNEDKCNO_01225	CDS			hypothetical protein
+HNEDKCNO_01225	gene			
+HNEDKCNO_01226	CDS			hypothetical protein
+HNEDKCNO_01226	gene			
+HNEDKCNO_01227	CDS	gppA	3.6.1.40	Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase
+HNEDKCNO_01227	gene	gppA		
+HNEDKCNO_01228	CDS	siaP		Sialic acid-binding periplasmic protein SiaP
+HNEDKCNO_01228	gene	siaP		
+HNEDKCNO_01229	CDS			hypothetical protein
+HNEDKCNO_01229	gene			
+HNEDKCNO_01230	CDS	siaT_2		Sialic acid TRAP transporter permease protein SiaT
+HNEDKCNO_01230	gene	siaT_2		
+HNEDKCNO_01231	CDS	hpd_2	1.13.11.27	4-hydroxyphenylpyruvate dioxygenase
+HNEDKCNO_01231	gene	hpd_2		
+HNEDKCNO_01232	CDS	gltX_2	6.1.1.17	Glutamate--tRNA ligase
+HNEDKCNO_01232	gene	gltX_2		
+HNEDKCNO_01233	CDS	ssuC		Putative aliphatic sulfonates transport permease protein SsuC
+HNEDKCNO_01233	gene	ssuC		
+HNEDKCNO_01234	CDS	parC	5.99.1.3	DNA topoisomerase 4 subunit A
+HNEDKCNO_01234	gene	parC		
+HNEDKCNO_01235	CDS	phnE_2		Phosphate-import permease protein PhnE
+HNEDKCNO_01235	gene	phnE_2		
+HNEDKCNO_01236	CDS	phnD		Phosphate-import protein PhnD
+HNEDKCNO_01236	gene	phnD		
+HNEDKCNO_01237	CDS	phnC	3.6.3.27	Phosphate-import ATP-binding protein PhnC
+HNEDKCNO_01237	gene	phnC		
+HNEDKCNO_01238	CDS			hypothetical protein
+HNEDKCNO_01238	gene			
+HNEDKCNO_01239	CDS	mreC		Cell shape-determining protein MreC
+HNEDKCNO_01239	gene	mreC		
+HNEDKCNO_01240	CDS	mreB		Rod shape-determining protein MreB
+HNEDKCNO_01240	gene	mreB		
+HNEDKCNO_01241	CDS			hypothetical protein
+HNEDKCNO_01241	gene			
+HNEDKCNO_01242	CDS	mscS		Small-conductance mechanosensitive channel
+HNEDKCNO_01242	gene	mscS		
+HNEDKCNO_01243	CDS	ycgJ	2.1.1.-	putative methyltransferase YcgJ
+HNEDKCNO_01243	gene	ycgJ		
+HNEDKCNO_01244	CDS			hypothetical protein
+HNEDKCNO_01244	gene			
+HNEDKCNO_01245	CDS	gfa	4.4.1.22	Glutathione-dependent formaldehyde-activating enzyme
+HNEDKCNO_01245	gene	gfa		
+HNEDKCNO_01246	CDS	queG	1.17.99.6	Epoxyqueuosine reductase
+HNEDKCNO_01246	gene	queG		
+HNEDKCNO_01247	CDS	gstB	2.5.1.18	Glutathione S-transferase GST-6.0
+HNEDKCNO_01247	gene	gstB		
+HNEDKCNO_01248	CDS	gltB_1	1.4.1.13	Glutamate synthase [NADPH] large chain
+HNEDKCNO_01248	gene	gltB_1		
+HNEDKCNO_01249	CDS			hypothetical protein
+HNEDKCNO_01249	gene			
+HNEDKCNO_01250	CDS	scoB	2.8.3.5	putative succinyl-CoA:3-ketoacid coenzyme A transferase subunit B
+HNEDKCNO_01250	gene	scoB		
+HNEDKCNO_01251	CDS	scoA	2.8.3.5	putative succinyl-CoA:3-ketoacid coenzyme A transferase subunit A
+HNEDKCNO_01251	gene	scoA		
+HNEDKCNO_01252	CDS	rbsC_2		Ribose import permease protein RbsC
+HNEDKCNO_01252	gene	rbsC_2		
+HNEDKCNO_01253	CDS	rbsA_2	3.6.3.17	Ribose import ATP-binding protein RbsA
+HNEDKCNO_01253	gene	rbsA_2		
+HNEDKCNO_01254	CDS	dctM_4		C4-dicarboxylate TRAP transporter large permease protein DctM
+HNEDKCNO_01254	gene	dctM_4		
+HNEDKCNO_01255	CDS	afr_1	1.1.1.292	1,5-anhydro-D-fructose reductase
+HNEDKCNO_01255	gene	afr_1		
+HNEDKCNO_01256	CDS			hypothetical protein
+HNEDKCNO_01256	gene			
+HNEDKCNO_01257	CDS	afr_2	1.1.1.292	1,5-anhydro-D-fructose reductase
+HNEDKCNO_01257	gene	afr_2		
+HNEDKCNO_01258	CDS	iolI	5.3.99.11	Inosose isomerase
+HNEDKCNO_01258	gene	iolI		
+HNEDKCNO_01259	CDS	sucD_2	1.2.1.76	Succinate-semialdehyde dehydrogenase (acetylating)
+HNEDKCNO_01259	gene	sucD_2		
+HNEDKCNO_01260	CDS	ilvB	2.2.1.6	Acetolactate synthase large subunit
+HNEDKCNO_01260	gene	ilvB		
+HNEDKCNO_01261	CDS			hypothetical protein
+HNEDKCNO_01261	gene			
+HNEDKCNO_01262	CDS	mdtA_2		Multidrug resistance protein MdtA
+HNEDKCNO_01262	gene	mdtA_2		
+HNEDKCNO_01263	CDS	hflX		GTPase HflX
+HNEDKCNO_01263	gene	hflX		
+HNEDKCNO_01264	CDS	hfq		RNA-binding protein Hfq
+HNEDKCNO_01264	gene	hfq		
+HNEDKCNO_01265	CDS	trkH		Trk system potassium uptake protein TrkH
+HNEDKCNO_01265	gene	trkH		
+HNEDKCNO_01266	CDS	trkA		Trk system potassium uptake protein TrkA
+HNEDKCNO_01266	gene	trkA		
+HNEDKCNO_01267	CDS	aroC_2	4.2.3.5	Chorismate synthase
+HNEDKCNO_01267	gene	aroC_2		
+HNEDKCNO_01268	CDS			hypothetical protein
+HNEDKCNO_01268	gene			
+HNEDKCNO_01269	CDS	hupB		DNA-binding protein HRm
+HNEDKCNO_01269	gene	hupB		
+HNEDKCNO_01270	CDS			hypothetical protein
+HNEDKCNO_01270	gene			
+HNEDKCNO_01271	CDS	caiD_1	4.2.1.149	Carnitinyl-CoA dehydratase
+HNEDKCNO_01271	gene	caiD_1		
+HNEDKCNO_01272	CDS	glnT	6.3.1.2	Glutamine synthetase 3
+HNEDKCNO_01272	gene	glnT		
+HNEDKCNO_01273	CDS	gltB_2	1.4.1.13	Glutamate synthase [NADPH] large chain
+HNEDKCNO_01273	gene	gltB_2		
+HNEDKCNO_01274	CDS	nylA	3.5.2.12	6-aminohexanoate-cyclic-dimer hydrolase
+HNEDKCNO_01274	gene	nylA		
+HNEDKCNO_01275	CDS	bdhA	1.1.1.30	D-beta-hydroxybutyrate dehydrogenase
+HNEDKCNO_01275	gene	bdhA		
+HNEDKCNO_01276	CDS	metG	6.1.1.10	Methionine--tRNA ligase
+HNEDKCNO_01276	gene	metG		
+HNEDKCNO_01277	CDS			hypothetical protein
+HNEDKCNO_01277	gene			
+HNEDKCNO_01278	CDS			hypothetical protein
+HNEDKCNO_01278	gene			
+HNEDKCNO_01279	CDS	lipB	2.3.1.181	Octanoyltransferase
+HNEDKCNO_01279	gene	lipB		
+HNEDKCNO_01280	CDS	ctaDII	1.9.3.1	Cytochrome c oxidase subunit 1-beta
+HNEDKCNO_01280	gene	ctaDII		
+HNEDKCNO_01281	CDS	walR		Transcriptional regulatory protein WalR
+HNEDKCNO_01281	gene	walR		
+HNEDKCNO_01282	CDS	ribA	3.5.4.25	GTP cyclohydrolase-2
+HNEDKCNO_01282	gene	ribA		
+HNEDKCNO_01283	CDS			hypothetical protein
+HNEDKCNO_01283	gene			
+HNEDKCNO_01284	CDS	hup		DNA-binding protein HU
+HNEDKCNO_01284	gene	hup		
+HNEDKCNO_01285	CDS	amn	3.2.2.4	AMP nucleosidase
+HNEDKCNO_01285	gene	amn		
+HNEDKCNO_01286	CDS			hypothetical protein
+HNEDKCNO_01286	gene			
+HNEDKCNO_01287	CDS	novR	4.1.-.-	Decarboxylase NovR
+HNEDKCNO_01287	gene	novR		
+HNEDKCNO_01288	CDS			hypothetical protein
+HNEDKCNO_01288	gene			
+HNEDKCNO_01289	CDS	mntB_2		Manganese transport system membrane protein MntB
+HNEDKCNO_01289	gene	mntB_2		
+HNEDKCNO_01290	CDS			hypothetical protein
+HNEDKCNO_01290	gene			
+HNEDKCNO_01291	CDS	mro	5.1.3.3	Aldose 1-epimerase
+HNEDKCNO_01291	gene	mro		
+HNEDKCNO_01292	CDS			hypothetical protein
+HNEDKCNO_01292	gene			
+HNEDKCNO_01293	CDS			hypothetical protein
+HNEDKCNO_01293	gene			
+HNEDKCNO_01294	CDS	dme	1.1.1.39	NAD-dependent malic enzyme
+HNEDKCNO_01294	gene	dme		
+HNEDKCNO_01295	CDS	rlmD	2.1.1.190	23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD
+HNEDKCNO_01295	gene	rlmD		
+HNEDKCNO_01296	CDS	bioI_2	1.14.15.12	Biotin biosynthesis cytochrome P450
+HNEDKCNO_01296	gene	bioI_2		
+HNEDKCNO_01297	CDS	cycM		Cytochrome c-552
+HNEDKCNO_01297	gene	cycM		
+HNEDKCNO_01298	CDS	appA		Oligopeptide-binding protein AppA
+HNEDKCNO_01298	gene	appA		
+HNEDKCNO_01299	CDS	yejB		Inner membrane ABC transporter permease protein YejB
+HNEDKCNO_01299	gene	yejB		
+HNEDKCNO_01300	CDS	lpxC	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+HNEDKCNO_01300	gene	lpxC		
+HNEDKCNO_01301	CDS	bamD		Outer membrane protein assembly factor BamD
+HNEDKCNO_01301	gene	bamD		
+HNEDKCNO_01302	CDS	recN		DNA repair protein RecN
+HNEDKCNO_01302	gene	recN		
+HNEDKCNO_01303	CDS		1.-.-.-	putative FAD-linked oxidoreductase
+HNEDKCNO_01303	gene			
+HNEDKCNO_01304	CDS			hypothetical protein
+HNEDKCNO_01304	gene			
+HNEDKCNO_01305	CDS	ypdF	3.4.11.-	Aminopeptidase YpdF
+HNEDKCNO_01305	gene	ypdF		
+HNEDKCNO_01306	CDS	cobT	6.6.1.2	Aerobic cobaltochelatase subunit CobT
+HNEDKCNO_01306	gene	cobT		
+HNEDKCNO_01307	CDS	garR	1.1.1.60	2-hydroxy-3-oxopropionate reductase
+HNEDKCNO_01307	gene	garR		
+HNEDKCNO_01308	CDS	bcr_1		Bicyclomycin resistance protein
+HNEDKCNO_01308	gene	bcr_1		
+HNEDKCNO_01309	CDS	soxB_1	1.5.3.1	Sarcosine oxidase subunit beta
+HNEDKCNO_01309	gene	soxB_1		
+HNEDKCNO_01310	CDS	soxD_1	1.5.3.1	Sarcosine oxidase subunit delta
+HNEDKCNO_01310	gene	soxD_1		
+HNEDKCNO_01311	CDS	soxA_2	1.5.3.1	Sarcosine oxidase subunit alpha
+HNEDKCNO_01311	gene	soxA_2		
+HNEDKCNO_01312	CDS			hypothetical protein
+HNEDKCNO_01312	gene			
+HNEDKCNO_01313	CDS	pgi	5.3.1.9	Glucose-6-phosphate isomerase
+HNEDKCNO_01313	gene	pgi		
+HNEDKCNO_01314	CDS	loiP	3.4.24.-	Metalloprotease LoiP
+HNEDKCNO_01314	gene	loiP		
+HNEDKCNO_01315	CDS			hypothetical protein
+HNEDKCNO_01315	gene			
+HNEDKCNO_01316	CDS	prs	2.7.6.1	Ribose-phosphate pyrophosphokinase
+HNEDKCNO_01316	gene	prs		
+HNEDKCNO_01317	CDS	nrgA		Ammonium transporter NrgA
+HNEDKCNO_01317	gene	nrgA		
+HNEDKCNO_01318	CDS	glnB		Nitrogen regulatory protein P-II 1
+HNEDKCNO_01318	gene	glnB		
+HNEDKCNO_01319	CDS	pbpG		Penicillin-binding protein 2D
+HNEDKCNO_01319	gene	pbpG		
+HNEDKCNO_01320	CDS			hypothetical protein
+HNEDKCNO_01320	gene			
+HNEDKCNO_01321	CDS	mlaA		putative phospholipid-binding lipoprotein MlaA
+HNEDKCNO_01321	gene	mlaA		
+HNEDKCNO_01322	CDS	csgA		C-factor
+HNEDKCNO_01322	gene	csgA		
+HNEDKCNO_01323	CDS			hypothetical protein
+HNEDKCNO_01323	gene			
+HNEDKCNO_01324	tRNA			tRNA-Gln(ttg)
+HNEDKCNO_01324	gene			
+HNEDKCNO_01325	CDS			hypothetical protein
+HNEDKCNO_01325	gene			
+HNEDKCNO_01326	CDS			hypothetical protein
+HNEDKCNO_01326	gene			
+HNEDKCNO_01327	CDS	ptsI	2.7.3.9	Phosphoenolpyruvate-protein phosphotransferase
+HNEDKCNO_01327	gene	ptsI		
+HNEDKCNO_01328	CDS			hypothetical protein
+HNEDKCNO_01328	gene			
+HNEDKCNO_01329	CDS	ctb		Group 3 truncated hemoglobin ctb
+HNEDKCNO_01329	gene	ctb		
+HNEDKCNO_01330	CDS			hypothetical protein
+HNEDKCNO_01330	gene			
+HNEDKCNO_01331	CDS	nsrR		HTH-type transcriptional repressor NsrR
+HNEDKCNO_01331	gene	nsrR		
+HNEDKCNO_01332	CDS			hypothetical protein
+HNEDKCNO_01332	gene			
+HNEDKCNO_01333	CDS	bepG		Efflux pump membrane transporter BepG
+HNEDKCNO_01333	gene	bepG		
+HNEDKCNO_01334	CDS			hypothetical protein
+HNEDKCNO_01334	gene			
+HNEDKCNO_01335	CDS			hypothetical protein
+HNEDKCNO_01335	gene			
+HNEDKCNO_01336	CDS	ywlC	2.7.7.87	Threonylcarbamoyl-AMP synthase
+HNEDKCNO_01336	gene	ywlC		
+HNEDKCNO_01337	CDS	dmdC_2	1.3.8.-	3-methylmercaptopropionyl-CoA dehydrogenase
+HNEDKCNO_01337	gene	dmdC_2		
+HNEDKCNO_01338	CDS	gloB_1	3.1.2.6	Hydroxyacylglutathione hydrolase
+HNEDKCNO_01338	gene	gloB_1		
+HNEDKCNO_01339	CDS	ctaH	1.9.3.1	Cytochrome c oxidase subunit 4
+HNEDKCNO_01339	gene	ctaH		
+HNEDKCNO_01340	CDS			hypothetical protein
+HNEDKCNO_01340	gene			
+HNEDKCNO_01341	CDS	ygaZ		Inner membrane protein YgaZ
+HNEDKCNO_01341	gene	ygaZ		
+HNEDKCNO_01342	CDS	fdhD		Sulfurtransferase FdhD
+HNEDKCNO_01342	gene	fdhD		
+HNEDKCNO_01343	CDS	proA	1.2.1.41	Gamma-glutamyl phosphate reductase
+HNEDKCNO_01343	gene	proA		
+HNEDKCNO_01344	CDS			hypothetical protein
+HNEDKCNO_01344	gene			
+HNEDKCNO_01345	CDS			hypothetical protein
+HNEDKCNO_01345	gene			
+HNEDKCNO_01346	CDS			hypothetical protein
+HNEDKCNO_01346	gene			
+HNEDKCNO_01347	CDS	bcp	1.11.1.15	Putative peroxiredoxin bcp
+HNEDKCNO_01347	gene	bcp		
+HNEDKCNO_01348	CDS			hypothetical protein
+HNEDKCNO_01348	gene			
+HNEDKCNO_01349	CDS	mepM	3.4.24.-	Murein DD-endopeptidase MepM
+HNEDKCNO_01349	gene	mepM		
+HNEDKCNO_01350	CDS			hypothetical protein
+HNEDKCNO_01350	gene			
+HNEDKCNO_01351	CDS			hypothetical protein
+HNEDKCNO_01351	gene			
+HNEDKCNO_01352	CDS	leuA	2.3.3.13	2-isopropylmalate synthase
+HNEDKCNO_01352	gene	leuA		
+HNEDKCNO_01353	CDS	rng	3.1.26.-	Ribonuclease G
+HNEDKCNO_01353	gene	rng		
+HNEDKCNO_01354	CDS	echA8_2	4.2.1.17	putative enoyl-CoA hydratase echA8
+HNEDKCNO_01354	gene	echA8_2		
+HNEDKCNO_01355	CDS	mutM	3.2.2.23	Formamidopyrimidine-DNA glycosylase
+HNEDKCNO_01355	gene	mutM		
+HNEDKCNO_01356	CDS	ubiE	2.1.1.163	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE
+HNEDKCNO_01356	gene	ubiE		
+HNEDKCNO_01357	CDS			hypothetical protein
+HNEDKCNO_01357	gene			
+HNEDKCNO_01358	CDS	cdhR_3		HTH-type transcriptional regulator CdhR
+HNEDKCNO_01358	gene	cdhR_3		
+HNEDKCNO_01359	CDS	guaA_2	6.3.5.2	GMP synthase [glutamine-hydrolyzing]
+HNEDKCNO_01359	gene	guaA_2		
+HNEDKCNO_01360	CDS	lldR_1		Putative L-lactate dehydrogenase operon regulatory protein
+HNEDKCNO_01360	gene	lldR_1		
+HNEDKCNO_01361	CDS	abo_3	1.5.3.19	4-methylaminobutanoate oxidase (formaldehyde-forming)
+HNEDKCNO_01361	gene	abo_3		
+HNEDKCNO_01362	CDS	glnA	6.3.1.2	Glutamine synthetase
+HNEDKCNO_01362	gene	glnA		
+HNEDKCNO_01363	CDS	purF	2.4.2.14	Amidophosphoribosyltransferase
+HNEDKCNO_01363	gene	purF		
+HNEDKCNO_01364	CDS			hypothetical protein
+HNEDKCNO_01364	gene			
+HNEDKCNO_01365	CDS	gltA	1.4.1.13	Glutamate synthase [NADPH] large chain
+HNEDKCNO_01365	gene	gltA		
+HNEDKCNO_01366	CDS			hypothetical protein
+HNEDKCNO_01366	gene			
+HNEDKCNO_01367	CDS		3.5.-.-	Hydrolase
+HNEDKCNO_01367	gene			
+HNEDKCNO_01368	CDS			hypothetical protein
+HNEDKCNO_01368	gene			
+HNEDKCNO_01369	CDS	ilvE_1	2.6.1.42	Branched-chain-amino-acid aminotransferase
+HNEDKCNO_01369	gene	ilvE_1		
+HNEDKCNO_01370	CDS	petA	1.10.2.2	Ubiquinol-cytochrome c reductase iron-sulfur subunit
+HNEDKCNO_01370	gene	petA		
+HNEDKCNO_01371	CDS	petB		Cytochrome b
+HNEDKCNO_01371	gene	petB		
+HNEDKCNO_01372	CDS			hypothetical protein
+HNEDKCNO_01372	gene			
+HNEDKCNO_01373	CDS	dmdA	2.1.1.269	Dimethylsulfonioproprionate demethylase DmdA
+HNEDKCNO_01373	gene	dmdA		
+HNEDKCNO_01374	CDS	ccr	1.3.1.86	Crotonyl-CoA reductase
+HNEDKCNO_01374	gene	ccr		
+HNEDKCNO_01375	CDS			hypothetical protein
+HNEDKCNO_01375	gene			
+HNEDKCNO_01376	CDS	fmt	2.1.2.9	Methionyl-tRNA formyltransferase
+HNEDKCNO_01376	gene	fmt		
+HNEDKCNO_01377	CDS	def_1	3.5.1.88	Peptide deformylase
+HNEDKCNO_01377	gene	def_1		
+HNEDKCNO_01378	CDS	def_2	3.5.1.88	Peptide deformylase
+HNEDKCNO_01378	gene	def_2		
+HNEDKCNO_01379	CDS	patB	4.4.1.8	Cystathionine beta-lyase PatB
+HNEDKCNO_01379	gene	patB		
+HNEDKCNO_01380	CDS			hypothetical protein
+HNEDKCNO_01380	gene			
+HNEDKCNO_01381	CDS	gatC	6.3.5.-	Glutamyl-tRNA(Gln) amidotransferase subunit C
+HNEDKCNO_01381	gene	gatC		
+HNEDKCNO_01382	CDS	gatA_1	6.3.5.7	Glutamyl-tRNA(Gln) amidotransferase subunit A
+HNEDKCNO_01382	gene	gatA_1		
+HNEDKCNO_01383	CDS			hypothetical protein
+HNEDKCNO_01383	gene			
+HNEDKCNO_01384	CDS	rpmG		50S ribosomal protein L33
+HNEDKCNO_01384	gene	rpmG		
+HNEDKCNO_01385	CDS	ybhL_2		Inner membrane protein YbhL
+HNEDKCNO_01385	gene	ybhL_2		
+HNEDKCNO_01386	CDS	cutM	1.2.5.3	Carbon monoxide dehydrogenase medium chain
+HNEDKCNO_01386	gene	cutM		
+HNEDKCNO_01387	CDS	dapD	2.3.1.117	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-succinyltransferase
+HNEDKCNO_01387	gene	dapD		
+HNEDKCNO_01388	CDS			hypothetical protein
+HNEDKCNO_01388	gene			
+HNEDKCNO_01389	CDS			hypothetical protein
+HNEDKCNO_01389	gene			
+HNEDKCNO_01390	CDS			hypothetical protein
+HNEDKCNO_01390	gene			
+HNEDKCNO_01391	CDS	hslR		Heat shock protein 15
+HNEDKCNO_01391	gene	hslR		
+HNEDKCNO_01392	CDS	fdxA		Ferredoxin-2
+HNEDKCNO_01392	gene	fdxA		
+HNEDKCNO_01393	CDS	carD		RNA polymerase-binding transcription factor CarD
+HNEDKCNO_01393	gene	carD		
+HNEDKCNO_01394	CDS	cobV	2.7.8.26	Adenosylcobinamide-GDP ribazoletransferase
+HNEDKCNO_01394	gene	cobV		
+HNEDKCNO_01395	CDS			hypothetical protein
+HNEDKCNO_01395	gene			
+HNEDKCNO_01396	CDS			hypothetical protein
+HNEDKCNO_01396	gene			
+HNEDKCNO_01397	CDS	fabG_3	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+HNEDKCNO_01397	gene	fabG_3		
+HNEDKCNO_01398	CDS	ureG		Urease accessory protein UreG
+HNEDKCNO_01398	gene	ureG		
+HNEDKCNO_01399	CDS	ureF		Urease accessory protein UreF
+HNEDKCNO_01399	gene	ureF		
+HNEDKCNO_01400	CDS	ureE1		Urease accessory protein UreE 1
+HNEDKCNO_01400	gene	ureE1		
+HNEDKCNO_01401	CDS	ureC1	3.5.1.5	Urease subunit alpha 1
+HNEDKCNO_01401	gene	ureC1		
+HNEDKCNO_01402	CDS	ureB1	3.5.1.5	Urease subunit beta 1
+HNEDKCNO_01402	gene	ureB1		
+HNEDKCNO_01403	CDS	lptB_2	3.6.3.-	Lipopolysaccharide export system ATP-binding protein LptB
+HNEDKCNO_01403	gene	lptB_2		
+HNEDKCNO_01404	CDS	livF_3		High-affinity branched-chain amino acid transport ATP-binding protein LivF
+HNEDKCNO_01404	gene	livF_3		
+HNEDKCNO_01405	CDS		6.2.1.3	Long-chain-fatty-acid--CoA ligase FadD15
+HNEDKCNO_01405	gene			
+HNEDKCNO_01406	CDS			hypothetical protein
+HNEDKCNO_01406	gene			
+HNEDKCNO_01407	CDS	gloB_2	3.1.2.6	Hydroxyacylglutathione hydrolase GloB
+HNEDKCNO_01407	gene	gloB_2		
+HNEDKCNO_01408	CDS			hypothetical protein
+HNEDKCNO_01408	gene			
+HNEDKCNO_01409	CDS	atpH		ATP synthase subunit delta
+HNEDKCNO_01409	gene	atpH		
+HNEDKCNO_01410	CDS	atpA	3.6.3.14	ATP synthase subunit alpha
+HNEDKCNO_01410	gene	atpA		
+HNEDKCNO_01411	CDS	atpG		ATP synthase gamma chain
+HNEDKCNO_01411	gene	atpG		
+HNEDKCNO_01412	CDS	atpD	3.6.3.14	ATP synthase subunit beta
+HNEDKCNO_01412	gene	atpD		
+HNEDKCNO_01413	CDS	atpC		ATP synthase epsilon chain
+HNEDKCNO_01413	gene	atpC		
+HNEDKCNO_01414	CDS			hypothetical protein
+HNEDKCNO_01414	gene			
+HNEDKCNO_01415	CDS	qorA_2	1.6.5.5	Quinone oxidoreductase 1
+HNEDKCNO_01415	gene	qorA_2		
+HNEDKCNO_01416	CDS	cynR		HTH-type transcriptional regulator CynR
+HNEDKCNO_01416	gene	cynR		
+HNEDKCNO_01417	CDS	yhhW	1.13.11.24	Quercetin 2,3-dioxygenase
+HNEDKCNO_01417	gene	yhhW		
+HNEDKCNO_01418	CDS	yqjG	1.8.-.-	Glutathionyl-hydroquinone reductase YqjG
+HNEDKCNO_01418	gene	yqjG		
+HNEDKCNO_01419	CDS	mcpC		Methyl-accepting chemotaxis protein McpC
+HNEDKCNO_01419	gene	mcpC		
+HNEDKCNO_01420	CDS	cya	4.6.1.1	Adenylate cyclase
+HNEDKCNO_01420	gene	cya		
+HNEDKCNO_01421	CDS	dcsD	2.6.99.3	O-ureido-L-serine synthase
+HNEDKCNO_01421	gene	dcsD		
+HNEDKCNO_01422	CDS	opuAA_2	3.6.3.32	Glycine betaine transport ATP-binding protein OpuAA
+HNEDKCNO_01422	gene	opuAA_2		
+HNEDKCNO_01423	CDS	proW		Glycine betaine/proline betaine transport system permease protein ProW
+HNEDKCNO_01423	gene	proW		
+HNEDKCNO_01424	CDS			hypothetical protein
+HNEDKCNO_01424	gene			
+HNEDKCNO_01425	CDS			hypothetical protein
+HNEDKCNO_01425	gene			
+HNEDKCNO_01426	CDS	uctC_2	2.8.3.19	Acetyl-CoA:oxalate CoA-transferase
+HNEDKCNO_01426	gene	uctC_2		
+HNEDKCNO_01427	CDS	catD_2	3.1.1.24	3-oxoadipate enol-lactonase 2
+HNEDKCNO_01427	gene	catD_2		
+HNEDKCNO_01428	CDS	aldA	1.2.1.3	Putative aldehyde dehydrogenase AldA
+HNEDKCNO_01428	gene	aldA		
+HNEDKCNO_01429	CDS	luxA	1.14.14.3	Alkanal monooxygenase alpha chain
+HNEDKCNO_01429	gene	luxA		
+HNEDKCNO_01430	CDS	caiD_2	4.2.1.149	Carnitinyl-CoA dehydratase
+HNEDKCNO_01430	gene	caiD_2		
+HNEDKCNO_01431	CDS	lcdH	1.1.1.108	L-carnitine dehydrogenase
+HNEDKCNO_01431	gene	lcdH		
+HNEDKCNO_01432	CDS	cdhR_4		HTH-type transcriptional regulator CdhR
+HNEDKCNO_01432	gene	cdhR_4		
+HNEDKCNO_01433	CDS	kce_2	2.3.1.247	3-keto-5-aminohexanoate cleavage enzyme
+HNEDKCNO_01433	gene	kce_2		
+HNEDKCNO_01434	CDS	carC	1.3.1.108	Caffeyl-CoA reductase-Etf complex subunit CarC
+HNEDKCNO_01434	gene	carC		
+HNEDKCNO_01435	CDS	msrC	1.8.4.14	Free methionine-R-sulfoxide reductase
+HNEDKCNO_01435	gene	msrC		
+HNEDKCNO_01436	CDS	thlA	2.3.1.9	Acetyl-CoA acetyltransferase
+HNEDKCNO_01436	gene	thlA		
+HNEDKCNO_01437	CDS			Putative anti-sigma factor antagonist
+HNEDKCNO_01437	gene			
+HNEDKCNO_01438	CDS			hypothetical protein
+HNEDKCNO_01438	gene			
+HNEDKCNO_01439	CDS	ywrD	2.3.2.2	Putative gamma-glutamyltransferase YwrD
+HNEDKCNO_01439	gene	ywrD		
+HNEDKCNO_01440	CDS	hspQ		Heat shock protein HspQ
+HNEDKCNO_01440	gene	hspQ		
+HNEDKCNO_01441	CDS			hypothetical protein
+HNEDKCNO_01441	gene			
+HNEDKCNO_01442	CDS	lolA		Outer-membrane lipoprotein carrier protein
+HNEDKCNO_01442	gene	lolA		
+HNEDKCNO_01443	CDS	ftsK		DNA translocase FtsK
+HNEDKCNO_01443	gene	ftsK		
+HNEDKCNO_01444	CDS	dapL	2.6.1.83	LL-diaminopimelate aminotransferase
+HNEDKCNO_01444	gene	dapL		
+HNEDKCNO_01445	CDS	gatA_2	6.3.5.7	Glutamyl-tRNA(Gln) amidotransferase subunit A
+HNEDKCNO_01445	gene	gatA_2		
+HNEDKCNO_01446	CDS			hypothetical protein
+HNEDKCNO_01446	gene			
+HNEDKCNO_01447	CDS			hypothetical protein
+HNEDKCNO_01447	gene			
+HNEDKCNO_01448	CDS	pta	2.3.1.8	Phosphate acetyltransferase
+HNEDKCNO_01448	gene	pta		
+HNEDKCNO_01449	CDS	xsc_2	2.3.3.15	Sulfoacetaldehyde acetyltransferase
+HNEDKCNO_01449	gene	xsc_2		
+HNEDKCNO_01450	CDS	lldR_2		Putative L-lactate dehydrogenase operon regulatory protein
+HNEDKCNO_01450	gene	lldR_2		
+HNEDKCNO_01451	CDS			hypothetical protein
+HNEDKCNO_01451	gene			
+HNEDKCNO_01452	CDS			hypothetical protein
+HNEDKCNO_01452	gene			
+HNEDKCNO_01453	CDS	soxD_2	1.5.3.1	Sarcosine oxidase subunit delta
+HNEDKCNO_01453	gene	soxD_2		
+HNEDKCNO_01454	CDS	soxB_2	1.5.3.1	Sarcosine oxidase subunit beta
+HNEDKCNO_01454	gene	soxB_2		
+HNEDKCNO_01455	CDS	ribN_6		Riboflavin transporter
+HNEDKCNO_01455	gene	ribN_6		
+HNEDKCNO_01456	CDS	rpoC	2.7.7.6	DNA-directed RNA polymerase subunit beta'
+HNEDKCNO_01456	gene	rpoC		
+HNEDKCNO_01457	CDS	sodB	1.15.1.1	Superoxide dismutase [Fe]
+HNEDKCNO_01457	gene	sodB		
+HNEDKCNO_01458	CDS	soxG	1.5.3.1	Sarcosine oxidase subunit gamma
+HNEDKCNO_01458	gene	soxG		
+HNEDKCNO_01459	CDS	soxA_3	1.5.3.1	Sarcosine oxidase subunit alpha
+HNEDKCNO_01459	gene	soxA_3		
+HNEDKCNO_01460	CDS	rpsD		30S ribosomal protein S4
+HNEDKCNO_01460	gene	rpsD		
+HNEDKCNO_01461	CDS	tag	3.2.2.20	DNA-3-methyladenine glycosylase 1
+HNEDKCNO_01461	gene	tag		
+HNEDKCNO_01462	CDS	pdeB	3.1.4.52	Cyclic di-GMP phosphodiesterase PdeB
+HNEDKCNO_01462	gene	pdeB		
+HNEDKCNO_01463	CDS	dctM_5		C4-dicarboxylate TRAP transporter large permease protein DctM
+HNEDKCNO_01463	gene	dctM_5		
+HNEDKCNO_01464	CDS	takP		Alpha-keto acid-binding periplasmic protein TakP
+HNEDKCNO_01464	gene	takP		
+HNEDKCNO_01465	CDS			hypothetical protein
+HNEDKCNO_01465	gene			
+HNEDKCNO_01466	CDS	alkJ	1.1.99.-	Alcohol dehydrogenase [acceptor]
+HNEDKCNO_01466	gene	alkJ		
+HNEDKCNO_01467	CDS	iclR_2		Transcriptional repressor IclR
+HNEDKCNO_01467	gene	iclR_2		
+HNEDKCNO_01468	CDS	bglA	3.2.1.21	Beta-glucosidase A
+HNEDKCNO_01468	gene	bglA		
+HNEDKCNO_01469	CDS			hypothetical protein
+HNEDKCNO_01469	gene			
+HNEDKCNO_01470	CDS	tktA	2.2.1.1	Transketolase 1
+HNEDKCNO_01470	gene	tktA		
+HNEDKCNO_01471	CDS			hypothetical protein
+HNEDKCNO_01471	gene			
+HNEDKCNO_01472	CDS	nifS	2.8.1.7	Cysteine desulfurase NifS
+HNEDKCNO_01472	gene	nifS		
+HNEDKCNO_01473	CDS	iscR		HTH-type transcriptional regulator IscR
+HNEDKCNO_01473	gene	iscR		
+HNEDKCNO_01474	CDS			hypothetical protein
+HNEDKCNO_01474	gene			
+HNEDKCNO_01475	CDS		2.1.3.1	Methylmalonyl-CoA carboxyltransferase 12S subunit
+HNEDKCNO_01475	gene			
+HNEDKCNO_01476	CDS	accA1		Acetyl-/propionyl-coenzyme A carboxylase alpha chain
+HNEDKCNO_01476	gene	accA1		
+HNEDKCNO_01477	CDS	ndhC	1.6.5.-	NAD(P)H-quinone oxidoreductase subunit 3
+HNEDKCNO_01477	gene	ndhC		
+HNEDKCNO_01478	CDS	nuoB	1.6.5.11	NADH-quinone oxidoreductase subunit B
+HNEDKCNO_01478	gene	nuoB		
+HNEDKCNO_01479	CDS	nqo5	1.6.5.11	NADH-quinone oxidoreductase chain 5
+HNEDKCNO_01479	gene	nqo5		
+HNEDKCNO_01480	CDS			hypothetical protein
+HNEDKCNO_01480	gene			
+HNEDKCNO_01481	CDS	bcr_2		Bicyclomycin resistance protein
+HNEDKCNO_01481	gene	bcr_2		
+HNEDKCNO_01482	CDS		1.-.-.-	putative FAD-linked oxidoreductase
+HNEDKCNO_01482	gene			
+HNEDKCNO_01483	CDS	ydaF	2.3.1.-	Putative ribosomal N-acetyltransferase YdaF
+HNEDKCNO_01483	gene	ydaF		
+HNEDKCNO_01484	CDS		3.4.24.-	putative zinc protease
+HNEDKCNO_01484	gene			
+HNEDKCNO_01485	CDS	dht	3.5.2.2	D-hydantoinase/dihydropyrimidinase
+HNEDKCNO_01485	gene	dht		
+HNEDKCNO_01486	CDS	ssuB	3.6.3.-	Aliphatic sulfonates import ATP-binding protein SsuB
+HNEDKCNO_01486	gene	ssuB		
+HNEDKCNO_01487	CDS	ribX_1		Riboflavin transport system permease protein RibX
+HNEDKCNO_01487	gene	ribX_1		
+HNEDKCNO_01488	CDS	ribX_2		Riboflavin transport system permease protein RibX
+HNEDKCNO_01488	gene	ribX_2		
+HNEDKCNO_01489	CDS			Putative thiamine biosynthesis protein
+HNEDKCNO_01489	gene			
+HNEDKCNO_01490	CDS	ntdC_2	1.1.1.361	Glucose-6-phosphate 3-dehydrogenase
+HNEDKCNO_01490	gene	ntdC_2		
+HNEDKCNO_01491	CDS	dppC		Dipeptide transport system permease protein DppC
+HNEDKCNO_01491	gene	dppC		
+HNEDKCNO_01492	CDS	oppD_2		Oligopeptide transport ATP-binding protein OppD
+HNEDKCNO_01492	gene	oppD_2		
+HNEDKCNO_01493	CDS	gsiA_1	3.6.3.-	Glutathione import ATP-binding protein GsiA
+HNEDKCNO_01493	gene	gsiA_1		
+HNEDKCNO_01494	CDS			hypothetical protein
+HNEDKCNO_01494	gene			
+HNEDKCNO_01495	CDS			hypothetical protein
+HNEDKCNO_01495	gene			
+HNEDKCNO_01496	CDS	mch	4.2.1.148	Mesaconyl-CoA hydratase
+HNEDKCNO_01496	gene	mch		
+HNEDKCNO_01497	CDS			hypothetical protein
+HNEDKCNO_01497	gene			
+HNEDKCNO_01498	CDS	sdhC		Succinate dehydrogenase cytochrome b556 subunit
+HNEDKCNO_01498	gene	sdhC		
+HNEDKCNO_01499	CDS			hypothetical protein
+HNEDKCNO_01499	gene			
+HNEDKCNO_01500	CDS	sdhA	1.3.5.1	Succinate dehydrogenase flavoprotein subunit
+HNEDKCNO_01500	gene	sdhA		
+HNEDKCNO_01501	CDS		1.-.-.-	putative oxidoreductase
+HNEDKCNO_01501	gene			
+HNEDKCNO_01502	CDS	kynB	3.5.1.9	Kynurenine formamidase
+HNEDKCNO_01502	gene	kynB		
+HNEDKCNO_01503	CDS	fabG_4	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+HNEDKCNO_01503	gene	fabG_4		
+HNEDKCNO_01504	CDS			hypothetical protein
+HNEDKCNO_01504	gene			
+HNEDKCNO_01505	CDS			hypothetical protein
+HNEDKCNO_01505	gene			
+HNEDKCNO_01506	CDS			hypothetical protein
+HNEDKCNO_01506	gene			
+HNEDKCNO_01507	CDS	xylA	5.3.1.5	Xylose isomerase
+HNEDKCNO_01507	gene	xylA		
+HNEDKCNO_01508	CDS	ccp_2	1.11.1.5	Cytochrome c551 peroxidase
+HNEDKCNO_01508	gene	ccp_2		
+HNEDKCNO_01509	CDS			hypothetical protein
+HNEDKCNO_01509	gene			
+HNEDKCNO_01510	CDS	mhpC	3.7.1.14	2-hydroxy-6-oxononadienedioate/2-hydroxy-6-oxononatrienedioate hydrolase
+HNEDKCNO_01510	gene	mhpC		
+HNEDKCNO_01511	CDS	metA	2.3.1.46	Homoserine O-succinyltransferase
+HNEDKCNO_01511	gene	metA		
+HNEDKCNO_01512	CDS			hypothetical protein
+HNEDKCNO_01512	gene			
+HNEDKCNO_01513	CDS	rppH_2	3.6.1.-	RNA pyrophosphohydrolase
+HNEDKCNO_01513	gene	rppH_2		
+HNEDKCNO_01514	CDS	idi	5.3.3.2	Isopentenyl-diphosphate Delta-isomerase
+HNEDKCNO_01514	gene	idi		
+HNEDKCNO_01515	CDS			hypothetical protein
+HNEDKCNO_01515	gene			
+HNEDKCNO_01516	CDS	ilvE_2	2.6.1.42	Branched-chain-amino-acid aminotransferase
+HNEDKCNO_01516	gene	ilvE_2		
+HNEDKCNO_01517	CDS	dppB_3		Dipeptide transport system permease protein DppB
+HNEDKCNO_01517	gene	dppB_3		
+HNEDKCNO_01518	CDS	gsiD_4		Glutathione transport system permease protein GsiD
+HNEDKCNO_01518	gene	gsiD_4		
+HNEDKCNO_01519	CDS	gsiA_2	3.6.3.-	Glutathione import ATP-binding protein GsiA
+HNEDKCNO_01519	gene	gsiA_2		
+HNEDKCNO_01520	CDS		3.1.1.-	Putative serine esterase
+HNEDKCNO_01520	gene			
+HNEDKCNO_01521	CDS	rpiA	5.3.1.6	Ribose-5-phosphate isomerase A
+HNEDKCNO_01521	gene	rpiA		
+HNEDKCNO_01522	CDS	garB	1.8.1.16	Glutathione amide reductase
+HNEDKCNO_01522	gene	garB		
+HNEDKCNO_01523	CDS	hflK_2		Modulator of FtsH protease HflK
+HNEDKCNO_01523	gene	hflK_2		
+HNEDKCNO_01524	CDS	hflC		Modulator of FtsH protease HflC
+HNEDKCNO_01524	gene	hflC		
+HNEDKCNO_01525	CDS			hypothetical protein
+HNEDKCNO_01525	gene			
+HNEDKCNO_01526	CDS	degP	3.4.21.107	Periplasmic serine endoprotease DegP
+HNEDKCNO_01526	gene	degP		
+HNEDKCNO_01527	CDS			hypothetical protein
+HNEDKCNO_01527	gene			
+HNEDKCNO_01528	CDS	dnaE2_2	2.7.7.7	Error-prone DNA polymerase
+HNEDKCNO_01528	gene	dnaE2_2		
+HNEDKCNO_01529	CDS	fdxE		Ferredoxin-6
+HNEDKCNO_01529	gene	fdxE		
+HNEDKCNO_01530	CDS	pepF1	3.4.24.-	Oligoendopeptidase F, plasmid
+HNEDKCNO_01530	gene	pepF1		
+HNEDKCNO_01531	CDS	mrdA	3.4.16.4	Peptidoglycan D,D-transpeptidase MrdA
+HNEDKCNO_01531	gene	mrdA		
+HNEDKCNO_01532	tRNA			tRNA-Ala(ggc)
+HNEDKCNO_01532	gene			
+HNEDKCNO_01533	CDS			hypothetical protein
+HNEDKCNO_01533	gene			
+HNEDKCNO_01534	CDS			hypothetical protein
+HNEDKCNO_01534	gene			
+HNEDKCNO_01535	CDS	mcbR_3		HTH-type transcriptional regulator McbR
+HNEDKCNO_01535	gene	mcbR_3		
+HNEDKCNO_01536	CDS	accA	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit alpha
+HNEDKCNO_01536	gene	accA		
+HNEDKCNO_01537	CDS	mcl1	4.1.3.24	L-malyl-CoA/beta-methylmalyl-CoA lyase
+HNEDKCNO_01537	gene	mcl1		
+HNEDKCNO_01538	CDS	dnaN	2.7.7.7	DNA polymerase III subunit beta
+HNEDKCNO_01538	gene	dnaN		
+HNEDKCNO_01539	CDS	dnaA		Chromosomal replication initiator protein DnaA
+HNEDKCNO_01539	gene	dnaA		
+HNEDKCNO_01540	CDS	rpsT		30S ribosomal protein S20
+HNEDKCNO_01540	gene	rpsT		
+HNEDKCNO_01541	CDS			Purine-binding protein
+HNEDKCNO_01541	gene			
+HNEDKCNO_01542	CDS	yhdN_2	1.1.1.-	General stress protein 69
+HNEDKCNO_01542	gene	yhdN_2		
+HNEDKCNO_01543	CDS	dauA	1.4.99.6	FAD-dependent catabolic D-arginine dehydrogenase DauA
+HNEDKCNO_01543	gene	dauA		
+HNEDKCNO_01544	CDS			hypothetical protein
+HNEDKCNO_01544	gene			
+HNEDKCNO_01545	CDS			hypothetical protein
+HNEDKCNO_01545	gene			
+HNEDKCNO_01546	CDS	sucC_2	6.2.1.5	Succinate--CoA ligase [ADP-forming] subunit beta
+HNEDKCNO_01546	gene	sucC_2		
+HNEDKCNO_01547	CDS	sucD_3	6.2.1.5	Succinate--CoA ligase [ADP-forming] subunit alpha
+HNEDKCNO_01547	gene	sucD_3		
+HNEDKCNO_01548	CDS			hypothetical protein
+HNEDKCNO_01548	gene			
+HNEDKCNO_01549	CDS			hypothetical protein
+HNEDKCNO_01549	gene			
+HNEDKCNO_01550	CDS			hypothetical protein
+HNEDKCNO_01550	gene			
+HNEDKCNO_01551	CDS			hypothetical protein
+HNEDKCNO_01551	gene			
+HNEDKCNO_01552	CDS			hypothetical protein
+HNEDKCNO_01552	gene			
+HNEDKCNO_01553	CDS			hypothetical protein
+HNEDKCNO_01553	gene			
+HNEDKCNO_01554	CDS			hypothetical protein
+HNEDKCNO_01554	gene			
+HNEDKCNO_01555	CDS	nagL	5.2.1.4	Maleylpyruvate isomerase
+HNEDKCNO_01555	gene	nagL		
+HNEDKCNO_01556	CDS	mprA		Transcriptional repressor MprA
+HNEDKCNO_01556	gene	mprA		
+HNEDKCNO_01557	CDS	hmgA	1.13.11.5	Homogentisate 1,2-dioxygenase
+HNEDKCNO_01557	gene	hmgA		

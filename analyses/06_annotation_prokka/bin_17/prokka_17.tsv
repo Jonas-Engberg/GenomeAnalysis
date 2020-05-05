@@ -1,0 +1,461 @@
+locus_tag	ftype	gene	EC_number	product
+OAIKLJOC_00001	CDS			hypothetical protein
+OAIKLJOC_00001	gene			
+OAIKLJOC_00002	CDS			hypothetical protein
+OAIKLJOC_00002	gene			
+OAIKLJOC_00003	CDS	alyA	4.2.2.3	Alginate lyase
+OAIKLJOC_00003	gene	alyA		
+OAIKLJOC_00004	CDS			hypothetical protein
+OAIKLJOC_00004	gene			
+OAIKLJOC_00005	CDS	fixL	2.7.13.3	Sensor protein FixL
+OAIKLJOC_00005	gene	fixL		
+OAIKLJOC_00006	CDS			hypothetical protein
+OAIKLJOC_00006	gene			
+OAIKLJOC_00007	CDS			hypothetical protein
+OAIKLJOC_00007	gene			
+OAIKLJOC_00008	CDS	iolG	1.1.1.18	Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+OAIKLJOC_00008	gene	iolG		
+OAIKLJOC_00009	CDS			hypothetical protein
+OAIKLJOC_00009	gene			
+OAIKLJOC_00010	CDS	patA	2.6.1.-	Putative N-acetyl-LL-diaminopimelate aminotransferase
+OAIKLJOC_00010	gene	patA		
+OAIKLJOC_00011	CDS	cckA		Sensor kinase CckA
+OAIKLJOC_00011	gene	cckA		
+OAIKLJOC_00012	CDS			Cyclic AMP receptor protein
+OAIKLJOC_00012	gene			
+OAIKLJOC_00013	CDS	gdhA	1.4.1.3	Glutamate dehydrogenase
+OAIKLJOC_00013	gene	gdhA		
+OAIKLJOC_00014	CDS			hypothetical protein
+OAIKLJOC_00014	gene			
+OAIKLJOC_00015	CDS	czcA		Cobalt-zinc-cadmium resistance protein CzcA
+OAIKLJOC_00015	gene	czcA		
+OAIKLJOC_00016	CDS	rpsU		30S ribosomal protein S21
+OAIKLJOC_00016	gene	rpsU		
+OAIKLJOC_00017	CDS			hypothetical protein
+OAIKLJOC_00017	gene			
+OAIKLJOC_00018	CDS			hypothetical protein
+OAIKLJOC_00018	gene			
+OAIKLJOC_00019	CDS	garR	1.1.1.60	2-hydroxy-3-oxopropionate reductase
+OAIKLJOC_00019	gene	garR		
+OAIKLJOC_00020	CDS			hypothetical protein
+OAIKLJOC_00020	gene			
+OAIKLJOC_00021	CDS			hypothetical protein
+OAIKLJOC_00021	gene			
+OAIKLJOC_00022	CDS	ahcY	3.3.1.1	Adenosylhomocysteinase
+OAIKLJOC_00022	gene	ahcY		
+OAIKLJOC_00023	CDS			hypothetical protein
+OAIKLJOC_00023	gene			
+OAIKLJOC_00024	CDS			hypothetical protein
+OAIKLJOC_00024	gene			
+OAIKLJOC_00025	CDS	sigA		RNA polymerase sigma factor SigA
+OAIKLJOC_00025	gene	sigA		
+OAIKLJOC_00026	CDS			hypothetical protein
+OAIKLJOC_00026	gene			
+OAIKLJOC_00027	CDS			hypothetical protein
+OAIKLJOC_00027	gene			
+OAIKLJOC_00028	CDS			hypothetical protein
+OAIKLJOC_00028	gene			
+OAIKLJOC_00029	CDS			hypothetical protein
+OAIKLJOC_00029	gene			
+OAIKLJOC_00030	CDS			hypothetical protein
+OAIKLJOC_00030	gene			
+OAIKLJOC_00031	CDS			hypothetical protein
+OAIKLJOC_00031	gene			
+OAIKLJOC_00032	CDS	trpC	4.1.1.48	Indole-3-glycerol phosphate synthase
+OAIKLJOC_00032	gene	trpC		
+OAIKLJOC_00033	CDS			hypothetical protein
+OAIKLJOC_00033	gene			
+OAIKLJOC_00034	CDS	hemA	1.2.1.70	Glutamyl-tRNA reductase
+OAIKLJOC_00034	gene	hemA		
+OAIKLJOC_00035	CDS			hypothetical protein
+OAIKLJOC_00035	gene			
+OAIKLJOC_00036	CDS	ysdC	3.4.11.-	Putative aminopeptidase YsdC
+OAIKLJOC_00036	gene	ysdC		
+OAIKLJOC_00037	CDS			hypothetical protein
+OAIKLJOC_00037	gene			
+OAIKLJOC_00038	CDS			hypothetical protein
+OAIKLJOC_00038	gene			
+OAIKLJOC_00039	CDS			hypothetical protein
+OAIKLJOC_00039	gene			
+OAIKLJOC_00040	CDS			hypothetical protein
+OAIKLJOC_00040	gene			
+OAIKLJOC_00041	CDS	atsA_1	3.1.6.1	Arylsulfatase
+OAIKLJOC_00041	gene	atsA_1		
+OAIKLJOC_00042	CDS			hypothetical protein
+OAIKLJOC_00042	gene			
+OAIKLJOC_00043	CDS			hypothetical protein
+OAIKLJOC_00043	gene			
+OAIKLJOC_00044	CDS	sigW		ECF RNA polymerase sigma factor SigW
+OAIKLJOC_00044	gene	sigW		
+OAIKLJOC_00045	CDS			hypothetical protein
+OAIKLJOC_00045	gene			
+OAIKLJOC_00046	CDS	gfo	1.1.99.28	Glucose--fructose oxidoreductase
+OAIKLJOC_00046	gene	gfo		
+OAIKLJOC_00047	CDS			hypothetical protein
+OAIKLJOC_00047	gene			
+OAIKLJOC_00048	CDS			hypothetical protein
+OAIKLJOC_00048	gene			
+OAIKLJOC_00049	CDS			hypothetical protein
+OAIKLJOC_00049	gene			
+OAIKLJOC_00050	CDS			hypothetical protein
+OAIKLJOC_00050	gene			
+OAIKLJOC_00051	CDS			hypothetical protein
+OAIKLJOC_00051	gene			
+OAIKLJOC_00052	CDS			hypothetical protein
+OAIKLJOC_00052	gene			
+OAIKLJOC_00053	CDS			hypothetical protein
+OAIKLJOC_00053	gene			
+OAIKLJOC_00054	CDS	ramA_1	3.5.1.100	(R)-stereoselective amidase
+OAIKLJOC_00054	gene	ramA_1		
+OAIKLJOC_00055	CDS			hypothetical protein
+OAIKLJOC_00055	gene			
+OAIKLJOC_00056	CDS			hypothetical protein
+OAIKLJOC_00056	gene			
+OAIKLJOC_00057	CDS			hypothetical protein
+OAIKLJOC_00057	gene			
+OAIKLJOC_00058	CDS			hypothetical protein
+OAIKLJOC_00058	gene			
+OAIKLJOC_00059	CDS			hypothetical protein
+OAIKLJOC_00059	gene			
+OAIKLJOC_00060	CDS			hypothetical protein
+OAIKLJOC_00060	gene			
+OAIKLJOC_00061	CDS			hypothetical protein
+OAIKLJOC_00061	gene			
+OAIKLJOC_00062	CDS			hypothetical protein
+OAIKLJOC_00062	gene			
+OAIKLJOC_00063	CDS			hypothetical protein
+OAIKLJOC_00063	gene			
+OAIKLJOC_00064	CDS			hypothetical protein
+OAIKLJOC_00064	gene			
+OAIKLJOC_00065	CDS			hypothetical protein
+OAIKLJOC_00065	gene			
+OAIKLJOC_00066	CDS	rpmE2		50S ribosomal protein L31 type B
+OAIKLJOC_00066	gene	rpmE2		
+OAIKLJOC_00067	CDS	prfA		Peptide chain release factor RF1
+OAIKLJOC_00067	gene	prfA		
+OAIKLJOC_00068	CDS			hypothetical protein
+OAIKLJOC_00068	gene			
+OAIKLJOC_00069	CDS			hypothetical protein
+OAIKLJOC_00069	gene			
+OAIKLJOC_00070	CDS	sufS	2.8.1.7	Cysteine desulfurase SufS
+OAIKLJOC_00070	gene	sufS		
+OAIKLJOC_00071	CDS	leuA	2.3.3.13	2-isopropylmalate synthase
+OAIKLJOC_00071	gene	leuA		
+OAIKLJOC_00072	CDS			hypothetical protein
+OAIKLJOC_00072	gene			
+OAIKLJOC_00073	CDS			hypothetical protein
+OAIKLJOC_00073	gene			
+OAIKLJOC_00074	CDS			hypothetical protein
+OAIKLJOC_00074	gene			
+OAIKLJOC_00075	CDS			hypothetical protein
+OAIKLJOC_00075	gene			
+OAIKLJOC_00076	CDS	tgt	2.4.2.29	Queuine tRNA-ribosyltransferase
+OAIKLJOC_00076	gene	tgt		
+OAIKLJOC_00077	CDS			hypothetical protein
+OAIKLJOC_00077	gene			
+OAIKLJOC_00078	CDS			hypothetical protein
+OAIKLJOC_00078	gene			
+OAIKLJOC_00079	CDS	mnmA	2.8.1.13	tRNA-specific 2-thiouridylase MnmA
+OAIKLJOC_00079	gene	mnmA		
+OAIKLJOC_00080	CDS			hypothetical protein
+OAIKLJOC_00080	gene			
+OAIKLJOC_00081	CDS			hypothetical protein
+OAIKLJOC_00081	gene			
+OAIKLJOC_00082	CDS	hutI	3.5.2.7	Imidazolonepropionase
+OAIKLJOC_00082	gene	hutI		
+OAIKLJOC_00083	CDS	ramA_2	3.5.1.100	(R)-stereoselective amidase
+OAIKLJOC_00083	gene	ramA_2		
+OAIKLJOC_00084	CDS			hypothetical protein
+OAIKLJOC_00084	gene			
+OAIKLJOC_00085	CDS			hypothetical protein
+OAIKLJOC_00085	gene			
+OAIKLJOC_00086	CDS			hypothetical protein
+OAIKLJOC_00086	gene			
+OAIKLJOC_00087	CDS			hypothetical protein
+OAIKLJOC_00087	gene			
+OAIKLJOC_00088	CDS			hypothetical protein
+OAIKLJOC_00088	gene			
+OAIKLJOC_00089	CDS	dcp	3.4.15.5	Dipeptidyl carboxypeptidase
+OAIKLJOC_00089	gene	dcp		
+OAIKLJOC_00090	CDS			hypothetical protein
+OAIKLJOC_00090	gene			
+OAIKLJOC_00091	CDS			hypothetical protein
+OAIKLJOC_00091	gene			
+OAIKLJOC_00092	CDS			hypothetical protein
+OAIKLJOC_00092	gene			
+OAIKLJOC_00093	CDS			hypothetical protein
+OAIKLJOC_00093	gene			
+OAIKLJOC_00094	CDS	yhaM	3.1.-.-	3'-5' exoribonuclease YhaM
+OAIKLJOC_00094	gene	yhaM		
+OAIKLJOC_00095	CDS	qorA	1.6.5.5	Quinone oxidoreductase 1
+OAIKLJOC_00095	gene	qorA		
+OAIKLJOC_00096	CDS			hypothetical protein
+OAIKLJOC_00096	gene			
+OAIKLJOC_00097	CDS			hypothetical protein
+OAIKLJOC_00097	gene			
+OAIKLJOC_00098	CDS	pkn1	2.7.11.1	Serine/threonine-protein kinase pkn1
+OAIKLJOC_00098	gene	pkn1		
+OAIKLJOC_00099	CDS			hypothetical protein
+OAIKLJOC_00099	gene			
+OAIKLJOC_00100	CDS			hypothetical protein
+OAIKLJOC_00100	gene			
+OAIKLJOC_00101	CDS	ktrA		Ktr system potassium uptake protein A
+OAIKLJOC_00101	gene	ktrA		
+OAIKLJOC_00102	CDS	polX		DNA polymerase/3'-5' exonuclease PolX
+OAIKLJOC_00102	gene	polX		
+OAIKLJOC_00103	tRNA			tRNA-Ile(tat)
+OAIKLJOC_00103	gene			
+OAIKLJOC_00104	CDS			hypothetical protein
+OAIKLJOC_00104	gene			
+OAIKLJOC_00105	CDS	nedA_1	3.2.1.18	Sialidase
+OAIKLJOC_00105	gene	nedA_1		
+OAIKLJOC_00106	CDS			hypothetical protein
+OAIKLJOC_00106	gene			
+OAIKLJOC_00107	CDS	nrdZ	1.17.4.1	Vitamin B12-dependent ribonucleoside-diphosphate reductase
+OAIKLJOC_00107	gene	nrdZ		
+OAIKLJOC_00108	CDS	nrdB	1.17.4.1	Ribonucleoside-diphosphate reductase subunit beta
+OAIKLJOC_00108	gene	nrdB		
+OAIKLJOC_00109	CDS	proC	1.5.1.2	Pyrroline-5-carboxylate reductase
+OAIKLJOC_00109	gene	proC		
+OAIKLJOC_00110	CDS		2.1.1.-	Putative TrmH family tRNA/rRNA methyltransferase
+OAIKLJOC_00110	gene			
+OAIKLJOC_00111	CDS			hypothetical protein
+OAIKLJOC_00111	gene			
+OAIKLJOC_00112	CDS			hypothetical protein
+OAIKLJOC_00112	gene			
+OAIKLJOC_00113	CDS			hypothetical protein
+OAIKLJOC_00113	gene			
+OAIKLJOC_00114	CDS			hypothetical protein
+OAIKLJOC_00114	gene			
+OAIKLJOC_00115	CDS			hypothetical protein
+OAIKLJOC_00115	gene			
+OAIKLJOC_00116	CDS	secA		Protein translocase subunit SecA
+OAIKLJOC_00116	gene	secA		
+OAIKLJOC_00117	CDS	epsE		Type II secretion system protein E
+OAIKLJOC_00117	gene	epsE		
+OAIKLJOC_00118	CDS	mutS2	3.1.-.-	Endonuclease MutS2
+OAIKLJOC_00118	gene	mutS2		
+OAIKLJOC_00119	CDS			hypothetical protein
+OAIKLJOC_00119	gene			
+OAIKLJOC_00120	CDS			hypothetical protein
+OAIKLJOC_00120	gene			
+OAIKLJOC_00121	CDS	cmoA	2.1.3.-	Carboxy-S-adenosyl-L-methionine synthase
+OAIKLJOC_00121	gene	cmoA		
+OAIKLJOC_00122	CDS			hypothetical protein
+OAIKLJOC_00122	gene			
+OAIKLJOC_00123	CDS	ybhF		putative ABC transporter ATP-binding protein YbhF
+OAIKLJOC_00123	gene	ybhF		
+OAIKLJOC_00124	CDS			hypothetical protein
+OAIKLJOC_00124	gene			
+OAIKLJOC_00125	CDS			hypothetical protein
+OAIKLJOC_00125	gene			
+OAIKLJOC_00126	CDS			hypothetical protein
+OAIKLJOC_00126	gene			
+OAIKLJOC_00127	CDS			hypothetical protein
+OAIKLJOC_00127	gene			
+OAIKLJOC_00128	CDS			hypothetical protein
+OAIKLJOC_00128	gene			
+OAIKLJOC_00129	CDS	mutS		DNA mismatch repair protein MutS
+OAIKLJOC_00129	gene	mutS		
+OAIKLJOC_00130	CDS	atsA_2	3.1.6.1	Arylsulfatase
+OAIKLJOC_00130	gene	atsA_2		
+OAIKLJOC_00131	CDS			hypothetical protein
+OAIKLJOC_00131	gene			
+OAIKLJOC_00132	CDS			hypothetical protein
+OAIKLJOC_00132	gene			
+OAIKLJOC_00133	CDS			hypothetical protein
+OAIKLJOC_00133	gene			
+OAIKLJOC_00134	CDS	ywrD	2.3.2.2	Putative gamma-glutamyltransferase YwrD
+OAIKLJOC_00134	gene	ywrD		
+OAIKLJOC_00135	CDS			hypothetical protein
+OAIKLJOC_00135	gene			
+OAIKLJOC_00136	CDS			hypothetical protein
+OAIKLJOC_00136	gene			
+OAIKLJOC_00137	CDS			hypothetical protein
+OAIKLJOC_00137	gene			
+OAIKLJOC_00138	CDS			hypothetical protein
+OAIKLJOC_00138	gene			
+OAIKLJOC_00139	CDS			hypothetical protein
+OAIKLJOC_00139	gene			
+OAIKLJOC_00140	CDS			hypothetical protein
+OAIKLJOC_00140	gene			
+OAIKLJOC_00141	CDS	atsA_3	3.1.6.1	Arylsulfatase
+OAIKLJOC_00141	gene	atsA_3		
+OAIKLJOC_00142	CDS	hisC	2.6.1.9	Histidinol-phosphate aminotransferase
+OAIKLJOC_00142	gene	hisC		
+OAIKLJOC_00143	CDS			hypothetical protein
+OAIKLJOC_00143	gene			
+OAIKLJOC_00144	CDS	bamB_1		Outer membrane protein assembly factor BamB
+OAIKLJOC_00144	gene	bamB_1		
+OAIKLJOC_00145	CDS	nasF	2.1.1.107	Uroporphyrinogen-III C-methyltransferase
+OAIKLJOC_00145	gene	nasF		
+OAIKLJOC_00146	CDS	ligA	6.5.1.2	DNA ligase
+OAIKLJOC_00146	gene	ligA		
+OAIKLJOC_00147	CDS			hypothetical protein
+OAIKLJOC_00147	gene			
+OAIKLJOC_00148	CDS			hypothetical protein
+OAIKLJOC_00148	gene			
+OAIKLJOC_00149	CDS		5.4.99.-	putative RNA pseudouridine synthase
+OAIKLJOC_00149	gene			
+OAIKLJOC_00150	CDS			hypothetical protein
+OAIKLJOC_00150	gene			
+OAIKLJOC_00151	CDS			hypothetical protein
+OAIKLJOC_00151	gene			
+OAIKLJOC_00152	CDS	hcnC	1.4.99.5	Hydrogen cyanide synthase subunit HcnC
+OAIKLJOC_00152	gene	hcnC		
+OAIKLJOC_00153	CDS			hypothetical protein
+OAIKLJOC_00153	gene			
+OAIKLJOC_00154	CDS	bamB_2		Outer membrane protein assembly factor BamB
+OAIKLJOC_00154	gene	bamB_2		
+OAIKLJOC_00155	CDS			hypothetical protein
+OAIKLJOC_00155	gene			
+OAIKLJOC_00156	CDS	pqqE		Coenzyme PQQ synthesis protein E
+OAIKLJOC_00156	gene	pqqE		
+OAIKLJOC_00157	CDS	corC		Magnesium and cobalt efflux protein CorC
+OAIKLJOC_00157	gene	corC		
+OAIKLJOC_00158	CDS			hypothetical protein
+OAIKLJOC_00158	gene			
+OAIKLJOC_00159	CDS			hypothetical protein
+OAIKLJOC_00159	gene			
+OAIKLJOC_00160	CDS			hypothetical protein
+OAIKLJOC_00160	gene			
+OAIKLJOC_00161	CDS			hypothetical protein
+OAIKLJOC_00161	gene			
+OAIKLJOC_00162	CDS			hypothetical protein
+OAIKLJOC_00162	gene			
+OAIKLJOC_00163	CDS	dxs	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+OAIKLJOC_00163	gene	dxs		
+OAIKLJOC_00164	CDS			hypothetical protein
+OAIKLJOC_00164	gene			
+OAIKLJOC_00165	CDS			hypothetical protein
+OAIKLJOC_00165	gene			
+OAIKLJOC_00166	CDS			hypothetical protein
+OAIKLJOC_00166	gene			
+OAIKLJOC_00167	CDS			hypothetical protein
+OAIKLJOC_00167	gene			
+OAIKLJOC_00168	CDS	csrA		Carbon storage regulator
+OAIKLJOC_00168	gene	csrA		
+OAIKLJOC_00169	CDS			hypothetical protein
+OAIKLJOC_00169	gene			
+OAIKLJOC_00170	CDS	thyX	2.1.1.148	Thymidylate synthase ThyX
+OAIKLJOC_00170	gene	thyX		
+OAIKLJOC_00171	CDS		3.1.6.1	Arylsulfatase
+OAIKLJOC_00171	gene			
+OAIKLJOC_00172	CDS			hypothetical protein
+OAIKLJOC_00172	gene			
+OAIKLJOC_00173	CDS			hypothetical protein
+OAIKLJOC_00173	gene			
+OAIKLJOC_00174	CDS			hypothetical protein
+OAIKLJOC_00174	gene			
+OAIKLJOC_00175	CDS			hypothetical protein
+OAIKLJOC_00175	gene			
+OAIKLJOC_00176	CDS			hypothetical protein
+OAIKLJOC_00176	gene			
+OAIKLJOC_00177	CDS			hypothetical protein
+OAIKLJOC_00177	gene			
+OAIKLJOC_00178	CDS	desV	2.6.1.106	dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase
+OAIKLJOC_00178	gene	desV		
+OAIKLJOC_00179	CDS	ribH	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+OAIKLJOC_00179	gene	ribH		
+OAIKLJOC_00180	CDS	rho	3.6.4.-	Transcription termination factor Rho
+OAIKLJOC_00180	gene	rho		
+OAIKLJOC_00181	CDS			hypothetical protein
+OAIKLJOC_00181	gene			
+OAIKLJOC_00182	CDS			hypothetical protein
+OAIKLJOC_00182	gene			
+OAIKLJOC_00183	CDS	sauU		putative sulfoacetate transporter SauU
+OAIKLJOC_00183	gene	sauU		
+OAIKLJOC_00184	CDS			hypothetical protein
+OAIKLJOC_00184	gene			
+OAIKLJOC_00185	CDS			hypothetical protein
+OAIKLJOC_00185	gene			
+OAIKLJOC_00186	CDS			hypothetical protein
+OAIKLJOC_00186	gene			
+OAIKLJOC_00187	CDS			hypothetical protein
+OAIKLJOC_00187	gene			
+OAIKLJOC_00188	CDS			hypothetical protein
+OAIKLJOC_00188	gene			
+OAIKLJOC_00189	CDS			hypothetical protein
+OAIKLJOC_00189	gene			
+OAIKLJOC_00190	CDS			hypothetical protein
+OAIKLJOC_00190	gene			
+OAIKLJOC_00191	CDS			hypothetical protein
+OAIKLJOC_00191	gene			
+OAIKLJOC_00192	CDS	abgT		p-aminobenzoyl-glutamate transport protein
+OAIKLJOC_00192	gene	abgT		
+OAIKLJOC_00193	CDS			hypothetical protein
+OAIKLJOC_00193	gene			
+OAIKLJOC_00194	CDS			hypothetical protein
+OAIKLJOC_00194	gene			
+OAIKLJOC_00195	CDS	ybiC	1.1.1.-	putative oxidoreductase YbiC
+OAIKLJOC_00195	gene	ybiC		
+OAIKLJOC_00196	CDS	hslV	3.4.25.2	ATP-dependent protease subunit HslV
+OAIKLJOC_00196	gene	hslV		
+OAIKLJOC_00197	CDS	clpY		ATP-dependent protease ATPase subunit ClpY
+OAIKLJOC_00197	gene	clpY		
+OAIKLJOC_00198	CDS			hypothetical protein
+OAIKLJOC_00198	gene			
+OAIKLJOC_00199	CDS			hypothetical protein
+OAIKLJOC_00199	gene			
+OAIKLJOC_00200	CDS			hypothetical protein
+OAIKLJOC_00200	gene			
+OAIKLJOC_00201	CDS	argB	2.7.2.8	Acetylglutamate kinase
+OAIKLJOC_00201	gene	argB		
+OAIKLJOC_00202	CDS			hypothetical protein
+OAIKLJOC_00202	gene			
+OAIKLJOC_00203	CDS			hypothetical protein
+OAIKLJOC_00203	gene			
+OAIKLJOC_00204	CDS	yjhB		Putative metabolite transport protein YjhB
+OAIKLJOC_00204	gene	yjhB		
+OAIKLJOC_00205	CDS	atsA_4	3.1.6.1	Arylsulfatase
+OAIKLJOC_00205	gene	atsA_4		
+OAIKLJOC_00206	CDS			hypothetical protein
+OAIKLJOC_00206	gene			
+OAIKLJOC_00207	CDS	cbpA		Curved DNA-binding protein
+OAIKLJOC_00207	gene	cbpA		
+OAIKLJOC_00208	CDS			hypothetical protein
+OAIKLJOC_00208	gene			
+OAIKLJOC_00209	CDS	atsA_5	3.1.6.1	Arylsulfatase
+OAIKLJOC_00209	gene	atsA_5		
+OAIKLJOC_00210	CDS			hypothetical protein
+OAIKLJOC_00210	gene			
+OAIKLJOC_00211	CDS	prkC	2.7.11.1	Serine/threonine-protein kinase PrkC
+OAIKLJOC_00211	gene	prkC		
+OAIKLJOC_00212	CDS			hypothetical protein
+OAIKLJOC_00212	gene			
+OAIKLJOC_00213	CDS			hypothetical protein
+OAIKLJOC_00213	gene			
+OAIKLJOC_00214	CDS	thrC	4.2.3.1	Threonine synthase
+OAIKLJOC_00214	gene	thrC		
+OAIKLJOC_00215	CDS			hypothetical protein
+OAIKLJOC_00215	gene			
+OAIKLJOC_00216	CDS			hypothetical protein
+OAIKLJOC_00216	gene			
+OAIKLJOC_00217	CDS	rffG	4.2.1.46	dTDP-glucose 4,6-dehydratase 2
+OAIKLJOC_00217	gene	rffG		
+OAIKLJOC_00218	CDS			hypothetical protein
+OAIKLJOC_00218	gene			
+OAIKLJOC_00219	CDS	nedA_2	3.2.1.18	Sialidase
+OAIKLJOC_00219	gene	nedA_2		
+OAIKLJOC_00220	CDS	lldD_1	1.1.-.-	L-lactate dehydrogenase
+OAIKLJOC_00220	gene	lldD_1		
+OAIKLJOC_00221	CDS	atsA_6	3.1.6.1	Arylsulfatase
+OAIKLJOC_00221	gene	atsA_6		
+OAIKLJOC_00222	CDS	cphB	3.4.15.6	Cyanophycinase
+OAIKLJOC_00222	gene	cphB		
+OAIKLJOC_00223	CDS	hhoA		Putative serine protease HhoA
+OAIKLJOC_00223	gene	hhoA		
+OAIKLJOC_00224	CDS			hypothetical protein
+OAIKLJOC_00224	gene			
+OAIKLJOC_00225	CDS	lldD_2	1.1.-.-	Putative L-lactate dehydrogenase
+OAIKLJOC_00225	gene	lldD_2		
+OAIKLJOC_00226	CDS			hypothetical protein
+OAIKLJOC_00226	gene			
+OAIKLJOC_00227	CDS	prmB	2.1.1.298	50S ribosomal protein L3 glutamine methyltransferase
+OAIKLJOC_00227	gene	prmB		
+OAIKLJOC_00228	CDS			hypothetical protein
+OAIKLJOC_00228	gene			
+OAIKLJOC_00229	CDS			hypothetical protein
+OAIKLJOC_00229	gene			
+OAIKLJOC_00230	CDS			hypothetical protein
+OAIKLJOC_00230	gene			

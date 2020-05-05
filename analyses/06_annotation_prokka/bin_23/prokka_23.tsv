@@ -1,0 +1,2825 @@
+locus_tag	ftype	gene	EC_number	product
+GPPMPBPP_00001	CDS	luxR		HTH-type transcriptional regulator LuxR
+GPPMPBPP_00001	gene	luxR		
+GPPMPBPP_00002	CDS	echA8_1	4.2.1.17	putative enoyl-CoA hydratase echA8
+GPPMPBPP_00002	gene	echA8_1		
+GPPMPBPP_00003	CDS			hypothetical protein
+GPPMPBPP_00003	gene			
+GPPMPBPP_00004	CDS	aiiM	3.1.1.81	N-acyl homoserine lactonase
+GPPMPBPP_00004	gene	aiiM		
+GPPMPBPP_00005	CDS			hypothetical protein
+GPPMPBPP_00005	gene			
+GPPMPBPP_00006	CDS	hdhA	1.1.1.159	7-alpha-hydroxysteroid dehydrogenase
+GPPMPBPP_00006	gene	hdhA		
+GPPMPBPP_00007	CDS		1.3.99.-	Putative acyl-CoA dehydrogenase FadE17
+GPPMPBPP_00007	gene			
+GPPMPBPP_00008	CDS			hypothetical protein
+GPPMPBPP_00008	gene			
+GPPMPBPP_00009	CDS		1.-.-.-	putative oxidoreductase
+GPPMPBPP_00009	gene			
+GPPMPBPP_00010	CDS	glnS	6.1.1.18	Glutamine--tRNA ligase
+GPPMPBPP_00010	gene	glnS		
+GPPMPBPP_00011	CDS	atpG		ATP synthase gamma chain
+GPPMPBPP_00011	gene	atpG		
+GPPMPBPP_00012	CDS	atpA	3.6.3.14	ATP synthase subunit alpha
+GPPMPBPP_00012	gene	atpA		
+GPPMPBPP_00013	CDS	atpH		ATP synthase subunit delta
+GPPMPBPP_00013	gene	atpH		
+GPPMPBPP_00014	CDS	atpF		ATP synthase subunit b
+GPPMPBPP_00014	gene	atpF		
+GPPMPBPP_00015	CDS	atpE		ATP synthase subunit c
+GPPMPBPP_00015	gene	atpE		
+GPPMPBPP_00016	CDS	atpB		ATP synthase subunit a
+GPPMPBPP_00016	gene	atpB		
+GPPMPBPP_00017	CDS			hypothetical protein
+GPPMPBPP_00017	gene			
+GPPMPBPP_00018	CDS	pheS	6.1.1.20	Phenylalanine--tRNA ligase alpha subunit
+GPPMPBPP_00018	gene	pheS		
+GPPMPBPP_00019	CDS		2.1.1.-	Putative TrmH family tRNA/rRNA methyltransferase
+GPPMPBPP_00019	gene			
+GPPMPBPP_00020	CDS	rplT		50S ribosomal protein L20
+GPPMPBPP_00020	gene	rplT		
+GPPMPBPP_00021	CDS	allC	3.5.3.-	Allantoate amidohydrolase
+GPPMPBPP_00021	gene	allC		
+GPPMPBPP_00022	CDS		3.5.1.77	N-carbamoyl-D-amino acid hydrolase
+GPPMPBPP_00022	gene			
+GPPMPBPP_00023	CDS	pucD_1	1.17.1.4	putative xanthine dehydrogenase subunit D
+GPPMPBPP_00023	gene	pucD_1		
+GPPMPBPP_00024	CDS		3.5.4.32	8-oxoguanine deaminase
+GPPMPBPP_00024	gene			
+GPPMPBPP_00025	CDS	pucD_2	1.17.1.4	putative xanthine dehydrogenase subunit D
+GPPMPBPP_00025	gene	pucD_2		
+GPPMPBPP_00026	CDS	cutS	1.2.5.3	Carbon monoxide dehydrogenase small chain
+GPPMPBPP_00026	gene	cutS		
+GPPMPBPP_00027	CDS	yfdE_1	2.8.3.19	Acetyl-CoA:oxalate CoA-transferase
+GPPMPBPP_00027	gene	yfdE_1		
+GPPMPBPP_00028	CDS	bbsG_1	1.3.8.3	(R)-benzylsuccinyl-CoA dehydrogenase
+GPPMPBPP_00028	gene	bbsG_1		
+GPPMPBPP_00029	CDS			hypothetical protein
+GPPMPBPP_00029	gene			
+GPPMPBPP_00030	CDS		1.3.99.-	Acyl-CoA dehydrogenase FadE34
+GPPMPBPP_00030	gene			
+GPPMPBPP_00031	CDS		1.3.99.-	Acyl-CoA dehydrogenase FadE27
+GPPMPBPP_00031	gene			
+GPPMPBPP_00032	CDS	crt_1	4.2.1.150	Short-chain-enoyl-CoA hydratase
+GPPMPBPP_00032	gene	crt_1		
+GPPMPBPP_00033	CDS		1.3.99.-	Putative acyl-CoA dehydrogenase FadE17
+GPPMPBPP_00033	gene			
+GPPMPBPP_00034	CDS			hypothetical protein
+GPPMPBPP_00034	gene			
+GPPMPBPP_00035	CDS	ctaB	2.5.1.-	Protoheme IX farnesyltransferase
+GPPMPBPP_00035	gene	ctaB		
+GPPMPBPP_00036	CDS	ctaA	1.3.-.-	Heme A synthase
+GPPMPBPP_00036	gene	ctaA		
+GPPMPBPP_00037	CDS	clpS		ATP-dependent Clp protease adapter protein ClpS
+GPPMPBPP_00037	gene	clpS		
+GPPMPBPP_00038	CDS			hypothetical protein
+GPPMPBPP_00038	gene			
+GPPMPBPP_00039	tRNA			tRNA-Glu(ttc)
+GPPMPBPP_00039	gene			
+GPPMPBPP_00040	CDS	mprB	2.7.13.3	Signal transduction histidine-protein kinase/phosphatase MprB
+GPPMPBPP_00040	gene	mprB		
+GPPMPBPP_00041	CDS	mprA		Response regulator MprA
+GPPMPBPP_00041	gene	mprA		
+GPPMPBPP_00042	CDS			hypothetical protein
+GPPMPBPP_00042	gene			
+GPPMPBPP_00043	CDS	bamB		Outer membrane protein assembly factor BamB
+GPPMPBPP_00043	gene	bamB		
+GPPMPBPP_00044	CDS	fgd2_1	1.1.98.-	F420-dependent hydroxymycolic acid dehydrogenase
+GPPMPBPP_00044	gene	fgd2_1		
+GPPMPBPP_00045	CDS	rpmB		50S ribosomal protein L28
+GPPMPBPP_00045	gene	rpmB		
+GPPMPBPP_00046	CDS	rpmG2		50S ribosomal protein L33 2
+GPPMPBPP_00046	gene	rpmG2		
+GPPMPBPP_00047	CDS			hypothetical protein
+GPPMPBPP_00047	gene			
+GPPMPBPP_00048	CDS			hypothetical protein
+GPPMPBPP_00048	gene			
+GPPMPBPP_00049	tRNA			tRNA-Asp(gtc)
+GPPMPBPP_00049	gene			
+GPPMPBPP_00050	tRNA			tRNA-Phe(gaa)
+GPPMPBPP_00050	gene			
+GPPMPBPP_00051	CDS		1.1.1.38	NAD-dependent malic enzyme
+GPPMPBPP_00051	gene			
+GPPMPBPP_00052	CDS			hypothetical protein
+GPPMPBPP_00052	gene			
+GPPMPBPP_00053	CDS	sadH_1	1.-.-.-	Putative oxidoreductase SadH
+GPPMPBPP_00053	gene	sadH_1		
+GPPMPBPP_00054	CDS		1.13.12.-	Putative monooxygenase
+GPPMPBPP_00054	gene			
+GPPMPBPP_00055	CDS			hypothetical protein
+GPPMPBPP_00055	gene			
+GPPMPBPP_00056	CDS			hypothetical protein
+GPPMPBPP_00056	gene			
+GPPMPBPP_00057	CDS	cimA	2.3.1.182	(R)-citramalate synthase
+GPPMPBPP_00057	gene	cimA		
+GPPMPBPP_00058	CDS		3.6.3.-	Multidrug efflux ATP-binding/permease protein
+GPPMPBPP_00058	gene			
+GPPMPBPP_00059	CDS		3.6.3.-	Putative multidrug export ATP-binding/permease protein
+GPPMPBPP_00059	gene			
+GPPMPBPP_00060	CDS			hypothetical protein
+GPPMPBPP_00060	gene			
+GPPMPBPP_00061	CDS	lcfB_1	6.2.1.3	Long-chain-fatty-acid--CoA ligase
+GPPMPBPP_00061	gene	lcfB_1		
+GPPMPBPP_00062	CDS		1.3.1.103	2-haloacrylate reductase
+GPPMPBPP_00062	gene			
+GPPMPBPP_00063	CDS			hypothetical protein
+GPPMPBPP_00063	gene			
+GPPMPBPP_00064	CDS			hypothetical protein
+GPPMPBPP_00064	gene			
+GPPMPBPP_00065	CDS	limB_1	1.14.13.107	Limonene 1,2-monooxygenase
+GPPMPBPP_00065	gene	limB_1		
+GPPMPBPP_00066	CDS			hypothetical protein
+GPPMPBPP_00066	gene			
+GPPMPBPP_00067	CDS	tsaC1_1	1.2.1.62	4-formylbenzenesulfonate dehydrogenase TsaC1/TsaC2
+GPPMPBPP_00067	gene	tsaC1_1		
+GPPMPBPP_00068	CDS	uctC_1	2.8.3.19	Acetyl-CoA:oxalate CoA-transferase
+GPPMPBPP_00068	gene	uctC_1		
+GPPMPBPP_00069	CDS	rdpA_1	1.14.11.44	(R)-phenoxypropionate/alpha-ketoglutarate-dioxygenase
+GPPMPBPP_00069	gene	rdpA_1		
+GPPMPBPP_00070	CDS	limB_2	1.14.13.107	Limonene 1,2-monooxygenase
+GPPMPBPP_00070	gene	limB_2		
+GPPMPBPP_00071	CDS			hypothetical protein
+GPPMPBPP_00071	gene			
+GPPMPBPP_00072	CDS	aes	3.1.1.-	Acetyl esterase
+GPPMPBPP_00072	gene	aes		
+GPPMPBPP_00073	CDS		1.14.-.-	Putative cytochrome P450 126
+GPPMPBPP_00073	gene			
+GPPMPBPP_00074	CDS	glmM	5.4.2.10	Phosphoglucosamine mutase
+GPPMPBPP_00074	gene	glmM		
+GPPMPBPP_00075	CDS			hypothetical protein
+GPPMPBPP_00075	gene			
+GPPMPBPP_00076	CDS		1.6.3.5	Renalase
+GPPMPBPP_00076	gene			
+GPPMPBPP_00077	CDS			hypothetical protein
+GPPMPBPP_00077	gene			
+GPPMPBPP_00078	CDS			hypothetical protein
+GPPMPBPP_00078	gene			
+GPPMPBPP_00079	CDS	ptlD	1.14.11.36	Pentalenolactone F synthase
+GPPMPBPP_00079	gene	ptlD		
+GPPMPBPP_00080	CDS			Immunogenic protein MPB70
+GPPMPBPP_00080	gene			
+GPPMPBPP_00081	CDS	rplV		50S ribosomal protein L22
+GPPMPBPP_00081	gene	rplV		
+GPPMPBPP_00082	CDS	rpsS		30S ribosomal protein S19
+GPPMPBPP_00082	gene	rpsS		
+GPPMPBPP_00083	CDS	rplB		50S ribosomal protein L2
+GPPMPBPP_00083	gene	rplB		
+GPPMPBPP_00084	CDS	rplW		50S ribosomal protein L23
+GPPMPBPP_00084	gene	rplW		
+GPPMPBPP_00085	CDS	rplD		50S ribosomal protein L4
+GPPMPBPP_00085	gene	rplD		
+GPPMPBPP_00086	CDS	rplC		50S ribosomal protein L3
+GPPMPBPP_00086	gene	rplC		
+GPPMPBPP_00087	CDS	rpsJ		30S ribosomal protein S10
+GPPMPBPP_00087	gene	rpsJ		
+GPPMPBPP_00088	CDS	tuf		Elongation factor Tu
+GPPMPBPP_00088	gene	tuf		
+GPPMPBPP_00089	CDS	fusA		Elongation factor G
+GPPMPBPP_00089	gene	fusA		
+GPPMPBPP_00090	CDS			hypothetical protein
+GPPMPBPP_00090	gene			
+GPPMPBPP_00091	CDS			hypothetical protein
+GPPMPBPP_00091	gene			
+GPPMPBPP_00092	CDS	ahcY	3.3.1.1	Adenosylhomocysteinase
+GPPMPBPP_00092	gene	ahcY		
+GPPMPBPP_00093	CDS			hypothetical protein
+GPPMPBPP_00093	gene			
+GPPMPBPP_00094	CDS			hypothetical protein
+GPPMPBPP_00094	gene			
+GPPMPBPP_00095	CDS			hypothetical protein
+GPPMPBPP_00095	gene			
+GPPMPBPP_00096	CDS	ribZ_1		Riboflavin transporter RibZ
+GPPMPBPP_00096	gene	ribZ_1		
+GPPMPBPP_00097	CDS	gloA	4.4.1.5	Lactoylglutathione lyase
+GPPMPBPP_00097	gene	gloA		
+GPPMPBPP_00098	CDS			hypothetical protein
+GPPMPBPP_00098	gene			
+GPPMPBPP_00099	CDS			hypothetical protein
+GPPMPBPP_00099	gene			
+GPPMPBPP_00100	CDS			hypothetical protein
+GPPMPBPP_00100	gene			
+GPPMPBPP_00101	CDS	smtB_1	2.8.3.22	Succinyl-CoA--L-malate CoA-transferase beta subunit
+GPPMPBPP_00101	gene	smtB_1		
+GPPMPBPP_00102	CDS	rodA		putative FtsW-like protein
+GPPMPBPP_00102	gene	rodA		
+GPPMPBPP_00103	CDS	pbpA		Penicillin-binding protein A
+GPPMPBPP_00103	gene	pbpA		
+GPPMPBPP_00104	CDS	rpf	3.-.-.-	Resuscitation-promoting factor Rpf
+GPPMPBPP_00104	gene	rpf		
+GPPMPBPP_00105	CDS	ksgA	2.1.1.182	Ribosomal RNA small subunit methyltransferase A
+GPPMPBPP_00105	gene	ksgA		
+GPPMPBPP_00106	CDS	ispE	2.7.1.148	4-diphosphocytidyl-2-C-methyl-D-erythritol kinase
+GPPMPBPP_00106	gene	ispE		
+GPPMPBPP_00107	tRNA			tRNA-Gln(ttg)
+GPPMPBPP_00107	gene			
+GPPMPBPP_00108	CDS	ybhF		putative ABC transporter ATP-binding protein YbhF
+GPPMPBPP_00108	gene	ybhF		
+GPPMPBPP_00109	tRNA			tRNA-Leu(aag)
+GPPMPBPP_00109	gene			
+GPPMPBPP_00110	CDS	secG		putative protein-export membrane protein SecG
+GPPMPBPP_00110	gene	secG		
+GPPMPBPP_00111	CDS			hypothetical protein
+GPPMPBPP_00111	gene			
+GPPMPBPP_00112	CDS	tpiA	5.3.1.1	Triosephosphate isomerase
+GPPMPBPP_00112	gene	tpiA		
+GPPMPBPP_00113	CDS	pgk	2.7.2.3	Phosphoglycerate kinase
+GPPMPBPP_00113	gene	pgk		
+GPPMPBPP_00114	CDS	gap2	1.2.1.12	Glyceraldehyde-3-phosphate dehydrogenase 2
+GPPMPBPP_00114	gene	gap2		
+GPPMPBPP_00115	CDS			Nucleotide-binding protein
+GPPMPBPP_00115	gene			
+GPPMPBPP_00116	CDS			hypothetical protein
+GPPMPBPP_00116	gene			
+GPPMPBPP_00117	CDS			hypothetical protein
+GPPMPBPP_00117	gene			
+GPPMPBPP_00118	CDS			hypothetical protein
+GPPMPBPP_00118	gene			
+GPPMPBPP_00119	CDS	proA	1.2.1.41	Gamma-glutamyl phosphate reductase
+GPPMPBPP_00119	gene	proA		
+GPPMPBPP_00120	CDS	proB	2.7.2.11	Glutamate 5-kinase
+GPPMPBPP_00120	gene	proB		
+GPPMPBPP_00121	CDS	obg	3.6.5.-	GTPase Obg
+GPPMPBPP_00121	gene	obg		
+GPPMPBPP_00122	CDS			hypothetical protein
+GPPMPBPP_00122	gene			
+GPPMPBPP_00123	tRNA			tRNA-Lys(ctt)
+GPPMPBPP_00123	gene			
+GPPMPBPP_00124	tRNA			tRNA-His(gtg)
+GPPMPBPP_00124	gene			
+GPPMPBPP_00125	CDS	prdB_1	1.21.4.1	D-proline reductase subunit gamma
+GPPMPBPP_00125	gene	prdB_1		
+GPPMPBPP_00126	CDS	prdB_2	1.21.4.1	D-proline reductase subunit gamma
+GPPMPBPP_00126	gene	prdB_2		
+GPPMPBPP_00127	CDS			hypothetical protein
+GPPMPBPP_00127	gene			
+GPPMPBPP_00128	tRNA			tRNA-Arg(tct)
+GPPMPBPP_00128	gene			
+GPPMPBPP_00129	CDS			hypothetical protein
+GPPMPBPP_00129	gene			
+GPPMPBPP_00130	CDS			hypothetical protein
+GPPMPBPP_00130	gene			
+GPPMPBPP_00131	CDS	dcd	3.5.4.13	dCTP deaminase
+GPPMPBPP_00131	gene	dcd		
+GPPMPBPP_00132	CDS			hypothetical protein
+GPPMPBPP_00132	gene			
+GPPMPBPP_00133	tRNA			tRNA-Gly(ccc)
+GPPMPBPP_00133	gene			
+GPPMPBPP_00134	CDS			hypothetical protein
+GPPMPBPP_00134	gene			
+GPPMPBPP_00135	CDS	dnaC	3.6.4.12	Replicative DNA helicase
+GPPMPBPP_00135	gene	dnaC		
+GPPMPBPP_00136	CDS	leuS	6.1.1.4	Leucine--tRNA ligase
+GPPMPBPP_00136	gene	leuS		
+GPPMPBPP_00137	CDS	thrB	2.7.1.39	Homoserine kinase
+GPPMPBPP_00137	gene	thrB		
+GPPMPBPP_00138	CDS			hypothetical protein
+GPPMPBPP_00138	gene			
+GPPMPBPP_00139	CDS			hypothetical protein
+GPPMPBPP_00139	gene			
+GPPMPBPP_00140	CDS	smtB_2	2.8.3.22	Succinyl-CoA--L-malate CoA-transferase beta subunit
+GPPMPBPP_00140	gene	smtB_2		
+GPPMPBPP_00141	CDS			hypothetical protein
+GPPMPBPP_00141	gene			
+GPPMPBPP_00142	CDS	hflK		Modulator of FtsH protease HflK
+GPPMPBPP_00142	gene	hflK		
+GPPMPBPP_00143	CDS		1.-.-.-	Putative coenzyme F420-dependent oxidoreductase
+GPPMPBPP_00143	gene			
+GPPMPBPP_00144	CDS	ilvI_1	2.2.1.6	Acetolactate synthase isozyme 3 large subunit
+GPPMPBPP_00144	gene	ilvI_1		
+GPPMPBPP_00145	CDS			hypothetical protein
+GPPMPBPP_00145	gene			
+GPPMPBPP_00146	CDS		2.1.1.295	2-methyl-6-phytyl-1,4-hydroquinone methyltransferase
+GPPMPBPP_00146	gene			
+GPPMPBPP_00147	CDS			hypothetical protein
+GPPMPBPP_00147	gene			
+GPPMPBPP_00148	CDS	clcD_1	3.1.1.45	Carboxymethylenebutenolidase
+GPPMPBPP_00148	gene	clcD_1		
+GPPMPBPP_00149	CDS	tfdA_1	1.14.11.-	Alpha-ketoglutarate-dependent 2,4-dichlorophenoxyacetate dioxygenase
+GPPMPBPP_00149	gene	tfdA_1		
+GPPMPBPP_00150	CDS	ectD	1.14.11.-	Ectoine dioxygenase
+GPPMPBPP_00150	gene	ectD		
+GPPMPBPP_00151	CDS	rhmA	4.1.2.53	2-keto-3-deoxy-L-rhamnonate aldolase
+GPPMPBPP_00151	gene	rhmA		
+GPPMPBPP_00152	CDS			hypothetical protein
+GPPMPBPP_00152	gene			
+GPPMPBPP_00153	CDS			hypothetical protein
+GPPMPBPP_00153	gene			
+GPPMPBPP_00154	CDS			hypothetical protein
+GPPMPBPP_00154	gene			
+GPPMPBPP_00155	CDS			hypothetical protein
+GPPMPBPP_00155	gene			
+GPPMPBPP_00156	CDS	sodB	1.15.1.1	Superoxide dismutase [Fe]
+GPPMPBPP_00156	gene	sodB		
+GPPMPBPP_00157	CDS			hypothetical protein
+GPPMPBPP_00157	gene			
+GPPMPBPP_00158	CDS	sigA		RNA polymerase sigma factor SigA
+GPPMPBPP_00158	gene	sigA		
+GPPMPBPP_00159	CDS	phrB_1	4.1.99.3	Deoxyribodipyrimidine photo-lyase
+GPPMPBPP_00159	gene	phrB_1		
+GPPMPBPP_00160	CDS	nadD	2.7.7.18	putative nicotinate-nucleotide adenylyltransferase
+GPPMPBPP_00160	gene	nadD		
+GPPMPBPP_00161	CDS	sigA2		RNA polymerase sigma factor SigA2
+GPPMPBPP_00161	gene	sigA2		
+GPPMPBPP_00162	CDS			hypothetical protein
+GPPMPBPP_00162	gene			
+GPPMPBPP_00163	CDS	pgdA_1	3.5.1.-	Peptidoglycan deacetylase
+GPPMPBPP_00163	gene	pgdA_1		
+GPPMPBPP_00164	CDS			hypothetical protein
+GPPMPBPP_00164	gene			
+GPPMPBPP_00165	CDS	ntaA	1.14.14.10	Nitrilotriacetate monooxygenase component A
+GPPMPBPP_00165	gene	ntaA		
+GPPMPBPP_00166	CDS			hypothetical protein
+GPPMPBPP_00166	gene			
+GPPMPBPP_00167	CDS	sdpA	1.14.11.43	(S)-phenoxypropionate/alpha-ketoglutarate-dioxygenase
+GPPMPBPP_00167	gene	sdpA		
+GPPMPBPP_00168	CDS	mutT4	3.6.1.-	Putative mutator protein MutT4
+GPPMPBPP_00168	gene	mutT4		
+GPPMPBPP_00169	CDS	abo_1	1.5.3.19	4-methylaminobutanoate oxidase (formaldehyde-forming)
+GPPMPBPP_00169	gene	abo_1		
+GPPMPBPP_00170	CDS	pepP	3.4.11.9	Xaa-Pro aminopeptidase
+GPPMPBPP_00170	gene	pepP		
+GPPMPBPP_00171	CDS			hypothetical protein
+GPPMPBPP_00171	gene			
+GPPMPBPP_00172	CDS	cfiB	6.4.1.7	2-oxoglutarate carboxylase small subunit
+GPPMPBPP_00172	gene	cfiB		
+GPPMPBPP_00173	CDS	bbsF_1	2.8.3.15	Succinyl-CoA:(R)-benzylsuccinate CoA-transferase subunit BbsF
+GPPMPBPP_00173	gene	bbsF_1		
+GPPMPBPP_00174	CDS			hypothetical protein
+GPPMPBPP_00174	gene			
+GPPMPBPP_00175	CDS	cysK	2.5.1.47	Cysteine synthase
+GPPMPBPP_00175	gene	cysK		
+GPPMPBPP_00176	CDS	tilS_1	6.3.4.19	tRNA(Ile)-lysidine synthase
+GPPMPBPP_00176	gene	tilS_1		
+GPPMPBPP_00177	CDS	pncB2	6.3.4.21	Nicotinate phosphoribosyltransferase pncB2
+GPPMPBPP_00177	gene	pncB2		
+GPPMPBPP_00178	CDS			hypothetical protein
+GPPMPBPP_00178	gene			
+GPPMPBPP_00179	CDS	metB	2.5.1.48	Cystathionine gamma-synthase
+GPPMPBPP_00179	gene	metB		
+GPPMPBPP_00180	CDS	cbs	4.2.1.22	Putative cystathionine beta-synthase
+GPPMPBPP_00180	gene	cbs		
+GPPMPBPP_00181	CDS	aspS	6.1.1.23	Aspartate--tRNA(Asp/Asn) ligase
+GPPMPBPP_00181	gene	aspS		
+GPPMPBPP_00182	CDS	hisS	6.1.1.21	Histidine--tRNA ligase
+GPPMPBPP_00182	gene	hisS		
+GPPMPBPP_00183	CDS	relA		Bifunctional (p)ppGpp synthase/hydrolase RelA
+GPPMPBPP_00183	gene	relA		
+GPPMPBPP_00184	CDS	mshA_1	2.4.1.250	D-inositol 3-phosphate glycosyltransferase
+GPPMPBPP_00184	gene	mshA_1		
+GPPMPBPP_00185	CDS	rebM	2.1.1.164	Demethylrebeccamycin-D-glucose O-methyltransferase
+GPPMPBPP_00185	gene	rebM		
+GPPMPBPP_00186	CDS			hypothetical protein
+GPPMPBPP_00186	gene			
+GPPMPBPP_00187	CDS			hypothetical protein
+GPPMPBPP_00187	gene			
+GPPMPBPP_00188	CDS			hypothetical protein
+GPPMPBPP_00188	gene			
+GPPMPBPP_00189	CDS	rnz	3.1.26.11	Ribonuclease Z
+GPPMPBPP_00189	gene	rnz		
+GPPMPBPP_00190	CDS			hypothetical protein
+GPPMPBPP_00190	gene			
+GPPMPBPP_00191	CDS	accC	6.3.4.14	Biotin carboxylase
+GPPMPBPP_00191	gene	accC		
+GPPMPBPP_00192	CDS	birA	6.3.4.15	Bifunctional ligase/repressor BirA
+GPPMPBPP_00192	gene	birA		
+GPPMPBPP_00193	CDS	rmlC	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+GPPMPBPP_00193	gene	rmlC		
+GPPMPBPP_00194	CDS	strE	4.2.1.46	dTDP-glucose 4,6-dehydratase
+GPPMPBPP_00194	gene	strE		
+GPPMPBPP_00195	CDS			hypothetical protein
+GPPMPBPP_00195	gene			
+GPPMPBPP_00196	CDS			hypothetical protein
+GPPMPBPP_00196	gene			
+GPPMPBPP_00197	CDS			hypothetical protein
+GPPMPBPP_00197	gene			
+GPPMPBPP_00198	CDS	wecA	2.7.8.35	Decaprenyl-phosphate N-acetylglucosaminephosphotransferase
+GPPMPBPP_00198	gene	wecA		
+GPPMPBPP_00199	CDS	glyA	2.1.2.1	Serine hydroxymethyltransferase
+GPPMPBPP_00199	gene	glyA		
+GPPMPBPP_00200	CDS	rpiB	5.3.1.6	Ribose-5-phosphate isomerase B
+GPPMPBPP_00200	gene	rpiB		
+GPPMPBPP_00201	CDS	prmC	2.1.1.297	Release factor glutamine methyltransferase
+GPPMPBPP_00201	gene	prmC		
+GPPMPBPP_00202	CDS	prfA		Peptide chain release factor 1
+GPPMPBPP_00202	gene	prfA		
+GPPMPBPP_00203	CDS			hypothetical protein
+GPPMPBPP_00203	gene			
+GPPMPBPP_00204	CDS	rpmE2		50S ribosomal protein L31 type B
+GPPMPBPP_00204	gene	rpmE2		
+GPPMPBPP_00205	CDS	rho	3.6.4.-	Transcription termination factor Rho
+GPPMPBPP_00205	gene	rho		
+GPPMPBPP_00206	CDS	thrC	4.2.3.1	Threonine synthase
+GPPMPBPP_00206	gene	thrC		
+GPPMPBPP_00207	CDS			hypothetical protein
+GPPMPBPP_00207	gene			
+GPPMPBPP_00208	CDS	yfdE_2	2.8.3.19	Acetyl-CoA:oxalate CoA-transferase
+GPPMPBPP_00208	gene	yfdE_2		
+GPPMPBPP_00209	CDS	bpoC_1	1.11.1.18	Putative non-heme bromoperoxidase BpoC
+GPPMPBPP_00209	gene	bpoC_1		
+GPPMPBPP_00210	CDS			hypothetical protein
+GPPMPBPP_00210	gene			
+GPPMPBPP_00211	CDS	iscS	2.8.1.7	Cysteine desulfurase IscS
+GPPMPBPP_00211	gene	iscS		
+GPPMPBPP_00212	CDS	mnmA	2.8.1.13	tRNA-specific 2-thiouridylase MnmA
+GPPMPBPP_00212	gene	mnmA		
+GPPMPBPP_00213	CDS			hypothetical protein
+GPPMPBPP_00213	gene			
+GPPMPBPP_00214	CDS			hypothetical protein
+GPPMPBPP_00214	gene			
+GPPMPBPP_00215	CDS	yedY	1.8.-.-	Sulfoxide reductase catalytic subunit YedY
+GPPMPBPP_00215	gene	yedY		
+GPPMPBPP_00216	CDS	bacC_1	1.1.1.385	Dihydroanticapsin 7-dehydrogenase
+GPPMPBPP_00216	gene	bacC_1		
+GPPMPBPP_00217	CDS			hypothetical protein
+GPPMPBPP_00217	gene			
+GPPMPBPP_00218	CDS			hypothetical protein
+GPPMPBPP_00218	gene			
+GPPMPBPP_00219	CDS	dxs	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+GPPMPBPP_00219	gene	dxs		
+GPPMPBPP_00220	CDS			hypothetical protein
+GPPMPBPP_00220	gene			
+GPPMPBPP_00221	CDS	rbn_1	3.1.26.11	Ribonuclease BN
+GPPMPBPP_00221	gene	rbn_1		
+GPPMPBPP_00222	CDS	rph	2.7.7.56	Ribonuclease PH
+GPPMPBPP_00222	gene	rph		
+GPPMPBPP_00223	CDS	rdgB	3.6.1.9	dITP/XTP pyrophosphatase
+GPPMPBPP_00223	gene	rdgB		
+GPPMPBPP_00224	CDS	dhaa	4.1.3.41	3-hydroxy-D-aspartate aldolase
+GPPMPBPP_00224	gene	dhaa		
+GPPMPBPP_00225	CDS	clpP1	3.4.21.92	ATP-dependent Clp protease proteolytic subunit 1
+GPPMPBPP_00225	gene	clpP1		
+GPPMPBPP_00226	CDS			hypothetical protein
+GPPMPBPP_00226	gene			
+GPPMPBPP_00227	CDS	rpe	5.1.3.1	Ribulose-phosphate 3-epimerase
+GPPMPBPP_00227	gene	rpe		
+GPPMPBPP_00228	CDS	rlmCD	2.1.1.189	23S rRNA (uracil-C(5))-methyltransferase RlmCD
+GPPMPBPP_00228	gene	rlmCD		
+GPPMPBPP_00229	CDS	pcaF	2.3.1.174	Beta-ketoadipyl-CoA thiolase
+GPPMPBPP_00229	gene	pcaF		
+GPPMPBPP_00230	CDS			hypothetical protein
+GPPMPBPP_00230	gene			
+GPPMPBPP_00231	CDS	cutL	1.2.5.3	Carbon monoxide dehydrogenase large chain
+GPPMPBPP_00231	gene	cutL		
+GPPMPBPP_00232	CDS	coxS	1.2.5.3	Carbon monoxide dehydrogenase small chain
+GPPMPBPP_00232	gene	coxS		
+GPPMPBPP_00233	CDS	cutM	1.2.5.3	Carbon monoxide dehydrogenase medium chain
+GPPMPBPP_00233	gene	cutM		
+GPPMPBPP_00234	CDS	phaB	1.1.1.36	Acetoacetyl-CoA reductase
+GPPMPBPP_00234	gene	phaB		
+GPPMPBPP_00235	CDS	rbn_2	3.1.-.-	Ribonuclease BN
+GPPMPBPP_00235	gene	rbn_2		
+GPPMPBPP_00236	CDS			hypothetical protein
+GPPMPBPP_00236	gene			
+GPPMPBPP_00237	CDS		1.14.14.9	4-hydroxyphenylacetate 3-monooxygenase oxygenase component
+GPPMPBPP_00237	gene			
+GPPMPBPP_00238	CDS	psdht_1	4.2.1.-	Phenylserine dehydratase
+GPPMPBPP_00238	gene	psdht_1		
+GPPMPBPP_00239	CDS		1.4.1.2	NAD-specific glutamate dehydrogenase
+GPPMPBPP_00239	gene			
+GPPMPBPP_00240	CDS	glnB		Nitrogen regulatory protein P-II
+GPPMPBPP_00240	gene	glnB		
+GPPMPBPP_00241	CDS	gpmA	5.4.2.11	2,3-bisphosphoglycerate-dependent phosphoglycerate mutase
+GPPMPBPP_00241	gene	gpmA		
+GPPMPBPP_00242	CDS	rhmR		putative HTH-type transcriptional regulator RhmR
+GPPMPBPP_00242	gene	rhmR		
+GPPMPBPP_00243	CDS			hypothetical protein
+GPPMPBPP_00243	gene			
+GPPMPBPP_00244	CDS	Hgd	1.1.1.291	2-(hydroxymethyl)glutarate dehydrogenase
+GPPMPBPP_00244	gene	Hgd		
+GPPMPBPP_00245	CDS	ctaD_1	1.9.3.1	Cytochrome c oxidase subunit 1
+GPPMPBPP_00245	gene	ctaD_1		
+GPPMPBPP_00246	CDS	ctaE	1.9.3.1	Cytochrome c oxidase subunit 3
+GPPMPBPP_00246	gene	ctaE		
+GPPMPBPP_00247	CDS			hypothetical protein
+GPPMPBPP_00247	gene			
+GPPMPBPP_00248	CDS			hypothetical protein
+GPPMPBPP_00248	gene			
+GPPMPBPP_00249	CDS	ispG	1.17.7.3	4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase (flavodoxin)
+GPPMPBPP_00249	gene	ispG		
+GPPMPBPP_00250	CDS	rip1	3.4.24.-	Zinc metalloprotease Rip1
+GPPMPBPP_00250	gene	rip1		
+GPPMPBPP_00251	CDS	dxr	1.1.1.267	1-deoxy-D-xylulose 5-phosphate reductoisomerase
+GPPMPBPP_00251	gene	dxr		
+GPPMPBPP_00252	CDS	yvqK	2.5.1.17	Cob(I)yrinic acid a,c-diamide adenosyltransferase
+GPPMPBPP_00252	gene	yvqK		
+GPPMPBPP_00253	CDS	pepA	3.4.11.1	putative cytosol aminopeptidase
+GPPMPBPP_00253	gene	pepA		
+GPPMPBPP_00254	CDS	cobB	3.5.1.-	NAD-dependent protein deacetylase
+GPPMPBPP_00254	gene	cobB		
+GPPMPBPP_00255	CDS	yutF	3.1.3.-	Acid sugar phosphatase
+GPPMPBPP_00255	gene	yutF		
+GPPMPBPP_00256	CDS	korB	1.2.7.3	2-oxoglutarate oxidoreductase subunit KorB
+GPPMPBPP_00256	gene	korB		
+GPPMPBPP_00257	CDS	korA	1.2.7.3	2-oxoglutarate oxidoreductase subunit KorA
+GPPMPBPP_00257	gene	korA		
+GPPMPBPP_00258	CDS	gbuA	3.6.3.32	Glycine betaine/carnitine transport ATP-binding protein GbuA
+GPPMPBPP_00258	gene	gbuA		
+GPPMPBPP_00259	CDS	ymdB	3.5.1.-	O-acetyl-ADP-ribose deacetylase
+GPPMPBPP_00259	gene	ymdB		
+GPPMPBPP_00260	CDS	pamO_1	1.14.13.92	Phenylacetone monooxygenase
+GPPMPBPP_00260	gene	pamO_1		
+GPPMPBPP_00261	CDS			Putative enoyl-CoA hydratase EchA13
+GPPMPBPP_00261	gene			
+GPPMPBPP_00262	CDS			hypothetical protein
+GPPMPBPP_00262	gene			
+GPPMPBPP_00263	CDS			hypothetical protein
+GPPMPBPP_00263	gene			
+GPPMPBPP_00264	CDS	garR	1.1.1.60	2-hydroxy-3-oxopropionate reductase
+GPPMPBPP_00264	gene	garR		
+GPPMPBPP_00265	CDS	ilvE_1	2.6.1.42	Branched-chain-amino-acid aminotransferase
+GPPMPBPP_00265	gene	ilvE_1		
+GPPMPBPP_00266	CDS	aspC_1	2.6.1.1	Aspartate aminotransferase
+GPPMPBPP_00266	gene	aspC_1		
+GPPMPBPP_00267	CDS	polA_1	2.7.7.7	DNA polymerase I
+GPPMPBPP_00267	gene	polA_1		
+GPPMPBPP_00268	CDS			hypothetical protein
+GPPMPBPP_00268	gene			
+GPPMPBPP_00269	CDS	mlhB	3.1.1.83	Monoterpene epsilon-lactone hydrolase
+GPPMPBPP_00269	gene	mlhB		
+GPPMPBPP_00270	CDS	tsaC1_2	1.2.1.62	4-formylbenzenesulfonate dehydrogenase TsaC1/TsaC2
+GPPMPBPP_00270	gene	tsaC1_2		
+GPPMPBPP_00271	CDS			hypothetical protein
+GPPMPBPP_00271	gene			
+GPPMPBPP_00272	CDS			hypothetical protein
+GPPMPBPP_00272	gene			
+GPPMPBPP_00273	CDS			hypothetical protein
+GPPMPBPP_00273	gene			
+GPPMPBPP_00274	CDS	baiA1	1.1.1.395	Bile acid 7-dehydroxylase 1/3
+GPPMPBPP_00274	gene	baiA1		
+GPPMPBPP_00275	CDS	bacC_2	1.1.1.385	Dihydroanticapsin 7-dehydrogenase
+GPPMPBPP_00275	gene	bacC_2		
+GPPMPBPP_00276	CDS	cat1	2.8.3.-	Succinyl-CoA:coenzyme A transferase
+GPPMPBPP_00276	gene	cat1		
+GPPMPBPP_00277	CDS	paaZ		Bifunctional protein PaaZ
+GPPMPBPP_00277	gene	paaZ		
+GPPMPBPP_00278	CDS			hypothetical protein
+GPPMPBPP_00278	gene			
+GPPMPBPP_00279	CDS			hypothetical protein
+GPPMPBPP_00279	gene			
+GPPMPBPP_00280	CDS	lipV_1	3.1.1.1	Lipase LipV
+GPPMPBPP_00280	gene	lipV_1		
+GPPMPBPP_00281	CDS			hypothetical protein
+GPPMPBPP_00281	gene			
+GPPMPBPP_00282	CDS			hypothetical protein
+GPPMPBPP_00282	gene			
+GPPMPBPP_00283	CDS	rpsE		30S ribosomal protein S5
+GPPMPBPP_00283	gene	rpsE		
+GPPMPBPP_00284	CDS	rpmD		50S ribosomal protein L30
+GPPMPBPP_00284	gene	rpmD		
+GPPMPBPP_00285	CDS	rplO		50S ribosomal protein L15
+GPPMPBPP_00285	gene	rplO		
+GPPMPBPP_00286	CDS	secY		Protein translocase subunit SecY
+GPPMPBPP_00286	gene	secY		
+GPPMPBPP_00287	CDS	adk	2.7.4.3	Adenylate kinase
+GPPMPBPP_00287	gene	adk		
+GPPMPBPP_00288	CDS			hypothetical protein
+GPPMPBPP_00288	gene			
+GPPMPBPP_00289	CDS	rpsM		30S ribosomal protein S13
+GPPMPBPP_00289	gene	rpsM		
+GPPMPBPP_00290	CDS	rpsK		30S ribosomal protein S11
+GPPMPBPP_00290	gene	rpsK		
+GPPMPBPP_00291	CDS	rpsD		30S ribosomal protein S4
+GPPMPBPP_00291	gene	rpsD		
+GPPMPBPP_00292	CDS	rpoA	2.7.7.6	DNA-directed RNA polymerase subunit alpha
+GPPMPBPP_00292	gene	rpoA		
+GPPMPBPP_00293	CDS	rplQ		50S ribosomal protein L17
+GPPMPBPP_00293	gene	rplQ		
+GPPMPBPP_00294	CDS	Y2-aiiA_1	3.1.1.81	N-acyl homoserine lactonase
+GPPMPBPP_00294	gene	Y2-aiiA_1		
+GPPMPBPP_00295	CDS	hsaA_1	1.14.14.12	Flavin-dependent monooxygenase, oxygenase subunit HsaA
+GPPMPBPP_00295	gene	hsaA_1		
+GPPMPBPP_00296	CDS			hypothetical protein
+GPPMPBPP_00296	gene			
+GPPMPBPP_00297	CDS	rfnT		Riboflavin transporter RfnT
+GPPMPBPP_00297	gene	rfnT		
+GPPMPBPP_00298	CDS		6.2.1.42	3-oxocholest-4-en-26-oate--CoA ligase
+GPPMPBPP_00298	gene			
+GPPMPBPP_00299	CDS	galM	5.1.3.3	Aldose 1-epimerase
+GPPMPBPP_00299	gene	galM		
+GPPMPBPP_00300	CDS	sauT	6.2.1.-	putative sulfoacetate--CoA ligase
+GPPMPBPP_00300	gene	sauT		
+GPPMPBPP_00301	CDS	ubiG	2.1.1.222	Ubiquinone biosynthesis O-methyltransferase
+GPPMPBPP_00301	gene	ubiG		
+GPPMPBPP_00302	CDS	scpA_1	5.4.99.2	Methylmalonyl-CoA mutase
+GPPMPBPP_00302	gene	scpA_1		
+GPPMPBPP_00303	CDS	smtB_3	2.8.3.22	Succinyl-CoA--L-malate CoA-transferase beta subunit
+GPPMPBPP_00303	gene	smtB_3		
+GPPMPBPP_00304	CDS		1.13.11.82	8'-apo-carotenoid 13,14-cleaving dioxygenase
+GPPMPBPP_00304	gene			
+GPPMPBPP_00305	CDS			hypothetical protein
+GPPMPBPP_00305	gene			
+GPPMPBPP_00306	CDS	pccB_1	6.4.1.3	Propionyl-CoA carboxylase beta chain
+GPPMPBPP_00306	gene	pccB_1		
+GPPMPBPP_00307	CDS			hypothetical protein
+GPPMPBPP_00307	gene			
+GPPMPBPP_00308	CDS	polA_2	2.7.7.7	DNA polymerase I
+GPPMPBPP_00308	gene	polA_2		
+GPPMPBPP_00309	CDS		6.2.1.3	Long-chain-fatty-acid--CoA ligase
+GPPMPBPP_00309	gene			
+GPPMPBPP_00310	CDS			hypothetical protein
+GPPMPBPP_00310	gene			
+GPPMPBPP_00311	CDS			hypothetical protein
+GPPMPBPP_00311	gene			
+GPPMPBPP_00312	CDS			hypothetical protein
+GPPMPBPP_00312	gene			
+GPPMPBPP_00313	CDS			hypothetical protein
+GPPMPBPP_00313	gene			
+GPPMPBPP_00314	CDS			hypothetical protein
+GPPMPBPP_00314	gene			
+GPPMPBPP_00315	CDS	rnhB	3.1.26.4	Ribonuclease HII
+GPPMPBPP_00315	gene	rnhB		
+GPPMPBPP_00316	CDS	ubiE	2.1.1.163	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE
+GPPMPBPP_00316	gene	ubiE		
+GPPMPBPP_00317	CDS		1.3.99.-	Acyl-CoA dehydrogenase FadE34
+GPPMPBPP_00317	gene			
+GPPMPBPP_00318	CDS			hypothetical protein
+GPPMPBPP_00318	gene			
+GPPMPBPP_00319	CDS			hypothetical protein
+GPPMPBPP_00319	gene			
+GPPMPBPP_00320	CDS	dinB	2.7.7.7	DNA polymerase IV
+GPPMPBPP_00320	gene	dinB		
+GPPMPBPP_00321	CDS	ddpX	3.4.13.22	D-alanyl-D-alanine dipeptidase
+GPPMPBPP_00321	gene	ddpX		
+GPPMPBPP_00322	CDS		4.3.2.3	Ureidoglycolate lyase
+GPPMPBPP_00322	gene			
+GPPMPBPP_00323	CDS			hypothetical protein
+GPPMPBPP_00323	gene			
+GPPMPBPP_00324	CDS	lhgO	1.1.3.15	L-2-hydroxyglutarate oxidase LhgO
+GPPMPBPP_00324	gene	lhgO		
+GPPMPBPP_00325	CDS			hypothetical protein
+GPPMPBPP_00325	gene			
+GPPMPBPP_00326	CDS	glpX	3.1.3.11	Fructose-1,6-bisphosphatase class 2
+GPPMPBPP_00326	gene	glpX		
+GPPMPBPP_00327	CDS	hisI	3.5.4.19	Phosphoribosyl-AMP cyclohydrolase
+GPPMPBPP_00327	gene	hisI		
+GPPMPBPP_00328	CDS	leuD	4.2.1.33	3-isopropylmalate dehydratase small subunit
+GPPMPBPP_00328	gene	leuD		
+GPPMPBPP_00329	CDS	leuC	4.2.1.33	3-isopropylmalate dehydratase large subunit
+GPPMPBPP_00329	gene	leuC		
+GPPMPBPP_00330	CDS	catD_1	3.1.1.24	3-oxoadipate enol-lactonase 2
+GPPMPBPP_00330	gene	catD_1		
+GPPMPBPP_00331	CDS	greA		Transcription elongation factor GreA
+GPPMPBPP_00331	gene	greA		
+GPPMPBPP_00332	CDS	leuB	1.1.1.85	3-isopropylmalate dehydrogenase
+GPPMPBPP_00332	gene	leuB		
+GPPMPBPP_00333	CDS	phhB	4.2.1.96	Putative pterin-4-alpha-carbinolamine dehydratase
+GPPMPBPP_00333	gene	phhB		
+GPPMPBPP_00334	CDS	sufC_1		Vegetative protein 296
+GPPMPBPP_00334	gene	sufC_1		
+GPPMPBPP_00335	CDS	hcaC		3-phenylpropionate/cinnamic acid dioxygenase ferredoxin subunit
+GPPMPBPP_00335	gene	hcaC		
+GPPMPBPP_00336	CDS	sufD		FeS cluster assembly protein SufD
+GPPMPBPP_00336	gene	sufD		
+GPPMPBPP_00337	CDS			hypothetical protein
+GPPMPBPP_00337	gene			
+GPPMPBPP_00338	CDS			hypothetical protein
+GPPMPBPP_00338	gene			
+GPPMPBPP_00339	tRNA			tRNA-Val(gac)
+GPPMPBPP_00339	gene			
+GPPMPBPP_00340	tRNA			tRNA-Cys(gca)
+GPPMPBPP_00340	gene			
+GPPMPBPP_00341	CDS			hypothetical protein
+GPPMPBPP_00341	gene			
+GPPMPBPP_00342	CDS			hypothetical protein
+GPPMPBPP_00342	gene			
+GPPMPBPP_00343	CDS		1.1.1.-	Putative short-chain type dehydrogenase/reductase
+GPPMPBPP_00343	gene			
+GPPMPBPP_00344	CDS			hypothetical protein
+GPPMPBPP_00344	gene			
+GPPMPBPP_00345	CDS		2.6.1.1	Aspartate aminotransferase
+GPPMPBPP_00345	gene			
+GPPMPBPP_00346	CDS	serA_1	1.1.1.95	D-3-phosphoglycerate dehydrogenase
+GPPMPBPP_00346	gene	serA_1		
+GPPMPBPP_00347	CDS	eryG	2.1.1.254	Erythromycin 3''-O-methyltransferase
+GPPMPBPP_00347	gene	eryG		
+GPPMPBPP_00348	CDS	bphC2	1.13.11.39	Biphenyl-2,3-diol 1,2-dioxygenase 2
+GPPMPBPP_00348	gene	bphC2		
+GPPMPBPP_00349	CDS	thrH	3.1.3.3	Phosphoserine phosphatase ThrH
+GPPMPBPP_00349	gene	thrH		
+GPPMPBPP_00350	CDS			hypothetical protein
+GPPMPBPP_00350	gene			
+GPPMPBPP_00351	CDS	ccmE		Cytochrome c-type biogenesis protein CcmE
+GPPMPBPP_00351	gene	ccmE		
+GPPMPBPP_00352	CDS			hypothetical protein
+GPPMPBPP_00352	gene			
+GPPMPBPP_00353	CDS	ccmC		Heme exporter protein C
+GPPMPBPP_00353	gene	ccmC		
+GPPMPBPP_00354	CDS			hypothetical protein
+GPPMPBPP_00354	gene			
+GPPMPBPP_00355	CDS	glnQ		Glutamine transport ATP-binding protein GlnQ
+GPPMPBPP_00355	gene	glnQ		
+GPPMPBPP_00356	CDS			Biotinylated protein TB7.3
+GPPMPBPP_00356	gene			
+GPPMPBPP_00357	CDS			hypothetical protein
+GPPMPBPP_00357	gene			
+GPPMPBPP_00358	CDS			hypothetical protein
+GPPMPBPP_00358	gene			
+GPPMPBPP_00359	CDS	kstR2_1		HTH-type transcriptional repressor KstR2
+GPPMPBPP_00359	gene	kstR2_1		
+GPPMPBPP_00360	CDS	smtB_4	2.8.3.22	Succinyl-CoA--L-malate CoA-transferase beta subunit
+GPPMPBPP_00360	gene	smtB_4		
+GPPMPBPP_00361	CDS			hypothetical protein
+GPPMPBPP_00361	gene			
+GPPMPBPP_00362	CDS			hypothetical protein
+GPPMPBPP_00362	gene			
+GPPMPBPP_00363	CDS	gatC	6.3.5.-	Glutamyl-tRNA(Gln) amidotransferase subunit C
+GPPMPBPP_00363	gene	gatC		
+GPPMPBPP_00364	CDS	gatA_1	6.3.5.7	Glutamyl-tRNA(Gln) amidotransferase subunit A
+GPPMPBPP_00364	gene	gatA_1		
+GPPMPBPP_00365	CDS	gatB	6.3.5.-	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+GPPMPBPP_00365	gene	gatB		
+GPPMPBPP_00366	CDS		1.14.-.-	Cytochrome P450 107B1
+GPPMPBPP_00366	gene			
+GPPMPBPP_00367	CDS	carH		HTH-type transcriptional repressor CarH
+GPPMPBPP_00367	gene	carH		
+GPPMPBPP_00368	CDS			hypothetical protein
+GPPMPBPP_00368	gene			
+GPPMPBPP_00369	CDS	frdA	1.3.5.4	Fumarate reductase flavoprotein subunit
+GPPMPBPP_00369	gene	frdA		
+GPPMPBPP_00370	CDS	frdB	1.3.5.1	Fumarate reductase iron-sulfur subunit
+GPPMPBPP_00370	gene	frdB		
+GPPMPBPP_00371	CDS			hypothetical protein
+GPPMPBPP_00371	gene			
+GPPMPBPP_00372	CDS			hypothetical protein
+GPPMPBPP_00372	gene			
+GPPMPBPP_00373	CDS	bauA	2.6.1.18	Beta-alanine--pyruvate aminotransferase
+GPPMPBPP_00373	gene	bauA		
+GPPMPBPP_00374	CDS	tyrA		T-protein
+GPPMPBPP_00374	gene	tyrA		
+GPPMPBPP_00375	CDS	ypeA	2.3.1.-	Acetyltransferase YpeA
+GPPMPBPP_00375	gene	ypeA		
+GPPMPBPP_00376	CDS			hypothetical protein
+GPPMPBPP_00376	gene			
+GPPMPBPP_00377	CDS			hypothetical protein
+GPPMPBPP_00377	gene			
+GPPMPBPP_00378	CDS	yfeX	1.11.1.-	putative deferrochelatase/peroxidase YfeX
+GPPMPBPP_00378	gene	yfeX		
+GPPMPBPP_00379	CDS			hypothetical protein
+GPPMPBPP_00379	gene			
+GPPMPBPP_00380	CDS			hypothetical protein
+GPPMPBPP_00380	gene			
+GPPMPBPP_00381	CDS	stp_1		Multidrug resistance protein Stp
+GPPMPBPP_00381	gene	stp_1		
+GPPMPBPP_00382	CDS	ssuD_1	1.14.14.5	Alkanesulfonate monooxygenase
+GPPMPBPP_00382	gene	ssuD_1		
+GPPMPBPP_00383	CDS	fadK	6.2.1.-	Short-chain-fatty-acid--CoA ligase
+GPPMPBPP_00383	gene	fadK		
+GPPMPBPP_00384	CDS			hypothetical protein
+GPPMPBPP_00384	gene			
+GPPMPBPP_00385	CDS			hypothetical protein
+GPPMPBPP_00385	gene			
+GPPMPBPP_00386	CDS			hypothetical protein
+GPPMPBPP_00386	gene			
+GPPMPBPP_00387	CDS	crt_2	4.2.1.150	Short-chain-enoyl-CoA hydratase
+GPPMPBPP_00387	gene	crt_2		
+GPPMPBPP_00388	CDS			hypothetical protein
+GPPMPBPP_00388	gene			
+GPPMPBPP_00389	CDS			hypothetical protein
+GPPMPBPP_00389	gene			
+GPPMPBPP_00390	CDS			hypothetical protein
+GPPMPBPP_00390	gene			
+GPPMPBPP_00391	CDS			hypothetical protein
+GPPMPBPP_00391	gene			
+GPPMPBPP_00392	CDS	crtN	1.3.8.2	Dehydrosqualene desaturase
+GPPMPBPP_00392	gene	crtN		
+GPPMPBPP_00393	CDS		1.3.99.-	Putative acyl-CoA dehydrogenase FadE17
+GPPMPBPP_00393	gene			
+GPPMPBPP_00394	CDS	pgdA_2	3.5.1.-	Peptidoglycan deacetylase
+GPPMPBPP_00394	gene	pgdA_2		
+GPPMPBPP_00395	CDS			hypothetical protein
+GPPMPBPP_00395	gene			
+GPPMPBPP_00396	CDS			hypothetical protein
+GPPMPBPP_00396	gene			
+GPPMPBPP_00397	CDS			hypothetical protein
+GPPMPBPP_00397	gene			
+GPPMPBPP_00398	CDS	rbn_3	3.1.26.11	Ribonuclease BN
+GPPMPBPP_00398	gene	rbn_3		
+GPPMPBPP_00399	CDS	cysO		Sulfur carrier protein CysO
+GPPMPBPP_00399	gene	cysO		
+GPPMPBPP_00400	CDS	smpB		SsrA-binding protein
+GPPMPBPP_00400	gene	smpB		
+GPPMPBPP_00401	CDS			hypothetical protein
+GPPMPBPP_00401	gene			
+GPPMPBPP_00402	tmRNA	ssrA		transfer-messenger RNA, SsrA
+GPPMPBPP_00402	gene	ssrA		
+GPPMPBPP_00403	CDS		1.14.13.22	Cyclohexanone 1,2-monooxygenase
+GPPMPBPP_00403	gene			
+GPPMPBPP_00404	CDS	mgl_1	4.4.1.11	L-methionine gamma-lyase
+GPPMPBPP_00404	gene	mgl_1		
+GPPMPBPP_00405	CDS	calA	1.1.1.194	Coniferyl-alcohol dehydrogenase
+GPPMPBPP_00405	gene	calA		
+GPPMPBPP_00406	CDS	dddD	2.-.-.-	CoA-transferase/lyase DddD
+GPPMPBPP_00406	gene	dddD		
+GPPMPBPP_00407	CDS	mhpD	4.2.1.80	2-keto-4-pentenoate hydratase
+GPPMPBPP_00407	gene	mhpD		
+GPPMPBPP_00408	CDS	bbsF_2	2.8.3.15	Succinyl-CoA:(R)-benzylsuccinate CoA-transferase subunit BbsF
+GPPMPBPP_00408	gene	bbsF_2		
+GPPMPBPP_00409	CDS			hypothetical protein
+GPPMPBPP_00409	gene			
+GPPMPBPP_00410	CDS	menJ	1.3.-.-	Menaquinone reductase
+GPPMPBPP_00410	gene	menJ		
+GPPMPBPP_00411	CDS		3.1.3.-	Phosphorylated carbohydrates phosphatase
+GPPMPBPP_00411	gene			
+GPPMPBPP_00412	CDS			hypothetical protein
+GPPMPBPP_00412	gene			
+GPPMPBPP_00413	CDS	hemC	2.5.1.61	Porphobilinogen deaminase
+GPPMPBPP_00413	gene	hemC		
+GPPMPBPP_00414	CDS			hypothetical protein
+GPPMPBPP_00414	gene			
+GPPMPBPP_00415	CDS	salL	2.5.1.94	Adenosyl-chloride synthase
+GPPMPBPP_00415	gene	salL		
+GPPMPBPP_00416	CDS	proC	1.5.1.2	Pyrroline-5-carboxylate reductase
+GPPMPBPP_00416	gene	proC		
+GPPMPBPP_00417	CDS			hypothetical protein
+GPPMPBPP_00417	gene			
+GPPMPBPP_00418	CDS	mshA_2	2.4.1.250	D-inositol 3-phosphate glycosyltransferase
+GPPMPBPP_00418	gene	mshA_2		
+GPPMPBPP_00419	CDS			hypothetical protein
+GPPMPBPP_00419	gene			
+GPPMPBPP_00420	CDS			hypothetical protein
+GPPMPBPP_00420	gene			
+GPPMPBPP_00421	CDS	gpgP	3.1.3.85	Glucosyl-3-phosphoglycerate phosphatase
+GPPMPBPP_00421	gene	gpgP		
+GPPMPBPP_00422	CDS			hypothetical protein
+GPPMPBPP_00422	gene			
+GPPMPBPP_00423	CDS	yciC		Putative metal chaperone YciC
+GPPMPBPP_00423	gene	yciC		
+GPPMPBPP_00424	CDS	nfdA	3.5.1.91	N-substituted formamide deformylase
+GPPMPBPP_00424	gene	nfdA		
+GPPMPBPP_00425	tRNA			tRNA-Lys(ttt)
+GPPMPBPP_00425	gene			
+GPPMPBPP_00426	CDS	ybaK	4.2.-.-	Cys-tRNA(Pro)/Cys-tRNA(Cys) deacylase YbaK
+GPPMPBPP_00426	gene	ybaK		
+GPPMPBPP_00427	CDS			hypothetical protein
+GPPMPBPP_00427	gene			
+GPPMPBPP_00428	CDS	dut	3.6.1.23	Deoxyuridine 5'-triphosphate nucleotidohydrolase
+GPPMPBPP_00428	gene	dut		
+GPPMPBPP_00429	CDS	orn	3.1.-.-	Oligoribonuclease
+GPPMPBPP_00429	gene	orn		
+GPPMPBPP_00430	CDS	gloB	3.1.2.6	Hydroxyacylglutathione hydrolase
+GPPMPBPP_00430	gene	gloB		
+GPPMPBPP_00431	CDS	paaG_1	5.3.3.18	1,2-epoxyphenylacetyl-CoA isomerase
+GPPMPBPP_00431	gene	paaG_1		
+GPPMPBPP_00432	CDS	yfdE_3	2.8.3.19	Acetyl-CoA:oxalate CoA-transferase
+GPPMPBPP_00432	gene	yfdE_3		
+GPPMPBPP_00433	CDS			hypothetical protein
+GPPMPBPP_00433	gene			
+GPPMPBPP_00434	CDS			hypothetical protein
+GPPMPBPP_00434	gene			
+GPPMPBPP_00435	CDS	yhjX_1		putative MFS-type transporter YhjX
+GPPMPBPP_00435	gene	yhjX_1		
+GPPMPBPP_00436	CDS	mhqD	3.1.-.-	Putative hydrolase MhqD
+GPPMPBPP_00436	gene	mhqD		
+GPPMPBPP_00437	CDS			hypothetical protein
+GPPMPBPP_00437	gene			
+GPPMPBPP_00438	CDS	fabG3_1	1.1.1.53	3-alpha-(or 20-beta)-hydroxysteroid dehydrogenase
+GPPMPBPP_00438	gene	fabG3_1		
+GPPMPBPP_00439	CDS	trkA		Trk system potassium uptake protein TrkA
+GPPMPBPP_00439	gene	trkA		
+GPPMPBPP_00440	CDS			hypothetical protein
+GPPMPBPP_00440	gene			
+GPPMPBPP_00441	CDS	gyrA	5.99.1.3	DNA gyrase subunit A
+GPPMPBPP_00441	gene	gyrA		
+GPPMPBPP_00442	CDS	dppA		Periplasmic dipeptide transport protein
+GPPMPBPP_00442	gene	dppA		
+GPPMPBPP_00443	CDS	rdpA_2	1.14.11.44	(R)-phenoxypropionate/alpha-ketoglutarate-dioxygenase
+GPPMPBPP_00443	gene	rdpA_2		
+GPPMPBPP_00444	CDS		1.-.-.-	Putative coenzyme F420-dependent oxidoreductase
+GPPMPBPP_00444	gene			
+GPPMPBPP_00445	CDS			hypothetical protein
+GPPMPBPP_00445	gene			
+GPPMPBPP_00446	CDS	msrB	1.8.4.12	Peptide methionine sulfoxide reductase MsrB
+GPPMPBPP_00446	gene	msrB		
+GPPMPBPP_00447	CDS			putative HTH-type transcriptional regulator
+GPPMPBPP_00447	gene			
+GPPMPBPP_00448	CDS			hypothetical protein
+GPPMPBPP_00448	gene			
+GPPMPBPP_00449	CDS	garA		Glycogen accumulation regulator GarA
+GPPMPBPP_00449	gene	garA		
+GPPMPBPP_00450	CDS	gcvH		Glycine cleavage system H protein
+GPPMPBPP_00450	gene	gcvH		
+GPPMPBPP_00451	CDS			hypothetical protein
+GPPMPBPP_00451	gene			
+GPPMPBPP_00452	CDS			hypothetical protein
+GPPMPBPP_00452	gene			
+GPPMPBPP_00453	CDS	pstA		Phosphate transport system permease protein PstA
+GPPMPBPP_00453	gene	pstA		
+GPPMPBPP_00454	CDS	pstB	3.6.3.27	Phosphate import ATP-binding protein PstB
+GPPMPBPP_00454	gene	pstB		
+GPPMPBPP_00455	CDS	phoU		Phosphate-specific transport system accessory protein PhoU 
+GPPMPBPP_00455	gene	phoU		
+GPPMPBPP_00456	CDS	senX3	2.7.13.3	Signal-transduction histidine kinase senX3
+GPPMPBPP_00456	gene	senX3		
+GPPMPBPP_00457	CDS	regX3_1		Sensory transduction protein regX3
+GPPMPBPP_00457	gene	regX3_1		
+GPPMPBPP_00458	CDS			hypothetical protein
+GPPMPBPP_00458	gene			
+GPPMPBPP_00459	CDS			hypothetical protein
+GPPMPBPP_00459	gene			
+GPPMPBPP_00460	CDS			hypothetical protein
+GPPMPBPP_00460	gene			
+GPPMPBPP_00461	tRNA			tRNA-Arg(cct)
+GPPMPBPP_00461	gene			
+GPPMPBPP_00462	CDS			hypothetical protein
+GPPMPBPP_00462	gene			
+GPPMPBPP_00463	CDS	bdbC		Disulfide bond formation protein C
+GPPMPBPP_00463	gene	bdbC		
+GPPMPBPP_00464	CDS	emrY		putative multidrug resistance protein EmrY
+GPPMPBPP_00464	gene	emrY		
+GPPMPBPP_00465	CDS			hypothetical protein
+GPPMPBPP_00465	gene			
+GPPMPBPP_00466	CDS	clpC1		ATP-dependent Clp protease ATP-binding subunit ClpC1
+GPPMPBPP_00466	gene	clpC1		
+GPPMPBPP_00467	CDS	ispD	2.7.7.60	2-C-methyl-D-erythritol 4-phosphate cytidylyltransferase
+GPPMPBPP_00467	gene	ispD		
+GPPMPBPP_00468	CDS	ispF	4.6.1.12	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+GPPMPBPP_00468	gene	ispF		
+GPPMPBPP_00469	CDS		2.1.1.-	Putative TrmH family tRNA/rRNA methyltransferase
+GPPMPBPP_00469	gene			
+GPPMPBPP_00470	tRNA			tRNA-Thr(tgt)
+GPPMPBPP_00470	gene			
+GPPMPBPP_00471	CDS			hypothetical protein
+GPPMPBPP_00471	gene			
+GPPMPBPP_00472	CDS			hypothetical protein
+GPPMPBPP_00472	gene			
+GPPMPBPP_00473	CDS			hypothetical protein
+GPPMPBPP_00473	gene			
+GPPMPBPP_00474	CDS	cinA_1		Putative competence-damage inducible protein
+GPPMPBPP_00474	gene	cinA_1		
+GPPMPBPP_00475	CDS			hypothetical protein
+GPPMPBPP_00475	gene			
+GPPMPBPP_00476	CDS	ask	2.7.2.4	Aspartokinase
+GPPMPBPP_00476	gene	ask		
+GPPMPBPP_00477	CDS	cypB	5.2.1.8	Peptidyl-prolyl cis-trans isomerase B
+GPPMPBPP_00477	gene	cypB		
+GPPMPBPP_00478	CDS	aat	2.3.2.6	Leucyl/phenylalanyl-tRNA--protein transferase
+GPPMPBPP_00478	gene	aat		
+GPPMPBPP_00479	CDS	yihX	3.1.3.10	Alpha-D-glucose 1-phosphate phosphatase YihX
+GPPMPBPP_00479	gene	yihX		
+GPPMPBPP_00480	CDS			hypothetical protein
+GPPMPBPP_00480	gene			
+GPPMPBPP_00481	CDS	nylA	3.5.2.12	6-aminohexanoate-cyclic-dimer hydrolase
+GPPMPBPP_00481	gene	nylA		
+GPPMPBPP_00482	CDS			hypothetical protein
+GPPMPBPP_00482	gene			
+GPPMPBPP_00483	CDS			hypothetical protein
+GPPMPBPP_00483	gene			
+GPPMPBPP_00484	CDS		3.5.1.111	2-oxoglutaramate amidase
+GPPMPBPP_00484	gene			
+GPPMPBPP_00485	CDS	dapC	2.6.1.17	putative N-succinyldiaminopimelate aminotransferase DapC
+GPPMPBPP_00485	gene	dapC		
+GPPMPBPP_00486	CDS			hypothetical protein
+GPPMPBPP_00486	gene			
+GPPMPBPP_00487	CDS	gltX	6.1.1.17	Glutamate--tRNA ligase
+GPPMPBPP_00487	gene	gltX		
+GPPMPBPP_00488	CDS	eltD	1.1.1.-	Erythritol/L-threitol dehydrogenase
+GPPMPBPP_00488	gene	eltD		
+GPPMPBPP_00489	CDS	bcr		Bicyclomycin resistance protein
+GPPMPBPP_00489	gene	bcr		
+GPPMPBPP_00490	CDS	pksS_1	1.14.-.-	Polyketide biosynthesis cytochrome P450 PksS
+GPPMPBPP_00490	gene	pksS_1		
+GPPMPBPP_00491	CDS	cphA	3.5.2.6	Metallo-beta-lactamase type 2
+GPPMPBPP_00491	gene	cphA		
+GPPMPBPP_00492	CDS	gnl	3.1.1.17	Gluconolactonase
+GPPMPBPP_00492	gene	gnl		
+GPPMPBPP_00493	CDS	ftsK		DNA translocase FtsK
+GPPMPBPP_00493	gene	ftsK		
+GPPMPBPP_00494	CDS			hypothetical protein
+GPPMPBPP_00494	gene			
+GPPMPBPP_00495	CDS			hypothetical protein
+GPPMPBPP_00495	gene			
+GPPMPBPP_00496	CDS			hypothetical protein
+GPPMPBPP_00496	gene			
+GPPMPBPP_00497	CDS			hypothetical protein
+GPPMPBPP_00497	gene			
+GPPMPBPP_00498	CDS	baeB	3.-.-.-	putative polyketide biosynthesis zinc-dependent hydrolase BaeB
+GPPMPBPP_00498	gene	baeB		
+GPPMPBPP_00499	CDS	sseB	2.8.1.1	Putative thiosulfate sulfurtransferase SseB
+GPPMPBPP_00499	gene	sseB		
+GPPMPBPP_00500	CDS	bcd	1.3.8.1	Acyl-CoA dehydrogenase, short-chain specific
+GPPMPBPP_00500	gene	bcd		
+GPPMPBPP_00501	CDS			hypothetical protein
+GPPMPBPP_00501	gene			
+GPPMPBPP_00502	CDS	yjgH		RutC family protein YjgH
+GPPMPBPP_00502	gene	yjgH		
+GPPMPBPP_00503	CDS	soxA	1.5.3.1	Monomeric sarcosine oxidase
+GPPMPBPP_00503	gene	soxA		
+GPPMPBPP_00504	CDS			hypothetical protein
+GPPMPBPP_00504	gene			
+GPPMPBPP_00505	CDS			hypothetical protein
+GPPMPBPP_00505	gene			
+GPPMPBPP_00506	CDS	gno	1.1.1.69	Gluconate 5-dehydrogenase
+GPPMPBPP_00506	gene	gno		
+GPPMPBPP_00507	CDS	crt_3	4.2.1.150	Short-chain-enoyl-CoA hydratase
+GPPMPBPP_00507	gene	crt_3		
+GPPMPBPP_00508	CDS			hypothetical protein
+GPPMPBPP_00508	gene			
+GPPMPBPP_00509	CDS			hypothetical protein
+GPPMPBPP_00509	gene			
+GPPMPBPP_00510	CDS			hypothetical protein
+GPPMPBPP_00510	gene			
+GPPMPBPP_00511	CDS			hypothetical protein
+GPPMPBPP_00511	gene			
+GPPMPBPP_00512	CDS		1.2.-.-	Phthiodiolone/phenolphthiodiolone dimycocerosates ketoreductase
+GPPMPBPP_00512	gene			
+GPPMPBPP_00513	CDS	smtB_5	2.8.3.22	Succinyl-CoA--L-malate CoA-transferase beta subunit
+GPPMPBPP_00513	gene	smtB_5		
+GPPMPBPP_00514	CDS			hypothetical protein
+GPPMPBPP_00514	gene			
+GPPMPBPP_00515	CDS	rutA_1	1.14.99.46	Pyrimidine monooxygenase RutA
+GPPMPBPP_00515	gene	rutA_1		
+GPPMPBPP_00516	CDS			hypothetical protein
+GPPMPBPP_00516	gene			
+GPPMPBPP_00517	CDS		1.2.-.-	Phthiodiolone/phenolphthiodiolone dimycocerosates ketoreductase
+GPPMPBPP_00517	gene			
+GPPMPBPP_00518	CDS	hsaA_2	1.14.14.12	Flavin-dependent monooxygenase, oxygenase subunit HsaA
+GPPMPBPP_00518	gene	hsaA_2		
+GPPMPBPP_00519	CDS	iolG	1.1.1.18	Inositol 2-dehydrogenase/D-chiro-inositol 3-dehydrogenase
+GPPMPBPP_00519	gene	iolG		
+GPPMPBPP_00520	CDS			hypothetical protein
+GPPMPBPP_00520	gene			
+GPPMPBPP_00521	CDS	nfnB_1	1.-.-.-	Nitroreductase NfnB
+GPPMPBPP_00521	gene	nfnB_1		
+GPPMPBPP_00522	CDS	thcD	1.18.1.-	Rhodocoxin reductase
+GPPMPBPP_00522	gene	thcD		
+GPPMPBPP_00523	CDS	yvdD		LOG family protein YvdD
+GPPMPBPP_00523	gene	yvdD		
+GPPMPBPP_00524	tRNA			tRNA-Pro(ggg)
+GPPMPBPP_00524	gene			
+GPPMPBPP_00525	CDS	capA		Capsule biosynthesis protein CapA
+GPPMPBPP_00525	gene	capA		
+GPPMPBPP_00526	CDS			hypothetical protein
+GPPMPBPP_00526	gene			
+GPPMPBPP_00527	CDS		4.4.1.8	Putative cystathionine beta-lyase
+GPPMPBPP_00527	gene			
+GPPMPBPP_00528	CDS			hypothetical protein
+GPPMPBPP_00528	gene			
+GPPMPBPP_00529	CDS	rpoZ	2.7.7.6	DNA-directed RNA polymerase subunit omega
+GPPMPBPP_00529	gene	rpoZ		
+GPPMPBPP_00530	CDS	gmk	2.7.4.8	Guanylate kinase
+GPPMPBPP_00530	gene	gmk		
+GPPMPBPP_00531	CDS			hypothetical protein
+GPPMPBPP_00531	gene			
+GPPMPBPP_00532	CDS	pyrF	4.1.1.23	Orotidine 5'-phosphate decarboxylase
+GPPMPBPP_00532	gene	pyrF		
+GPPMPBPP_00533	CDS	pyrDB	1.3.1.14	Dihydroorotate dehydrogenase B (NAD(+)), catalytic subunit
+GPPMPBPP_00533	gene	pyrDB		
+GPPMPBPP_00534	CDS			hypothetical protein
+GPPMPBPP_00534	gene			
+GPPMPBPP_00535	CDS			hypothetical protein
+GPPMPBPP_00535	gene			
+GPPMPBPP_00536	CDS	aruH	2.6.1.84	Arginine--pyruvate transaminase AruH
+GPPMPBPP_00536	gene	aruH		
+GPPMPBPP_00537	CDS	cinA_2	1.14.13.156	1,8-cineole 2-endo-monooxygenase
+GPPMPBPP_00537	gene	cinA_2		
+GPPMPBPP_00538	CDS	entS		Enterobactin exporter EntS
+GPPMPBPP_00538	gene	entS		
+GPPMPBPP_00539	CDS	fadA5_1	2.3.1.16	Steroid 3-ketoacyl-CoA thiolase
+GPPMPBPP_00539	gene	fadA5_1		
+GPPMPBPP_00540	CDS		1.-.-.-	putative oxidoreductase
+GPPMPBPP_00540	gene			
+GPPMPBPP_00541	CDS	catD_2	3.1.1.24	3-oxoadipate enol-lactonase 2
+GPPMPBPP_00541	gene	catD_2		
+GPPMPBPP_00542	CDS	hppA1	3.6.1.1	Putative K(+)-stimulated pyrophosphate-energized sodium pump
+GPPMPBPP_00542	gene	hppA1		
+GPPMPBPP_00543	CDS		3.1.-.-	Phosphatase
+GPPMPBPP_00543	gene			
+GPPMPBPP_00544	CDS	nhaA		Na(+)/H(+) antiporter NhaA
+GPPMPBPP_00544	gene	nhaA		
+GPPMPBPP_00545	CDS	luxB	1.14.14.3	Alkanal monooxygenase beta chain
+GPPMPBPP_00545	gene	luxB		
+GPPMPBPP_00546	CDS	kstR2_2		HTH-type transcriptional repressor KstR2
+GPPMPBPP_00546	gene	kstR2_2		
+GPPMPBPP_00547	CDS			hypothetical protein
+GPPMPBPP_00547	gene			
+GPPMPBPP_00548	CDS			hypothetical protein
+GPPMPBPP_00548	gene			
+GPPMPBPP_00549	CDS			hypothetical protein
+GPPMPBPP_00549	gene			
+GPPMPBPP_00550	CDS	ssuD_2	1.14.14.5	Alkanesulfonate monooxygenase
+GPPMPBPP_00550	gene	ssuD_2		
+GPPMPBPP_00551	CDS	bbsF_3	2.8.3.15	Succinyl-CoA:(R)-benzylsuccinate CoA-transferase subunit BbsF
+GPPMPBPP_00551	gene	bbsF_3		
+GPPMPBPP_00552	CDS			hypothetical protein
+GPPMPBPP_00552	gene			
+GPPMPBPP_00553	CDS			hypothetical protein
+GPPMPBPP_00553	gene			
+GPPMPBPP_00554	CDS		2.6.1.51	Serine-pyruvate aminotransferase
+GPPMPBPP_00554	gene			
+GPPMPBPP_00555	CDS			hypothetical protein
+GPPMPBPP_00555	gene			
+GPPMPBPP_00556	CDS	pknD	2.7.11.1	Serine/threonine-protein kinase PknD
+GPPMPBPP_00556	gene	pknD		
+GPPMPBPP_00557	CDS			hypothetical protein
+GPPMPBPP_00557	gene			
+GPPMPBPP_00558	CDS			hypothetical protein
+GPPMPBPP_00558	gene			
+GPPMPBPP_00559	CDS	rplI		50S ribosomal protein L9
+GPPMPBPP_00559	gene	rplI		
+GPPMPBPP_00560	CDS	rpsR1		30S ribosomal protein S18 1
+GPPMPBPP_00560	gene	rpsR1		
+GPPMPBPP_00561	CDS	ssb		Single-stranded DNA-binding protein
+GPPMPBPP_00561	gene	ssb		
+GPPMPBPP_00562	CDS	rpsF		30S ribosomal protein S6
+GPPMPBPP_00562	gene	rpsF		
+GPPMPBPP_00563	CDS			hypothetical protein
+GPPMPBPP_00563	gene			
+GPPMPBPP_00564	CDS	bacC_3	1.1.1.385	Dihydroanticapsin 7-dehydrogenase
+GPPMPBPP_00564	gene	bacC_3		
+GPPMPBPP_00565	CDS			hypothetical protein
+GPPMPBPP_00565	gene			
+GPPMPBPP_00566	CDS	bcpB_1	1.11.1.15	Putative peroxiredoxin
+GPPMPBPP_00566	gene	bcpB_1		
+GPPMPBPP_00567	CDS	bcpB_2	1.11.1.15	Putative peroxiredoxin
+GPPMPBPP_00567	gene	bcpB_2		
+GPPMPBPP_00568	CDS	nlhH_1	3.1.1.1	Carboxylesterase NlhH
+GPPMPBPP_00568	gene	nlhH_1		
+GPPMPBPP_00569	CDS	luxA_1	1.14.14.3	Alkanal monooxygenase alpha chain
+GPPMPBPP_00569	gene	luxA_1		
+GPPMPBPP_00570	CDS			hypothetical protein
+GPPMPBPP_00570	gene			
+GPPMPBPP_00571	CDS	dmoA	1.14.13.131	Dimethyl-sulfide monooxygenase
+GPPMPBPP_00571	gene	dmoA		
+GPPMPBPP_00572	CDS	araE		Arabinose-proton symporter
+GPPMPBPP_00572	gene	araE		
+GPPMPBPP_00573	CDS		1.1.1.81	Hydroxypyruvate reductase
+GPPMPBPP_00573	gene			
+GPPMPBPP_00574	CDS			hypothetical protein
+GPPMPBPP_00574	gene			
+GPPMPBPP_00575	CDS	uvrB		UvrABC system protein B
+GPPMPBPP_00575	gene	uvrB		
+GPPMPBPP_00576	CDS		1.1.1.306	S-(hydroxymethyl)mycothiol dehydrogenase
+GPPMPBPP_00576	gene			
+GPPMPBPP_00577	CDS			hypothetical protein
+GPPMPBPP_00577	gene			
+GPPMPBPP_00578	CDS	ilvD	4.2.1.9	Dihydroxy-acid dehydratase
+GPPMPBPP_00578	gene	ilvD		
+GPPMPBPP_00579	CDS			hypothetical protein
+GPPMPBPP_00579	gene			
+GPPMPBPP_00580	CDS	fabG3_2	1.1.1.53	3-alpha-(or 20-beta)-hydroxysteroid dehydrogenase
+GPPMPBPP_00580	gene	fabG3_2		
+GPPMPBPP_00581	CDS	typA		GTP-binding protein TypA/BipA
+GPPMPBPP_00581	gene	typA		
+GPPMPBPP_00582	CDS			Purine-binding protein
+GPPMPBPP_00582	gene			
+GPPMPBPP_00583	CDS		1.-.-.-	Putative coenzyme F420-dependent oxidoreductase
+GPPMPBPP_00583	gene			
+GPPMPBPP_00584	CDS	gcdC	4.1.1.70	Glutaconyl-CoA decarboxylase subunit gamma
+GPPMPBPP_00584	gene	gcdC		
+GPPMPBPP_00585	CDS			hypothetical protein
+GPPMPBPP_00585	gene			
+GPPMPBPP_00586	CDS	qacA_1		Antiseptic resistance protein
+GPPMPBPP_00586	gene	qacA_1		
+GPPMPBPP_00587	CDS	crt_4	4.2.1.150	Short-chain-enoyl-CoA hydratase
+GPPMPBPP_00587	gene	crt_4		
+GPPMPBPP_00588	CDS		1.14.-.-	Cytochrome P450 107B1
+GPPMPBPP_00588	gene			
+GPPMPBPP_00589	CDS	purL	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurL
+GPPMPBPP_00589	gene	purL		
+GPPMPBPP_00590	CDS	purQ	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurQ
+GPPMPBPP_00590	gene	purQ		
+GPPMPBPP_00591	CDS	purS	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurS
+GPPMPBPP_00591	gene	purS		
+GPPMPBPP_00592	CDS	purC	6.3.2.6	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+GPPMPBPP_00592	gene	purC		
+GPPMPBPP_00593	CDS			hypothetical protein
+GPPMPBPP_00593	gene			
+GPPMPBPP_00594	CDS			hypothetical protein
+GPPMPBPP_00594	gene			
+GPPMPBPP_00595	CDS	menG	2.1.1.163	Demethylmenaquinone methyltransferase
+GPPMPBPP_00595	gene	menG		
+GPPMPBPP_00596	CDS			hypothetical protein
+GPPMPBPP_00596	gene			
+GPPMPBPP_00597	CDS		2.7.1.-	Putative aminoglycoside phosphotransferase
+GPPMPBPP_00597	gene			
+GPPMPBPP_00598	CDS	uvrA		UvrABC system protein A
+GPPMPBPP_00598	gene	uvrA		
+GPPMPBPP_00599	CDS	uvrC		UvrABC system protein C
+GPPMPBPP_00599	gene	uvrC		
+GPPMPBPP_00600	CDS	ycgJ	2.1.1.-	putative methyltransferase YcgJ
+GPPMPBPP_00600	gene	ycgJ		
+GPPMPBPP_00601	CDS			hypothetical protein
+GPPMPBPP_00601	gene			
+GPPMPBPP_00602	CDS	mrp		Iron-sulfur cluster carrier protein
+GPPMPBPP_00602	gene	mrp		
+GPPMPBPP_00603	CDS	rhlE_1	3.6.4.13	ATP-dependent RNA helicase RhlE
+GPPMPBPP_00603	gene	rhlE_1		
+GPPMPBPP_00604	CDS	dan_1	3.5.1.81	D-aminoacylase
+GPPMPBPP_00604	gene	dan_1		
+GPPMPBPP_00605	CDS		1.1.3.47	5-(hydroxymethyl)furfural oxidase
+GPPMPBPP_00605	gene			
+GPPMPBPP_00606	CDS	ycsE	3.1.3.-	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YcsE
+GPPMPBPP_00606	gene	ycsE		
+GPPMPBPP_00607	CDS	dapE_1	3.5.1.18	Putative succinyl-diaminopimelate desuccinylase DapE
+GPPMPBPP_00607	gene	dapE_1		
+GPPMPBPP_00608	CDS	dapL	2.6.1.83	LL-diaminopimelate aminotransferase
+GPPMPBPP_00608	gene	dapL		
+GPPMPBPP_00609	CDS	hflX		GTPase HflX
+GPPMPBPP_00609	gene	hflX		
+GPPMPBPP_00610	CDS	aam_1	3.5.1.13	Acylamidase
+GPPMPBPP_00610	gene	aam_1		
+GPPMPBPP_00611	CDS	drrA	3.6.3.-	Daunorubicin/doxorubicin resistance ATP-binding protein DrrA
+GPPMPBPP_00611	gene	drrA		
+GPPMPBPP_00612	CDS	drrB		Daunorubicin/doxorubicin resistance ABC transporter permease protein DrrB
+GPPMPBPP_00612	gene	drrB		
+GPPMPBPP_00613	CDS	gloC	3.1.2.6	Hydroxyacylglutathione hydrolase GloC
+GPPMPBPP_00613	gene	gloC		
+GPPMPBPP_00614	CDS			hypothetical protein
+GPPMPBPP_00614	gene			
+GPPMPBPP_00615	CDS			hypothetical protein
+GPPMPBPP_00615	gene			
+GPPMPBPP_00616	CDS			hypothetical protein
+GPPMPBPP_00616	gene			
+GPPMPBPP_00617	CDS		1.-.-.-	Putative coenzyme F420-dependent oxidoreductase
+GPPMPBPP_00617	gene			
+GPPMPBPP_00618	CDS			hypothetical protein
+GPPMPBPP_00618	gene			
+GPPMPBPP_00619	CDS			hypothetical protein
+GPPMPBPP_00619	gene			
+GPPMPBPP_00620	CDS	bbsF_4	2.8.3.15	Succinyl-CoA:(R)-benzylsuccinate CoA-transferase subunit BbsF
+GPPMPBPP_00620	gene	bbsF_4		
+GPPMPBPP_00621	CDS			hypothetical protein
+GPPMPBPP_00621	gene			
+GPPMPBPP_00622	CDS			hypothetical protein
+GPPMPBPP_00622	gene			
+GPPMPBPP_00623	CDS		5.4.99.-	Pivalyl-CoA mutase small subunit
+GPPMPBPP_00623	gene			
+GPPMPBPP_00624	CDS			putative ABC transporter ATP-binding protein
+GPPMPBPP_00624	gene			
+GPPMPBPP_00625	CDS			hypothetical protein
+GPPMPBPP_00625	gene			
+GPPMPBPP_00626	CDS	besA	3.1.-.-	Ferri-bacillibactin esterase BesA
+GPPMPBPP_00626	gene	besA		
+GPPMPBPP_00627	CDS		2.1.3.1	Methylmalonyl-CoA carboxyltransferase 12S subunit
+GPPMPBPP_00627	gene			
+GPPMPBPP_00628	CDS	dag	3.5.1.82	N-acyl-D-glutamate deacylase
+GPPMPBPP_00628	gene	dag		
+GPPMPBPP_00629	CDS	nagA	3.2.1.49	Alpha-N-acetylgalactosaminidase
+GPPMPBPP_00629	gene	nagA		
+GPPMPBPP_00630	CDS	degU		Transcriptional regulatory protein DegU
+GPPMPBPP_00630	gene	degU		
+GPPMPBPP_00631	CDS	groL1		60 kDa chaperonin 1
+GPPMPBPP_00631	gene	groL1		
+GPPMPBPP_00632	CDS	groS_1		10 kDa chaperonin
+GPPMPBPP_00632	gene	groS_1		
+GPPMPBPP_00633	CDS	tsaD	2.3.1.234	tRNA N6-adenosine threonylcarbamoyltransferase
+GPPMPBPP_00633	gene	tsaD		
+GPPMPBPP_00634	CDS	rimI	2.3.1.128	Ribosomal-protein-alanine acetyltransferase
+GPPMPBPP_00634	gene	rimI		
+GPPMPBPP_00635	CDS	tsaB		tRNA threonylcarbamoyladenosine biosynthesis protein TsaB
+GPPMPBPP_00635	gene	tsaB		
+GPPMPBPP_00636	CDS	tsaE		tRNA threonylcarbamoyladenosine biosynthesis protein TsaE
+GPPMPBPP_00636	gene	tsaE		
+GPPMPBPP_00637	CDS	alr1	5.1.1.1	Alanine racemase 1
+GPPMPBPP_00637	gene	alr1		
+GPPMPBPP_00638	CDS	nnrD	4.2.1.136	ADP-dependent (S)-NAD(P)H-hydrate dehydratase
+GPPMPBPP_00638	gene	nnrD		
+GPPMPBPP_00639	CDS	pdg		Ultraviolet N-glycosylase/AP lyase
+GPPMPBPP_00639	gene	pdg		
+GPPMPBPP_00640	CDS	mshD_1	2.3.1.189	Mycothiol acetyltransferase
+GPPMPBPP_00640	gene	mshD_1		
+GPPMPBPP_00641	CDS			hypothetical protein
+GPPMPBPP_00641	gene			
+GPPMPBPP_00642	CDS	troA		Periplasmic zinc-binding protein TroA
+GPPMPBPP_00642	gene	troA		
+GPPMPBPP_00643	CDS	mntB		Manganese transport system membrane protein MntB
+GPPMPBPP_00643	gene	mntB		
+GPPMPBPP_00644	CDS			hypothetical protein
+GPPMPBPP_00644	gene			
+GPPMPBPP_00645	CDS	pksS_2	1.14.-.-	Polyketide biosynthesis cytochrome P450 PksS
+GPPMPBPP_00645	gene	pksS_2		
+GPPMPBPP_00646	CDS			hypothetical protein
+GPPMPBPP_00646	gene			
+GPPMPBPP_00647	CDS	fbaB	4.1.2.13	Fructose-bisphosphate aldolase class 1
+GPPMPBPP_00647	gene	fbaB		
+GPPMPBPP_00648	CDS			hypothetical protein
+GPPMPBPP_00648	gene			
+GPPMPBPP_00649	CDS			hypothetical protein
+GPPMPBPP_00649	gene			
+GPPMPBPP_00650	CDS			hypothetical protein
+GPPMPBPP_00650	gene			
+GPPMPBPP_00651	CDS	mazG	3.6.1.1	Nucleoside triphosphate pyrophosphohydrolase/pyrophosphatase MazG
+GPPMPBPP_00651	gene	mazG		
+GPPMPBPP_00652	CDS	eno2	4.2.1.11	Enolase 2
+GPPMPBPP_00652	gene	eno2		
+GPPMPBPP_00653	CDS	livH_1		High-affinity branched-chain amino acid transport system permease protein LivH
+GPPMPBPP_00653	gene	livH_1		
+GPPMPBPP_00654	CDS			hypothetical protein
+GPPMPBPP_00654	gene			
+GPPMPBPP_00655	CDS	dapb3	3.4.14.-	Dipeptidyl aminopeptidase BIII
+GPPMPBPP_00655	gene	dapb3		
+GPPMPBPP_00656	CDS	xseB	3.1.11.6	Exodeoxyribonuclease 7 small subunit
+GPPMPBPP_00656	gene	xseB		
+GPPMPBPP_00657	CDS	xseA	3.1.11.6	Exodeoxyribonuclease 7 large subunit
+GPPMPBPP_00657	gene	xseA		
+GPPMPBPP_00658	CDS		2.1.3.1	Methylmalonyl-CoA carboxyltransferase 12S subunit
+GPPMPBPP_00658	gene			
+GPPMPBPP_00659	CDS		2.1.3.1	Methylmalonyl-CoA carboxyltransferase 12S subunit
+GPPMPBPP_00659	gene			
+GPPMPBPP_00660	CDS			hypothetical protein
+GPPMPBPP_00660	gene			
+GPPMPBPP_00661	CDS			hypothetical protein
+GPPMPBPP_00661	gene			
+GPPMPBPP_00662	CDS	cysM	2.5.1.47	Cysteine synthase B
+GPPMPBPP_00662	gene	cysM		
+GPPMPBPP_00663	CDS	fgd1_1	1.1.98.2	F420-dependent glucose-6-phosphate dehydrogenase
+GPPMPBPP_00663	gene	fgd1_1		
+GPPMPBPP_00664	CDS	tauD	1.14.11.17	Alpha-ketoglutarate-dependent taurine dioxygenase
+GPPMPBPP_00664	gene	tauD		
+GPPMPBPP_00665	CDS			hypothetical protein
+GPPMPBPP_00665	gene			
+GPPMPBPP_00666	CDS			hypothetical protein
+GPPMPBPP_00666	gene			
+GPPMPBPP_00667	CDS	rutA_2	1.14.99.46	Pyrimidine monooxygenase RutA
+GPPMPBPP_00667	gene	rutA_2		
+GPPMPBPP_00668	CDS	mct_1	5.4.1.3	2-methylfumaryl-CoA isomerase
+GPPMPBPP_00668	gene	mct_1		
+GPPMPBPP_00669	CDS	mch	4.2.1.148	Beta-methylmalyl-CoA dehydratase
+GPPMPBPP_00669	gene	mch		
+GPPMPBPP_00670	CDS	nusG		Transcription termination/antitermination protein NusG
+GPPMPBPP_00670	gene	nusG		
+GPPMPBPP_00671	CDS	secE		Protein translocase subunit SecE
+GPPMPBPP_00671	gene	secE		
+GPPMPBPP_00672	tRNA			tRNA-Trp(cca)
+GPPMPBPP_00672	gene			
+GPPMPBPP_00673	CDS			hypothetical protein
+GPPMPBPP_00673	gene			
+GPPMPBPP_00674	CDS	sigE		ECF RNA polymerase sigma factor SigE
+GPPMPBPP_00674	gene	sigE		
+GPPMPBPP_00675	tRNA			tRNA-Met(cat)
+GPPMPBPP_00675	gene			
+GPPMPBPP_00676	tRNA			tRNA-Thr(ggt)
+GPPMPBPP_00676	gene			
+GPPMPBPP_00677	CDS	bar	2.3.1.183	Phosphinothricin N-acetyltransferase
+GPPMPBPP_00677	gene	bar		
+GPPMPBPP_00678	CDS	menB	4.1.3.36	1,4-dihydroxy-2-naphthoyl-CoA synthase
+GPPMPBPP_00678	gene	menB		
+GPPMPBPP_00679	CDS	rutA_3	1.14.99.46	Pyrimidine monooxygenase RutA
+GPPMPBPP_00679	gene	rutA_3		
+GPPMPBPP_00680	CDS			hypothetical protein
+GPPMPBPP_00680	gene			
+GPPMPBPP_00681	CDS	nboR	1.1.1.328	Nicotine blue oxidoreductase
+GPPMPBPP_00681	gene	nboR		
+GPPMPBPP_00682	CDS			hypothetical protein
+GPPMPBPP_00682	gene			
+GPPMPBPP_00683	CDS			hypothetical protein
+GPPMPBPP_00683	gene			
+GPPMPBPP_00684	CDS			hypothetical protein
+GPPMPBPP_00684	gene			
+GPPMPBPP_00685	CDS	vgb	4.2.99.-	Virginiamycin B lyase
+GPPMPBPP_00685	gene	vgb		
+GPPMPBPP_00686	CDS	prmA	2.1.1.-	Ribosomal protein L11 methyltransferase
+GPPMPBPP_00686	gene	prmA		
+GPPMPBPP_00687	CDS		1.14.13.141	Steroid C26-monooxygenase
+GPPMPBPP_00687	gene			
+GPPMPBPP_00688	CDS	serA_2	1.1.1.95	D-3-phosphoglycerate dehydrogenase
+GPPMPBPP_00688	gene	serA_2		
+GPPMPBPP_00689	CDS			hypothetical protein
+GPPMPBPP_00689	gene			
+GPPMPBPP_00690	CDS	murF	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D-alanine ligase
+GPPMPBPP_00690	gene	murF		
+GPPMPBPP_00691	CDS	lipV_2	3.1.1.1	Lipase LipV
+GPPMPBPP_00691	gene	lipV_2		
+GPPMPBPP_00692	CDS	leuA	2.3.3.13	2-isopropylmalate synthase
+GPPMPBPP_00692	gene	leuA		
+GPPMPBPP_00693	CDS	gppA	3.6.1.40	Guanosine-5'-triphosphate,3'-diphosphate pyrophosphatase
+GPPMPBPP_00693	gene	gppA		
+GPPMPBPP_00694	CDS	pamO_2	1.14.13.92	Phenylacetone monooxygenase
+GPPMPBPP_00694	gene	pamO_2		
+GPPMPBPP_00695	CDS		3.1.1.99	6-deoxy-6-sulfogluconolactonase
+GPPMPBPP_00695	gene			
+GPPMPBPP_00696	CDS	groL5		60 kDa chaperonin 5
+GPPMPBPP_00696	gene	groL5		
+GPPMPBPP_00697	CDS	groS_2		10 kDa chaperonin
+GPPMPBPP_00697	gene	groS_2		
+GPPMPBPP_00698	CDS	gci	5.5.1.27	D-galactarolactone cycloisomerase
+GPPMPBPP_00698	gene	gci		
+GPPMPBPP_00699	CDS			hypothetical protein
+GPPMPBPP_00699	gene			
+GPPMPBPP_00700	CDS	dan_2	3.5.1.81	D-aminoacylase
+GPPMPBPP_00700	gene	dan_2		
+GPPMPBPP_00701	CDS	truA	5.4.99.12	tRNA pseudouridine synthase A
+GPPMPBPP_00701	gene	truA		
+GPPMPBPP_00702	CDS	rplM		50S ribosomal protein L13
+GPPMPBPP_00702	gene	rplM		
+GPPMPBPP_00703	CDS	rpsI		30S ribosomal protein S9
+GPPMPBPP_00703	gene	rpsI		
+GPPMPBPP_00704	CDS		2.6.1.51	Serine-pyruvate aminotransferase
+GPPMPBPP_00704	gene			
+GPPMPBPP_00705	CDS	acrC	1.3.1.95	Acryloyl-CoA reductase (NADH)
+GPPMPBPP_00705	gene	acrC		
+GPPMPBPP_00706	CDS			hypothetical protein
+GPPMPBPP_00706	gene			
+GPPMPBPP_00707	CDS	adh_1	1.1.1.1	Alcohol dehydrogenase
+GPPMPBPP_00707	gene	adh_1		
+GPPMPBPP_00708	CDS			putative epimerase/dehydratase
+GPPMPBPP_00708	gene			
+GPPMPBPP_00709	CDS	davT	2.6.1.48	5-aminovalerate aminotransferase DavT
+GPPMPBPP_00709	gene	davT		
+GPPMPBPP_00710	CDS	mhpB	1.13.11.16	2,3-dihydroxyphenylpropionate/2,3-dihydroxicinnamic acid 1,2-dioxygenase
+GPPMPBPP_00710	gene	mhpB		
+GPPMPBPP_00711	CDS			hypothetical protein
+GPPMPBPP_00711	gene			
+GPPMPBPP_00712	CDS			hypothetical protein
+GPPMPBPP_00712	gene			
+GPPMPBPP_00713	CDS	puo	1.4.3.10	Putrescine oxidase
+GPPMPBPP_00713	gene	puo		
+GPPMPBPP_00714	CDS	abo_2	1.5.3.19	4-methylaminobutanoate oxidase (formaldehyde-forming)
+GPPMPBPP_00714	gene	abo_2		
+GPPMPBPP_00715	tRNA			tRNA-Ser(cga)
+GPPMPBPP_00715	gene			
+GPPMPBPP_00716	tRNA			tRNA-Ser(gga)
+GPPMPBPP_00716	gene			
+GPPMPBPP_00717	CDS	dnaX	2.7.7.7	DNA polymerase III subunit gamma/tau
+GPPMPBPP_00717	gene	dnaX		
+GPPMPBPP_00718	CDS	ybaB		Nucleoid-associated protein YbaB
+GPPMPBPP_00718	gene	ybaB		
+GPPMPBPP_00719	CDS	recR		Recombination protein RecR
+GPPMPBPP_00719	gene	recR		
+GPPMPBPP_00720	CDS			hypothetical protein
+GPPMPBPP_00720	gene			
+GPPMPBPP_00721	CDS			hypothetical protein
+GPPMPBPP_00721	gene			
+GPPMPBPP_00722	CDS	miaA_1	2.5.1.75	tRNA dimethylallyltransferase
+GPPMPBPP_00722	gene	miaA_1		
+GPPMPBPP_00723	CDS	dan_3	3.5.1.81	D-aminoacylase
+GPPMPBPP_00723	gene	dan_3		
+GPPMPBPP_00724	CDS	kduD_1	1.1.1.127	2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase
+GPPMPBPP_00724	gene	kduD_1		
+GPPMPBPP_00725	CDS			hypothetical protein
+GPPMPBPP_00725	gene			
+GPPMPBPP_00726	CDS	tfdA_2	1.14.11.-	Alpha-ketoglutarate-dependent 2,4-dichlorophenoxyacetate dioxygenase
+GPPMPBPP_00726	gene	tfdA_2		
+GPPMPBPP_00727	CDS	rhlE_2	3.6.4.13	ATP-dependent RNA helicase RhlE
+GPPMPBPP_00727	gene	rhlE_2		
+GPPMPBPP_00728	CDS	dhmA	3.8.1.5	Haloalkane dehalogenase
+GPPMPBPP_00728	gene	dhmA		
+GPPMPBPP_00729	CDS			hypothetical protein
+GPPMPBPP_00729	gene			
+GPPMPBPP_00730	CDS	qacA_2		Antiseptic resistance protein
+GPPMPBPP_00730	gene	qacA_2		
+GPPMPBPP_00731	CDS			hypothetical protein
+GPPMPBPP_00731	gene			
+GPPMPBPP_00732	CDS			hypothetical protein
+GPPMPBPP_00732	gene			
+GPPMPBPP_00733	CDS	ilvB1	2.2.1.6	Acetolactate synthase large subunit IlvB1
+GPPMPBPP_00733	gene	ilvB1		
+GPPMPBPP_00734	CDS	ilvH	2.2.1.6	Acetolactate synthase small subunit
+GPPMPBPP_00734	gene	ilvH		
+GPPMPBPP_00735	CDS	ilvC	1.1.1.382	Ketol-acid reductoisomerase (NAD(+))
+GPPMPBPP_00735	gene	ilvC		
+GPPMPBPP_00736	CDS	fgd1_2	1.1.98.2	F420-dependent glucose-6-phosphate dehydrogenase
+GPPMPBPP_00736	gene	fgd1_2		
+GPPMPBPP_00737	CDS	apeB	3.4.11.-	putative M18 family aminopeptidase 2
+GPPMPBPP_00737	gene	apeB		
+GPPMPBPP_00738	CDS	pspA_1	3.1.3.3	Phosphoserine phosphatase 1
+GPPMPBPP_00738	gene	pspA_1		
+GPPMPBPP_00739	CDS	nrgA		Ammonium transporter NrgA
+GPPMPBPP_00739	gene	nrgA		
+GPPMPBPP_00740	CDS			hypothetical protein
+GPPMPBPP_00740	gene			
+GPPMPBPP_00741	CDS			hypothetical protein
+GPPMPBPP_00741	gene			
+GPPMPBPP_00742	CDS		2.8.3.-	putative CoA-transferase
+GPPMPBPP_00742	gene			
+GPPMPBPP_00743	CDS	limB_3	1.14.13.107	Limonene 1,2-monooxygenase
+GPPMPBPP_00743	gene	limB_3		
+GPPMPBPP_00744	CDS			hypothetical protein
+GPPMPBPP_00744	gene			
+GPPMPBPP_00745	CDS		3.5.1.4	Aliphatic amidase
+GPPMPBPP_00745	gene			
+GPPMPBPP_00746	CDS			hypothetical protein
+GPPMPBPP_00746	gene			
+GPPMPBPP_00747	CDS			hypothetical protein
+GPPMPBPP_00747	gene			
+GPPMPBPP_00748	CDS	linB	3.8.1.5	Haloalkane dehalogenase
+GPPMPBPP_00748	gene	linB		
+GPPMPBPP_00749	CDS		3.3.2.10	Soluble epoxide hydrolase
+GPPMPBPP_00749	gene			
+GPPMPBPP_00750	CDS	bpoC_2	1.11.1.18	Putative non-heme bromoperoxidase BpoC
+GPPMPBPP_00750	gene	bpoC_2		
+GPPMPBPP_00751	CDS	ssuD_3	1.14.14.5	Alkanesulfonate monooxygenase
+GPPMPBPP_00751	gene	ssuD_3		
+GPPMPBPP_00752	CDS	ydjH	2.7.1.-	putative sugar kinase YdjH
+GPPMPBPP_00752	gene	ydjH		
+GPPMPBPP_00753	CDS		5.4.2.8	putative phosphomannomutase
+GPPMPBPP_00753	gene			
+GPPMPBPP_00754	CDS	patA	2.3.1.-	Peptidoglycan O-acetyltransferase
+GPPMPBPP_00754	gene	patA		
+GPPMPBPP_00755	CDS	tesE	4.2.1.132	2-hydroxyhexa-2,4-dienoate hydratase
+GPPMPBPP_00755	gene	tesE		
+GPPMPBPP_00756	CDS	hslR		Heat shock protein 15
+GPPMPBPP_00756	gene	hslR		
+GPPMPBPP_00757	CDS	limB_4	1.14.13.107	Limonene 1,2-monooxygenase
+GPPMPBPP_00757	gene	limB_4		
+GPPMPBPP_00758	CDS			hypothetical protein
+GPPMPBPP_00758	gene			
+GPPMPBPP_00759	CDS	topA	5.99.1.2	DNA topoisomerase 1
+GPPMPBPP_00759	gene	topA		
+GPPMPBPP_00760	CDS	ribZ_2		Riboflavin transporter RibZ
+GPPMPBPP_00760	gene	ribZ_2		
+GPPMPBPP_00761	CDS	sadH_2	1.-.-.-	Putative oxidoreductase SadH
+GPPMPBPP_00761	gene	sadH_2		
+GPPMPBPP_00762	CDS		1.1.1.306	S-(hydroxymethyl)mycothiol dehydrogenase
+GPPMPBPP_00762	gene			
+GPPMPBPP_00763	CDS			hypothetical protein
+GPPMPBPP_00763	gene			
+GPPMPBPP_00764	CDS			hypothetical protein
+GPPMPBPP_00764	gene			
+GPPMPBPP_00765	CDS			hypothetical protein
+GPPMPBPP_00765	gene			
+GPPMPBPP_00766	CDS			hypothetical protein
+GPPMPBPP_00766	gene			
+GPPMPBPP_00767	CDS			hypothetical protein
+GPPMPBPP_00767	gene			
+GPPMPBPP_00768	CDS	fadA	2.3.1.16	3-ketoacyl-CoA thiolase
+GPPMPBPP_00768	gene	fadA		
+GPPMPBPP_00769	CDS	bauC	1.2.1.-	Putative 3-oxopropanoate dehydrogenase
+GPPMPBPP_00769	gene	bauC		
+GPPMPBPP_00770	CDS			hypothetical protein
+GPPMPBPP_00770	gene			
+GPPMPBPP_00771	CDS			hypothetical protein
+GPPMPBPP_00771	gene			
+GPPMPBPP_00772	CDS			hypothetical protein
+GPPMPBPP_00772	gene			
+GPPMPBPP_00773	CDS			hypothetical protein
+GPPMPBPP_00773	gene			
+GPPMPBPP_00774	CDS			putative AAA domain-containing protein
+GPPMPBPP_00774	gene			
+GPPMPBPP_00775	CDS	limA	3.3.2.8	Limonene-1,2-epoxide hydrolase
+GPPMPBPP_00775	gene	limA		
+GPPMPBPP_00776	CDS			hypothetical protein
+GPPMPBPP_00776	gene			
+GPPMPBPP_00777	CDS			hypothetical protein
+GPPMPBPP_00777	gene			
+GPPMPBPP_00778	CDS			hypothetical protein
+GPPMPBPP_00778	gene			
+GPPMPBPP_00779	CDS	fbpA		Iron-utilization periplasmic protein
+GPPMPBPP_00779	gene	fbpA		
+GPPMPBPP_00780	CDS	cysW		Sulfate transport system permease protein CysW
+GPPMPBPP_00780	gene	cysW		
+GPPMPBPP_00781	CDS			hypothetical protein
+GPPMPBPP_00781	gene			
+GPPMPBPP_00782	CDS		5.1.3.2	UDP-glucose 4-epimerase
+GPPMPBPP_00782	gene			
+GPPMPBPP_00783	CDS	rdmC_1	3.1.1.95	Aclacinomycin methylesterase RdmC
+GPPMPBPP_00783	gene	rdmC_1		
+GPPMPBPP_00784	CDS			hypothetical protein
+GPPMPBPP_00784	gene			
+GPPMPBPP_00785	CDS	yfdE_4	2.8.3.19	Acetyl-CoA:oxalate CoA-transferase
+GPPMPBPP_00785	gene	yfdE_4		
+GPPMPBPP_00786	CDS			hypothetical protein
+GPPMPBPP_00786	gene			
+GPPMPBPP_00787	CDS			hypothetical protein
+GPPMPBPP_00787	gene			
+GPPMPBPP_00788	CDS	pckG	4.1.1.32	Phosphoenolpyruvate carboxykinase [GTP]
+GPPMPBPP_00788	gene	pckG		
+GPPMPBPP_00789	CDS			hypothetical protein
+GPPMPBPP_00789	gene			
+GPPMPBPP_00790	CDS			hypothetical protein
+GPPMPBPP_00790	gene			
+GPPMPBPP_00791	CDS	recG	3.6.4.12	ATP-dependent DNA helicase RecG
+GPPMPBPP_00791	gene	recG		
+GPPMPBPP_00792	CDS			hypothetical protein
+GPPMPBPP_00792	gene			
+GPPMPBPP_00793	CDS	rsmD	2.1.1.171	Ribosomal RNA small subunit methyltransferase D
+GPPMPBPP_00793	gene	rsmD		
+GPPMPBPP_00794	CDS	abo_3	1.5.3.19	4-methylaminobutanoate oxidase (formaldehyde-forming)
+GPPMPBPP_00794	gene	abo_3		
+GPPMPBPP_00795	CDS			hypothetical protein
+GPPMPBPP_00795	gene			
+GPPMPBPP_00796	CDS			hypothetical protein
+GPPMPBPP_00796	gene			
+GPPMPBPP_00797	CDS	php		Phosphotriesterase homology protein
+GPPMPBPP_00797	gene	php		
+GPPMPBPP_00798	CDS	flK	3.1.2.29	Fluoroacetyl-CoA thioesterase
+GPPMPBPP_00798	gene	flK		
+GPPMPBPP_00799	CDS		1.3.1.103	2-haloacrylate reductase
+GPPMPBPP_00799	gene			
+GPPMPBPP_00800	CDS			hypothetical protein
+GPPMPBPP_00800	gene			
+GPPMPBPP_00801	CDS			hypothetical protein
+GPPMPBPP_00801	gene			
+GPPMPBPP_00802	CDS	folC	6.3.2.12	Dihydrofolate synthase/folylpolyglutamate synthase
+GPPMPBPP_00802	gene	folC		
+GPPMPBPP_00803	CDS	clpX		ATP-dependent Clp protease ATP-binding subunit ClpX
+GPPMPBPP_00803	gene	clpX		
+GPPMPBPP_00804	CDS	gcvPB	1.4.4.2	putative glycine dehydrogenase (decarboxylating) subunit 2
+GPPMPBPP_00804	gene	gcvPB		
+GPPMPBPP_00805	CDS	gcvPA	1.4.4.2	putative glycine dehydrogenase (decarboxylating) subunit 1
+GPPMPBPP_00805	gene	gcvPA		
+GPPMPBPP_00806	CDS	walR		Transcriptional regulatory protein WalR
+GPPMPBPP_00806	gene	walR		
+GPPMPBPP_00807	CDS	suhB	3.1.3.25	Inositol-1-monophosphatase
+GPPMPBPP_00807	gene	suhB		
+GPPMPBPP_00808	CDS			hypothetical protein
+GPPMPBPP_00808	gene			
+GPPMPBPP_00809	CDS	rppH_1	3.6.1.-	RNA pyrophosphohydrolase
+GPPMPBPP_00809	gene	rppH_1		
+GPPMPBPP_00810	CDS			hypothetical protein
+GPPMPBPP_00810	gene			
+GPPMPBPP_00811	CDS	crnA	3.5.2.10	Creatinine amidohydrolase
+GPPMPBPP_00811	gene	crnA		
+GPPMPBPP_00812	CDS	caiD_1	4.2.1.149	Carnitinyl-CoA dehydratase
+GPPMPBPP_00812	gene	caiD_1		
+GPPMPBPP_00813	CDS			hypothetical protein
+GPPMPBPP_00813	gene			
+GPPMPBPP_00814	CDS			hypothetical protein
+GPPMPBPP_00814	gene			
+GPPMPBPP_00815	CDS			hypothetical protein
+GPPMPBPP_00815	gene			
+GPPMPBPP_00816	CDS			hypothetical protein
+GPPMPBPP_00816	gene			
+GPPMPBPP_00817	CDS	selA	2.9.1.1	L-seryl-tRNA(Sec) selenium transferase
+GPPMPBPP_00817	gene	selA		
+GPPMPBPP_00818	CDS			hypothetical protein
+GPPMPBPP_00818	gene			
+GPPMPBPP_00819	CDS		1.1.4.-	Vitamin K epoxide reductase 
+GPPMPBPP_00819	gene			
+GPPMPBPP_00820	CDS			hypothetical protein
+GPPMPBPP_00820	gene			
+GPPMPBPP_00821	CDS			hypothetical protein
+GPPMPBPP_00821	gene			
+GPPMPBPP_00822	CDS	atsA_1	3.1.6.1	Arylsulfatase
+GPPMPBPP_00822	gene	atsA_1		
+GPPMPBPP_00823	CDS			hypothetical protein
+GPPMPBPP_00823	gene			
+GPPMPBPP_00824	CDS	fadA5_2	2.3.1.16	Steroid 3-ketoacyl-CoA thiolase
+GPPMPBPP_00824	gene	fadA5_2		
+GPPMPBPP_00825	CDS			hypothetical protein
+GPPMPBPP_00825	gene			
+GPPMPBPP_00826	CDS	mca	3.5.1.115	Mycothiol S-conjugate amidase
+GPPMPBPP_00826	gene	mca		
+GPPMPBPP_00827	CDS			hypothetical protein
+GPPMPBPP_00827	gene			
+GPPMPBPP_00828	CDS			hypothetical protein
+GPPMPBPP_00828	gene			
+GPPMPBPP_00829	CDS	resA_1		Thiol-disulfide oxidoreductase ResA
+GPPMPBPP_00829	gene	resA_1		
+GPPMPBPP_00830	CDS	nudL	3.6.1.-	putative Nudix hydrolase NudL
+GPPMPBPP_00830	gene	nudL		
+GPPMPBPP_00831	CDS	mmgC_1	1.3.99.-	Acyl-CoA dehydrogenase
+GPPMPBPP_00831	gene	mmgC_1		
+GPPMPBPP_00832	CDS	cloSI	3.4.22.8	Clostripain
+GPPMPBPP_00832	gene	cloSI		
+GPPMPBPP_00833	CDS	nuoF	1.6.5.11	NADH-quinone oxidoreductase subunit F
+GPPMPBPP_00833	gene	nuoF		
+GPPMPBPP_00834	CDS	nuoG	1.6.5.11	NADH-quinone oxidoreductase subunit G
+GPPMPBPP_00834	gene	nuoG		
+GPPMPBPP_00835	CDS	nuoH	1.6.5.11	NADH-quinone oxidoreductase subunit H
+GPPMPBPP_00835	gene	nuoH		
+GPPMPBPP_00836	CDS	nuoI_1	1.6.5.11	NADH-quinone oxidoreductase subunit I
+GPPMPBPP_00836	gene	nuoI_1		
+GPPMPBPP_00837	CDS	nuoJ_1	1.6.5.11	NADH-quinone oxidoreductase subunit J
+GPPMPBPP_00837	gene	nuoJ_1		
+GPPMPBPP_00838	CDS		1.6.5.11	NADH-quinone oxidoreductase subunit 11
+GPPMPBPP_00838	gene			
+GPPMPBPP_00839	CDS	nuoL_1	1.6.5.11	NADH-quinone oxidoreductase subunit L
+GPPMPBPP_00839	gene	nuoL_1		
+GPPMPBPP_00840	CDS	nuoM	1.6.5.11	NADH-quinone oxidoreductase subunit M
+GPPMPBPP_00840	gene	nuoM		
+GPPMPBPP_00841	CDS	nuoN	1.6.5.11	NADH-quinone oxidoreductase subunit N
+GPPMPBPP_00841	gene	nuoN		
+GPPMPBPP_00842	CDS	ndhC	1.6.5.-	NAD(P)H-quinone oxidoreductase subunit 3
+GPPMPBPP_00842	gene	ndhC		
+GPPMPBPP_00843	CDS	nuoB_1	1.6.5.11	NADH-quinone oxidoreductase subunit B
+GPPMPBPP_00843	gene	nuoB_1		
+GPPMPBPP_00844	CDS	nuoC	1.6.5.11	NADH-quinone oxidoreductase subunit C/D
+GPPMPBPP_00844	gene	nuoC		
+GPPMPBPP_00845	CDS	nqo4	1.6.5.11	NADH-quinone oxidoreductase subunit 4
+GPPMPBPP_00845	gene	nqo4		
+GPPMPBPP_00846	CDS	nqo8	1.6.5.11	NADH-quinone oxidoreductase subunit 8
+GPPMPBPP_00846	gene	nqo8		
+GPPMPBPP_00847	CDS	nuoI_2	1.6.5.11	NADH-quinone oxidoreductase subunit I
+GPPMPBPP_00847	gene	nuoI_2		
+GPPMPBPP_00848	CDS	nuoJ_2	1.6.5.11	NADH-quinone oxidoreductase subunit J
+GPPMPBPP_00848	gene	nuoJ_2		
+GPPMPBPP_00849	CDS		1.6.5.11	NADH-quinone oxidoreductase subunit 11
+GPPMPBPP_00849	gene			
+GPPMPBPP_00850	CDS	nuoL_2	1.6.5.11	NADH-quinone oxidoreductase subunit L
+GPPMPBPP_00850	gene	nuoL_2		
+GPPMPBPP_00851	CDS	ndhD1	1.6.5.-	NAD(P)H-quinone oxidoreductase chain 4 1
+GPPMPBPP_00851	gene	ndhD1		
+GPPMPBPP_00852	CDS			hypothetical protein
+GPPMPBPP_00852	gene			
+GPPMPBPP_00853	CDS	mug	3.2.2.28	G/U mismatch-specific DNA glycosylase
+GPPMPBPP_00853	gene	mug		
+GPPMPBPP_00854	CDS	msrA	1.8.4.11	Peptide methionine sulfoxide reductase MsrA
+GPPMPBPP_00854	gene	msrA		
+GPPMPBPP_00855	CDS			hypothetical protein
+GPPMPBPP_00855	gene			
+GPPMPBPP_00856	CDS	meh	4.2.1.153	Mesaconyl-C(4)-CoA hydratase
+GPPMPBPP_00856	gene	meh		
+GPPMPBPP_00857	CDS	fgd1_3	1.1.98.2	F420-dependent glucose-6-phosphate dehydrogenase 1
+GPPMPBPP_00857	gene	fgd1_3		
+GPPMPBPP_00858	CDS	ppaX	3.6.1.1	Pyrophosphatase PpaX
+GPPMPBPP_00858	gene	ppaX		
+GPPMPBPP_00859	CDS	pabA	2.6.1.85	Aminodeoxychorismate/anthranilate synthase component 2
+GPPMPBPP_00859	gene	pabA		
+GPPMPBPP_00860	CDS	ygfZ		tRNA-modifying protein YgfZ
+GPPMPBPP_00860	gene	ygfZ		
+GPPMPBPP_00861	CDS			hypothetical protein
+GPPMPBPP_00861	gene			
+GPPMPBPP_00862	CDS	trpC	4.1.1.48	Indole-3-glycerol phosphate synthase
+GPPMPBPP_00862	gene	trpC		
+GPPMPBPP_00863	CDS	trpF	5.3.1.24	N-(5'-phosphoribosyl)anthranilate isomerase
+GPPMPBPP_00863	gene	trpF		
+GPPMPBPP_00864	CDS		3.6.3.-	Multidrug efflux ATP-binding/permease protein
+GPPMPBPP_00864	gene			
+GPPMPBPP_00865	CDS			hypothetical protein
+GPPMPBPP_00865	gene			
+GPPMPBPP_00866	CDS			hypothetical protein
+GPPMPBPP_00866	gene			
+GPPMPBPP_00867	CDS			hypothetical protein
+GPPMPBPP_00867	gene			
+GPPMPBPP_00868	CDS	ptlF	1.1.1.340	1-deoxy-11-beta-hydroxypentalenate dehydrogenase
+GPPMPBPP_00868	gene	ptlF		
+GPPMPBPP_00869	CDS	fldA_1	2.8.3.17	Cinnamoyl-CoA:phenyllactate CoA-transferase
+GPPMPBPP_00869	gene	fldA_1		
+GPPMPBPP_00870	CDS			hypothetical protein
+GPPMPBPP_00870	gene			
+GPPMPBPP_00871	CDS	fgd2_2	1.1.98.-	F420-dependent hydroxymycolic acid dehydrogenase
+GPPMPBPP_00871	gene	fgd2_2		
+GPPMPBPP_00872	CDS			hypothetical protein
+GPPMPBPP_00872	gene			
+GPPMPBPP_00873	CDS			hypothetical protein
+GPPMPBPP_00873	gene			
+GPPMPBPP_00874	CDS	livH_2		High-affinity branched-chain amino acid transport system permease protein LivH
+GPPMPBPP_00874	gene	livH_2		
+GPPMPBPP_00875	CDS	mtaD	3.5.4.28	5-methylthioadenosine/S-adenosylhomocysteine deaminase
+GPPMPBPP_00875	gene	mtaD		
+GPPMPBPP_00876	CDS		2.1.3.1	Methylmalonyl-CoA carboxyltransferase 12S subunit
+GPPMPBPP_00876	gene			
+GPPMPBPP_00877	CDS	apc4	6.4.1.8	Acetophenone carboxylase delta subunit
+GPPMPBPP_00877	gene	apc4		
+GPPMPBPP_00878	CDS	bbsF_5	2.8.3.15	Succinyl-CoA:(R)-benzylsuccinate CoA-transferase subunit BbsF
+GPPMPBPP_00878	gene	bbsF_5		
+GPPMPBPP_00879	CDS	bbsE	2.8.3.15	Succinyl-CoA:(R)-benzylsuccinate CoA-transferase subunit BbsE
+GPPMPBPP_00879	gene	bbsE		
+GPPMPBPP_00880	CDS	icaR		Biofilm operon icaADBC HTH-type negative transcriptional regulator IcaR
+GPPMPBPP_00880	gene	icaR		
+GPPMPBPP_00881	CDS			hypothetical protein
+GPPMPBPP_00881	gene			
+GPPMPBPP_00882	CDS	ddl	6.3.2.4	D-alanine--D-alanine ligase
+GPPMPBPP_00882	gene	ddl		
+GPPMPBPP_00883	CDS			hypothetical protein
+GPPMPBPP_00883	gene			
+GPPMPBPP_00884	CDS			hypothetical protein
+GPPMPBPP_00884	gene			
+GPPMPBPP_00885	CDS	crt_5	4.2.1.150	Short-chain-enoyl-CoA hydratase
+GPPMPBPP_00885	gene	crt_5		
+GPPMPBPP_00886	CDS			hypothetical protein
+GPPMPBPP_00886	gene			
+GPPMPBPP_00887	CDS	argJ		Arginine biosynthesis bifunctional protein ArgJ
+GPPMPBPP_00887	gene	argJ		
+GPPMPBPP_00888	CDS	argB	2.7.2.8	Acetylglutamate kinase
+GPPMPBPP_00888	gene	argB		
+GPPMPBPP_00889	CDS		1.-.-.-	putative FAD-linked oxidoreductase
+GPPMPBPP_00889	gene			
+GPPMPBPP_00890	CDS		1.-.-.-	putative FAD-linked oxidoreductase
+GPPMPBPP_00890	gene			
+GPPMPBPP_00891	CDS	pntE_1	1.14.13.170	Pentalenolactone D synthase
+GPPMPBPP_00891	gene	pntE_1		
+GPPMPBPP_00892	CDS	miaB	2.8.4.3	tRNA-2-methylthio-N(6)-dimethylallyladenosine synthase
+GPPMPBPP_00892	gene	miaB		
+GPPMPBPP_00893	CDS	miaA_2	2.5.1.75	tRNA dimethylallyltransferase
+GPPMPBPP_00893	gene	miaA_2		
+GPPMPBPP_00894	CDS	dapF	5.1.1.7	Diaminopimelate epimerase
+GPPMPBPP_00894	gene	dapF		
+GPPMPBPP_00895	CDS	pspB	3.1.3.3	Putative phosphoserine phosphatase 2
+GPPMPBPP_00895	gene	pspB		
+GPPMPBPP_00896	CDS	estB	3.1.1.-	Esterase EstB
+GPPMPBPP_00896	gene	estB		
+GPPMPBPP_00897	CDS	trmL	2.1.1.207	tRNA (cytidine(34)-2'-O)-methyltransferase
+GPPMPBPP_00897	gene	trmL		
+GPPMPBPP_00898	CDS	tmpC		Membrane lipoprotein TmpC
+GPPMPBPP_00898	gene	tmpC		
+GPPMPBPP_00899	CDS			hypothetical protein
+GPPMPBPP_00899	gene			
+GPPMPBPP_00900	CDS	glpK	2.7.1.30	Glycerol kinase
+GPPMPBPP_00900	gene	glpK		
+GPPMPBPP_00901	CDS	azoB	1.7.-.-	NAD(P)H azoreductase
+GPPMPBPP_00901	gene	azoB		
+GPPMPBPP_00902	CDS			hypothetical protein
+GPPMPBPP_00902	gene			
+GPPMPBPP_00903	CDS	uxuA	4.2.1.8	Mannonate dehydratase
+GPPMPBPP_00903	gene	uxuA		
+GPPMPBPP_00904	CDS			hypothetical protein
+GPPMPBPP_00904	gene			
+GPPMPBPP_00905	CDS		1.4.3.22	Histamine oxidase
+GPPMPBPP_00905	gene			
+GPPMPBPP_00906	CDS	bcp_1	1.11.1.15	Putative peroxiredoxin bcp
+GPPMPBPP_00906	gene	bcp_1		
+GPPMPBPP_00907	CDS	bcp_2	1.11.1.15	Putative peroxiredoxin bcp
+GPPMPBPP_00907	gene	bcp_2		
+GPPMPBPP_00908	CDS			hypothetical protein
+GPPMPBPP_00908	gene			
+GPPMPBPP_00909	CDS			hypothetical protein
+GPPMPBPP_00909	gene			
+GPPMPBPP_00910	CDS			hypothetical protein
+GPPMPBPP_00910	gene			
+GPPMPBPP_00911	CDS	pyrB	2.1.3.2	Aspartate carbamoyltransferase
+GPPMPBPP_00911	gene	pyrB		
+GPPMPBPP_00912	CDS	carA	6.3.5.5	Carbamoyl-phosphate synthase small chain
+GPPMPBPP_00912	gene	carA		
+GPPMPBPP_00913	CDS			hypothetical protein
+GPPMPBPP_00913	gene			
+GPPMPBPP_00914	CDS	chrR	1.6.5.2	Chromate reductase
+GPPMPBPP_00914	gene	chrR		
+GPPMPBPP_00915	CDS	rhlG	1.1.1.100	Rhamnolipids biosynthesis 3-oxoacyl-[acyl-carrier-protein] reductase
+GPPMPBPP_00915	gene	rhlG		
+GPPMPBPP_00916	CDS	modC	3.6.3.29	Molybdenum import ATP-binding protein ModC
+GPPMPBPP_00916	gene	modC		
+GPPMPBPP_00917	CDS	modB		Molybdenum transport system permease protein ModB
+GPPMPBPP_00917	gene	modB		
+GPPMPBPP_00918	CDS			hypothetical protein
+GPPMPBPP_00918	gene			
+GPPMPBPP_00919	CDS	carC	1.3.1.108	Caffeyl-CoA reductase-Etf complex subunit CarC
+GPPMPBPP_00919	gene	carC		
+GPPMPBPP_00920	CDS			hypothetical protein
+GPPMPBPP_00920	gene			
+GPPMPBPP_00921	CDS	rpoB	2.7.7.6	DNA-directed RNA polymerase subunit beta
+GPPMPBPP_00921	gene	rpoB		
+GPPMPBPP_00922	CDS	rplL		50S ribosomal protein L7/L12
+GPPMPBPP_00922	gene	rplL		
+GPPMPBPP_00923	CDS	aspC_2	2.6.1.1	Aspartate aminotransferase
+GPPMPBPP_00923	gene	aspC_2		
+GPPMPBPP_00924	CDS	nfnB_2	1.-.-.-	Nitroreductase NfnB
+GPPMPBPP_00924	gene	nfnB_2		
+GPPMPBPP_00925	CDS	ddc	4.1.1.86	L-2,4-diaminobutyrate decarboxylase
+GPPMPBPP_00925	gene	ddc		
+GPPMPBPP_00926	CDS	bacC_4	1.1.1.385	Dihydroanticapsin 7-dehydrogenase
+GPPMPBPP_00926	gene	bacC_4		
+GPPMPBPP_00927	CDS			hypothetical protein
+GPPMPBPP_00927	gene			
+GPPMPBPP_00928	CDS	mmgC_2	1.3.99.-	Acyl-CoA dehydrogenase
+GPPMPBPP_00928	gene	mmgC_2		
+GPPMPBPP_00929	CDS	bphF	4.1.3.39	4-hydroxy-2-oxovalerate aldolase
+GPPMPBPP_00929	gene	bphF		
+GPPMPBPP_00930	CDS	pspA_2	3.1.3.3	Phosphoserine phosphatase 1
+GPPMPBPP_00930	gene	pspA_2		
+GPPMPBPP_00931	CDS	gph	3.1.3.18	Phosphoglycolate phosphatase
+GPPMPBPP_00931	gene	gph		
+GPPMPBPP_00932	CDS	bbsG_2	1.3.8.3	(R)-benzylsuccinyl-CoA dehydrogenase
+GPPMPBPP_00932	gene	bbsG_2		
+GPPMPBPP_00933	CDS			hypothetical protein
+GPPMPBPP_00933	gene			
+GPPMPBPP_00934	CDS	echA8_2	4.2.1.17	putative enoyl-CoA hydratase echA8
+GPPMPBPP_00934	gene	echA8_2		
+GPPMPBPP_00935	CDS	ephA_1	3.3.2.10	Epoxide hydrolase A
+GPPMPBPP_00935	gene	ephA_1		
+GPPMPBPP_00936	CDS	glmU		Bifunctional protein GlmU
+GPPMPBPP_00936	gene	glmU		
+GPPMPBPP_00937	CDS	prs	2.7.6.1	Ribose-phosphate pyrophosphokinase
+GPPMPBPP_00937	gene	prs		
+GPPMPBPP_00938	CDS	ctc		General stress protein CTC
+GPPMPBPP_00938	gene	ctc		
+GPPMPBPP_00939	CDS	pth	3.1.1.29	Peptidyl-tRNA hydrolase
+GPPMPBPP_00939	gene	pth		
+GPPMPBPP_00940	CDS		1.1.1.306	S-(hydroxymethyl)mycothiol dehydrogenase
+GPPMPBPP_00940	gene			
+GPPMPBPP_00941	CDS	crt_6	4.2.1.150	Short-chain-enoyl-CoA hydratase
+GPPMPBPP_00941	gene	crt_6		
+GPPMPBPP_00942	CDS		2.7.1.-	Putative aminoglycoside phosphotransferase
+GPPMPBPP_00942	gene			
+GPPMPBPP_00943	CDS			hypothetical protein
+GPPMPBPP_00943	gene			
+GPPMPBPP_00944	CDS	mdlB	1.1.99.31	(S)-mandelate dehydrogenase
+GPPMPBPP_00944	gene	mdlB		
+GPPMPBPP_00945	CDS		3.1.6.1	Arylsulfatase
+GPPMPBPP_00945	gene			
+GPPMPBPP_00946	CDS			hypothetical protein
+GPPMPBPP_00946	gene			
+GPPMPBPP_00947	CDS	aroK	2.7.1.71	Shikimate kinase
+GPPMPBPP_00947	gene	aroK		
+GPPMPBPP_00948	CDS	hcnC	1.4.99.5	Hydrogen cyanide synthase subunit HcnC
+GPPMPBPP_00948	gene	hcnC		
+GPPMPBPP_00949	CDS	hmgA	1.13.11.5	Homogentisate 1,2-dioxygenase
+GPPMPBPP_00949	gene	hmgA		
+GPPMPBPP_00950	CDS	mct_2	5.4.1.3	2-methylfumaryl-CoA isomerase
+GPPMPBPP_00950	gene	mct_2		
+GPPMPBPP_00951	CDS	hpcD	5.3.3.10	5-carboxymethyl-2-hydroxymuconate Delta-isomerase
+GPPMPBPP_00951	gene	hpcD		
+GPPMPBPP_00952	CDS	amnC	1.2.1.32	2-aminomuconic 6-semialdehyde dehydrogenase
+GPPMPBPP_00952	gene	amnC		
+GPPMPBPP_00953	CDS		6.2.1.3	Long-chain-fatty-acid--CoA ligase
+GPPMPBPP_00953	gene			
+GPPMPBPP_00954	CDS	linC	1.1.1.-	2,5-dichloro-2,5-cyclohexadiene-1,4-diol dehydrogenase
+GPPMPBPP_00954	gene	linC		
+GPPMPBPP_00955	CDS			hypothetical protein
+GPPMPBPP_00955	gene			
+GPPMPBPP_00956	CDS			hypothetical protein
+GPPMPBPP_00956	gene			
+GPPMPBPP_00957	CDS	dapA	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+GPPMPBPP_00957	gene	dapA		
+GPPMPBPP_00958	CDS	rnj	3.1.-.-	Ribonuclease J
+GPPMPBPP_00958	gene	rnj		
+GPPMPBPP_00959	CDS	tlyA		Hemolysin A
+GPPMPBPP_00959	gene	tlyA		
+GPPMPBPP_00960	CDS	purF	2.4.2.14	Amidophosphoribosyltransferase
+GPPMPBPP_00960	gene	purF		
+GPPMPBPP_00961	CDS		1.3.99.-	Putative acyl-CoA dehydrogenase FadE17
+GPPMPBPP_00961	gene			
+GPPMPBPP_00962	CDS	mgl_2	4.4.1.11	L-methionine gamma-lyase
+GPPMPBPP_00962	gene	mgl_2		
+GPPMPBPP_00963	CDS			hypothetical protein
+GPPMPBPP_00963	gene			
+GPPMPBPP_00964	CDS			hypothetical protein
+GPPMPBPP_00964	gene			
+GPPMPBPP_00965	CDS	pyrH	2.7.4.22	Uridylate kinase
+GPPMPBPP_00965	gene	pyrH		
+GPPMPBPP_00966	CDS	frr		Ribosome-recycling factor
+GPPMPBPP_00966	gene	frr		
+GPPMPBPP_00967	CDS	cdsA	2.7.7.41	Phosphatidate cytidylyltransferase
+GPPMPBPP_00967	gene	cdsA		
+GPPMPBPP_00968	CDS			hypothetical protein
+GPPMPBPP_00968	gene			
+GPPMPBPP_00969	CDS			hypothetical protein
+GPPMPBPP_00969	gene			
+GPPMPBPP_00970	CDS	stp_2		Multidrug resistance protein Stp
+GPPMPBPP_00970	gene	stp_2		
+GPPMPBPP_00971	CDS	bphE	1.14.12.18	Biphenyl dioxygenase subunit beta
+GPPMPBPP_00971	gene	bphE		
+GPPMPBPP_00972	CDS	fdhD		Sulfurtransferase FdhD
+GPPMPBPP_00972	gene	fdhD		
+GPPMPBPP_00973	CDS		1.11.1.-	Putative heme-dependent peroxidase
+GPPMPBPP_00973	gene			
+GPPMPBPP_00974	CDS			hypothetical protein
+GPPMPBPP_00974	gene			
+GPPMPBPP_00975	CDS			hypothetical protein
+GPPMPBPP_00975	gene			
+GPPMPBPP_00976	CDS	dmdC	1.3.8.-	3-methylmercaptopropionyl-CoA dehydrogenase
+GPPMPBPP_00976	gene	dmdC		
+GPPMPBPP_00977	CDS	ribD2	1.1.1.302	2,5-diamino-6-ribosylamino-4(3H)-pyrimidinone 5'-phosphate reductase
+GPPMPBPP_00977	gene	ribD2		
+GPPMPBPP_00978	CDS	ftsY		Signal recognition particle receptor FtsY
+GPPMPBPP_00978	gene	ftsY		
+GPPMPBPP_00979	CDS	ffh		Signal recognition particle protein
+GPPMPBPP_00979	gene	ffh		
+GPPMPBPP_00980	CDS	rpsP		30S ribosomal protein S16
+GPPMPBPP_00980	gene	rpsP		
+GPPMPBPP_00981	CDS			hypothetical protein
+GPPMPBPP_00981	gene			
+GPPMPBPP_00982	CDS	rimM		Ribosome maturation factor RimM
+GPPMPBPP_00982	gene	rimM		
+GPPMPBPP_00983	CDS	trmD	2.1.1.228	tRNA (guanine-N(1)-)-methyltransferase
+GPPMPBPP_00983	gene	trmD		
+GPPMPBPP_00984	CDS	rplS		50S ribosomal protein L19
+GPPMPBPP_00984	gene	rplS		
+GPPMPBPP_00985	CDS	lysA	4.1.1.20	Diaminopimelate decarboxylase
+GPPMPBPP_00985	gene	lysA		
+GPPMPBPP_00986	CDS	argS	6.1.1.19	Arginine--tRNA ligase
+GPPMPBPP_00986	gene	argS		
+GPPMPBPP_00987	CDS			hypothetical protein
+GPPMPBPP_00987	gene			
+GPPMPBPP_00988	tRNA			tRNA-Ile(gat)
+GPPMPBPP_00988	gene			
+GPPMPBPP_00989	CDS			hypothetical protein
+GPPMPBPP_00989	gene			
+GPPMPBPP_00990	CDS	lgt	2.4.99.-	Prolipoprotein diacylglyceryl transferase
+GPPMPBPP_00990	gene	lgt		
+GPPMPBPP_00991	CDS			hypothetical protein
+GPPMPBPP_00991	gene			
+GPPMPBPP_00992	CDS	psdht_2	4.2.1.-	Phenylserine dehydratase
+GPPMPBPP_00992	gene	psdht_2		
+GPPMPBPP_00993	CDS	luxA_2	1.14.14.3	Alkanal monooxygenase alpha chain
+GPPMPBPP_00993	gene	luxA_2		
+GPPMPBPP_00994	CDS	ideR		Iron-dependent repressor IdeR
+GPPMPBPP_00994	gene	ideR		
+GPPMPBPP_00995	CDS	fbpC2	3.6.3.30	Fe(3+) ions import ATP-binding protein FbpC 2
+GPPMPBPP_00995	gene	fbpC2		
+GPPMPBPP_00996	CDS	lnt		Bifunctional apolipoprotein N-acyltransferase/polyprenol monophosphomannose synthase
+GPPMPBPP_00996	gene	lnt		
+GPPMPBPP_00997	CDS			hypothetical protein
+GPPMPBPP_00997	gene			
+GPPMPBPP_00998	CDS	yitU	3.1.3.-	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YitU
+GPPMPBPP_00998	gene	yitU		
+GPPMPBPP_00999	CDS	fabG_1	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+GPPMPBPP_00999	gene	fabG_1		
+GPPMPBPP_01000	CDS	entH	3.1.2.-	Proofreading thioesterase EntH
+GPPMPBPP_01000	gene	entH		
+GPPMPBPP_01001	CDS	coaE	2.7.1.24	Dephospho-CoA kinase
+GPPMPBPP_01001	gene	coaE		
+GPPMPBPP_01002	CDS			hypothetical protein
+GPPMPBPP_01002	gene			
+GPPMPBPP_01003	CDS	acsA	6.2.1.1	Acetyl-coenzyme A synthetase
+GPPMPBPP_01003	gene	acsA		
+GPPMPBPP_01004	CDS			hypothetical protein
+GPPMPBPP_01004	gene			
+GPPMPBPP_01005	CDS	dpgD	4.2.1.17	Enoyl-CoA-hydratase
+GPPMPBPP_01005	gene	dpgD		
+GPPMPBPP_01006	CDS			hypothetical protein
+GPPMPBPP_01006	gene			
+GPPMPBPP_01007	CDS			hypothetical protein
+GPPMPBPP_01007	gene			
+GPPMPBPP_01008	CDS			hypothetical protein
+GPPMPBPP_01008	gene			
+GPPMPBPP_01009	CDS	smtB_6	2.8.3.22	Succinyl-CoA--L-malate CoA-transferase beta subunit
+GPPMPBPP_01009	gene	smtB_6		
+GPPMPBPP_01010	CDS	pspF		Psp operon transcriptional activator
+GPPMPBPP_01010	gene	pspF		
+GPPMPBPP_01011	CDS			hypothetical protein
+GPPMPBPP_01011	gene			
+GPPMPBPP_01012	CDS		2.1.3.1	Methylmalonyl-CoA carboxyltransferase 12S subunit
+GPPMPBPP_01012	gene			
+GPPMPBPP_01013	CDS	rutA_4	1.14.99.46	Pyrimidine monooxygenase RutA
+GPPMPBPP_01013	gene	rutA_4		
+GPPMPBPP_01014	CDS	adh_2	1.1.1.1	putative alcohol dehydrogenase adh
+GPPMPBPP_01014	gene	adh_2		
+GPPMPBPP_01015	CDS	boxC	4.1.2.44	Benzoyl-CoA-dihydrodiol lyase
+GPPMPBPP_01015	gene	boxC		
+GPPMPBPP_01016	CDS	bclA	6.2.1.25	Benzoate--CoA ligase
+GPPMPBPP_01016	gene	bclA		
+GPPMPBPP_01017	CDS	rbsK	2.7.1.15	Ribokinase
+GPPMPBPP_01017	gene	rbsK		
+GPPMPBPP_01018	CDS	dapB	1.17.1.8	4-hydroxy-tetrahydrodipicolinate reductase
+GPPMPBPP_01018	gene	dapB		
+GPPMPBPP_01019	CDS	pnp	2.7.7.8	Polyribonucleotide nucleotidyltransferase
+GPPMPBPP_01019	gene	pnp		
+GPPMPBPP_01020	CDS	paaD		Putative 1,2-phenylacetyl-CoA epoxidase, subunit D
+GPPMPBPP_01020	gene	paaD		
+GPPMPBPP_01021	CDS	paaA	1.14.13.149	1,2-phenylacetyl-CoA epoxidase, subunit A
+GPPMPBPP_01021	gene	paaA		
+GPPMPBPP_01022	CDS			hypothetical protein
+GPPMPBPP_01022	gene			
+GPPMPBPP_01023	CDS		2.4.2.44	S-methyl-5'-thioinosine phosphorylase
+GPPMPBPP_01023	gene			
+GPPMPBPP_01024	CDS			hypothetical protein
+GPPMPBPP_01024	gene			
+GPPMPBPP_01025	CDS		3.6.-.-	putative GTPase
+GPPMPBPP_01025	gene			
+GPPMPBPP_01026	CDS	murA	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+GPPMPBPP_01026	gene	murA		
+GPPMPBPP_01027	CDS			hypothetical protein
+GPPMPBPP_01027	gene			
+GPPMPBPP_01028	CDS	resA_2		Thiol-disulfide oxidoreductase ResA
+GPPMPBPP_01028	gene	resA_2		
+GPPMPBPP_01029	CDS	nagZ	3.2.1.52	Beta-hexosaminidase
+GPPMPBPP_01029	gene	nagZ		
+GPPMPBPP_01030	CDS	flhA	1.1.1.284	S-(hydroxymethyl)glutathione dehydrogenase
+GPPMPBPP_01030	gene	flhA		
+GPPMPBPP_01031	CDS		1.-.-.-	putative oxidoreductase
+GPPMPBPP_01031	gene			
+GPPMPBPP_01032	CDS			hypothetical protein
+GPPMPBPP_01032	gene			
+GPPMPBPP_01033	CDS	prfC		Peptide chain release factor 3
+GPPMPBPP_01033	gene	prfC		
+GPPMPBPP_01034	CDS	dnaJ		Chaperone protein DnaJ
+GPPMPBPP_01034	gene	dnaJ		
+GPPMPBPP_01035	CDS	fldA_2	2.8.3.17	Cinnamoyl-CoA:phenyllactate CoA-transferase
+GPPMPBPP_01035	gene	fldA_2		
+GPPMPBPP_01036	CDS	lcfB_2	6.2.1.3	Long-chain-fatty-acid--CoA ligase
+GPPMPBPP_01036	gene	lcfB_2		
+GPPMPBPP_01037	CDS		1.1.2.-	L-gulono-1,4-lactone dehydrogenase
+GPPMPBPP_01037	gene			
+GPPMPBPP_01038	CDS	helY	3.6.4.-	putative helicase HelY
+GPPMPBPP_01038	gene	helY		
+GPPMPBPP_01039	CDS			hypothetical protein
+GPPMPBPP_01039	gene			
+GPPMPBPP_01040	CDS	uppP	3.6.1.27	Undecaprenyl-diphosphatase
+GPPMPBPP_01040	gene	uppP		
+GPPMPBPP_01041	CDS	ctaD_2	1.9.3.1	Cytochrome c oxidase subunit 1
+GPPMPBPP_01041	gene	ctaD_2		
+GPPMPBPP_01042	CDS			hypothetical protein
+GPPMPBPP_01042	gene			
+GPPMPBPP_01043	CDS			hypothetical protein
+GPPMPBPP_01043	gene			
+GPPMPBPP_01044	CDS	ctaC	1.9.3.1	Cytochrome c oxidase subunit 2
+GPPMPBPP_01044	gene	ctaC		
+GPPMPBPP_01045	CDS			hypothetical protein
+GPPMPBPP_01045	gene			
+GPPMPBPP_01046	CDS			hypothetical protein
+GPPMPBPP_01046	gene			
+GPPMPBPP_01047	CDS			hypothetical protein
+GPPMPBPP_01047	gene			
+GPPMPBPP_01048	CDS	lcdH	1.1.1.108	L-carnitine dehydrogenase
+GPPMPBPP_01048	gene	lcdH		
+GPPMPBPP_01049	CDS	kce	2.3.1.247	3-keto-5-aminohexanoate cleavage enzyme
+GPPMPBPP_01049	gene	kce		
+GPPMPBPP_01050	CDS		1.14.11.1	Gamma-butyrobetaine dioxygenase
+GPPMPBPP_01050	gene			
+GPPMPBPP_01051	CDS	nfuA		Fe/S biogenesis protein NfuA
+GPPMPBPP_01051	gene	nfuA		
+GPPMPBPP_01052	CDS	acuI	1.3.1.84	Acrylyl-CoA reductase AcuI
+GPPMPBPP_01052	gene	acuI		
+GPPMPBPP_01053	CDS		2.3.1.-	Acetyltransferase
+GPPMPBPP_01053	gene			
+GPPMPBPP_01054	CDS	ettA		Energy-dependent translational throttle protein EttA
+GPPMPBPP_01054	gene	ettA		
+GPPMPBPP_01055	CDS			hypothetical protein
+GPPMPBPP_01055	gene			
+GPPMPBPP_01056	CDS	acdA	1.3.99.-	Acyl-CoA dehydrogenase
+GPPMPBPP_01056	gene	acdA		
+GPPMPBPP_01057	CDS			hypothetical protein
+GPPMPBPP_01057	gene			
+GPPMPBPP_01058	CDS			hypothetical protein
+GPPMPBPP_01058	gene			
+GPPMPBPP_01059	CDS			hypothetical protein
+GPPMPBPP_01059	gene			
+GPPMPBPP_01060	CDS			hypothetical protein
+GPPMPBPP_01060	gene			
+GPPMPBPP_01061	CDS	chmD	1.1.1.364	dTDP-4-oxo-6-deoxy-D-allose reductase
+GPPMPBPP_01061	gene	chmD		
+GPPMPBPP_01062	CDS			hypothetical protein
+GPPMPBPP_01062	gene			
+GPPMPBPP_01063	CDS	sigB		RNA polymerase sigma factor SigB
+GPPMPBPP_01063	gene	sigB		
+GPPMPBPP_01064	CDS		1.-.-.-	Putative coenzyme F420-dependent oxidoreductase
+GPPMPBPP_01064	gene			
+GPPMPBPP_01065	CDS			hypothetical protein
+GPPMPBPP_01065	gene			
+GPPMPBPP_01066	CDS	gltC		HTH-type transcriptional regulator GltC
+GPPMPBPP_01066	gene	gltC		
+GPPMPBPP_01067	CDS	rdmC_2	3.1.1.95	Aclacinomycin methylesterase RdmC
+GPPMPBPP_01067	gene	rdmC_2		
+GPPMPBPP_01068	CDS		1.14.15.14	Methyl-branched lipid omega-hydroxylase
+GPPMPBPP_01068	gene			
+GPPMPBPP_01069	CDS	pdtaS	2.7.13.3	putative sensor histidine kinase pdtaS
+GPPMPBPP_01069	gene	pdtaS		
+GPPMPBPP_01070	CDS	whiB1		Transcriptional regulator WhiB1
+GPPMPBPP_01070	gene	whiB1		
+GPPMPBPP_01071	CDS	ugpQ	3.1.4.46	Glycerophosphodiester phosphodiesterase, cytoplasmic
+GPPMPBPP_01071	gene	ugpQ		
+GPPMPBPP_01072	CDS	dagK	2.7.1.107	Diacylglycerol kinase
+GPPMPBPP_01072	gene	dagK		
+GPPMPBPP_01073	CDS	etfB		Electron transfer flavoprotein subunit beta
+GPPMPBPP_01073	gene	etfB		
+GPPMPBPP_01074	CDS	etfA		Electron transfer flavoprotein subunit alpha
+GPPMPBPP_01074	gene	etfA		
+GPPMPBPP_01075	CDS			hypothetical protein
+GPPMPBPP_01075	gene			
+GPPMPBPP_01076	CDS	baiE	4.2.1.106	Bile acid 7-alpha dehydratase
+GPPMPBPP_01076	gene	baiE		
+GPPMPBPP_01077	CDS	budC	1.1.1.304	Diacetyl reductase [(S)-acetoin forming]
+GPPMPBPP_01077	gene	budC		
+GPPMPBPP_01078	CDS	fbiB	6.3.2.31	Coenzyme F420:L-glutamate ligase
+GPPMPBPP_01078	gene	fbiB		
+GPPMPBPP_01079	CDS	aam_2	3.5.1.13	Acylamidase
+GPPMPBPP_01079	gene	aam_2		
+GPPMPBPP_01080	CDS			hypothetical protein
+GPPMPBPP_01080	gene			
+GPPMPBPP_01081	CDS			hypothetical protein
+GPPMPBPP_01081	gene			
+GPPMPBPP_01082	CDS	clcD_2	3.1.1.45	Carboxymethylenebutenolidase
+GPPMPBPP_01082	gene	clcD_2		
+GPPMPBPP_01083	CDS			hypothetical protein
+GPPMPBPP_01083	gene			
+GPPMPBPP_01084	CDS	plsC_1	2.3.1.-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+GPPMPBPP_01084	gene	plsC_1		
+GPPMPBPP_01085	CDS			hypothetical protein
+GPPMPBPP_01085	gene			
+GPPMPBPP_01086	CDS	luxA_3	1.14.14.3	Alkanal monooxygenase alpha chain
+GPPMPBPP_01086	gene	luxA_3		
+GPPMPBPP_01087	CDS	pntE_2	1.14.13.170	Pentalenolactone D synthase
+GPPMPBPP_01087	gene	pntE_2		
+GPPMPBPP_01088	CDS	pbuE		Purine efflux pump PbuE
+GPPMPBPP_01088	gene	pbuE		
+GPPMPBPP_01089	CDS			hypothetical protein
+GPPMPBPP_01089	gene			
+GPPMPBPP_01090	CDS			hypothetical protein
+GPPMPBPP_01090	gene			
+GPPMPBPP_01091	CDS			hypothetical protein
+GPPMPBPP_01091	gene			
+GPPMPBPP_01092	tRNA			tRNA-Leu(tag)
+GPPMPBPP_01092	gene			
+GPPMPBPP_01093	CDS			hypothetical protein
+GPPMPBPP_01093	gene			
+GPPMPBPP_01094	CDS	yhdE		Maf-like protein YhdE
+GPPMPBPP_01094	gene	yhdE		
+GPPMPBPP_01095	CDS	dus	1.3.1.-	putative tRNA-dihydrouridine synthase
+GPPMPBPP_01095	gene	dus		
+GPPMPBPP_01096	CDS		6.3.3.2	5-formyltetrahydrofolate cyclo-ligase
+GPPMPBPP_01096	gene			
+GPPMPBPP_01097	CDS			hypothetical protein
+GPPMPBPP_01097	gene			
+GPPMPBPP_01098	CDS	tag	3.2.2.20	DNA-3-methyladenine glycosylase 1
+GPPMPBPP_01098	gene	tag		
+GPPMPBPP_01099	CDS			hypothetical protein
+GPPMPBPP_01099	gene			
+GPPMPBPP_01100	CDS	cadI		Cadmium-induced protein CadI
+GPPMPBPP_01100	gene	cadI		
+GPPMPBPP_01101	CDS			hypothetical protein
+GPPMPBPP_01101	gene			
+GPPMPBPP_01102	CDS	decR		DNA-binding transcriptional activator DecR
+GPPMPBPP_01102	gene	decR		
+GPPMPBPP_01103	CDS			hypothetical protein
+GPPMPBPP_01103	gene			
+GPPMPBPP_01104	CDS			hypothetical protein
+GPPMPBPP_01104	gene			
+GPPMPBPP_01105	CDS			hypothetical protein
+GPPMPBPP_01105	gene			
+GPPMPBPP_01106	CDS			hypothetical protein
+GPPMPBPP_01106	gene			
+GPPMPBPP_01107	CDS			hypothetical protein
+GPPMPBPP_01107	gene			
+GPPMPBPP_01108	CDS		1.-.-.-	Putative glutaredoxin.1
+GPPMPBPP_01108	gene			
+GPPMPBPP_01109	CDS			hypothetical protein
+GPPMPBPP_01109	gene			
+GPPMPBPP_01110	CDS			hypothetical protein
+GPPMPBPP_01110	gene			
+GPPMPBPP_01111	CDS			hypothetical protein
+GPPMPBPP_01111	gene			
+GPPMPBPP_01112	CDS			hypothetical protein
+GPPMPBPP_01112	gene			
+GPPMPBPP_01113	CDS	tgt	2.4.2.29	Queuine tRNA-ribosyltransferase
+GPPMPBPP_01113	gene	tgt		
+GPPMPBPP_01114	CDS	queA	2.4.99.17	S-adenosylmethionine:tRNA ribosyltransferase-isomerase
+GPPMPBPP_01114	gene	queA		
+GPPMPBPP_01115	CDS			hypothetical protein
+GPPMPBPP_01115	gene			
+GPPMPBPP_01116	CDS	ruvB	3.6.4.12	Holliday junction ATP-dependent DNA helicase RuvB
+GPPMPBPP_01116	gene	ruvB		
+GPPMPBPP_01117	CDS	bphA1	1.14.12.18	Biphenyl 2,3-dioxygenase subunit alpha
+GPPMPBPP_01117	gene	bphA1		
+GPPMPBPP_01118	CDS		1.13.11.-	Carotenoid cleavage oxygenase
+GPPMPBPP_01118	gene			
+GPPMPBPP_01119	CDS	mdtG		Multidrug resistance protein MdtG
+GPPMPBPP_01119	gene	mdtG		
+GPPMPBPP_01120	CDS		3.5.1.29	2-(acetamidomethylene)succinate hydrolase
+GPPMPBPP_01120	gene			
+GPPMPBPP_01121	CDS	csgA		C-factor
+GPPMPBPP_01121	gene	csgA		
+GPPMPBPP_01122	CDS			hypothetical protein
+GPPMPBPP_01122	gene			
+GPPMPBPP_01123	CDS	hmuU		Hemin transport system permease protein HmuU
+GPPMPBPP_01123	gene	hmuU		
+GPPMPBPP_01124	CDS	fepC		Ferric enterobactin transport ATP-binding protein FepC
+GPPMPBPP_01124	gene	fepC		
+GPPMPBPP_01125	CDS	btuR	2.5.1.17	Cob(I)yrinic acid a,c-diamide adenosyltransferase
+GPPMPBPP_01125	gene	btuR		
+GPPMPBPP_01126	CDS		3.5.1.83	N-acyl-D-aspartate deacylase
+GPPMPBPP_01126	gene			
+GPPMPBPP_01127	CDS	yfdE_5	2.8.3.19	Acetyl-CoA:oxalate CoA-transferase
+GPPMPBPP_01127	gene	yfdE_5		
+GPPMPBPP_01128	CDS	pchA	5.4.4.2	Salicylate biosynthesis isochorismate synthase
+GPPMPBPP_01128	gene	pchA		
+GPPMPBPP_01129	CDS	menD	2.2.1.9	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylate synthase
+GPPMPBPP_01129	gene	menD		
+GPPMPBPP_01130	CDS	menH	4.2.99.20	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+GPPMPBPP_01130	gene	menH		
+GPPMPBPP_01131	CDS	ykfB	5.1.1.20	L-Ala-D/L-Glu epimerase
+GPPMPBPP_01131	gene	ykfB		
+GPPMPBPP_01132	CDS	mhqP	1.-.-.-	Putative oxidoreductase MhqP
+GPPMPBPP_01132	gene	mhqP		
+GPPMPBPP_01133	CDS	glbO		Group 2 truncated hemoglobin GlbO
+GPPMPBPP_01133	gene	glbO		
+GPPMPBPP_01134	CDS			hypothetical protein
+GPPMPBPP_01134	gene			
+GPPMPBPP_01135	CDS			hypothetical protein
+GPPMPBPP_01135	gene			
+GPPMPBPP_01136	CDS	rppH_2	3.6.1.-	RNA pyrophosphohydrolase
+GPPMPBPP_01136	gene	rppH_2		
+GPPMPBPP_01137	CDS	citE	4.1.-.-	Citrate lyase subunit beta-like protein
+GPPMPBPP_01137	gene	citE		
+GPPMPBPP_01138	CDS			hypothetical protein
+GPPMPBPP_01138	gene			
+GPPMPBPP_01139	CDS	hisD	1.1.1.23	Histidinol dehydrogenase
+GPPMPBPP_01139	gene	hisD		
+GPPMPBPP_01140	CDS	hisC	2.6.1.9	Histidinol-phosphate aminotransferase
+GPPMPBPP_01140	gene	hisC		
+GPPMPBPP_01141	CDS	hisB	4.2.1.19	Imidazoleglycerol-phosphate dehydratase
+GPPMPBPP_01141	gene	hisB		
+GPPMPBPP_01142	CDS	hisH	2.4.2.-	Imidazole glycerol phosphate synthase subunit HisH
+GPPMPBPP_01142	gene	hisH		
+GPPMPBPP_01143	CDS	dnaE2	2.7.7.7	Error-prone DNA polymerase
+GPPMPBPP_01143	gene	dnaE2		
+GPPMPBPP_01144	CDS	livF		High-affinity branched-chain amino acid transport ATP-binding protein LivF
+GPPMPBPP_01144	gene	livF		
+GPPMPBPP_01145	CDS		1.14.15.14	Methyl-branched lipid omega-hydroxylase
+GPPMPBPP_01145	gene			
+GPPMPBPP_01146	CDS	ssuD_4	1.14.14.5	Alkanesulfonate monooxygenase
+GPPMPBPP_01146	gene	ssuD_4		
+GPPMPBPP_01147	CDS	kduD_2	1.1.1.127	2-dehydro-3-deoxy-D-gluconate 5-dehydrogenase
+GPPMPBPP_01147	gene	kduD_2		
+GPPMPBPP_01148	CDS	pleD		Response regulator PleD
+GPPMPBPP_01148	gene	pleD		
+GPPMPBPP_01149	CDS			hypothetical protein
+GPPMPBPP_01149	gene			
+GPPMPBPP_01150	CDS			hypothetical protein
+GPPMPBPP_01150	gene			
+GPPMPBPP_01151	CDS	def1	3.5.1.88	Peptide deformylase 1
+GPPMPBPP_01151	gene	def1		
+GPPMPBPP_01152	CDS	fmt	2.1.2.9	Methionyl-tRNA formyltransferase
+GPPMPBPP_01152	gene	fmt		
+GPPMPBPP_01153	CDS			hypothetical protein
+GPPMPBPP_01153	gene			
+GPPMPBPP_01154	CDS	ywqF	1.1.1.22	UDP-glucose 6-dehydrogenase YwqF
+GPPMPBPP_01154	gene	ywqF		
+GPPMPBPP_01155	CDS	mshA_3	2.4.1.250	D-inositol 3-phosphate glycosyltransferase
+GPPMPBPP_01155	gene	mshA_3		
+GPPMPBPP_01156	CDS	epsF	2.4.-.-	Putative glycosyltransferase EpsF
+GPPMPBPP_01156	gene	epsF		
+GPPMPBPP_01157	CDS	kanE	2.4.1.301	Alpha-D-kanosaminyltransferase
+GPPMPBPP_01157	gene	kanE		
+GPPMPBPP_01158	CDS			hypothetical protein
+GPPMPBPP_01158	gene			
+GPPMPBPP_01159	CDS			hypothetical protein
+GPPMPBPP_01159	gene			
+GPPMPBPP_01160	CDS	htrA		Putative serine protease HtrA
+GPPMPBPP_01160	gene	htrA		
+GPPMPBPP_01161	CDS	moaE1	2.8.1.12	Molybdopterin synthase catalytic subunit 1
+GPPMPBPP_01161	gene	moaE1		
+GPPMPBPP_01162	CDS			hypothetical protein
+GPPMPBPP_01162	gene			
+GPPMPBPP_01163	CDS	purA	6.3.4.4	Adenylosuccinate synthetase
+GPPMPBPP_01163	gene	purA		
+GPPMPBPP_01164	CDS	purD	6.3.4.13	Phosphoribosylamine--glycine ligase
+GPPMPBPP_01164	gene	purD		
+GPPMPBPP_01165	CDS	purE	5.4.99.18	N5-carboxyaminoimidazole ribonucleotide mutase
+GPPMPBPP_01165	gene	purE		
+GPPMPBPP_01166	CDS			hypothetical protein
+GPPMPBPP_01166	gene			
+GPPMPBPP_01167	CDS	tmk	2.7.4.9	Thymidylate kinase
+GPPMPBPP_01167	gene	tmk		
+GPPMPBPP_01168	CDS			hypothetical protein
+GPPMPBPP_01168	gene			
+GPPMPBPP_01169	tRNA			tRNA-Thr(cgt)
+GPPMPBPP_01169	gene			
+GPPMPBPP_01170	CDS			hypothetical protein
+GPPMPBPP_01170	gene			
+GPPMPBPP_01171	CDS			hypothetical protein
+GPPMPBPP_01171	gene			
+GPPMPBPP_01172	CDS	tilS_2	6.3.4.19	tRNA(Ile)-lysidine synthase
+GPPMPBPP_01172	gene	tilS_2		
+GPPMPBPP_01173	CDS	ilvE_2	2.6.1.42	putative branched-chain-amino-acid aminotransferase
+GPPMPBPP_01173	gene	ilvE_2		
+GPPMPBPP_01174	CDS	fadJ		Fatty acid oxidation complex subunit alpha
+GPPMPBPP_01174	gene	fadJ		
+GPPMPBPP_01175	CDS	hsaA_3	1.14.14.12	Flavin-dependent monooxygenase, oxygenase subunit HsaA
+GPPMPBPP_01175	gene	hsaA_3		
+GPPMPBPP_01176	CDS	novR	4.1.-.-	Decarboxylase NovR
+GPPMPBPP_01176	gene	novR		
+GPPMPBPP_01177	CDS	ifcA	1.3.5.4	Fumarate reductase flavoprotein subunit
+GPPMPBPP_01177	gene	ifcA		
+GPPMPBPP_01178	CDS		6.2.1.3	Long-chain-fatty-acid--CoA ligase FadD13
+GPPMPBPP_01178	gene			
+GPPMPBPP_01179	CDS	serS	6.1.1.11	Serine--tRNA ligase
+GPPMPBPP_01179	gene	serS		
+GPPMPBPP_01180	CDS	crcB_1		Putative fluoride ion transporter CrcB
+GPPMPBPP_01180	gene	crcB_1		
+GPPMPBPP_01181	CDS	crcB_2		Putative fluoride ion transporter CrcB
+GPPMPBPP_01181	gene	crcB_2		
+GPPMPBPP_01182	CDS	pdxH	1.4.3.5	Pyridoxine/pyridoxamine 5'-phosphate oxidase
+GPPMPBPP_01182	gene	pdxH		
+GPPMPBPP_01183	CDS			hypothetical protein
+GPPMPBPP_01183	gene			
+GPPMPBPP_01184	CDS			hypothetical protein
+GPPMPBPP_01184	gene			
+GPPMPBPP_01185	CDS	resA_3		Thiol-disulfide oxidoreductase ResA
+GPPMPBPP_01185	gene	resA_3		
+GPPMPBPP_01186	CDS	whiB7		putative transcriptional regulator WhiB7
+GPPMPBPP_01186	gene	whiB7		
+GPPMPBPP_01187	CDS		1.-.-.-	Putative coenzyme F420-dependent oxidoreductase
+GPPMPBPP_01187	gene			
+GPPMPBPP_01188	CDS	proS	6.1.1.15	Proline--tRNA ligase
+GPPMPBPP_01188	gene	proS		
+GPPMPBPP_01189	CDS	fadM	3.1.2.-	Long-chain acyl-CoA thioesterase FadM
+GPPMPBPP_01189	gene	fadM		
+GPPMPBPP_01190	CDS	fabG_2	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+GPPMPBPP_01190	gene	fabG_2		
+GPPMPBPP_01191	CDS	tesB	3.1.2.-	Acyl-CoA thioesterase 2
+GPPMPBPP_01191	gene	tesB		
+GPPMPBPP_01192	CDS	pccB_2	6.4.1.3	Propionyl-CoA carboxylase beta chain
+GPPMPBPP_01192	gene	pccB_2		
+GPPMPBPP_01193	CDS			hypothetical protein
+GPPMPBPP_01193	gene			
+GPPMPBPP_01194	CDS	addA	3.1.-.-	ATP-dependent helicase/nuclease subunit A
+GPPMPBPP_01194	gene	addA		
+GPPMPBPP_01195	CDS	gatA_2	6.3.5.7	Glutamyl-tRNA(Gln) amidotransferase subunit A
+GPPMPBPP_01195	gene	gatA_2		
+GPPMPBPP_01196	CDS	yheS		putative ABC transporter ATP-binding protein YheS
+GPPMPBPP_01196	gene	yheS		
+GPPMPBPP_01197	CDS	cpdA	3.1.4.53	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+GPPMPBPP_01197	gene	cpdA		
+GPPMPBPP_01198	CDS		1.4.3.5	Putative pyridoxine/pyridoxamine 5'-phosphate oxidase
+GPPMPBPP_01198	gene			
+GPPMPBPP_01199	CDS	surE	3.1.3.5	5'-nucleotidase SurE
+GPPMPBPP_01199	gene	surE		
+GPPMPBPP_01200	CDS			hypothetical protein
+GPPMPBPP_01200	gene			
+GPPMPBPP_01201	CDS			hypothetical protein
+GPPMPBPP_01201	gene			
+GPPMPBPP_01202	CDS	echA8_3	4.2.1.17	putative enoyl-CoA hydratase echA8
+GPPMPBPP_01202	gene	echA8_3		
+GPPMPBPP_01203	CDS	yfdE_6	2.8.3.19	Acetyl-CoA:oxalate CoA-transferase
+GPPMPBPP_01203	gene	yfdE_6		
+GPPMPBPP_01204	CDS	paaF	4.2.1.17	2,3-dehydroadipyl-CoA hydratase
+GPPMPBPP_01204	gene	paaF		
+GPPMPBPP_01205	CDS			hypothetical protein
+GPPMPBPP_01205	gene			
+GPPMPBPP_01206	CDS	oxyR		Hydrogen peroxide-inducible genes activator
+GPPMPBPP_01206	gene	oxyR		
+GPPMPBPP_01207	CDS	acnD	4.2.1.117	2-methylcitrate dehydratase (2-methyl-trans-aconitate forming)
+GPPMPBPP_01207	gene	acnD		
+GPPMPBPP_01208	CDS	plsC_2	2.3.1.-	1-acyl-sn-glycerol-3-phosphate acyltransferase
+GPPMPBPP_01208	gene	plsC_2		
+GPPMPBPP_01209	CDS			hypothetical protein
+GPPMPBPP_01209	gene			
+GPPMPBPP_01210	CDS	act	3.-.-.-	Methanol dehydrogenase activator
+GPPMPBPP_01210	gene	act		
+GPPMPBPP_01211	CDS	pyrG	6.3.4.2	CTP synthase
+GPPMPBPP_01211	gene	pyrG		
+GPPMPBPP_01212	CDS			hypothetical protein
+GPPMPBPP_01212	gene			
+GPPMPBPP_01213	CDS	gpgS	2.4.1.266	Glucosyl-3-phosphoglycerate synthase
+GPPMPBPP_01213	gene	gpgS		
+GPPMPBPP_01214	CDS	mctB		Copper transporter MctB
+GPPMPBPP_01214	gene	mctB		
+GPPMPBPP_01215	CDS			hypothetical protein
+GPPMPBPP_01215	gene			
+GPPMPBPP_01216	CDS	recN		DNA repair protein RecN
+GPPMPBPP_01216	gene	recN		
+GPPMPBPP_01217	CDS			hypothetical protein
+GPPMPBPP_01217	gene			
+GPPMPBPP_01218	CDS	Y2-aiiA_2	3.1.1.81	N-acyl homoserine lactonase
+GPPMPBPP_01218	gene	Y2-aiiA_2		
+GPPMPBPP_01219	CDS	fadB	4.2.1.17	putative enoyl-CoA hydratase
+GPPMPBPP_01219	gene	fadB		
+GPPMPBPP_01220	CDS			hypothetical protein
+GPPMPBPP_01220	gene			
+GPPMPBPP_01221	CDS		1.3.99.-	Acyl-CoA dehydrogenase FadE34
+GPPMPBPP_01221	gene			
+GPPMPBPP_01222	CDS	paaG_2	5.3.3.18	1,2-epoxyphenylacetyl-CoA isomerase
+GPPMPBPP_01222	gene	paaG_2		
+GPPMPBPP_01223	CDS	uctC_2	2.8.3.19	Acetyl-CoA:oxalate CoA-transferase
+GPPMPBPP_01223	gene	uctC_2		
+GPPMPBPP_01224	CDS			hypothetical protein
+GPPMPBPP_01224	gene			
+GPPMPBPP_01225	CDS			hypothetical protein
+GPPMPBPP_01225	gene			
+GPPMPBPP_01226	CDS	nagG	1.14.13.172	Salicylate 5-hydroxylase, large oxygenase component
+GPPMPBPP_01226	gene	nagG		
+GPPMPBPP_01227	CDS			hypothetical protein
+GPPMPBPP_01227	gene			
+GPPMPBPP_01228	CDS	phrB_2	4.1.99.13	(6-4) photolyase
+GPPMPBPP_01228	gene	phrB_2		
+GPPMPBPP_01229	CDS			hypothetical protein
+GPPMPBPP_01229	gene			
+GPPMPBPP_01230	CDS			hypothetical protein
+GPPMPBPP_01230	gene			
+GPPMPBPP_01231	CDS	nuoA	1.6.5.11	NADH-quinone oxidoreductase subunit A
+GPPMPBPP_01231	gene	nuoA		
+GPPMPBPP_01232	CDS	nuoB_2	1.6.5.11	NADH-quinone oxidoreductase subunit B
+GPPMPBPP_01232	gene	nuoB_2		
+GPPMPBPP_01233	CDS	nqo5	1.6.5.11	NADH-quinone oxidoreductase subunit 5
+GPPMPBPP_01233	gene	nqo5		
+GPPMPBPP_01234	CDS	nuoD	1.6.5.11	NADH-quinone oxidoreductase subunit D
+GPPMPBPP_01234	gene	nuoD		
+GPPMPBPP_01235	CDS	nuoE	1.6.5.11	NADH-quinone oxidoreductase subunit E
+GPPMPBPP_01235	gene	nuoE		
+GPPMPBPP_01236	CDS	yfdE_7	2.8.3.19	Acetyl-CoA:oxalate CoA-transferase
+GPPMPBPP_01236	gene	yfdE_7		
+GPPMPBPP_01237	CDS			hypothetical protein
+GPPMPBPP_01237	gene			
+GPPMPBPP_01238	CDS			hypothetical protein
+GPPMPBPP_01238	gene			
+GPPMPBPP_01239	CDS			Thioredoxin-like reductase
+GPPMPBPP_01239	gene			
+GPPMPBPP_01240	CDS			hypothetical protein
+GPPMPBPP_01240	gene			
+GPPMPBPP_01241	CDS			hypothetical protein
+GPPMPBPP_01241	gene			
+GPPMPBPP_01242	CDS			hypothetical protein
+GPPMPBPP_01242	gene			
+GPPMPBPP_01243	CDS	mmgC_3	1.3.99.-	Acyl-CoA dehydrogenase
+GPPMPBPP_01243	gene	mmgC_3		
+GPPMPBPP_01244	CDS	yjcS	3.1.6.-	Putative alkyl/aryl-sulfatase YjcS
+GPPMPBPP_01244	gene	yjcS		
+GPPMPBPP_01245	CDS			hypothetical protein
+GPPMPBPP_01245	gene			
+GPPMPBPP_01246	CDS	bluB	1.13.11.79	5,6-dimethylbenzimidazole synthase
+GPPMPBPP_01246	gene	bluB		
+GPPMPBPP_01247	CDS	nfnB_3	1.-.-.-	Nitroreductase NfnB
+GPPMPBPP_01247	gene	nfnB_3		
+GPPMPBPP_01248	CDS	bdhA	1.1.1.30	D-beta-hydroxybutyrate dehydrogenase
+GPPMPBPP_01248	gene	bdhA		
+GPPMPBPP_01249	CDS	fabG_3	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+GPPMPBPP_01249	gene	fabG_3		
+GPPMPBPP_01250	CDS	glnII	6.3.1.2	Glutamine synthetase 2
+GPPMPBPP_01250	gene	glnII		
+GPPMPBPP_01251	CDS	nadE	6.3.5.1	Glutamine-dependent NAD(+) synthetase
+GPPMPBPP_01251	gene	nadE		
+GPPMPBPP_01252	CDS			hypothetical protein
+GPPMPBPP_01252	gene			
+GPPMPBPP_01253	CDS			hypothetical protein
+GPPMPBPP_01253	gene			
+GPPMPBPP_01254	CDS	crt_7	4.2.1.150	Short-chain-enoyl-CoA hydratase
+GPPMPBPP_01254	gene	crt_7		
+GPPMPBPP_01255	CDS	recA		Protein RecA
+GPPMPBPP_01255	gene	recA		
+GPPMPBPP_01256	CDS			hypothetical protein
+GPPMPBPP_01256	gene			
+GPPMPBPP_01257	CDS			hypothetical protein
+GPPMPBPP_01257	gene			
+GPPMPBPP_01258	CDS	rdpA_3	1.14.11.44	(R)-phenoxypropionate/alpha-ketoglutarate-dioxygenase
+GPPMPBPP_01258	gene	rdpA_3		
+GPPMPBPP_01259	CDS		2.3.1.9	putative acetyl-CoA acetyltransferase
+GPPMPBPP_01259	gene			
+GPPMPBPP_01260	CDS	ccr	1.3.1.86	Crotonyl-CoA reductase
+GPPMPBPP_01260	gene	ccr		
+GPPMPBPP_01261	CDS			hypothetical protein
+GPPMPBPP_01261	gene			
+GPPMPBPP_01262	CDS	trpA	4.2.1.20	Tryptophan synthase alpha chain
+GPPMPBPP_01262	gene	trpA		
+GPPMPBPP_01263	CDS			hypothetical protein
+GPPMPBPP_01263	gene			
+GPPMPBPP_01264	CDS	cccA		Cytochrome c-551
+GPPMPBPP_01264	gene	cccA		
+GPPMPBPP_01265	CDS	bcp_3	1.11.1.15	Putative peroxiredoxin
+GPPMPBPP_01265	gene	bcp_3		
+GPPMPBPP_01266	CDS	fabZ	4.2.1.59	3-hydroxyacyl-[acyl-carrier-protein] dehydratase FabZ
+GPPMPBPP_01266	gene	fabZ		
+GPPMPBPP_01267	CDS			hypothetical protein
+GPPMPBPP_01267	gene			
+GPPMPBPP_01268	CDS			hypothetical protein
+GPPMPBPP_01268	gene			
+GPPMPBPP_01269	CDS	fabF	2.3.1.179	3-oxoacyl-[acyl-carrier-protein] synthase 2
+GPPMPBPP_01269	gene	fabF		
+GPPMPBPP_01270	CDS	luxA_4	1.14.14.3	Alkanal monooxygenase alpha chain
+GPPMPBPP_01270	gene	luxA_4		
+GPPMPBPP_01271	CDS	acyI		Acylase ACY 1
+GPPMPBPP_01271	gene	acyI		
+GPPMPBPP_01272	CDS		1.14.-.-	Cytochrome P450-pinF2, plant-inducible
+GPPMPBPP_01272	gene			
+GPPMPBPP_01273	CDS			hypothetical protein
+GPPMPBPP_01273	gene			
+GPPMPBPP_01274	CDS	udk	2.7.1.48	Uridine kinase
+GPPMPBPP_01274	gene	udk		
+GPPMPBPP_01275	CDS			hypothetical protein
+GPPMPBPP_01275	gene			
+GPPMPBPP_01276	CDS			hypothetical protein
+GPPMPBPP_01276	gene			
+GPPMPBPP_01277	CDS	caiD_2	4.2.1.149	Carnitinyl-CoA dehydratase
+GPPMPBPP_01277	gene	caiD_2		
+GPPMPBPP_01278	CDS	bbsF_6	2.8.3.15	Succinyl-CoA:(R)-benzylsuccinate CoA-transferase subunit BbsF
+GPPMPBPP_01278	gene	bbsF_6		
+GPPMPBPP_01279	CDS			hypothetical protein
+GPPMPBPP_01279	gene			
+GPPMPBPP_01280	CDS			hypothetical protein
+GPPMPBPP_01280	gene			
+GPPMPBPP_01281	CDS			hypothetical protein
+GPPMPBPP_01281	gene			
+GPPMPBPP_01282	CDS	dgoT		D-galactonate transporter
+GPPMPBPP_01282	gene	dgoT		
+GPPMPBPP_01283	CDS			hypothetical protein
+GPPMPBPP_01283	gene			
+GPPMPBPP_01284	CDS	fkbP	5.2.1.8	FK506-binding protein
+GPPMPBPP_01284	gene	fkbP		
+GPPMPBPP_01285	CDS	ephA_2	3.3.2.10	Epoxide hydrolase A
+GPPMPBPP_01285	gene	ephA_2		
+GPPMPBPP_01286	CDS		1.1.1.-	Putative short-chain type dehydrogenase/reductase
+GPPMPBPP_01286	gene			
+GPPMPBPP_01287	CDS			hypothetical protein
+GPPMPBPP_01287	gene			
+GPPMPBPP_01288	CDS	dpnA	2.1.1.72	Modification methylase DpnIIB
+GPPMPBPP_01288	gene	dpnA		
+GPPMPBPP_01289	CDS			hypothetical protein
+GPPMPBPP_01289	gene			
+GPPMPBPP_01290	CDS			hypothetical protein
+GPPMPBPP_01290	gene			
+GPPMPBPP_01291	CDS	hup		DNA-binding protein HU
+GPPMPBPP_01291	gene	hup		
+GPPMPBPP_01292	CDS	bshB1	3.5.1.-	N-acetyl-alpha-D-glucosaminyl L-malate deacetylase 1
+GPPMPBPP_01292	gene	bshB1		
+GPPMPBPP_01293	CDS	cofC	2.7.7.68	2-phospho-L-lactate guanylyltransferase
+GPPMPBPP_01293	gene	cofC		
+GPPMPBPP_01294	CDS	moaA2	4.1.99.22	GTP 3',8-cyclase 2
+GPPMPBPP_01294	gene	moaA2		
+GPPMPBPP_01295	CDS	moaC2	4.6.1.17	Cyclic pyranopterin monophosphate synthase 2
+GPPMPBPP_01295	gene	moaC2		
+GPPMPBPP_01296	CDS			hypothetical protein
+GPPMPBPP_01296	gene			
+GPPMPBPP_01297	tRNA			tRNA-Ala(cgc)
+GPPMPBPP_01297	gene			
+GPPMPBPP_01298	CDS			hypothetical protein
+GPPMPBPP_01298	gene			
+GPPMPBPP_01299	CDS			hypothetical protein
+GPPMPBPP_01299	gene			
+GPPMPBPP_01300	CDS			hypothetical protein
+GPPMPBPP_01300	gene			
+GPPMPBPP_01301	CDS	rpsC		30S ribosomal protein S3
+GPPMPBPP_01301	gene	rpsC		
+GPPMPBPP_01302	CDS	rplP		50S ribosomal protein L16
+GPPMPBPP_01302	gene	rplP		
+GPPMPBPP_01303	CDS	rpmC		50S ribosomal protein L29
+GPPMPBPP_01303	gene	rpmC		
+GPPMPBPP_01304	CDS	rpsQ		30S ribosomal protein S17
+GPPMPBPP_01304	gene	rpsQ		
+GPPMPBPP_01305	CDS	rplN		50S ribosomal protein L14
+GPPMPBPP_01305	gene	rplN		
+GPPMPBPP_01306	CDS	rplX		50S ribosomal protein L24
+GPPMPBPP_01306	gene	rplX		
+GPPMPBPP_01307	CDS	rplE		50S ribosomal protein L5
+GPPMPBPP_01307	gene	rplE		
+GPPMPBPP_01308	CDS	rpsH		30S ribosomal protein S8
+GPPMPBPP_01308	gene	rpsH		
+GPPMPBPP_01309	CDS	rplF		50S ribosomal protein L6
+GPPMPBPP_01309	gene	rplF		
+GPPMPBPP_01310	CDS	rplR		50S ribosomal protein L18
+GPPMPBPP_01310	gene	rplR		
+GPPMPBPP_01311	CDS	gpt	2.4.2.22	Xanthine phosphoribosyltransferase
+GPPMPBPP_01311	gene	gpt		
+GPPMPBPP_01312	CDS	queF	1.7.1.13	NADPH-dependent 7-cyano-7-deazaguanine reductase
+GPPMPBPP_01312	gene	queF		
+GPPMPBPP_01313	CDS	mshD_2	2.3.1.189	Mycothiol acetyltransferase
+GPPMPBPP_01313	gene	mshD_2		
+GPPMPBPP_01314	CDS			hypothetical protein
+GPPMPBPP_01314	gene			
+GPPMPBPP_01315	CDS	atsA_2	3.1.6.1	Arylsulfatase
+GPPMPBPP_01315	gene	atsA_2		
+GPPMPBPP_01316	CDS			hypothetical protein
+GPPMPBPP_01316	gene			
+GPPMPBPP_01317	CDS		2.3.1.-	Putative acetyltransferase
+GPPMPBPP_01317	gene			
+GPPMPBPP_01318	CDS			hypothetical protein
+GPPMPBPP_01318	gene			
+GPPMPBPP_01319	CDS			hypothetical protein
+GPPMPBPP_01319	gene			
+GPPMPBPP_01320	CDS			hypothetical protein
+GPPMPBPP_01320	gene			
+GPPMPBPP_01321	CDS			hypothetical protein
+GPPMPBPP_01321	gene			
+GPPMPBPP_01322	CDS	rpoC	2.7.7.6	DNA-directed RNA polymerase subunit beta'
+GPPMPBPP_01322	gene	rpoC		
+GPPMPBPP_01323	CDS			hypothetical protein
+GPPMPBPP_01323	gene			
+GPPMPBPP_01324	CDS		1.1.98.-	F420H(2)-dependent quinone reductase
+GPPMPBPP_01324	gene			
+GPPMPBPP_01325	CDS			hypothetical protein
+GPPMPBPP_01325	gene			
+GPPMPBPP_01326	CDS	crt_8	4.2.1.150	Short-chain-enoyl-CoA hydratase
+GPPMPBPP_01326	gene	crt_8		
+GPPMPBPP_01327	CDS			hypothetical protein
+GPPMPBPP_01327	gene			
+GPPMPBPP_01328	CDS	hepT	2.5.1.30	Heptaprenyl diphosphate synthase component 2
+GPPMPBPP_01328	gene	hepT		
+GPPMPBPP_01329	CDS	folP	2.5.1.15	Dihydropteroate synthase
+GPPMPBPP_01329	gene	folP		
+GPPMPBPP_01330	CDS	fadN	1.1.1.35	putative 3-hydroxyacyl-CoA dehydrogenase
+GPPMPBPP_01330	gene	fadN		
+GPPMPBPP_01331	CDS	mmgC_4	1.3.99.-	Acyl-CoA dehydrogenase
+GPPMPBPP_01331	gene	mmgC_4		
+GPPMPBPP_01332	CDS	thrS	6.1.1.3	Threonine--tRNA ligase
+GPPMPBPP_01332	gene	thrS		
+GPPMPBPP_01333	CDS	gltA	2.3.3.16	Citrate synthase
+GPPMPBPP_01333	gene	gltA		
+GPPMPBPP_01334	CDS			hypothetical protein
+GPPMPBPP_01334	gene			
+GPPMPBPP_01335	CDS			hypothetical protein
+GPPMPBPP_01335	gene			
+GPPMPBPP_01336	CDS			hypothetical protein
+GPPMPBPP_01336	gene			
+GPPMPBPP_01337	CDS	hsaA_4	1.14.14.12	Flavin-dependent monooxygenase, oxygenase subunit HsaA
+GPPMPBPP_01337	gene	hsaA_4		
+GPPMPBPP_01338	CDS			hypothetical protein
+GPPMPBPP_01338	gene			
+GPPMPBPP_01339	CDS	luxA_5	1.14.14.3	Alkanal monooxygenase alpha chain
+GPPMPBPP_01339	gene	luxA_5		
+GPPMPBPP_01340	CDS	hyuA	3.5.2.-	D-phenylhydantoinase
+GPPMPBPP_01340	gene	hyuA		
+GPPMPBPP_01341	CDS			hypothetical protein
+GPPMPBPP_01341	gene			
+GPPMPBPP_01342	CDS			hypothetical protein
+GPPMPBPP_01342	gene			
+GPPMPBPP_01343	CDS	luxA_6	1.14.14.3	Alkanal monooxygenase alpha chain
+GPPMPBPP_01343	gene	luxA_6		
+GPPMPBPP_01344	CDS	yfdE_8	2.8.3.19	Acetyl-CoA:oxalate CoA-transferase
+GPPMPBPP_01344	gene	yfdE_8		
+GPPMPBPP_01345	CDS			hypothetical protein
+GPPMPBPP_01345	gene			
+GPPMPBPP_01346	CDS			hypothetical protein
+GPPMPBPP_01346	gene			
+GPPMPBPP_01347	CDS			hypothetical protein
+GPPMPBPP_01347	gene			
+GPPMPBPP_01348	CDS	dapE_2	3.5.1.18	Succinyl-diaminopimelate desuccinylase
+GPPMPBPP_01348	gene	dapE_2		
+GPPMPBPP_01349	CDS	sufC_2		Vegetative protein 296
+GPPMPBPP_01349	gene	sufC_2		
+GPPMPBPP_01350	CDS	sufS	2.8.1.7	Cysteine desulfurase SufS
+GPPMPBPP_01350	gene	sufS		
+GPPMPBPP_01351	CDS	sufU	2.-.-.-	Zinc-dependent sulfurtransferase SufU
+GPPMPBPP_01351	gene	sufU		
+GPPMPBPP_01352	CDS	bbsF_7	2.8.3.15	Succinyl-CoA:(R)-benzylsuccinate CoA-transferase subunit BbsF
+GPPMPBPP_01352	gene	bbsF_7		
+GPPMPBPP_01353	CDS			hypothetical protein
+GPPMPBPP_01353	gene			
+GPPMPBPP_01354	CDS			hypothetical protein
+GPPMPBPP_01354	gene			
+GPPMPBPP_01355	CDS			hypothetical protein
+GPPMPBPP_01355	gene			
+GPPMPBPP_01356	CDS	scpA_2	5.4.99.2	Methylmalonyl-CoA mutase
+GPPMPBPP_01356	gene	scpA_2		
+GPPMPBPP_01357	CDS	thiD	2.7.1.49	Hydroxymethylpyrimidine/phosphomethylpyrimidine kinase
+GPPMPBPP_01357	gene	thiD		
+GPPMPBPP_01358	CDS			hypothetical protein
+GPPMPBPP_01358	gene			
+GPPMPBPP_01359	CDS			hypothetical protein
+GPPMPBPP_01359	gene			
+GPPMPBPP_01360	CDS	yhjX_2		putative MFS-type transporter YhjX
+GPPMPBPP_01360	gene	yhjX_2		
+GPPMPBPP_01361	CDS	hicd	1.1.1.87	Homoisocitrate dehydrogenase
+GPPMPBPP_01361	gene	hicd		
+GPPMPBPP_01362	CDS	yjmC	1.1.1.-	putative oxidoreductase YjmC
+GPPMPBPP_01362	gene	yjmC		
+GPPMPBPP_01363	CDS	ilvI_2	2.2.1.6	Acetolactate synthase isozyme 3 large subunit
+GPPMPBPP_01363	gene	ilvI_2		
+GPPMPBPP_01364	CDS			hypothetical protein
+GPPMPBPP_01364	gene			
+GPPMPBPP_01365	CDS	yhaI		Inner membrane protein YhaI
+GPPMPBPP_01365	gene	yhaI		
+GPPMPBPP_01366	CDS			hypothetical protein
+GPPMPBPP_01366	gene			
+GPPMPBPP_01367	CDS			hypothetical protein
+GPPMPBPP_01367	gene			
+GPPMPBPP_01368	CDS			hypothetical protein
+GPPMPBPP_01368	gene			
+GPPMPBPP_01369	CDS			hypothetical protein
+GPPMPBPP_01369	gene			
+GPPMPBPP_01370	tRNA			tRNA-Arg(ccg)
+GPPMPBPP_01370	gene			
+GPPMPBPP_01371	CDS		2.7.7.53	AP-4-A phosphorylase
+GPPMPBPP_01371	gene			
+GPPMPBPP_01372	CDS			hypothetical protein
+GPPMPBPP_01372	gene			
+GPPMPBPP_01373	CDS	inhA	1.3.1.9	Enoyl-[acyl-carrier-protein] reductase [NADH]
+GPPMPBPP_01373	gene	inhA		
+GPPMPBPP_01374	CDS	tlyC		Hemolysin C
+GPPMPBPP_01374	gene	tlyC		
+GPPMPBPP_01375	CDS	corC_1		Magnesium and cobalt efflux protein CorC
+GPPMPBPP_01375	gene	corC_1		
+GPPMPBPP_01376	CDS	glnA	6.3.1.2	Glutamine synthetase 2
+GPPMPBPP_01376	gene	glnA		
+GPPMPBPP_01377	CDS	regX3_2		Sensory transduction protein regX3
+GPPMPBPP_01377	gene	regX3_2		
+GPPMPBPP_01378	CDS			hypothetical protein
+GPPMPBPP_01378	gene			
+GPPMPBPP_01379	CDS	yabJ	3.5.99.10	2-iminobutanoate/2-iminopropanoate deaminase
+GPPMPBPP_01379	gene	yabJ		
+GPPMPBPP_01380	CDS	pucE	1.17.1.4	putative xanthine dehydrogenase subunit E
+GPPMPBPP_01380	gene	pucE		
+GPPMPBPP_01381	CDS	nrdZ	1.17.4.1	Vitamin B12-dependent ribonucleoside-diphosphate reductase
+GPPMPBPP_01381	gene	nrdZ		
+GPPMPBPP_01382	CDS	fabG_4	1.1.1.100	3-oxoacyl-[acyl-carrier-protein] reductase FabG
+GPPMPBPP_01382	gene	fabG_4		
+GPPMPBPP_01383	CDS			hypothetical protein
+GPPMPBPP_01383	gene			
+GPPMPBPP_01384	CDS	recO		DNA repair protein RecO
+GPPMPBPP_01384	gene	recO		
+GPPMPBPP_01385	CDS		2.5.1.88	Trans,polycis-polyprenyl diphosphate synthase ((2Z,6E)-farnesyl diphosphate specific)
+GPPMPBPP_01385	gene			
+GPPMPBPP_01386	CDS	era		GTPase Era
+GPPMPBPP_01386	gene	era		
+GPPMPBPP_01387	CDS	corC_2		Magnesium and cobalt efflux protein CorC
+GPPMPBPP_01387	gene	corC_2		
+GPPMPBPP_01388	CDS	ybeY	3.1.-.-	Endoribonuclease YbeY
+GPPMPBPP_01388	gene	ybeY		
+GPPMPBPP_01389	CDS	sadH_3	1.-.-.-	Putative oxidoreductase SadH
+GPPMPBPP_01389	gene	sadH_3		
+GPPMPBPP_01390	CDS			hypothetical protein
+GPPMPBPP_01390	gene			
+GPPMPBPP_01391	CDS	trmH	2.1.1.34	tRNA (guanosine(18)-2'-O)-methyltransferase
+GPPMPBPP_01391	gene	trmH		
+GPPMPBPP_01392	CDS			hypothetical protein
+GPPMPBPP_01392	gene			
+GPPMPBPP_01393	CDS			hypothetical protein
+GPPMPBPP_01393	gene			
+GPPMPBPP_01394	CDS			hypothetical protein
+GPPMPBPP_01394	gene			
+GPPMPBPP_01395	CDS	bacC_5	1.1.1.385	Dihydroanticapsin 7-dehydrogenase
+GPPMPBPP_01395	gene	bacC_5		
+GPPMPBPP_01396	CDS			hypothetical protein
+GPPMPBPP_01396	gene			
+GPPMPBPP_01397	CDS			hypothetical protein
+GPPMPBPP_01397	gene			
+GPPMPBPP_01398	CDS			hypothetical protein
+GPPMPBPP_01398	gene			
+GPPMPBPP_01399	CDS	tetA		Tetracycline resistance protein, class B
+GPPMPBPP_01399	gene	tetA		
+GPPMPBPP_01400	CDS	hpcH	4.1.2.52	4-hydroxy-2-oxo-heptane-1,7-dioate aldolase
+GPPMPBPP_01400	gene	hpcH		
+GPPMPBPP_01401	CDS			hypothetical protein
+GPPMPBPP_01401	gene			
+GPPMPBPP_01402	CDS	hsaB	1.5.1.36	Flavin-dependent monooxygenase, reductase subunit HsaB
+GPPMPBPP_01402	gene	hsaB		
+GPPMPBPP_01403	CDS			hypothetical protein
+GPPMPBPP_01403	gene			
+GPPMPBPP_01404	CDS	dapb1	3.4.14.-	Dipeptidyl aminopeptidase BI
+GPPMPBPP_01404	gene	dapb1		
+GPPMPBPP_01405	CDS	dapH	2.3.1.89	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+GPPMPBPP_01405	gene	dapH		
+GPPMPBPP_01406	CDS	soj	3.6.-.-	Sporulation initiation inhibitor protein Soj
+GPPMPBPP_01406	gene	soj		
+GPPMPBPP_01407	CDS	rsmG	2.1.1.-	Ribosomal RNA small subunit methyltransferase G
+GPPMPBPP_01407	gene	rsmG		
+GPPMPBPP_01408	CDS			hypothetical protein
+GPPMPBPP_01408	gene			
+GPPMPBPP_01409	CDS			hypothetical protein
+GPPMPBPP_01409	gene			
+GPPMPBPP_01410	CDS	misCA		Membrane protein insertase MisCA
+GPPMPBPP_01410	gene	misCA		
+GPPMPBPP_01411	CDS			Epimerase family protein
+GPPMPBPP_01411	gene			
+GPPMPBPP_01412	CDS	nlhH_2	3.1.1.1	Carboxylesterase NlhH
+GPPMPBPP_01412	gene	nlhH_2		

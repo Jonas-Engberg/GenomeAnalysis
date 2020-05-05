@@ -1,0 +1,4757 @@
+locus_tag	ftype	gene	EC_number	product
+IFGJHFNK_00001	CDS			hypothetical protein
+IFGJHFNK_00001	gene			
+IFGJHFNK_00002	CDS			hypothetical protein
+IFGJHFNK_00002	gene			
+IFGJHFNK_00003	CDS			hypothetical protein
+IFGJHFNK_00003	gene			
+IFGJHFNK_00004	CDS	guaB_1	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+IFGJHFNK_00004	gene	guaB_1		
+IFGJHFNK_00005	CDS			Universal stress protein
+IFGJHFNK_00005	gene			
+IFGJHFNK_00006	CDS			hypothetical protein
+IFGJHFNK_00006	gene			
+IFGJHFNK_00007	CDS			hypothetical protein
+IFGJHFNK_00007	gene			
+IFGJHFNK_00008	CDS		3.6.4.13	putative ATP-dependent RNA helicase
+IFGJHFNK_00008	gene			
+IFGJHFNK_00009	CDS			hypothetical protein
+IFGJHFNK_00009	gene			
+IFGJHFNK_00010	CDS			hypothetical protein
+IFGJHFNK_00010	gene			
+IFGJHFNK_00011	CDS			hypothetical protein
+IFGJHFNK_00011	gene			
+IFGJHFNK_00012	CDS			hypothetical protein
+IFGJHFNK_00012	gene			
+IFGJHFNK_00013	CDS			hypothetical protein
+IFGJHFNK_00013	gene			
+IFGJHFNK_00014	CDS			hypothetical protein
+IFGJHFNK_00014	gene			
+IFGJHFNK_00015	CDS			hypothetical protein
+IFGJHFNK_00015	gene			
+IFGJHFNK_00016	CDS		5.1.3.11	Cellobiose 2-epimerase
+IFGJHFNK_00016	gene			
+IFGJHFNK_00017	CDS			hypothetical protein
+IFGJHFNK_00017	gene			
+IFGJHFNK_00018	CDS			hypothetical protein
+IFGJHFNK_00018	gene			
+IFGJHFNK_00019	CDS	adh_1	1.1.1.1	NAD-dependent alcohol dehydrogenase
+IFGJHFNK_00019	gene	adh_1		
+IFGJHFNK_00020	CDS			hypothetical protein
+IFGJHFNK_00020	gene			
+IFGJHFNK_00021	CDS	tfe_1		Transcription factor E
+IFGJHFNK_00021	gene	tfe_1		
+IFGJHFNK_00022	CDS		2.1.1.206	tRNA (cytidine(56)-2'-O)-methyltransferase
+IFGJHFNK_00022	gene			
+IFGJHFNK_00023	CDS	hflX_1		GTPase HflX
+IFGJHFNK_00023	gene	hflX_1		
+IFGJHFNK_00024	CDS			hypothetical protein
+IFGJHFNK_00024	gene			
+IFGJHFNK_00025	CDS			hypothetical protein
+IFGJHFNK_00025	gene			
+IFGJHFNK_00026	CDS			hypothetical protein
+IFGJHFNK_00026	gene			
+IFGJHFNK_00027	CDS			Putative nickel-responsive regulator
+IFGJHFNK_00027	gene			
+IFGJHFNK_00028	CDS	smc_1		Chromosome partition protein Smc
+IFGJHFNK_00028	gene	smc_1		
+IFGJHFNK_00029	CDS	aglE_1	2.4.1.-	Glycosyltransferase AglE
+IFGJHFNK_00029	gene	aglE_1		
+IFGJHFNK_00030	CDS	zfx_1		Zinc-containing ferredoxin
+IFGJHFNK_00030	gene	zfx_1		
+IFGJHFNK_00031	CDS	nadK_1	2.7.1.23	NAD kinase
+IFGJHFNK_00031	gene	nadK_1		
+IFGJHFNK_00032	CDS	aroE_1	1.1.1.25	Shikimate dehydrogenase (NADP(+))
+IFGJHFNK_00032	gene	aroE_1		
+IFGJHFNK_00033	CDS	aroD_1	4.2.1.10	3-dehydroquinate dehydratase
+IFGJHFNK_00033	gene	aroD_1		
+IFGJHFNK_00034	CDS	aroB'_1	1.4.1.24	3-dehydroquinate synthase
+IFGJHFNK_00034	gene	aroB'_1		
+IFGJHFNK_00035	CDS			hypothetical protein
+IFGJHFNK_00035	gene			
+IFGJHFNK_00036	CDS	albA		DNA/RNA-binding protein Alba
+IFGJHFNK_00036	gene	albA		
+IFGJHFNK_00037	CDS	rpoK_1	2.7.7.6	DNA-directed RNA polymerase subunit K
+IFGJHFNK_00037	gene	rpoK_1		
+IFGJHFNK_00038	CDS			hypothetical protein
+IFGJHFNK_00038	gene			
+IFGJHFNK_00039	CDS			hypothetical protein
+IFGJHFNK_00039	gene			
+IFGJHFNK_00040	CDS			hypothetical protein
+IFGJHFNK_00040	gene			
+IFGJHFNK_00041	CDS	dys_1	2.5.1.46	putative deoxyhypusine synthase
+IFGJHFNK_00041	gene	dys_1		
+IFGJHFNK_00042	CDS			hypothetical protein
+IFGJHFNK_00042	gene			
+IFGJHFNK_00043	CDS			hypothetical protein
+IFGJHFNK_00043	gene			
+IFGJHFNK_00044	CDS	coaD	2.7.7.3	Phosphopantetheine adenylyltransferase
+IFGJHFNK_00044	gene	coaD		
+IFGJHFNK_00045	CDS			hypothetical protein
+IFGJHFNK_00045	gene			
+IFGJHFNK_00046	CDS			hypothetical protein
+IFGJHFNK_00046	gene			
+IFGJHFNK_00047	CDS			hypothetical protein
+IFGJHFNK_00047	gene			
+IFGJHFNK_00048	CDS	trpS	6.1.1.2	Tryptophan--tRNA ligase
+IFGJHFNK_00048	gene	trpS		
+IFGJHFNK_00049	CDS			hypothetical protein
+IFGJHFNK_00049	gene			
+IFGJHFNK_00050	CDS			hypothetical protein
+IFGJHFNK_00050	gene			
+IFGJHFNK_00051	CDS			hypothetical protein
+IFGJHFNK_00051	gene			
+IFGJHFNK_00052	CDS			hypothetical protein
+IFGJHFNK_00052	gene			
+IFGJHFNK_00053	CDS	mtnP	2.4.2.28	S-methyl-5'-thioadenosine phosphorylase
+IFGJHFNK_00053	gene	mtnP		
+IFGJHFNK_00054	CDS	hpt	2.4.2.8	Hypoxanthine/guanine phosphoribosyltransferase
+IFGJHFNK_00054	gene	hpt		
+IFGJHFNK_00055	CDS			hypothetical protein
+IFGJHFNK_00055	gene			
+IFGJHFNK_00056	CDS			Fe(2+) transporter FeoB
+IFGJHFNK_00056	gene			
+IFGJHFNK_00057	CDS			hypothetical protein
+IFGJHFNK_00057	gene			
+IFGJHFNK_00058	CDS			hypothetical protein
+IFGJHFNK_00058	gene			
+IFGJHFNK_00059	CDS	lapB_1		Lipopolysaccharide assembly protein B
+IFGJHFNK_00059	gene	lapB_1		
+IFGJHFNK_00060	CDS	tssA_1	2.8.1.1	Putative thiosulfate sulfurtransferase
+IFGJHFNK_00060	gene	tssA_1		
+IFGJHFNK_00061	CDS	nasD_1	1.7.7.1	Assimilatory ferredoxin-dependent nitrite reductase
+IFGJHFNK_00061	gene	nasD_1		
+IFGJHFNK_00062	CDS	thi4_1	4.-.-.-	Thiamine thiazole synthase
+IFGJHFNK_00062	gene	thi4_1		
+IFGJHFNK_00063	CDS			hypothetical protein
+IFGJHFNK_00063	gene			
+IFGJHFNK_00064	CDS	mdh_1	1.1.1.299	Malate dehydrogenase
+IFGJHFNK_00064	gene	mdh_1		
+IFGJHFNK_00065	CDS			Universal stress protein
+IFGJHFNK_00065	gene			
+IFGJHFNK_00066	CDS			hypothetical protein
+IFGJHFNK_00066	gene			
+IFGJHFNK_00067	CDS	guaB_2	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+IFGJHFNK_00067	gene	guaB_2		
+IFGJHFNK_00068	CDS			hypothetical protein
+IFGJHFNK_00068	gene			
+IFGJHFNK_00069	CDS			Universal stress protein
+IFGJHFNK_00069	gene			
+IFGJHFNK_00070	CDS	guaB_3	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+IFGJHFNK_00070	gene	guaB_3		
+IFGJHFNK_00071	CDS	purD_1	6.3.4.13	Phosphoribosylamine--glycine ligase
+IFGJHFNK_00071	gene	purD_1		
+IFGJHFNK_00072	CDS			hypothetical protein
+IFGJHFNK_00072	gene			
+IFGJHFNK_00073	CDS	folD_1		Bifunctional protein FolD protein
+IFGJHFNK_00073	gene	folD_1		
+IFGJHFNK_00074	CDS			hypothetical protein
+IFGJHFNK_00074	gene			
+IFGJHFNK_00075	CDS			hypothetical protein
+IFGJHFNK_00075	gene			
+IFGJHFNK_00076	CDS	purN_1	2.1.2.2	Phosphoribosylglycinamide formyltransferase
+IFGJHFNK_00076	gene	purN_1		
+IFGJHFNK_00077	CDS			50S ribosomal protein L10
+IFGJHFNK_00077	gene			
+IFGJHFNK_00078	CDS			hypothetical protein
+IFGJHFNK_00078	gene			
+IFGJHFNK_00079	CDS			hypothetical protein
+IFGJHFNK_00079	gene			
+IFGJHFNK_00080	CDS			hypothetical protein
+IFGJHFNK_00080	gene			
+IFGJHFNK_00081	CDS	rpl1_1		50S ribosomal protein L1
+IFGJHFNK_00081	gene	rpl1_1		
+IFGJHFNK_00082	CDS			50S ribosomal protein L10
+IFGJHFNK_00082	gene			
+IFGJHFNK_00083	CDS			hypothetical protein
+IFGJHFNK_00083	gene			
+IFGJHFNK_00084	CDS			hypothetical protein
+IFGJHFNK_00084	gene			
+IFGJHFNK_00085	CDS			hypothetical protein
+IFGJHFNK_00085	gene			
+IFGJHFNK_00086	CDS			hypothetical protein
+IFGJHFNK_00086	gene			
+IFGJHFNK_00087	CDS	allB	3.5.2.5	Allantoinase
+IFGJHFNK_00087	gene	allB		
+IFGJHFNK_00088	CDS			hypothetical protein
+IFGJHFNK_00088	gene			
+IFGJHFNK_00089	CDS			hypothetical protein
+IFGJHFNK_00089	gene			
+IFGJHFNK_00090	CDS			hypothetical protein
+IFGJHFNK_00090	gene			
+IFGJHFNK_00091	CDS	rpiA_1	5.3.1.6	Ribose-5-phosphate isomerase A
+IFGJHFNK_00091	gene	rpiA_1		
+IFGJHFNK_00092	CDS	pyrG_1	6.3.4.2	CTP synthase
+IFGJHFNK_00092	gene	pyrG_1		
+IFGJHFNK_00093	CDS			Bifunctional NADP phosphatase/NAD kinase
+IFGJHFNK_00093	gene			
+IFGJHFNK_00094	CDS			hypothetical protein
+IFGJHFNK_00094	gene			
+IFGJHFNK_00095	CDS			hypothetical protein
+IFGJHFNK_00095	gene			
+IFGJHFNK_00096	CDS		2.7.8.39	Archaetidylinositol phosphate synthase
+IFGJHFNK_00096	gene			
+IFGJHFNK_00097	CDS		3.5.3.24	N(1)-aminopropylagmatine ureohydrolase
+IFGJHFNK_00097	gene			
+IFGJHFNK_00098	CDS	thrS_1	6.1.1.3	Threonine--tRNA ligase
+IFGJHFNK_00098	gene	thrS_1		
+IFGJHFNK_00099	CDS			hypothetical protein
+IFGJHFNK_00099	gene			
+IFGJHFNK_00100	CDS			hypothetical protein
+IFGJHFNK_00100	gene			
+IFGJHFNK_00101	CDS			hypothetical protein
+IFGJHFNK_00101	gene			
+IFGJHFNK_00102	CDS			hypothetical protein
+IFGJHFNK_00102	gene			
+IFGJHFNK_00103	CDS	ravA_1	3.6.3.-	ATPase RavA
+IFGJHFNK_00103	gene	ravA_1		
+IFGJHFNK_00104	CDS			hypothetical protein
+IFGJHFNK_00104	gene			
+IFGJHFNK_00105	CDS			hypothetical protein
+IFGJHFNK_00105	gene			
+IFGJHFNK_00106	CDS			hypothetical protein
+IFGJHFNK_00106	gene			
+IFGJHFNK_00107	CDS			hypothetical protein
+IFGJHFNK_00107	gene			
+IFGJHFNK_00108	CDS			hypothetical protein
+IFGJHFNK_00108	gene			
+IFGJHFNK_00109	CDS	atpC		V-type ATP synthase subunit C
+IFGJHFNK_00109	gene	atpC		
+IFGJHFNK_00110	CDS			hypothetical protein
+IFGJHFNK_00110	gene			
+IFGJHFNK_00111	CDS			Putative ammonium transporter
+IFGJHFNK_00111	gene			
+IFGJHFNK_00112	CDS			hypothetical protein
+IFGJHFNK_00112	gene			
+IFGJHFNK_00113	CDS			hypothetical protein
+IFGJHFNK_00113	gene			
+IFGJHFNK_00114	CDS	leuS_1	6.1.1.4	Leucine--tRNA ligase
+IFGJHFNK_00114	gene	leuS_1		
+IFGJHFNK_00115	CDS		3.6.4.12	ATP-dependent DNA helicase Hel308
+IFGJHFNK_00115	gene			
+IFGJHFNK_00116	CDS			hypothetical protein
+IFGJHFNK_00116	gene			
+IFGJHFNK_00117	CDS	rrp4_1		Exosome complex component Rrp4
+IFGJHFNK_00117	gene	rrp4_1		
+IFGJHFNK_00118	CDS			Ribosome maturation protein SDO1 
+IFGJHFNK_00118	gene			
+IFGJHFNK_00119	CDS	rpoD_1	2.7.7.6	DNA-directed RNA polymerase subunit D
+IFGJHFNK_00119	gene	rpoD_1		
+IFGJHFNK_00120	CDS	lysZ	2.7.2.-	[LysW]-aminoadipate/[LysW]-glutamate kinase
+IFGJHFNK_00120	gene	lysZ		
+IFGJHFNK_00121	CDS	lysJ_1	2.6.1.-	[LysW]-aminoadipate semialdehyde/glutamate semialdehyde transaminase
+IFGJHFNK_00121	gene	lysJ_1		
+IFGJHFNK_00122	CDS	lysM_1		HTH-type transcriptional regulator LysM
+IFGJHFNK_00122	gene	lysM_1		
+IFGJHFNK_00123	CDS			hypothetical protein
+IFGJHFNK_00123	gene			
+IFGJHFNK_00124	CDS			hypothetical protein
+IFGJHFNK_00124	gene			
+IFGJHFNK_00125	CDS			putative nitrogen regulatory PII-like protein
+IFGJHFNK_00125	gene			
+IFGJHFNK_00126	CDS	tatA_1		Sec-independent protein translocase protein TatA
+IFGJHFNK_00126	gene	tatA_1		
+IFGJHFNK_00127	CDS	mjaVM_1	2.1.1.113	Modification methylase MjaV
+IFGJHFNK_00127	gene	mjaVM_1		
+IFGJHFNK_00128	CDS			hypothetical protein
+IFGJHFNK_00128	gene			
+IFGJHFNK_00129	CDS			hypothetical protein
+IFGJHFNK_00129	gene			
+IFGJHFNK_00130	CDS			hypothetical protein
+IFGJHFNK_00130	gene			
+IFGJHFNK_00131	CDS			hypothetical protein
+IFGJHFNK_00131	gene			
+IFGJHFNK_00132	CDS			hypothetical protein
+IFGJHFNK_00132	gene			
+IFGJHFNK_00133	CDS			hypothetical protein
+IFGJHFNK_00133	gene			
+IFGJHFNK_00134	CDS	malK_1	3.6.3.19	Trehalose/maltose import ATP-binding protein MalK
+IFGJHFNK_00134	gene	malK_1		
+IFGJHFNK_00135	CDS			hypothetical protein
+IFGJHFNK_00135	gene			
+IFGJHFNK_00136	CDS			hypothetical protein
+IFGJHFNK_00136	gene			
+IFGJHFNK_00137	CDS			hypothetical protein
+IFGJHFNK_00137	gene			
+IFGJHFNK_00138	CDS			hypothetical protein
+IFGJHFNK_00138	gene			
+IFGJHFNK_00139	CDS	xerC_1		Tyrosine recombinase XerC
+IFGJHFNK_00139	gene	xerC_1		
+IFGJHFNK_00140	CDS			hypothetical protein
+IFGJHFNK_00140	gene			
+IFGJHFNK_00141	CDS			hypothetical protein
+IFGJHFNK_00141	gene			
+IFGJHFNK_00142	CDS			hypothetical protein
+IFGJHFNK_00142	gene			
+IFGJHFNK_00143	CDS			hypothetical protein
+IFGJHFNK_00143	gene			
+IFGJHFNK_00144	CDS			hypothetical protein
+IFGJHFNK_00144	gene			
+IFGJHFNK_00145	CDS	cofH_1	2.5.1.77	FO synthase subunit 2
+IFGJHFNK_00145	gene	cofH_1		
+IFGJHFNK_00146	CDS	ubiD_1	4.1.1.98	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+IFGJHFNK_00146	gene	ubiD_1		
+IFGJHFNK_00147	CDS			hypothetical protein
+IFGJHFNK_00147	gene			
+IFGJHFNK_00148	CDS			hypothetical protein
+IFGJHFNK_00148	gene			
+IFGJHFNK_00149	CDS			hypothetical protein
+IFGJHFNK_00149	gene			
+IFGJHFNK_00150	CDS			hypothetical protein
+IFGJHFNK_00150	gene			
+IFGJHFNK_00151	CDS			hypothetical protein
+IFGJHFNK_00151	gene			
+IFGJHFNK_00152	CDS			hypothetical protein
+IFGJHFNK_00152	gene			
+IFGJHFNK_00153	CDS			hypothetical protein
+IFGJHFNK_00153	gene			
+IFGJHFNK_00154	CDS	bioD_1	6.3.3.3	ATP-dependent dethiobiotin synthetase BioD
+IFGJHFNK_00154	gene	bioD_1		
+IFGJHFNK_00155	CDS			hypothetical protein
+IFGJHFNK_00155	gene			
+IFGJHFNK_00156	CDS			Universal stress protein
+IFGJHFNK_00156	gene			
+IFGJHFNK_00157	CDS			hypothetical protein
+IFGJHFNK_00157	gene			
+IFGJHFNK_00158	CDS			hypothetical protein
+IFGJHFNK_00158	gene			
+IFGJHFNK_00159	CDS			hypothetical protein
+IFGJHFNK_00159	gene			
+IFGJHFNK_00160	CDS			hypothetical protein
+IFGJHFNK_00160	gene			
+IFGJHFNK_00161	CDS			hypothetical protein
+IFGJHFNK_00161	gene			
+IFGJHFNK_00162	CDS			hypothetical protein
+IFGJHFNK_00162	gene			
+IFGJHFNK_00163	CDS			hypothetical protein
+IFGJHFNK_00163	gene			
+IFGJHFNK_00164	CDS			hypothetical protein
+IFGJHFNK_00164	gene			
+IFGJHFNK_00165	CDS			putative ABC transporter ATP-binding protein
+IFGJHFNK_00165	gene			
+IFGJHFNK_00166	CDS			hypothetical protein
+IFGJHFNK_00166	gene			
+IFGJHFNK_00167	CDS	ptr1		HTH-type transcriptional regulator Ptr1
+IFGJHFNK_00167	gene	ptr1		
+IFGJHFNK_00168	CDS	metG_1	6.1.1.10	Methionine--tRNA ligase
+IFGJHFNK_00168	gene	metG_1		
+IFGJHFNK_00169	CDS			hypothetical protein
+IFGJHFNK_00169	gene			
+IFGJHFNK_00170	CDS	tuf_1		Elongation factor 1-alpha
+IFGJHFNK_00170	gene	tuf_1		
+IFGJHFNK_00171	CDS			hypothetical protein
+IFGJHFNK_00171	gene			
+IFGJHFNK_00172	CDS	ycf3_1		Photosystem I assembly protein Ycf3
+IFGJHFNK_00172	gene	ycf3_1		
+IFGJHFNK_00173	CDS			hypothetical protein
+IFGJHFNK_00173	gene			
+IFGJHFNK_00174	CDS		6.3.4.15	Putative biotin ligase
+IFGJHFNK_00174	gene			
+IFGJHFNK_00175	CDS			hypothetical protein
+IFGJHFNK_00175	gene			
+IFGJHFNK_00176	CDS	hldD_1	5.1.3.20	ADP-L-glycero-D-manno-heptose-6-epimerase
+IFGJHFNK_00176	gene	hldD_1		
+IFGJHFNK_00177	CDS		6.2.1.13	Acetate--CoA ligase [ADP-forming] II
+IFGJHFNK_00177	gene			
+IFGJHFNK_00178	CDS	pheS	6.1.1.20	Phenylalanine--tRNA ligase alpha subunit
+IFGJHFNK_00178	gene	pheS		
+IFGJHFNK_00179	CDS	pheT	6.1.1.20	Phenylalanine--tRNA ligase beta subunit
+IFGJHFNK_00179	gene	pheT		
+IFGJHFNK_00180	CDS			hypothetical protein
+IFGJHFNK_00180	gene			
+IFGJHFNK_00181	CDS	zupT_1		Zinc transporter ZupT
+IFGJHFNK_00181	gene	zupT_1		
+IFGJHFNK_00182	CDS	fieF_1		Ferrous-iron efflux pump FieF
+IFGJHFNK_00182	gene	fieF_1		
+IFGJHFNK_00183	CDS			hypothetical protein
+IFGJHFNK_00183	gene			
+IFGJHFNK_00184	CDS	filI_1	2.7.13.3	Methanogenesis regulatory histidine kinase FilI
+IFGJHFNK_00184	gene	filI_1		
+IFGJHFNK_00185	CDS			hypothetical protein
+IFGJHFNK_00185	gene			
+IFGJHFNK_00186	CDS			hypothetical protein
+IFGJHFNK_00186	gene			
+IFGJHFNK_00187	CDS			hypothetical protein
+IFGJHFNK_00187	gene			
+IFGJHFNK_00188	CDS		6.2.1.13	Acetate--CoA ligase [ADP-forming] I
+IFGJHFNK_00188	gene			
+IFGJHFNK_00189	CDS			hypothetical protein
+IFGJHFNK_00189	gene			
+IFGJHFNK_00190	CDS	nob1_1	3.1.-.-	Endoribonuclease Nob1
+IFGJHFNK_00190	gene	nob1_1		
+IFGJHFNK_00191	CDS			hypothetical protein
+IFGJHFNK_00191	gene			
+IFGJHFNK_00192	CDS	xpf_1		3'-flap repair endonuclease Xpf
+IFGJHFNK_00192	gene	xpf_1		
+IFGJHFNK_00193	CDS	pfdB_1		Prefoldin subunit beta
+IFGJHFNK_00193	gene	pfdB_1		
+IFGJHFNK_00194	CDS			hypothetical protein
+IFGJHFNK_00194	gene			
+IFGJHFNK_00195	CDS			50S ribosomal protein L37Ae
+IFGJHFNK_00195	gene			
+IFGJHFNK_00196	CDS			Exosome complex component Rrp42
+IFGJHFNK_00196	gene			
+IFGJHFNK_00197	CDS		3.1.13.-	Exosome complex component Rrp41
+IFGJHFNK_00197	gene			
+IFGJHFNK_00198	CDS			hypothetical protein
+IFGJHFNK_00198	gene			
+IFGJHFNK_00199	CDS	xerC_2		Tyrosine recombinase XerC
+IFGJHFNK_00199	gene	xerC_2		
+IFGJHFNK_00200	CDS			Universal stress protein
+IFGJHFNK_00200	gene			
+IFGJHFNK_00201	CDS	noc_1		Nucleoid occlusion protein
+IFGJHFNK_00201	gene	noc_1		
+IFGJHFNK_00202	CDS			hypothetical protein
+IFGJHFNK_00202	gene			
+IFGJHFNK_00203	CDS			Universal stress protein
+IFGJHFNK_00203	gene			
+IFGJHFNK_00204	CDS			hypothetical protein
+IFGJHFNK_00204	gene			
+IFGJHFNK_00205	CDS			hypothetical protein
+IFGJHFNK_00205	gene			
+IFGJHFNK_00206	CDS			hypothetical protein
+IFGJHFNK_00206	gene			
+IFGJHFNK_00207	CDS			hypothetical protein
+IFGJHFNK_00207	gene			
+IFGJHFNK_00208	CDS	ureD_1		Urease accessory protein UreD
+IFGJHFNK_00208	gene	ureD_1		
+IFGJHFNK_00209	CDS	hypB		putative hydrogenase nickel incorporation protein HypB
+IFGJHFNK_00209	gene	hypB		
+IFGJHFNK_00210	CDS	ureF_1		Urease accessory protein UreF
+IFGJHFNK_00210	gene	ureF_1		
+IFGJHFNK_00211	CDS	ureE_1		Urease accessory protein UreE
+IFGJHFNK_00211	gene	ureE_1		
+IFGJHFNK_00212	CDS	ureA_1	3.5.1.5	Urease subunit gamma
+IFGJHFNK_00212	gene	ureA_1		
+IFGJHFNK_00213	CDS	ureA_2	3.5.1.5	Urease subunit alpha
+IFGJHFNK_00213	gene	ureA_2		
+IFGJHFNK_00214	CDS	ureC_1	3.5.1.5	Urease subunit alpha
+IFGJHFNK_00214	gene	ureC_1		
+IFGJHFNK_00215	CDS			hypothetical protein
+IFGJHFNK_00215	gene			
+IFGJHFNK_00216	CDS			hypothetical protein
+IFGJHFNK_00216	gene			
+IFGJHFNK_00217	CDS			Universal stress protein
+IFGJHFNK_00217	gene			
+IFGJHFNK_00218	CDS			hypothetical protein
+IFGJHFNK_00218	gene			
+IFGJHFNK_00219	CDS			putative nitrogen regulatory PII-like protein
+IFGJHFNK_00219	gene			
+IFGJHFNK_00220	CDS			hypothetical protein
+IFGJHFNK_00220	gene			
+IFGJHFNK_00221	CDS			hypothetical protein
+IFGJHFNK_00221	gene			
+IFGJHFNK_00222	CDS			hypothetical protein
+IFGJHFNK_00222	gene			
+IFGJHFNK_00223	CDS			hypothetical protein
+IFGJHFNK_00223	gene			
+IFGJHFNK_00224	CDS			hypothetical protein
+IFGJHFNK_00224	gene			
+IFGJHFNK_00225	CDS			hypothetical protein
+IFGJHFNK_00225	gene			
+IFGJHFNK_00226	CDS			hypothetical protein
+IFGJHFNK_00226	gene			
+IFGJHFNK_00227	CDS			hypothetical protein
+IFGJHFNK_00227	gene			
+IFGJHFNK_00228	CDS			hypothetical protein
+IFGJHFNK_00228	gene			
+IFGJHFNK_00229	CDS	guaAA_1	6.3.5.2	GMP synthase [glutamine-hydrolyzing] subunit A
+IFGJHFNK_00229	gene	guaAA_1		
+IFGJHFNK_00230	CDS			hypothetical protein
+IFGJHFNK_00230	gene			
+IFGJHFNK_00231	CDS			hypothetical protein
+IFGJHFNK_00231	gene			
+IFGJHFNK_00232	CDS		3.4.19.15	Desampylase
+IFGJHFNK_00232	gene			
+IFGJHFNK_00233	CDS			hypothetical protein
+IFGJHFNK_00233	gene			
+IFGJHFNK_00234	CDS	cmoA_1	2.1.1.-	tRNA (cmo5U34)-methyltransferase
+IFGJHFNK_00234	gene	cmoA_1		
+IFGJHFNK_00235	CDS	hppA	3.6.1.1	K(+)-insensitive pyrophosphate-energized proton pump
+IFGJHFNK_00235	gene	hppA		
+IFGJHFNK_00236	CDS			hypothetical protein
+IFGJHFNK_00236	gene			
+IFGJHFNK_00237	CDS			hypothetical protein
+IFGJHFNK_00237	gene			
+IFGJHFNK_00238	CDS			hypothetical protein
+IFGJHFNK_00238	gene			
+IFGJHFNK_00239	CDS			hypothetical protein
+IFGJHFNK_00239	gene			
+IFGJHFNK_00240	CDS	herA_1	3.6.4.12	DNA double-strand break repair helicase HerA
+IFGJHFNK_00240	gene	herA_1		
+IFGJHFNK_00241	CDS	aspS_1	6.1.1.23	Aspartate--tRNA(Asp/Asn) ligase
+IFGJHFNK_00241	gene	aspS_1		
+IFGJHFNK_00242	CDS			hypothetical protein
+IFGJHFNK_00242	gene			
+IFGJHFNK_00243	CDS			hypothetical protein
+IFGJHFNK_00243	gene			
+IFGJHFNK_00244	CDS	purP_1	6.3.4.23	5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase
+IFGJHFNK_00244	gene	purP_1		
+IFGJHFNK_00245	CDS			hypothetical protein
+IFGJHFNK_00245	gene			
+IFGJHFNK_00246	CDS			putative ABC transporter ATP-binding protein
+IFGJHFNK_00246	gene			
+IFGJHFNK_00247	CDS			hypothetical protein
+IFGJHFNK_00247	gene			
+IFGJHFNK_00248	CDS			hypothetical protein
+IFGJHFNK_00248	gene			
+IFGJHFNK_00249	CDS			hypothetical protein
+IFGJHFNK_00249	gene			
+IFGJHFNK_00250	CDS			hypothetical protein
+IFGJHFNK_00250	gene			
+IFGJHFNK_00251	CDS			hypothetical protein
+IFGJHFNK_00251	gene			
+IFGJHFNK_00252	CDS	hisF_1	4.1.3.-	Imidazole glycerol phosphate synthase subunit HisF
+IFGJHFNK_00252	gene	hisF_1		
+IFGJHFNK_00253	CDS	hisF_2	4.1.3.-	Imidazole glycerol phosphate synthase subunit HisF
+IFGJHFNK_00253	gene	hisF_2		
+IFGJHFNK_00254	CDS	hisI_1	3.5.4.19	Phosphoribosyl-AMP cyclohydrolase
+IFGJHFNK_00254	gene	hisI_1		
+IFGJHFNK_00255	CDS			hypothetical protein
+IFGJHFNK_00255	gene			
+IFGJHFNK_00256	CDS	thrC_1	4.2.3.1	Threonine synthase
+IFGJHFNK_00256	gene	thrC_1		
+IFGJHFNK_00257	CDS	hisS	6.1.1.21	Histidine--tRNA ligase
+IFGJHFNK_00257	gene	hisS		
+IFGJHFNK_00258	CDS	eif6		Translation initiation factor 6
+IFGJHFNK_00258	gene	eif6		
+IFGJHFNK_00259	CDS	zfx_2		Zinc-containing ferredoxin
+IFGJHFNK_00259	gene	zfx_2		
+IFGJHFNK_00260	CDS	zfx_3		Zinc-containing ferredoxin
+IFGJHFNK_00260	gene	zfx_3		
+IFGJHFNK_00261	tRNA			tRNA-Ser(tga)
+IFGJHFNK_00261	gene			
+IFGJHFNK_00262	CDS	rfcS		Replication factor C small subunit
+IFGJHFNK_00262	gene	rfcS		
+IFGJHFNK_00263	CDS			hypothetical protein
+IFGJHFNK_00263	gene			
+IFGJHFNK_00264	CDS			hypothetical protein
+IFGJHFNK_00264	gene			
+IFGJHFNK_00265	CDS			hypothetical protein
+IFGJHFNK_00265	gene			
+IFGJHFNK_00266	CDS			hypothetical protein
+IFGJHFNK_00266	gene			
+IFGJHFNK_00267	CDS			hypothetical protein
+IFGJHFNK_00267	gene			
+IFGJHFNK_00268	CDS			hypothetical protein
+IFGJHFNK_00268	gene			
+IFGJHFNK_00269	CDS	guaB_4	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+IFGJHFNK_00269	gene	guaB_4		
+IFGJHFNK_00270	CDS			hypothetical protein
+IFGJHFNK_00270	gene			
+IFGJHFNK_00271	CDS			hypothetical protein
+IFGJHFNK_00271	gene			
+IFGJHFNK_00272	CDS			hypothetical protein
+IFGJHFNK_00272	gene			
+IFGJHFNK_00273	CDS			hypothetical protein
+IFGJHFNK_00273	gene			
+IFGJHFNK_00274	CDS			hypothetical protein
+IFGJHFNK_00274	gene			
+IFGJHFNK_00275	CDS			hypothetical protein
+IFGJHFNK_00275	gene			
+IFGJHFNK_00276	CDS			hypothetical protein
+IFGJHFNK_00276	gene			
+IFGJHFNK_00277	CDS			hypothetical protein
+IFGJHFNK_00277	gene			
+IFGJHFNK_00278	CDS			hypothetical protein
+IFGJHFNK_00278	gene			
+IFGJHFNK_00279	CDS	pcm	2.1.1.77	Protein-L-isoaspartate O-methyltransferase
+IFGJHFNK_00279	gene	pcm		
+IFGJHFNK_00280	CDS			hypothetical protein
+IFGJHFNK_00280	gene			
+IFGJHFNK_00281	CDS			hypothetical protein
+IFGJHFNK_00281	gene			
+IFGJHFNK_00282	CDS			hypothetical protein
+IFGJHFNK_00282	gene			
+IFGJHFNK_00283	CDS			hypothetical protein
+IFGJHFNK_00283	gene			
+IFGJHFNK_00284	CDS			hypothetical protein
+IFGJHFNK_00284	gene			
+IFGJHFNK_00285	CDS			hypothetical protein
+IFGJHFNK_00285	gene			
+IFGJHFNK_00286	CDS			hypothetical protein
+IFGJHFNK_00286	gene			
+IFGJHFNK_00287	CDS	fusA_1		Elongation factor 2
+IFGJHFNK_00287	gene	fusA_1		
+IFGJHFNK_00288	CDS	lysY	1.2.1.-	[LysW]-L-2-aminoadipate/[LysW]-L-glutamate phosphate reductase
+IFGJHFNK_00288	gene	lysY		
+IFGJHFNK_00289	CDS	lysX_1	6.3.2.43	Alpha-aminoadipate--LysW ligase LysX
+IFGJHFNK_00289	gene	lysX_1		
+IFGJHFNK_00290	CDS	lysW_1		Alpha-aminoadipate/glutamate carrier protein LysW
+IFGJHFNK_00290	gene	lysW_1		
+IFGJHFNK_00291	CDS	argG	6.3.4.5	Argininosuccinate synthase
+IFGJHFNK_00291	gene	argG		
+IFGJHFNK_00292	CDS			hypothetical protein
+IFGJHFNK_00292	gene			
+IFGJHFNK_00293	CDS			hypothetical protein
+IFGJHFNK_00293	gene			
+IFGJHFNK_00294	CDS			hypothetical protein
+IFGJHFNK_00294	gene			
+IFGJHFNK_00295	CDS	dbh	2.7.7.7	DNA polymerase IV
+IFGJHFNK_00295	gene	dbh		
+IFGJHFNK_00296	CDS			hypothetical protein
+IFGJHFNK_00296	gene			
+IFGJHFNK_00297	CDS	petE_1		Plastocyanin
+IFGJHFNK_00297	gene	petE_1		
+IFGJHFNK_00298	CDS			hypothetical protein
+IFGJHFNK_00298	gene			
+IFGJHFNK_00299	CDS			hypothetical protein
+IFGJHFNK_00299	gene			
+IFGJHFNK_00300	CDS	atpF_1		V-type ATP synthase subunit F
+IFGJHFNK_00300	gene	atpF_1		
+IFGJHFNK_00301	CDS	tdh_1	1.1.1.103	L-threonine 3-dehydrogenase
+IFGJHFNK_00301	gene	tdh_1		
+IFGJHFNK_00302	CDS	tfb_1		Transcription initiation factor IIB
+IFGJHFNK_00302	gene	tfb_1		
+IFGJHFNK_00303	CDS			hypothetical protein
+IFGJHFNK_00303	gene			
+IFGJHFNK_00304	CDS			hypothetical protein
+IFGJHFNK_00304	gene			
+IFGJHFNK_00305	CDS	vat_1		VCP-like ATPase
+IFGJHFNK_00305	gene	vat_1		
+IFGJHFNK_00306	CDS			hypothetical protein
+IFGJHFNK_00306	gene			
+IFGJHFNK_00307	CDS			hypothetical protein
+IFGJHFNK_00307	gene			
+IFGJHFNK_00308	CDS			hypothetical protein
+IFGJHFNK_00308	gene			
+IFGJHFNK_00309	CDS			hypothetical protein
+IFGJHFNK_00309	gene			
+IFGJHFNK_00310	CDS	glmS_1	2.6.1.16	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+IFGJHFNK_00310	gene	glmS_1		
+IFGJHFNK_00311	CDS	purL_1	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurL
+IFGJHFNK_00311	gene	purL_1		
+IFGJHFNK_00312	CDS	pfpI_1	3.2.-.-	Intracellular protease 1
+IFGJHFNK_00312	gene	pfpI_1		
+IFGJHFNK_00313	CDS	guaB_5	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+IFGJHFNK_00313	gene	guaB_5		
+IFGJHFNK_00314	CDS	purS_1	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurS
+IFGJHFNK_00314	gene	purS_1		
+IFGJHFNK_00315	CDS			hypothetical protein
+IFGJHFNK_00315	gene			
+IFGJHFNK_00316	CDS	tatC_1		Sec-independent protein translocase protein TatC
+IFGJHFNK_00316	gene	tatC_1		
+IFGJHFNK_00317	CDS	tatAt_1		Sec-independent protein translocase protein TatAt
+IFGJHFNK_00317	gene	tatAt_1		
+IFGJHFNK_00318	CDS			hypothetical protein
+IFGJHFNK_00318	gene			
+IFGJHFNK_00319	CDS		2.5.1.-	UbiX-like flavin prenyltransferase
+IFGJHFNK_00319	gene			
+IFGJHFNK_00320	CDS			hypothetical protein
+IFGJHFNK_00320	gene			
+IFGJHFNK_00321	CDS			hypothetical protein
+IFGJHFNK_00321	gene			
+IFGJHFNK_00322	CDS			hypothetical protein
+IFGJHFNK_00322	gene			
+IFGJHFNK_00323	CDS			hypothetical protein
+IFGJHFNK_00323	gene			
+IFGJHFNK_00324	CDS			hypothetical protein
+IFGJHFNK_00324	gene			
+IFGJHFNK_00325	CDS			hypothetical protein
+IFGJHFNK_00325	gene			
+IFGJHFNK_00326	CDS			hypothetical protein
+IFGJHFNK_00326	gene			
+IFGJHFNK_00327	CDS	fieF_2		Ferrous-iron efflux pump FieF
+IFGJHFNK_00327	gene	fieF_2		
+IFGJHFNK_00328	CDS			hypothetical protein
+IFGJHFNK_00328	gene			
+IFGJHFNK_00329	CDS			hypothetical protein
+IFGJHFNK_00329	gene			
+IFGJHFNK_00330	CDS	cdvB2_1		Cell division protein B2
+IFGJHFNK_00330	gene	cdvB2_1		
+IFGJHFNK_00331	CDS	trmB_1		HTH-type sugar sensing transcriptional regulator TrmB
+IFGJHFNK_00331	gene	trmB_1		
+IFGJHFNK_00332	CDS			RutC family protein
+IFGJHFNK_00332	gene			
+IFGJHFNK_00333	CDS	dctA_1		C4-dicarboxylate transport protein
+IFGJHFNK_00333	gene	dctA_1		
+IFGJHFNK_00334	CDS	folE	3.5.4.16	GTP cyclohydrolase 1
+IFGJHFNK_00334	gene	folE		
+IFGJHFNK_00335	CDS			hypothetical protein
+IFGJHFNK_00335	gene			
+IFGJHFNK_00336	CDS	queC_1	6.3.4.20	7-cyano-7-deazaguanine synthase
+IFGJHFNK_00336	gene	queC_1		
+IFGJHFNK_00337	CDS	thrB_1	2.7.1.39	Homoserine kinase
+IFGJHFNK_00337	gene	thrB_1		
+IFGJHFNK_00338	CDS		3.6.5.-	GPN-loop GTPase
+IFGJHFNK_00338	gene			
+IFGJHFNK_00339	CDS			hypothetical protein
+IFGJHFNK_00339	gene			
+IFGJHFNK_00340	CDS			hypothetical protein
+IFGJHFNK_00340	gene			
+IFGJHFNK_00341	CDS	rpa		Replication factor A
+IFGJHFNK_00341	gene	rpa		
+IFGJHFNK_00342	CDS			hypothetical protein
+IFGJHFNK_00342	gene			
+IFGJHFNK_00343	CDS	argH_1	4.3.2.1	Argininosuccinate lyase
+IFGJHFNK_00343	gene	argH_1		
+IFGJHFNK_00344	CDS			hypothetical protein
+IFGJHFNK_00344	gene			
+IFGJHFNK_00345	CDS			hypothetical protein
+IFGJHFNK_00345	gene			
+IFGJHFNK_00346	CDS		1.3.1.76	Precorrin-2 dehydrogenase
+IFGJHFNK_00346	gene			
+IFGJHFNK_00347	CDS	thrC_2	4.2.3.1	Threonine synthase
+IFGJHFNK_00347	gene	thrC_2		
+IFGJHFNK_00348	CDS			hypothetical protein
+IFGJHFNK_00348	gene			
+IFGJHFNK_00349	CDS	hisI_2	3.5.4.19	Phosphoribosyl-AMP cyclohydrolase
+IFGJHFNK_00349	gene	hisI_2		
+IFGJHFNK_00350	CDS	hisF_3	4.1.3.-	Imidazole glycerol phosphate synthase subunit HisF
+IFGJHFNK_00350	gene	hisF_3		
+IFGJHFNK_00351	CDS			30S ribosomal protein S13
+IFGJHFNK_00351	gene			
+IFGJHFNK_00352	CDS			hypothetical protein
+IFGJHFNK_00352	gene			
+IFGJHFNK_00353	CDS			hypothetical protein
+IFGJHFNK_00353	gene			
+IFGJHFNK_00354	CDS			hypothetical protein
+IFGJHFNK_00354	gene			
+IFGJHFNK_00355	CDS			putative ABC transporter ATP-binding protein
+IFGJHFNK_00355	gene			
+IFGJHFNK_00356	CDS			hypothetical protein
+IFGJHFNK_00356	gene			
+IFGJHFNK_00357	CDS	fieF_3		Ferrous-iron efflux pump FieF
+IFGJHFNK_00357	gene	fieF_3		
+IFGJHFNK_00358	CDS			hypothetical protein
+IFGJHFNK_00358	gene			
+IFGJHFNK_00359	CDS			hypothetical protein
+IFGJHFNK_00359	gene			
+IFGJHFNK_00360	CDS		1.3.7.11	Digeranylgeranylglycerophospholipid reductase
+IFGJHFNK_00360	gene			
+IFGJHFNK_00361	CDS	pth_1	3.1.1.29	Peptidyl-tRNA hydrolase
+IFGJHFNK_00361	gene	pth_1		
+IFGJHFNK_00362	CDS	vgb_1	4.2.99.-	Virginiamycin B lyase
+IFGJHFNK_00362	gene	vgb_1		
+IFGJHFNK_00363	CDS	truD_1	5.4.99.27	putative tRNA pseudouridine synthase D
+IFGJHFNK_00363	gene	truD_1		
+IFGJHFNK_00364	CDS	ychF_1		Ribosome-binding ATPase YchF
+IFGJHFNK_00364	gene	ychF_1		
+IFGJHFNK_00365	CDS			putative bifunctional tRNA threonylcarbamoyladenosine biosynthesis protein
+IFGJHFNK_00365	gene			
+IFGJHFNK_00366	CDS			hypothetical protein
+IFGJHFNK_00366	gene			
+IFGJHFNK_00367	CDS			putative bifunctional tRNA threonylcarbamoyladenosine biosynthesis protein
+IFGJHFNK_00367	gene			
+IFGJHFNK_00368	CDS		3.6.1.9	Non-canonical purine NTP pyrophosphatase
+IFGJHFNK_00368	gene			
+IFGJHFNK_00369	CDS			hypothetical protein
+IFGJHFNK_00369	gene			
+IFGJHFNK_00370	CDS	sufS_1	2.8.1.7	Cysteine desulfurase
+IFGJHFNK_00370	gene	sufS_1		
+IFGJHFNK_00371	CDS	iscU2_1		Iron-sulfur cluster assembly scaffold protein IscU 2
+IFGJHFNK_00371	gene	iscU2_1		
+IFGJHFNK_00372	CDS			hypothetical protein
+IFGJHFNK_00372	gene			
+IFGJHFNK_00373	CDS	pgk_1	2.7.2.3	Phosphoglycerate kinase
+IFGJHFNK_00373	gene	pgk_1		
+IFGJHFNK_00374	CDS	sepP	3.6.1.27	Undecaprenyl-diphosphatase
+IFGJHFNK_00374	gene	sepP		
+IFGJHFNK_00375	CDS			hypothetical protein
+IFGJHFNK_00375	gene			
+IFGJHFNK_00376	CDS	menH_1	4.2.99.20	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+IFGJHFNK_00376	gene	menH_1		
+IFGJHFNK_00377	CDS			Universal stress protein
+IFGJHFNK_00377	gene			
+IFGJHFNK_00378	CDS	msrA_1	1.8.4.11	Peptide methionine sulfoxide reductase MsrA
+IFGJHFNK_00378	gene	msrA_1		
+IFGJHFNK_00379	CDS			hypothetical protein
+IFGJHFNK_00379	gene			
+IFGJHFNK_00380	CDS			hypothetical protein
+IFGJHFNK_00380	gene			
+IFGJHFNK_00381	CDS			hypothetical protein
+IFGJHFNK_00381	gene			
+IFGJHFNK_00382	CDS			hypothetical protein
+IFGJHFNK_00382	gene			
+IFGJHFNK_00383	CDS			hypothetical protein
+IFGJHFNK_00383	gene			
+IFGJHFNK_00384	CDS	filI_2	2.7.13.3	Methanogenesis regulatory histidine kinase FilI
+IFGJHFNK_00384	gene	filI_2		
+IFGJHFNK_00385	CDS	rutE_1	1.-.-.-	malonic semialdehyde reductase RutE
+IFGJHFNK_00385	gene	rutE_1		
+IFGJHFNK_00386	CDS			hypothetical protein
+IFGJHFNK_00386	gene			
+IFGJHFNK_00387	CDS			hypothetical protein
+IFGJHFNK_00387	gene			
+IFGJHFNK_00388	CDS			hypothetical protein
+IFGJHFNK_00388	gene			
+IFGJHFNK_00389	CDS	rnj	3.1.-.-	Ribonuclease J
+IFGJHFNK_00389	gene	rnj		
+IFGJHFNK_00390	CDS			hypothetical protein
+IFGJHFNK_00390	gene			
+IFGJHFNK_00391	CDS	ndhI	1.6.5.11	NAD(P)H-quinone oxidoreductase subunit I, chloroplastic
+IFGJHFNK_00391	gene	ndhI		
+IFGJHFNK_00392	CDS	tgtA	2.4.2.48	tRNA-guanine(15) transglycosylase
+IFGJHFNK_00392	gene	tgtA		
+IFGJHFNK_00393	CDS		2.7.4.3	Putative adenylate kinase
+IFGJHFNK_00393	gene			
+IFGJHFNK_00394	CDS	ychF_2		Ribosome-binding ATPase YchF
+IFGJHFNK_00394	gene	ychF_2		
+IFGJHFNK_00395	CDS	kae1	2.3.1.234	tRNA N6-adenosine threonylcarbamoyltransferase
+IFGJHFNK_00395	gene	kae1		
+IFGJHFNK_00396	CDS			hypothetical protein
+IFGJHFNK_00396	gene			
+IFGJHFNK_00397	CDS			hypothetical protein
+IFGJHFNK_00397	gene			
+IFGJHFNK_00398	CDS			hypothetical protein
+IFGJHFNK_00398	gene			
+IFGJHFNK_00399	CDS			hypothetical protein
+IFGJHFNK_00399	gene			
+IFGJHFNK_00400	CDS			hypothetical protein
+IFGJHFNK_00400	gene			
+IFGJHFNK_00401	CDS	cdvA_1		Cell division protein A
+IFGJHFNK_00401	gene	cdvA_1		
+IFGJHFNK_00402	CDS	acsA_1	6.2.1.1	Acetyl-coenzyme A synthetase
+IFGJHFNK_00402	gene	acsA_1		
+IFGJHFNK_00403	CDS			hypothetical protein
+IFGJHFNK_00403	gene			
+IFGJHFNK_00404	CDS	fen_1	3.1.-.-	Flap endonuclease 1
+IFGJHFNK_00404	gene	fen_1		
+IFGJHFNK_00405	CDS			hypothetical protein
+IFGJHFNK_00405	gene			
+IFGJHFNK_00406	tRNA			tRNA-Ser(cga)
+IFGJHFNK_00406	gene			
+IFGJHFNK_00407	CDS			hypothetical protein
+IFGJHFNK_00407	gene			
+IFGJHFNK_00408	CDS	rutE_2	1.-.-.-	malonic semialdehyde reductase RutE
+IFGJHFNK_00408	gene	rutE_2		
+IFGJHFNK_00409	CDS			putative HTH-type transcriptional regulator
+IFGJHFNK_00409	gene			
+IFGJHFNK_00410	CDS			hypothetical protein
+IFGJHFNK_00410	gene			
+IFGJHFNK_00411	CDS			hypothetical protein
+IFGJHFNK_00411	gene			
+IFGJHFNK_00412	CDS			hypothetical protein
+IFGJHFNK_00412	gene			
+IFGJHFNK_00413	CDS			hypothetical protein
+IFGJHFNK_00413	gene			
+IFGJHFNK_00414	CDS			hypothetical protein
+IFGJHFNK_00414	gene			
+IFGJHFNK_00415	CDS			putative metalloprotease
+IFGJHFNK_00415	gene			
+IFGJHFNK_00416	CDS			hypothetical protein
+IFGJHFNK_00416	gene			
+IFGJHFNK_00417	CDS			hypothetical protein
+IFGJHFNK_00417	gene			
+IFGJHFNK_00418	CDS			hypothetical protein
+IFGJHFNK_00418	gene			
+IFGJHFNK_00419	CDS	cdvC_1		Cell division protein C
+IFGJHFNK_00419	gene	cdvC_1		
+IFGJHFNK_00420	CDS	guaAA_2	6.3.5.2	GMP synthase [glutamine-hydrolyzing] subunit A
+IFGJHFNK_00420	gene	guaAA_2		
+IFGJHFNK_00421	CDS	guaAA_3	6.3.5.2	GMP synthase [glutamine-hydrolyzing] subunit A
+IFGJHFNK_00421	gene	guaAA_3		
+IFGJHFNK_00422	CDS			hypothetical protein
+IFGJHFNK_00422	gene			
+IFGJHFNK_00423	CDS	gdhA_1	1.4.1.3	Glutamate dehydrogenase
+IFGJHFNK_00423	gene	gdhA_1		
+IFGJHFNK_00424	CDS			hypothetical protein
+IFGJHFNK_00424	gene			
+IFGJHFNK_00425	CDS			hypothetical protein
+IFGJHFNK_00425	gene			
+IFGJHFNK_00426	CDS			hypothetical protein
+IFGJHFNK_00426	gene			
+IFGJHFNK_00427	CDS			hypothetical protein
+IFGJHFNK_00427	gene			
+IFGJHFNK_00428	CDS			hypothetical protein
+IFGJHFNK_00428	gene			
+IFGJHFNK_00429	CDS	cheB	3.1.1.61	Chemotaxis response regulator protein-glutamate methylesterase
+IFGJHFNK_00429	gene	cheB		
+IFGJHFNK_00430	tRNA			tRNA-Ser(gct)
+IFGJHFNK_00430	gene			
+IFGJHFNK_00431	CDS	cpdA_1	3.1.4.53	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+IFGJHFNK_00431	gene	cpdA_1		
+IFGJHFNK_00432	CDS	aksF_1	1.1.1.87	Homoisocitrate dehydrogenase
+IFGJHFNK_00432	gene	aksF_1		
+IFGJHFNK_00433	CDS	prmC_1	2.1.1.297	Release factor glutamine methyltransferase
+IFGJHFNK_00433	gene	prmC_1		
+IFGJHFNK_00434	CDS	rsmA	2.1.1.-	putative ribosomal RNA small subunit methyltransferase A
+IFGJHFNK_00434	gene	rsmA		
+IFGJHFNK_00435	CDS	adh_2	1.1.1.1	NAD-dependent alcohol dehydrogenase
+IFGJHFNK_00435	gene	adh_2		
+IFGJHFNK_00436	CDS			hypothetical protein
+IFGJHFNK_00436	gene			
+IFGJHFNK_00437	CDS			hypothetical protein
+IFGJHFNK_00437	gene			
+IFGJHFNK_00438	CDS			hypothetical protein
+IFGJHFNK_00438	gene			
+IFGJHFNK_00439	CDS	petE_2		Plastocyanin
+IFGJHFNK_00439	gene	petE_2		
+IFGJHFNK_00440	CDS			hypothetical protein
+IFGJHFNK_00440	gene			
+IFGJHFNK_00441	CDS	dys_2	2.5.1.46	putative deoxyhypusine synthase
+IFGJHFNK_00441	gene	dys_2		
+IFGJHFNK_00442	CDS			hypothetical protein
+IFGJHFNK_00442	gene			
+IFGJHFNK_00443	CDS			hypothetical protein
+IFGJHFNK_00443	gene			
+IFGJHFNK_00444	CDS			hypothetical protein
+IFGJHFNK_00444	gene			
+IFGJHFNK_00445	CDS	albA2_1		DNA/RNA-binding protein Alba 2
+IFGJHFNK_00445	gene	albA2_1		
+IFGJHFNK_00446	CDS	ubiG_1	2.1.1.222	Ubiquinone biosynthesis O-methyltransferase
+IFGJHFNK_00446	gene	ubiG_1		
+IFGJHFNK_00447	CDS		1.3.7.11	Digeranylgeranylglycerophospholipid reductase
+IFGJHFNK_00447	gene			
+IFGJHFNK_00448	CDS			hypothetical protein
+IFGJHFNK_00448	gene			
+IFGJHFNK_00449	CDS			hypothetical protein
+IFGJHFNK_00449	gene			
+IFGJHFNK_00450	CDS			hypothetical protein
+IFGJHFNK_00450	gene			
+IFGJHFNK_00451	CDS			hypothetical protein
+IFGJHFNK_00451	gene			
+IFGJHFNK_00452	CDS			putative ABC transporter ATP-binding protein
+IFGJHFNK_00452	gene			
+IFGJHFNK_00453	CDS			hypothetical protein
+IFGJHFNK_00453	gene			
+IFGJHFNK_00454	CDS			hypothetical protein
+IFGJHFNK_00454	gene			
+IFGJHFNK_00455	CDS			hypothetical protein
+IFGJHFNK_00455	gene			
+IFGJHFNK_00456	CDS			hypothetical protein
+IFGJHFNK_00456	gene			
+IFGJHFNK_00457	CDS	ubiB_1	2.7.-.-	protein kinase UbiB
+IFGJHFNK_00457	gene	ubiB_1		
+IFGJHFNK_00458	CDS			Small heat shock protein HSP16.5
+IFGJHFNK_00458	gene			
+IFGJHFNK_00459	CDS			hypothetical protein
+IFGJHFNK_00459	gene			
+IFGJHFNK_00460	CDS	tmk	2.7.4.9	Thymidylate kinase
+IFGJHFNK_00460	gene	tmk		
+IFGJHFNK_00461	CDS	iscS2_1	2.8.1.7	Cysteine desulfurase IscS 2
+IFGJHFNK_00461	gene	iscS2_1		
+IFGJHFNK_00462	CDS			hypothetical protein
+IFGJHFNK_00462	gene			
+IFGJHFNK_00463	CDS			hypothetical protein
+IFGJHFNK_00463	gene			
+IFGJHFNK_00464	CDS			hypothetical protein
+IFGJHFNK_00464	gene			
+IFGJHFNK_00465	CDS			putative ABC transporter ATP-binding protein
+IFGJHFNK_00465	gene			
+IFGJHFNK_00466	CDS			hypothetical protein
+IFGJHFNK_00466	gene			
+IFGJHFNK_00467	CDS	petE_3		Plastocyanin
+IFGJHFNK_00467	gene	petE_3		
+IFGJHFNK_00468	CDS			hypothetical protein
+IFGJHFNK_00468	gene			
+IFGJHFNK_00469	CDS	trpA_1	4.2.1.20	Tryptophan synthase alpha chain
+IFGJHFNK_00469	gene	trpA_1		
+IFGJHFNK_00470	CDS	trpB1_1	4.2.1.20	Tryptophan synthase beta chain 1
+IFGJHFNK_00470	gene	trpB1_1		
+IFGJHFNK_00471	CDS	prf1_1		Peptide chain release factor subunit 1
+IFGJHFNK_00471	gene	prf1_1		
+IFGJHFNK_00472	CDS			hypothetical protein
+IFGJHFNK_00472	gene			
+IFGJHFNK_00473	CDS			hypothetical protein
+IFGJHFNK_00473	gene			
+IFGJHFNK_00474	CDS			hypothetical protein
+IFGJHFNK_00474	gene			
+IFGJHFNK_00475	CDS			hypothetical protein
+IFGJHFNK_00475	gene			
+IFGJHFNK_00476	CDS		6.2.1.13	Acetate--CoA ligase [ADP-forming] II
+IFGJHFNK_00476	gene			
+IFGJHFNK_00477	CDS	hldD_2	5.1.3.20	ADP-L-glycero-D-manno-heptose-6-epimerase
+IFGJHFNK_00477	gene	hldD_2		
+IFGJHFNK_00478	CDS			hypothetical protein
+IFGJHFNK_00478	gene			
+IFGJHFNK_00479	CDS		6.3.4.15	Putative biotin ligase
+IFGJHFNK_00479	gene			
+IFGJHFNK_00480	CDS			hypothetical protein
+IFGJHFNK_00480	gene			
+IFGJHFNK_00481	CDS	ycf3_2		Photosystem I assembly protein Ycf3
+IFGJHFNK_00481	gene	ycf3_2		
+IFGJHFNK_00482	CDS	tfb_2		Transcription initiation factor IIB
+IFGJHFNK_00482	gene	tfb_2		
+IFGJHFNK_00483	CDS	gpt_1	2.4.2.22	Xanthine phosphoribosyltransferase
+IFGJHFNK_00483	gene	gpt_1		
+IFGJHFNK_00484	CDS			hypothetical protein
+IFGJHFNK_00484	gene			
+IFGJHFNK_00485	CDS			hypothetical protein
+IFGJHFNK_00485	gene			
+IFGJHFNK_00486	CDS	phaC_1	2.3.1.-	Poly(3-hydroxyalkanoate) polymerase subunit PhaC
+IFGJHFNK_00486	gene	phaC_1		
+IFGJHFNK_00487	CDS			hypothetical protein
+IFGJHFNK_00487	gene			
+IFGJHFNK_00488	CDS	rps5_1		30S ribosomal protein S5
+IFGJHFNK_00488	gene	rps5_1		
+IFGJHFNK_00489	CDS			50S ribosomal protein L30
+IFGJHFNK_00489	gene			
+IFGJHFNK_00490	CDS	rplO		50S ribosomal protein L15
+IFGJHFNK_00490	gene	rplO		
+IFGJHFNK_00491	CDS	secY		Protein translocase subunit SecY
+IFGJHFNK_00491	gene	secY		
+IFGJHFNK_00492	CDS	adkA	2.7.4.3	Adenylate kinase
+IFGJHFNK_00492	gene	adkA		
+IFGJHFNK_00493	CDS			hypothetical protein
+IFGJHFNK_00493	gene			
+IFGJHFNK_00494	CDS			hypothetical protein
+IFGJHFNK_00494	gene			
+IFGJHFNK_00495	CDS			hypothetical protein
+IFGJHFNK_00495	gene			
+IFGJHFNK_00496	CDS			hypothetical protein
+IFGJHFNK_00496	gene			
+IFGJHFNK_00497	CDS			hypothetical protein
+IFGJHFNK_00497	gene			
+IFGJHFNK_00498	CDS			hypothetical protein
+IFGJHFNK_00498	gene			
+IFGJHFNK_00499	CDS		3.1.3.3	Phosphoserine phosphatase
+IFGJHFNK_00499	gene			
+IFGJHFNK_00500	CDS	cofE_1	6.3.2.31	Coenzyme F420:L-glutamate ligase
+IFGJHFNK_00500	gene	cofE_1		
+IFGJHFNK_00501	CDS			hypothetical protein
+IFGJHFNK_00501	gene			
+IFGJHFNK_00502	CDS	tusA_1	2.8.1.-	Sulfurtransferase TusA
+IFGJHFNK_00502	gene	tusA_1		
+IFGJHFNK_00503	CDS			hypothetical protein
+IFGJHFNK_00503	gene			
+IFGJHFNK_00504	CDS			hypothetical protein
+IFGJHFNK_00504	gene			
+IFGJHFNK_00505	CDS			hypothetical protein
+IFGJHFNK_00505	gene			
+IFGJHFNK_00506	CDS	sudA_1	1.8.1.19	Sulfide dehydrogenase subunit alpha
+IFGJHFNK_00506	gene	sudA_1		
+IFGJHFNK_00507	CDS			hypothetical protein
+IFGJHFNK_00507	gene			
+IFGJHFNK_00508	CDS			hypothetical protein
+IFGJHFNK_00508	gene			
+IFGJHFNK_00509	CDS			hypothetical protein
+IFGJHFNK_00509	gene			
+IFGJHFNK_00510	CDS	cdvB1		Cell division protein B1
+IFGJHFNK_00510	gene	cdvB1		
+IFGJHFNK_00511	CDS	smc_2		Chromosome partition protein Smc
+IFGJHFNK_00511	gene	smc_2		
+IFGJHFNK_00512	CDS			hypothetical protein
+IFGJHFNK_00512	gene			
+IFGJHFNK_00513	CDS			hypothetical protein
+IFGJHFNK_00513	gene			
+IFGJHFNK_00514	CDS	leuA_1	2.3.3.13	2-isopropylmalate synthase
+IFGJHFNK_00514	gene	leuA_1		
+IFGJHFNK_00515	CDS	leuB_1	1.1.1.85	3-isopropylmalate dehydrogenase
+IFGJHFNK_00515	gene	leuB_1		
+IFGJHFNK_00516	CDS			hypothetical protein
+IFGJHFNK_00516	gene			
+IFGJHFNK_00517	CDS			hypothetical protein
+IFGJHFNK_00517	gene			
+IFGJHFNK_00518	CDS			hypothetical protein
+IFGJHFNK_00518	gene			
+IFGJHFNK_00519	CDS	aspS_2	6.1.1.23	Aspartate--tRNA(Asp/Asn) ligase
+IFGJHFNK_00519	gene	aspS_2		
+IFGJHFNK_00520	CDS			hypothetical protein
+IFGJHFNK_00520	gene			
+IFGJHFNK_00521	CDS	spt5_1		Transcription elongation factor Spt5
+IFGJHFNK_00521	gene	spt5_1		
+IFGJHFNK_00522	CDS			50S ribosomal protein L11
+IFGJHFNK_00522	gene			
+IFGJHFNK_00523	CDS			hypothetical protein
+IFGJHFNK_00523	gene			
+IFGJHFNK_00524	CDS			hypothetical protein
+IFGJHFNK_00524	gene			
+IFGJHFNK_00525	CDS			hypothetical protein
+IFGJHFNK_00525	gene			
+IFGJHFNK_00526	CDS			hypothetical protein
+IFGJHFNK_00526	gene			
+IFGJHFNK_00527	CDS			putative HTH-type transcriptional regulator
+IFGJHFNK_00527	gene			
+IFGJHFNK_00528	CDS	rpl1_2		50S ribosomal protein L1
+IFGJHFNK_00528	gene	rpl1_2		
+IFGJHFNK_00529	CDS			50S ribosomal protein L10
+IFGJHFNK_00529	gene			
+IFGJHFNK_00530	CDS			hypothetical protein
+IFGJHFNK_00530	gene			
+IFGJHFNK_00531	CDS			hypothetical protein
+IFGJHFNK_00531	gene			
+IFGJHFNK_00532	CDS			hypothetical protein
+IFGJHFNK_00532	gene			
+IFGJHFNK_00533	CDS			hypothetical protein
+IFGJHFNK_00533	gene			
+IFGJHFNK_00534	CDS			hypothetical protein
+IFGJHFNK_00534	gene			
+IFGJHFNK_00535	CDS			hypothetical protein
+IFGJHFNK_00535	gene			
+IFGJHFNK_00536	CDS			hypothetical protein
+IFGJHFNK_00536	gene			
+IFGJHFNK_00537	CDS			hypothetical protein
+IFGJHFNK_00537	gene			
+IFGJHFNK_00538	CDS			hypothetical protein
+IFGJHFNK_00538	gene			
+IFGJHFNK_00539	CDS			hypothetical protein
+IFGJHFNK_00539	gene			
+IFGJHFNK_00540	CDS		3.2.2.-	Putative 3-methyladenine DNA glycosylase
+IFGJHFNK_00540	gene			
+IFGJHFNK_00541	CDS			hypothetical protein
+IFGJHFNK_00541	gene			
+IFGJHFNK_00542	CDS			hypothetical protein
+IFGJHFNK_00542	gene			
+IFGJHFNK_00543	CDS			putative ABC transporter ATP-binding protein
+IFGJHFNK_00543	gene			
+IFGJHFNK_00544	CDS	aspS_3	6.1.1.23	Aspartate--tRNA(Asp/Asn) ligase
+IFGJHFNK_00544	gene	aspS_3		
+IFGJHFNK_00545	CDS			hypothetical protein
+IFGJHFNK_00545	gene			
+IFGJHFNK_00546	CDS	leuB_2	1.1.1.85	3-isopropylmalate dehydrogenase
+IFGJHFNK_00546	gene	leuB_2		
+IFGJHFNK_00547	CDS	leuA_2	2.3.3.13	2-isopropylmalate synthase
+IFGJHFNK_00547	gene	leuA_2		
+IFGJHFNK_00548	CDS			hypothetical protein
+IFGJHFNK_00548	gene			
+IFGJHFNK_00549	CDS	iolD_1	3.7.1.22	3D-(3,5/4)-trihydroxycyclohexane-1,2-dione hydrolase
+IFGJHFNK_00549	gene	iolD_1		
+IFGJHFNK_00550	CDS			hypothetical protein
+IFGJHFNK_00550	gene			
+IFGJHFNK_00551	CDS			hypothetical protein
+IFGJHFNK_00551	gene			
+IFGJHFNK_00552	CDS			hypothetical protein
+IFGJHFNK_00552	gene			
+IFGJHFNK_00553	CDS			hypothetical protein
+IFGJHFNK_00553	gene			
+IFGJHFNK_00554	CDS			hypothetical protein
+IFGJHFNK_00554	gene			
+IFGJHFNK_00555	CDS	zfx1		Zinc-containing ferredoxin-1
+IFGJHFNK_00555	gene	zfx1		
+IFGJHFNK_00556	CDS	aglE_2	2.4.1.-	Glycosyltransferase AglE
+IFGJHFNK_00556	gene	aglE_2		
+IFGJHFNK_00557	CDS	smc_3		Chromosome partition protein Smc
+IFGJHFNK_00557	gene	smc_3		
+IFGJHFNK_00558	CDS			hypothetical protein
+IFGJHFNK_00558	gene			
+IFGJHFNK_00559	CDS			hypothetical protein
+IFGJHFNK_00559	gene			
+IFGJHFNK_00560	CDS			hypothetical protein
+IFGJHFNK_00560	gene			
+IFGJHFNK_00561	CDS	btuF		Vitamin B12-binding protein
+IFGJHFNK_00561	gene	btuF		
+IFGJHFNK_00562	CDS			hypothetical protein
+IFGJHFNK_00562	gene			
+IFGJHFNK_00563	CDS			hypothetical protein
+IFGJHFNK_00563	gene			
+IFGJHFNK_00564	CDS			hypothetical protein
+IFGJHFNK_00564	gene			
+IFGJHFNK_00565	CDS	thiC_1	4.1.99.17	Phosphomethylpyrimidine synthase
+IFGJHFNK_00565	gene	thiC_1		
+IFGJHFNK_00566	CDS	nudI_1	3.6.1.23	Nucleoside triphosphatase NudI
+IFGJHFNK_00566	gene	nudI_1		
+IFGJHFNK_00567	CDS			hypothetical protein
+IFGJHFNK_00567	gene			
+IFGJHFNK_00568	CDS	mfnC_1	2.6.1.108	(5-formylfuran-3-yl)methyl phosphate transaminase
+IFGJHFNK_00568	gene	mfnC_1		
+IFGJHFNK_00569	CDS	aroC_1	4.2.3.5	Chorismate synthase
+IFGJHFNK_00569	gene	aroC_1		
+IFGJHFNK_00570	CDS	aroA_1	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+IFGJHFNK_00570	gene	aroA_1		
+IFGJHFNK_00571	CDS	aroK_1	2.7.1.71	Shikimate kinase
+IFGJHFNK_00571	gene	aroK_1		
+IFGJHFNK_00572	CDS	aroE_2	1.1.1.25	Shikimate dehydrogenase (NADP(+))
+IFGJHFNK_00572	gene	aroE_2		
+IFGJHFNK_00573	CDS	aroD_2	4.2.1.10	3-dehydroquinate dehydratase
+IFGJHFNK_00573	gene	aroD_2		
+IFGJHFNK_00574	CDS	aroB'_2	1.4.1.24	3-dehydroquinate synthase
+IFGJHFNK_00574	gene	aroB'_2		
+IFGJHFNK_00575	CDS	aroA'	2.2.1.10	2-amino-3,7-dideoxy-D-threo-hept-6-ulosonate synthase
+IFGJHFNK_00575	gene	aroA'		
+IFGJHFNK_00576	CDS	cofH_2	2.5.1.77	FO synthase subunit 2
+IFGJHFNK_00576	gene	cofH_2		
+IFGJHFNK_00577	CDS	ubiD_2	4.1.1.98	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+IFGJHFNK_00577	gene	ubiD_2		
+IFGJHFNK_00578	CDS			hypothetical protein
+IFGJHFNK_00578	gene			
+IFGJHFNK_00579	CDS			hypothetical protein
+IFGJHFNK_00579	gene			
+IFGJHFNK_00580	CDS			hypothetical protein
+IFGJHFNK_00580	gene			
+IFGJHFNK_00581	CDS	rutE_3	1.-.-.-	malonic semialdehyde reductase RutE
+IFGJHFNK_00581	gene	rutE_3		
+IFGJHFNK_00582	CDS			hypothetical protein
+IFGJHFNK_00582	gene			
+IFGJHFNK_00583	CDS			hypothetical protein
+IFGJHFNK_00583	gene			
+IFGJHFNK_00584	CDS			hypothetical protein
+IFGJHFNK_00584	gene			
+IFGJHFNK_00585	CDS			hypothetical protein
+IFGJHFNK_00585	gene			
+IFGJHFNK_00586	CDS			hypothetical protein
+IFGJHFNK_00586	gene			
+IFGJHFNK_00587	CDS		3.6.4.12	ATP-dependent DNA helicase Hel308
+IFGJHFNK_00587	gene			
+IFGJHFNK_00588	CDS			hypothetical protein
+IFGJHFNK_00588	gene			
+IFGJHFNK_00589	CDS			hypothetical protein
+IFGJHFNK_00589	gene			
+IFGJHFNK_00590	CDS			hypothetical protein
+IFGJHFNK_00590	gene			
+IFGJHFNK_00591	CDS			hypothetical protein
+IFGJHFNK_00591	gene			
+IFGJHFNK_00592	CDS			hypothetical protein
+IFGJHFNK_00592	gene			
+IFGJHFNK_00593	CDS			hypothetical protein
+IFGJHFNK_00593	gene			
+IFGJHFNK_00594	CDS			hypothetical protein
+IFGJHFNK_00594	gene			
+IFGJHFNK_00595	CDS			hypothetical protein
+IFGJHFNK_00595	gene			
+IFGJHFNK_00596	CDS			hypothetical protein
+IFGJHFNK_00596	gene			
+IFGJHFNK_00597	CDS			hypothetical protein
+IFGJHFNK_00597	gene			
+IFGJHFNK_00598	CDS			hypothetical protein
+IFGJHFNK_00598	gene			
+IFGJHFNK_00599	CDS			hypothetical protein
+IFGJHFNK_00599	gene			
+IFGJHFNK_00600	CDS			hypothetical protein
+IFGJHFNK_00600	gene			
+IFGJHFNK_00601	CDS			hypothetical protein
+IFGJHFNK_00601	gene			
+IFGJHFNK_00602	CDS	ileS_1	6.1.1.5	Isoleucine--tRNA ligase
+IFGJHFNK_00602	gene	ileS_1		
+IFGJHFNK_00603	CDS			hypothetical protein
+IFGJHFNK_00603	gene			
+IFGJHFNK_00604	CDS	pdxT_1	4.3.3.6	Pyridoxal 5'-phosphate synthase subunit PdxT
+IFGJHFNK_00604	gene	pdxT_1		
+IFGJHFNK_00605	CDS	asd	1.2.1.11	Aspartate-semialdehyde dehydrogenase
+IFGJHFNK_00605	gene	asd		
+IFGJHFNK_00606	CDS	lrpA_1		HTH-type transcriptional regulator LrpA
+IFGJHFNK_00606	gene	lrpA_1		
+IFGJHFNK_00607	CDS	cyoE_1	2.5.1.-	Protoheme IX farnesyltransferase
+IFGJHFNK_00607	gene	cyoE_1		
+IFGJHFNK_00608	CDS			hypothetical protein
+IFGJHFNK_00608	gene			
+IFGJHFNK_00609	CDS		1.3.1.84	Acryloyl-coenzyme A reductase
+IFGJHFNK_00609	gene			
+IFGJHFNK_00610	CDS	ubiD_3	4.1.1.98	3-octaprenyl-4-hydroxybenzoate carboxy-lyase
+IFGJHFNK_00610	gene	ubiD_3		
+IFGJHFNK_00611	CDS			hypothetical protein
+IFGJHFNK_00611	gene			
+IFGJHFNK_00612	CDS			hypothetical protein
+IFGJHFNK_00612	gene			
+IFGJHFNK_00613	CDS			hypothetical protein
+IFGJHFNK_00613	gene			
+IFGJHFNK_00614	CDS			hypothetical protein
+IFGJHFNK_00614	gene			
+IFGJHFNK_00615	CDS	arsR		Putative arsenical resistance operon repressor ArsR
+IFGJHFNK_00615	gene	arsR		
+IFGJHFNK_00616	CDS	arsC	1.20.4.-	Putative arsenate reductase
+IFGJHFNK_00616	gene	arsC		
+IFGJHFNK_00617	CDS	aqpM_1		putative aquaporin AqpM
+IFGJHFNK_00617	gene	aqpM_1		
+IFGJHFNK_00618	CDS			hypothetical protein
+IFGJHFNK_00618	gene			
+IFGJHFNK_00619	CDS			hypothetical protein
+IFGJHFNK_00619	gene			
+IFGJHFNK_00620	CDS			hypothetical protein
+IFGJHFNK_00620	gene			
+IFGJHFNK_00621	CDS			hypothetical protein
+IFGJHFNK_00621	gene			
+IFGJHFNK_00622	CDS	ravA_2	3.6.3.-	ATPase RavA
+IFGJHFNK_00622	gene	ravA_2		
+IFGJHFNK_00623	CDS			hypothetical protein
+IFGJHFNK_00623	gene			
+IFGJHFNK_00624	CDS			hypothetical protein
+IFGJHFNK_00624	gene			
+IFGJHFNK_00625	CDS			hypothetical protein
+IFGJHFNK_00625	gene			
+IFGJHFNK_00626	CDS			hypothetical protein
+IFGJHFNK_00626	gene			
+IFGJHFNK_00627	CDS			hypothetical protein
+IFGJHFNK_00627	gene			
+IFGJHFNK_00628	CDS	map_1	3.4.11.18	Methionine aminopeptidase
+IFGJHFNK_00628	gene	map_1		
+IFGJHFNK_00629	CDS			hypothetical protein
+IFGJHFNK_00629	gene			
+IFGJHFNK_00630	CDS			hypothetical protein
+IFGJHFNK_00630	gene			
+IFGJHFNK_00631	CDS	tbp_1		TATA-box-binding protein
+IFGJHFNK_00631	gene	tbp_1		
+IFGJHFNK_00632	CDS	metG_2	6.1.1.10	Methionine--tRNA ligase
+IFGJHFNK_00632	gene	metG_2		
+IFGJHFNK_00633	CDS			hypothetical protein
+IFGJHFNK_00633	gene			
+IFGJHFNK_00634	CDS			hypothetical protein
+IFGJHFNK_00634	gene			
+IFGJHFNK_00635	CDS	aglD	2.4.1.-	Glycosyltransferase AglD
+IFGJHFNK_00635	gene	aglD		
+IFGJHFNK_00636	CDS			hypothetical protein
+IFGJHFNK_00636	gene			
+IFGJHFNK_00637	CDS	proS_1	6.1.1.15	Proline--tRNA ligase
+IFGJHFNK_00637	gene	proS_1		
+IFGJHFNK_00638	CDS			hypothetical protein
+IFGJHFNK_00638	gene			
+IFGJHFNK_00639	CDS	vgb_2	4.2.99.-	Virginiamycin B lyase
+IFGJHFNK_00639	gene	vgb_2		
+IFGJHFNK_00640	CDS			hypothetical protein
+IFGJHFNK_00640	gene			
+IFGJHFNK_00641	CDS			hypothetical protein
+IFGJHFNK_00641	gene			
+IFGJHFNK_00642	CDS	trmI_1	2.1.1.219	tRNA (adenine(57)-N(1)/adenine(58)-N(1))-methyltransferase TrmI
+IFGJHFNK_00642	gene	trmI_1		
+IFGJHFNK_00643	CDS	nnrD_1	4.2.1.136	ADP-dependent (S)-NAD(P)H-hydrate dehydratase
+IFGJHFNK_00643	gene	nnrD_1		
+IFGJHFNK_00644	CDS		3.-.-.-	putative metallohydrolase
+IFGJHFNK_00644	gene			
+IFGJHFNK_00645	CDS			hypothetical protein
+IFGJHFNK_00645	gene			
+IFGJHFNK_00646	CDS	tssA_2	2.8.1.1	Putative thiosulfate sulfurtransferase
+IFGJHFNK_00646	gene	tssA_2		
+IFGJHFNK_00647	CDS			hypothetical protein
+IFGJHFNK_00647	gene			
+IFGJHFNK_00648	CDS			hypothetical protein
+IFGJHFNK_00648	gene			
+IFGJHFNK_00649	CDS			hypothetical protein
+IFGJHFNK_00649	gene			
+IFGJHFNK_00650	CDS			hypothetical protein
+IFGJHFNK_00650	gene			
+IFGJHFNK_00651	CDS			hypothetical protein
+IFGJHFNK_00651	gene			
+IFGJHFNK_00652	CDS	rep	3.6.4.12	ATP-dependent DNA helicase Rep
+IFGJHFNK_00652	gene	rep		
+IFGJHFNK_00653	CDS			hypothetical protein
+IFGJHFNK_00653	gene			
+IFGJHFNK_00654	CDS			hypothetical protein
+IFGJHFNK_00654	gene			
+IFGJHFNK_00655	CDS			hypothetical protein
+IFGJHFNK_00655	gene			
+IFGJHFNK_00656	CDS	cofG_1	2.5.1.77	FO synthase subunit 1
+IFGJHFNK_00656	gene	cofG_1		
+IFGJHFNK_00657	CDS	cofH_3	2.5.1.77	FO synthase subunit 2
+IFGJHFNK_00657	gene	cofH_3		
+IFGJHFNK_00658	CDS			hypothetical protein
+IFGJHFNK_00658	gene			
+IFGJHFNK_00659	CDS	maX1_1		Sodium/calcium exchanger MaX1
+IFGJHFNK_00659	gene	maX1_1		
+IFGJHFNK_00660	CDS			hypothetical protein
+IFGJHFNK_00660	gene			
+IFGJHFNK_00661	CDS			Putative ammonium transporter
+IFGJHFNK_00661	gene			
+IFGJHFNK_00662	CDS			putative nitrogen regulatory PII-like protein
+IFGJHFNK_00662	gene			
+IFGJHFNK_00663	CDS			hypothetical protein
+IFGJHFNK_00663	gene			
+IFGJHFNK_00664	CDS			hypothetical protein
+IFGJHFNK_00664	gene			
+IFGJHFNK_00665	CDS	thrS_2	6.1.1.3	Threonine--tRNA ligase
+IFGJHFNK_00665	gene	thrS_2		
+IFGJHFNK_00666	CDS		3.5.3.24	N(1)-aminopropylagmatine ureohydrolase
+IFGJHFNK_00666	gene			
+IFGJHFNK_00667	CDS		2.7.8.39	Archaetidylinositol phosphate synthase
+IFGJHFNK_00667	gene			
+IFGJHFNK_00668	CDS			hypothetical protein
+IFGJHFNK_00668	gene			
+IFGJHFNK_00669	CDS			hypothetical protein
+IFGJHFNK_00669	gene			
+IFGJHFNK_00670	CDS	purM	6.3.3.1	Phosphoribosylformylglycinamidine cyclo-ligase
+IFGJHFNK_00670	gene	purM		
+IFGJHFNK_00671	CDS			hypothetical protein
+IFGJHFNK_00671	gene			
+IFGJHFNK_00672	CDS			hypothetical protein
+IFGJHFNK_00672	gene			
+IFGJHFNK_00673	CDS			hypothetical protein
+IFGJHFNK_00673	gene			
+IFGJHFNK_00674	CDS			hypothetical protein
+IFGJHFNK_00674	gene			
+IFGJHFNK_00675	CDS	iscS2_2	2.8.1.7	Cysteine desulfurase IscS 2
+IFGJHFNK_00675	gene	iscS2_2		
+IFGJHFNK_00676	CDS			hypothetical protein
+IFGJHFNK_00676	gene			
+IFGJHFNK_00677	CDS	guaAA_4	6.3.5.2	GMP synthase [glutamine-hydrolyzing] subunit A
+IFGJHFNK_00677	gene	guaAA_4		
+IFGJHFNK_00678	CDS	cdvC_2		Cell division protein C
+IFGJHFNK_00678	gene	cdvC_2		
+IFGJHFNK_00679	CDS			hypothetical protein
+IFGJHFNK_00679	gene			
+IFGJHFNK_00680	CDS			hypothetical protein
+IFGJHFNK_00680	gene			
+IFGJHFNK_00681	CDS			hypothetical protein
+IFGJHFNK_00681	gene			
+IFGJHFNK_00682	CDS	metG_3	6.1.1.10	Methionine--tRNA ligase
+IFGJHFNK_00682	gene	metG_3		
+IFGJHFNK_00683	CDS			hypothetical protein
+IFGJHFNK_00683	gene			
+IFGJHFNK_00684	CDS			hypothetical protein
+IFGJHFNK_00684	gene			
+IFGJHFNK_00685	CDS			hypothetical protein
+IFGJHFNK_00685	gene			
+IFGJHFNK_00686	CDS	tuf_2		Elongation factor 1-alpha
+IFGJHFNK_00686	gene	tuf_2		
+IFGJHFNK_00687	CDS			hypothetical protein
+IFGJHFNK_00687	gene			
+IFGJHFNK_00688	CDS			hypothetical protein
+IFGJHFNK_00688	gene			
+IFGJHFNK_00689	CDS	thrC_3	4.2.3.1	Threonine synthase
+IFGJHFNK_00689	gene	thrC_3		
+IFGJHFNK_00690	CDS			hypothetical protein
+IFGJHFNK_00690	gene			
+IFGJHFNK_00691	CDS	hisI_3	3.5.4.19	Phosphoribosyl-AMP cyclohydrolase
+IFGJHFNK_00691	gene	hisI_3		
+IFGJHFNK_00692	CDS	hisF_4	4.1.3.-	Imidazole glycerol phosphate synthase subunit HisF
+IFGJHFNK_00692	gene	hisF_4		
+IFGJHFNK_00693	CDS	hisF_5	4.1.3.-	Imidazole glycerol phosphate synthase subunit HisF
+IFGJHFNK_00693	gene	hisF_5		
+IFGJHFNK_00694	CDS	hisH	2.4.2.-	Imidazole glycerol phosphate synthase subunit HisH
+IFGJHFNK_00694	gene	hisH		
+IFGJHFNK_00695	CDS			hypothetical protein
+IFGJHFNK_00695	gene			
+IFGJHFNK_00696	CDS			hypothetical protein
+IFGJHFNK_00696	gene			
+IFGJHFNK_00697	CDS	gyaR_1	1.1.1.26	Glyoxylate reductase
+IFGJHFNK_00697	gene	gyaR_1		
+IFGJHFNK_00698	CDS			hypothetical protein
+IFGJHFNK_00698	gene			
+IFGJHFNK_00699	CDS	korA	1.2.7.3	2-oxoglutarate synthase subunit KorA
+IFGJHFNK_00699	gene	korA		
+IFGJHFNK_00700	CDS			hypothetical protein
+IFGJHFNK_00700	gene			
+IFGJHFNK_00701	CDS	eif5a		Translation initiation factor 5A
+IFGJHFNK_00701	gene	eif5a		
+IFGJHFNK_00702	CDS			hypothetical protein
+IFGJHFNK_00702	gene			
+IFGJHFNK_00703	CDS	adh_3	1.1.1.1	NAD-dependent alcohol dehydrogenase
+IFGJHFNK_00703	gene	adh_3		
+IFGJHFNK_00704	CDS			hypothetical protein
+IFGJHFNK_00704	gene			
+IFGJHFNK_00705	CDS	scpB_1		Segregation and condensation protein B
+IFGJHFNK_00705	gene	scpB_1		
+IFGJHFNK_00706	CDS	rps8e_1		30S ribosomal protein S8e
+IFGJHFNK_00706	gene	rps8e_1		
+IFGJHFNK_00707	CDS			hypothetical protein
+IFGJHFNK_00707	gene			
+IFGJHFNK_00708	CDS			hypothetical protein
+IFGJHFNK_00708	gene			
+IFGJHFNK_00709	CDS			hypothetical protein
+IFGJHFNK_00709	gene			
+IFGJHFNK_00710	CDS	nadX	1.4.1.21	putative L-aspartate dehydrogenase
+IFGJHFNK_00710	gene	nadX		
+IFGJHFNK_00711	CDS			hypothetical protein
+IFGJHFNK_00711	gene			
+IFGJHFNK_00712	CDS	gck	2.7.1.165	Glycerate 2-kinase
+IFGJHFNK_00712	gene	gck		
+IFGJHFNK_00713	CDS			hypothetical protein
+IFGJHFNK_00713	gene			
+IFGJHFNK_00714	CDS			hypothetical protein
+IFGJHFNK_00714	gene			
+IFGJHFNK_00715	CDS			hypothetical protein
+IFGJHFNK_00715	gene			
+IFGJHFNK_00716	CDS	rpoA1	2.7.7.6	DNA-directed RNA polymerase subunit A'
+IFGJHFNK_00716	gene	rpoA1		
+IFGJHFNK_00717	CDS			Putative snRNP Sm-like protein
+IFGJHFNK_00717	gene			
+IFGJHFNK_00718	CDS			hypothetical protein
+IFGJHFNK_00718	gene			
+IFGJHFNK_00719	CDS	hemC	2.5.1.61	Porphobilinogen deaminase
+IFGJHFNK_00719	gene	hemC		
+IFGJHFNK_00720	CDS	hemL	5.4.3.8	Glutamate-1-semialdehyde 2,1-aminomutase
+IFGJHFNK_00720	gene	hemL		
+IFGJHFNK_00721	CDS	aqpM_2		Aquaporin AqpM
+IFGJHFNK_00721	gene	aqpM_2		
+IFGJHFNK_00722	CDS			hypothetical protein
+IFGJHFNK_00722	gene			
+IFGJHFNK_00723	CDS			hypothetical protein
+IFGJHFNK_00723	gene			
+IFGJHFNK_00724	CDS	gyaR_2	1.1.1.26	Glyoxylate reductase
+IFGJHFNK_00724	gene	gyaR_2		
+IFGJHFNK_00725	CDS			hypothetical protein
+IFGJHFNK_00725	gene			
+IFGJHFNK_00726	CDS			hypothetical protein
+IFGJHFNK_00726	gene			
+IFGJHFNK_00727	CDS			50S ribosomal protein L15e
+IFGJHFNK_00727	gene			
+IFGJHFNK_00728	CDS			hypothetical protein
+IFGJHFNK_00728	gene			
+IFGJHFNK_00729	CDS			hypothetical protein
+IFGJHFNK_00729	gene			
+IFGJHFNK_00730	CDS			HEAT repeat-containing taxis proteinF
+IFGJHFNK_00730	gene			
+IFGJHFNK_00731	CDS			hypothetical protein
+IFGJHFNK_00731	gene			
+IFGJHFNK_00732	CDS			hypothetical protein
+IFGJHFNK_00732	gene			
+IFGJHFNK_00733	CDS			hypothetical protein
+IFGJHFNK_00733	gene			
+IFGJHFNK_00734	CDS			hypothetical protein
+IFGJHFNK_00734	gene			
+IFGJHFNK_00735	CDS	uvrB_1		UvrABC system protein B
+IFGJHFNK_00735	gene	uvrB_1		
+IFGJHFNK_00736	CDS	uvrA_1		UvrABC system protein A
+IFGJHFNK_00736	gene	uvrA_1		
+IFGJHFNK_00737	CDS	gyaR_3	1.1.1.26	Glyoxylate reductase
+IFGJHFNK_00737	gene	gyaR_3		
+IFGJHFNK_00738	CDS			hypothetical protein
+IFGJHFNK_00738	gene			
+IFGJHFNK_00739	CDS			hypothetical protein
+IFGJHFNK_00739	gene			
+IFGJHFNK_00740	CDS			hypothetical protein
+IFGJHFNK_00740	gene			
+IFGJHFNK_00741	CDS			hypothetical protein
+IFGJHFNK_00741	gene			
+IFGJHFNK_00742	CDS	queE	4.3.99.3	7-carboxy-7-deazaguanine synthase
+IFGJHFNK_00742	gene	queE		
+IFGJHFNK_00743	CDS	trmI_2	2.1.1.219	tRNA (adenine(57)-N(1)/adenine(58)-N(1))-methyltransferase TrmI
+IFGJHFNK_00743	gene	trmI_2		
+IFGJHFNK_00744	CDS			hypothetical protein
+IFGJHFNK_00744	gene			
+IFGJHFNK_00745	CDS	ppsA_1	2.7.9.2	Phosphoenolpyruvate synthase
+IFGJHFNK_00745	gene	ppsA_1		
+IFGJHFNK_00746	CDS			hypothetical protein
+IFGJHFNK_00746	gene			
+IFGJHFNK_00747	CDS	norW_1	1.18.1.-	Nitric oxide reductase FlRd-NAD(+) reductase
+IFGJHFNK_00747	gene	norW_1		
+IFGJHFNK_00748	CDS	dys_3	2.5.1.46	putative deoxyhypusine synthase
+IFGJHFNK_00748	gene	dys_3		
+IFGJHFNK_00749	CDS			hypothetical protein
+IFGJHFNK_00749	gene			
+IFGJHFNK_00750	CDS	ureD_2		Urease accessory protein UreD
+IFGJHFNK_00750	gene	ureD_2		
+IFGJHFNK_00751	CDS			hypothetical protein
+IFGJHFNK_00751	gene			
+IFGJHFNK_00752	CDS			hypothetical protein
+IFGJHFNK_00752	gene			
+IFGJHFNK_00753	CDS			hypothetical protein
+IFGJHFNK_00753	gene			
+IFGJHFNK_00754	CDS			hypothetical protein
+IFGJHFNK_00754	gene			
+IFGJHFNK_00755	CDS			hypothetical protein
+IFGJHFNK_00755	gene			
+IFGJHFNK_00756	CDS	purE_1	5.4.99.18	N5-carboxyaminoimidazole ribonucleotide mutase
+IFGJHFNK_00756	gene	purE_1		
+IFGJHFNK_00757	CDS	rimO	2.8.4.4	Ribosomal protein S12 methylthiotransferase RimO
+IFGJHFNK_00757	gene	rimO		
+IFGJHFNK_00758	CDS			hypothetical protein
+IFGJHFNK_00758	gene			
+IFGJHFNK_00759	CDS		3.4.19.15	Desampylase
+IFGJHFNK_00759	gene			
+IFGJHFNK_00760	CDS			hypothetical protein
+IFGJHFNK_00760	gene			
+IFGJHFNK_00761	CDS			hypothetical protein
+IFGJHFNK_00761	gene			
+IFGJHFNK_00762	CDS	guaB_6	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+IFGJHFNK_00762	gene	guaB_6		
+IFGJHFNK_00763	CDS			Universal stress protein
+IFGJHFNK_00763	gene			
+IFGJHFNK_00764	CDS			hypothetical protein
+IFGJHFNK_00764	gene			
+IFGJHFNK_00765	CDS			hypothetical protein
+IFGJHFNK_00765	gene			
+IFGJHFNK_00766	CDS			hypothetical protein
+IFGJHFNK_00766	gene			
+IFGJHFNK_00767	CDS			hypothetical protein
+IFGJHFNK_00767	gene			
+IFGJHFNK_00768	CDS	rhaD_1	1.1.1.377	L-rhamnose 1-dehydrogenase (NADP(+))
+IFGJHFNK_00768	gene	rhaD_1		
+IFGJHFNK_00769	CDS			hypothetical protein
+IFGJHFNK_00769	gene			
+IFGJHFNK_00770	tRNA			tRNA-Pro(ggg)
+IFGJHFNK_00770	gene			
+IFGJHFNK_00771	CDS	nth	4.2.99.18	Endonuclease III
+IFGJHFNK_00771	gene	nth		
+IFGJHFNK_00772	CDS			hypothetical protein
+IFGJHFNK_00772	gene			
+IFGJHFNK_00773	CDS			hypothetical protein
+IFGJHFNK_00773	gene			
+IFGJHFNK_00774	CDS	sudA_2	1.8.1.19	Sulfide dehydrogenase subunit alpha
+IFGJHFNK_00774	gene	sudA_2		
+IFGJHFNK_00775	CDS	guaB_7	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+IFGJHFNK_00775	gene	guaB_7		
+IFGJHFNK_00776	CDS			Universal stress protein
+IFGJHFNK_00776	gene			
+IFGJHFNK_00777	CDS			hypothetical protein
+IFGJHFNK_00777	gene			
+IFGJHFNK_00778	CDS	guaB_8	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+IFGJHFNK_00778	gene	guaB_8		
+IFGJHFNK_00779	CDS			hypothetical protein
+IFGJHFNK_00779	gene			
+IFGJHFNK_00780	CDS			Universal stress protein
+IFGJHFNK_00780	gene			
+IFGJHFNK_00781	CDS	mdh_2	1.1.1.299	Malate dehydrogenase
+IFGJHFNK_00781	gene	mdh_2		
+IFGJHFNK_00782	CDS			hypothetical protein
+IFGJHFNK_00782	gene			
+IFGJHFNK_00783	CDS	thi4_2	4.-.-.-	Thiamine thiazole synthase
+IFGJHFNK_00783	gene	thi4_2		
+IFGJHFNK_00784	CDS	dctA_2		C4-dicarboxylate transport protein
+IFGJHFNK_00784	gene	dctA_2		
+IFGJHFNK_00785	CDS			hypothetical protein
+IFGJHFNK_00785	gene			
+IFGJHFNK_00786	CDS			hypothetical protein
+IFGJHFNK_00786	gene			
+IFGJHFNK_00787	CDS			hypothetical protein
+IFGJHFNK_00787	gene			
+IFGJHFNK_00788	CDS			hypothetical protein
+IFGJHFNK_00788	gene			
+IFGJHFNK_00789	CDS	citZ_1	2.3.3.16	Citrate synthase
+IFGJHFNK_00789	gene	citZ_1		
+IFGJHFNK_00790	CDS			hypothetical protein
+IFGJHFNK_00790	gene			
+IFGJHFNK_00791	CDS			hypothetical protein
+IFGJHFNK_00791	gene			
+IFGJHFNK_00792	CDS			hypothetical protein
+IFGJHFNK_00792	gene			
+IFGJHFNK_00793	CDS			hypothetical protein
+IFGJHFNK_00793	gene			
+IFGJHFNK_00794	CDS	cdc6		ORC1-type DNA replication protein
+IFGJHFNK_00794	gene	cdc6		
+IFGJHFNK_00795	CDS	polB	2.7.7.7	DNA polymerase II small subunit
+IFGJHFNK_00795	gene	polB		
+IFGJHFNK_00796	CDS			hypothetical protein
+IFGJHFNK_00796	gene			
+IFGJHFNK_00797	CDS			hypothetical protein
+IFGJHFNK_00797	gene			
+IFGJHFNK_00798	CDS			hypothetical protein
+IFGJHFNK_00798	gene			
+IFGJHFNK_00799	CDS			hypothetical protein
+IFGJHFNK_00799	gene			
+IFGJHFNK_00800	CDS			hypothetical protein
+IFGJHFNK_00800	gene			
+IFGJHFNK_00801	CDS		2.5.1.41	Geranylgeranylglyceryl phosphate synthase
+IFGJHFNK_00801	gene			
+IFGJHFNK_00802	CDS	mntR_1		Transcriptional regulator MntR
+IFGJHFNK_00802	gene	mntR_1		
+IFGJHFNK_00803	CDS			hypothetical protein
+IFGJHFNK_00803	gene			
+IFGJHFNK_00804	CDS			hypothetical protein
+IFGJHFNK_00804	gene			
+IFGJHFNK_00805	CDS			hypothetical protein
+IFGJHFNK_00805	gene			
+IFGJHFNK_00806	CDS			hypothetical protein
+IFGJHFNK_00806	gene			
+IFGJHFNK_00807	CDS			hypothetical protein
+IFGJHFNK_00807	gene			
+IFGJHFNK_00808	CDS	glyA_1	2.1.2.-	Serine hydroxymethyltransferase
+IFGJHFNK_00808	gene	glyA_1		
+IFGJHFNK_00809	CDS	polC_1	2.7.7.7	DNA polymerase II large subunit
+IFGJHFNK_00809	gene	polC_1		
+IFGJHFNK_00810	CDS			hypothetical protein
+IFGJHFNK_00810	gene			
+IFGJHFNK_00811	CDS			hypothetical protein
+IFGJHFNK_00811	gene			
+IFGJHFNK_00812	CDS			hypothetical protein
+IFGJHFNK_00812	gene			
+IFGJHFNK_00813	CDS			hypothetical protein
+IFGJHFNK_00813	gene			
+IFGJHFNK_00814	CDS			putative ABC transporter ATP-binding protein
+IFGJHFNK_00814	gene			
+IFGJHFNK_00815	CDS			hypothetical protein
+IFGJHFNK_00815	gene			
+IFGJHFNK_00816	CDS			hypothetical protein
+IFGJHFNK_00816	gene			
+IFGJHFNK_00817	CDS			hypothetical protein
+IFGJHFNK_00817	gene			
+IFGJHFNK_00818	CDS			hypothetical protein
+IFGJHFNK_00818	gene			
+IFGJHFNK_00819	CDS			hypothetical protein
+IFGJHFNK_00819	gene			
+IFGJHFNK_00820	CDS			hypothetical protein
+IFGJHFNK_00820	gene			
+IFGJHFNK_00821	CDS			hypothetical protein
+IFGJHFNK_00821	gene			
+IFGJHFNK_00822	CDS			hypothetical protein
+IFGJHFNK_00822	gene			
+IFGJHFNK_00823	CDS	ddl	6.3.2.4	D-alanine--D-alanine ligase
+IFGJHFNK_00823	gene	ddl		
+IFGJHFNK_00824	CDS			hypothetical protein
+IFGJHFNK_00824	gene			
+IFGJHFNK_00825	CDS			hypothetical protein
+IFGJHFNK_00825	gene			
+IFGJHFNK_00826	CDS	albA2_2		DNA/RNA-binding protein Alba 2
+IFGJHFNK_00826	gene	albA2_2		
+IFGJHFNK_00827	CDS			hypothetical protein
+IFGJHFNK_00827	gene			
+IFGJHFNK_00828	CDS			hypothetical protein
+IFGJHFNK_00828	gene			
+IFGJHFNK_00829	CDS	tfb_3		Transcription initiation factor IIB
+IFGJHFNK_00829	gene	tfb_3		
+IFGJHFNK_00830	CDS			hypothetical protein
+IFGJHFNK_00830	gene			
+IFGJHFNK_00831	tRNA			tRNA-Leu(gag)
+IFGJHFNK_00831	gene			
+IFGJHFNK_00832	CDS	ilvC_1	1.1.1.383	Ketol-acid reductoisomerase (NAD(P)(+))
+IFGJHFNK_00832	gene	ilvC_1		
+IFGJHFNK_00833	CDS	glmS_2	5.4.99.1	Glutamate mutase sigma subunit
+IFGJHFNK_00833	gene	glmS_2		
+IFGJHFNK_00834	CDS	ape2_1	3.4.11.1	Leucyl aminopeptidase
+IFGJHFNK_00834	gene	ape2_1		
+IFGJHFNK_00835	CDS			hypothetical protein
+IFGJHFNK_00835	gene			
+IFGJHFNK_00836	CDS	ureG_1		Urease accessory protein UreG
+IFGJHFNK_00836	gene	ureG_1		
+IFGJHFNK_00837	CDS	pfdB_2		Prefoldin subunit beta
+IFGJHFNK_00837	gene	pfdB_2		
+IFGJHFNK_00838	CDS	xpf_2		3'-flap repair endonuclease Xpf
+IFGJHFNK_00838	gene	xpf_2		
+IFGJHFNK_00839	CDS			hypothetical protein
+IFGJHFNK_00839	gene			
+IFGJHFNK_00840	CDS	nob1_2	3.1.-.-	Endoribonuclease Nob1
+IFGJHFNK_00840	gene	nob1_2		
+IFGJHFNK_00841	CDS	nadK_2	2.7.1.23	NAD kinase
+IFGJHFNK_00841	gene	nadK_2		
+IFGJHFNK_00842	CDS			hypothetical protein
+IFGJHFNK_00842	gene			
+IFGJHFNK_00843	CDS	ubiG_2	2.1.1.222	Ubiquinone biosynthesis O-methyltransferase
+IFGJHFNK_00843	gene	ubiG_2		
+IFGJHFNK_00844	CDS			hypothetical protein
+IFGJHFNK_00844	gene			
+IFGJHFNK_00845	CDS			hypothetical protein
+IFGJHFNK_00845	gene			
+IFGJHFNK_00846	CDS	thi4_3	4.-.-.-	Thiamine thiazole synthase
+IFGJHFNK_00846	gene	thi4_3		
+IFGJHFNK_00847	CDS	nasD_2	1.7.7.1	Assimilatory ferredoxin-dependent nitrite reductase
+IFGJHFNK_00847	gene	nasD_2		
+IFGJHFNK_00848	CDS	tssA_3	2.8.1.1	Putative thiosulfate sulfurtransferase
+IFGJHFNK_00848	gene	tssA_3		
+IFGJHFNK_00849	CDS	lapB_2		Lipopolysaccharide assembly protein B
+IFGJHFNK_00849	gene	lapB_2		
+IFGJHFNK_00850	CDS			hypothetical protein
+IFGJHFNK_00850	gene			
+IFGJHFNK_00851	CDS	rhaD_2	1.1.1.377	L-rhamnose 1-dehydrogenase (NADP(+))
+IFGJHFNK_00851	gene	rhaD_2		
+IFGJHFNK_00852	CDS			hypothetical protein
+IFGJHFNK_00852	gene			
+IFGJHFNK_00853	CDS			hypothetical protein
+IFGJHFNK_00853	gene			
+IFGJHFNK_00854	CDS	rpl2_1		50S ribosomal protein L2
+IFGJHFNK_00854	gene	rpl2_1		
+IFGJHFNK_00855	CDS	acyP_1	3.6.1.7	Acylphosphatase
+IFGJHFNK_00855	gene	acyP_1		
+IFGJHFNK_00856	CDS			hypothetical protein
+IFGJHFNK_00856	gene			
+IFGJHFNK_00857	CDS	MCM_1	3.6.4.12	Minichromosome maintenance protein MCM
+IFGJHFNK_00857	gene	MCM_1		
+IFGJHFNK_00858	CDS	rutE_4	1.-.-.-	malonic semialdehyde reductase RutE
+IFGJHFNK_00858	gene	rutE_4		
+IFGJHFNK_00859	CDS			hypothetical protein
+IFGJHFNK_00859	gene			
+IFGJHFNK_00860	CDS			hypothetical protein
+IFGJHFNK_00860	gene			
+IFGJHFNK_00861	CDS			hypothetical protein
+IFGJHFNK_00861	gene			
+IFGJHFNK_00862	CDS	noc_2		Nucleoid occlusion protein
+IFGJHFNK_00862	gene	noc_2		
+IFGJHFNK_00863	CDS	lrpA_2		HTH-type transcriptional regulator LrpA
+IFGJHFNK_00863	gene	lrpA_2		
+IFGJHFNK_00864	CDS			hypothetical protein
+IFGJHFNK_00864	gene			
+IFGJHFNK_00865	CDS			hypothetical protein
+IFGJHFNK_00865	gene			
+IFGJHFNK_00866	CDS			hypothetical protein
+IFGJHFNK_00866	gene			
+IFGJHFNK_00867	CDS			hypothetical protein
+IFGJHFNK_00867	gene			
+IFGJHFNK_00868	CDS	dys_4	2.5.1.46	putative deoxyhypusine synthase
+IFGJHFNK_00868	gene	dys_4		
+IFGJHFNK_00869	CDS			hypothetical protein
+IFGJHFNK_00869	gene			
+IFGJHFNK_00870	CDS	tfs		Transcription factor S
+IFGJHFNK_00870	gene	tfs		
+IFGJHFNK_00871	CDS	pcn		DNA polymerase sliding clamp
+IFGJHFNK_00871	gene	pcn		
+IFGJHFNK_00872	CDS		2.7.2.4	putative aspartokinase
+IFGJHFNK_00872	gene			
+IFGJHFNK_00873	CDS			hypothetical protein
+IFGJHFNK_00873	gene			
+IFGJHFNK_00874	CDS	hisF_6	4.1.3.-	Imidazole glycerol phosphate synthase subunit HisF
+IFGJHFNK_00874	gene	hisF_6		
+IFGJHFNK_00875	CDS	hisI_4	3.5.4.19	Phosphoribosyl-AMP cyclohydrolase
+IFGJHFNK_00875	gene	hisI_4		
+IFGJHFNK_00876	CDS			hypothetical protein
+IFGJHFNK_00876	gene			
+IFGJHFNK_00877	CDS	thrC_4	4.2.3.1	Threonine synthase
+IFGJHFNK_00877	gene	thrC_4		
+IFGJHFNK_00878	CDS			hypothetical protein
+IFGJHFNK_00878	gene			
+IFGJHFNK_00879	CDS	filI_3	2.7.13.3	Methanogenesis regulatory histidine kinase FilI
+IFGJHFNK_00879	gene	filI_3		
+IFGJHFNK_00880	CDS	ubiE_1	2.1.1.163	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE
+IFGJHFNK_00880	gene	ubiE_1		
+IFGJHFNK_00881	CDS			hypothetical protein
+IFGJHFNK_00881	gene			
+IFGJHFNK_00882	CDS			hypothetical protein
+IFGJHFNK_00882	gene			
+IFGJHFNK_00883	CDS			hypothetical protein
+IFGJHFNK_00883	gene			
+IFGJHFNK_00884	CDS			hypothetical protein
+IFGJHFNK_00884	gene			
+IFGJHFNK_00885	tRNA			tRNA-Ser(gct)
+IFGJHFNK_00885	gene			
+IFGJHFNK_00886	CDS	cpdA_2	3.1.4.53	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+IFGJHFNK_00886	gene	cpdA_2		
+IFGJHFNK_00887	CDS	aksF_2	1.1.1.87	Homoisocitrate dehydrogenase
+IFGJHFNK_00887	gene	aksF_2		
+IFGJHFNK_00888	CDS	prmC_2	2.1.1.297	Release factor glutamine methyltransferase
+IFGJHFNK_00888	gene	prmC_2		
+IFGJHFNK_00889	CDS			hypothetical protein
+IFGJHFNK_00889	gene			
+IFGJHFNK_00890	CDS			hypothetical protein
+IFGJHFNK_00890	gene			
+IFGJHFNK_00891	CDS			hypothetical protein
+IFGJHFNK_00891	gene			
+IFGJHFNK_00892	CDS	msrA_2	1.8.4.11	Peptide methionine sulfoxide reductase MsrA
+IFGJHFNK_00892	gene	msrA_2		
+IFGJHFNK_00893	CDS			Universal stress protein
+IFGJHFNK_00893	gene			
+IFGJHFNK_00894	CDS	mhpC	3.7.1.14	2-hydroxy-6-oxononadienedioate/2-hydroxy-6-oxononatrienedioate hydrolase
+IFGJHFNK_00894	gene	mhpC		
+IFGJHFNK_00895	CDS			hypothetical protein
+IFGJHFNK_00895	gene			
+IFGJHFNK_00896	CDS	tssA_4	2.8.1.1	Putative thiosulfate sulfurtransferase
+IFGJHFNK_00896	gene	tssA_4		
+IFGJHFNK_00897	CDS	nasD_3	1.7.7.1	Assimilatory ferredoxin-dependent nitrite reductase
+IFGJHFNK_00897	gene	nasD_3		
+IFGJHFNK_00898	CDS			hypothetical protein
+IFGJHFNK_00898	gene			
+IFGJHFNK_00899	CDS			hypothetical protein
+IFGJHFNK_00899	gene			
+IFGJHFNK_00900	CDS	map_2	3.4.11.18	Methionine aminopeptidase
+IFGJHFNK_00900	gene	map_2		
+IFGJHFNK_00901	tRNA			tRNA-Pro(tgg)
+IFGJHFNK_00901	gene			
+IFGJHFNK_00902	CDS			hypothetical protein
+IFGJHFNK_00902	gene			
+IFGJHFNK_00903	CDS			hypothetical protein
+IFGJHFNK_00903	gene			
+IFGJHFNK_00904	CDS			hypothetical protein
+IFGJHFNK_00904	gene			
+IFGJHFNK_00905	CDS	cdvA_2		Cell division protein A
+IFGJHFNK_00905	gene	cdvA_2		
+IFGJHFNK_00906	CDS	purP_2	6.3.4.23	5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase
+IFGJHFNK_00906	gene	purP_2		
+IFGJHFNK_00907	CDS	ubiX_1	2.5.1.-	Flavin prenyltransferase UbiX
+IFGJHFNK_00907	gene	ubiX_1		
+IFGJHFNK_00908	CDS			hypothetical protein
+IFGJHFNK_00908	gene			
+IFGJHFNK_00909	CDS	tatAt_2		Sec-independent protein translocase protein TatAt
+IFGJHFNK_00909	gene	tatAt_2		
+IFGJHFNK_00910	CDS		3.1.-.-	DNA double-strand break repair protein Mre11
+IFGJHFNK_00910	gene			
+IFGJHFNK_00911	CDS			hypothetical protein
+IFGJHFNK_00911	gene			
+IFGJHFNK_00912	CDS	alaS_1	6.1.1.7	Alanine--tRNA ligase
+IFGJHFNK_00912	gene	alaS_1		
+IFGJHFNK_00913	CDS	leuS_2	6.1.1.4	Leucine--tRNA ligase
+IFGJHFNK_00913	gene	leuS_2		
+IFGJHFNK_00914	CDS			hypothetical protein
+IFGJHFNK_00914	gene			
+IFGJHFNK_00915	CDS			hypothetical protein
+IFGJHFNK_00915	gene			
+IFGJHFNK_00916	CDS			hypothetical protein
+IFGJHFNK_00916	gene			
+IFGJHFNK_00917	CDS			hypothetical protein
+IFGJHFNK_00917	gene			
+IFGJHFNK_00918	CDS			hypothetical protein
+IFGJHFNK_00918	gene			
+IFGJHFNK_00919	CDS			hypothetical protein
+IFGJHFNK_00919	gene			
+IFGJHFNK_00920	CDS			hypothetical protein
+IFGJHFNK_00920	gene			
+IFGJHFNK_00921	CDS			hypothetical protein
+IFGJHFNK_00921	gene			
+IFGJHFNK_00922	CDS			hypothetical protein
+IFGJHFNK_00922	gene			
+IFGJHFNK_00923	CDS			hypothetical protein
+IFGJHFNK_00923	gene			
+IFGJHFNK_00924	CDS			hypothetical protein
+IFGJHFNK_00924	gene			
+IFGJHFNK_00925	CDS			hypothetical protein
+IFGJHFNK_00925	gene			
+IFGJHFNK_00926	CDS			hypothetical protein
+IFGJHFNK_00926	gene			
+IFGJHFNK_00927	CDS			hypothetical protein
+IFGJHFNK_00927	gene			
+IFGJHFNK_00928	CDS			hypothetical protein
+IFGJHFNK_00928	gene			
+IFGJHFNK_00929	CDS			hypothetical protein
+IFGJHFNK_00929	gene			
+IFGJHFNK_00930	CDS			hypothetical protein
+IFGJHFNK_00930	gene			
+IFGJHFNK_00931	CDS			hypothetical protein
+IFGJHFNK_00931	gene			
+IFGJHFNK_00932	CDS			hypothetical protein
+IFGJHFNK_00932	gene			
+IFGJHFNK_00933	CDS			hypothetical protein
+IFGJHFNK_00933	gene			
+IFGJHFNK_00934	CDS	guaB_9	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+IFGJHFNK_00934	gene	guaB_9		
+IFGJHFNK_00935	CDS			hypothetical protein
+IFGJHFNK_00935	gene			
+IFGJHFNK_00936	CDS			hypothetical protein
+IFGJHFNK_00936	gene			
+IFGJHFNK_00937	CDS			hypothetical protein
+IFGJHFNK_00937	gene			
+IFGJHFNK_00938	CDS			hypothetical protein
+IFGJHFNK_00938	gene			
+IFGJHFNK_00939	CDS			hypothetical protein
+IFGJHFNK_00939	gene			
+IFGJHFNK_00940	CDS			hypothetical protein
+IFGJHFNK_00940	gene			
+IFGJHFNK_00941	CDS			hypothetical protein
+IFGJHFNK_00941	gene			
+IFGJHFNK_00942	CDS			hypothetical protein
+IFGJHFNK_00942	gene			
+IFGJHFNK_00943	CDS			hypothetical protein
+IFGJHFNK_00943	gene			
+IFGJHFNK_00944	CDS		1.3.7.11	Digeranylgeranylglycerophospholipid reductase
+IFGJHFNK_00944	gene			
+IFGJHFNK_00945	CDS	pth_2	3.1.1.29	Peptidyl-tRNA hydrolase
+IFGJHFNK_00945	gene	pth_2		
+IFGJHFNK_00946	CDS	vgb_3	4.2.99.-	Virginiamycin B lyase
+IFGJHFNK_00946	gene	vgb_3		
+IFGJHFNK_00947	CDS	truD_2	5.4.99.27	putative tRNA pseudouridine synthase D
+IFGJHFNK_00947	gene	truD_2		
+IFGJHFNK_00948	CDS			hypothetical protein
+IFGJHFNK_00948	gene			
+IFGJHFNK_00949	CDS		1.3.1.76	Precorrin-2 dehydrogenase
+IFGJHFNK_00949	gene			
+IFGJHFNK_00950	CDS			putative HTH-type transcriptional regulator
+IFGJHFNK_00950	gene			
+IFGJHFNK_00951	CDS			hypothetical protein
+IFGJHFNK_00951	gene			
+IFGJHFNK_00952	CDS			hypothetical protein
+IFGJHFNK_00952	gene			
+IFGJHFNK_00953	CDS	ureF_2		Urease accessory protein UreF
+IFGJHFNK_00953	gene	ureF_2		
+IFGJHFNK_00954	CDS	ureE_2		Urease accessory protein UreE
+IFGJHFNK_00954	gene	ureE_2		
+IFGJHFNK_00955	CDS	ureA_3	3.5.1.5	Urease subunit gamma
+IFGJHFNK_00955	gene	ureA_3		
+IFGJHFNK_00956	CDS	ureC_2	3.5.1.5	Urease subunit alpha
+IFGJHFNK_00956	gene	ureC_2		
+IFGJHFNK_00957	CDS			hypothetical protein
+IFGJHFNK_00957	gene			
+IFGJHFNK_00958	CDS			hypothetical protein
+IFGJHFNK_00958	gene			
+IFGJHFNK_00959	CDS	acsA_2	6.2.1.1	Acetyl-coenzyme A synthetase
+IFGJHFNK_00959	gene	acsA_2		
+IFGJHFNK_00960	CDS			hypothetical protein
+IFGJHFNK_00960	gene			
+IFGJHFNK_00961	CDS	fen_2	3.1.-.-	Flap endonuclease 1
+IFGJHFNK_00961	gene	fen_2		
+IFGJHFNK_00962	CDS			hypothetical protein
+IFGJHFNK_00962	gene			
+IFGJHFNK_00963	CDS			hypothetical protein
+IFGJHFNK_00963	gene			
+IFGJHFNK_00964	CDS			hypothetical protein
+IFGJHFNK_00964	gene			
+IFGJHFNK_00965	CDS			hypothetical protein
+IFGJHFNK_00965	gene			
+IFGJHFNK_00966	CDS	cofH_4	2.5.1.77	FO synthase subunit 2
+IFGJHFNK_00966	gene	cofH_4		
+IFGJHFNK_00967	CDS			hypothetical protein
+IFGJHFNK_00967	gene			
+IFGJHFNK_00968	CDS	maX1_2		Sodium/calcium exchanger MaX1
+IFGJHFNK_00968	gene	maX1_2		
+IFGJHFNK_00969	CDS			hypothetical protein
+IFGJHFNK_00969	gene			
+IFGJHFNK_00970	CDS			Putative ammonium transporter
+IFGJHFNK_00970	gene			
+IFGJHFNK_00971	CDS			hypothetical protein
+IFGJHFNK_00971	gene			
+IFGJHFNK_00972	CDS			hypothetical protein
+IFGJHFNK_00972	gene			
+IFGJHFNK_00973	CDS	prf1_2		Peptide chain release factor subunit 1
+IFGJHFNK_00973	gene	prf1_2		
+IFGJHFNK_00974	CDS			hypothetical protein
+IFGJHFNK_00974	gene			
+IFGJHFNK_00975	CDS			hypothetical protein
+IFGJHFNK_00975	gene			
+IFGJHFNK_00976	CDS			hypothetical protein
+IFGJHFNK_00976	gene			
+IFGJHFNK_00977	CDS			hypothetical protein
+IFGJHFNK_00977	gene			
+IFGJHFNK_00978	CDS			hypothetical protein
+IFGJHFNK_00978	gene			
+IFGJHFNK_00979	CDS			hypothetical protein
+IFGJHFNK_00979	gene			
+IFGJHFNK_00980	CDS			Universal stress protein
+IFGJHFNK_00980	gene			
+IFGJHFNK_00981	CDS	guaB_10	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+IFGJHFNK_00981	gene	guaB_10		
+IFGJHFNK_00982	CDS			hypothetical protein
+IFGJHFNK_00982	gene			
+IFGJHFNK_00983	CDS	rcsC	2.7.13.3	Sensor histidine kinase RcsC
+IFGJHFNK_00983	gene	rcsC		
+IFGJHFNK_00984	CDS			hypothetical protein
+IFGJHFNK_00984	gene			
+IFGJHFNK_00985	CDS			hypothetical protein
+IFGJHFNK_00985	gene			
+IFGJHFNK_00986	CDS	glmS_3	5.4.99.1	Glutamate mutase sigma subunit
+IFGJHFNK_00986	gene	glmS_3		
+IFGJHFNK_00987	CDS	ape2_2	3.4.11.1	Leucyl aminopeptidase
+IFGJHFNK_00987	gene	ape2_2		
+IFGJHFNK_00988	CDS			hypothetical protein
+IFGJHFNK_00988	gene			
+IFGJHFNK_00989	CDS	ureG_2		Urease accessory protein UreG
+IFGJHFNK_00989	gene	ureG_2		
+IFGJHFNK_00990	CDS			hypothetical protein
+IFGJHFNK_00990	gene			
+IFGJHFNK_00991	CDS			hypothetical protein
+IFGJHFNK_00991	gene			
+IFGJHFNK_00992	CDS			hypothetical protein
+IFGJHFNK_00992	gene			
+IFGJHFNK_00993	CDS	nfo_1	3.1.21.2	endonuclease 4
+IFGJHFNK_00993	gene	nfo_1		
+IFGJHFNK_00994	CDS	proS_2	6.1.1.15	Proline--tRNA ligase
+IFGJHFNK_00994	gene	proS_2		
+IFGJHFNK_00995	CDS			hypothetical protein
+IFGJHFNK_00995	gene			
+IFGJHFNK_00996	CDS			hypothetical protein
+IFGJHFNK_00996	gene			
+IFGJHFNK_00997	CDS	acdBI_1	6.2.1.13	Acetate--CoA ligase [ADP-forming] I subunit beta
+IFGJHFNK_00997	gene	acdBI_1		
+IFGJHFNK_00998	CDS			hypothetical protein
+IFGJHFNK_00998	gene			
+IFGJHFNK_00999	CDS		1.17.4.1	Vitamin B12-dependent ribonucleoside-diphosphate reductase
+IFGJHFNK_00999	gene			
+IFGJHFNK_01000	CDS			hypothetical protein
+IFGJHFNK_01000	gene			
+IFGJHFNK_01001	CDS			hypothetical protein
+IFGJHFNK_01001	gene			
+IFGJHFNK_01002	CDS			hypothetical protein
+IFGJHFNK_01002	gene			
+IFGJHFNK_01003	CDS			hypothetical protein
+IFGJHFNK_01003	gene			
+IFGJHFNK_01004	CDS	purC_1	6.3.2.6	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+IFGJHFNK_01004	gene	purC_1		
+IFGJHFNK_01005	CDS			hypothetical protein
+IFGJHFNK_01005	gene			
+IFGJHFNK_01006	CDS			hypothetical protein
+IFGJHFNK_01006	gene			
+IFGJHFNK_01007	CDS	glmS_4	2.6.1.16	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+IFGJHFNK_01007	gene	glmS_4		
+IFGJHFNK_01008	CDS	purL_2	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurL
+IFGJHFNK_01008	gene	purL_2		
+IFGJHFNK_01009	CDS	pfpI_2	3.2.-.-	Intracellular protease 1
+IFGJHFNK_01009	gene	pfpI_2		
+IFGJHFNK_01010	CDS	guaB_11	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+IFGJHFNK_01010	gene	guaB_11		
+IFGJHFNK_01011	CDS	purS_2	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurS
+IFGJHFNK_01011	gene	purS_2		
+IFGJHFNK_01012	CDS			hypothetical protein
+IFGJHFNK_01012	gene			
+IFGJHFNK_01013	CDS			hypothetical protein
+IFGJHFNK_01013	gene			
+IFGJHFNK_01014	CDS			hypothetical protein
+IFGJHFNK_01014	gene			
+IFGJHFNK_01015	CDS	tatC_2		Sec-independent protein translocase protein TatC
+IFGJHFNK_01015	gene	tatC_2		
+IFGJHFNK_01016	CDS	tatAt_3		Sec-independent protein translocase protein TatAt
+IFGJHFNK_01016	gene	tatAt_3		
+IFGJHFNK_01017	CDS			hypothetical protein
+IFGJHFNK_01017	gene			
+IFGJHFNK_01018	CDS	ubiX_2	2.5.1.-	Flavin prenyltransferase UbiX
+IFGJHFNK_01018	gene	ubiX_2		
+IFGJHFNK_01019	CDS			hypothetical protein
+IFGJHFNK_01019	gene			
+IFGJHFNK_01020	CDS	purP_3	6.3.4.23	5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase
+IFGJHFNK_01020	gene	purP_3		
+IFGJHFNK_01021	CDS			hypothetical protein
+IFGJHFNK_01021	gene			
+IFGJHFNK_01022	CDS	ubiX_3	2.5.1.-	Flavin prenyltransferase UbiX
+IFGJHFNK_01022	gene	ubiX_3		
+IFGJHFNK_01023	CDS			hypothetical protein
+IFGJHFNK_01023	gene			
+IFGJHFNK_01024	CDS	tatAt_4		Sec-independent protein translocase protein TatAt
+IFGJHFNK_01024	gene	tatAt_4		
+IFGJHFNK_01025	CDS	tatC_3		Sec-independent protein translocase protein TatC
+IFGJHFNK_01025	gene	tatC_3		
+IFGJHFNK_01026	CDS			hypothetical protein
+IFGJHFNK_01026	gene			
+IFGJHFNK_01027	CDS			hypothetical protein
+IFGJHFNK_01027	gene			
+IFGJHFNK_01028	CDS	purS_3	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurS
+IFGJHFNK_01028	gene	purS_3		
+IFGJHFNK_01029	CDS	guaB_12	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+IFGJHFNK_01029	gene	guaB_12		
+IFGJHFNK_01030	CDS	pfpI_3	3.2.-.-	Intracellular protease 1
+IFGJHFNK_01030	gene	pfpI_3		
+IFGJHFNK_01031	CDS	purL_3	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurL
+IFGJHFNK_01031	gene	purL_3		
+IFGJHFNK_01032	CDS	glmS_5	2.6.1.16	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+IFGJHFNK_01032	gene	glmS_5		
+IFGJHFNK_01033	CDS			hypothetical protein
+IFGJHFNK_01033	gene			
+IFGJHFNK_01034	CDS			hypothetical protein
+IFGJHFNK_01034	gene			
+IFGJHFNK_01035	CDS	purC_2	6.3.2.6	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+IFGJHFNK_01035	gene	purC_2		
+IFGJHFNK_01036	CDS	kefB_1		Glutathione-regulated potassium-efflux system protein KefB
+IFGJHFNK_01036	gene	kefB_1		
+IFGJHFNK_01037	CDS	MCM_2	3.6.4.12	Minichromosome maintenance protein MCM
+IFGJHFNK_01037	gene	MCM_2		
+IFGJHFNK_01038	CDS			hypothetical protein
+IFGJHFNK_01038	gene			
+IFGJHFNK_01039	CDS	rps7		30S ribosomal protein S7
+IFGJHFNK_01039	gene	rps7		
+IFGJHFNK_01040	tRNA			tRNA-Gln(ctg)
+IFGJHFNK_01040	gene			
+IFGJHFNK_01041	CDS			hypothetical protein
+IFGJHFNK_01041	gene			
+IFGJHFNK_01042	CDS			hypothetical protein
+IFGJHFNK_01042	gene			
+IFGJHFNK_01043	CDS			hypothetical protein
+IFGJHFNK_01043	gene			
+IFGJHFNK_01044	CDS	leuS_3	6.1.1.4	Leucine--tRNA ligase
+IFGJHFNK_01044	gene	leuS_3		
+IFGJHFNK_01045	CDS		1.1.1.373	3-sulfolactaldehyde reductase
+IFGJHFNK_01045	gene			
+IFGJHFNK_01046	CDS	rhaD_3	1.1.1.377	L-rhamnose 1-dehydrogenase (NADP(+))
+IFGJHFNK_01046	gene	rhaD_3		
+IFGJHFNK_01047	CDS			hypothetical protein
+IFGJHFNK_01047	gene			
+IFGJHFNK_01048	CDS			hypothetical protein
+IFGJHFNK_01048	gene			
+IFGJHFNK_01049	CDS			hypothetical protein
+IFGJHFNK_01049	gene			
+IFGJHFNK_01050	CDS		1.3.7.11	Digeranylgeranylglycerophospholipid reductase
+IFGJHFNK_01050	gene			
+IFGJHFNK_01051	CDS	tam	2.1.1.144	Trans-aconitate 2-methyltransferase
+IFGJHFNK_01051	gene	tam		
+IFGJHFNK_01052	CDS			hypothetical protein
+IFGJHFNK_01052	gene			
+IFGJHFNK_01053	CDS			hypothetical protein
+IFGJHFNK_01053	gene			
+IFGJHFNK_01054	CDS	pycA_1	6.4.1.1	Pyruvate carboxylase subunit A
+IFGJHFNK_01054	gene	pycA_1		
+IFGJHFNK_01055	CDS	cpdA_3	3.1.4.53	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+IFGJHFNK_01055	gene	cpdA_3		
+IFGJHFNK_01056	CDS			hypothetical protein
+IFGJHFNK_01056	gene			
+IFGJHFNK_01057	CDS			hypothetical protein
+IFGJHFNK_01057	gene			
+IFGJHFNK_01058	CDS	pyrD_1	1.3.-.-	Dihydroorotate dehydrogenase
+IFGJHFNK_01058	gene	pyrD_1		
+IFGJHFNK_01059	CDS			putative NOP5 family protein
+IFGJHFNK_01059	gene			
+IFGJHFNK_01060	CDS	flpA	2.1.1.-	Fibrillarin-like rRNA/tRNA 2'-O-methyltransferase
+IFGJHFNK_01060	gene	flpA		
+IFGJHFNK_01061	CDS	rnhB	3.1.26.4	Ribonuclease HII
+IFGJHFNK_01061	gene	rnhB		
+IFGJHFNK_01062	CDS	trm1	2.1.1.216	tRNA (guanine(26)-N(2))-dimethyltransferase
+IFGJHFNK_01062	gene	trm1		
+IFGJHFNK_01063	CDS			hypothetical protein
+IFGJHFNK_01063	gene			
+IFGJHFNK_01064	CDS	kefB_2		Glutathione-regulated potassium-efflux system protein KefB
+IFGJHFNK_01064	gene	kefB_2		
+IFGJHFNK_01065	CDS			hypothetical protein
+IFGJHFNK_01065	gene			
+IFGJHFNK_01066	CDS			hypothetical protein
+IFGJHFNK_01066	gene			
+IFGJHFNK_01067	CDS			hypothetical protein
+IFGJHFNK_01067	gene			
+IFGJHFNK_01068	CDS	garR_1	1.1.1.60	2-hydroxy-3-oxopropionate reductase
+IFGJHFNK_01068	gene	garR_1		
+IFGJHFNK_01069	CDS	rhaD_4	1.1.1.377	L-rhamnose 1-dehydrogenase (NADP(+))
+IFGJHFNK_01069	gene	rhaD_4		
+IFGJHFNK_01070	CDS			hypothetical protein
+IFGJHFNK_01070	gene			
+IFGJHFNK_01071	CDS			hypothetical protein
+IFGJHFNK_01071	gene			
+IFGJHFNK_01072	CDS			hypothetical protein
+IFGJHFNK_01072	gene			
+IFGJHFNK_01073	CDS	acdBI_2	6.2.1.13	Acetate--CoA ligase [ADP-forming] I subunit beta
+IFGJHFNK_01073	gene	acdBI_2		
+IFGJHFNK_01074	CDS	hacA_1	4.2.1.114	Methanogen homoaconitase large subunit
+IFGJHFNK_01074	gene	hacA_1		
+IFGJHFNK_01075	tRNA			tRNA-Trp(cca)
+IFGJHFNK_01075	gene			
+IFGJHFNK_01076	CDS			hypothetical protein
+IFGJHFNK_01076	gene			
+IFGJHFNK_01077	CDS	pdxS	4.3.3.6	Pyridoxal 5'-phosphate synthase subunit PdxS
+IFGJHFNK_01077	gene	pdxS		
+IFGJHFNK_01078	CDS	pdxT_2	4.3.3.6	Pyridoxal 5'-phosphate synthase subunit PdxT
+IFGJHFNK_01078	gene	pdxT_2		
+IFGJHFNK_01079	CDS			hypothetical protein
+IFGJHFNK_01079	gene			
+IFGJHFNK_01080	CDS			putative ribosome biogenesis protein
+IFGJHFNK_01080	gene			
+IFGJHFNK_01081	CDS			hypothetical protein
+IFGJHFNK_01081	gene			
+IFGJHFNK_01082	CDS			hypothetical protein
+IFGJHFNK_01082	gene			
+IFGJHFNK_01083	CDS			hypothetical protein
+IFGJHFNK_01083	gene			
+IFGJHFNK_01084	tRNA			tRNA-Lys(ctt)
+IFGJHFNK_01084	gene			
+IFGJHFNK_01085	CDS			hypothetical protein
+IFGJHFNK_01085	gene			
+IFGJHFNK_01086	CDS			hypothetical protein
+IFGJHFNK_01086	gene			
+IFGJHFNK_01087	CDS	ctaA	1.3.-.-	Heme A synthase
+IFGJHFNK_01087	gene	ctaA		
+IFGJHFNK_01088	CDS	petE_4		Plastocyanin
+IFGJHFNK_01088	gene	petE_4		
+IFGJHFNK_01089	CDS	hacB	4.2.1.114	Methanogen homoaconitase small subunit
+IFGJHFNK_01089	gene	hacB		
+IFGJHFNK_01090	CDS	rps9		30S ribosomal protein S9
+IFGJHFNK_01090	gene	rps9		
+IFGJHFNK_01091	CDS			50S ribosomal protein L13
+IFGJHFNK_01091	gene			
+IFGJHFNK_01092	CDS			50S ribosomal protein L18e
+IFGJHFNK_01092	gene			
+IFGJHFNK_01093	CDS	rpoD_2	2.7.7.6	DNA-directed RNA polymerase subunit D
+IFGJHFNK_01093	gene	rpoD_2		
+IFGJHFNK_01094	CDS			Ribosome maturation protein SDO1 
+IFGJHFNK_01094	gene			
+IFGJHFNK_01095	CDS	rrp4_2		Exosome complex component Rrp4
+IFGJHFNK_01095	gene	rrp4_2		
+IFGJHFNK_01096	CDS			hypothetical protein
+IFGJHFNK_01096	gene			
+IFGJHFNK_01097	CDS			hypothetical protein
+IFGJHFNK_01097	gene			
+IFGJHFNK_01098	CDS			hypothetical protein
+IFGJHFNK_01098	gene			
+IFGJHFNK_01099	CDS		2.5.1.41	Geranylgeranylglyceryl phosphate synthase
+IFGJHFNK_01099	gene			
+IFGJHFNK_01100	CDS	bioF_1	2.3.1.47	8-amino-7-oxononanoate synthase
+IFGJHFNK_01100	gene	bioF_1		
+IFGJHFNK_01101	CDS			hypothetical protein
+IFGJHFNK_01101	gene			
+IFGJHFNK_01102	CDS			hypothetical protein
+IFGJHFNK_01102	gene			
+IFGJHFNK_01103	CDS	resA_1		Thiol-disulfide oxidoreductase ResA
+IFGJHFNK_01103	gene	resA_1		
+IFGJHFNK_01104	CDS	argS_1	6.1.1.19	Arginine--tRNA ligase
+IFGJHFNK_01104	gene	argS_1		
+IFGJHFNK_01105	CDS		3.1.3.18	Phosphoglycolate phosphatase
+IFGJHFNK_01105	gene			
+IFGJHFNK_01106	CDS	ppsA_2	2.7.9.2	Phosphoenolpyruvate synthase
+IFGJHFNK_01106	gene	ppsA_2		
+IFGJHFNK_01107	CDS			hypothetical protein
+IFGJHFNK_01107	gene			
+IFGJHFNK_01108	CDS		5.1.99.1	Methylmalonyl-CoA epimerase
+IFGJHFNK_01108	gene			
+IFGJHFNK_01109	CDS			hypothetical protein
+IFGJHFNK_01109	gene			
+IFGJHFNK_01110	CDS	mqnD_1	4.1.-.-	1,4-dihydroxy-6-naphtoate synthase
+IFGJHFNK_01110	gene	mqnD_1		
+IFGJHFNK_01111	CDS			hypothetical protein
+IFGJHFNK_01111	gene			
+IFGJHFNK_01112	CDS	smc_4		Chromosome partition protein Smc
+IFGJHFNK_01112	gene	smc_4		
+IFGJHFNK_01113	CDS			hypothetical protein
+IFGJHFNK_01113	gene			
+IFGJHFNK_01114	CDS			hypothetical protein
+IFGJHFNK_01114	gene			
+IFGJHFNK_01115	CDS	idi_1	5.3.3.2	Isopentenyl-diphosphate Delta-isomerase
+IFGJHFNK_01115	gene	idi_1		
+IFGJHFNK_01116	CDS		2.7.4.26	Isopentenyl phosphate kinase
+IFGJHFNK_01116	gene			
+IFGJHFNK_01117	CDS	mvk	2.7.1.36	Mevalonate kinase
+IFGJHFNK_01117	gene	mvk		
+IFGJHFNK_01118	CDS	rps2		30S ribosomal protein S2
+IFGJHFNK_01118	gene	rps2		
+IFGJHFNK_01119	CDS	eno	4.2.1.11	Enolase
+IFGJHFNK_01119	gene	eno		
+IFGJHFNK_01120	CDS	rpoN	2.7.7.6	DNA-directed RNA polymerase subunit N
+IFGJHFNK_01120	gene	rpoN		
+IFGJHFNK_01121	tRNA			tRNA-Leu(gag)
+IFGJHFNK_01121	gene			
+IFGJHFNK_01122	CDS			hypothetical protein
+IFGJHFNK_01122	gene			
+IFGJHFNK_01123	CDS	nnrE	5.1.99.6	NAD(P)H-hydrate epimerase
+IFGJHFNK_01123	gene	nnrE		
+IFGJHFNK_01124	CDS	rutE_5	1.-.-.-	malonic semialdehyde reductase RutE
+IFGJHFNK_01124	gene	rutE_5		
+IFGJHFNK_01125	CDS			hypothetical protein
+IFGJHFNK_01125	gene			
+IFGJHFNK_01126	CDS			hypothetical protein
+IFGJHFNK_01126	gene			
+IFGJHFNK_01127	CDS			hypothetical protein
+IFGJHFNK_01127	gene			
+IFGJHFNK_01128	CDS			hypothetical protein
+IFGJHFNK_01128	gene			
+IFGJHFNK_01129	CDS	metG_4	6.1.1.10	Methionine--tRNA ligase
+IFGJHFNK_01129	gene	metG_4		
+IFGJHFNK_01130	CDS	ahcY_1	3.3.1.1	Adenosylhomocysteinase
+IFGJHFNK_01130	gene	ahcY_1		
+IFGJHFNK_01131	CDS	hcaC_1		3-phenylpropionate/cinnamic acid dioxygenase ferredoxin subunit
+IFGJHFNK_01131	gene	hcaC_1		
+IFGJHFNK_01132	CDS	nadE_1	6.3.1.5	putative NH(3)-dependent NAD(+) synthetase
+IFGJHFNK_01132	gene	nadE_1		
+IFGJHFNK_01133	CDS	cdvC_3		Cell division protein C
+IFGJHFNK_01133	gene	cdvC_3		
+IFGJHFNK_01134	CDS	guaAA_5	6.3.5.2	GMP synthase [glutamine-hydrolyzing] subunit A
+IFGJHFNK_01134	gene	guaAA_5		
+IFGJHFNK_01135	CDS	pycA_2	6.4.1.1	Pyruvate carboxylase subunit A
+IFGJHFNK_01135	gene	pycA_2		
+IFGJHFNK_01136	CDS	cpdA_4	3.1.4.53	3',5'-cyclic adenosine monophosphate phosphodiesterase CpdA
+IFGJHFNK_01136	gene	cpdA_4		
+IFGJHFNK_01137	CDS			hypothetical protein
+IFGJHFNK_01137	gene			
+IFGJHFNK_01138	CDS			hypothetical protein
+IFGJHFNK_01138	gene			
+IFGJHFNK_01139	CDS			hypothetical protein
+IFGJHFNK_01139	gene			
+IFGJHFNK_01140	CDS	xpf_3		3'-flap repair endonuclease Xpf
+IFGJHFNK_01140	gene	xpf_3		
+IFGJHFNK_01141	CDS	pfdB_3		Prefoldin subunit beta
+IFGJHFNK_01141	gene	pfdB_3		
+IFGJHFNK_01142	CDS	filI_4	2.7.13.3	Methanogenesis regulatory histidine kinase FilI
+IFGJHFNK_01142	gene	filI_4		
+IFGJHFNK_01143	CDS			hypothetical protein
+IFGJHFNK_01143	gene			
+IFGJHFNK_01144	CDS			hypothetical protein
+IFGJHFNK_01144	gene			
+IFGJHFNK_01145	CDS		3.-.-.-	putative metallohydrolase
+IFGJHFNK_01145	gene			
+IFGJHFNK_01146	CDS	nnrD_2	4.2.1.136	ADP-dependent (S)-NAD(P)H-hydrate dehydratase
+IFGJHFNK_01146	gene	nnrD_2		
+IFGJHFNK_01147	CDS			hypothetical protein
+IFGJHFNK_01147	gene			
+IFGJHFNK_01148	CDS	argH_2	4.3.2.1	Argininosuccinate lyase
+IFGJHFNK_01148	gene	argH_2		
+IFGJHFNK_01149	CDS			hypothetical protein
+IFGJHFNK_01149	gene			
+IFGJHFNK_01150	CDS			hypothetical protein
+IFGJHFNK_01150	gene			
+IFGJHFNK_01151	CDS			hypothetical protein
+IFGJHFNK_01151	gene			
+IFGJHFNK_01152	CDS			Universal stress protein
+IFGJHFNK_01152	gene			
+IFGJHFNK_01153	CDS			hypothetical protein
+IFGJHFNK_01153	gene			
+IFGJHFNK_01154	CDS			hypothetical protein
+IFGJHFNK_01154	gene			
+IFGJHFNK_01155	CDS		4.2.1.96	Putative pterin-4-alpha-carbinolamine dehydratase
+IFGJHFNK_01155	gene			
+IFGJHFNK_01156	CDS			hypothetical protein
+IFGJHFNK_01156	gene			
+IFGJHFNK_01157	CDS	leuC_1	4.2.1.33	Isopropylmalate/citramalate isomerase large subunit
+IFGJHFNK_01157	gene	leuC_1		
+IFGJHFNK_01158	CDS	leuD_1	4.2.1.33	Isopropylmalate/citramalate isomerase small subunit
+IFGJHFNK_01158	gene	leuD_1		
+IFGJHFNK_01159	CDS	hacA_2	4.2.1.114	Methanogen homoaconitase large subunit
+IFGJHFNK_01159	gene	hacA_2		
+IFGJHFNK_01160	CDS	leuD_2	4.2.1.33	Isopropylmalate/citramalate isomerase small subunit
+IFGJHFNK_01160	gene	leuD_2		
+IFGJHFNK_01161	CDS	glmU_1		Bifunctional protein GlmU
+IFGJHFNK_01161	gene	glmU_1		
+IFGJHFNK_01162	CDS	tfb_4		Transcription initiation factor IIB
+IFGJHFNK_01162	gene	tfb_4		
+IFGJHFNK_01163	CDS			Na(+)/H(+) antiporter 1
+IFGJHFNK_01163	gene			
+IFGJHFNK_01164	CDS			hypothetical protein
+IFGJHFNK_01164	gene			
+IFGJHFNK_01165	CDS	glmU_2		Bifunctional protein GlmU
+IFGJHFNK_01165	gene	glmU_2		
+IFGJHFNK_01166	CDS	leuD_3	4.2.1.33	Isopropylmalate/citramalate isomerase small subunit
+IFGJHFNK_01166	gene	leuD_3		
+IFGJHFNK_01167	CDS	hacA_3	4.2.1.114	Methanogen homoaconitase large subunit
+IFGJHFNK_01167	gene	hacA_3		
+IFGJHFNK_01168	CDS	leuD_4	4.2.1.33	Isopropylmalate/citramalate isomerase small subunit
+IFGJHFNK_01168	gene	leuD_4		
+IFGJHFNK_01169	CDS	leuC_2	4.2.1.33	Isopropylmalate/citramalate isomerase large subunit
+IFGJHFNK_01169	gene	leuC_2		
+IFGJHFNK_01170	CDS	cofE_2	6.3.2.31	Coenzyme F420:L-glutamate ligase
+IFGJHFNK_01170	gene	cofE_2		
+IFGJHFNK_01171	CDS			hypothetical protein
+IFGJHFNK_01171	gene			
+IFGJHFNK_01172	CDS			hypothetical protein
+IFGJHFNK_01172	gene			
+IFGJHFNK_01173	CDS			hypothetical protein
+IFGJHFNK_01173	gene			
+IFGJHFNK_01174	CDS			hypothetical protein
+IFGJHFNK_01174	gene			
+IFGJHFNK_01175	CDS	korB_1	1.2.7.3	2-oxoglutarate synthase subunit KorB
+IFGJHFNK_01175	gene	korB_1		
+IFGJHFNK_01176	CDS			hypothetical protein
+IFGJHFNK_01176	gene			
+IFGJHFNK_01177	CDS	gap_1	1.2.1.59	Glyceraldehyde-3-phosphate dehydrogenase
+IFGJHFNK_01177	gene	gap_1		
+IFGJHFNK_01178	CDS			hypothetical protein
+IFGJHFNK_01178	gene			
+IFGJHFNK_01179	CDS			hypothetical protein
+IFGJHFNK_01179	gene			
+IFGJHFNK_01180	CDS			hypothetical protein
+IFGJHFNK_01180	gene			
+IFGJHFNK_01181	CDS			hypothetical protein
+IFGJHFNK_01181	gene			
+IFGJHFNK_01182	CDS	hmgB_1	2.3.3.10	Hydroxymethylglutaryl-CoA synthase
+IFGJHFNK_01182	gene	hmgB_1		
+IFGJHFNK_01183	CDS			hypothetical protein
+IFGJHFNK_01183	gene			
+IFGJHFNK_01184	CDS			hypothetical protein
+IFGJHFNK_01184	gene			
+IFGJHFNK_01185	CDS			hypothetical protein
+IFGJHFNK_01185	gene			
+IFGJHFNK_01186	CDS			hypothetical protein
+IFGJHFNK_01186	gene			
+IFGJHFNK_01187	CDS			hypothetical protein
+IFGJHFNK_01187	gene			
+IFGJHFNK_01188	CDS	filI_5	2.7.13.3	Methanogenesis regulatory histidine kinase FilI
+IFGJHFNK_01188	gene	filI_5		
+IFGJHFNK_01189	CDS	bioD_2	6.3.3.3	ATP-dependent dethiobiotin synthetase BioD
+IFGJHFNK_01189	gene	bioD_2		
+IFGJHFNK_01190	CDS			hypothetical protein
+IFGJHFNK_01190	gene			
+IFGJHFNK_01191	CDS			hypothetical protein
+IFGJHFNK_01191	gene			
+IFGJHFNK_01192	CDS			hypothetical protein
+IFGJHFNK_01192	gene			
+IFGJHFNK_01193	CDS			hypothetical protein
+IFGJHFNK_01193	gene			
+IFGJHFNK_01194	CDS	rtcB_1	6.5.1.-	tRNA-splicing ligase RtcB
+IFGJHFNK_01194	gene	rtcB_1		
+IFGJHFNK_01195	CDS			hypothetical protein
+IFGJHFNK_01195	gene			
+IFGJHFNK_01196	CDS			hypothetical protein
+IFGJHFNK_01196	gene			
+IFGJHFNK_01197	CDS			30S ribosomal protein S11
+IFGJHFNK_01197	gene			
+IFGJHFNK_01198	CDS	lig_1	6.5.1.1	DNA ligase
+IFGJHFNK_01198	gene	lig_1		
+IFGJHFNK_01199	CDS			hypothetical protein
+IFGJHFNK_01199	gene			
+IFGJHFNK_01200	CDS	fbp_1	3.1.3.11	Fructose-1,6-bisphosphate aldolase/phosphatase
+IFGJHFNK_01200	gene	fbp_1		
+IFGJHFNK_01201	CDS	lig_2	6.5.1.1	DNA ligase
+IFGJHFNK_01201	gene	lig_2		
+IFGJHFNK_01202	CDS			hypothetical protein
+IFGJHFNK_01202	gene			
+IFGJHFNK_01203	CDS			hypothetical protein
+IFGJHFNK_01203	gene			
+IFGJHFNK_01204	CDS			hypothetical protein
+IFGJHFNK_01204	gene			
+IFGJHFNK_01205	CDS			hypothetical protein
+IFGJHFNK_01205	gene			
+IFGJHFNK_01206	CDS			hypothetical protein
+IFGJHFNK_01206	gene			
+IFGJHFNK_01207	CDS	mntR_2		Transcriptional regulator MntR
+IFGJHFNK_01207	gene	mntR_2		
+IFGJHFNK_01208	CDS			putative KH and PIN-domain containing protein
+IFGJHFNK_01208	gene			
+IFGJHFNK_01209	CDS	cheY_1		Chemotaxis protein CheY
+IFGJHFNK_01209	gene	cheY_1		
+IFGJHFNK_01210	CDS			hypothetical protein
+IFGJHFNK_01210	gene			
+IFGJHFNK_01211	CDS	filI_6	2.7.13.3	Methanogenesis regulatory histidine kinase FilI
+IFGJHFNK_01211	gene	filI_6		
+IFGJHFNK_01212	CDS			hypothetical protein
+IFGJHFNK_01212	gene			
+IFGJHFNK_01213	CDS	tldD_1	3.4.-.-	Zinc metalloprotease TldD 
+IFGJHFNK_01213	gene	tldD_1		
+IFGJHFNK_01214	CDS			hypothetical protein
+IFGJHFNK_01214	gene			
+IFGJHFNK_01215	CDS		3.2.2.-	Putative 3-methyladenine DNA glycosylase
+IFGJHFNK_01215	gene			
+IFGJHFNK_01216	CDS			hypothetical protein
+IFGJHFNK_01216	gene			
+IFGJHFNK_01217	CDS			hypothetical protein
+IFGJHFNK_01217	gene			
+IFGJHFNK_01218	CDS			hypothetical protein
+IFGJHFNK_01218	gene			
+IFGJHFNK_01219	CDS	malK_2	3.6.3.19	Trehalose/maltose import ATP-binding protein MalK
+IFGJHFNK_01219	gene	malK_2		
+IFGJHFNK_01220	CDS	proS_3	6.1.1.15	Proline--tRNA ligase
+IFGJHFNK_01220	gene	proS_3		
+IFGJHFNK_01221	CDS	nfo_2	3.1.21.2	endonuclease 4
+IFGJHFNK_01221	gene	nfo_2		
+IFGJHFNK_01222	CDS	priL		DNA primase large subunit PriL
+IFGJHFNK_01222	gene	priL		
+IFGJHFNK_01223	CDS	priS	2.7.7.-	DNA primase small subunit PriS
+IFGJHFNK_01223	gene	priS		
+IFGJHFNK_01224	CDS			hypothetical protein
+IFGJHFNK_01224	gene			
+IFGJHFNK_01225	CDS			hypothetical protein
+IFGJHFNK_01225	gene			
+IFGJHFNK_01226	CDS			hypothetical protein
+IFGJHFNK_01226	gene			
+IFGJHFNK_01227	CDS			hypothetical protein
+IFGJHFNK_01227	gene			
+IFGJHFNK_01228	CDS			hypothetical protein
+IFGJHFNK_01228	gene			
+IFGJHFNK_01229	CDS	truD_3	5.4.99.27	putative tRNA pseudouridine synthase D
+IFGJHFNK_01229	gene	truD_3		
+IFGJHFNK_01230	CDS	vgb_4	4.2.99.-	Virginiamycin B lyase
+IFGJHFNK_01230	gene	vgb_4		
+IFGJHFNK_01231	CDS			Small heat shock protein HSP16.5
+IFGJHFNK_01231	gene			
+IFGJHFNK_01232	CDS	ubiB_2	2.7.-.-	protein kinase UbiB
+IFGJHFNK_01232	gene	ubiB_2		
+IFGJHFNK_01233	CDS			hypothetical protein
+IFGJHFNK_01233	gene			
+IFGJHFNK_01234	CDS			hypothetical protein
+IFGJHFNK_01234	gene			
+IFGJHFNK_01235	CDS			hypothetical protein
+IFGJHFNK_01235	gene			
+IFGJHFNK_01236	CDS			hypothetical protein
+IFGJHFNK_01236	gene			
+IFGJHFNK_01237	CDS			hypothetical protein
+IFGJHFNK_01237	gene			
+IFGJHFNK_01238	CDS			putative HTH-type transcriptional regulator
+IFGJHFNK_01238	gene			
+IFGJHFNK_01239	CDS		1.3.1.76	Precorrin-2 dehydrogenase
+IFGJHFNK_01239	gene			
+IFGJHFNK_01240	CDS			hypothetical protein
+IFGJHFNK_01240	gene			
+IFGJHFNK_01241	CDS			hypothetical protein
+IFGJHFNK_01241	gene			
+IFGJHFNK_01242	CDS			50S ribosomal protein L12
+IFGJHFNK_01242	gene			
+IFGJHFNK_01243	CDS			hypothetical protein
+IFGJHFNK_01243	gene			
+IFGJHFNK_01244	CDS			50S ribosomal protein L10
+IFGJHFNK_01244	gene			
+IFGJHFNK_01245	CDS	rpl1_3		50S ribosomal protein L1
+IFGJHFNK_01245	gene	rpl1_3		
+IFGJHFNK_01246	CDS	ptr2_1		HTH-type transcriptional regulator Ptr2
+IFGJHFNK_01246	gene	ptr2_1		
+IFGJHFNK_01247	CDS			50S ribosomal protein L11
+IFGJHFNK_01247	gene			
+IFGJHFNK_01248	CDS	spt5_2		Transcription elongation factor Spt5
+IFGJHFNK_01248	gene	spt5_2		
+IFGJHFNK_01249	CDS			hypothetical protein
+IFGJHFNK_01249	gene			
+IFGJHFNK_01250	CDS	dtdA	3.1.1.96	D-aminoacyl-tRNA deacylase
+IFGJHFNK_01250	gene	dtdA		
+IFGJHFNK_01251	CDS	ogt	2.1.1.63	Methylated-DNA--protein-cysteine methyltransferase
+IFGJHFNK_01251	gene	ogt		
+IFGJHFNK_01252	CDS			50S ribosomal protein L19e
+IFGJHFNK_01252	gene			
+IFGJHFNK_01253	CDS			50S ribosomal protein L32e
+IFGJHFNK_01253	gene			
+IFGJHFNK_01254	CDS			hypothetical protein
+IFGJHFNK_01254	gene			
+IFGJHFNK_01255	CDS			hypothetical protein
+IFGJHFNK_01255	gene			
+IFGJHFNK_01256	CDS			hypothetical protein
+IFGJHFNK_01256	gene			
+IFGJHFNK_01257	CDS			hypothetical protein
+IFGJHFNK_01257	gene			
+IFGJHFNK_01258	CDS			hypothetical protein
+IFGJHFNK_01258	gene			
+IFGJHFNK_01259	CDS	mqnD_2	4.1.-.-	1,4-dihydroxy-6-naphtoate synthase
+IFGJHFNK_01259	gene	mqnD_2		
+IFGJHFNK_01260	CDS			hypothetical protein
+IFGJHFNK_01260	gene			
+IFGJHFNK_01261	CDS			hypothetical protein
+IFGJHFNK_01261	gene			
+IFGJHFNK_01262	CDS			hypothetical protein
+IFGJHFNK_01262	gene			
+IFGJHFNK_01263	CDS	cofH_5	2.5.1.77	FO synthase subunit 2
+IFGJHFNK_01263	gene	cofH_5		
+IFGJHFNK_01264	CDS			hypothetical protein
+IFGJHFNK_01264	gene			
+IFGJHFNK_01265	CDS	mqnD_3	4.1.-.-	1,4-dihydroxy-6-naphtoate synthase
+IFGJHFNK_01265	gene	mqnD_3		
+IFGJHFNK_01266	CDS			hypothetical protein
+IFGJHFNK_01266	gene			
+IFGJHFNK_01267	CDS	smc_5		Chromosome partition protein Smc
+IFGJHFNK_01267	gene	smc_5		
+IFGJHFNK_01268	CDS			hypothetical protein
+IFGJHFNK_01268	gene			
+IFGJHFNK_01269	CDS			hypothetical protein
+IFGJHFNK_01269	gene			
+IFGJHFNK_01270	CDS	cofH_6	2.5.1.77	FO synthase subunit 2
+IFGJHFNK_01270	gene	cofH_6		
+IFGJHFNK_01271	CDS			hypothetical protein
+IFGJHFNK_01271	gene			
+IFGJHFNK_01272	CDS			hypothetical protein
+IFGJHFNK_01272	gene			
+IFGJHFNK_01273	CDS			hypothetical protein
+IFGJHFNK_01273	gene			
+IFGJHFNK_01274	CDS	fosB	2.5.1.-	Metallothiol transferase FosB
+IFGJHFNK_01274	gene	fosB		
+IFGJHFNK_01275	CDS			hypothetical protein
+IFGJHFNK_01275	gene			
+IFGJHFNK_01276	CDS			hypothetical protein
+IFGJHFNK_01276	gene			
+IFGJHFNK_01277	CDS			hypothetical protein
+IFGJHFNK_01277	gene			
+IFGJHFNK_01278	CDS			hypothetical protein
+IFGJHFNK_01278	gene			
+IFGJHFNK_01279	CDS			hypothetical protein
+IFGJHFNK_01279	gene			
+IFGJHFNK_01280	CDS			hypothetical protein
+IFGJHFNK_01280	gene			
+IFGJHFNK_01281	CDS	spt4		Transcription elongation factor Spt4
+IFGJHFNK_01281	gene	spt4		
+IFGJHFNK_01282	CDS	rpoE1	2.7.7.6	DNA-directed RNA polymerase subunit E'
+IFGJHFNK_01282	gene	rpoE1		
+IFGJHFNK_01283	CDS			Iron-sulfur cluster carrier protein
+IFGJHFNK_01283	gene			
+IFGJHFNK_01284	CDS			hypothetical protein
+IFGJHFNK_01284	gene			
+IFGJHFNK_01285	CDS			hypothetical protein
+IFGJHFNK_01285	gene			
+IFGJHFNK_01286	CDS	endA_1	4.6.1.16	tRNA-splicing endonuclease
+IFGJHFNK_01286	gene	endA_1		
+IFGJHFNK_01287	CDS			hypothetical protein
+IFGJHFNK_01287	gene			
+IFGJHFNK_01288	CDS			hypothetical protein
+IFGJHFNK_01288	gene			
+IFGJHFNK_01289	CDS	rhaD_5	1.1.1.377	L-rhamnose 1-dehydrogenase (NADP(+))
+IFGJHFNK_01289	gene	rhaD_5		
+IFGJHFNK_01290	CDS			hypothetical protein
+IFGJHFNK_01290	gene			
+IFGJHFNK_01291	CDS			hypothetical protein
+IFGJHFNK_01291	gene			
+IFGJHFNK_01292	CDS			hypothetical protein
+IFGJHFNK_01292	gene			
+IFGJHFNK_01293	CDS			hypothetical protein
+IFGJHFNK_01293	gene			
+IFGJHFNK_01294	CDS			hypothetical protein
+IFGJHFNK_01294	gene			
+IFGJHFNK_01295	CDS			hypothetical protein
+IFGJHFNK_01295	gene			
+IFGJHFNK_01296	CDS	mntR_3		Transcriptional regulator MntR
+IFGJHFNK_01296	gene	mntR_3		
+IFGJHFNK_01297	CDS			putative KH and PIN-domain containing protein
+IFGJHFNK_01297	gene			
+IFGJHFNK_01298	CDS			hypothetical protein
+IFGJHFNK_01298	gene			
+IFGJHFNK_01299	CDS	resA_2		Thiol-disulfide oxidoreductase ResA
+IFGJHFNK_01299	gene	resA_2		
+IFGJHFNK_01300	CDS			hypothetical protein
+IFGJHFNK_01300	gene			
+IFGJHFNK_01301	CDS	crcB		Putative fluoride ion transporter CrcB
+IFGJHFNK_01301	gene	crcB		
+IFGJHFNK_01302	CDS			hypothetical protein
+IFGJHFNK_01302	gene			
+IFGJHFNK_01303	CDS			hypothetical protein
+IFGJHFNK_01303	gene			
+IFGJHFNK_01304	CDS			hypothetical protein
+IFGJHFNK_01304	gene			
+IFGJHFNK_01305	CDS			hypothetical protein
+IFGJHFNK_01305	gene			
+IFGJHFNK_01306	CDS			hypothetical protein
+IFGJHFNK_01306	gene			
+IFGJHFNK_01307	CDS	purL_4	6.3.5.3	Phosphoribosylformylglycinamidine synthase subunit PurL
+IFGJHFNK_01307	gene	purL_4		
+IFGJHFNK_01308	CDS	glmS_6	2.6.1.16	Glutamine--fructose-6-phosphate aminotransferase [isomerizing]
+IFGJHFNK_01308	gene	glmS_6		
+IFGJHFNK_01309	CDS			hypothetical protein
+IFGJHFNK_01309	gene			
+IFGJHFNK_01310	CDS			hypothetical protein
+IFGJHFNK_01310	gene			
+IFGJHFNK_01311	CDS			hypothetical protein
+IFGJHFNK_01311	gene			
+IFGJHFNK_01312	CDS			hypothetical protein
+IFGJHFNK_01312	gene			
+IFGJHFNK_01313	CDS			hypothetical protein
+IFGJHFNK_01313	gene			
+IFGJHFNK_01314	CDS			hypothetical protein
+IFGJHFNK_01314	gene			
+IFGJHFNK_01315	CDS			hypothetical protein
+IFGJHFNK_01315	gene			
+IFGJHFNK_01316	CDS			hypothetical protein
+IFGJHFNK_01316	gene			
+IFGJHFNK_01317	CDS	trmB_2		HTH-type sugar sensing transcriptional regulator TrmB
+IFGJHFNK_01317	gene	trmB_2		
+IFGJHFNK_01318	CDS			hypothetical protein
+IFGJHFNK_01318	gene			
+IFGJHFNK_01319	CDS			hypothetical protein
+IFGJHFNK_01319	gene			
+IFGJHFNK_01320	CDS			hypothetical protein
+IFGJHFNK_01320	gene			
+IFGJHFNK_01321	CDS			hypothetical protein
+IFGJHFNK_01321	gene			
+IFGJHFNK_01322	CDS			hypothetical protein
+IFGJHFNK_01322	gene			
+IFGJHFNK_01323	CDS	fpoD_1	1.12.98.3	F(420)H(2) dehydrogenase subunit D
+IFGJHFNK_01323	gene	fpoD_1		
+IFGJHFNK_01324	CDS	fpoC_1	1.12.98.3	F(420)H(2) dehydrogenase subunit C
+IFGJHFNK_01324	gene	fpoC_1		
+IFGJHFNK_01325	CDS	fpoB_1	1.12.98.3	F(420)H(2) dehydrogenase subunit B
+IFGJHFNK_01325	gene	fpoB_1		
+IFGJHFNK_01326	CDS			hypothetical protein
+IFGJHFNK_01326	gene			
+IFGJHFNK_01327	CDS	tfb_5		Transcription initiation factor IIB
+IFGJHFNK_01327	gene	tfb_5		
+IFGJHFNK_01328	CDS			hypothetical protein
+IFGJHFNK_01328	gene			
+IFGJHFNK_01329	CDS	ychF_3		Ribosome-binding ATPase YchF
+IFGJHFNK_01329	gene	ychF_3		
+IFGJHFNK_01330	CDS			hypothetical protein
+IFGJHFNK_01330	gene			
+IFGJHFNK_01331	CDS		6.2.1.13	Acetate--CoA ligase [ADP-forming] II
+IFGJHFNK_01331	gene			
+IFGJHFNK_01332	CDS			hypothetical protein
+IFGJHFNK_01332	gene			
+IFGJHFNK_01333	CDS		6.3.4.15	Putative biotin ligase
+IFGJHFNK_01333	gene			
+IFGJHFNK_01334	CDS			hypothetical protein
+IFGJHFNK_01334	gene			
+IFGJHFNK_01335	CDS			hypothetical protein
+IFGJHFNK_01335	gene			
+IFGJHFNK_01336	CDS	hcy		Halocyanin
+IFGJHFNK_01336	gene	hcy		
+IFGJHFNK_01337	CDS			hypothetical protein
+IFGJHFNK_01337	gene			
+IFGJHFNK_01338	CDS			hypothetical protein
+IFGJHFNK_01338	gene			
+IFGJHFNK_01339	CDS	guaB_13	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+IFGJHFNK_01339	gene	guaB_13		
+IFGJHFNK_01340	CDS	erpA_1		Iron-sulfur cluster insertion protein ErpA
+IFGJHFNK_01340	gene	erpA_1		
+IFGJHFNK_01341	CDS			putative KH and PIN-domain containing protein
+IFGJHFNK_01341	gene			
+IFGJHFNK_01342	CDS			hypothetical protein
+IFGJHFNK_01342	gene			
+IFGJHFNK_01343	CDS	mntR_4		Transcriptional regulator MntR
+IFGJHFNK_01343	gene	mntR_4		
+IFGJHFNK_01344	CDS			hypothetical protein
+IFGJHFNK_01344	gene			
+IFGJHFNK_01345	CDS			hypothetical protein
+IFGJHFNK_01345	gene			
+IFGJHFNK_01346	CDS			hypothetical protein
+IFGJHFNK_01346	gene			
+IFGJHFNK_01347	CDS			hypothetical protein
+IFGJHFNK_01347	gene			
+IFGJHFNK_01348	CDS			hypothetical protein
+IFGJHFNK_01348	gene			
+IFGJHFNK_01349	CDS			hypothetical protein
+IFGJHFNK_01349	gene			
+IFGJHFNK_01350	CDS			hypothetical protein
+IFGJHFNK_01350	gene			
+IFGJHFNK_01351	CDS	rtcB_2	6.5.1.-	tRNA-splicing ligase RtcB
+IFGJHFNK_01351	gene	rtcB_2		
+IFGJHFNK_01352	CDS			hypothetical protein
+IFGJHFNK_01352	gene			
+IFGJHFNK_01353	CDS	atpD		V-type ATP synthase subunit D
+IFGJHFNK_01353	gene	atpD		
+IFGJHFNK_01354	CDS			hypothetical protein
+IFGJHFNK_01354	gene			
+IFGJHFNK_01355	CDS	atpH		ATP synthase subunit c
+IFGJHFNK_01355	gene	atpH		
+IFGJHFNK_01356	CDS	pyrI		Aspartate carbamoyltransferase regulatory chain
+IFGJHFNK_01356	gene	pyrI		
+IFGJHFNK_01357	CDS	pyrB_1	2.1.3.2	Aspartate carbamoyltransferase
+IFGJHFNK_01357	gene	pyrB_1		
+IFGJHFNK_01358	CDS			hypothetical protein
+IFGJHFNK_01358	gene			
+IFGJHFNK_01359	CDS	vgb_5	4.2.99.-	Virginiamycin B lyase
+IFGJHFNK_01359	gene	vgb_5		
+IFGJHFNK_01360	CDS			hypothetical protein
+IFGJHFNK_01360	gene			
+IFGJHFNK_01361	CDS			hypothetical protein
+IFGJHFNK_01361	gene			
+IFGJHFNK_01362	CDS			Universal stress protein
+IFGJHFNK_01362	gene			
+IFGJHFNK_01363	CDS	guaB_14	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+IFGJHFNK_01363	gene	guaB_14		
+IFGJHFNK_01364	CDS			hypothetical protein
+IFGJHFNK_01364	gene			
+IFGJHFNK_01365	CDS	nurA	3.1.-.-	DNA double-strand break repair nuclease NurA
+IFGJHFNK_01365	gene	nurA		
+IFGJHFNK_01366	CDS	herA_2	3.6.4.12	DNA double-strand break repair helicase HerA
+IFGJHFNK_01366	gene	herA_2		
+IFGJHFNK_01367	CDS		3.1.-.-	DNA double-strand break repair protein Mre11
+IFGJHFNK_01367	gene			
+IFGJHFNK_01368	CDS			DNA double-strand break repair Rad50 ATPase
+IFGJHFNK_01368	gene			
+IFGJHFNK_01369	CDS	petE_5		Plastocyanin
+IFGJHFNK_01369	gene	petE_5		
+IFGJHFNK_01370	CDS			HEAT repeat-containing taxis proteinF
+IFGJHFNK_01370	gene			
+IFGJHFNK_01371	CDS	resA_3		Thiol-disulfide oxidoreductase ResA
+IFGJHFNK_01371	gene	resA_3		
+IFGJHFNK_01372	CDS			hypothetical protein
+IFGJHFNK_01372	gene			
+IFGJHFNK_01373	CDS			hypothetical protein
+IFGJHFNK_01373	gene			
+IFGJHFNK_01374	CDS	tfrA_1	1.3.4.1	Fumarate reductase (CoM/CoB) subunit A
+IFGJHFNK_01374	gene	tfrA_1		
+IFGJHFNK_01375	CDS			hypothetical protein
+IFGJHFNK_01375	gene			
+IFGJHFNK_01376	CDS			hypothetical protein
+IFGJHFNK_01376	gene			
+IFGJHFNK_01377	CDS			hypothetical protein
+IFGJHFNK_01377	gene			
+IFGJHFNK_01378	CDS			hypothetical protein
+IFGJHFNK_01378	gene			
+IFGJHFNK_01379	CDS	lysX_2	6.3.2.43	Alpha-aminoadipate--LysW ligase LysX
+IFGJHFNK_01379	gene	lysX_2		
+IFGJHFNK_01380	CDS			hypothetical protein
+IFGJHFNK_01380	gene			
+IFGJHFNK_01381	CDS			hypothetical protein
+IFGJHFNK_01381	gene			
+IFGJHFNK_01382	CDS			hypothetical protein
+IFGJHFNK_01382	gene			
+IFGJHFNK_01383	CDS			hypothetical protein
+IFGJHFNK_01383	gene			
+IFGJHFNK_01384	CDS			hypothetical protein
+IFGJHFNK_01384	gene			
+IFGJHFNK_01385	CDS			hypothetical protein
+IFGJHFNK_01385	gene			
+IFGJHFNK_01386	CDS	argF_1	2.1.3.3	Ornithine carbamoyltransferase
+IFGJHFNK_01386	gene	argF_1		
+IFGJHFNK_01387	CDS			50S ribosomal protein L18
+IFGJHFNK_01387	gene			
+IFGJHFNK_01388	CDS	rps5_2		30S ribosomal protein S5
+IFGJHFNK_01388	gene	rps5_2		
+IFGJHFNK_01389	CDS			50S ribosomal protein L30
+IFGJHFNK_01389	gene			
+IFGJHFNK_01390	CDS			50S ribosomal protein L15
+IFGJHFNK_01390	gene			
+IFGJHFNK_01391	CDS			hypothetical protein
+IFGJHFNK_01391	gene			
+IFGJHFNK_01392	CDS			hypothetical protein
+IFGJHFNK_01392	gene			
+IFGJHFNK_01393	CDS	fadB	1.1.1.35	Fatty acid oxidation complex subunit alpha
+IFGJHFNK_01393	gene	fadB		
+IFGJHFNK_01394	CDS	filI_7	2.7.13.3	Methanogenesis regulatory histidine kinase FilI
+IFGJHFNK_01394	gene	filI_7		
+IFGJHFNK_01395	CDS	nosZ	1.7.2.4	Nitrous-oxide reductase
+IFGJHFNK_01395	gene	nosZ		
+IFGJHFNK_01396	CDS	kefB_3		Glutathione-regulated potassium-efflux system protein KefB
+IFGJHFNK_01396	gene	kefB_3		
+IFGJHFNK_01397	CDS			hypothetical protein
+IFGJHFNK_01397	gene			
+IFGJHFNK_01398	CDS			hypothetical protein
+IFGJHFNK_01398	gene			
+IFGJHFNK_01399	CDS	tbp_2		TATA-box-binding protein
+IFGJHFNK_01399	gene	tbp_2		
+IFGJHFNK_01400	CDS	tfb_6		Transcription initiation factor IIB
+IFGJHFNK_01400	gene	tfb_6		
+IFGJHFNK_01401	CDS			hypothetical protein
+IFGJHFNK_01401	gene			
+IFGJHFNK_01402	CDS	mtbC_1		Dimethylamine corrinoid protein
+IFGJHFNK_01402	gene	mtbC_1		
+IFGJHFNK_01403	CDS	ppsA_3	2.7.9.2	Phosphoenolpyruvate synthase
+IFGJHFNK_01403	gene	ppsA_3		
+IFGJHFNK_01404	CDS			hypothetical protein
+IFGJHFNK_01404	gene			
+IFGJHFNK_01405	CDS		5.1.99.1	Methylmalonyl-CoA epimerase
+IFGJHFNK_01405	gene			
+IFGJHFNK_01406	CDS			hypothetical protein
+IFGJHFNK_01406	gene			
+IFGJHFNK_01407	CDS	ureG_3		Urease accessory protein UreG
+IFGJHFNK_01407	gene	ureG_3		
+IFGJHFNK_01408	CDS			hypothetical protein
+IFGJHFNK_01408	gene			
+IFGJHFNK_01409	CDS	ape2_3	3.4.11.1	Leucyl aminopeptidase
+IFGJHFNK_01409	gene	ape2_3		
+IFGJHFNK_01410	CDS			hypothetical protein
+IFGJHFNK_01410	gene			
+IFGJHFNK_01411	CDS			hypothetical protein
+IFGJHFNK_01411	gene			
+IFGJHFNK_01412	CDS			hypothetical protein
+IFGJHFNK_01412	gene			
+IFGJHFNK_01413	CDS			hypothetical protein
+IFGJHFNK_01413	gene			
+IFGJHFNK_01414	CDS			hypothetical protein
+IFGJHFNK_01414	gene			
+IFGJHFNK_01415	CDS			hypothetical protein
+IFGJHFNK_01415	gene			
+IFGJHFNK_01416	CDS			hypothetical protein
+IFGJHFNK_01416	gene			
+IFGJHFNK_01417	CDS			putative ribosome biogenesis protein
+IFGJHFNK_01417	gene			
+IFGJHFNK_01418	CDS			hypothetical protein
+IFGJHFNK_01418	gene			
+IFGJHFNK_01419	CDS			hypothetical protein
+IFGJHFNK_01419	gene			
+IFGJHFNK_01420	CDS			hypothetical protein
+IFGJHFNK_01420	gene			
+IFGJHFNK_01421	CDS			hypothetical protein
+IFGJHFNK_01421	gene			
+IFGJHFNK_01422	CDS			hypothetical protein
+IFGJHFNK_01422	gene			
+IFGJHFNK_01423	CDS			hypothetical protein
+IFGJHFNK_01423	gene			
+IFGJHFNK_01424	CDS			hypothetical protein
+IFGJHFNK_01424	gene			
+IFGJHFNK_01425	CDS	ribL_1	2.7.7.2	FAD synthase
+IFGJHFNK_01425	gene	ribL_1		
+IFGJHFNK_01426	CDS	ribK_1	2.7.1.161	Riboflavin kinase
+IFGJHFNK_01426	gene	ribK_1		
+IFGJHFNK_01427	CDS	dnaG_1	2.7.7.-	DNA primase DnaG
+IFGJHFNK_01427	gene	dnaG_1		
+IFGJHFNK_01428	CDS	erpA_2		Iron-sulfur cluster insertion protein ErpA
+IFGJHFNK_01428	gene	erpA_2		
+IFGJHFNK_01429	CDS		4.2.1.116	3-hydroxypropionyl-coenzyme A dehydratase
+IFGJHFNK_01429	gene			
+IFGJHFNK_01430	CDS		6.2.1.13	Acetate--CoA ligase [ADP-forming] II
+IFGJHFNK_01430	gene			
+IFGJHFNK_01431	CDS	purC_3	6.3.2.6	Phosphoribosylaminoimidazole-succinocarboxamide synthase
+IFGJHFNK_01431	gene	purC_3		
+IFGJHFNK_01432	CDS			hypothetical protein
+IFGJHFNK_01432	gene			
+IFGJHFNK_01433	CDS			hypothetical protein
+IFGJHFNK_01433	gene			
+IFGJHFNK_01434	CDS			hypothetical protein
+IFGJHFNK_01434	gene			
+IFGJHFNK_01435	CDS			hypothetical protein
+IFGJHFNK_01435	gene			
+IFGJHFNK_01436	CDS			putative ABC transporter ATP-binding protein
+IFGJHFNK_01436	gene			
+IFGJHFNK_01437	CDS			hypothetical protein
+IFGJHFNK_01437	gene			
+IFGJHFNK_01438	CDS			hypothetical protein
+IFGJHFNK_01438	gene			
+IFGJHFNK_01439	CDS			hypothetical protein
+IFGJHFNK_01439	gene			
+IFGJHFNK_01440	CDS			hypothetical protein
+IFGJHFNK_01440	gene			
+IFGJHFNK_01441	CDS			hypothetical protein
+IFGJHFNK_01441	gene			
+IFGJHFNK_01442	CDS			Universal stress protein
+IFGJHFNK_01442	gene			
+IFGJHFNK_01443	CDS	guaB_15	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+IFGJHFNK_01443	gene	guaB_15		
+IFGJHFNK_01444	CDS			hypothetical protein
+IFGJHFNK_01444	gene			
+IFGJHFNK_01445	CDS			hypothetical protein
+IFGJHFNK_01445	gene			
+IFGJHFNK_01446	CDS		3.4.19.15	Desampylase
+IFGJHFNK_01446	gene			
+IFGJHFNK_01447	CDS	petE_6		Plastocyanin
+IFGJHFNK_01447	gene	petE_6		
+IFGJHFNK_01448	CDS			hypothetical protein
+IFGJHFNK_01448	gene			
+IFGJHFNK_01449	CDS	lapB_3		Lipopolysaccharide assembly protein B
+IFGJHFNK_01449	gene	lapB_3		
+IFGJHFNK_01450	CDS			hypothetical protein
+IFGJHFNK_01450	gene			
+IFGJHFNK_01451	CDS	tssA_5	2.8.1.1	Putative thiosulfate sulfurtransferase
+IFGJHFNK_01451	gene	tssA_5		
+IFGJHFNK_01452	CDS	nasD_4	1.7.7.1	Assimilatory ferredoxin-dependent nitrite reductase
+IFGJHFNK_01452	gene	nasD_4		
+IFGJHFNK_01453	CDS	thi4_4	4.-.-.-	Thiamine thiazole synthase
+IFGJHFNK_01453	gene	thi4_4		
+IFGJHFNK_01454	CDS			hypothetical protein
+IFGJHFNK_01454	gene			
+IFGJHFNK_01455	CDS	sudA_3	1.8.1.19	Sulfide dehydrogenase subunit alpha
+IFGJHFNK_01455	gene	sudA_3		
+IFGJHFNK_01456	CDS	pgk_2	2.7.2.3	Phosphoglycerate kinase
+IFGJHFNK_01456	gene	pgk_2		
+IFGJHFNK_01457	CDS			hypothetical protein
+IFGJHFNK_01457	gene			
+IFGJHFNK_01458	CDS	iscU2_2		Iron-sulfur cluster assembly scaffold protein IscU 2
+IFGJHFNK_01458	gene	iscU2_2		
+IFGJHFNK_01459	CDS	sufS_2	2.8.1.7	Cysteine desulfurase
+IFGJHFNK_01459	gene	sufS_2		
+IFGJHFNK_01460	CDS			hypothetical protein
+IFGJHFNK_01460	gene			
+IFGJHFNK_01461	CDS			hypothetical protein
+IFGJHFNK_01461	gene			
+IFGJHFNK_01462	CDS	rpoB1_1	2.7.7.6	DNA-directed RNA polymerase subunit B'
+IFGJHFNK_01462	gene	rpoB1_1		
+IFGJHFNK_01463	CDS			hypothetical protein
+IFGJHFNK_01463	gene			
+IFGJHFNK_01464	CDS	btuD_1	3.6.3.33	Cobalamin import ATP-binding protein BtuD
+IFGJHFNK_01464	gene	btuD_1		
+IFGJHFNK_01465	CDS			hypothetical protein
+IFGJHFNK_01465	gene			
+IFGJHFNK_01466	CDS	vgb_6	4.2.99.-	Virginiamycin B lyase
+IFGJHFNK_01466	gene	vgb_6		
+IFGJHFNK_01467	CDS	malK_3	3.6.3.19	Trehalose/maltose import ATP-binding protein MalK
+IFGJHFNK_01467	gene	malK_3		
+IFGJHFNK_01468	CDS			hypothetical protein
+IFGJHFNK_01468	gene			
+IFGJHFNK_01469	CDS	bepA	3.4.-.-	Beta-barrel assembly-enhancing protease
+IFGJHFNK_01469	gene	bepA		
+IFGJHFNK_01470	CDS			hypothetical protein
+IFGJHFNK_01470	gene			
+IFGJHFNK_01471	CDS	gds	2.5.1.29	Geranylgeranyl diphosphate synthase
+IFGJHFNK_01471	gene	gds		
+IFGJHFNK_01472	CDS	idi_2	5.3.3.2	Isopentenyl-diphosphate Delta-isomerase
+IFGJHFNK_01472	gene	idi_2		
+IFGJHFNK_01473	CDS	tusA_2	2.8.1.-	Sulfurtransferase TusA
+IFGJHFNK_01473	gene	tusA_2		
+IFGJHFNK_01474	CDS			hypothetical protein
+IFGJHFNK_01474	gene			
+IFGJHFNK_01475	CDS	cofE_3	6.3.2.31	Coenzyme F420:L-glutamate ligase
+IFGJHFNK_01475	gene	cofE_3		
+IFGJHFNK_01476	CDS		3.1.3.3	Phosphoserine phosphatase
+IFGJHFNK_01476	gene			
+IFGJHFNK_01477	CDS			hypothetical protein
+IFGJHFNK_01477	gene			
+IFGJHFNK_01478	CDS			hypothetical protein
+IFGJHFNK_01478	gene			
+IFGJHFNK_01479	CDS	scpB_2		Segregation and condensation protein B
+IFGJHFNK_01479	gene	scpB_2		
+IFGJHFNK_01480	CDS	rps8e_2		30S ribosomal protein S8e
+IFGJHFNK_01480	gene	rps8e_2		
+IFGJHFNK_01481	CDS	pls_1	3.4.21.-	Pyrolysin
+IFGJHFNK_01481	gene	pls_1		
+IFGJHFNK_01482	CDS			hypothetical protein
+IFGJHFNK_01482	gene			
+IFGJHFNK_01483	CDS	pls_2	3.4.21.-	Pyrolysin
+IFGJHFNK_01483	gene	pls_2		
+IFGJHFNK_01484	CDS	ndk	2.7.4.6	Nucleoside diphosphate kinase
+IFGJHFNK_01484	gene	ndk		
+IFGJHFNK_01485	CDS			50S ribosomal protein L24e
+IFGJHFNK_01485	gene			
+IFGJHFNK_01486	CDS			30S ribosomal protein S28e
+IFGJHFNK_01486	gene			
+IFGJHFNK_01487	CDS	rpl7ae		50S ribosomal protein L7Ae
+IFGJHFNK_01487	gene	rpl7ae		
+IFGJHFNK_01488	CDS		5.4.2.2	Phosphoglucomutase/phosphomannomutase
+IFGJHFNK_01488	gene			
+IFGJHFNK_01489	CDS			hypothetical protein
+IFGJHFNK_01489	gene			
+IFGJHFNK_01490	CDS			hypothetical protein
+IFGJHFNK_01490	gene			
+IFGJHFNK_01491	CDS			hypothetical protein
+IFGJHFNK_01491	gene			
+IFGJHFNK_01492	CDS			hypothetical protein
+IFGJHFNK_01492	gene			
+IFGJHFNK_01493	CDS			hypothetical protein
+IFGJHFNK_01493	gene			
+IFGJHFNK_01494	tRNA			tRNA-Arg(gcg)
+IFGJHFNK_01494	gene			
+IFGJHFNK_01495	CDS	cmoA_2	2.1.1.-	tRNA (cmo5U34)-methyltransferase
+IFGJHFNK_01495	gene	cmoA_2		
+IFGJHFNK_01496	CDS			hypothetical protein
+IFGJHFNK_01496	gene			
+IFGJHFNK_01497	CDS			hypothetical protein
+IFGJHFNK_01497	gene			
+IFGJHFNK_01498	CDS	guaB_16	1.1.1.205	Inosine-5'-monophosphate dehydrogenase
+IFGJHFNK_01498	gene	guaB_16		
+IFGJHFNK_01499	CDS			hypothetical protein
+IFGJHFNK_01499	gene			
+IFGJHFNK_01500	CDS			hypothetical protein
+IFGJHFNK_01500	gene			
+IFGJHFNK_01501	CDS			hypothetical protein
+IFGJHFNK_01501	gene			
+IFGJHFNK_01502	CDS			hypothetical protein
+IFGJHFNK_01502	gene			
+IFGJHFNK_01503	CDS			hypothetical protein
+IFGJHFNK_01503	gene			
+IFGJHFNK_01504	CDS			hypothetical protein
+IFGJHFNK_01504	gene			
+IFGJHFNK_01505	CDS			hypothetical protein
+IFGJHFNK_01505	gene			
+IFGJHFNK_01506	CDS			hypothetical protein
+IFGJHFNK_01506	gene			
+IFGJHFNK_01507	CDS			hypothetical protein
+IFGJHFNK_01507	gene			
+IFGJHFNK_01508	CDS			hypothetical protein
+IFGJHFNK_01508	gene			
+IFGJHFNK_01509	CDS			hypothetical protein
+IFGJHFNK_01509	gene			
+IFGJHFNK_01510	CDS	smc_6		Chromosome partition protein Smc
+IFGJHFNK_01510	gene	smc_6		
+IFGJHFNK_01511	CDS			hypothetical protein
+IFGJHFNK_01511	gene			
+IFGJHFNK_01512	CDS	lysS_1	6.1.1.6	Lysine--tRNA ligase
+IFGJHFNK_01512	gene	lysS_1		
+IFGJHFNK_01513	CDS			hypothetical protein
+IFGJHFNK_01513	gene			
+IFGJHFNK_01514	CDS			Bifunctional NADP phosphatase/NAD kinase
+IFGJHFNK_01514	gene			
+IFGJHFNK_01515	CDS	pyrG_2	6.3.4.2	CTP synthase
+IFGJHFNK_01515	gene	pyrG_2		
+IFGJHFNK_01516	CDS	trpA_2	4.2.1.20	Tryptophan synthase alpha chain
+IFGJHFNK_01516	gene	trpA_2		
+IFGJHFNK_01517	CDS	trpB1_2	4.2.1.20	Tryptophan synthase beta chain 1
+IFGJHFNK_01517	gene	trpB1_2		
+IFGJHFNK_01518	CDS	trpC_1	4.1.1.48	Indole-3-glycerol phosphate synthase
+IFGJHFNK_01518	gene	trpC_1		
+IFGJHFNK_01519	CDS	trpD_1	2.4.2.18	Anthranilate phosphoribosyltransferase
+IFGJHFNK_01519	gene	trpD_1		
+IFGJHFNK_01520	CDS	trpG_1	4.1.3.27	Anthranilate synthase component 2
+IFGJHFNK_01520	gene	trpG_1		
+IFGJHFNK_01521	CDS	trpE_1	4.1.3.27	Anthranilate synthase component 1
+IFGJHFNK_01521	gene	trpE_1		
+IFGJHFNK_01522	CDS			hypothetical protein
+IFGJHFNK_01522	gene			
+IFGJHFNK_01523	CDS	ilvD_1	4.2.1.9	Dihydroxy-acid dehydratase
+IFGJHFNK_01523	gene	ilvD_1		
+IFGJHFNK_01524	CDS			hypothetical protein
+IFGJHFNK_01524	gene			
+IFGJHFNK_01525	CDS			hypothetical protein
+IFGJHFNK_01525	gene			
+IFGJHFNK_01526	CDS			hypothetical protein
+IFGJHFNK_01526	gene			
+IFGJHFNK_01527	CDS		1.2.1.22	Lactaldehyde dehydrogenase
+IFGJHFNK_01527	gene			
+IFGJHFNK_01528	CDS	tfe_2		Transcription factor E
+IFGJHFNK_01528	gene	tfe_2		
+IFGJHFNK_01529	CDS			hypothetical protein
+IFGJHFNK_01529	gene			
+IFGJHFNK_01530	CDS	lhgO_1	1.1.3.15	L-2-hydroxyglutarate oxidase LhgO
+IFGJHFNK_01530	gene	lhgO_1		
+IFGJHFNK_01531	CDS		3.4.21.-	Tk-subtilisin
+IFGJHFNK_01531	gene			
+IFGJHFNK_01532	CDS	obg	3.6.5.-	GTPase Obg
+IFGJHFNK_01532	gene	obg		
+IFGJHFNK_01533	CDS		3.1.3.18	Phosphoglycolate phosphatase
+IFGJHFNK_01533	gene			
+IFGJHFNK_01534	CDS	argS_2	6.1.1.19	Arginine--tRNA ligase
+IFGJHFNK_01534	gene	argS_2		
+IFGJHFNK_01535	CDS	ycf3_3		Photosystem I assembly protein Ycf3
+IFGJHFNK_01535	gene	ycf3_3		
+IFGJHFNK_01536	CDS			hypothetical protein
+IFGJHFNK_01536	gene			
+IFGJHFNK_01537	CDS			hypothetical protein
+IFGJHFNK_01537	gene			
+IFGJHFNK_01538	CDS			hypothetical protein
+IFGJHFNK_01538	gene			
+IFGJHFNK_01539	CDS			hypothetical protein
+IFGJHFNK_01539	gene			
+IFGJHFNK_01540	CDS			hypothetical protein
+IFGJHFNK_01540	gene			
+IFGJHFNK_01541	CDS			hypothetical protein
+IFGJHFNK_01541	gene			
+IFGJHFNK_01542	CDS			hypothetical protein
+IFGJHFNK_01542	gene			
+IFGJHFNK_01543	CDS	endA_2	4.6.1.16	tRNA-splicing endonuclease
+IFGJHFNK_01543	gene	endA_2		
+IFGJHFNK_01544	CDS			hypothetical protein
+IFGJHFNK_01544	gene			
+IFGJHFNK_01545	CDS	lig_3	6.5.1.1	DNA ligase
+IFGJHFNK_01545	gene	lig_3		
+IFGJHFNK_01546	CDS			hypothetical protein
+IFGJHFNK_01546	gene			
+IFGJHFNK_01547	CDS	fbp_2	3.1.3.11	Fructose-1,6-bisphosphate aldolase/phosphatase
+IFGJHFNK_01547	gene	fbp_2		
+IFGJHFNK_01548	CDS	tuf_3		Elongation factor 1-alpha
+IFGJHFNK_01548	gene	tuf_3		
+IFGJHFNK_01549	CDS			hypothetical protein
+IFGJHFNK_01549	gene			
+IFGJHFNK_01550	CDS			hypothetical protein
+IFGJHFNK_01550	gene			
+IFGJHFNK_01551	CDS			hypothetical protein
+IFGJHFNK_01551	gene			
+IFGJHFNK_01552	CDS			hypothetical protein
+IFGJHFNK_01552	gene			
+IFGJHFNK_01553	CDS			hypothetical protein
+IFGJHFNK_01553	gene			
+IFGJHFNK_01554	CDS			hypothetical protein
+IFGJHFNK_01554	gene			
+IFGJHFNK_01555	CDS	cysS_1	6.1.1.16	Cysteine--tRNA ligase
+IFGJHFNK_01555	gene	cysS_1		
+IFGJHFNK_01556	CDS	nadE_2	6.3.1.5	putative NH(3)-dependent NAD(+) synthetase
+IFGJHFNK_01556	gene	nadE_2		
+IFGJHFNK_01557	CDS	hcaC_2		3-phenylpropionate/cinnamic acid dioxygenase ferredoxin subunit
+IFGJHFNK_01557	gene	hcaC_2		
+IFGJHFNK_01558	CDS			hypothetical protein
+IFGJHFNK_01558	gene			
+IFGJHFNK_01559	CDS			hypothetical protein
+IFGJHFNK_01559	gene			
+IFGJHFNK_01560	CDS			hypothetical protein
+IFGJHFNK_01560	gene			
+IFGJHFNK_01561	CDS			hypothetical protein
+IFGJHFNK_01561	gene			
+IFGJHFNK_01562	CDS			hypothetical protein
+IFGJHFNK_01562	gene			
+IFGJHFNK_01563	CDS	menA	2.5.1.74	1,4-dihydroxy-2-naphthoate octaprenyltransferase
+IFGJHFNK_01563	gene	menA		
+IFGJHFNK_01564	CDS			hypothetical protein
+IFGJHFNK_01564	gene			
+IFGJHFNK_01565	CDS			hypothetical protein
+IFGJHFNK_01565	gene			
+IFGJHFNK_01566	CDS			hypothetical protein
+IFGJHFNK_01566	gene			
+IFGJHFNK_01567	CDS			hypothetical protein
+IFGJHFNK_01567	gene			
+IFGJHFNK_01568	CDS			hypothetical protein
+IFGJHFNK_01568	gene			
+IFGJHFNK_01569	CDS	nfo_3	3.1.21.2	endonuclease 4
+IFGJHFNK_01569	gene	nfo_3		
+IFGJHFNK_01570	CDS	proS_4	6.1.1.15	Proline--tRNA ligase
+IFGJHFNK_01570	gene	proS_4		
+IFGJHFNK_01571	CDS			hypothetical protein
+IFGJHFNK_01571	gene			
+IFGJHFNK_01572	CDS			hypothetical protein
+IFGJHFNK_01572	gene			
+IFGJHFNK_01573	CDS			hypothetical protein
+IFGJHFNK_01573	gene			
+IFGJHFNK_01574	CDS			hypothetical protein
+IFGJHFNK_01574	gene			
+IFGJHFNK_01575	CDS	prsA	5.2.1.8	Foldase protein PrsA
+IFGJHFNK_01575	gene	prsA		
+IFGJHFNK_01576	CDS			hypothetical protein
+IFGJHFNK_01576	gene			
+IFGJHFNK_01577	CDS	srmB	3.6.4.13	ATP-dependent RNA helicase SrmB
+IFGJHFNK_01577	gene	srmB		
+IFGJHFNK_01578	CDS			hypothetical protein
+IFGJHFNK_01578	gene			
+IFGJHFNK_01579	CDS			hypothetical protein
+IFGJHFNK_01579	gene			
+IFGJHFNK_01580	CDS			hypothetical protein
+IFGJHFNK_01580	gene			
+IFGJHFNK_01581	CDS	dpo1	2.7.7.7	DNA polymerase 1
+IFGJHFNK_01581	gene	dpo1		
+IFGJHFNK_01582	CDS			hypothetical protein
+IFGJHFNK_01582	gene			
+IFGJHFNK_01583	CDS	tpiA	5.3.1.1	Triosephosphate isomerase
+IFGJHFNK_01583	gene	tpiA		
+IFGJHFNK_01584	CDS			hypothetical protein
+IFGJHFNK_01584	gene			
+IFGJHFNK_01585	CDS			hypothetical protein
+IFGJHFNK_01585	gene			
+IFGJHFNK_01586	CDS			hypothetical protein
+IFGJHFNK_01586	gene			
+IFGJHFNK_01587	CDS			hypothetical protein
+IFGJHFNK_01587	gene			
+IFGJHFNK_01588	CDS			hypothetical protein
+IFGJHFNK_01588	gene			
+IFGJHFNK_01589	CDS			hypothetical protein
+IFGJHFNK_01589	gene			
+IFGJHFNK_01590	CDS	malK_4	3.6.3.19	Trehalose/maltose import ATP-binding protein MalK
+IFGJHFNK_01590	gene	malK_4		
+IFGJHFNK_01591	CDS			hypothetical protein
+IFGJHFNK_01591	gene			
+IFGJHFNK_01592	CDS	thrC_5	4.2.3.1	Threonine synthase
+IFGJHFNK_01592	gene	thrC_5		
+IFGJHFNK_01593	CDS			hypothetical protein
+IFGJHFNK_01593	gene			
+IFGJHFNK_01594	CDS	gap_2	1.2.1.59	Glyceraldehyde-3-phosphate dehydrogenase
+IFGJHFNK_01594	gene	gap_2		
+IFGJHFNK_01595	CDS		3.6.-.-	KEOPS complex subunit Bud32
+IFGJHFNK_01595	gene			
+IFGJHFNK_01596	CDS		3.6.1.9	Non-canonical purine NTP pyrophosphatase
+IFGJHFNK_01596	gene			
+IFGJHFNK_01597	CDS	taw1	4.1.3.44	S-adenosyl-L-methionine-dependent tRNA 4-demethylwyosine synthase
+IFGJHFNK_01597	gene	taw1		
+IFGJHFNK_01598	CDS			hypothetical protein
+IFGJHFNK_01598	gene			
+IFGJHFNK_01599	CDS			hypothetical protein
+IFGJHFNK_01599	gene			
+IFGJHFNK_01600	tRNA			tRNA-His(gtg)
+IFGJHFNK_01600	gene			
+IFGJHFNK_01601	CDS			hypothetical protein
+IFGJHFNK_01601	gene			
+IFGJHFNK_01602	CDS		2.1.1.-	Protein-lysine N-methyltransferase
+IFGJHFNK_01602	gene			
+IFGJHFNK_01603	CDS			hypothetical protein
+IFGJHFNK_01603	gene			
+IFGJHFNK_01604	CDS	sdx		Sulredoxin
+IFGJHFNK_01604	gene	sdx		
+IFGJHFNK_01605	CDS			hypothetical protein
+IFGJHFNK_01605	gene			
+IFGJHFNK_01606	CDS	kdaD	4.2.1.141	2-dehydro-3-deoxy-D-arabinonate dehydratase
+IFGJHFNK_01606	gene	kdaD		
+IFGJHFNK_01607	CDS	gltX	6.1.1.17	Glutamate--tRNA ligase
+IFGJHFNK_01607	gene	gltX		
+IFGJHFNK_01608	CDS			Putative nickel-responsive regulator
+IFGJHFNK_01608	gene			
+IFGJHFNK_01609	CDS			hypothetical protein
+IFGJHFNK_01609	gene			
+IFGJHFNK_01610	CDS			Fe(2+) transporter FeoB
+IFGJHFNK_01610	gene			
+IFGJHFNK_01611	CDS			50S ribosomal protein L24
+IFGJHFNK_01611	gene			
+IFGJHFNK_01612	CDS			50S ribosomal protein L14
+IFGJHFNK_01612	gene			
+IFGJHFNK_01613	CDS			30S ribosomal protein S17
+IFGJHFNK_01613	gene			
+IFGJHFNK_01614	CDS	rnp1_1	3.1.26.5	Ribonuclease P protein component 1
+IFGJHFNK_01614	gene	rnp1_1		
+IFGJHFNK_01615	CDS	rpmC_1		50S ribosomal protein L29
+IFGJHFNK_01615	gene	rpmC_1		
+IFGJHFNK_01616	CDS	rps3_1		30S ribosomal protein S3
+IFGJHFNK_01616	gene	rps3_1		
+IFGJHFNK_01617	CDS			50S ribosomal protein L22
+IFGJHFNK_01617	gene			
+IFGJHFNK_01618	CDS			30S ribosomal protein S19
+IFGJHFNK_01618	gene			
+IFGJHFNK_01619	CDS	ahcY_2	3.3.1.1	Adenosylhomocysteinase
+IFGJHFNK_01619	gene	ahcY_2		
+IFGJHFNK_01620	CDS	hcaC_3		3-phenylpropionate/cinnamic acid dioxygenase ferredoxin subunit
+IFGJHFNK_01620	gene	hcaC_3		
+IFGJHFNK_01621	CDS	nadE_3	6.3.1.5	putative NH(3)-dependent NAD(+) synthetase
+IFGJHFNK_01621	gene	nadE_3		
+IFGJHFNK_01622	CDS	cysS_2	6.1.1.16	Cysteine--tRNA ligase
+IFGJHFNK_01622	gene	cysS_2		
+IFGJHFNK_01623	CDS			hypothetical protein
+IFGJHFNK_01623	gene			
+IFGJHFNK_01624	CDS			hypothetical protein
+IFGJHFNK_01624	gene			
+IFGJHFNK_01625	CDS			hypothetical protein
+IFGJHFNK_01625	gene			
+IFGJHFNK_01626	CDS			hypothetical protein
+IFGJHFNK_01626	gene			
+IFGJHFNK_01627	CDS			hypothetical protein
+IFGJHFNK_01627	gene			
+IFGJHFNK_01628	CDS			hypothetical protein
+IFGJHFNK_01628	gene			
+IFGJHFNK_01629	CDS			hypothetical protein
+IFGJHFNK_01629	gene			
+IFGJHFNK_01630	CDS			hypothetical protein
+IFGJHFNK_01630	gene			
+IFGJHFNK_01631	CDS			Large-conductance mechanosensitive channel MscMJLR
+IFGJHFNK_01631	gene			
+IFGJHFNK_01632	CDS			hypothetical protein
+IFGJHFNK_01632	gene			
+IFGJHFNK_01633	CDS			hypothetical protein
+IFGJHFNK_01633	gene			
+IFGJHFNK_01634	CDS			hypothetical protein
+IFGJHFNK_01634	gene			
+IFGJHFNK_01635	CDS			hypothetical protein
+IFGJHFNK_01635	gene			
+IFGJHFNK_01636	CDS			hypothetical protein
+IFGJHFNK_01636	gene			
+IFGJHFNK_01637	CDS			hypothetical protein
+IFGJHFNK_01637	gene			
+IFGJHFNK_01638	CDS			hypothetical protein
+IFGJHFNK_01638	gene			
+IFGJHFNK_01639	CDS			putative nitrogen regulatory PII-like protein
+IFGJHFNK_01639	gene			
+IFGJHFNK_01640	CDS			hypothetical protein
+IFGJHFNK_01640	gene			
+IFGJHFNK_01641	CDS		6.2.1.13	Acetate--CoA ligase [ADP-forming] I
+IFGJHFNK_01641	gene			
+IFGJHFNK_01642	CDS			hypothetical protein
+IFGJHFNK_01642	gene			
+IFGJHFNK_01643	CDS	dnaJ		Chaperone protein DnaJ
+IFGJHFNK_01643	gene	dnaJ		
+IFGJHFNK_01644	CDS			50S ribosomal protein L40e
+IFGJHFNK_01644	gene			
+IFGJHFNK_01645	CDS	sucD	6.2.1.5	Succinate--CoA ligase [ADP-forming] subunit alpha
+IFGJHFNK_01645	gene	sucD		
+IFGJHFNK_01646	CDS		6.2.1.13	Acetate--CoA ligase [ADP-forming] I
+IFGJHFNK_01646	gene			
+IFGJHFNK_01647	CDS			hypothetical protein
+IFGJHFNK_01647	gene			
+IFGJHFNK_01648	CDS	ileS_2	6.1.1.5	Isoleucine--tRNA ligase
+IFGJHFNK_01648	gene	ileS_2		
+IFGJHFNK_01649	CDS	purD_2	6.3.4.13	Phosphoribosylamine--glycine ligase
+IFGJHFNK_01649	gene	purD_2		
+IFGJHFNK_01650	CDS			hypothetical protein
+IFGJHFNK_01650	gene			
+IFGJHFNK_01651	CDS	folD_2		Bifunctional protein FolD protein
+IFGJHFNK_01651	gene	folD_2		
+IFGJHFNK_01652	CDS			hypothetical protein
+IFGJHFNK_01652	gene			
+IFGJHFNK_01653	CDS			hypothetical protein
+IFGJHFNK_01653	gene			
+IFGJHFNK_01654	CDS	purN_2	2.1.2.2	Phosphoribosylglycinamide formyltransferase
+IFGJHFNK_01654	gene	purN_2		
+IFGJHFNK_01655	CDS			hypothetical protein
+IFGJHFNK_01655	gene			
+IFGJHFNK_01656	CDS			hypothetical protein
+IFGJHFNK_01656	gene			
+IFGJHFNK_01657	CDS			30S ribosomal protein S10
+IFGJHFNK_01657	gene			
+IFGJHFNK_01658	CDS	tuf_4		Elongation factor 1-alpha
+IFGJHFNK_01658	gene	tuf_4		
+IFGJHFNK_01659	CDS	nnrD_3	4.2.1.136	ADP-dependent (S)-NAD(P)H-hydrate dehydratase
+IFGJHFNK_01659	gene	nnrD_3		
+IFGJHFNK_01660	CDS		3.-.-.-	putative metallohydrolase
+IFGJHFNK_01660	gene			
+IFGJHFNK_01661	CDS			hypothetical protein
+IFGJHFNK_01661	gene			
+IFGJHFNK_01662	CDS	psmB	3.4.25.1	Proteasome subunit beta
+IFGJHFNK_01662	gene	psmB		
+IFGJHFNK_01663	CDS			hypothetical protein
+IFGJHFNK_01663	gene			
+IFGJHFNK_01664	CDS	gdhA-2	1.4.1.3	Glutamate dehydrogenase 2
+IFGJHFNK_01664	gene	gdhA-2		
+IFGJHFNK_01665	CDS	msrB	1.8.4.12	Peptide methionine sulfoxide reductase MsrB
+IFGJHFNK_01665	gene	msrB		
+IFGJHFNK_01666	CDS	thyX	2.1.1.148	Thymidylate synthase ThyX
+IFGJHFNK_01666	gene	thyX		
+IFGJHFNK_01667	CDS			hypothetical protein
+IFGJHFNK_01667	gene			
+IFGJHFNK_01668	CDS			hypothetical protein
+IFGJHFNK_01668	gene			
+IFGJHFNK_01669	CDS			hypothetical protein
+IFGJHFNK_01669	gene			
+IFGJHFNK_01670	CDS		3.5.5.1	Nitrilase
+IFGJHFNK_01670	gene			
+IFGJHFNK_01671	CDS			hypothetical protein
+IFGJHFNK_01671	gene			
+IFGJHFNK_01672	CDS			hypothetical protein
+IFGJHFNK_01672	gene			
+IFGJHFNK_01673	CDS	rssB		Regulator of RpoS
+IFGJHFNK_01673	gene	rssB		
+IFGJHFNK_01674	CDS	adh_4	1.1.1.1	NAD-dependent alcohol dehydrogenase
+IFGJHFNK_01674	gene	adh_4		
+IFGJHFNK_01675	CDS			hypothetical protein
+IFGJHFNK_01675	gene			
+IFGJHFNK_01676	CDS	scpB_3		Segregation and condensation protein B
+IFGJHFNK_01676	gene	scpB_3		
+IFGJHFNK_01677	CDS	rps8e_3		30S ribosomal protein S8e
+IFGJHFNK_01677	gene	rps8e_3		
+IFGJHFNK_01678	CDS			hypothetical protein
+IFGJHFNK_01678	gene			
+IFGJHFNK_01679	CDS			hypothetical protein
+IFGJHFNK_01679	gene			
+IFGJHFNK_01680	CDS			hypothetical protein
+IFGJHFNK_01680	gene			
+IFGJHFNK_01681	CDS			hypothetical protein
+IFGJHFNK_01681	gene			
+IFGJHFNK_01682	CDS			hypothetical protein
+IFGJHFNK_01682	gene			
+IFGJHFNK_01683	CDS			hypothetical protein
+IFGJHFNK_01683	gene			
+IFGJHFNK_01684	CDS			hypothetical protein
+IFGJHFNK_01684	gene			
+IFGJHFNK_01685	CDS	rpl3		50S ribosomal protein L3
+IFGJHFNK_01685	gene	rpl3		
+IFGJHFNK_01686	CDS	rpl4		50S ribosomal protein L4
+IFGJHFNK_01686	gene	rpl4		
+IFGJHFNK_01687	CDS			50S ribosomal protein L23
+IFGJHFNK_01687	gene			
+IFGJHFNK_01688	CDS			hypothetical protein
+IFGJHFNK_01688	gene			
+IFGJHFNK_01689	CDS			hypothetical protein
+IFGJHFNK_01689	gene			
+IFGJHFNK_01690	CDS			hypothetical protein
+IFGJHFNK_01690	gene			
+IFGJHFNK_01691	CDS			hypothetical protein
+IFGJHFNK_01691	gene			
+IFGJHFNK_01692	CDS			hypothetical protein
+IFGJHFNK_01692	gene			
+IFGJHFNK_01693	CDS			hypothetical protein
+IFGJHFNK_01693	gene			
+IFGJHFNK_01694	CDS			hypothetical protein
+IFGJHFNK_01694	gene			
+IFGJHFNK_01695	CDS			hypothetical protein
+IFGJHFNK_01695	gene			
+IFGJHFNK_01696	CDS			hypothetical protein
+IFGJHFNK_01696	gene			
+IFGJHFNK_01697	CDS			hypothetical protein
+IFGJHFNK_01697	gene			
+IFGJHFNK_01698	CDS			hypothetical protein
+IFGJHFNK_01698	gene			
+IFGJHFNK_01699	CDS			hypothetical protein
+IFGJHFNK_01699	gene			
+IFGJHFNK_01700	CDS	mtaC		Methanol--corrinoid protein
+IFGJHFNK_01700	gene	mtaC		
+IFGJHFNK_01701	CDS	psmA_1	3.4.25.1	Proteasome subunit alpha
+IFGJHFNK_01701	gene	psmA_1		
+IFGJHFNK_01702	CDS	hldD_3	5.1.3.20	ADP-L-glycero-D-manno-heptose-6-epimerase
+IFGJHFNK_01702	gene	hldD_3		
+IFGJHFNK_01703	CDS	gdhA_2	1.4.1.3	Glutamate dehydrogenase
+IFGJHFNK_01703	gene	gdhA_2		
+IFGJHFNK_01704	CDS	dbpA_1	3.6.4.13	ATP-dependent RNA helicase DbpA
+IFGJHFNK_01704	gene	dbpA_1		
+IFGJHFNK_01705	CDS			hypothetical protein
+IFGJHFNK_01705	gene			
+IFGJHFNK_01706	CDS			hypothetical protein
+IFGJHFNK_01706	gene			
+IFGJHFNK_01707	CDS			hypothetical protein
+IFGJHFNK_01707	gene			
+IFGJHFNK_01708	CDS	mntR_5		Transcriptional regulator MntR
+IFGJHFNK_01708	gene	mntR_5		
+IFGJHFNK_01709	CDS			putative KH and PIN-domain containing protein
+IFGJHFNK_01709	gene			
+IFGJHFNK_01710	CDS			hypothetical protein
+IFGJHFNK_01710	gene			
+IFGJHFNK_01711	CDS	acyP_2	3.6.1.7	Acylphosphatase
+IFGJHFNK_01711	gene	acyP_2		
+IFGJHFNK_01712	CDS	rpl2_2		50S ribosomal protein L2
+IFGJHFNK_01712	gene	rpl2_2		
+IFGJHFNK_01713	CDS			hypothetical protein
+IFGJHFNK_01713	gene			
+IFGJHFNK_01714	CDS	cdvB2_2		Cell division protein B2
+IFGJHFNK_01714	gene	cdvB2_2		
+IFGJHFNK_01715	CDS			hypothetical protein
+IFGJHFNK_01715	gene			
+IFGJHFNK_01716	CDS			hypothetical protein
+IFGJHFNK_01716	gene			
+IFGJHFNK_01717	CDS			hypothetical protein
+IFGJHFNK_01717	gene			
+IFGJHFNK_01718	CDS			hypothetical protein
+IFGJHFNK_01718	gene			
+IFGJHFNK_01719	CDS			hypothetical protein
+IFGJHFNK_01719	gene			
+IFGJHFNK_01720	CDS			hypothetical protein
+IFGJHFNK_01720	gene			
+IFGJHFNK_01721	CDS			hypothetical protein
+IFGJHFNK_01721	gene			
+IFGJHFNK_01722	CDS			hypothetical protein
+IFGJHFNK_01722	gene			
+IFGJHFNK_01723	CDS	tfb_7		Transcription initiation factor IIB
+IFGJHFNK_01723	gene	tfb_7		
+IFGJHFNK_01724	CDS			hypothetical protein
+IFGJHFNK_01724	gene			
+IFGJHFNK_01725	CDS	fusA_2		Elongation factor 2
+IFGJHFNK_01725	gene	fusA_2		
+IFGJHFNK_01726	CDS			hypothetical protein
+IFGJHFNK_01726	gene			
+IFGJHFNK_01727	CDS			hypothetical protein
+IFGJHFNK_01727	gene			
+IFGJHFNK_01728	CDS			hypothetical protein
+IFGJHFNK_01728	gene			
+IFGJHFNK_01729	CDS			hypothetical protein
+IFGJHFNK_01729	gene			
+IFGJHFNK_01730	CDS	ubiG_3	2.1.1.222	Ubiquinone biosynthesis O-methyltransferase
+IFGJHFNK_01730	gene	ubiG_3		
+IFGJHFNK_01731	CDS			hypothetical protein
+IFGJHFNK_01731	gene			
+IFGJHFNK_01732	CDS			hypothetical protein
+IFGJHFNK_01732	gene			
+IFGJHFNK_01733	CDS			hypothetical protein
+IFGJHFNK_01733	gene			
+IFGJHFNK_01734	CDS			hypothetical protein
+IFGJHFNK_01734	gene			
+IFGJHFNK_01735	CDS			hypothetical protein
+IFGJHFNK_01735	gene			
+IFGJHFNK_01736	CDS			hypothetical protein
+IFGJHFNK_01736	gene			
+IFGJHFNK_01737	CDS			hypothetical protein
+IFGJHFNK_01737	gene			
+IFGJHFNK_01738	CDS	fadA	2.3.1.16	3-ketoacyl-CoA thiolase
+IFGJHFNK_01738	gene	fadA		
+IFGJHFNK_01739	CDS	mer_1	1.5.98.2	5,10-methylenetetrahydromethanopterin reductase
+IFGJHFNK_01739	gene	mer_1		
+IFGJHFNK_01740	CDS	glmU_3		Bifunctional protein GlmU
+IFGJHFNK_01740	gene	glmU_3		
+IFGJHFNK_01741	CDS			hypothetical protein
+IFGJHFNK_01741	gene			
+IFGJHFNK_01742	CDS			hypothetical protein
+IFGJHFNK_01742	gene			
+IFGJHFNK_01743	CDS	purT	2.1.2.-	Formate-dependent phosphoribosylglycinamide formyltransferase
+IFGJHFNK_01743	gene	purT		
+IFGJHFNK_01744	CDS	purE_2	5.4.99.18	N5-carboxyaminoimidazole ribonucleotide mutase
+IFGJHFNK_01744	gene	purE_2		
+IFGJHFNK_01745	CDS	thrC_6	4.2.3.1	Threonine synthase
+IFGJHFNK_01745	gene	thrC_6		
+IFGJHFNK_01746	CDS			hypothetical protein
+IFGJHFNK_01746	gene			
+IFGJHFNK_01747	CDS			hypothetical protein
+IFGJHFNK_01747	gene			
+IFGJHFNK_01748	CDS			hypothetical protein
+IFGJHFNK_01748	gene			
+IFGJHFNK_01749	CDS			hypothetical protein
+IFGJHFNK_01749	gene			
+IFGJHFNK_01750	CDS			hypothetical protein
+IFGJHFNK_01750	gene			
+IFGJHFNK_01751	CDS			hypothetical protein
+IFGJHFNK_01751	gene			
+IFGJHFNK_01752	CDS			hypothetical protein
+IFGJHFNK_01752	gene			
+IFGJHFNK_01753	CDS			hypothetical protein
+IFGJHFNK_01753	gene			
+IFGJHFNK_01754	CDS			hypothetical protein
+IFGJHFNK_01754	gene			
+IFGJHFNK_01755	CDS			hypothetical protein
+IFGJHFNK_01755	gene			
+IFGJHFNK_01756	CDS			hypothetical protein
+IFGJHFNK_01756	gene			
+IFGJHFNK_01757	CDS	filI_8	2.7.13.3	Methanogenesis regulatory histidine kinase FilI
+IFGJHFNK_01757	gene	filI_8		
+IFGJHFNK_01758	CDS	msmS	2.7.13.3	Methyl sulfide methyltransferase-associated sensor
+IFGJHFNK_01758	gene	msmS		
+IFGJHFNK_01759	CDS	cheY_2		Chemotaxis protein CheY
+IFGJHFNK_01759	gene	cheY_2		
+IFGJHFNK_01760	tRNA			tRNA-Phe(gaa)
+IFGJHFNK_01760	gene			
+IFGJHFNK_01761	CDS			hypothetical protein
+IFGJHFNK_01761	gene			
+IFGJHFNK_01762	CDS			hypothetical protein
+IFGJHFNK_01762	gene			
+IFGJHFNK_01763	CDS			hypothetical protein
+IFGJHFNK_01763	gene			
+IFGJHFNK_01764	CDS			hypothetical protein
+IFGJHFNK_01764	gene			
+IFGJHFNK_01765	CDS			hypothetical protein
+IFGJHFNK_01765	gene			
+IFGJHFNK_01766	CDS			hypothetical protein
+IFGJHFNK_01766	gene			
+IFGJHFNK_01767	CDS	trmBL1		HTH-type sugar sensing transcriptional regulator TrmBL1
+IFGJHFNK_01767	gene	trmBL1		
+IFGJHFNK_01768	CDS			hypothetical protein
+IFGJHFNK_01768	gene			
+IFGJHFNK_01769	CDS	aspC_1	2.6.1.1	Aspartate aminotransferase
+IFGJHFNK_01769	gene	aspC_1		
+IFGJHFNK_01770	CDS	acsA_3	6.2.1.1	Acetyl-coenzyme A synthetase
+IFGJHFNK_01770	gene	acsA_3		
+IFGJHFNK_01771	CDS			hypothetical protein
+IFGJHFNK_01771	gene			
+IFGJHFNK_01772	CDS	gatB	6.3.5.-	Aspartyl/glutamyl-tRNA(Asn/Gln) amidotransferase subunit B
+IFGJHFNK_01772	gene	gatB		
+IFGJHFNK_01773	CDS		3.5.1.4	Amidase
+IFGJHFNK_01773	gene			
+IFGJHFNK_01774	CDS			hypothetical protein
+IFGJHFNK_01774	gene			
+IFGJHFNK_01775	CDS			hypothetical protein
+IFGJHFNK_01775	gene			
+IFGJHFNK_01776	CDS			hypothetical protein
+IFGJHFNK_01776	gene			
+IFGJHFNK_01777	CDS			hypothetical protein
+IFGJHFNK_01777	gene			
+IFGJHFNK_01778	CDS			RutC family protein
+IFGJHFNK_01778	gene			
+IFGJHFNK_01779	CDS	cdvC_4		Cell division protein C
+IFGJHFNK_01779	gene	cdvC_4		
+IFGJHFNK_01780	CDS	guaAA_6	6.3.5.2	GMP synthase [glutamine-hydrolyzing] subunit A
+IFGJHFNK_01780	gene	guaAA_6		
+IFGJHFNK_01781	CDS			hypothetical protein
+IFGJHFNK_01781	gene			
+IFGJHFNK_01782	CDS	zupT_2		Zinc transporter ZupT
+IFGJHFNK_01782	gene	zupT_2		
+IFGJHFNK_01783	CDS			hypothetical protein
+IFGJHFNK_01783	gene			
+IFGJHFNK_01784	CDS			hypothetical protein
+IFGJHFNK_01784	gene			
+IFGJHFNK_01785	CDS			hypothetical protein
+IFGJHFNK_01785	gene			
+IFGJHFNK_01786	CDS			30S ribosomal protein S13
+IFGJHFNK_01786	gene			
+IFGJHFNK_01787	CDS	fpoD_2	1.12.98.3	F(420)H(2) dehydrogenase subunit D
+IFGJHFNK_01787	gene	fpoD_2		
+IFGJHFNK_01788	CDS	fpoC_2	1.12.98.3	F(420)H(2) dehydrogenase subunit C
+IFGJHFNK_01788	gene	fpoC_2		
+IFGJHFNK_01789	CDS	fpoB_2	1.12.98.3	F(420)H(2) dehydrogenase subunit B
+IFGJHFNK_01789	gene	fpoB_2		
+IFGJHFNK_01790	CDS	fpoA	1.12.98.3	F(420)H(2) dehydrogenase subunit A
+IFGJHFNK_01790	gene	fpoA		
+IFGJHFNK_01791	CDS		1.11.1.15	Peroxiredoxin
+IFGJHFNK_01791	gene			
+IFGJHFNK_01792	CDS	pycB_1	6.4.1.1	Pyruvate carboxylase subunit B
+IFGJHFNK_01792	gene	pycB_1		
+IFGJHFNK_01793	CDS			hypothetical protein
+IFGJHFNK_01793	gene			
+IFGJHFNK_01794	CDS			hypothetical protein
+IFGJHFNK_01794	gene			
+IFGJHFNK_01795	CDS			hypothetical protein
+IFGJHFNK_01795	gene			
+IFGJHFNK_01796	CDS			hypothetical protein
+IFGJHFNK_01796	gene			
+IFGJHFNK_01797	CDS	malK_5	3.6.3.19	Trehalose/maltose import ATP-binding protein MalK
+IFGJHFNK_01797	gene	malK_5		
+IFGJHFNK_01798	CDS			hypothetical protein
+IFGJHFNK_01798	gene			
+IFGJHFNK_01799	CDS			hypothetical protein
+IFGJHFNK_01799	gene			
+IFGJHFNK_01800	CDS			hypothetical protein
+IFGJHFNK_01800	gene			
+IFGJHFNK_01801	CDS	thrC_7	4.2.3.1	Threonine synthase
+IFGJHFNK_01801	gene	thrC_7		
+IFGJHFNK_01802	CDS			hypothetical protein
+IFGJHFNK_01802	gene			
+IFGJHFNK_01803	CDS	gap_3	1.2.1.59	Glyceraldehyde-3-phosphate dehydrogenase
+IFGJHFNK_01803	gene	gap_3		
+IFGJHFNK_01804	CDS			hypothetical protein
+IFGJHFNK_01804	gene			
+IFGJHFNK_01805	CDS			hypothetical protein
+IFGJHFNK_01805	gene			
+IFGJHFNK_01806	CDS			hypothetical protein
+IFGJHFNK_01806	gene			
+IFGJHFNK_01807	CDS	hmgB_2	2.3.3.10	Hydroxymethylglutaryl-CoA synthase
+IFGJHFNK_01807	gene	hmgB_2		
+IFGJHFNK_01808	CDS			hypothetical protein
+IFGJHFNK_01808	gene			
+IFGJHFNK_01809	CDS			hypothetical protein
+IFGJHFNK_01809	gene			
+IFGJHFNK_01810	CDS			hypothetical protein
+IFGJHFNK_01810	gene			
+IFGJHFNK_01811	CDS			hypothetical protein
+IFGJHFNK_01811	gene			
+IFGJHFNK_01812	CDS			hypothetical protein
+IFGJHFNK_01812	gene			
+IFGJHFNK_01813	CDS	uvrB_2		UvrABC system protein B
+IFGJHFNK_01813	gene	uvrB_2		
+IFGJHFNK_01814	CDS			hypothetical protein
+IFGJHFNK_01814	gene			
+IFGJHFNK_01815	CDS			hypothetical protein
+IFGJHFNK_01815	gene			
+IFGJHFNK_01816	CDS	mer_2	1.5.98.2	5,10-methylenetetrahydromethanopterin reductase
+IFGJHFNK_01816	gene	mer_2		
+IFGJHFNK_01817	CDS	hisF_7	4.1.3.-	Imidazole glycerol phosphate synthase subunit HisF
+IFGJHFNK_01817	gene	hisF_7		
+IFGJHFNK_01818	CDS	hisI_5	3.5.4.19	Phosphoribosyl-AMP cyclohydrolase
+IFGJHFNK_01818	gene	hisI_5		
+IFGJHFNK_01819	CDS			hypothetical protein
+IFGJHFNK_01819	gene			
+IFGJHFNK_01820	CDS			hypothetical protein
+IFGJHFNK_01820	gene			
+IFGJHFNK_01821	CDS	aroA_2	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+IFGJHFNK_01821	gene	aroA_2		
+IFGJHFNK_01822	CDS	aroK_2	2.7.1.71	Shikimate kinase
+IFGJHFNK_01822	gene	aroK_2		
+IFGJHFNK_01823	CDS	aroE_3	1.1.1.25	Shikimate dehydrogenase (NADP(+))
+IFGJHFNK_01823	gene	aroE_3		
+IFGJHFNK_01824	CDS	aroD_3	4.2.1.10	3-dehydroquinate dehydratase
+IFGJHFNK_01824	gene	aroD_3		
+IFGJHFNK_01825	CDS	aroB'_3	1.4.1.24	3-dehydroquinate synthase
+IFGJHFNK_01825	gene	aroB'_3		
+IFGJHFNK_01826	CDS			hypothetical protein
+IFGJHFNK_01826	gene			
+IFGJHFNK_01827	CDS			hypothetical protein
+IFGJHFNK_01827	gene			
+IFGJHFNK_01828	CDS			hypothetical protein
+IFGJHFNK_01828	gene			
+IFGJHFNK_01829	CDS			hypothetical protein
+IFGJHFNK_01829	gene			
+IFGJHFNK_01830	CDS	cheY_3		Chemotaxis protein CheY
+IFGJHFNK_01830	gene	cheY_3		
+IFGJHFNK_01831	CDS			hypothetical protein
+IFGJHFNK_01831	gene			
+IFGJHFNK_01832	CDS			hypothetical protein
+IFGJHFNK_01832	gene			
+IFGJHFNK_01833	CDS			hypothetical protein
+IFGJHFNK_01833	gene			
+IFGJHFNK_01834	CDS			hypothetical protein
+IFGJHFNK_01834	gene			
+IFGJHFNK_01835	CDS	ilvD_2	4.2.1.9	Dihydroxy-acid dehydratase
+IFGJHFNK_01835	gene	ilvD_2		
+IFGJHFNK_01836	CDS			hypothetical protein
+IFGJHFNK_01836	gene			
+IFGJHFNK_01837	CDS			hypothetical protein
+IFGJHFNK_01837	gene			
+IFGJHFNK_01838	CDS			hypothetical protein
+IFGJHFNK_01838	gene			
+IFGJHFNK_01839	CDS			hypothetical protein
+IFGJHFNK_01839	gene			
+IFGJHFNK_01840	CDS	prf1_3		Peptide chain release factor subunit 1
+IFGJHFNK_01840	gene	prf1_3		
+IFGJHFNK_01841	CDS			hypothetical protein
+IFGJHFNK_01841	gene			
+IFGJHFNK_01842	CDS			hypothetical protein
+IFGJHFNK_01842	gene			
+IFGJHFNK_01843	CDS			hypothetical protein
+IFGJHFNK_01843	gene			
+IFGJHFNK_01844	CDS			hypothetical protein
+IFGJHFNK_01844	gene			
+IFGJHFNK_01845	CDS			hypothetical protein
+IFGJHFNK_01845	gene			
+IFGJHFNK_01846	CDS			hypothetical protein
+IFGJHFNK_01846	gene			
+IFGJHFNK_01847	CDS			hypothetical protein
+IFGJHFNK_01847	gene			
+IFGJHFNK_01848	CDS			putative ABC transporter ATP-binding protein
+IFGJHFNK_01848	gene			
+IFGJHFNK_01849	CDS			hypothetical protein
+IFGJHFNK_01849	gene			
+IFGJHFNK_01850	CDS	purP_4	6.3.4.23	5-formaminoimidazole-4-carboxamide-1-(beta)-D-ribofuranosyl 5'-monophosphate synthetase
+IFGJHFNK_01850	gene	purP_4		
+IFGJHFNK_01851	CDS			hypothetical protein
+IFGJHFNK_01851	gene			
+IFGJHFNK_01852	CDS			hypothetical protein
+IFGJHFNK_01852	gene			
+IFGJHFNK_01853	CDS	aspS_4	6.1.1.23	Aspartate--tRNA(Asp/Asn) ligase
+IFGJHFNK_01853	gene	aspS_4		
+IFGJHFNK_01854	CDS			hypothetical protein
+IFGJHFNK_01854	gene			
+IFGJHFNK_01855	CDS			hypothetical protein
+IFGJHFNK_01855	gene			
+IFGJHFNK_01856	CDS			hypothetical protein
+IFGJHFNK_01856	gene			
+IFGJHFNK_01857	CDS			hypothetical protein
+IFGJHFNK_01857	gene			
+IFGJHFNK_01858	CDS			hypothetical protein
+IFGJHFNK_01858	gene			
+IFGJHFNK_01859	CDS			hypothetical protein
+IFGJHFNK_01859	gene			
+IFGJHFNK_01860	CDS			hypothetical protein
+IFGJHFNK_01860	gene			
+IFGJHFNK_01861	CDS			hypothetical protein
+IFGJHFNK_01861	gene			
+IFGJHFNK_01862	CDS	lhgO_2	1.1.3.15	L-2-hydroxyglutarate oxidase LhgO
+IFGJHFNK_01862	gene	lhgO_2		
+IFGJHFNK_01863	CDS		3.4.21.-	Tk-subtilisin
+IFGJHFNK_01863	gene			
+IFGJHFNK_01864	CDS			hypothetical protein
+IFGJHFNK_01864	gene			
+IFGJHFNK_01865	CDS	thiL	2.7.4.16	Thiamine-monophosphate kinase
+IFGJHFNK_01865	gene	thiL		
+IFGJHFNK_01866	CDS		5.4.2.2	Phosphoglucomutase/phosphomannomutase
+IFGJHFNK_01866	gene			
+IFGJHFNK_01867	tRNA			tRNA-Thr(cgt)
+IFGJHFNK_01867	gene			
+IFGJHFNK_01868	CDS			hypothetical protein
+IFGJHFNK_01868	gene			
+IFGJHFNK_01869	CDS	rpiA_2	5.3.1.6	Ribose-5-phosphate isomerase A
+IFGJHFNK_01869	gene	rpiA_2		
+IFGJHFNK_01870	CDS			hypothetical protein
+IFGJHFNK_01870	gene			
+IFGJHFNK_01871	CDS			hypothetical protein
+IFGJHFNK_01871	gene			
+IFGJHFNK_01872	CDS			hypothetical protein
+IFGJHFNK_01872	gene			
+IFGJHFNK_01873	CDS	fieF_4		Ferrous-iron efflux pump FieF
+IFGJHFNK_01873	gene	fieF_4		
+IFGJHFNK_01874	CDS			hypothetical protein
+IFGJHFNK_01874	gene			
+IFGJHFNK_01875	CDS			hypothetical protein
+IFGJHFNK_01875	gene			
+IFGJHFNK_01876	CDS			hypothetical protein
+IFGJHFNK_01876	gene			
+IFGJHFNK_01877	CDS			hypothetical protein
+IFGJHFNK_01877	gene			
+IFGJHFNK_01878	CDS			hypothetical protein
+IFGJHFNK_01878	gene			
+IFGJHFNK_01879	CDS			hypothetical protein
+IFGJHFNK_01879	gene			
+IFGJHFNK_01880	CDS			hypothetical protein
+IFGJHFNK_01880	gene			
+IFGJHFNK_01881	CDS	leuS_4	6.1.1.4	Leucine--tRNA ligase
+IFGJHFNK_01881	gene	leuS_4		
+IFGJHFNK_01882	CDS	alaS_2	6.1.1.7	Alanine--tRNA ligase
+IFGJHFNK_01882	gene	alaS_2		
+IFGJHFNK_01883	CDS	tdh_2	1.1.1.103	L-threonine 3-dehydrogenase
+IFGJHFNK_01883	gene	tdh_2		
+IFGJHFNK_01884	CDS			hypothetical protein
+IFGJHFNK_01884	gene			
+IFGJHFNK_01885	CDS			hypothetical protein
+IFGJHFNK_01885	gene			
+IFGJHFNK_01886	CDS			hypothetical protein
+IFGJHFNK_01886	gene			
+IFGJHFNK_01887	CDS			hypothetical protein
+IFGJHFNK_01887	gene			
+IFGJHFNK_01888	CDS			hypothetical protein
+IFGJHFNK_01888	gene			
+IFGJHFNK_01889	CDS	citZ_2	2.3.3.16	Citrate synthase
+IFGJHFNK_01889	gene	citZ_2		
+IFGJHFNK_01890	CDS			hypothetical protein
+IFGJHFNK_01890	gene			
+IFGJHFNK_01891	CDS			hypothetical protein
+IFGJHFNK_01891	gene			
+IFGJHFNK_01892	CDS			hypothetical protein
+IFGJHFNK_01892	gene			
+IFGJHFNK_01893	CDS	proS_5	6.1.1.15	Proline--tRNA ligase
+IFGJHFNK_01893	gene	proS_5		
+IFGJHFNK_01894	CDS	aglJ	2.4.1.-	Glycosyltransferase AglJ
+IFGJHFNK_01894	gene	aglJ		
+IFGJHFNK_01895	CDS	cdvB2_3		Cell division protein B2
+IFGJHFNK_01895	gene	cdvB2_3		
+IFGJHFNK_01896	CDS	murI	5.1.1.3	Glutamate racemase
+IFGJHFNK_01896	gene	murI		
+IFGJHFNK_01897	CDS		2.1.1.107	S-adenosyl-L-methionine-dependent uroporphyrinogen III methyltransferase
+IFGJHFNK_01897	gene			
+IFGJHFNK_01898	CDS		2.1.1.107	S-adenosyl-L-methionine-dependent uroporphyrinogen III methyltransferase
+IFGJHFNK_01898	gene			
+IFGJHFNK_01899	CDS	cbiT	2.1.1.196	putative cobalt-precorrin-6B C(15)-methyltransferase (decarboxylating)
+IFGJHFNK_01899	gene	cbiT		
+IFGJHFNK_01900	CDS			hypothetical protein
+IFGJHFNK_01900	gene			
+IFGJHFNK_01901	CDS			hypothetical protein
+IFGJHFNK_01901	gene			
+IFGJHFNK_01902	CDS			hypothetical protein
+IFGJHFNK_01902	gene			
+IFGJHFNK_01903	CDS			hypothetical protein
+IFGJHFNK_01903	gene			
+IFGJHFNK_01904	CDS			hypothetical protein
+IFGJHFNK_01904	gene			
+IFGJHFNK_01905	CDS	aglE_3	2.4.1.-	Glycosyltransferase AglE
+IFGJHFNK_01905	gene	aglE_3		
+IFGJHFNK_01906	CDS			hypothetical protein
+IFGJHFNK_01906	gene			
+IFGJHFNK_01907	CDS			hypothetical protein
+IFGJHFNK_01907	gene			
+IFGJHFNK_01908	CDS			hypothetical protein
+IFGJHFNK_01908	gene			
+IFGJHFNK_01909	CDS			hypothetical protein
+IFGJHFNK_01909	gene			
+IFGJHFNK_01910	CDS	lysK_1	3.5.1.-	[LysW]-lysine/[LysW]-ornithine hydrolase
+IFGJHFNK_01910	gene	lysK_1		
+IFGJHFNK_01911	CDS	dphB_1	2.1.1.98	Diphthine synthase
+IFGJHFNK_01911	gene	dphB_1		
+IFGJHFNK_01912	CDS	ribL_2	2.7.7.2	FAD synthase
+IFGJHFNK_01912	gene	ribL_2		
+IFGJHFNK_01913	CDS			hypothetical protein
+IFGJHFNK_01913	gene			
+IFGJHFNK_01914	CDS	ribK_2	2.7.1.161	Riboflavin kinase
+IFGJHFNK_01914	gene	ribK_2		
+IFGJHFNK_01915	CDS	dnaG_2	2.7.7.-	DNA primase DnaG
+IFGJHFNK_01915	gene	dnaG_2		
+IFGJHFNK_01916	CDS			hypothetical protein
+IFGJHFNK_01916	gene			
+IFGJHFNK_01917	CDS			hypothetical protein
+IFGJHFNK_01917	gene			
+IFGJHFNK_01918	CDS			hypothetical protein
+IFGJHFNK_01918	gene			
+IFGJHFNK_01919	CDS			hypothetical protein
+IFGJHFNK_01919	gene			
+IFGJHFNK_01920	CDS			hypothetical protein
+IFGJHFNK_01920	gene			
+IFGJHFNK_01921	CDS	garR_2	1.1.1.60	2-hydroxy-3-oxopropionate reductase
+IFGJHFNK_01921	gene	garR_2		
+IFGJHFNK_01922	CDS			hypothetical protein
+IFGJHFNK_01922	gene			
+IFGJHFNK_01923	CDS	gyaR_4	1.1.1.26	Glyoxylate reductase
+IFGJHFNK_01923	gene	gyaR_4		
+IFGJHFNK_01924	CDS			hypothetical protein
+IFGJHFNK_01924	gene			
+IFGJHFNK_01925	CDS			hypothetical protein
+IFGJHFNK_01925	gene			
+IFGJHFNK_01926	CDS	cofE_4	6.3.2.31	Coenzyme F420:L-glutamate ligase
+IFGJHFNK_01926	gene	cofE_4		
+IFGJHFNK_01927	CDS			hypothetical protein
+IFGJHFNK_01927	gene			
+IFGJHFNK_01928	CDS			hypothetical protein
+IFGJHFNK_01928	gene			
+IFGJHFNK_01929	CDS			hypothetical protein
+IFGJHFNK_01929	gene			
+IFGJHFNK_01930	CDS			hypothetical protein
+IFGJHFNK_01930	gene			
+IFGJHFNK_01931	CDS	korB_2	1.2.7.3	2-oxoglutarate synthase subunit KorB
+IFGJHFNK_01931	gene	korB_2		
+IFGJHFNK_01932	CDS		3.2.2.-	G/T mismatches repair enzyme
+IFGJHFNK_01932	gene			
+IFGJHFNK_01933	CDS			hypothetical protein
+IFGJHFNK_01933	gene			
+IFGJHFNK_01934	CDS			hypothetical protein
+IFGJHFNK_01934	gene			
+IFGJHFNK_01935	CDS			hypothetical protein
+IFGJHFNK_01935	gene			
+IFGJHFNK_01936	CDS	ape2_4	3.4.11.1	Leucyl aminopeptidase
+IFGJHFNK_01936	gene	ape2_4		
+IFGJHFNK_01937	CDS			hypothetical protein
+IFGJHFNK_01937	gene			
+IFGJHFNK_01938	CDS	ureG_4		Urease accessory protein UreG
+IFGJHFNK_01938	gene	ureG_4		
+IFGJHFNK_01939	CDS	tssA_6	2.8.1.1	Putative thiosulfate sulfurtransferase
+IFGJHFNK_01939	gene	tssA_6		
+IFGJHFNK_01940	CDS			hypothetical protein
+IFGJHFNK_01940	gene			
+IFGJHFNK_01941	CDS			hypothetical protein
+IFGJHFNK_01941	gene			
+IFGJHFNK_01942	CDS		2.7.7.1	Nicotinamide-nucleotide adenylyltransferase
+IFGJHFNK_01942	gene			
+IFGJHFNK_01943	CDS	tuf_5		Elongation factor 1-alpha
+IFGJHFNK_01943	gene	tuf_5		
+IFGJHFNK_01944	CDS			hypothetical protein
+IFGJHFNK_01944	gene			
+IFGJHFNK_01945	CDS	metG_5	6.1.1.10	Methionine--tRNA ligase
+IFGJHFNK_01945	gene	metG_5		
+IFGJHFNK_01946	CDS			50S ribosomal protein L23
+IFGJHFNK_01946	gene			
+IFGJHFNK_01947	CDS			30S ribosomal protein S19
+IFGJHFNK_01947	gene			
+IFGJHFNK_01948	CDS			50S ribosomal protein L22
+IFGJHFNK_01948	gene			
+IFGJHFNK_01949	CDS	rps3_2		30S ribosomal protein S3
+IFGJHFNK_01949	gene	rps3_2		
+IFGJHFNK_01950	CDS	rpmC_2		50S ribosomal protein L29
+IFGJHFNK_01950	gene	rpmC_2		
+IFGJHFNK_01951	CDS	rnp1_2	3.1.26.5	Ribonuclease P protein component 1
+IFGJHFNK_01951	gene	rnp1_2		
+IFGJHFNK_01952	CDS			30S ribosomal protein S17
+IFGJHFNK_01952	gene			
+IFGJHFNK_01953	CDS			50S ribosomal protein L14
+IFGJHFNK_01953	gene			
+IFGJHFNK_01954	CDS			50S ribosomal protein L24
+IFGJHFNK_01954	gene			
+IFGJHFNK_01955	CDS	rps4e		30S ribosomal protein S4e
+IFGJHFNK_01955	gene	rps4e		
+IFGJHFNK_01956	CDS	rpl5		50S ribosomal protein L5
+IFGJHFNK_01956	gene	rpl5		
+IFGJHFNK_01957	CDS			30S ribosomal protein S14 type Z
+IFGJHFNK_01957	gene			
+IFGJHFNK_01958	CDS	rps8		30S ribosomal protein S8
+IFGJHFNK_01958	gene	rps8		
+IFGJHFNK_01959	CDS	rpl6		50S ribosomal protein L6
+IFGJHFNK_01959	gene	rpl6		
+IFGJHFNK_01960	CDS			hypothetical protein
+IFGJHFNK_01960	gene			
+IFGJHFNK_01961	tRNA			tRNA-Asn(gtt)
+IFGJHFNK_01961	gene			
+IFGJHFNK_01962	CDS			Universal stress protein
+IFGJHFNK_01962	gene			
+IFGJHFNK_01963	CDS	menH_2	4.2.99.20	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+IFGJHFNK_01963	gene	menH_2		
+IFGJHFNK_01964	CDS			hypothetical protein
+IFGJHFNK_01964	gene			
+IFGJHFNK_01965	CDS			hypothetical protein
+IFGJHFNK_01965	gene			
+IFGJHFNK_01966	CDS	phaC_2	2.3.1.-	Poly(3-hydroxyalkanoate) polymerase subunit PhaC
+IFGJHFNK_01966	gene	phaC_2		
+IFGJHFNK_01967	CDS	phaE_1	2.3.1.-	Poly(3-hydroxyalkanoate) polymerase subunit PhaE
+IFGJHFNK_01967	gene	phaE_1		
+IFGJHFNK_01968	CDS			hypothetical protein
+IFGJHFNK_01968	gene			
+IFGJHFNK_01969	CDS	gpt_2	2.4.2.22	Xanthine phosphoribosyltransferase
+IFGJHFNK_01969	gene	gpt_2		
+IFGJHFNK_01970	CDS	tfb_8		Transcription initiation factor IIB
+IFGJHFNK_01970	gene	tfb_8		
+IFGJHFNK_01971	CDS			hypothetical protein
+IFGJHFNK_01971	gene			
+IFGJHFNK_01972	CDS	acyP_3	3.6.1.7	Acylphosphatase
+IFGJHFNK_01972	gene	acyP_3		
+IFGJHFNK_01973	CDS	rpl2_3		50S ribosomal protein L2
+IFGJHFNK_01973	gene	rpl2_3		
+IFGJHFNK_01974	CDS			hypothetical protein
+IFGJHFNK_01974	gene			
+IFGJHFNK_01975	CDS			hypothetical protein
+IFGJHFNK_01975	gene			
+IFGJHFNK_01976	CDS			hypothetical protein
+IFGJHFNK_01976	gene			
+IFGJHFNK_01977	CDS			hypothetical protein
+IFGJHFNK_01977	gene			
+IFGJHFNK_01978	CDS			hypothetical protein
+IFGJHFNK_01978	gene			
+IFGJHFNK_01979	CDS			hypothetical protein
+IFGJHFNK_01979	gene			
+IFGJHFNK_01980	CDS			hypothetical protein
+IFGJHFNK_01980	gene			
+IFGJHFNK_01981	CDS			hypothetical protein
+IFGJHFNK_01981	gene			
+IFGJHFNK_01982	CDS			hypothetical protein
+IFGJHFNK_01982	gene			
+IFGJHFNK_01983	CDS			hypothetical protein
+IFGJHFNK_01983	gene			
+IFGJHFNK_01984	CDS			hypothetical protein
+IFGJHFNK_01984	gene			
+IFGJHFNK_01985	CDS			hypothetical protein
+IFGJHFNK_01985	gene			
+IFGJHFNK_01986	CDS	recF		DNA replication and repair protein RecF
+IFGJHFNK_01986	gene	recF		
+IFGJHFNK_01987	CDS			hypothetical protein
+IFGJHFNK_01987	gene			
+IFGJHFNK_01988	CDS			hypothetical protein
+IFGJHFNK_01988	gene			
+IFGJHFNK_01989	CDS			hypothetical protein
+IFGJHFNK_01989	gene			
+IFGJHFNK_01990	CDS			hypothetical protein
+IFGJHFNK_01990	gene			
+IFGJHFNK_01991	CDS			hypothetical protein
+IFGJHFNK_01991	gene			
+IFGJHFNK_01992	CDS			hypothetical protein
+IFGJHFNK_01992	gene			
+IFGJHFNK_01993	CDS	lysJ_2	2.6.1.-	[LysW]-aminoadipate semialdehyde/glutamate semialdehyde transaminase
+IFGJHFNK_01993	gene	lysJ_2		
+IFGJHFNK_01994	CDS	lysM_2		HTH-type transcriptional regulator LysM
+IFGJHFNK_01994	gene	lysM_2		
+IFGJHFNK_01995	CDS	leuA_3	2.3.3.13	2-isopropylmalate synthase
+IFGJHFNK_01995	gene	leuA_3		
+IFGJHFNK_01996	CDS	lysW_2		Alpha-aminoadipate/glutamate carrier protein LysW
+IFGJHFNK_01996	gene	lysW_2		
+IFGJHFNK_01997	CDS	argX	6.3.2.-	Glutamate--LysW ligase ArgX
+IFGJHFNK_01997	gene	argX		
+IFGJHFNK_01998	CDS	lysK_2	3.5.1.-	[LysW]-lysine/[LysW]-ornithine hydrolase
+IFGJHFNK_01998	gene	lysK_2		
+IFGJHFNK_01999	CDS			hypothetical protein
+IFGJHFNK_01999	gene			
+IFGJHFNK_02000	CDS			hypothetical protein
+IFGJHFNK_02000	gene			
+IFGJHFNK_02001	CDS			hypothetical protein
+IFGJHFNK_02001	gene			
+IFGJHFNK_02002	CDS			hypothetical protein
+IFGJHFNK_02002	gene			
+IFGJHFNK_02003	CDS			Putative nickel-responsive regulator
+IFGJHFNK_02003	gene			
+IFGJHFNK_02004	CDS	wtpC_1	3.6.3.-	Molybdate/tungstate import ATP-binding protein WtpC
+IFGJHFNK_02004	gene	wtpC_1		
+IFGJHFNK_02005	CDS			hypothetical protein
+IFGJHFNK_02005	gene			
+IFGJHFNK_02006	CDS	vgb_7	4.2.99.-	Virginiamycin B lyase
+IFGJHFNK_02006	gene	vgb_7		
+IFGJHFNK_02007	CDS			hypothetical protein
+IFGJHFNK_02007	gene			
+IFGJHFNK_02008	CDS			hypothetical protein
+IFGJHFNK_02008	gene			
+IFGJHFNK_02009	CDS			hypothetical protein
+IFGJHFNK_02009	gene			
+IFGJHFNK_02010	CDS			hypothetical protein
+IFGJHFNK_02010	gene			
+IFGJHFNK_02011	CDS			hypothetical protein
+IFGJHFNK_02011	gene			
+IFGJHFNK_02012	CDS			hypothetical protein
+IFGJHFNK_02012	gene			
+IFGJHFNK_02013	CDS	vgb_8	4.2.99.-	Virginiamycin B lyase
+IFGJHFNK_02013	gene	vgb_8		
+IFGJHFNK_02014	CDS			hypothetical protein
+IFGJHFNK_02014	gene			
+IFGJHFNK_02015	CDS	btuD_2	3.6.3.33	Cobalamin import ATP-binding protein BtuD
+IFGJHFNK_02015	gene	btuD_2		
+IFGJHFNK_02016	CDS			hypothetical protein
+IFGJHFNK_02016	gene			
+IFGJHFNK_02017	CDS			Putative nickel-responsive regulator
+IFGJHFNK_02017	gene			
+IFGJHFNK_02018	CDS			hypothetical protein
+IFGJHFNK_02018	gene			
+IFGJHFNK_02019	CDS			hypothetical protein
+IFGJHFNK_02019	gene			
+IFGJHFNK_02020	CDS	pyrB_2	2.1.3.2	Aspartate carbamoyltransferase
+IFGJHFNK_02020	gene	pyrB_2		
+IFGJHFNK_02021	CDS	glyA_2	2.1.2.-	Serine hydroxymethyltransferase
+IFGJHFNK_02021	gene	glyA_2		
+IFGJHFNK_02022	CDS	polC_2	2.7.7.7	DNA polymerase II large subunit
+IFGJHFNK_02022	gene	polC_2		
+IFGJHFNK_02023	CDS			hypothetical protein
+IFGJHFNK_02023	gene			
+IFGJHFNK_02024	CDS			hypothetical protein
+IFGJHFNK_02024	gene			
+IFGJHFNK_02025	CDS			hypothetical protein
+IFGJHFNK_02025	gene			
+IFGJHFNK_02026	CDS		3.2.2.-	Putative 3-methyladenine DNA glycosylase
+IFGJHFNK_02026	gene			
+IFGJHFNK_02027	CDS			hypothetical protein
+IFGJHFNK_02027	gene			
+IFGJHFNK_02028	CDS	tldD_2	3.4.-.-	Zinc metalloprotease TldD 
+IFGJHFNK_02028	gene	tldD_2		
+IFGJHFNK_02029	CDS			hypothetical protein
+IFGJHFNK_02029	gene			
+IFGJHFNK_02030	CDS			hypothetical protein
+IFGJHFNK_02030	gene			
+IFGJHFNK_02031	CDS			hypothetical protein
+IFGJHFNK_02031	gene			
+IFGJHFNK_02032	CDS			hypothetical protein
+IFGJHFNK_02032	gene			
+IFGJHFNK_02033	CDS			hypothetical protein
+IFGJHFNK_02033	gene			
+IFGJHFNK_02034	CDS			hypothetical protein
+IFGJHFNK_02034	gene			
+IFGJHFNK_02035	CDS			hypothetical protein
+IFGJHFNK_02035	gene			
+IFGJHFNK_02036	CDS			hypothetical protein
+IFGJHFNK_02036	gene			
+IFGJHFNK_02037	CDS			hypothetical protein
+IFGJHFNK_02037	gene			
+IFGJHFNK_02038	CDS			hypothetical protein
+IFGJHFNK_02038	gene			
+IFGJHFNK_02039	CDS			hypothetical protein
+IFGJHFNK_02039	gene			
+IFGJHFNK_02040	CDS	atpE		V-type ATP synthase subunit E
+IFGJHFNK_02040	gene	atpE		
+IFGJHFNK_02041	CDS	petE_7		Plastocyanin
+IFGJHFNK_02041	gene	petE_7		
+IFGJHFNK_02042	CDS	uvrC		UvrABC system protein C
+IFGJHFNK_02042	gene	uvrC		
+IFGJHFNK_02043	CDS	uvrA_2		UvrABC system protein A
+IFGJHFNK_02043	gene	uvrA_2		
+IFGJHFNK_02044	CDS	uvrB_3		UvrABC system protein B
+IFGJHFNK_02044	gene	uvrB_3		
+IFGJHFNK_02045	CDS		3.4.21.62	Subtilisin-like serine protease
+IFGJHFNK_02045	gene			
+IFGJHFNK_02046	CDS			hypothetical protein
+IFGJHFNK_02046	gene			
+IFGJHFNK_02047	CDS			hypothetical protein
+IFGJHFNK_02047	gene			
+IFGJHFNK_02048	CDS			hypothetical protein
+IFGJHFNK_02048	gene			
+IFGJHFNK_02049	CDS	tfrA_2	1.3.4.1	Fumarate reductase (CoM/CoB) subunit A
+IFGJHFNK_02049	gene	tfrA_2		
+IFGJHFNK_02050	CDS	cyoE_2	2.5.1.-	Protoheme IX farnesyltransferase
+IFGJHFNK_02050	gene	cyoE_2		
+IFGJHFNK_02051	CDS			hypothetical protein
+IFGJHFNK_02051	gene			
+IFGJHFNK_02052	CDS	vat_2		VCP-like ATPase
+IFGJHFNK_02052	gene	vat_2		
+IFGJHFNK_02053	CDS	ef1b		Elongation factor 1-beta
+IFGJHFNK_02053	gene	ef1b		
+IFGJHFNK_02054	CDS		1.3.7.11	Digeranylgeranylglycerophospholipid reductase
+IFGJHFNK_02054	gene			
+IFGJHFNK_02055	CDS	pth_3	3.1.1.29	Peptidyl-tRNA hydrolase
+IFGJHFNK_02055	gene	pth_3		
+IFGJHFNK_02056	CDS	vgb_9	4.2.99.-	Virginiamycin B lyase
+IFGJHFNK_02056	gene	vgb_9		
+IFGJHFNK_02057	CDS	atpA	3.6.3.14	V-type ATP synthase alpha chain
+IFGJHFNK_02057	gene	atpA		
+IFGJHFNK_02058	CDS			hypothetical protein
+IFGJHFNK_02058	gene			
+IFGJHFNK_02059	CDS			hypothetical protein
+IFGJHFNK_02059	gene			
+IFGJHFNK_02060	CDS			hypothetical protein
+IFGJHFNK_02060	gene			
+IFGJHFNK_02061	CDS			hypothetical protein
+IFGJHFNK_02061	gene			
+IFGJHFNK_02062	CDS			hypothetical protein
+IFGJHFNK_02062	gene			
+IFGJHFNK_02063	CDS			hypothetical protein
+IFGJHFNK_02063	gene			
+IFGJHFNK_02064	CDS			hypothetical protein
+IFGJHFNK_02064	gene			
+IFGJHFNK_02065	CDS			hypothetical protein
+IFGJHFNK_02065	gene			
+IFGJHFNK_02066	CDS			hypothetical protein
+IFGJHFNK_02066	gene			
+IFGJHFNK_02067	CDS			hypothetical protein
+IFGJHFNK_02067	gene			
+IFGJHFNK_02068	CDS			hypothetical protein
+IFGJHFNK_02068	gene			
+IFGJHFNK_02069	CDS			hypothetical protein
+IFGJHFNK_02069	gene			
+IFGJHFNK_02070	CDS			hypothetical protein
+IFGJHFNK_02070	gene			
+IFGJHFNK_02071	CDS	norW_2	1.18.1.-	Nitric oxide reductase FlRd-NAD(+) reductase
+IFGJHFNK_02071	gene	norW_2		
+IFGJHFNK_02072	CDS	tpx	1.11.1.-	thiol peroxidase
+IFGJHFNK_02072	gene	tpx		
+IFGJHFNK_02073	CDS	pycB_2	6.4.1.1	Pyruvate carboxylase subunit B
+IFGJHFNK_02073	gene	pycB_2		
+IFGJHFNK_02074	CDS	pycA_3	6.4.1.1	Pyruvate carboxylase subunit A
+IFGJHFNK_02074	gene	pycA_3		
+IFGJHFNK_02075	CDS	accD	6.4.1.2	Acetyl-coenzyme A carboxylase carboxyl transferase subunit beta, chloroplastic
+IFGJHFNK_02075	gene	accD		
+IFGJHFNK_02076	CDS	ilvC_2	1.1.1.383	Ketol-acid reductoisomerase (NAD(P)(+))
+IFGJHFNK_02076	gene	ilvC_2		
+IFGJHFNK_02077	CDS	glmS_7	5.4.99.1	Glutamate mutase sigma subunit
+IFGJHFNK_02077	gene	glmS_7		
+IFGJHFNK_02078	CDS	ureG_5		Urease accessory protein UreG
+IFGJHFNK_02078	gene	ureG_5		
+IFGJHFNK_02079	CDS			hypothetical protein
+IFGJHFNK_02079	gene			
+IFGJHFNK_02080	CDS		5.1.99.1	Methylmalonyl-CoA epimerase
+IFGJHFNK_02080	gene			
+IFGJHFNK_02081	CDS	trpE_2	4.1.3.27	Anthranilate synthase component 1
+IFGJHFNK_02081	gene	trpE_2		
+IFGJHFNK_02082	CDS	trpG_2	4.1.3.27	Anthranilate synthase component 2
+IFGJHFNK_02082	gene	trpG_2		
+IFGJHFNK_02083	CDS	trpD_2	2.4.2.18	Anthranilate phosphoribosyltransferase
+IFGJHFNK_02083	gene	trpD_2		
+IFGJHFNK_02084	CDS	trpC_2	4.1.1.48	Indole-3-glycerol phosphate synthase
+IFGJHFNK_02084	gene	trpC_2		
+IFGJHFNK_02085	CDS	trpB1_3	4.2.1.20	Tryptophan synthase beta chain 1
+IFGJHFNK_02085	gene	trpB1_3		
+IFGJHFNK_02086	CDS			hypothetical protein
+IFGJHFNK_02086	gene			
+IFGJHFNK_02087	CDS			hypothetical protein
+IFGJHFNK_02087	gene			
+IFGJHFNK_02088	CDS			hypothetical protein
+IFGJHFNK_02088	gene			
+IFGJHFNK_02089	CDS			hypothetical protein
+IFGJHFNK_02089	gene			
+IFGJHFNK_02090	CDS			hypothetical protein
+IFGJHFNK_02090	gene			
+IFGJHFNK_02091	CDS			hypothetical protein
+IFGJHFNK_02091	gene			
+IFGJHFNK_02092	CDS			hypothetical protein
+IFGJHFNK_02092	gene			
+IFGJHFNK_02093	CDS			Putative nickel-responsive regulator
+IFGJHFNK_02093	gene			
+IFGJHFNK_02094	CDS	wtpC_2	3.6.3.-	Molybdate/tungstate import ATP-binding protein WtpC
+IFGJHFNK_02094	gene	wtpC_2		
+IFGJHFNK_02095	CDS	scpB_4		Segregation and condensation protein B
+IFGJHFNK_02095	gene	scpB_4		
+IFGJHFNK_02096	CDS	rps8e_4		30S ribosomal protein S8e
+IFGJHFNK_02096	gene	rps8e_4		
+IFGJHFNK_02097	CDS			hypothetical protein
+IFGJHFNK_02097	gene			
+IFGJHFNK_02098	CDS			hypothetical protein
+IFGJHFNK_02098	gene			
+IFGJHFNK_02099	CDS	tfb_9		Transcription initiation factor IIB
+IFGJHFNK_02099	gene	tfb_9		
+IFGJHFNK_02100	CDS	pyrD_2	1.3.-.-	Dihydroorotate dehydrogenase
+IFGJHFNK_02100	gene	pyrD_2		
+IFGJHFNK_02101	CDS	shyC_1	1.12.98.4	Sulfhydrogenase 2 subunit gamma
+IFGJHFNK_02101	gene	shyC_1		
+IFGJHFNK_02102	CDS			hypothetical protein
+IFGJHFNK_02102	gene			
+IFGJHFNK_02103	CDS			hypothetical protein
+IFGJHFNK_02103	gene			
+IFGJHFNK_02104	CDS			hypothetical protein
+IFGJHFNK_02104	gene			
+IFGJHFNK_02105	CDS	lhgO_3	1.1.3.15	L-2-hydroxyglutarate oxidase LhgO
+IFGJHFNK_02105	gene	lhgO_3		
+IFGJHFNK_02106	CDS			hypothetical protein
+IFGJHFNK_02106	gene			
+IFGJHFNK_02107	CDS			hypothetical protein
+IFGJHFNK_02107	gene			
+IFGJHFNK_02108	CDS			hypothetical protein
+IFGJHFNK_02108	gene			
+IFGJHFNK_02109	CDS			hypothetical protein
+IFGJHFNK_02109	gene			
+IFGJHFNK_02110	CDS			hypothetical protein
+IFGJHFNK_02110	gene			
+IFGJHFNK_02111	CDS	albA2_3		DNA/RNA-binding protein Alba 2
+IFGJHFNK_02111	gene	albA2_3		
+IFGJHFNK_02112	CDS	rpoK_2	2.7.7.6	DNA-directed RNA polymerase subunit K
+IFGJHFNK_02112	gene	rpoK_2		
+IFGJHFNK_02113	CDS			hypothetical protein
+IFGJHFNK_02113	gene			
+IFGJHFNK_02114	CDS			hypothetical protein
+IFGJHFNK_02114	gene			
+IFGJHFNK_02115	CDS			hypothetical protein
+IFGJHFNK_02115	gene			
+IFGJHFNK_02116	CDS			hypothetical protein
+IFGJHFNK_02116	gene			
+IFGJHFNK_02117	CDS			hypothetical protein
+IFGJHFNK_02117	gene			
+IFGJHFNK_02118	CDS	shyC_2	1.12.98.4	Sulfhydrogenase 2 subunit gamma
+IFGJHFNK_02118	gene	shyC_2		
+IFGJHFNK_02119	CDS	fbp_3	3.1.3.11	Fructose-1,6-bisphosphate aldolase/phosphatase
+IFGJHFNK_02119	gene	fbp_3		
+IFGJHFNK_02120	CDS			hypothetical protein
+IFGJHFNK_02120	gene			
+IFGJHFNK_02121	CDS			hypothetical protein
+IFGJHFNK_02121	gene			
+IFGJHFNK_02122	CDS			hypothetical protein
+IFGJHFNK_02122	gene			
+IFGJHFNK_02123	CDS	rhaD_6	1.1.1.377	L-rhamnose 1-dehydrogenase (NADP(+))
+IFGJHFNK_02123	gene	rhaD_6		
+IFGJHFNK_02124	CDS			hypothetical protein
+IFGJHFNK_02124	gene			
+IFGJHFNK_02125	CDS			hypothetical protein
+IFGJHFNK_02125	gene			
+IFGJHFNK_02126	CDS			hypothetical protein
+IFGJHFNK_02126	gene			
+IFGJHFNK_02127	CDS	acdBII	6.2.1.13	Acetate--CoA ligase [ADP-forming] II subunit beta
+IFGJHFNK_02127	gene	acdBII		
+IFGJHFNK_02128	tRNA			tRNA-His(gtg)
+IFGJHFNK_02128	gene			
+IFGJHFNK_02129	CDS	corA		Cobalt/magnesium transport protein CorA
+IFGJHFNK_02129	gene	corA		
+IFGJHFNK_02130	CDS			hypothetical protein
+IFGJHFNK_02130	gene			
+IFGJHFNK_02131	CDS	tal_1	2.2.1.2	putative transaldolase
+IFGJHFNK_02131	gene	tal_1		
+IFGJHFNK_02132	CDS	dxs_1	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+IFGJHFNK_02132	gene	dxs_1		
+IFGJHFNK_02133	CDS	dxs_2	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+IFGJHFNK_02133	gene	dxs_2		
+IFGJHFNK_02134	CDS	aroC_2	4.2.3.5	Chorismate synthase
+IFGJHFNK_02134	gene	aroC_2		
+IFGJHFNK_02135	CDS	mfnC_2	2.6.1.108	(5-formylfuran-3-yl)methyl phosphate transaminase
+IFGJHFNK_02135	gene	mfnC_2		
+IFGJHFNK_02136	CDS			hypothetical protein
+IFGJHFNK_02136	gene			
+IFGJHFNK_02137	CDS	nudI_2	3.6.1.23	Nucleoside triphosphatase NudI
+IFGJHFNK_02137	gene	nudI_2		
+IFGJHFNK_02138	CDS	thiC_2	4.1.99.17	Phosphomethylpyrimidine synthase
+IFGJHFNK_02138	gene	thiC_2		
+IFGJHFNK_02139	CDS			hypothetical protein
+IFGJHFNK_02139	gene			
+IFGJHFNK_02140	CDS	thiDN		Bifunctional thiamine biosynthesis protein ThiDN
+IFGJHFNK_02140	gene	thiDN		
+IFGJHFNK_02141	CDS	aglF	2.7.7.9	UTP--glucose-1-phosphate uridylyltransferase AglF
+IFGJHFNK_02141	gene	aglF		
+IFGJHFNK_02142	CDS			hypothetical protein
+IFGJHFNK_02142	gene			
+IFGJHFNK_02143	CDS			hypothetical protein
+IFGJHFNK_02143	gene			
+IFGJHFNK_02144	CDS			hypothetical protein
+IFGJHFNK_02144	gene			
+IFGJHFNK_02145	CDS			hypothetical protein
+IFGJHFNK_02145	gene			
+IFGJHFNK_02146	CDS			hypothetical protein
+IFGJHFNK_02146	gene			
+IFGJHFNK_02147	CDS	eIF1A		Translation initiation factor 1A
+IFGJHFNK_02147	gene	eIF1A		
+IFGJHFNK_02148	CDS			hypothetical protein
+IFGJHFNK_02148	gene			
+IFGJHFNK_02149	CDS	albA2_4		DNA/RNA-binding protein Alba 2
+IFGJHFNK_02149	gene	albA2_4		
+IFGJHFNK_02150	CDS			hypothetical protein
+IFGJHFNK_02150	gene			
+IFGJHFNK_02151	CDS			hypothetical protein
+IFGJHFNK_02151	gene			
+IFGJHFNK_02152	CDS	tfb_10		Transcription initiation factor IIB
+IFGJHFNK_02152	gene	tfb_10		
+IFGJHFNK_02153	CDS			hypothetical protein
+IFGJHFNK_02153	gene			
+IFGJHFNK_02154	CDS			hypothetical protein
+IFGJHFNK_02154	gene			
+IFGJHFNK_02155	CDS			hypothetical protein
+IFGJHFNK_02155	gene			
+IFGJHFNK_02156	CDS			hypothetical protein
+IFGJHFNK_02156	gene			
+IFGJHFNK_02157	CDS			hypothetical protein
+IFGJHFNK_02157	gene			
+IFGJHFNK_02158	CDS			hypothetical protein
+IFGJHFNK_02158	gene			
+IFGJHFNK_02159	CDS			hypothetical protein
+IFGJHFNK_02159	gene			
+IFGJHFNK_02160	CDS	aspC_2	2.6.1.1	Aspartate aminotransferase
+IFGJHFNK_02160	gene	aspC_2		
+IFGJHFNK_02161	CDS	acsA_4	6.2.1.1	Acetyl-coenzyme A synthetase
+IFGJHFNK_02161	gene	acsA_4		
+IFGJHFNK_02162	CDS			hypothetical protein
+IFGJHFNK_02162	gene			
+IFGJHFNK_02163	CDS	tfrA_3	1.3.4.1	Fumarate reductase (CoM/CoB) subunit A
+IFGJHFNK_02163	gene	tfrA_3		
+IFGJHFNK_02164	CDS			hypothetical protein
+IFGJHFNK_02164	gene			
+IFGJHFNK_02165	CDS			hypothetical protein
+IFGJHFNK_02165	gene			
+IFGJHFNK_02166	CDS	tfrB	1.3.4.1	Fumarate reductase (CoM/CoB) subunit B
+IFGJHFNK_02166	gene	tfrB		
+IFGJHFNK_02167	CDS			hypothetical protein
+IFGJHFNK_02167	gene			
+IFGJHFNK_02168	CDS			hypothetical protein
+IFGJHFNK_02168	gene			
+IFGJHFNK_02169	CDS			hypothetical protein
+IFGJHFNK_02169	gene			
+IFGJHFNK_02170	CDS			hypothetical protein
+IFGJHFNK_02170	gene			
+IFGJHFNK_02171	CDS			hypothetical protein
+IFGJHFNK_02171	gene			
+IFGJHFNK_02172	CDS	valS	6.1.1.9	Valine--tRNA ligase
+IFGJHFNK_02172	gene	valS		
+IFGJHFNK_02173	CDS	lysS_2	6.1.1.6	Lysine--tRNA ligase
+IFGJHFNK_02173	gene	lysS_2		
+IFGJHFNK_02174	CDS			hypothetical protein
+IFGJHFNK_02174	gene			
+IFGJHFNK_02175	CDS	fen_3	3.1.-.-	Flap endonuclease 1
+IFGJHFNK_02175	gene	fen_3		
+IFGJHFNK_02176	CDS			hypothetical protein
+IFGJHFNK_02176	gene			
+IFGJHFNK_02177	tRNA			tRNA-Ser(cga)
+IFGJHFNK_02177	gene			
+IFGJHFNK_02178	CDS	xerC_3		Tyrosine recombinase XerC
+IFGJHFNK_02178	gene	xerC_3		
+IFGJHFNK_02179	CDS			hypothetical protein
+IFGJHFNK_02179	gene			
+IFGJHFNK_02180	CDS			hypothetical protein
+IFGJHFNK_02180	gene			
+IFGJHFNK_02181	CDS	dxs_3	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
+IFGJHFNK_02181	gene	dxs_3		
+IFGJHFNK_02182	CDS	tal_2	2.2.1.2	putative transaldolase
+IFGJHFNK_02182	gene	tal_2		
+IFGJHFNK_02183	CDS			hypothetical protein
+IFGJHFNK_02183	gene			
+IFGJHFNK_02184	CDS	tbp_3		TATA-box-binding protein
+IFGJHFNK_02184	gene	tbp_3		
+IFGJHFNK_02185	CDS			hypothetical protein
+IFGJHFNK_02185	gene			
+IFGJHFNK_02186	CDS			hypothetical protein
+IFGJHFNK_02186	gene			
+IFGJHFNK_02187	CDS			hypothetical protein
+IFGJHFNK_02187	gene			
+IFGJHFNK_02188	CDS	dapH_1	2.3.1.89	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+IFGJHFNK_02188	gene	dapH_1		
+IFGJHFNK_02189	CDS			hypothetical protein
+IFGJHFNK_02189	gene			
+IFGJHFNK_02190	CDS		1.1.1.374	UDP-N-acetylglucosamine 3-dehydrogenase
+IFGJHFNK_02190	gene			
+IFGJHFNK_02191	CDS			hypothetical protein
+IFGJHFNK_02191	gene			
+IFGJHFNK_02192	CDS			hypothetical protein
+IFGJHFNK_02192	gene			
+IFGJHFNK_02193	CDS			hypothetical protein
+IFGJHFNK_02193	gene			
+IFGJHFNK_02194	CDS			hypothetical protein
+IFGJHFNK_02194	gene			
+IFGJHFNK_02195	CDS			hypothetical protein
+IFGJHFNK_02195	gene			
+IFGJHFNK_02196	CDS	aroC_3	4.2.3.5	Chorismate synthase
+IFGJHFNK_02196	gene	aroC_3		
+IFGJHFNK_02197	CDS	mfnC_3	2.6.1.108	(5-formylfuran-3-yl)methyl phosphate transaminase
+IFGJHFNK_02197	gene	mfnC_3		
+IFGJHFNK_02198	CDS			hypothetical protein
+IFGJHFNK_02198	gene			
+IFGJHFNK_02199	CDS	nudI_3	3.6.1.23	Nucleoside triphosphatase NudI
+IFGJHFNK_02199	gene	nudI_3		
+IFGJHFNK_02200	CDS	thiC_3	4.1.99.17	Phosphomethylpyrimidine synthase
+IFGJHFNK_02200	gene	thiC_3		
+IFGJHFNK_02201	CDS	cdvB2_4		Cell division protein B2
+IFGJHFNK_02201	gene	cdvB2_4		
+IFGJHFNK_02202	CDS	resA_4		Thiol-disulfide oxidoreductase ResA
+IFGJHFNK_02202	gene	resA_4		
+IFGJHFNK_02203	CDS			hypothetical protein
+IFGJHFNK_02203	gene			
+IFGJHFNK_02204	CDS			hypothetical protein
+IFGJHFNK_02204	gene			
+IFGJHFNK_02205	CDS	bioF_2	2.3.1.47	8-amino-7-oxononanoate synthase
+IFGJHFNK_02205	gene	bioF_2		
+IFGJHFNK_02206	CDS	rpoB1_2	2.7.7.6	DNA-directed RNA polymerase subunit B'
+IFGJHFNK_02206	gene	rpoB1_2		
+IFGJHFNK_02207	CDS			hypothetical protein
+IFGJHFNK_02207	gene			
+IFGJHFNK_02208	CDS			hypothetical protein
+IFGJHFNK_02208	gene			
+IFGJHFNK_02209	CDS			hypothetical protein
+IFGJHFNK_02209	gene			
+IFGJHFNK_02210	CDS	tdh_3	1.1.1.103	L-threonine 3-dehydrogenase
+IFGJHFNK_02210	gene	tdh_3		
+IFGJHFNK_02211	CDS			hypothetical protein
+IFGJHFNK_02211	gene			
+IFGJHFNK_02212	CDS	egsA	1.1.1.261	Glycerol-1-phosphate dehydrogenase [NAD(P)+]
+IFGJHFNK_02212	gene	egsA		
+IFGJHFNK_02213	CDS		5.2.1.8	Putative FKBP-type peptidyl-prolyl cis-trans isomerase
+IFGJHFNK_02213	gene			
+IFGJHFNK_02214	CDS	phnW	2.6.1.37	2-aminoethylphosphonate--pyruvate transaminase
+IFGJHFNK_02214	gene	phnW		
+IFGJHFNK_02215	CDS		2.7.7.1	Nicotinamide-nucleotide adenylyltransferase
+IFGJHFNK_02215	gene			
+IFGJHFNK_02216	CDS	sudA_4	1.8.1.19	Sulfide dehydrogenase subunit alpha
+IFGJHFNK_02216	gene	sudA_4		
+IFGJHFNK_02217	CDS			hypothetical protein
+IFGJHFNK_02217	gene			
+IFGJHFNK_02218	CDS			hypothetical protein
+IFGJHFNK_02218	gene			
+IFGJHFNK_02219	CDS	tusA_3	2.8.1.-	Sulfurtransferase TusA
+IFGJHFNK_02219	gene	tusA_3		
+IFGJHFNK_02220	CDS			hypothetical protein
+IFGJHFNK_02220	gene			
+IFGJHFNK_02221	CDS	cofE_5	6.3.2.31	Coenzyme F420:L-glutamate ligase
+IFGJHFNK_02221	gene	cofE_5		
+IFGJHFNK_02222	CDS		3.1.3.3	Phosphoserine phosphatase
+IFGJHFNK_02222	gene			
+IFGJHFNK_02223	CDS			hypothetical protein
+IFGJHFNK_02223	gene			
+IFGJHFNK_02224	CDS	mdh_3	1.1.1.299	Malate dehydrogenase
+IFGJHFNK_02224	gene	mdh_3		
+IFGJHFNK_02225	CDS	purE_3	5.4.99.18	N5-carboxyaminoimidazole ribonucleotide mutase
+IFGJHFNK_02225	gene	purE_3		
+IFGJHFNK_02226	CDS			hypothetical protein
+IFGJHFNK_02226	gene			
+IFGJHFNK_02227	CDS	ychF_4		Ribosome-binding ATPase YchF
+IFGJHFNK_02227	gene	ychF_4		
+IFGJHFNK_02228	CDS	tuf_6		Elongation factor 1-alpha
+IFGJHFNK_02228	gene	tuf_6		
+IFGJHFNK_02229	CDS			hypothetical protein
+IFGJHFNK_02229	gene			
+IFGJHFNK_02230	CDS			hypothetical protein
+IFGJHFNK_02230	gene			
+IFGJHFNK_02231	CDS	acsA_5	6.2.1.1	Acetyl-coenzyme A synthetase
+IFGJHFNK_02231	gene	acsA_5		
+IFGJHFNK_02232	CDS			hypothetical protein
+IFGJHFNK_02232	gene			
+IFGJHFNK_02233	CDS	fen_4	3.1.-.-	Flap endonuclease 1
+IFGJHFNK_02233	gene	fen_4		
+IFGJHFNK_02234	CDS	lysK_3	3.5.1.-	[LysW]-lysine/[LysW]-ornithine hydrolase
+IFGJHFNK_02234	gene	lysK_3		
+IFGJHFNK_02235	CDS	dphB_2	2.1.1.98	Diphthine synthase
+IFGJHFNK_02235	gene	dphB_2		
+IFGJHFNK_02236	CDS	ribL_3	2.7.7.2	FAD synthase
+IFGJHFNK_02236	gene	ribL_3		
+IFGJHFNK_02237	CDS			hypothetical protein
+IFGJHFNK_02237	gene			
+IFGJHFNK_02238	CDS			hypothetical protein
+IFGJHFNK_02238	gene			
+IFGJHFNK_02239	CDS			hypothetical protein
+IFGJHFNK_02239	gene			
+IFGJHFNK_02240	CDS			hypothetical protein
+IFGJHFNK_02240	gene			
+IFGJHFNK_02241	CDS			putative ribosome biogenesis protein
+IFGJHFNK_02241	gene			
+IFGJHFNK_02242	CDS			hypothetical protein
+IFGJHFNK_02242	gene			
+IFGJHFNK_02243	CDS			hypothetical protein
+IFGJHFNK_02243	gene			
+IFGJHFNK_02244	CDS	mtbC_2		Dimethylamine corrinoid protein
+IFGJHFNK_02244	gene	mtbC_2		
+IFGJHFNK_02245	CDS			hypothetical protein
+IFGJHFNK_02245	gene			
+IFGJHFNK_02246	CDS			hypothetical protein
+IFGJHFNK_02246	gene			
+IFGJHFNK_02247	CDS			hypothetical protein
+IFGJHFNK_02247	gene			
+IFGJHFNK_02248	CDS			hypothetical protein
+IFGJHFNK_02248	gene			
+IFGJHFNK_02249	CDS			hypothetical protein
+IFGJHFNK_02249	gene			
+IFGJHFNK_02250	CDS			hypothetical protein
+IFGJHFNK_02250	gene			
+IFGJHFNK_02251	CDS			hypothetical protein
+IFGJHFNK_02251	gene			
+IFGJHFNK_02252	CDS			hypothetical protein
+IFGJHFNK_02252	gene			
+IFGJHFNK_02253	CDS			hypothetical protein
+IFGJHFNK_02253	gene			
+IFGJHFNK_02254	CDS			hypothetical protein
+IFGJHFNK_02254	gene			
+IFGJHFNK_02255	CDS			hypothetical protein
+IFGJHFNK_02255	gene			
+IFGJHFNK_02256	CDS		3.6.4.12	ATP-dependent DNA helicase Hel308
+IFGJHFNK_02256	gene			
+IFGJHFNK_02257	CDS			hypothetical protein
+IFGJHFNK_02257	gene			
+IFGJHFNK_02258	CDS			hypothetical protein
+IFGJHFNK_02258	gene			
+IFGJHFNK_02259	CDS			hypothetical protein
+IFGJHFNK_02259	gene			
+IFGJHFNK_02260	CDS			hypothetical protein
+IFGJHFNK_02260	gene			
+IFGJHFNK_02261	CDS			hypothetical protein
+IFGJHFNK_02261	gene			
+IFGJHFNK_02262	CDS	ileS_3	6.1.1.5	Isoleucine--tRNA ligase
+IFGJHFNK_02262	gene	ileS_3		
+IFGJHFNK_02263	CDS			hypothetical protein
+IFGJHFNK_02263	gene			
+IFGJHFNK_02264	CDS			hypothetical protein
+IFGJHFNK_02264	gene			
+IFGJHFNK_02265	CDS		4.2.1.96	Putative pterin-4-alpha-carbinolamine dehydratase
+IFGJHFNK_02265	gene			
+IFGJHFNK_02266	CDS			hypothetical protein
+IFGJHFNK_02266	gene			
+IFGJHFNK_02267	CDS	atpF_2		V-type ATP synthase subunit F
+IFGJHFNK_02267	gene	atpF_2		
+IFGJHFNK_02268	CDS	tdh_4	1.1.1.103	L-threonine 3-dehydrogenase
+IFGJHFNK_02268	gene	tdh_4		
+IFGJHFNK_02269	CDS	rhaD_7	1.1.1.377	L-rhamnose 1-dehydrogenase (NADP(+))
+IFGJHFNK_02269	gene	rhaD_7		
+IFGJHFNK_02270	CDS	dbpA_2	3.6.4.13	ATP-dependent RNA helicase DbpA
+IFGJHFNK_02270	gene	dbpA_2		
+IFGJHFNK_02271	CDS			hypothetical protein
+IFGJHFNK_02271	gene			
+IFGJHFNK_02272	CDS			hypothetical protein
+IFGJHFNK_02272	gene			
+IFGJHFNK_02273	CDS			hypothetical protein
+IFGJHFNK_02273	gene			
+IFGJHFNK_02274	CDS			hypothetical protein
+IFGJHFNK_02274	gene			
+IFGJHFNK_02275	CDS			hypothetical protein
+IFGJHFNK_02275	gene			
+IFGJHFNK_02276	CDS			hypothetical protein
+IFGJHFNK_02276	gene			
+IFGJHFNK_02277	CDS			hypothetical protein
+IFGJHFNK_02277	gene			
+IFGJHFNK_02278	CDS			hypothetical protein
+IFGJHFNK_02278	gene			
+IFGJHFNK_02279	CDS			hypothetical protein
+IFGJHFNK_02279	gene			
+IFGJHFNK_02280	CDS			hypothetical protein
+IFGJHFNK_02280	gene			
+IFGJHFNK_02281	CDS			hypothetical protein
+IFGJHFNK_02281	gene			
+IFGJHFNK_02282	CDS			hypothetical protein
+IFGJHFNK_02282	gene			
+IFGJHFNK_02283	CDS		3.6.4.12	ATP-dependent DNA helicase Hel308
+IFGJHFNK_02283	gene			
+IFGJHFNK_02284	CDS			hypothetical protein
+IFGJHFNK_02284	gene			
+IFGJHFNK_02285	CDS			hypothetical protein
+IFGJHFNK_02285	gene			
+IFGJHFNK_02286	CDS			hypothetical protein
+IFGJHFNK_02286	gene			
+IFGJHFNK_02287	CDS	sod	1.15.1.1	Superoxide dismutase [Fe]
+IFGJHFNK_02287	gene	sod		
+IFGJHFNK_02288	CDS			hypothetical protein
+IFGJHFNK_02288	gene			
+IFGJHFNK_02289	CDS			hypothetical protein
+IFGJHFNK_02289	gene			
+IFGJHFNK_02290	CDS			hypothetical protein
+IFGJHFNK_02290	gene			
+IFGJHFNK_02291	CDS		3.6.5.-	GPN-loop GTPase
+IFGJHFNK_02291	gene			
+IFGJHFNK_02292	CDS	thrB_2	2.7.1.39	Homoserine kinase
+IFGJHFNK_02292	gene	thrB_2		
+IFGJHFNK_02293	CDS	queC_2	6.3.4.20	7-cyano-7-deazaguanine synthase
+IFGJHFNK_02293	gene	queC_2		
+IFGJHFNK_02294	CDS			hypothetical protein
+IFGJHFNK_02294	gene			
+IFGJHFNK_02295	CDS			hypothetical protein
+IFGJHFNK_02295	gene			
+IFGJHFNK_02296	CDS			hypothetical protein
+IFGJHFNK_02296	gene			
+IFGJHFNK_02297	CDS			hypothetical protein
+IFGJHFNK_02297	gene			
+IFGJHFNK_02298	CDS			hypothetical protein
+IFGJHFNK_02298	gene			
+IFGJHFNK_02299	CDS			hypothetical protein
+IFGJHFNK_02299	gene			
+IFGJHFNK_02300	CDS			hypothetical protein
+IFGJHFNK_02300	gene			
+IFGJHFNK_02301	CDS			hypothetical protein
+IFGJHFNK_02301	gene			
+IFGJHFNK_02302	CDS			hypothetical protein
+IFGJHFNK_02302	gene			
+IFGJHFNK_02303	CDS	tdh_5	1.1.1.103	L-threonine 3-dehydrogenase
+IFGJHFNK_02303	gene	tdh_5		
+IFGJHFNK_02304	CDS			hypothetical protein
+IFGJHFNK_02304	gene			
+IFGJHFNK_02305	CDS			hypothetical protein
+IFGJHFNK_02305	gene			
+IFGJHFNK_02306	CDS			hypothetical protein
+IFGJHFNK_02306	gene			
+IFGJHFNK_02307	CDS			hypothetical protein
+IFGJHFNK_02307	gene			
+IFGJHFNK_02308	CDS			hypothetical protein
+IFGJHFNK_02308	gene			
+IFGJHFNK_02309	CDS	map_3	3.4.11.18	Methionine aminopeptidase
+IFGJHFNK_02309	gene	map_3		
+IFGJHFNK_02310	CDS	mjaVM_2	2.1.1.113	Modification methylase MjaV
+IFGJHFNK_02310	gene	mjaVM_2		
+IFGJHFNK_02311	CDS	tatA_2		Sec-independent protein translocase protein TatA
+IFGJHFNK_02311	gene	tatA_2		
+IFGJHFNK_02312	CDS	ycaD		putative MFS-type transporter YcaD
+IFGJHFNK_02312	gene	ycaD		
+IFGJHFNK_02313	CDS	ubiE_2	2.1.1.163	Ubiquinone/menaquinone biosynthesis C-methyltransferase UbiE
+IFGJHFNK_02313	gene	ubiE_2		
+IFGJHFNK_02314	CDS	psmA_2	3.4.25.1	Proteasome subunit alpha
+IFGJHFNK_02314	gene	psmA_2		
+IFGJHFNK_02315	CDS	tfb_11		Transcription initiation factor IIB
+IFGJHFNK_02315	gene	tfb_11		
+IFGJHFNK_02316	CDS	gpt_3	2.4.2.22	Xanthine phosphoribosyltransferase
+IFGJHFNK_02316	gene	gpt_3		
+IFGJHFNK_02317	CDS			hypothetical protein
+IFGJHFNK_02317	gene			
+IFGJHFNK_02318	CDS	phaE_2	2.3.1.-	Poly(3-hydroxyalkanoate) polymerase subunit PhaE
+IFGJHFNK_02318	gene	phaE_2		
+IFGJHFNK_02319	CDS			hypothetical protein
+IFGJHFNK_02319	gene			
+IFGJHFNK_02320	CDS			hypothetical protein
+IFGJHFNK_02320	gene			
+IFGJHFNK_02321	CDS			hypothetical protein
+IFGJHFNK_02321	gene			
+IFGJHFNK_02322	CDS			hypothetical protein
+IFGJHFNK_02322	gene			
+IFGJHFNK_02323	CDS			hypothetical protein
+IFGJHFNK_02323	gene			
+IFGJHFNK_02324	CDS	argF_2	2.1.3.3	Ornithine carbamoyltransferase
+IFGJHFNK_02324	gene	argF_2		
+IFGJHFNK_02325	CDS			50S ribosomal protein L18
+IFGJHFNK_02325	gene			
+IFGJHFNK_02326	CDS	rps5_3		30S ribosomal protein S5
+IFGJHFNK_02326	gene	rps5_3		
+IFGJHFNK_02327	CDS			hypothetical protein
+IFGJHFNK_02327	gene			
+IFGJHFNK_02328	CDS	argF_3	2.1.3.3	Ornithine carbamoyltransferase
+IFGJHFNK_02328	gene	argF_3		
+IFGJHFNK_02329	CDS			50S ribosomal protein L18
+IFGJHFNK_02329	gene			
+IFGJHFNK_02330	CDS	rps5_4		30S ribosomal protein S5
+IFGJHFNK_02330	gene	rps5_4		
+IFGJHFNK_02331	CDS			hypothetical protein
+IFGJHFNK_02331	gene			
+IFGJHFNK_02332	CDS			hypothetical protein
+IFGJHFNK_02332	gene			
+IFGJHFNK_02333	CDS			hypothetical protein
+IFGJHFNK_02333	gene			
+IFGJHFNK_02334	CDS	leuA_4	2.3.3.13	2-isopropylmalate synthase
+IFGJHFNK_02334	gene	leuA_4		
+IFGJHFNK_02335	CDS			hypothetical protein
+IFGJHFNK_02335	gene			
+IFGJHFNK_02336	CDS	iolD_2	3.7.1.22	3D-(3,5/4)-trihydroxycyclohexane-1,2-dione hydrolase
+IFGJHFNK_02336	gene	iolD_2		
+IFGJHFNK_02337	CDS			hypothetical protein
+IFGJHFNK_02337	gene			
+IFGJHFNK_02338	CDS		1.1.1.374	UDP-N-acetylglucosamine 3-dehydrogenase
+IFGJHFNK_02338	gene			
+IFGJHFNK_02339	CDS			hypothetical protein
+IFGJHFNK_02339	gene			
+IFGJHFNK_02340	CDS	dapH_2	2.3.1.89	2,3,4,5-tetrahydropyridine-2,6-dicarboxylate N-acetyltransferase
+IFGJHFNK_02340	gene	dapH_2		
+IFGJHFNK_02341	CDS			hypothetical protein
+IFGJHFNK_02341	gene			
+IFGJHFNK_02342	CDS	mraY	2.7.8.13	Phospho-N-acetylmuramoyl-pentapeptide-transferase
+IFGJHFNK_02342	gene	mraY		
+IFGJHFNK_02343	CDS			hypothetical protein
+IFGJHFNK_02343	gene			
+IFGJHFNK_02344	CDS	hflX_2		GTPase HflX
+IFGJHFNK_02344	gene	hflX_2		
+IFGJHFNK_02345	CDS			hypothetical protein
+IFGJHFNK_02345	gene			
+IFGJHFNK_02346	CDS			hypothetical protein
+IFGJHFNK_02346	gene			
+IFGJHFNK_02347	CDS			hypothetical protein
+IFGJHFNK_02347	gene			
+IFGJHFNK_02348	CDS			hypothetical protein
+IFGJHFNK_02348	gene			
+IFGJHFNK_02349	CDS			hypothetical protein
+IFGJHFNK_02349	gene			
+IFGJHFNK_02350	CDS			hypothetical protein
+IFGJHFNK_02350	gene			
+IFGJHFNK_02351	CDS			hypothetical protein
+IFGJHFNK_02351	gene			
+IFGJHFNK_02352	CDS			hypothetical protein
+IFGJHFNK_02352	gene			
+IFGJHFNK_02353	CDS			50S ribosomal protein L11
+IFGJHFNK_02353	gene			
+IFGJHFNK_02354	CDS			hypothetical protein
+IFGJHFNK_02354	gene			
+IFGJHFNK_02355	CDS			hypothetical protein
+IFGJHFNK_02355	gene			
+IFGJHFNK_02356	CDS			hypothetical protein
+IFGJHFNK_02356	gene			
+IFGJHFNK_02357	CDS			hypothetical protein
+IFGJHFNK_02357	gene			
+IFGJHFNK_02358	CDS	ptr2_2		HTH-type transcriptional regulator Ptr2
+IFGJHFNK_02358	gene	ptr2_2		
+IFGJHFNK_02359	CDS	rpl1_4		50S ribosomal protein L1
+IFGJHFNK_02359	gene	rpl1_4		
+IFGJHFNK_02360	CDS			hypothetical protein
+IFGJHFNK_02360	gene			
+IFGJHFNK_02361	CDS	gyaR_5	1.1.1.26	Glyoxylate reductase
+IFGJHFNK_02361	gene	gyaR_5		
+IFGJHFNK_02362	CDS			hypothetical protein
+IFGJHFNK_02362	gene			
+IFGJHFNK_02363	CDS	malK_6	3.6.3.19	Trehalose/maltose import ATP-binding protein MalK
+IFGJHFNK_02363	gene	malK_6		
+IFGJHFNK_02364	CDS	trm5b	2.1.1.228	tRNA (guanine(37)-N1)-methyltransferase Trm5b
+IFGJHFNK_02364	gene	trm5b		
+IFGJHFNK_02365	CDS			hypothetical protein
+IFGJHFNK_02365	gene			
+IFGJHFNK_02366	CDS			hypothetical protein
+IFGJHFNK_02366	gene			
+IFGJHFNK_02367	CDS			hypothetical protein
+IFGJHFNK_02367	gene			
+IFGJHFNK_02368	CDS	cofG_2	2.5.1.77	FO synthase subunit 1
+IFGJHFNK_02368	gene	cofG_2		
+IFGJHFNK_02369	CDS	cofH_7	2.5.1.77	FO synthase subunit 2
+IFGJHFNK_02369	gene	cofH_7		
+IFGJHFNK_02370	CDS	tldD_3	3.4.-.-	Zinc metalloprotease TldD 
+IFGJHFNK_02370	gene	tldD_3		
+IFGJHFNK_02371	CDS	maX1_3		Sodium/calcium exchanger MaX1
+IFGJHFNK_02371	gene	maX1_3		
+IFGJHFNK_02372	CDS			hypothetical protein
+IFGJHFNK_02372	gene			
+IFGJHFNK_02373	CDS	thrS_3	6.1.1.3	Threonine--tRNA ligase
+IFGJHFNK_02373	gene	thrS_3		
+IFGJHFNK_02374	CDS		3.5.3.24	N(1)-aminopropylagmatine ureohydrolase
+IFGJHFNK_02374	gene			
+IFGJHFNK_02375	CDS		2.7.8.39	Archaetidylinositol phosphate synthase
+IFGJHFNK_02375	gene			
+IFGJHFNK_02376	CDS			hypothetical protein
+IFGJHFNK_02376	gene			
+IFGJHFNK_02377	CDS			hypothetical protein
+IFGJHFNK_02377	gene			
+IFGJHFNK_02378	CDS			hypothetical protein
+IFGJHFNK_02378	gene			
