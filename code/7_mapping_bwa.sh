@@ -4,7 +4,8 @@
 #SBATCH -p core
 #SBATCH -n 2
 #SBATCH -t 08:00:00
-#SBATCH -J BWA Thrash#SBATCH --mail-type=ALL
+#SBATCH -J BWA Thrash
+#SBATCH --mail-type=ALL
 #SBATCH --mail-user earthius@gmail.com
 
 # load modules

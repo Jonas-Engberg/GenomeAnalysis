@@ -13,5 +13,5 @@ module load bioinfo-tools
 module load FastQC/0.11.8
 
 # Your commands
-fastqc -f fastq -t 2 -o /home/joen8526/GenomeAnalysis/analyses/01_preprocessing/RNA_trimmed_2 /home/joen8526/GenomeAnalysis/data/trimmed_data_2/*.fastq.gz
+fastqc -f fastq -t 2 -o /home/joen8526/GenomeAnalysis/analyses/01_preprocessing/RNA_trimmed_3 /home/joen8526/GenomeAnalysis/data/trimmed_data_2/*.fastq.gz
 
