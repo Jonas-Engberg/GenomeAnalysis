@@ -4,7 +4,7 @@
 #SBATCH -p core
 #SBATCH -n 2
 #SBATCH -t 08:00:00
-#SBATCH -J BWA Thrash
+#SBATCH -J Phylogenetics_Thrash
 #SBATCH --mail-type=ALL
 #SBATCH --mail-user earthius@gmail.com
 # load all the necessary modules
@@ -15,7 +15,9 @@ module load FastTree
 module load usearch/5.2.32
 module load biopython
 module load muscle
+module load python/2.7.15
 
+#Specifying outputdir for phylophan
 outdir="~/GenomeAnalysis/analyses/8_phylophlan"
 mkdir -p $outdir/input/metagenome
 mkdir -p $outdir/output
@@ -37,4 +39,4 @@ done
 
 # Running Phylophlan
 cd $outdir
-phylophlan.py -nproc 2 -i -t metagenome
+phylophlan.py -t -t --nproc 2 metagenome
